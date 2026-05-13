@@ -1,0 +1,61 @@
+site_name: The Compendium
+site_url: https://ydhadix.github.io/the-compendium/
+repo_url: https://github.com/ydhadix/the-compendium
+repo_name: ydhadix/the-compendium
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Hero Handbook: hero-handbook.md
+  - Character Creation: character-creation.md
+  - Class Codex: class-codex.md
+  - Rules Rolodex: rules-rolodex.md
+  - Gear Glossary: gear-glossary.md
+  - Magic Items: magic-item-manual.md
+  - Spells:
+    - Overview: spells/index.md
+    - Cantrips: spells/cantrips.md
+    - Level 1: spells/level-1.md
+    - Level 2: spells/level-2.md
+    - Level 3: spells/level-3.md
+  - Spelljamming: spelljamming-schematics.md
+  - Bastions: bastion-blueprints.md
+  - Beast Master: beast-master-forms.md
