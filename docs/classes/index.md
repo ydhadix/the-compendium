@@ -1,0 +1,3 @@
+# Class Codex
+
+*This page hasn't been added yet.*
