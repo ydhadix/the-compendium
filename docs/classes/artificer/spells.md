@@ -1,125 +1,209 @@
 # Artificer Spells
 
-<!-- TODO: Each spell entry should eventually be converted to a collapsible ??? info block per the
-     template at docs/classes/_template/spells.md. The tables below are drawn from
-     raw/spell-selection.md and serve as an interim spell list. -->
-
 ## Cantrips
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| acid splash | evoc. | v, s | action | 60 ft. | 5-ft sphere | - |
-| blade ward | abj. | v, s | action | - | self | 1 minute (c) |
-| booming blade | evoc. | s, m ($) | action | reach | 1 thing | caster’s next eot |
-| dancing lights | illus. | v, s, m | action | 120 ft. | - | 1 minute (c) |
-| fire bolt | evoc. | v, s, m | action | 120 ft. | 1 thing | 1 minute |
-| frostbite | evoc. | v, s | action | 60 ft. | 1 thing | caster’s next eot |
-| greenflame blade | evoc. | s, m ($) | action | reach | 1 thing | - |
-| guidance | div. | v, s | action | reach | 1 creature | 1 minute (c) |
-| light | evoc. | v, m | action | reach | 1 object | 1 hour |
-| lightning lure | evoc. | v | action | 30 ft. | 1 thing | - |
-| mage hand | conj. | v, s | action | 30 ft. | - | 1 minute |
-| magic stone | trans. | v, s | bonus | reach | 3 stones | 1 minute |
-| mending | trans. | v, s, m | 1 minute | reach | 1 object | - |
-| message | trans. | s, m | action | 120 ft. | 1 thing | - |
-| poison spray | necr. | v, s | action | 30 ft. | 1 thing | - |
-| prestidigitation | trans. | v, s | action | 10 ft. | special | 1 hour |
-| produce flame | conj. | v, s | action | 60 ft. | special | 10 minutes |
-| ray of frost | evoc. | v, s, m | action | 60 ft. | 1 thing | caster’s next eot |
-| resistance | abj. | v, s | action | reach | 1 creature | 1 minute (c) |
-| shocking grasp | evoc. | v, s | action | reach | 1 thing | target’s next eot |
-| spare the dying | necr. | v, s | action | 15 ft. | 1 creature | - |
-| sword burst | conj. | v, s | action | - | 5 ft. aura | - |
-| thorn whip | trans. | v, s, m | action | reach + 25 ft. | 1 thing | - |
-| thunderclap | trans. | s | action | - | 5 ft. aura | - |
-| true strike | div. | s, m ($) | action | special | 1 thing | - |
+--8<-- "spellcasting/_spells/level-0/acid-splash.md"
 
-## 1st Level
+--8<-- "spellcasting/_spells/level-0/blade-ward.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| absorb elements | abj. | s | reaction | - | self | caster’s next eot |
-| acid arrow | evoc. | v, s, m | action | 90 ft. | 1 thing | - |
-| air bubble | conj. | s | action | 60 ft. | 1 creature | 24 hours |
-| alarm | abj. | v, s, m | 1 min (r) | 30 ft. | special | 8 hours |
-| catapult | trans. | s | action | 60 ft. | special | - |
-| caustic brew | evoc. | v, s, m | action | - | 5 × 30 ft. line | 1 minute (c) |
-| color spray | illus. | v, s, m | action | reach | 15 ft. cone | caster’s next eot |
-| continual flame | evoc. | v, s, m ($c) | action | reach | 1 object | until dispelled |
-| create or destroy water | trans. | v, s, m | action | 30 ft. | special | - |
-| cure wounds | abj. | v, s | action | reach | 1 creature | - |
-| darkvision | trans. | v, s, m | action | reach | 1 creature | 8 hours |
-| detect magic | div. | v, s | action (r) | 30 ft. | self | 10 minutes (c) |
-| disguise self | illus. | v, s | action | - | self | 1 hour |
-| expeditious retreat | trans. | v, s | bonus | - | self | 10 minutes (c) |
-| faerie fire | evoc. | v | action | 60 ft. | 20 ft. cube | 1 minute (c) |
-| false life | necr. | v, s, m | action | - | self | - |
-| feather fall | trans. | v, m | reaction | 60 ft. | 5 creatures | 1 minute |
-| find familiar | conj. | v, s, m ($c) | 1 hour (r) | 10 ft. | - | - |
-| floating disk | conj. | v, s, m | action (r) | 30 ft. | - | 1 hour |
-| fog cloud | conj. | v, s | action | 120 ft. | 20 ft. sphere | 1 hour (c) |
-| grease | conj. | v, s, m | action | 60 ft. | 10 ft. square | 1 minute |
-| identify | div. | v, s, m ($) | 1 min (r) | reach | 1 thing | - |
-| jump | trans. | v, s, m | bonus | reach | 1 creature | 1 minute |
-| longstrider | trans. | v, s, m | action | reach | 1 creature | 1 hour |
-| magnify gravity | trans. | v, s | action | 60 ft. | 10 ft. sphere | caster’s next eot |
-| purify food & drink | trans. | v, s | action (r) | 10 ft. | 5 ft. sphere | - |
-| sanctuary | abj. | v, s, m | bonus | 30 ft. | 1 creature | 1 minute |
-| shield | abj. | v, s | reaction | - | self | caster’s next eot |
-| skywrite | trans. | v, s | action (r) | sight | - | 1 hour (c) |
-| snare | abj | s, m ($c) | action (r) | reach | special | 8 hours |
-| spray of cards | conj. | v, s, m | action | reach | 15 ft. cone | caster’s next eot |
-| thunderwave | evoc. | v, s | action | reach | 15 ft. cube | - |
-| wristpocket | conj. | s | action (r) | reach | 1 object | 1 hour (c) |
+--8<-- "spellcasting/_spells/level-0/booming-blade.md"
 
-## 2nd Level
+--8<-- "spellcasting/_spells/level-0/dancing-lights.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| aid | abj. | v, s, m | action | 30 ft. | 3 creatures | 8 hours |
-| alter self | trans. | v, s | action | - | self | 1 hour (c) |
-| arcane lock | abj. | v, s, m ($c) | action | reach | special | until dispelled |
-| blur | illus. | v | action | - | self | 1 minute (c) |
-| cloud of daggers | conj. | v, s, m | action | 60 ft. | 5 ft. cube | 1 minute (c) |
-| enhance ability | trans. | v, s, m | action | reach | 1 creature | 1 hour (c) |
-| enlarge/reduce | trans. | v, s, m | action | 30 ft. | 1 thing | 1 minute (c) |
-| heat metal | trans. | v, s, m | action | 60 ft. | 1 object | 1 minute (c) |
-| immovable object | trans. | v, s, m ($c) | action | reach | 1 object | 1 hour |
-| kinetic jaunt | trans. | s | bonus | - | self | 1 minute (c) |
-| knock | trans. | v | action | 60 ft. | 1 object | - |
-| lesser invisibility | illus. | v, s, m | action | reach | 1 thing | 1 hour (c) |
-| lesser restoration | abj. | v, s | bonus | reach | 1 creature | - |
-| levitate | trans. | v, s, m | action | 60 ft. | 1 thing | 10 minutes (c) |
-| locate object | div. | v, s, m | action | 1000 ft. | special | 10 minutes (c) |
-| magic aura | illus. | v, s, m | action | reach | 1 thing | 24 hours |
-| magic weapon | trans. | v, s | bonus | reach | 1 weapon | 1 hour |
-| protection from poison | abj. | v, s | action | reach | 1 creature | 1 hour |
-| pyrotechnics | trans. | v, s | action | 60 ft. | 20 ft. sphere | - |
-| rope trick | trans. | v, s, m | action | reach | - | 1 hour |
-| see invisibility | div. | v, s, m | action | - | self | 1 hour |
-| shatter | evoc. | v, s, m | action | 60 ft. | 10 ft. sphere | - |
-| spider climb | trans. | v, s, m | action | reach | 1 creature | 1 hour (c) |
-| vortex warp | conj. | v, s | action | 90 ft. | 1 thing | - |
-| web | conj. | v, s, m | action | 60 ft. | 20 ft. cube | 1 hour (c) |
+--8<-- "spellcasting/_spells/level-0/fire-bolt.md"
 
-## 3rd Level
+--8<-- "spellcasting/_spells/level-0/frostbite.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| blink | trans. | v, s | action | - | self | 1 minute |
-| conjure constructs | conj. | v, s, m | action | 60 ft. | 5 ft. sphere | 10 minutes (c) |
-| create food and water | conj. | v, s | action | 30 ft. | - | - |
-| dispel magic | abj. | v, s | action | 120 ft. | 1 thing | - |
-| elemental weapon | trans. | v, s | action | reach | 1 weapon | 1 hour (c) |
-| flame arrows | trans. | v, s | action | reach | 1 quiver | 1 hour (c) |
-| fly | trans. | v, s, m | action | reach | 1 creature | 10 minutes (c) |
-| haste | trans. | v, s, m | action | 30 ft. | 1 creature | 1 minute (c) |
-| protection from energy | abj. | v, s | action | reach | 1 thing | 1 hour (c) |
-| remove curse | abj. | v, s | action | reach | 1 thing | - |
-| revivify | necr. | v, s, m ($c) | action | reach | 1 corpse | - |
-| scorching stride | trans. | v, s | bonus | - | self | 1 minute (c) |
-| sending | div. | v, s, m | action | ∞ | 1 creature | - |
-| slow | trans. | v, s, m | action | 120 ft. | 6 creatures | 1 minute (c) |
-| tiny servant | trans. | v, s | 1 minute | reach | 1 tiny object | 8 hours |
-| water breathing | trans. | v, s, m | action (r) | 30 ft. | 10 creatures | 24 hours |
-| water walk | trans. | v, s, m | action (r) | 30 ft. | 10 creatures | 1 hour |
+--8<-- "spellcasting/_spells/level-0/greenflame-blade.md"
+
+--8<-- "spellcasting/_spells/level-0/guidance.md"
+
+--8<-- "spellcasting/_spells/level-0/light.md"
+
+--8<-- "spellcasting/_spells/level-0/lightning-lure.md"
+
+--8<-- "spellcasting/_spells/level-0/mage-hand.md"
+
+--8<-- "spellcasting/_spells/level-0/magic-stone.md"
+
+--8<-- "spellcasting/_spells/level-0/mending.md"
+
+--8<-- "spellcasting/_spells/level-0/message.md"
+
+--8<-- "spellcasting/_spells/level-0/poison-spray.md"
+
+--8<-- "spellcasting/_spells/level-0/prestidigitation.md"
+
+--8<-- "spellcasting/_spells/level-0/produce-flame.md"
+
+--8<-- "spellcasting/_spells/level-0/ray-of-frost.md"
+
+--8<-- "spellcasting/_spells/level-0/resistance.md"
+
+--8<-- "spellcasting/_spells/level-0/shocking-grasp.md"
+
+--8<-- "spellcasting/_spells/level-0/spare-the-dying.md"
+
+--8<-- "spellcasting/_spells/level-0/sword-burst.md"
+
+--8<-- "spellcasting/_spells/level-0/thorn-whip.md"
+
+--8<-- "spellcasting/_spells/level-0/thunderclap.md"
+
+--8<-- "spellcasting/_spells/level-0/true-strike.md"
+
+## 1st-Level
+
+--8<-- "spellcasting/_spells/level-1/absorb-elements.md"
+
+--8<-- "spellcasting/_spells/level-1/acid-arrow.md"
+
+--8<-- "spellcasting/_spells/level-1/air-bubble.md"
+
+--8<-- "spellcasting/_spells/level-1/alarm.md"
+
+--8<-- "spellcasting/_spells/level-1/catapult.md"
+
+--8<-- "spellcasting/_spells/level-1/caustic-brew.md"
+
+--8<-- "spellcasting/_spells/level-1/color-spray.md"
+
+--8<-- "spellcasting/_spells/level-1/continual-flame.md"
+
+--8<-- "spellcasting/_spells/level-1/create-or-destroy-water.md"
+
+--8<-- "spellcasting/_spells/level-1/cure-wounds.md"
+
+--8<-- "spellcasting/_spells/level-1/darkvision.md"
+
+--8<-- "spellcasting/_spells/level-1/detect-magic.md"
+
+--8<-- "spellcasting/_spells/level-1/disguise-self.md"
+
+--8<-- "spellcasting/_spells/level-1/expeditious-retreat.md"
+
+--8<-- "spellcasting/_spells/level-1/faerie-fire.md"
+
+--8<-- "spellcasting/_spells/level-1/false-life.md"
+
+--8<-- "spellcasting/_spells/level-1/feather-fall.md"
+
+--8<-- "spellcasting/_spells/level-1/find-familiar.md"
+
+--8<-- "spellcasting/_spells/level-1/floating-disk.md"
+
+--8<-- "spellcasting/_spells/level-1/fog-cloud.md"
+
+--8<-- "spellcasting/_spells/level-1/grease.md"
+
+--8<-- "spellcasting/_spells/level-1/identify.md"
+
+--8<-- "spellcasting/_spells/level-1/jump.md"
+
+--8<-- "spellcasting/_spells/level-1/longstrider.md"
+
+--8<-- "spellcasting/_spells/level-1/magnify-gravity.md"
+
+--8<-- "spellcasting/_spells/level-1/purify-food-and-drink.md"
+
+--8<-- "spellcasting/_spells/level-1/sanctuary.md"
+
+--8<-- "spellcasting/_spells/level-1/shield.md"
+
+--8<-- "spellcasting/_spells/level-1/skywrite.md"
+
+--8<-- "spellcasting/_spells/level-1/snare.md"
+
+--8<-- "spellcasting/_spells/level-1/spray-of-cards.md"
+
+--8<-- "spellcasting/_spells/level-1/thunderwave.md"
+
+--8<-- "spellcasting/_spells/level-1/wristpocket.md"
+
+## 2nd-Level
+
+--8<-- "spellcasting/_spells/level-2/aid.md"
+
+--8<-- "spellcasting/_spells/level-2/alter-self.md"
+
+--8<-- "spellcasting/_spells/level-2/arcane-lock.md"
+
+--8<-- "spellcasting/_spells/level-2/blur.md"
+
+--8<-- "spellcasting/_spells/level-2/cloud-of-daggers.md"
+
+--8<-- "spellcasting/_spells/level-2/enhance-ability.md"
+
+--8<-- "spellcasting/_spells/level-2/enlarge-reduce.md"
+
+--8<-- "spellcasting/_spells/level-2/heat-metal.md"
+
+--8<-- "spellcasting/_spells/level-2/immovable-object.md"
+
+--8<-- "spellcasting/_spells/level-2/kinetic-jaunt.md"
+
+--8<-- "spellcasting/_spells/level-2/knock.md"
+
+--8<-- "spellcasting/_spells/level-2/lesser-invisibility.md"
+
+--8<-- "spellcasting/_spells/level-2/lesser-restoration.md"
+
+--8<-- "spellcasting/_spells/level-2/levitate.md"
+
+--8<-- "spellcasting/_spells/level-2/locate-object.md"
+
+--8<-- "spellcasting/_spells/level-2/magic-aura.md"
+
+--8<-- "spellcasting/_spells/level-2/magic-weapon.md"
+
+--8<-- "spellcasting/_spells/level-2/protection-from-poison.md"
+
+--8<-- "spellcasting/_spells/level-2/pyrotechnics.md"
+
+--8<-- "spellcasting/_spells/level-2/rope-trick.md"
+
+--8<-- "spellcasting/_spells/level-2/see-invisibility.md"
+
+--8<-- "spellcasting/_spells/level-2/shatter.md"
+
+--8<-- "spellcasting/_spells/level-2/spider-climb.md"
+
+--8<-- "spellcasting/_spells/level-2/vortex-warp.md"
+
+--8<-- "spellcasting/_spells/level-2/web.md"
+
+## 3rd-Level
+
+--8<-- "spellcasting/_spells/level-3/blink.md"
+
+--8<-- "spellcasting/_spells/level-3/conjure-constructs.md"
+
+--8<-- "spellcasting/_spells/level-3/create-food-and-water.md"
+
+--8<-- "spellcasting/_spells/level-3/dispel-magic.md"
+
+--8<-- "spellcasting/_spells/level-3/elemental-weapon.md"
+
+--8<-- "spellcasting/_spells/level-3/flame-arrows.md"
+
+--8<-- "spellcasting/_spells/level-3/fly.md"
+
+--8<-- "spellcasting/_spells/level-3/haste.md"
+
+--8<-- "spellcasting/_spells/level-3/intellect-fortress.md"
+
+--8<-- "spellcasting/_spells/level-3/protection-from-energy.md"
+
+--8<-- "spellcasting/_spells/level-3/remove-curse.md"
+
+--8<-- "spellcasting/_spells/level-3/revivify.md"
+
+--8<-- "spellcasting/_spells/level-3/scorching-stride.md"
+
+--8<-- "spellcasting/_spells/level-3/sending.md"
+
+--8<-- "spellcasting/_spells/level-3/tiny-servant.md"
+
+--8<-- "spellcasting/_spells/level-3/water-breathing.md"
+
+--8<-- "spellcasting/_spells/level-3/water-walk.md"

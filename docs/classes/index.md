@@ -3,13 +3,13 @@
 Your class reflects your specialized training and defines how you interact with the world as an adventurer.  Each class also has subclasses that further enhance your capabilities.
 
 ## Leveling Up
-When you gain a level, choose one of your classes to gain that level in, or you can choose a secondary class if you don't have one yet.  You gain the chosen class’s corresponding features.
+When you gain a level, choose one of your classes to gain that level in, or you can choose a secondary class if you don't have one yet.  You gain the chosen class’s corresponding features for that level.
 
 ### Hit Dice and Hit Points
 When you gain a level in a class, you gain one of that class’s hit dice.  Add that hit die’s maximum plus your Constitution to your hit point maximum.
 
 ### Primary Class
-The class you choose at level 1 is your Primary Class.  When you gain your first level in your primary class, you gain the chosen class's starting equipment and primary proficiencies.
+The class you choose at level 1 is your Primary Class.  When you gain your first level in your primary class, you gain that class's starting equipment and primary proficiencies, choose a class ability (if needed), then increase that class ability by 1.
 
 ### Secondary Class
 You can take levels in two classes.  When you gain your first level in your secondary class, you gain the chosen class’s secondary proficiencies.

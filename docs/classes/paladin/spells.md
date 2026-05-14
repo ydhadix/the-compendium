@@ -1,36 +1,79 @@
 # Paladin Spells
 
-<!-- TODO: Each spell entry should eventually be converted to a collapsible ??? info block per the
-     template at docs/classes/_template/spells.md. The tables below are drawn from
-     raw/spell-selection.md and serve as an interim spell list. -->
+## 1st-Level
 
-## 1st Level
+--8<-- "spellcasting/_spells/level-1/bless.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| bless | ench. | v, s, m ($) | action | 30 ft. | 3 creatures | 1 minute (c) |
-| command | ench. | v | action | 60 ft. | 1 creature | target's next eot |
-| compelled duel | ench. | v | bonus | 30 ft. | 1 creature | 1 minute (c) |
-| cure wounds | abj. | v, s | action | reach | 1 creature | - |
-| detect good & evil | div. | v, s | action | 30 ft. | self | 10 minutes (c) |
-| detect magic | div. | v, s | action (r) | 30 ft. | self | 10 minutes (c) |
-| detect poison & disease | div. | v, s, m | action (r) | 30 ft. | self | 10 minutes (c) |
-| divine favor | trans. | v, s | bonus | - | self | 1 minute |
-| divine smite | evoc. | v | free | - | 1 thing | - |
-| heroism | ench. | v, s | action | reach | 1 creature | 1 minute (c) |
-| protection from good & evil | abj. | v, s, m ($c) | action | reach | 1 creature | 10 minutes (c) |
-| purify food & drink | trans. | v, s | action (r) | 10 ft. | 5 ft. sphere | - |
-| sanctuary | abj. | v, s, m | bonus | 30 ft. | 1 creature | 1 minute |
-| searing smite | evoc. | v | bonus | - | 1 thing | 1 minute |
-| shield of faith | abj. | v, s, m | bonus | 60 ft. | 1 creature | 10 minutes (c) |
-| thunderous smite | evoc. | v | bonus | - | 1 thing | - |
-| wardaway | abj. | v, s, m | action | 60 ft. | 1 thing | caster's next eot |
-| wrathful smite | necr. | v | bonus | - | 1 thing | 1 minute |
+--8<-- "spellcasting/_spells/level-1/command.md"
 
-## 2nd Level
+--8<-- "spellcasting/_spells/level-1/compelled-duel.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-1/cure-wounds.md"
 
-## 3rd Level
+--8<-- "spellcasting/_spells/level-1/detect-good-and-evil.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-1/detect-magic.md"
+
+--8<-- "spellcasting/_spells/level-1/detect-poison-and-disease.md"
+
+--8<-- "spellcasting/_spells/level-1/divine-favor.md"
+
+--8<-- "spellcasting/_spells/level-1/divine-smite.md"
+
+--8<-- "spellcasting/_spells/level-1/heroism.md"
+
+--8<-- "spellcasting/_spells/level-1/protection-from-good-and-evil.md"
+
+--8<-- "spellcasting/_spells/level-1/purify-food-and-drink.md"
+
+--8<-- "spellcasting/_spells/level-1/sanctuary.md"
+
+--8<-- "spellcasting/_spells/level-1/searing-smite.md"
+
+--8<-- "spellcasting/_spells/level-1/shield-of-faith.md"
+
+--8<-- "spellcasting/_spells/level-1/thunderous-smite.md"
+
+--8<-- "spellcasting/_spells/level-1/wardaway.md"
+
+--8<-- "spellcasting/_spells/level-1/wrathful-smite.md"
+
+## 2nd-Level
+
+--8<-- "spellcasting/_spells/level-2/aid.md"
+
+--8<-- "spellcasting/_spells/level-2/gentle-repose.md"
+
+--8<-- "spellcasting/_spells/level-2/lesser-restoration.md"
+
+--8<-- "spellcasting/_spells/level-2/locate-object.md"
+
+--8<-- "spellcasting/_spells/level-2/magic-weapon.md"
+
+--8<-- "spellcasting/_spells/level-2/prayer-of-healing.md"
+
+--8<-- "spellcasting/_spells/level-2/protection-from-poison.md"
+
+--8<-- "spellcasting/_spells/level-2/warding-bond.md"
+
+--8<-- "spellcasting/_spells/level-2/zone-of-truth.md"
+
+## 3rd-Level
+
+--8<-- "spellcasting/_spells/level-3/aura-of-vitality.md"
+
+--8<-- "spellcasting/_spells/level-3/create-food-and-water.md"
+
+--8<-- "spellcasting/_spells/level-3/daylight.md"
+
+--8<-- "spellcasting/_spells/level-3/dispel-magic.md"
+
+--8<-- "spellcasting/_spells/level-3/elemental-weapon.md"
+
+--8<-- "spellcasting/_spells/level-3/locate-creature.md"
+
+--8<-- "spellcasting/_spells/level-3/remove-curse.md"
+
+--8<-- "spellcasting/_spells/level-3/revivify.md"
+
+--8<-- "spellcasting/_spells/level-3/spirit-shroud.md"

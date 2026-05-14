@@ -188,13 +188,13 @@ nav:
 
   - Spell Selection:
     - Spellcasting: spellcasting/index.md
-    - Cantrips:     spellcasting/level-0/index.md
-    - 1st-Level:    spellcasting/level-1/index.md
-    - 2nd-Level:    spellcasting/level-2/index.md
-    - 3rd-Level:    spellcasting/level-3/index.md
-    - 4th-Level:    spellcasting/level-4/index.md
-    - 5th-Level:    spellcasting/level-5/index.md
-    - 6th-Level:    spellcasting/level-6/index.md
+    - Cantrips:     spellcasting/level-0.md
+    - 1st-Level:    spellcasting/level-1.md
+    - 2nd-Level:    spellcasting/level-2.md
+    - 3rd-Level:    spellcasting/level-3.md
+    - 4th-Level:    spellcasting/level-4.md
+    - 5th-Level:    spellcasting/level-5.md
+    - 6th-Level:    spellcasting/level-6.md
 
   - Infusion Index:
     - Magic Items: magic-items/index.md

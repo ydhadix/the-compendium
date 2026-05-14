@@ -1,74 +1,151 @@
 # Warlock Spells
 
-<!-- TODO: Each spell entry should eventually be converted to a collapsible ??? info block per the
-     template at docs/classes/_template/spells.md. The tables below are drawn from
-     raw/spell-selection.md and serve as an interim spell list. -->
-
 ## Cantrips
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| blade ward | abj. | v, s | action | - | self | 1 minute (c) |
-| booming blade | evoc. | s, m ($) | action | reach | 1 thing | caster's next eot |
-| chill touch | necr. | v, s | action | reach | 1 thing | caster's next eot |
-| eldritch blast | evoc. | v, s | action | 120 ft. | 1+ thing(s) | - |
-| friends | ench. | s, m | action | 10 ft. | 1 humanoid | 1 minute (c) |
-| frostbite | evoc. | v, s | action | 60 ft. | 1 thing | caster's next eot |
-| greenflame blade | evoc. | s, m ($) | action | reach | 1 thing | - |
-| infestation | conj. | v, s, m | action | 30 ft. | 1 thing | - |
-| lightning lure | evoc. | v | action | 30 ft. | 1 thing | - |
-| mage hand | conj. | v, s | action | 30 ft. | - | 1 minute |
-| magic stone | trans. | v, s | bonus | reach | 3 stones | 1 minute |
-| mind sliver | ench. | v | action | 60 ft. | 1 thing | caster's next eot |
-| minor illusion | illus. | s, m | action | 30 ft. | - | 1 minute |
-| poison spray | necr. | v, s | action | 30 ft. | 1 thing | - |
-| prestidigitation | trans. | v, s | action | 10 ft. | special | 1 hour |
-| produce flame | conj. | v, s | action | 60 ft. | special | 10 minutes |
-| sapping sting | necr. | v, s | action | 30 ft. | 1 thing | - |
-| sword burst | conj. | v, s | action | - | 5 ft. aura | - |
-| thunderclap | trans. | s | action | - | 5 ft. aura | - |
-| toll the dead | necr. | v, s | action | 60 ft. | 1 thing | - |
-| true strike | div. | s, m ($) | action | special | 1 thing | - |
+--8<-- "spellcasting/_spells/level-0/blade-ward.md"
 
-## 1st Level
+--8<-- "spellcasting/_spells/level-0/booming-blade.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| armor of agathys | abj. | v, s, m | bonus | - | self | 1 hour |
-| arms of hadar | conj. | v, s | action | - | 10 ft. aura | target's next eot |
-| bane | ench. | v, s, m | action | 30 ft. | 3 creatures | 1 minute (c) |
-| cause fear | ench. | v | action | 60 ft. | 1 creature | 1 minute (c) |
-| charm person | ench. | v, s | action | 30 ft. | 1 humanoid | 1 hour |
-| comprehend languages | div. | v, s, m | action (r) | - | self | 1 hour |
-| detect magic | div. | v, s | action (r) | 30 ft. | self | 10 minutes (c) |
-| earthbind | trans. | v | action | 300 ft. | 1 creature | 1 minute (c) |
-| expeditious retreat | trans. | v, s | bonus | - | self | 10 minutes (c) |
-| hellish rebuke | evoc. | v, s, m | reaction | 60 ft. | 1 thing | - |
-| hex | ench. | v | bonus | 90 ft. | 1 creature | 1 hour (c) |
-| hideous laughter | ench. | v, s, m | action | 30 ft. | 1 creature | 1 minute (c) |
-| illusory script | illus. | s, m ($c) | 1 min (r) | reach | a surface | 10 days |
-| magnify gravity | trans. | v, s | action | 60 ft. | 10 ft. sphere | caster's next eot |
-| protection from good & evil | abj. | v, s, m ($c) | action | reach | 1 creature | 10 minutes (c) |
-| speak with animals | div. | v, s | action (r) | - | self | 10 minutes |
-| unseen servant | conj. | v, s, m | action (r) | 60 ft. | - | 1 hour |
-| witch bolt | evoc. | v, s, m | action | 60 ft. | 1 thing | 1 minute (c) |
+--8<-- "spellcasting/_spells/level-0/chill-touch.md"
 
-## 2nd Level
+--8<-- "spellcasting/_spells/level-0/eldritch-blast.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-0/friends.md"
 
-## 3rd Level
+--8<-- "spellcasting/_spells/level-0/frostbite.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-0/greenflame-blade.md"
 
-## 4th Level
+--8<-- "spellcasting/_spells/level-0/infestation.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-0/lightning-lure.md"
 
-## 5th Level
+--8<-- "spellcasting/_spells/level-0/mage-hand.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-0/magic-stone.md"
 
-## 6th Level
+--8<-- "spellcasting/_spells/level-0/mind-sliver.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-0/minor-illusion.md"
+
+--8<-- "spellcasting/_spells/level-0/poison-spray.md"
+
+--8<-- "spellcasting/_spells/level-0/prestidigitation.md"
+
+--8<-- "spellcasting/_spells/level-0/produce-flame.md"
+
+--8<-- "spellcasting/_spells/level-0/sapping-sting.md"
+
+--8<-- "spellcasting/_spells/level-0/sword-burst.md"
+
+--8<-- "spellcasting/_spells/level-0/thunderclap.md"
+
+--8<-- "spellcasting/_spells/level-0/toll-the-dead.md"
+
+--8<-- "spellcasting/_spells/level-0/true-strike.md"
+
+## 1st-Level
+
+--8<-- "spellcasting/_spells/level-1/armor-of-agathys.md"
+
+--8<-- "spellcasting/_spells/level-1/arms-of-hadar.md"
+
+--8<-- "spellcasting/_spells/level-1/bane.md"
+
+--8<-- "spellcasting/_spells/level-1/cause-fear.md"
+
+--8<-- "spellcasting/_spells/level-1/charm-person.md"
+
+--8<-- "spellcasting/_spells/level-1/comprehend-languages.md"
+
+--8<-- "spellcasting/_spells/level-1/detect-magic.md"
+
+--8<-- "spellcasting/_spells/level-1/earthbind.md"
+
+--8<-- "spellcasting/_spells/level-1/expeditious-retreat.md"
+
+--8<-- "spellcasting/_spells/level-1/hellish-rebuke.md"
+
+--8<-- "spellcasting/_spells/level-1/hex.md"
+
+--8<-- "spellcasting/_spells/level-1/hideous-laughter.md"
+
+--8<-- "spellcasting/_spells/level-1/illusory-script.md"
+
+--8<-- "spellcasting/_spells/level-1/magnify-gravity.md"
+
+--8<-- "spellcasting/_spells/level-1/protection-from-good-and-evil.md"
+
+--8<-- "spellcasting/_spells/level-1/speak-with-animals.md"
+
+--8<-- "spellcasting/_spells/level-1/unseen-servant.md"
+
+--8<-- "spellcasting/_spells/level-1/witch-bolt.md"
+
+## 2nd-Level
+
+--8<-- "spellcasting/_spells/level-2/borrowed-knowledge.md"
+
+--8<-- "spellcasting/_spells/level-2/cloud-of-daggers.md"
+
+--8<-- "spellcasting/_spells/level-2/crown-of-madness.md"
+
+--8<-- "spellcasting/_spells/level-2/darkness.md"
+
+--8<-- "spellcasting/_spells/level-2/death-armor.md"
+
+--8<-- "spellcasting/_spells/level-2/hold-person.md"
+
+--8<-- "spellcasting/_spells/level-2/lesser-invisibility.md"
+
+--8<-- "spellcasting/_spells/level-2/mind-spike.md"
+
+--8<-- "spellcasting/_spells/level-2/mirror-image.md"
+
+--8<-- "spellcasting/_spells/level-2/misty-step.md"
+
+--8<-- "spellcasting/_spells/level-2/ray-of-enfeeblement.md"
+
+--8<-- "spellcasting/_spells/level-2/shadow-blade.md"
+
+--8<-- "spellcasting/_spells/level-2/spider-climb.md"
+
+--8<-- "spellcasting/_spells/level-2/suggestion.md"
+
+--8<-- "spellcasting/_spells/level-2/wither-and-bloom.md"
+
+## 3rd-Level
+
+--8<-- "spellcasting/_spells/level-3/antagonize.md"
+
+--8<-- "spellcasting/_spells/level-3/counterspell.md"
+
+--8<-- "spellcasting/_spells/level-3/dispel-magic.md"
+
+--8<-- "spellcasting/_spells/level-3/enemies-abound.md"
+
+--8<-- "spellcasting/_spells/level-3/fear.md"
+
+--8<-- "spellcasting/_spells/level-3/fly.md"
+
+--8<-- "spellcasting/_spells/level-3/gaseous-form.md"
+
+--8<-- "spellcasting/_spells/level-3/hypnotic-pattern.md"
+
+--8<-- "spellcasting/_spells/level-3/intellect-fortress.md"
+
+--8<-- "spellcasting/_spells/level-3/major-image.md"
+
+--8<-- "spellcasting/_spells/level-3/remove-curse.md"
+
+--8<-- "spellcasting/_spells/level-3/spirit-shroud.md"
+
+--8<-- "spellcasting/_spells/level-3/summon-fey.md"
+
+--8<-- "spellcasting/_spells/level-3/summon-undead.md"
+
+--8<-- "spellcasting/_spells/level-3/thunder-step.md"
+
+--8<-- "spellcasting/_spells/level-3/tongues.md"
+
+--8<-- "spellcasting/_spells/level-3/vampiric-touch.md"

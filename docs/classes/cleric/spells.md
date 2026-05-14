@@ -1,105 +1,147 @@
 # Cleric Spells
 
-<!-- TODO: Each spell entry should eventually be converted to a collapsible ??? info block per the
-     template at docs/classes/_template/spells.md. The tables below are drawn from
-     raw/spell-selection.md and serve as an interim spell list. -->
-
 ## Cantrips
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| guidance | div. | v, s | action | reach | 1 creature | 1 minute (c) |
-| light | evoc. | v, m | action | reach | 1 object | 1 hour |
-| mending | trans. | v, s, m | 1 minute | reach | 1 object | - |
-| resistance | abj. | v, s | action | reach | 1 creature | 1 minute (c) |
-| sacred flame | evoc. | v, s | action | 60 ft. | 1 thing | - |
-| spare the dying | necr. | v, s | action | 15 ft. | 1 creature | - |
-| starry wisp | evoc. | v, s | action | 60 ft. | 1 thing | caster’s next eot |
-| thaumaturgy | trans. | v | action | 30 ft. | special | 1 minute |
-| toll the dead | necr. | v, s | action | 60 ft. | 1 thing | - |
-| word of radiance | evoc. | v, m | action | - | 5 ft. aura | - |
+--8<-- "spellcasting/_spells/level-0/guidance.md"
 
-## 1st Level
+--8<-- "spellcasting/_spells/level-0/light.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| bane | ench. | v, s, m | action | 30 ft. | 3 creatures | 1 minute (c) |
-| bless | ench. | v, s, m ($) | action | 30 ft. | 3 creatures | 1 minute (c) |
-| command | ench. | v | action | 60 ft. | 1 creature | target’s next eot |
-| compelled duel | ench. | v | bonus | 30 ft. | 1 creature | 1 minute (c) |
-| continual flame | evoc. | v, s, m ($c) | action | reach | 1 object | until dispelled |
-| create or destroy water | trans. | v, s, m | action | 30 ft. | special | - |
-| cure wounds | abj. | v, s | action | reach | 1 creature | - |
-| detect good & evil | div. | v, s | action | 30 ft. | self | 10 minutes (c) |
-| detect magic | div. | v, s | action (r) | 30 ft. | self | 10 minutes (c) |
-| detect poison & disease | div. | v, s, m | action (r) | 30 ft. | self | 10 minutes (c) |
-| detect traps | div. | v, s, m | action | 30 ft. | self | 10 minutes (c) |
-| divine favor | trans. | v, s | bonus | - | self | 1 minute |
-| guiding bolt | evoc. | v, s | action | 120 ft. | 1 thing | caster’s next eot |
-| healing word | abj. | v | bonus | 60 ft. | 1 creature | - |
-| heroism | ench. | v, s | action | reach | 1 creature | 1 minute (c) |
-| inflict wounds | necr. | v, s | action | reach | 1 thing | - |
-| protection from good & evil | abj. | v, s, m ($c) | action | reach | 1 creature | 10 minutes (c) |
-| purify food & drink | trans. | v, s | action (r) | 10 ft. | 5 ft. sphere | - |
-| sanctuary | abj. | v, s, m | bonus | 30 ft. | 1 creature | 1 minute |
-| shield of faith | abj. | v, s, m | bonus | 60 ft. | 1 creature | 10 minutes (c) |
-| wardaway | abj. | v, s, m | action | 60 ft. | 1 thing | caster’s next eot |
+--8<-- "spellcasting/_spells/level-0/mending.md"
 
-## 2nd Level
+--8<-- "spellcasting/_spells/level-0/resistance.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| aid | abj. | v, s, m | action | 30 ft. | 3 creatures | 8 hours |
-| blindness/deafness | trans. | v | action | 120 ft. | 1 creature | 1 minute |
-| borrowed knowledge | div. | v, s, m ($) | action | - | self | 1 hour |
-| calm emotions | ench. | v, s | action | 60 ft. | 20 ft. sphere | 1 minute (c) |
-| enhance ability | trans. | v, s, m | action | reach | 1 creature | 1 hour (c) |
-| gentle repose | necr. | v, s, m ($c) | action (r) | reach | 1 corpse | 10 days |
-| hold person | ench. | v, s, m | action | 60 ft. | 1 humanoid | 1 minute (c) |
-| lesser restoration | abj. | v, s | bonus | reach | 1 creature | - |
-| locate object | div. | v, s, m | action | 1000 ft. | special | 10 minutes (c) |
-| prayer of healing | abj. | v | 10 min | 30 ft. | 5 creatures | - |
-| protection from poison | abj. | v, s | action | reach | 1 creature | 1 hour |
-| silence | illus. | v, s | action (r) | 120 ft. | 20 ft. sphere | 10 minutes (c) |
-| spiritual weapon | evoc. | v, s | bonus | 60 ft. | - | 1 minute (c) |
-| warding bond | abj. | v, s, m ($) | action | reach | 1 creature | 1 hour |
-| zone of truth | ench. | v, s | action | 60 ft. | 15 ft. sphere | 10 minutes |
+--8<-- "spellcasting/_spells/level-0/sacred-flame.md"
 
-## 3rd Level
+--8<-- "spellcasting/_spells/level-0/spare-the-dying.md"
 
-| Name | School | Comp. | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| animate dead | necr. | v, s, m | 1 minute | 10 ft. | special | 24 hours |
-| aura of vitality | abj. | v | action | - | 30 ft. aura | 1 minute (c) |
-| beacon of hope | abj. | v, s | action | 30 ft. | any | 1 minute (c) |
-| bestow curse | necr. | v, s | action | reach | 1 creature | 1 minute (c) |
-| clairvoyance | div. | v, s, m ($) | 10 min. | 1 mile | - | 10 minutes (c) |
-| create food and water | conj. | v, s | action | 30 ft. | - | - |
-| daylight | evoc. | v, s | action | 60 ft. | 60 ft. sphere | 1 hour |
-| dispel magic | abj. | v, s | action | 120 ft. | 1 thing | - |
-| feign death | necr. | v, s, m | action (r) | reach | 1 creature | 1 hour |
-| locate creature | div. | v, s, m | action | 1000 ft. | special | 1 hour (c) |
-| mass healing word | abj. | v | bonus | 60 ft. | 6 creatures | - |
-| meld into stone | trans. | v, s | action (r) | reach | special | 8 hours |
-| protection from energy | abj. | v, s | action | reach | 1 thing | 1 hour (c) |
-| remove curse | abj. | v, s | action | reach | 1 thing | - |
-| revivify | necr. | v, s, m ($c) | action | reach | 1 corpse | - |
-| sending | div. | v, s, m | action | ∞ | 1 creature | - |
-| silver lance | evoc. | v, s, m ($) | action | - | 5×120 ft. line | - |
-| speak with dead | necr. | v, s, m | action | 10 ft. | 1 corpse | 10 minutes |
-| spirit guardians | conj. | v, s, m | action | - | 15 ft. aura | 10 minutes (c) |
-| spirit shroud | necr. | v, s | bonus | - | 10 ft. aura | 1 minute (c) |
-| tongues | div. | v, m | action | reach | 1 creature | 1 hour |
-| water walk | trans. | v, s, m | action (r) | 30 ft. | 10 creatures | 1 hour |
+--8<-- "spellcasting/_spells/level-0/starry-wisp.md"
 
-## 4th Level
+--8<-- "spellcasting/_spells/level-0/thaumaturgy.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-0/toll-the-dead.md"
 
-## 5th Level
+--8<-- "spellcasting/_spells/level-0/word-of-radiance.md"
 
-*Not yet written.*
+## 1st-Level
 
-## 6th Level
+--8<-- "spellcasting/_spells/level-1/bane.md"
 
-*Not yet written.*
+--8<-- "spellcasting/_spells/level-1/bless.md"
+
+--8<-- "spellcasting/_spells/level-1/command.md"
+
+--8<-- "spellcasting/_spells/level-1/compelled-duel.md"
+
+--8<-- "spellcasting/_spells/level-1/continual-flame.md"
+
+--8<-- "spellcasting/_spells/level-1/create-or-destroy-water.md"
+
+--8<-- "spellcasting/_spells/level-1/cure-wounds.md"
+
+--8<-- "spellcasting/_spells/level-1/detect-good-and-evil.md"
+
+--8<-- "spellcasting/_spells/level-1/detect-magic.md"
+
+--8<-- "spellcasting/_spells/level-1/detect-poison-and-disease.md"
+
+--8<-- "spellcasting/_spells/level-1/detect-traps.md"
+
+--8<-- "spellcasting/_spells/level-1/divine-favor.md"
+
+--8<-- "spellcasting/_spells/level-1/guiding-bolt.md"
+
+--8<-- "spellcasting/_spells/level-1/healing-word.md"
+
+--8<-- "spellcasting/_spells/level-1/heroism.md"
+
+--8<-- "spellcasting/_spells/level-1/inflict-wounds.md"
+
+--8<-- "spellcasting/_spells/level-1/protection-from-good-and-evil.md"
+
+--8<-- "spellcasting/_spells/level-1/purify-food-and-drink.md"
+
+--8<-- "spellcasting/_spells/level-1/sanctuary.md"
+
+--8<-- "spellcasting/_spells/level-1/shield-of-faith.md"
+
+--8<-- "spellcasting/_spells/level-1/wardaway.md"
+
+## 2nd-Level
+
+--8<-- "spellcasting/_spells/level-2/aid.md"
+
+--8<-- "spellcasting/_spells/level-2/blindness-deafness.md"
+
+--8<-- "spellcasting/_spells/level-2/borrowed-knowledge.md"
+
+--8<-- "spellcasting/_spells/level-2/calm-emotions.md"
+
+--8<-- "spellcasting/_spells/level-2/enhance-ability.md"
+
+--8<-- "spellcasting/_spells/level-2/gentle-repose.md"
+
+--8<-- "spellcasting/_spells/level-2/hold-person.md"
+
+--8<-- "spellcasting/_spells/level-2/lesser-restoration.md"
+
+--8<-- "spellcasting/_spells/level-2/locate-object.md"
+
+--8<-- "spellcasting/_spells/level-2/prayer-of-healing.md"
+
+--8<-- "spellcasting/_spells/level-2/protection-from-poison.md"
+
+--8<-- "spellcasting/_spells/level-2/silence.md"
+
+--8<-- "spellcasting/_spells/level-2/spiritual-weapon.md"
+
+--8<-- "spellcasting/_spells/level-2/warding-bond.md"
+
+--8<-- "spellcasting/_spells/level-2/zone-of-truth.md"
+
+## 3rd-Level
+
+--8<-- "spellcasting/_spells/level-3/animate-dead.md"
+
+--8<-- "spellcasting/_spells/level-3/aura-of-vitality.md"
+
+--8<-- "spellcasting/_spells/level-3/beacon-of-hope.md"
+
+--8<-- "spellcasting/_spells/level-3/bestow-curse.md"
+
+--8<-- "spellcasting/_spells/level-3/clairvoyance.md"
+
+--8<-- "spellcasting/_spells/level-3/create-food-and-water.md"
+
+--8<-- "spellcasting/_spells/level-3/daylight.md"
+
+--8<-- "spellcasting/_spells/level-3/dispel-magic.md"
+
+--8<-- "spellcasting/_spells/level-3/feign-death.md"
+
+--8<-- "spellcasting/_spells/level-3/life-transference.md"
+
+--8<-- "spellcasting/_spells/level-3/locate-creature.md"
+
+--8<-- "spellcasting/_spells/level-3/mass-healing-word.md"
+
+--8<-- "spellcasting/_spells/level-3/meld-into-stone.md"
+
+--8<-- "spellcasting/_spells/level-3/protection-from-energy.md"
+
+--8<-- "spellcasting/_spells/level-3/remove-curse.md"
+
+--8<-- "spellcasting/_spells/level-3/revivify.md"
+
+--8<-- "spellcasting/_spells/level-3/sending.md"
+
+--8<-- "spellcasting/_spells/level-3/silver-lance.md"
+
+--8<-- "spellcasting/_spells/level-3/speak-with-dead.md"
+
+--8<-- "spellcasting/_spells/level-3/spirit-guardians.md"
+
+--8<-- "spellcasting/_spells/level-3/spirit-shroud.md"
+
+--8<-- "spellcasting/_spells/level-3/tongues.md"
+
+--8<-- "spellcasting/_spells/level-3/water-walk.md"
