@@ -9,6 +9,8 @@
 
 # [Class Name]
 
+*[Flavor description of this class.]*
+
 --8<-- "classes/[class]/_features/table.md"
 
 --8<-- "classes/[class]/_features/overview.md"

@@ -101,6 +101,11 @@ nav:
       - Subclasses:
         - Armorer:      classes/artificer/armorer.md
         - Cartographer: classes/artificer/cartographer.md
+    - Cleric:
+      - Features:       classes/cleric/index.md
+      - Spells:         classes/cleric/spells.md
+      - Subclasses:
+        - Arcana:       classes/cleric/arcana.md
     # TODO: populate the other 12 classes here,
     # and generate stubs for their file structures in classes/
 
