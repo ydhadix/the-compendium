@@ -49,7 +49,6 @@ nav:
   - Home: index.md
 
   - Rules Rolodex:
-    - rules/index.md
     - Abilities:                rules/abilities.md
     - Actions:                  rules/actions.md
     - Advantage & Disadvantage: rules/advantage-disadvantage.md
@@ -60,20 +59,12 @@ nav:
     - Conditions:               rules/conditions.md
     - Cover:                    rules/cover.md
     - Creature Types:           rules/creature-types.md
-    - D20 Rolls:
-      - rules/d20-rolls/index.md
-      - Ability Checks:         rules/d20-rolls/ability-checks.md
-      - Attack Rolls:           rules/d20-rolls/attack-rolls.md
-      - Saving Throws:          rules/d20-rolls/saving-throws.md
+    - D20 Rolls:                rules/d20-rolls.md
     - Damage Types:             rules/damage-types.md
     - Initiative:               rules/initiative.md
     - Languages:                rules/languages.md
     - Movement:                 rules/movement.md
-    - Proficiency:
-      - rules/proficiency/index.md
-      - Skills:                 rules/proficiency/skills.md
-      - Saving Throws:          rules/proficiency/saving-throws.md
-      - Weapons & Armor:        rules/proficiency/weapons-armor.md
+    - Proficiency:              rules/proficiency.md
     - Resting:                  rules/resting.md
     - Sight:                    rules/sight.md
     - Size Categories:          rules/size-categories.md
@@ -81,8 +72,7 @@ nav:
 
   - Hero Handbook:
     - Character Creation: characters/creation.md
-    - Race:
-      - characters/races/index.md
+    - Races:
       - Aasimar:    characters/races/aasimar.md
       - Dragonborn: characters/races/dragonborn.md
       - Dwarf:      characters/races/dwarf.md
@@ -94,66 +84,56 @@ nav:
       - Prime:      characters/races/prime.md
       - Synth:      characters/races/synth.md
       - Tiefling:   characters/races/tiefling.md
-    - Background:   characters/background.md
+    - Backgrounds:  characters/background.md
     - Feats:
-      - characters/feats/index.md
-      - Origin:                  characters/feats/origin.md
-      - Racial:                  characters/feats/racial.md
-      - Fighting Style:          characters/feats/fighting-style.md
-      - Advanced Fighting Style: characters/feats/advanced-fighting-style.md
-      - General:                 characters/feats/general.md
-      - Dragonmark Boons:        characters/feats/dragonmark-boons.md
+      - Origin Feats:             characters/feats/origin.md
+      - Racial Feats:             characters/feats/racial.md
+      - Fighting Styles:          characters/feats/fighting-style.md
+      - General Feats:            characters/feats/general.md
+      - Dragonmark Boons:         characters/feats/dragonmarks.md
 
   - Class Codex:
-    - classes/index.md
+    - Overview:         classes/index.md
     - Artificer:
-      - classes/artificer/index.md
+      - Features:       classes/artificer/index.md
       - Spells:         classes/artificer/spells.md
       - Infusions:      classes/artificer/infusions.md
       - Subclasses:
-        - classes/artificer/subclasses/index.md
         - Armorer:      classes/artificer/armorer.md
         - Cartographer: classes/artificer/cartographer.md
     # TODO: populate the other 12 classes here,
     # and generate stubs for their file structures in classes/
 
   - Equipment Encyclopedia:
-    - equipment/index.md
     - Crafting:
-      - equipment/crafting/index.md
+      - Requirements:        equipment/crafting/rules.md
       - Materials:           equipment/crafting/materials.md
       - Masterwork:          equipment/crafting/masterwork.md
     - Weapons:
-      - equipment/weapons/index.md
-      - Categories:          equipment/weapons/categories.md
+      - Weapon Types:        equipment/weapons/types.md
       - Properties:          equipment/weapons/properties.md
       - Mastery:             equipment/weapons/mastery.md
-      - Example Weapons:     equipment/weapons/examples.md
     - Armor:
-      - equipment/armor/index.md
-      - Categories:          equipment/armor/categories.md
-    - Adventuring Gear:
-      - equipment/gear/index.md
-      - Equipment Packs:     equipment/gear/packs.md
+      - Armor Types:         equipment/armor/types.md
+      - Shields:             equipment/armor/shields.md
+    - Adventuring Gear:      equipment/gear.md
+    - Equipment Packs:       equipment/packs.md
     - Trades:
-      - equipment/trades/index.md
       - Gaming Sets:         equipment/trades/gaming-sets.md
       - Musical Instruments: equipment/trades/musical-instruments.md
       - Artisan's Tools:     equipment/trades/artisans-tools.md
 
   - Spell Selection:
-    - spells/index.md
-    - Spellcasting: spells/index.md
-    - Cantrips:     spells/cantrips.md
-    - 1st-Level:    spells/level-1.md
-    - 2nd-Level:    spells/level-2.md
-    - 3rd-Level:    spells/level-3.md
-    - 4th-Level:    spells/level-4.md
-    - 5th-Level:    spells/level-5.md
-    - 6th-Level:    spells/level-6.md
+    - Spellcasting: spellcasting/index.md
+    - Cantrips:     spellcasting/level-0/index.md
+    - 1st-Level:    spellcasting/level-1/index.md
+    - 2nd-Level:    spellcasting/level-2/index.md
+    - 3rd-Level:    spellcasting/level-3/index.md
+    - 4th-Level:    spellcasting/level-4/index.md
+    - 5th-Level:    spellcasting/level-5/index.md
+    - 6th-Level:    spellcasting/level-6/index.md
 
-  - Magic Item Manual:
-    - magic-items/index.md
+  - Infusion Index:
     - Magic Items: magic-items/index.md
     - Crafting:    magic-items/crafting.md
     - Common:      magic-items/common.md
@@ -164,21 +144,19 @@ nav:
     - Artifacts:   magic-items/artifacts.md
 
   - Bastion Blueprints:
-    - bastions/index.md
     - Bastions:           bastions/index.md
     - Facilities:         bastions/facilities.md
     - Special Facilities: bastions/special-facilities.md
 
   - Spelljamming Schematics:
-    - spelljamming/index.md
     - Ship Combat:                spelljamming/index.md
-    - Officer Roles:
-      - spelljamming/officers/index.md
+    - Officers:
+      - Overview:                 spelljamming/officers/index.md
       - Pilot:                    spelljamming/officers/pilot.md
       - Quartermaster:            spelljamming/officers/quartermaster.md
       - Spelljammer:              spelljamming/officers/spelljammer.md
     - Ship Components:
-      - spelljamming/components/index.md
+      - Overview:                 spelljamming/components/index.md
       - Pilot Components:         spelljamming/components/pilot.md
       - Quartermaster Components: spelljamming/components/quartermaster.md
       - Spelljamming Helms:       spelljamming/components/helms.md
