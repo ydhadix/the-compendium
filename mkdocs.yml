@@ -24,11 +24,16 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
+
+exclude_docs: |
+  **/_*/**
+
+not_in_nav: |
+  **/subclasses/index.md
 
 plugins:
   - search
@@ -95,19 +100,72 @@ nav:
   - Class Codex:
     - Overview:         classes/index.md
     - Artificer:
-      - Features:       classes/artificer/index.md
+      - Description:    classes/artificer/index.md
       - Spells:         classes/artificer/spells.md
       - Infusions:      classes/artificer/infusions.md
       - Subclasses:
         - Armorer:      classes/artificer/armorer.md
         - Cartographer: classes/artificer/cartographer.md
+    - Barbarian:
+      - Description:    classes/barbarian/index.md
+      # - Subclasses:
+      #   - Berserker:    classes/barbarian/berserker.md
+    - Bard:
+      - Description:    classes/bard/index.md
+      - Spells:         classes/bard/spells.md
+      # - Subclasses:
+      #   - Lore:         classes/bard/lore.md
     - Cleric:
-      - Features:       classes/cleric/index.md
+      - Description:    classes/cleric/index.md
       - Spells:         classes/cleric/spells.md
       - Subclasses:
         - Arcana:       classes/cleric/arcana.md
-    # TODO: populate the other 12 classes here,
-    # and generate stubs for their file structures in classes/
+    - Druid:
+      - Description:    classes/druid/index.md
+      - Spells:         classes/druid/spells.md
+      # - Subclasses:
+      #   - Moon:         classes/druid/moon.md
+    - Fighter:
+      - Description:    classes/fighter/index.md
+      - Subclasses:
+        - Eldritch Knight: classes/fighter/eldritch-knight.md
+    - Monk:
+      - Description:    classes/monk/index.md
+      # - Subclasses:
+      #   - Open Hand:    classes/monk/open-hand.md
+    - Paladin:
+      - Description:    classes/paladin/index.md
+      - Spells:         classes/paladin/spells.md
+      # - Subclasses:
+      #   - Devotion:     classes/paladin/devotion.md
+    - Ranger:
+      - Description:    classes/ranger/index.md
+      - Spells:         classes/ranger/spells.md
+      - Imprints:       classes/ranger/imprints.md
+      - Subclasses:
+        - Beast Master: classes/ranger/beast-master.md
+    - Rogue:
+      - Description:    classes/rogue/index.md
+      # - Subclasses:
+      #   - Assassin:     classes/rogue/assassin.md
+    - Sorcerer:
+      - Description:    classes/sorcerer/index.md
+      - Spells:         classes/sorcerer/spells.md
+      - Metamagic:      classes/sorcerer/metamagic.md
+      # - Subclasses:
+      #   - Clockwork Soul: classes/sorcerer/clockwork-soul.md
+    - Warlock:
+      - Description:    classes/warlock/index.md
+      - Spells:         classes/warlock/spells.md
+      - Invocations:    classes/warlock/invocations.md
+      # - Subclasses:
+      #   - Archfey:      classes/warlock/archfey.md
+    - Wizard:
+      - Description:    classes/wizard/index.md
+      - Spells:         classes/wizard/spells.md
+      # - Subclasses:
+      #   - Evocation:    classes/wizard/evocation.md
+
 
   - Equipment Encyclopedia:
     - Crafting:
