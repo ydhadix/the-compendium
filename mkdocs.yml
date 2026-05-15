@@ -66,14 +66,14 @@ nav:
     - Creature Types:           rules/creature-types.md
     - D20 Rolls:                rules/d20-rolls.md
     - Damage Types:             rules/damage-types.md
+    - Hazards:                  rules/hazards.md
     - Initiative:               rules/initiative.md
     - Languages:                rules/languages.md
     - Movement:                 rules/movement.md
     - Proficiency:              rules/proficiency.md
     - Resting:                  rules/resting.md
-    - Sight:                    rules/sight.md
-    - Size Categories:          rules/size-categories.md
-    - Suffocation:              rules/suffocation.md
+    - Senses:                   rules/senses.md
+    - Size:                     rules/size.md
 
   - Hero Handbook:
     - Character Creation: characters/creation.md
@@ -166,7 +166,6 @@ nav:
       # - Subclasses:
       #   - Evocation:    classes/wizard/evocation.md
 
-
   - Equipment Encyclopedia:
     - Starting Gear:         equipment/starting.md
     - Crafting:              equipment/crafting.md
@@ -199,10 +198,7 @@ nav:
     - Legendary:   magic-items/legendary.md
     - Artifacts:   magic-items/artifacts.md
 
-  - Bastion Blueprints:
-    - Bastions:           bastions/index.md
-    - Facilities:         bastions/facilities.md
-    - Special Facilities: bastions/special-facilities.md
+  - Bastion Blueprints:  bastions.md
 
   - Spelljamming Schematics:
     - Ship Combat:                spelljamming/index.md

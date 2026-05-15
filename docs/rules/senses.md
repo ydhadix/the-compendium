@@ -1,3 +1,3 @@
-# Basic Facilities
+# Senses
 
 *This page hasn't been added yet.*
