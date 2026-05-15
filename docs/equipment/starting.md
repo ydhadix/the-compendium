@@ -1,11 +1,11 @@
 # Equipment
 
 ## Starting Equipment
-Your class and background include starting equipment and gold.  You can purchase additional equipment for its listed price.
+Your class and background determine your starting equipment and gold.  You can purchase additional equipment for their listed prices.
 
 ## Starting at Higher Levels
 
-If you start at a level higher than 1, you also gain the following equipment based on your starting level:
+If you start above level 1, you also gain the following equipment based on your starting level:
 
 | Starting Level | Gold | Magic Items |
 |---|---|---|

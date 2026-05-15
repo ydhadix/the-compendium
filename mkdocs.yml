@@ -168,17 +168,10 @@ nav:
 
 
   - Equipment Encyclopedia:
-    - Crafting:
-      - Requirements:        equipment/crafting/rules.md
-      - Materials:           equipment/crafting/materials.md
-      - Masterwork:          equipment/crafting/masterwork.md
-    - Weapons:
-      - Weapon Types:        equipment/weapons/types.md
-      - Properties:          equipment/weapons/properties.md
-      - Mastery:             equipment/weapons/mastery.md
-    - Armor:
-      - Armor Types:         equipment/armor/types.md
-      - Shields:             equipment/armor/shields.md
+    - Starting Gear:         equipment/starting.md
+    - Crafting:              equipment/crafting.md
+    - Weapons:               equipment/weapons.md
+    - Armor:                 equipment/armor.md
     - Adventuring Gear:      equipment/gear.md
     - Equipment Packs:       equipment/packs.md
     - Trades:
