@@ -6,22 +6,43 @@ When you cast a spell, you can expend Sorcery Points to modify it with a Metamag
 
 ---
 
---8<-- "classes/sorcerer/_metamagic/careful-spell.md"
+## Careful Spell
 
---8<-- "classes/sorcerer/_metamagic/distant-spell.md"
+**1 Sorcery Point**: Choose up to your Sorcerer Ability in creatures. The chosen creatures automatically succeed on saves against the spell, and take no damage from it.
 
---8<-- "classes/sorcerer/_metamagic/empowered-spell.md"
+## Distant Spell
 
---8<-- "classes/sorcerer/_metamagic/extended-spell.md"
+**1 Sorcery Point**: The spell's Range is doubled. If the spell has a Range of Reach, its Range becomes 30 feet instead.
 
---8<-- "classes/sorcerer/_metamagic/heightened-spell.md"
+## Empowered Spell
 
---8<-- "classes/sorcerer/_metamagic/quickened-spell.md"
+**1 Sorcery Point**: The first time you roll damage for the spell, you can reroll up to your Sorcerer Ability in damage dice. You can still use this Metamagic if you've already used a different Metamagic on this spell.
 
---8<-- "classes/sorcerer/_metamagic/seeking-spell.md"
+## Extended Spell
 
---8<-- "classes/sorcerer/_metamagic/subtle-spell.md"
+**1 Sorcery Point**: The spell's Duration is doubled, up to a maximum of 24 hours. You have Advantage on Concentration saves for the spell.
 
---8<-- "classes/sorcerer/_metamagic/transmuted-spell.md"
+## Heightened Spell
 
---8<-- "classes/sorcerer/_metamagic/twinned-spell.md"
+**2 Sorcery Points**: Choose a target of the spell. The target has Disadvantage on saves against the spell.
+
+## Quickened Spell
+
+**2 Sorcery Points**: If the spell has a Casting Time of an Action, you can change it to a Bonus Action.
+
+## Seeking Spell
+
+**1 Sorcery Point**: The first time you miss with an Attack for the spell, you can reroll the Attack. You can still use this Metamagic if you've already used a different Metamagic on this spell.
+
+## Subtle Spell
+
+**1 Sorcery Point**: The spell has no Components, except Material components that are consumed or have a gold value.
+
+## Transmuted Spell
+
+**1 Sorcery Point**: You can change all instances of an Elemental damage type in the spell to a different Elemental damage type.
+
+## Twinned Spell
+
+**Spell's Level in Sorcery Points (min. 1)**: If the spell has exactly one target, you can choose a second target.
+

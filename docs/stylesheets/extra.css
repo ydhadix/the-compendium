@@ -1,0 +1,263 @@
+/* ============================================================
+   FONTS
+   ============================================================ */
+
+@font-face {
+    font-family: "Beclave";
+    src: url("../assets/fonts/Beclave Demo.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Alegreya SC";
+    src: url("../assets/fonts/AlegreyaSC-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Alegreya SC";
+    src: url("../assets/fonts/AlegreyaSC-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Alegreya SC";
+    src: url("../assets/fonts/AlegreyaSC-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Alegreya SC";
+    src: url("../assets/fonts/AlegreyaSC-BoldItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Alegreya Sans SC";
+    src: url("../assets/fonts/AlegreyaSansSC-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Alegreya Sans SC";
+    src: url("../assets/fonts/AlegreyaSansSC-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Alegreya Sans SC";
+    src: url("../assets/fonts/AlegreyaSansSC-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Alegreya Sans SC";
+    src: url("../assets/fonts/AlegreyaSansSC-BoldItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../assets/fonts/Lato-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../assets/fonts/Lato-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../assets/fonts/Lato-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../assets/fonts/Lato-BoldItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* ============================================================
+   PALETTE
+   To change a colour, edit it here — nowhere else.
+
+   Shared (both modes):
+     --clr-header-bg    dark nav/header bar background
+     --clr-header-text  light text/icons on the header bar
+
+   Light mode:
+     --clr-accent       crimson — headings, links, card borders
+     --clr-accent-alt   bright red — visited links
+     --clr-page-bg      parchment — main content background
+     --clr-card-bg      slightly darker parchment — card background
+     --clr-body-text    near-black body copy
+     --clr-texture-bg   fallback body colour behind leather texture
+
+   Dark mode:
+     --clr-accent       bright red — headings, links, card borders
+     --clr-accent-alt   crimson — visited links
+     --clr-page-bg      dark content background
+     --clr-card-bg      slightly lighter dark — card background
+     --clr-body-text    near-white body copy
+     --clr-texture-bg   very dark base colour behind leather texture
+   ============================================================ */
+
+:root {
+    --clr-header-bg:   #202020;
+    --clr-header-text: #D0D0D0;
+}
+
+[data-md-color-scheme="default"] {
+    --clr-accent:      #8C1911;
+    --clr-accent-alt:  #D83731;
+    --clr-page-bg:     #F1E8DA;
+    --clr-card-bg:     #e8ddd0;
+    --clr-body-text:   #1a1a1a;
+    --clr-texture-bg:  #c8b89a;
+
+    /* Material theme mappings */
+    --md-primary-fg-color:        var(--clr-header-bg);
+    --md-primary-bg-color:        var(--clr-header-text);
+    --md-primary-bg-color--light: rgba(208,208,208,0.7);
+    --md-accent-fg-color:         var(--clr-accent);
+    --md-default-bg-color:        var(--clr-page-bg);
+    --md-default-fg-color:        rgba(0,0,0,0.87);
+    --md-typeset-color:           var(--clr-body-text);
+    --md-typeset-a-color:         var(--clr-accent);
+}
+
+[data-md-color-scheme="slate"] {
+    --clr-accent:      #D83731;
+    --clr-accent-alt:  #8C1911;
+    --clr-page-bg:     #242424;
+    --clr-card-bg:     #2e2e2e;
+    --clr-body-text:   rgba(255,255,255,0.87);
+    --clr-texture-bg:  #1a1a1a;
+
+    /* Material theme mappings */
+    --md-primary-fg-color:        var(--clr-header-bg);
+    --md-primary-bg-color:        var(--clr-header-text);
+    --md-primary-bg-color--light: rgba(208,208,208,0.7);
+    --md-accent-fg-color:         var(--clr-accent);
+    --md-default-bg-color:        var(--clr-page-bg);
+    --md-default-fg-color:        rgba(255,255,255,0.87);
+    --md-typeset-color:           var(--clr-body-text);
+    --md-typeset-a-color:         var(--clr-accent);
+}
+
+/* ============================================================
+   BASE TYPOGRAPHY
+   ============================================================ */
+
+body,
+.md-typeset {
+    font-family: "Lato", sans-serif;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    font-family: "Alegreya SC", serif;
+    font-weight: 700;
+    color: var(--clr-accent);
+}
+
+.md-typeset table:not([class]) {
+    font-family: "Alegreya Sans SC", sans-serif;
+}
+
+/* ============================================================
+   HEADER / SITE NAME
+   ============================================================ */
+
+body[data-md-color-scheme="default"] .md-header,
+body[data-md-color-scheme="default"] .md-tabs {
+    background-color: var(--clr-header-text);
+    color: var(--clr-header-bg);
+}
+
+body[data-md-color-scheme="slate"] .md-header,
+body[data-md-color-scheme="slate"] .md-tabs {
+    background-color: var(--clr-header-bg);
+    color: var(--clr-header-text);
+}
+
+.md-header__title .md-ellipsis,
+.md-header__title a {
+    font-family: "Beclave", serif;
+    font-size: 1.15em;
+    letter-spacing: 0.04em;
+    color: inherit;
+    text-decoration: none;
+}
+
+/* ============================================================
+   BACKGROUND TEXTURE
+   ============================================================ */
+
+body[data-md-color-scheme="default"] {
+    background-color: var(--clr-texture-bg);
+    background-image: url("../assets/images/large-leather.png");
+    background-repeat: repeat;
+}
+
+body[data-md-color-scheme="slate"] {
+    background-color: var(--clr-texture-bg);
+    background-image: url("../assets/images/large-leather.png");
+    background-repeat: repeat;
+    background-blend-mode: overlay;
+}
+
+/* ============================================================
+   LINKS
+   ============================================================ */
+
+.md-typeset a {
+    color: var(--clr-accent);
+}
+
+.md-typeset a:visited {
+    color: var(--clr-accent-alt);
+}
+
+.md-typeset a:hover {
+    color: var(--clr-accent);
+    text-decoration: underline;
+}
+
+/* ============================================================
+   CARDS (h3-level entries: features, spells, conditions, etc.)
+   ============================================================ */
+
+.card {
+    border: 2px solid var(--clr-accent);
+    border-radius: 4px;
+    padding: 0.75rem 1rem 0.5rem;
+    margin: 1.25rem 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    background-color: var(--clr-card-bg);
+}
+
+.card > h3:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}

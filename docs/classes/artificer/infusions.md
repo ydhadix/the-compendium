@@ -22,11 +22,13 @@ The number of items you can have infused at one time is shown on the Artificer t
 
 --8<-- "magic-items/_infusions/weapon-of-returning.md"
 
-??? "Any Artisan's Tool"
-    An infused artisan's tool functions as a magical version of a standard artisan's tool.
+### Any Artisan's Tool
 
-??? "+1 Weapon, Shield, or Focus"
-    You gain a +1 bonus to attack rolls and damage rolls made with this weapon, a +1 bonus to AC while wielding this shield, or a +1 bonus to spell attack rolls and your Spell Save DC with this focus.
+An infused artisan's tool functions as a magical version of a standard artisan's tool.
+
+### +1 Weapon, Shield, or Focus
+
+You gain a +1 bonus to attack rolls and damage rolls made with this weapon, a +1 bonus to AC while wielding this shield, or a +1 bonus to spell attack rolls and your Spell Save DC with this focus.
 
 ---
 
@@ -52,8 +54,9 @@ The number of items you can have infused at one time is shown on the Artificer t
 
 --8<-- "magic-items/_infusions/weapon-of-radiance.md"
 
-??? "+1 Armor"
-    You gain a +1 bonus to AC while wearing this armor.
+### +1 Armor
+
+You gain a +1 bonus to AC while wearing this armor.
 
 ---
 
@@ -65,8 +68,9 @@ The number of items you can have infused at one time is shown on the Artificer t
 
 --8<-- "magic-items/_infusions/ring-of-jumping.md"
 
-??? "Any Uncommon Magic Item"
-    You can replicate any uncommon magic item of your choice, subject to DM approval.
+### Any Uncommon Magic Item
+
+You can replicate any uncommon magic item of your choice, subject to DM approval.
 
 ---
 
@@ -78,5 +82,7 @@ The number of items you can have infused at one time is shown on the Artificer t
 
 --8<-- "magic-items/_infusions/ring-of-the-ram.md"
 
-??? "+2 Armor"
-    You gain a +2 bonus to AC while wearing this armor.
+### +2 Armor
+
+You gain a +2 bonus to AC while wearing this armor.
+

@@ -60,12 +60,22 @@ If you have multiple speeds, you can switch between them as you move. The distan
 
 If an effect increases or decreases your speed, any special speeds you have are also affected.
 
---8<-- "rules/_speeds/climb-speed.md"
+### Climb Speed
 
---8<-- "rules/_speeds/spider-climb-speed.md"
+A climb speed can be used to traverse vertical surfaces without expending the extra movement required for climbing.
 
---8<-- "rules/_speeds/fly-speed.md"
+### Spider Climb Speed
 
---8<-- "rules/_speeds/hover-speed.md"
+A spider climb speed works as a climb speed, except you can leave your hands free while moving, and can climb upside down along ceilings.
 
---8<-- "rules/_speeds/swim-speed.md"
+### Fly Speed
+
+A fly speed can be used to travel through the air and remain aloft. You fall if you are incapacitated, prone, or your fly speed is 0.
+
+### Hover Speed
+
+A hover speed is a fly speed, except you are immune to being prone, and you don't fall if you are incapacitated or your hover speed is 0.
+
+### Swim Speed
+
+A swim speed can be used to travel through liquid without expending the extra movement required for swimming.
