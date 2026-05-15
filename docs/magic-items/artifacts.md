@@ -1,3 +1,3 @@
 # Artifacts
 
-*This page hasn't been added yet.*
+--8<-- "magic-items/_infusions/orrery-of-the-wanderer.md"
