@@ -28,11 +28,11 @@ Dealing damage to creatures is the biggest difference between an Encounter and C
 
 You can ride any willing creature that has appropriate anatomy and is at least one size larger than you.
 
-#### Mounting and Dismounting
+##### Mounting and Dismounting
 
 Once per turn, you can use half of your movement to mount or dismount a creature within 5 feet of you. If your speed is 0, you can't mount or dismount.
 
-#### Controlling a Mount
+##### Controlling a Mount
 
 While mounted, your mount shares your turn in initiative order, though it has its own actions and movement. You can choose to control your mount or allow it to act independently. Intelligent mounts make their own decisions on how to act and may refuse being controlled.
 
@@ -40,7 +40,7 @@ A controlled mount moves as you direct it and can only take the Dash, Disengage,
 
 An independent mount moves and acts as it wishes with no restrictions on its actions.
 
-#### Staying Mounted
+##### Staying Mounted
 
 If an effect moves you against your will while mounted, you are dismounted.
 

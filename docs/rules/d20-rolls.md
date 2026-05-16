@@ -92,15 +92,15 @@ Attacks with weapons and unarmed strikes are usually weapon attacks, while attac
 
 The steps to make an attack are the same whether you attack with a weapon, unarmed strike, spell, or other feature.
 
-#### Choose a Target
+##### Choose a Target
 
 Choose a creature or object within your attack's Range.
 
-#### Determine Modifiers
+##### Determine Modifiers
 
 Your attack's Ability, your Proficiency, Cover, Spells, Items, and other features can give bonuses, penalties, Advantage, or Disadvantage to the attack roll.
 
-#### Resolve the Attack
+##### Resolve the Attack
 
 Attack rolls are rolled the same as other D20 Rolls.
 
