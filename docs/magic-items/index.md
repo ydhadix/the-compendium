@@ -1,4 +1,16 @@
-# Magic Items
+# Infusion Index
+
+| | |
+|---|---|
+| [Crafting](crafting.md) | Rules for creating magic items and infusions as an artificer. |
+| [Common](common.md) | Widely available items with minor magical properties. |
+| [Uncommon](uncommon.md) | Moderately powerful items with notable magical effects. |
+| [Rare](rare.md) | Powerful items with significant magical capabilities. |
+| [Very Rare](very-rare.md) | Exceptionally powerful items sought by seasoned adventurers. |
+| [Legendary](legendary.md) | Among the most powerful magic items in existence. |
+| [Artifacts](artifacts.md) | Ancient and unique relics of immense and unpredictable power. |
+
+## Magic Item Rules
 
 ## Using Magic Items
 

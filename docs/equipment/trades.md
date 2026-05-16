@@ -1,4 +1,43 @@
-# Artisan's Tools
+# Trades
+
+Trade tools represent specialized knowledge in a craft, game, or art form. Proficiency with a trade tool lets you add your proficiency bonus to relevant ability checks.
+
+## Gaming Sets
+
+Gaming sets are typically used for entertainment or gambling, and come in many shapes, sizes, and variations.
+
+**Ability**: intelligence
+
+**Applications**: discern whether someone is cheating
+
+**Common Variants**
+
+- dice (1 silver)
+- dragonchess (1 gold)
+- playing cards (5 silvers)
+- three-dragon ante (1 gold)
+
+## Musical Instruments
+
+Musical instruments are often used as part of a performance, and come in many shapes, sizes, and variations.
+
+**Ability**: charisma
+
+**Applications**: play a tune
+
+**Common Variants**
+
+- bagpipes (30 gold)
+- drum (6 gold)
+- dulcimer (25 gold)
+- flute (2 gold)
+- horn (3 gold)
+- lute (35 gold)
+- pan flute (12 gold)
+- shawm (2 gold)
+- viol (30 gold)
+
+## Artisan's Tools
 
 Artisan's tools are typically used to craft items or practice a profession.
 

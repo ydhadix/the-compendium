@@ -2,6 +2,22 @@
 
 Your class reflects your specialized training and defines how you interact with the world as an adventurer.  Each class also has subclasses that further enhance your capabilities.
 
+| Class | |
+|---|---|
+| [Artificer](artificer/index.md) | Magical craftspeople who infuse mundane objects with arcane power. |
+| [Barbarian](barbarian/index.md) | Fierce warriors who channel primal rage for devastating effect in combat. |
+| [Bard](bard/index.md) | Versatile performers who weave magic through music, words, and wit. |
+| [Cleric](cleric/index.md) | Divine champions who call upon their deity's power to heal and smite. |
+| [Druid](druid/index.md) | Nature's guardians who shapeshift and command the elements. |
+| [Fighter](fighter/index.md) | Disciplined warriors trained in a broad spectrum of combat techniques. |
+| [Monk](monk/index.md) | Masters of unarmed combat who focus body and mind into a lethal instrument. |
+| [Paladin](paladin/index.md) | Holy warriors who combine martial prowess with divine oaths and magic. |
+| [Ranger](ranger/index.md) | Skilled hunters and trackers who forge bonds with beasts and the wilderness. |
+| [Rogue](rogue/index.md) | Cunning opportunists who strike from the shadows with deadly precision. |
+| [Sorcerer](sorcerer/index.md) | Spellcasters whose magic flows from innate power within their bloodline. |
+| [Warlock](warlock/index.md) | Those who forge pacts with powerful entities to gain forbidden knowledge. |
+| [Wizard](wizard/index.md) | Scholars who master arcane magic through rigorous study and practice. |
+
 ## Leveling Up
 When you gain a level, choose one of your classes to gain that level in, or you can choose a secondary class if you don't have one yet.  You gain the chosen class’s corresponding features for that level.
 

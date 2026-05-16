@@ -1,4 +1,16 @@
-# Spellcasting
+# Spell Selection
+
+| | |
+|---|---|
+| [Cantrips](level-0.md) | Level 0 spells that require no spell slots, castable at will. |
+| [1st Level](level-1.md) | Entry-level spells available to beginning spellcasters. |
+| [2nd Level](level-2.md) | Spells available once a spellcaster reaches 3rd level. |
+| [3rd Level](level-3.md) | Spells available once a spellcaster reaches 5th level. |
+| [4th Level](level-4.md) | Spells available once a spellcaster reaches 7th level. |
+| [5th Level](level-5.md) | Spells available once a spellcaster reaches 9th level. |
+| [6th Level](level-6.md) | Spells available once a spellcaster reaches 11th level. |
+
+## Spellcasting Rules
 
 ## Schools of Magic
 Every spell belongs to a school of magic.  These categories generally describe what spells can do, and are used to reference groups of spells, but have no specific rules of their own.

@@ -40,7 +40,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/extra.js
+  - javascript/extra.js
 
 plugins:
   - search
@@ -85,7 +85,7 @@ nav:
     - Size:                     rules/size.md
 
   - Hero Handbook:
-    - Character Creation: characters/creation.md
+    - Character Creation: characters/index.md
     - Races:              characters/races.md
     - Backgrounds:        characters/background.md
     - Feats:
@@ -171,20 +171,7 @@ nav:
     - Armor:                 equipment/armor.md
     - Adventuring Gear:      equipment/gear.md
     - Equipment Packs:       equipment/packs.md
-    - Trades:
-      - Gaming Sets:         equipment/trades/gaming-sets.md
-      - Musical Instruments: equipment/trades/musical-instruments.md
-      - Artisan's Tools:     equipment/trades/artisans-tools.md
-
-  - Spell Selection:
-    - Spellcasting: spellcasting/index.md
-    - Cantrips:     spellcasting/level-0.md
-    - 1st-Level:    spellcasting/level-1.md
-    - 2nd-Level:    spellcasting/level-2.md
-    - 3rd-Level:    spellcasting/level-3.md
-    - 4th-Level:    spellcasting/level-4.md
-    - 5th-Level:    spellcasting/level-5.md
-    - 6th-Level:    spellcasting/level-6.md
+    - Trades:                equipment/trades.md
 
   - Infusion Index:
     - Magic Items: magic-items/index.md
@@ -195,6 +182,16 @@ nav:
     - Very Rare:   magic-items/very-rare.md
     - Legendary:   magic-items/legendary.md
     - Artifacts:   magic-items/artifacts.md
+
+  - Spell Selection:
+    - Spellcasting: spellcasting/index.md
+    - Cantrips:     spellcasting/level-0.md
+    - 1st-Level:    spellcasting/level-1.md
+    - 2nd-Level:    spellcasting/level-2.md
+    - 3rd-Level:    spellcasting/level-3.md
+    - 4th-Level:    spellcasting/level-4.md
+    - 5th-Level:    spellcasting/level-5.md
+    - 6th-Level:    spellcasting/level-6.md
 
   - Bastion Blueprints:  bastions.md
 

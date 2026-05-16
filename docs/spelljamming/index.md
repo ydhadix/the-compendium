@@ -1,4 +1,12 @@
-# Ship Combat
+# Spelljamming Schematics
+
+| | |
+|---|---|
+| [Officers](officers/index.md) | The three officer roles that operate a spelljamming vessel. |
+| [Ship Components](components/index.md) | Equipment, weapons, and modifications available for ships. |
+| [Example Ships](examples.md) | Complete ship profiles for reference during play. |
+
+## Ship Combat Rules
 
 Ship combat begins when a ship becomes aware of a threat, such as a hostile ship or leviathan-sized creature.
 
