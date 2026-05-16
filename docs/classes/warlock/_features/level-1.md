@@ -5,23 +5,21 @@ The Warlock table shows how many cantrips you know and how many spells you prepa
 
 All Warlock spell slots are the same level, as shown in the Slot Level column of the Warlock table.
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 
 Your Warlock Ability is your Spellcasting Ability.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 
 Warlock spells use an Arcane Focus as a spellcasting focus.
 
-#### Changing Spells
+##### Changing Spells
 
 **Level Up**: You can change one of your known cantrips and one of your prepared spells.
 
-#### Restoring Spell Slots
+##### Restoring Spell Slots
 
 **Short Rest**: You regain all your spell slots.
-
----
 
 ### Eldritch Invocations
 *Level 1 Warlock*

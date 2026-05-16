@@ -105,14 +105,14 @@ When you attack with a weapon's Light property, you can add the attack's ability
 
 You gain proficiency with one Mastery Property.
 
-#### Repeatable
+##### Repeatable
 You can take this feat more than once, but you must choose a different Mastery Property each time.
 
 ### Weapon Training
 
 You gain proficiency with one type of Martial Weapon.
 
-#### Repeatable
+##### Repeatable
 You can take this feat more than once, but you must choose a different Martial Weapon each time.
 
 ## Advanced Fighting Styles

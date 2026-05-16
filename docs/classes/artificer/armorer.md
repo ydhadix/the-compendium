@@ -32,13 +32,13 @@ Your specialization grants you additional spells. You learn these spells at the 
 
 Your experience with specialized tools has paid off.
 
-#### Specialized Training
+##### Specialized Training
 
 You gain proficiency with Heavy Armor.
 
 You gain proficiency and expertise with Smith's Tools.
 
-#### Fast Crafting
+##### Fast Crafting
 
 The time it takes for you to craft Armor is halved.
 
@@ -51,15 +51,15 @@ You've learned to make armor a conduit for your magic.
 
 Arcane Armor has the following benefits:
 
-#### Second Skin
+##### Second Skin
 
 While you wear the armor, it expands to cover your entire body, the armor can't be removed against your will, and you ignore the armor's Strength requirements.
 
-#### Modular Design
+##### Modular Design
 
 The armor counts as four separate items for the purpose of magic items and infusions: a chest piece, boots, helm, and weapon.
 
-#### Quick Equip
+##### Quick Equip
 
 **Utilize Action**: You can don or doff the armor.
 
@@ -76,7 +76,7 @@ When you choose your Arcane Armor, you can choose one of the following Armor Mod
 
 Each Armor Model has a special weapon. Attacks with this weapon can use your Artificer Ability.
 
-#### Armor Model: Dreadnaught
+##### Armor Model: Dreadnaught
 
 Your armor makes you a towering juggernaut on the battlefield.
 
@@ -84,7 +84,7 @@ Your armor makes you a towering juggernaut on the battlefield.
 
 **Giant Stature**: **Bonus Action, Artificer Ability per Long Rest**: You enlarge yourself for 1 minute. For the duration, you are Large and your reach increases by 5 feet.
 
-#### Armor Model: Guardian
+##### Armor Model: Guardian
 
 Your armor helps you hold the front line in battle.
 
@@ -92,7 +92,7 @@ Your armor helps you hold the front line in battle.
 
 **Defensive Field**: **Bonus Action**: While Bloodied, you can gain your Artificer level as temporary hit points.
 
-#### Armor Model: Infiltrator
+##### Armor Model: Infiltrator
 
 Your armor lets you cross enemy lines unnoticed.
 
@@ -126,11 +126,11 @@ Your Arcane Armor weapons gain an additional damage die.
 
 Your Armor Models gain additional benefits:
 
-#### Armor Model: Dreadnaught
+##### Armor Model: Dreadnaught
 
 **Giant Stature**: When you use Giant Stature, you can become Large or Huge (your choice), your reach increases by an additional 5 feet, and you have Advantage on Strength checks and Fortitude saves.
 
-#### Armor Model: Guardian
+##### Armor Model: Guardian
 
 **Offensive Field**: **Reaction, Artificer Ability per Long Rest**: When a Huge or smaller creature you can see ends its turn within 30 feet, you can force it to make a Fortitude save against your Artificer Spell Save DC.
 
@@ -138,7 +138,7 @@ Your Armor Models gain additional benefits:
 
 **Success**: No effect.
 
-#### Armor Model: Infiltrator
+##### Armor Model: Infiltrator
 
 **Lightning Launcher**: A creature damaged by your Lightning Launcher emits bright light to 5 feet and dim light 5 feet further, and has disadvantage on attacks against you until the start of your next turn.
 

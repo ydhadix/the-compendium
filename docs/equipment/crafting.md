@@ -33,11 +33,11 @@ The cost of crafting an item is paid in raw materials worth half the item's norm
 
 Items made with special materials may have additional properties.
 
-### Crafting with Materials
+#### Crafting with Materials
 
 You must acquire a special material before you can craft an item with it. Crafting an item with a special material doesn't increase time required to craft the item.
 
-### Coating Items
+#### Coating Items
 
 Some materials can be used to coat an item. Coating with a material costs half as much as crafting and only adds the material's Any Item properties.
 
@@ -47,15 +47,15 @@ Some materials can be used to coat an item. Coating with a material costs half a
 
 A jet-black metal and one of the hardest substances in existence.
 
-#### Any Item
+##### Any Item
 
 This item weighs 50% more than normal and is immune to physical damage from non-adamantine weapons.
 
-#### Armor
+##### Armor
 
 Before a Critical Hit hits you, the attack becomes a normal attack (The attack roll must beat your Armor Class to hit).
 
-#### Weapon
+##### Weapon
 
 Before a physical attack with this weapon hits an object, the attack becomes a Critical Hit.
 
@@ -65,7 +65,7 @@ Before a physical attack with this weapon hits an object, the attack becomes a C
 
 This dense, still-living wood easily channels magic. Heartwood can be used to craft items normally made of metal.
 
-#### Any Item
+##### Any Item
 
 This item naturally mends normal wear and tear and can be a spellcasting focus for any spell. The item's weapon masterwork bonus is also its spell attack bonus.
 
@@ -75,15 +75,15 @@ This item naturally mends normal wear and tear and can be a spellcasting focus f
 
 This animate metal channels the mental abilities of its wielder.
 
-#### Any Item
+##### Any Item
 
 This item can be used as a spellcasting focus for any spell.
 
-#### Armor
+##### Armor
 
 You can use your spellcasting ability to make Fortitude saves, instead of Constitution.
 
-#### Weapon
+##### Weapon
 
 You can use your spellcasting ability to make attacks with this weapon, instead of Strength or Dexterity.
 
@@ -93,15 +93,15 @@ You can use your spellcasting ability to make attacks with this weapon, instead 
 
 A light, flexible metal.
 
-#### Any Item
+##### Any Item
 
 This item weighs 50% less than normal.
 
-#### Armor
+##### Armor
 
 This armor doesn't have a Strength requirement or Stealth penalty.
 
-#### Weapon
+##### Weapon
 
 If this weapon is Light, it gains the Finesse property. If this weapon is not Light or Heavy, it becomes Light.
 
@@ -111,15 +111,15 @@ If this weapon is Light, it gains the Finesse property. If this weapon is not Li
 
 A shifting, fluid-like metal that hardens on impact.
 
-#### Any Item
+##### Any Item
 
 Quicksilver is impractical for making items other than armor and weapons.
 
-#### Armor
+##### Armor
 
 Utilize Action: You don or doff this armor.
 
-#### Weapon
+##### Weapon
 
 Bonus Action: You change this weapon into the form of any melee weapon.
 
@@ -129,7 +129,7 @@ Bonus Action: You change this weapon into the form of any melee weapon.
 
 A shimmering, soft metal that is painful to the touch for shapeshifted creatures. Silver can't be used to make weapons or armor, but they can be alchemically coated with it (A coated item keeps its normal material's benefits as well).
 
-#### Any Item
+##### Any Item
 
 When this weapon is used [TODO: Finish this description]
 
@@ -139,27 +139,27 @@ When a physical attack with this weapon hits a shapeshifted creature, it deals o
 
 Items of superior quality are more effective than their normal versions. There are different types of Masterwork bonuses, and each bonus is added to an item individually.
 
-### Physical
+##### Physical
 
 Masterwork items with a physical bonus add that bonus to the attack and damage rolls of physical attacks made with the item.
 
-### Spell Attack
+##### Spell Attack
 
 Masterwork items with a spell attack bonus add that bonus to the attack rolls of spell attacks made using the item as a spellcasting focus (You must be able to use the item as a spellcasting focus normally).
 
-### Spell Save DC
+##### Spell Save DC
 
 Masterwork items with a spell save DC bonus add that bonus to the spell save DC of spells cast using the item as a spellcasting focus (You must be able to use the item as a spellcasting focus normally).
 
-### Armor Class
+##### Armor Class
 
 Masterwork items with an AC bonus add that bonus to the item's normal bonus to AC (An item that doesn't normally affect AC doesn't gain this benefit).
 
-### Masterwork Crafting
+##### Masterwork Crafting
 
 Crafting a masterwork item costs half as much as purchasing one but requires expertise in the corresponding Artisan's Tool and a minimum Character Level based on the item's bonus: level 5 for a +1, level 11 for a +2, and level 17 for a +3.
 
-### Masterwork Costs
+##### Masterwork Costs
 
 The cost of purchasing a masterwork item is determined by the item's bonus, in addition to the item's other costs.
 

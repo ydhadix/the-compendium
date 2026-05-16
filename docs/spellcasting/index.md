@@ -43,13 +43,13 @@ The Spellcasting feature gives you Spell Slots, representing your reserves of ma
 
 You can use Spell Slots to cast any spells you have prepared or learned.
 
-#### One Spell Slot per Turn
+##### One Spell Slot per Turn
 You can only expend one spell slot to cast a spell each turn.  Spell slots expended for other effects don’t count against this limit.
 
-#### Upcasting Spells
+##### Upcasting Spells
 When you cast a spell using a slot that is higher level than the spell, the spell takes on the level of the slot for that casting.  Some spells have more powerful effects when cast at a higher level.
 
-#### Casting Without a Slot
+##### Casting Without a Slot
 There are a few ways to cast a spell without a Spell Slot.
 - **Cantrips**: Cantrips don’t expend spell slots.
 - **Rituals**: Spells with the ritual tag can be cast with spell slots, or they can be cast as a ritual.  Ritual casting takes 10 minutes longer to cast than normal but doesn’t expend a spell slot.
@@ -59,24 +59,24 @@ There are a few ways to cast a spell without a Spell Slot.
 ### Casting Time
 Casting a spell usually uses the Magic Action, but some spells require a Bonus Action, Reaction, or a longer amount of time.
 
-#### Triggered Spells
+##### Triggered Spells
 Every spell with a Reaction casting time and some spells with a Bonus Action casting time define a trigger that must occur before you can cast the spell.
 
-#### Long Casting Times
+##### Long Casting Times
 Some spells – including spells cast as a Ritual – require 1 minute or longer to cast.  While casting a spell this way, you must maintain Concentration and take the Magic Action on each of your turns to continue casting the spell.  If your Concentration is broken or you’re unable to take the Magic action, the spell fails but you don’t expend a spell slot.
 
 ### Components
 A spell’s components are physical requirements to cast the spell.  If you can’t provide one or more of the components, you can’t cast the spell.
 
-#### Verbal (V)
+##### Verbal (V)
 A Verbal component is the chanting of esoteric words that sound like nonsense to the uninitiated.  The words must be uttered at a normal speaking voice.
 
 The words themselves aren’t the source of the spell’s power; rather, the combination of sounds, with specific pitch and resonance, sets the threads of magic in motion.  A creature who is gagged or in an area of magical silence can’t cast a spell with a Verbal component.
 
-#### Somatic (S)
+##### Somatic (S)
 A Somatic component is a forceful gesticulation or an intricate set of gestures.  You must use at least one of your hands to perform these movements.
 
-#### Material (M)
+##### Material (M)
 A Material component is an item used in a spell’s casting.  You must have a free hand to access a Material component, but it can be the same hand used to perform any Somatic components.
 
 If a material component is named, a specific item must be provided.  The spell’s description states if a Material component is consumed when the spell is cast.
@@ -107,16 +107,16 @@ Every shape has a point of origin from which the effect’s energy erupts in str
 ### Targets
 Most spells require you to pick one or more targets to be affected by the spell’s magic.  A target is usually a creature or object.
 
-#### Line of Effect
+##### Line of Effect
 You must have a clear path to target something with a spell, so it can’t be behind Total Cover.
 
-#### Targeting Yourself
+##### Targeting Yourself
 Spells you cast with a target of Self can only target you.  A spell you cast that can target a creature can also target you, unless its description states otherwise.
 
-#### Worn or Held Objects
+##### Worn or Held Objects
 Spells typically can’t target objects that are being worn or held, such as armor and weapons, even if the spell targets everything in an area.
 
-#### Invalid Targets
+##### Invalid Targets
 If a target of a spell can’t be affected by it, nothing happens to the target, but you still cast the spell as normal.
 
 If a spell normally has no effect on a target that succeeds on a saving throw, the invalid target appears to have succeeded on that save, giving no hint that the creature is an invalid target.

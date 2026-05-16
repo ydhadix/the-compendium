@@ -38,11 +38,11 @@ You gain Resistance to Psychic damage and Immunity to being Charmed.
 
 **Warlock Ability per Long Rest**: You cast Misty Step without a spell slot. When you do, you can choose one of the following additional effects:
 
-#### Refreshing Step
+##### Refreshing Step
 
 After you teleport, one creature within 10 feet gains 1d10 Temporary Hit Points.
 
-#### Taunting Step
+##### Taunting Step
 
 Before you teleport, creatures within 10 feet make a Will save.
 
@@ -61,11 +61,11 @@ You can cast Misty Step as a Reaction after you take damage.
 
 The following options are added to your Steps of the Fey:
 
-#### Disappearing Step
+##### Disappearing Step
 
 Before you teleport, you become Invisible until the end of your next turn. This effect ends early if you Attack, deal damage, or cast a Spell.
 
-#### Dreadful Step
+##### Dreadful Step
 
 Before or after you teleport, creatures within 10 feet make a Will save.
 

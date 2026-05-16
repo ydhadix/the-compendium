@@ -3,10 +3,10 @@
 
 You harmonize body and mind to withstand any threat.
 
-#### Enlightened
+##### Enlightened
 
 You gain proficiency in all saving throws.
 
-#### Inevitable
+##### Inevitable
 
 **1 Ki**: Before you fail a save, you can reroll it. The second time you use this feature on the same save, you succeed instead.

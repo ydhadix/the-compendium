@@ -47,6 +47,7 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - attr_list
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -85,18 +86,7 @@ nav:
 
   - Hero Handbook:
     - Character Creation: characters/creation.md
-    - Races:
-      - Aasimar:          characters/races/aasimar.md
-      - Dragonborn:       characters/races/dragonborn.md
-      - Dwarf:            characters/races/dwarf.md
-      - Elf:              characters/races/elf.md
-      - Gnome:            characters/races/gnome.md
-      - Goliath:          characters/races/goliath.md
-      - Halfling:         characters/races/halfling.md
-      - Orc:              characters/races/orc.md
-      - Prime:            characters/races/prime.md
-      - Synth:            characters/races/synth.md
-      - Tiefling:         characters/races/tiefling.md
+    - Races:              characters/races.md
     - Backgrounds:        characters/background.md
     - Feats:
       - Origin Feats:     characters/feats/origin.md

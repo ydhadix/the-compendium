@@ -36,92 +36,95 @@ You summon one of the following Primal Companions. When you do, choose the kind 
 
 **Long Rest**: You can change your companion's form.
 
-#### Issuing Commands
+##### Issuing Commands
 
 **Bonus Action**: You command your companion to move and take any Action available to it.
 
 **Attack Action**: You command your companion to move and take the Attack action.
 
-#### Well-Trained
+##### Well-Trained
 
 Your companion adds your Proficiency Bonus to its ability checks and saving throws.
 
-#### Share Spells
+##### Share Spells
 
 Before you cast a spell that targets only you, you can also target your companion if they are within 120 feet.
 
-#### Resurrection
+##### Resurrection
 
 **1 minute, 1 use of Marked Target**: If your companion is dead, you revive them with all their hit points.
 
 ---
 
-##### Primal Companion: Land
+#### Primal Companion: Land
 
-| Primal Companion: Land | | | | | |
-|---|---|---|---|---|---|
-| Medium Beast | Neutral | | | | |
-| **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
-| **Armor** | natural | **DR** | — | | |
-| **STR** | +2 | **DEX** | +2 | **CON** | +2 |
-| **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
-| **Senses** | Darkvision 60 ft. | | | | |
-| **Speed** | 40 ft., Climb 40 ft. | **Reach** | 5 ft. | | |
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| | Medium Beast | Neutral | | | | |
+| | **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
+| | **Armor** | natural | **DR** | — | | |
+| | **STR** | +2 | **DEX** | +2 | **CON** | +2 |
+| | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
+| | **Senses** | Darkvision 60 ft. | | | | |
+| | **Speed** | 40 ft., Climb 40 ft. | **Reach** | 5 ft. | | |
 
-###### Beast Strike
+##### Beast Strike
 *Melee Attack*
 
-| **Range** | Reach | **Attack** | +your Spell Attack to hit |
-|---|---|---|---|
-| **Damage** | 1d8 + Str + your Spell Ability | | |
-| **Charge (20 ft.)** | While charging the target, this attack deals an extra 1d6 damage. If the target is up to one size larger, it is knocked Prone. | | |
+| | | | | |
+| |---|---|---|---|
+| | **Range** | Reach | **Attack** | +your Spell Attack to hit |
+| | **Damage** | 1d8 + Str + your Spell Ability | | |
+| | **Charge (20 ft.)** | While charging the target, this attack deals an extra 1d6 damage. If the target is up to one size larger, it is knocked Prone. | | |
 
 ---
 
-##### Primal Companion: Sea
+#### Primal Companion: Sea
 
-| Primal Companion: Sea | | | | | |
-|---|---|---|---|---|---|
-| Medium Beast | Neutral | | | | |
-| **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
-| **Armor** | natural | **DR** | — | | |
-| **STR** | +2 | **DEX** | +2 | **CON** | +2 |
-| **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
-| **Senses** | Darkvision 90 ft. | | | | |
-| **Speed** | 5 ft., Swim 60 ft. | **Reach** | 5 ft. | | |
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| | Medium Beast | Neutral | | | | |
+| | **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
+| | **Armor** | natural | **DR** | — | | |
+| | **STR** | +2 | **DEX** | +2 | **CON** | +2 |
+| | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
+| | **Senses** | Darkvision 90 ft. | | | | |
+| | **Speed** | 5 ft., Swim 60 ft. | **Reach** | 5 ft. | | |
 
 **Amphibious**: Can breathe air and water.
 
-###### Beast Strike
+##### Beast Strike
 *Melee Attack*
 
-| **Range** | Reach | **Attack** | +your Spell Attack to hit |
-|---|---|---|---|
-| **Damage** | 1d6 + Str + your Spell Ability | | |
-| **Grappling** | The target is Grappled. The escape DC is your Spell Save DC. | | |
+| | | | | |
+|---|---|---|---|---|
+| | **Range** | Reach | **Attack** | +your Spell Attack to hit |
+| | **Damage** | 1d6 + Str + your Spell Ability | | |
+| | **Grappling** | The target is Grappled. The escape DC is your Spell Save DC. | | |
 
 ---
 
-##### Primal Companion: Sky
+#### Primal Companion: Sky
 
-| Primal Companion: Sky | | | | | |
-|---|---|---|---|---|---|
-| Small Beast | Neutral | | | | |
-| **AC** | 11 + Dex + Prof | **HP** | (4 + Con) × Level | | |
-| **Armor** | natural | **DR** | — | | |
-| **STR** | −2 | **DEX** | +3 | **CON** | +1 |
-| **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
-| **Senses** | Darkvision 60 ft. | | | | |
-| **Speed** | 10 ft., Fly 60 ft. | **Reach** | 5 ft. | | |
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| | Small Beast | Neutral | | | | |
+| | **AC** | 11 + Dex + Prof | **HP** | (4 + Con) × Level | | |
+| | **Armor** | natural | **DR** | — | | |
+| | **STR** | −2 | **DEX** | +3 | **CON** | +1 |
+| | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
+| | **Senses** | Darkvision 60 ft. | | | | |
+| | **Speed** | 10 ft., Fly 60 ft. | **Reach** | 5 ft. | | |
 
 **Flyby**: Moving doesn't trigger Opportunity Attacks.
 
-###### Beast Strike
+##### Beast Strike
 *Melee Attack*
 
-| **Range** | Reach | **Attack** | +your Spell Attack to hit |
-|---|---|---|---|
-| **Damage** | 1d4 + Dex + your Spell Ability | | |
+| | | | | |
+|---|---|---|---|---|
+| | **Range** | Reach | **Attack** | +your Spell Attack to hit |
+| | **Damage** | 1d4 + Dex + your Spell Ability | | |
 
 --8<-- "classes/ranger/_features/level-4.md"
 
@@ -132,11 +135,11 @@ Before you cast a spell that targets only you, you can also target your companio
 
 Your companion can follow complex commands.
 
-#### Magical Strikes
+##### Magical Strikes
 
 Your companion's Beast Strike can deal Force damage instead of its normal damage type.
 
-#### Advanced Commands
+##### Advanced Commands
 
 When you use your Bonus Action to command your companion, you can also command your companion to use its Bonus Action to Dash, Disengage, Dodge, or Help.
 
@@ -149,15 +152,15 @@ When you use your Bonus Action to command your companion, you can also command y
 
 Your companion can unleash swift, successive attacks.
 
-#### Apex Companion
+##### Apex Companion
 
 When you change your companion's form, you can increase their size by one category.
 
-#### Bestial Fury
+##### Bestial Fury
 
 When your companion takes the Attack action on its turn, it can make an additional attack.
 
-#### Strike Mastery
+##### Strike Mastery
 
 Your companion's Beast Strike can use the Graze or Sap weapon Mastery Properties.
 
@@ -165,29 +168,29 @@ Your companion's Beast Strike can use the Graze or Sap weapon Mastery Properties
 
 --8<-- "classes/ranger/_features/level-11.md"
 
-#### Additional Beast Forms
+## Additional Beast Forms
 
-##### Primal Companion: Gray Render
+### Primal Companion: Gray Render
 
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
-| Large Beast | Chaotic Neutral |  |  |  |  |
-| **AC** | 12 + Dex + Prof | **HP** | (6 + Con) × Level |  |  |
-| **Armor** | natural | **DR** | - |  |  |
-| **STR** | +3 | **DEX** | +1 | **CON** | +3 |
-| **INT** | -3 | **WIS** | +2 | **CHA** | +0 |
-| **Senses** | Darkvision 60 ft. |  |  |  |  |
-| **Speed** | 30 ft., burrow 10 ft. | **Reach** | 10 ft. |  |  |
+| |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+| | Large Beast | Chaotic Neutral |  |  |  |  |
+| | **AC** | 12 + Dex + Prof | **HP** | (6 + Con) × Level |  |  |
+| | **Armor** | natural | **DR** | - |  |  |
+| | **STR** | +3 | **DEX** | +1 | **CON** | +3 |
+| | **INT** | -3 | **WIS** | +2 | **CHA** | +0 |
+| | **Senses** | Darkvision 60 ft. |  |  |  |  |
+| | **Speed** | 30 ft., burrow 10 ft. | **Reach** | 10 ft. |  |  |
 
-###### Beast Strike
+##### Beast Strike
 *Melee Attack*
 
-|  |  |  |  |
-|---|---|---|---|
-| **Range** | Reach | **Attack** | +your Spell Attack to hit |
-| **Damage** | 1d10 + Str + your Spell Ability | | |
+| |  |  |  |  |
+|---|---|---|---|---|
+| | **Range** | Reach | **Attack** | +your Spell Attack to hit |
+| | **Damage** | 1d10 + Str + your Spell Ability | | |
 
-###### Rampage
+##### Rampage
 *Reaction, after this creature takes damage*
 
 This creature makes one beast strike attack against a random target within reach, other than its master.

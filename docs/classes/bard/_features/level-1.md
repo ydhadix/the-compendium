@@ -9,11 +9,9 @@ The Bard table shows the size of your Inspiration Dice and how many Bardic Inspi
 
 **Short Rest**: Any remaining Inspiration Dice you've given vanish, and you regain all uses of Bardic Inspiration.
 
-#### Giving Inspiration
+##### Giving Inspiration
 
 **Bonus Action**: You give a creature within 60 feet an Inspiration Die.
-
----
 
 ### Magical Secrets
 *Level 1 Bard*
@@ -28,30 +26,28 @@ Choose one of the following Magical Secrets. You can learn cantrips and prepare 
 | primal | druid |
 | divine | cleric |
 
----
-
 ### Spellcasting
 *Level 1 Bard*
 
 Your performances resonate with the weave to produce magic.
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 
 Your Bard Ability is your Spellcasting Ability.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 
 Bard spells use a Musical Instrument as a spellcasting focus.
 
-#### Spells Prepared
+##### Spells Prepared
 
 The Bard table shows how many cantrips you know and how many spells you prepare.
 
-#### Changing Spells
+##### Changing Spells
 
 **Level Up**: You can change one of your known cantrips and one of your prepared spells.
 
-#### Spell Slots
+##### Spell Slots
 
 The Bard table shows how many spell slots you have.
 

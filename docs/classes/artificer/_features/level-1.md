@@ -3,57 +3,57 @@
 
 You use your tools to create magical items and effects.
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 
 Your Artificer Ability is your Spellcasting Ability.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 
 Artificer spells use any Artisan's Tool or Infused Item as a spellcasting focus.
 
-#### Spells Prepared
+##### Spells Prepared
 
 The Artificer table shows how many cantrips you know and how many spells you prepare.
 
-#### Changing Spells
+##### Changing Spells
 
 **Long Rest**: You can change one of your known cantrips and one of your prepared spells.
 
-#### Spell Slots
+##### Spell Slots
 
 The Artificer table shows how many spell slots you have.
 
 **Long Rest**: You regain all your spell slots.
-
----
 
 ### Tradesman
 *Level 1 Artificer*
 
 You know practical skills to craft, examine, and repair items.
 
-#### Tinkerer
+##### Tinkerer
 
 You gain expertise with Tinker's Tools and one of your skill or trade proficiencies.
 
-#### Item Magic
+##### Item Magic
 
 You learn the Mending, Find Familiar, and Identify spells.
 
-#### Assistant Familiar
+##### Assistant Familiar
 
 When you cast Find Familiar, you can choose an Animated Assistant as your familiar, keeping its normal creature type.
 
-| Animated Assistant | | | | | |
-|---|---|---|---|---|---|
-| Tiny Construct | Neutral | | | | |
-| **AC** | 10 + Dex + Prof | **HP** | (4 + Con) × Level | | |
-| **Armor** | natural | **DR** | — | | |
-| **STR** | −3 | **DEX** | +2 | **CON** | +1 |
-| **INT** | +0 | **WIS** | +0 | **CHA** | −2 |
-| **Senses** | Darkvision 60 ft. | | | | |
-| **Speed** | 20 ft., Hover 30 ft. | **Reach** | 5 ft. | | |
-| **Immunity** | disease, exhaustion, poison | | | | |
+#### Animated Assistant
+
+| | | | | | | |
+|---|---|---|---|---|---|---|
+| | Tiny Construct | Neutral | | | | |
+| | **AC** | 10 + Dex + Prof | **HP** | (4 + Con) × Level | | |
+| | **Armor** | natural | **DR** | — | | |
+| | **STR** | −3 | **DEX** | +2 | **CON** | +1 |
+| | **INT** | +0 | **WIS** | +0 | **CHA** | −2 |
+| | **Senses** | Darkvision 60 ft. | | | | |
+| | **Speed** | 20 ft., Hover 30 ft. | **Reach** | 5 ft. | | |
+| | **Immunity** | disease, exhaustion, poison | | | | |
 
 **Mobile Storage**: The assistant can store and quickly retrieve items up to your Artificer Ability.
 
@@ -64,11 +64,10 @@ When you cast Find Familiar, you can choose an Animated Assistant as your famili
 ##### Force Strike
 *Melee or Ranged Attack*
 
-| **Range** | Reach / 30 ft. | **Attack** | +your Spell Attack to hit |
-|---|---|---|---|
-| **Damage** | 1d6 + Dex force damage | | |
-
----
+| | | | | |
+|---|---|---|---|---|
+| | **Range** | Reach / 30 ft. | **Attack** | +your Spell Attack to hit |
+| | **Damage** | 1d6 + Dex force damage | | |
 
 ### Infuse Items
 *Level 1 Artificer*

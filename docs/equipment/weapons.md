@@ -2,9 +2,61 @@
 
 Weapons are the primary means for characters to defend themselves in combat without relying on magic.
 
+## Weapons Tables
+
+| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+|---|---|---|---|---|---|---|
+| unarmed | 1d4 bludgeoning | - | versatile (1d6) | - | - | - |
+
+### Simple Melee Weapons
+
+| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+|---|---|---|---|---|---|---|
+| improvised | 1d4 bludgeoning, piercing, or slashing | light | thrown (10/30), versatile (1d6) | - | - | - |
+| sidearm | 1d4 bludgeoning, piercing, or slashing | light | finesse, thrown (20/60) | nick, sap, slow, vex | 1d6 damage, no finesse | 1 gold |
+| stave | 1d6 bludgeoning or piercing | - | thrown (20/60), versatile (1d8) | sap, slow, topple | thrown (30/90), no versatile | 1 gold |
+
+### Simple Ranged Weapons
+
+| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+|---|---|---|---|---|---|---|
+| sling | 1d4 bludgeoning | - | ammunition (40/160) | slow, topple | - | 1 gold |
+| crossbow | 1d6 piercing | light | ammunition (40/160), loading | slow, vex | 1d8 damage, ammunition (80/320), two-handed, no light | 25 gold |
+
+### Martial Melee Weapons
+
+| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+|---|---|---|---|---|---|---|
+| foil | 1d6 slashing or piercing | light | finesse | nick, graze, slow, vex | 1d8 damage, no light or nick | 10 gold |
+| blade | 1d8 slashing | - | versatile (1d10) | graze, sap, topple | 1d12 or 2d6 damage, heavy, two-handed, cleave, no versatile | 15 gold |
+| hammer | 1d8 bludgeoning or piercing | - | versatile (1d10) | push, sap, topple | 1d12 or 2d6 damage, heavy, two-handed, cleave, no versatile | 5 gold |
+| polearm | 1d10 slashing or piercing | heavy | two-handed, reach | cleave, graze, push, topple | - | 20 gold |
+
+### Martial Ranged Weapons
+
+| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+|---|---|---|---|---|---|---|
+| bow | 1d8 piercing | - | ammunition (80/320), two-handed | sap, slow, vex | 1d10 damage, ammunition (150/600), heavy, pierce | 25 gold |
+| firearm | 1d10 piercing | - | ammunition (40/160), loading | push, slow, vex | 1d12 or 2d6 damage, ammunition (100/400), two-handed, heavy, pierce | 250 gold |
+
 ## Weapon Categories
 
-Each weapon belongs to a category that describes its damage, weight, properties, mastery options, and cost.
+Each weapon belongs to a category that describes its damage, weight, properties, mastery options, and cost.  Weapon categories only describe the broad family of a weapon, though its specific form is up to you.
+
+### Example Weapons
+
+| Category | Standard Weapon | Variant Weapon |
+|---|---|---|
+| sidearm | club, dagger, dart, sickle | handaxe, light hammer |
+| stave | quarterstaff, mace, spear | javelin, trident |
+| sling | sling | - |
+| crossbow | hand crossbow | light crossbow |
+| fence | scimitar, shortsword | rapier |
+| blade | battleaxe, longsword | greataxe, greatsword |
+| hammer | flail, greatclub, morningstar, warhammer, war pick | maul |
+| polearm | glaive, halberd, lance, pike | - |
+| bow | shortbow | longbow |
+| firearm | pistol | heavy crossbow, musket |
 
 ## Variant Weapons
 
@@ -14,33 +66,31 @@ Some weapon categories have variant properties. A variant weapon costs twice as 
 
 Whenever you attack with a weapon you are proficient with, you add your proficiency bonus to the attack roll.
 
-Every creature is proficient with Unarmed Strikes.
-
-## Simple and Martial Weapons
+#### Simple and Martial Weapons
 
 Every weapon is either simple or martial. All adventurers are proficient with simple weapons, which require minimal training to use effectively. Martial weapons have superior damage and a wider variety of properties but require specific training to use.
 
-## Melee and Ranged Weapons
+#### Melee and Ranged Weapons
 
 Every weapon is either melee or ranged. Melee weapons add your Strength to attack and damage rolls, while Ranged weapons add your Dexterity to attack and damage rolls.
 
-## Improvised Weapons
+#### Improvised Weapons
 
 Improvised weapons are makeshift weapons, or a weapon wielded improperly (such as making a Melee attack with a Ranged weapon). Improvised weapons are Simple Melee weapons.
 
-## Unarmed Strikes
+#### Unarmed Strikes
 
-An attack that doesn't use a weapon is an Unarmed Strike. Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
+An attack that uses part of the attacker's body, such as a punch or kick, is an Unarmed Strike.  Every creature is proficient with Unarmed Strikes.  Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
 
-### Damage
+###### Damage
 
 You make an attack roll as normal and deal damage on a hit.
 
-### Grapple
+###### Grapple
 
 You make an Athletics check contested by the target's Athletics or Acrobatics check. On a success, you Grapple the target.
 
-### Shove
+###### Shove
 
 You make an Athletics check contested by the target's Athletics or Acrobatics check. On a success, you can knock the target Prone or move the target 5 feet.
 
@@ -129,55 +179,3 @@ Once per turn, after you damage a target that is up to one size larger than you,
 ### Vex
 
 After you hit a creature, you have advantage on your next attack against that target before the end of your next turn.
-
-## Weapons Tables
-
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
-|---|---|---|---|---|---|---|
-| unarmed | 1d4 bludgeoning | - | versatile (1d6) | - | - | - |
-
-### Simple Melee Weapons
-
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
-|---|---|---|---|---|---|---|
-| improvised | 1d4 bludgeoning, piercing, or slashing | light | thrown (10/30), versatile (1d6) | - | - | - |
-| sidearm | 1d4 bludgeoning, piercing, or slashing | light | finesse, thrown (20/60) | nick, sap, slow, vex | 1d6 damage, no finesse | 1 gold |
-| stave | 1d6 bludgeoning or piercing | - | thrown (20/60), versatile (1d8) | sap, slow, topple | thrown (30/90), no versatile | 1 gold |
-
-### Simple Ranged Weapons
-
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
-|---|---|---|---|---|---|---|
-| sling | 1d4 bludgeoning | - | ammunition (40/160) | slow, topple | - | 1 gold |
-| crossbow | 1d6 piercing | light | ammunition (40/160), loading | slow, vex | 1d8 damage, ammunition (80/320), two-handed, no light | 25 gold |
-
-### Martial Melee Weapons
-
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
-|---|---|---|---|---|---|---|
-| foil | 1d6 slashing or piercing | light | finesse | nick, graze, slow, vex | 1d8 damage, no light or nick | 10 gold |
-| blade | 1d8 slashing | - | versatile (1d10) | graze, sap, topple | 1d12 or 2d6 damage, heavy, two-handed, cleave, no versatile | 15 gold |
-| hammer | 1d8 bludgeoning or piercing | - | versatile (1d10) | push, sap, topple | 1d12 or 2d6 damage, heavy, two-handed, cleave, no versatile | 5 gold |
-| polearm | 1d10 slashing or piercing | heavy | two-handed, reach | cleave, graze, push, topple | - | 20 gold |
-
-### Martial Ranged Weapons
-
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
-|---|---|---|---|---|---|---|
-| bow | 1d8 piercing | - | ammunition (80/320), two-handed | sap, slow, vex | 1d10 damage, ammunition (150/600), heavy, pierce | 25 gold |
-| firearm | 1d10 piercing | - | ammunition (40/160), loading | push, slow, vex | 1d12 or 2d6 damage, ammunition (100/400), two-handed, heavy, pierce | 250 gold |
-
-## Example Weapons
-
-| Category | Standard Weapon | Variant Weapon |
-|---|---|---|
-| sidearm | club, dagger, dart, sickle | handaxe, light hammer |
-| stave | quarterstaff, mace, spear | javelin, trident |
-| sling | sling | - |
-| crossbow | hand crossbow | light crossbow |
-| fence | scimitar, shortsword | rapier |
-| blade | battleaxe, longsword | greataxe, greatsword |
-| hammer | flail, greatclub, morningstar, warhammer, war pick | maul |
-| polearm | glaive, halberd, lance, pike | - |
-| bow | shortbow | longbow |
-| firearm | pistol | heavy crossbow, musket |

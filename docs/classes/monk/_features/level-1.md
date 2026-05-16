@@ -5,19 +5,17 @@ You adopt a combat stance that thrives while unencumbered.
 
 While you aren't wearing armor or wielding a shield, you gain the following benefits:
 
-#### Unarmored Defense
+##### Unarmored Defense
 
 Your base Armor Class is 8 + Monk Ability + Minor Ability + Proficiency Bonus.
 
-#### Unarmored Movement
+##### Unarmored Movement
 
 Your Speed increases, and you can move along vertical surfaces and across liquids without falling during your movement. The Monk table shows your bonus Speed, and when this bonus increases.
 
-#### Unarmored Grapple
+##### Unarmored Grapple
 
 You can use your Monk Ability to Grapple or Shove.
-
----
 
 ### Ki
 *Level 1 Monk*
@@ -32,8 +30,6 @@ You can spend Ki to use Monk features. You have Ki equal to your Level. If an ef
 
 Unarmed strikes, simple melee weapons, and light martial melee weapons are monk weapons. Some Monk features can only be used with these weapons. Some Monk subclasses expand which weapons are monk weapons.
 
----
-
 ### Martial Arts
 *Level 1 Monk*
 
@@ -43,19 +39,19 @@ Whenever you attack with a Monk Weapon, you can use your Monk Ability for the at
 
 **Bonus Action**: You can use one of the following effects:
 
-#### Flurry of Blows
+##### Flurry of Blows
 
 You make one Unarmed Strike.
 
 **1 Ki**: You can make an additional Unarmed Strike.
 
-#### Patient Defense
+##### Patient Defense
 
 You take the Disengage Action.
 
 **1 Ki**: You can also take the Dodge Action.
 
-#### Step of the Wind
+##### Step of the Wind
 
 You take the Dash Action.
 

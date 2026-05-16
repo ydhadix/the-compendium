@@ -11,8 +11,6 @@ You can diminish and redirect incoming strikes.
 
 **Success**: You deal half as much damage.
 
----
-
 ### Slow Fall
 *Level 2 Monk*
 

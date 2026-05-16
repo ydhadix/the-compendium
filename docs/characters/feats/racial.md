@@ -5,7 +5,7 @@ Racial feats require a specific Race as a prerequisite.
 ### Integrated Protection
 *Prerequisite: Synth*
 
-#### Integrated Armor
+##### Integrated Armor
 When you finish a Short Rest, you can don a suit of armor you are proficient in and turn it into your Integrated Armor. You can only have one Integrated Armor at a time.
 
 Integrated Armor has the following benefits:

@@ -3,15 +3,10 @@
 
 Your knowledge of magic items is unparalleled.
 
-#### Extra Attunement
+##### Extra Attunement
 
 You gain an additional attunement slot.
 
-#### Additional Infusions
+##### Additional Infusions
 
-The following items are added to your [Infused Item](infusions.md#level-10-infusions) options:
-
-- arrow-catching shield
-- ring of free action
-- ring of the ram
-- +2 armor
+You gain additional options for your [Infused Items](infusions.md#level-10-infusions).

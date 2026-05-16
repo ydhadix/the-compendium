@@ -4,8 +4,6 @@ Eldritch Invocations are arcane techniques you've unlocked through your pact. Th
 
 **Level Up**: You can change one of your known Invocations. You can't change an Invocation if it's a prerequisite for another Invocation you know.
 
----
-
 ## Starting Invocations
 
 ### Armor of Shadows

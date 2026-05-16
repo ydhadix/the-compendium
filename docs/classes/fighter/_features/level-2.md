@@ -9,8 +9,6 @@ The Fighter table shows how many Action Surge uses you have.
 
 **Short Rest**: You regain all uses of Action Surge.
 
----
-
 ### Indomitable
 *Level 2 Fighter*
 

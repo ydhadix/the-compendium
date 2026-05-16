@@ -5,11 +5,9 @@ Your training has developed into a particular style of fighting.
 
 You gain a Fighting Style feat of your choice.
 
-#### Changing Fighting Styles
+##### Changing Fighting Styles
 
 **Level Up**: You can change your Fighting Style feat.
-
----
 
 ### Improvise
 *Level 2 Artificer*
@@ -22,13 +20,13 @@ You can use the following Improvise effects. The Artificer table shows how many 
 
 **Long Rest**: You regain all uses of Improvise.
 
-#### Improvise: Adapt
+##### Improvise: Adapt
 
 You quickly reconfigure your gear for the task at hand.
 
 **Magic Action**: You change one of your Infused Items.
 
-#### Improvise: Overcome
+##### Improvise: Overcome
 
 You find the missing piece that turns failure to success.
 

@@ -37,23 +37,23 @@ You study arcane techniques to enhance your combat skills.
 | 10 | 3 | 7 | 4 | 3 |
 | 11 | 3 | 8 | 4 | 3 |
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 
 Your Minor Ability is your Spellcasting Ability.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 
 Wizard spells use an Arcane Focus as a spellcasting focus.
 
-#### Spells Prepared
+##### Spells Prepared
 
 You prepare spells from the Wizard spell list. The Eldritch Knight table shows how many cantrips you know and how many spells you prepare.
 
-#### Changing Spells
+##### Changing Spells
 
 **Level Up**: You can change one of your known cantrips and one of your prepared spells.
 
-#### Spell Slots
+##### Spell Slots
 
 The Eldritch Knight table shows how many spell slots you have.
 
@@ -68,15 +68,15 @@ You bind your weapons with magic to call on them in battle.
 
 Pact Weapons have the following benefits:
 
-#### Arcane Focus
+##### Arcane Focus
 
 You can use the weapon as an Arcane Focus.
 
-#### Inseparable
+##### Inseparable
 
 While not Incapacitated, you can't be disarmed of the weapon.
 
-#### Summon Weapon
+##### Summon Weapon
 
 **Bonus Action**: You summon one or both of your Pact Weapons to your hand(s).
 

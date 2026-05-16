@@ -100,43 +100,45 @@
    Shared (both modes):
      --clr-header-bg    dark nav/header bar background
      --clr-header-text  light text/icons on the header bar
+     --clr-divider      golden tan — h2 rule, decorative dividers
 
    Light mode:
      --clr-accent       crimson — headings, links, card borders
      --clr-accent-alt   bright red — visited links
-     --clr-page-bg      parchment — main content background
-     --clr-card-bg      slightly darker parchment — card background
+     --clr-page-bg      tan parchment — body/texture base, subcard background
+     --clr-card-bg      light parchment — card background
+     --clr-table-bg     lightest parchment — table and back-to-top background
      --clr-body-text    near-black body copy
-     --clr-texture-bg   fallback body colour behind leather texture
 
    Dark mode:
      --clr-accent       bright red — headings, links, card borders
      --clr-accent-alt   crimson — visited links
-     --clr-page-bg      dark content background
-     --clr-card-bg      slightly lighter dark — card background
+     --clr-page-bg      near-black — body/texture base, subcard background
+     --clr-card-bg      dark grey — card background
+     --clr-table-bg     medium dark grey — table and back-to-top background
      --clr-body-text    near-white body copy
-     --clr-texture-bg   very dark base colour behind leather texture
    ============================================================ */
 
 :root {
     --clr-header-bg:   #202020;
     --clr-header-text: #D0D0D0;
+    --clr-divider:     #B99F71;
 }
 
 [data-md-color-scheme="default"] {
     --clr-accent:      #8C1911;
     --clr-accent-alt:  #D83731;
-    --clr-page-bg:     #F1E8DA;
+    --clr-page-bg:     #c8b89a;
     --clr-card-bg:     #e8ddd0;
+    --clr-table-bg:    #ede8df;
     --clr-body-text:   #1a1a1a;
-    --clr-texture-bg:  #c8b89a;
 
     /* Material theme mappings */
     --md-primary-fg-color:        var(--clr-header-bg);
     --md-primary-bg-color:        var(--clr-header-text);
     --md-primary-bg-color--light: rgba(208,208,208,0.7);
     --md-accent-fg-color:         var(--clr-accent);
-    --md-default-bg-color:        var(--clr-page-bg);
+    --md-default-bg-color:        var(--clr-table-bg);
     --md-default-fg-color:        rgba(0,0,0,0.87);
     --md-typeset-color:           var(--clr-body-text);
     --md-typeset-a-color:         var(--clr-accent);
@@ -145,17 +147,17 @@
 [data-md-color-scheme="slate"] {
     --clr-accent:      #D83731;
     --clr-accent-alt:  #8C1911;
-    --clr-page-bg:     #242424;
+    --clr-page-bg:     #1a1a1a;
     --clr-card-bg:     #2e2e2e;
+    --clr-table-bg:    #464646;
     --clr-body-text:   rgba(255,255,255,0.87);
-    --clr-texture-bg:  #1a1a1a;
 
     /* Material theme mappings */
     --md-primary-fg-color:        var(--clr-header-bg);
     --md-primary-bg-color:        var(--clr-header-text);
     --md-primary-bg-color--light: rgba(208,208,208,0.7);
     --md-accent-fg-color:         var(--clr-accent);
-    --md-default-bg-color:        var(--clr-page-bg);
+    --md-default-bg-color:        var(--clr-table-bg);
     --md-default-fg-color:        rgba(255,255,255,0.87);
     --md-typeset-color:           var(--clr-body-text);
     --md-typeset-a-color:         var(--clr-accent);
@@ -168,7 +170,17 @@
 body,
 .md-typeset {
     font-family: "Lato", sans-serif;
+    font-size: 1rem;
 }
+
+.md-typeset table:not([class]) {
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 0.9rem;
+}
+
+/* ============================================================
+   HEADINGS — shared
+   ============================================================ */
 
 .md-typeset h1,
 .md-typeset h2,
@@ -178,11 +190,46 @@ body,
 .md-typeset h6 {
     font-family: "Alegreya SC", serif;
     font-weight: 700;
+    /* letter-spacing: ; */
+    /* text-transform: ; */
+}
+
+.md-typeset h1                 { font-size: 2.2rem; }
+.md-typeset h2,
+.md-typeset h3                 { font-size: 1.6rem; }
+.md-typeset h4,
+.md-typeset h5                 { font-size: 1.25rem; }
+.md-typeset h6                 { font-size: 1.1rem; }
+
+.md-typeset h2 {
+    border-bottom: 1px solid var(--clr-divider);
+    padding-bottom: 0.25em;
+}
+
+/* ============================================================
+   HEADINGS — light mode
+   ============================================================ */
+
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2,
+[data-md-color-scheme="default"] .md-typeset h3,
+[data-md-color-scheme="default"] .md-typeset h4,
+[data-md-color-scheme="default"] .md-typeset h5,
+[data-md-color-scheme="default"] .md-typeset h6 {
     color: var(--clr-accent);
 }
 
-.md-typeset table:not([class]) {
-    font-family: "Alegreya Sans SC", sans-serif;
+/* ============================================================
+   HEADINGS — dark mode
+   ============================================================ */
+
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4,
+[data-md-color-scheme="slate"] .md-typeset h5,
+[data-md-color-scheme="slate"] .md-typeset h6 {
+    color: var(--clr-body-text);
 }
 
 /* ============================================================
@@ -215,16 +262,24 @@ body[data-md-color-scheme="slate"] .md-tabs {
    ============================================================ */
 
 body[data-md-color-scheme="default"] {
-    background-color: var(--clr-texture-bg);
+    background-color: var(--clr-page-bg);
     background-image: url("../assets/images/large-leather.png");
     background-repeat: repeat;
 }
 
 body[data-md-color-scheme="slate"] {
-    background-color: var(--clr-texture-bg);
+    background-color: var(--clr-page-bg);
     background-image: url("../assets/images/large-leather.png");
     background-repeat: repeat;
     background-blend-mode: overlay;
+}
+
+/* Make the content column transparent so the leather texture shows through.
+   --md-default-bg-color feeds tables and UI widgets, not the content area. */
+.md-main__inner,
+.md-content,
+.md-content__inner {
+    background-color: transparent;
 }
 
 /* ============================================================
@@ -245,6 +300,63 @@ body[data-md-color-scheme="slate"] {
 }
 
 /* ============================================================
+   TABLES
+   ============================================================ */
+
+/* Suppress the header row when all column headers are empty.
+   Convention: use | | | as the markdown header line for tables
+   that have no column labels (e.g. key-value stat blocks). */
+.md-typeset table thead:not(:has(th:not(:empty))) {
+    display: none;
+}
+
+/* Suppress the first column for tables flagged .no-row-labels by JS.
+   Convention: leave the entire first column empty for tables that
+   have column labels but no row labels (e.g. horizontal stat blocks).
+   Matrix tables with a blank A1 corner: use &nbsp; in that cell. */
+.md-typeset table[data-no-row-labels] tr > :first-child {
+    display: none;
+}
+
+/* Material sets display:inline-block on tables; restore display:table so
+   table-layout and width behave correctly. */
+.md-typeset table:not([class]) {
+    display: table;
+    background-color: var(--clr-table-bg);
+}
+
+/* Material wraps tables in inline-block divs with negative side margins;
+   zero the margins and stretch to fill parent width. */
+.md-typeset__scrollwrap {
+    margin-left: 0;
+    margin-right: 0;
+}
+.md-typeset__table {
+    display: block;
+    width: 100%;
+}
+.md-typeset__table table {
+    width: 100%;
+    table-layout: auto;
+}
+
+/* --- Row label formatting (first column of labelled tables) ------- */
+/* .md-typeset table td:first-child { } */
+
+/* ============================================================
+   SUBTITLE (.subtitle paragraph — italic caption below a heading)
+   Usage: add { .subtitle } on the line after the paragraph in markdown.
+   Requires the attr_list markdown extension.
+   ============================================================ */
+
+.md-typeset .subtitle {
+    font-style: italic;
+    font-size: 0.875rem;
+    opacity: 0.65;
+    margin-top: -0.75em;
+}
+
+/* ============================================================
    CARDS (h3-level entries: features, spells, conditions, etc.)
    ============================================================ */
 
@@ -258,6 +370,24 @@ body[data-md-color-scheme="slate"] {
 }
 
 .card > h3:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+/* ============================================================
+   SUBCARDS (h6-level entries: ancestry options, sub-entries, etc.)
+   ============================================================ */
+
+.subcard {
+    border: 1px solid var(--clr-accent);
+    border-radius: 3px;
+    padding: 0.5rem 0.75rem 0.4rem;
+    margin: 0.75rem 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    background-color: var(--clr-page-bg);
+}
+
+.subcard > h6:first-child {
     margin-top: 0;
     padding-top: 0;
 }

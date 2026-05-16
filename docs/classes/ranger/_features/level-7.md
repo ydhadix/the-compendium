@@ -3,11 +3,11 @@
 
 Your hunting instincts deepen, increasing endurance and mobility.
 
-#### Tireless
+##### Tireless
 
 **Short Rest**: Your Exhaustion reduces by 1.
 
-#### Additional Imprints
+##### Additional Imprints
 
 The following Imprints are added to your [Primal Imprint](imprints.md#level-7-imprints) options:
 

@@ -3,10 +3,10 @@
 
 Your talents can inspire anyone — even yourself.
 
-#### Expertise
+##### Expertise
 
 You gain expertise in one of your skill or trade proficiencies.
 
-#### Specialist
+##### Specialist
 
 **1 use of Bardic Inspiration**: When you fail a check using the chosen expertise, you can add an Inspiration Die to the check, potentially turning the failure into a success.

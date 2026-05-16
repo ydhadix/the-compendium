@@ -3,10 +3,10 @@
 
 Your varied talents let you adapt to any task.
 
-#### Expertise
+##### Expertise
 
 You gain expertise in two of your skill or trade proficiencies.
 
-#### Generalist
+##### Generalist
 
 When you make an ability check, if you don't have proficiency, you can make the check with half-proficiency.

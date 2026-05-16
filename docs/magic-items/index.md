@@ -50,17 +50,17 @@ Alternatively, you can focus on one magic item during a Short Rest while remaini
 
 Some magic items require a special bond — called Attunement — before you can use their magical properties.
 
-### Becoming Attuned
+#### Becoming Attuned
 
 Attuning to an item requires you spend a Short Rest focused on only that item while being in physical contact with it. This can't be the same Short Rest used to identify the item.
 
 When you finish the Short Rest, you become attuned to the item and can use its full magical capabilities.
 
-### Attunement Slots
+#### Attunement Slots
 
 You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end one of your attunements first.
 
-### Ending Attunement
+#### Ending Attunement
 
 You can voluntarily end Attunement by spending another Short Rest focused on the item (unless the item is cursed).
 

@@ -2,6 +2,8 @@
 
 Your background represents the place and occupation that was most formative before you became an adventurer.
 
+## Choosing a Background
+
 You can create your own background, or you can modify one of the backgrounds below to suit your character.  Each background includes the following parts:
 
 - three abilities, which each increase by 1
@@ -17,7 +19,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Acolyte
 
-| Acolyte | |
+| | |
 |---|---|
 | abilities | intelligence, wisdom, charisma |
 | origin feat | magic initiate (cleric) |
@@ -37,7 +39,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Artisan
 
-| Artisan | |
+| | |
 |---|---|
 | abilities | strength, dexterity, intelligence |
 | origin feat | crafter |
@@ -55,7 +57,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Charlatan
 
-| Charlatan | |
+| | |
 |---|---|
 | abilities | dexterity, constitution, charisma |
 | origin feat | skilled |
@@ -73,7 +75,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Criminal
 
-| Criminal | |
+| | |
 |---|---|
 | abilities | dexterity, constitution, intelligence |
 | origin feat | alert |
@@ -94,7 +96,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Entertainer
 
-| Entertainer | |
+| | |
 |---|---|
 | abilities | strength, dexterity, charisma |
 | origin feat | musician |
@@ -114,7 +116,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Farmer
 
-| Farmer | |
+| | |
 |---|---|
 | abilities | strength, constitution, wisdom |
 | origin feat | tough |
@@ -135,7 +137,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Guard
 
-| Guard | |
+| | |
 |---|---|
 | abilities | strength, intelligence, wisdom |
 | origin feat | alert |
@@ -158,7 +160,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Guide
 
-| Guide | |
+| | |
 |---|---|
 | abilities | dexterity, constitution, wisdom |
 | origin feat | magic initiate (druid) |
@@ -181,7 +183,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Hermit
 
-| Hermit | |
+| | |
 |---|---|
 | abilities | constitution, wisdom, charisma |
 | origin feat | healer |
@@ -203,7 +205,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Merchant
 
-| Merchant | |
+| | |
 |---|---|
 | abilities | constitution, intelligence, charisma |
 | origin feat | lucky |
@@ -221,7 +223,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Noble
 
-| Noble | |
+| | |
 |---|---|
 | abilities | strength, intelligence, charisma |
 | origin feat | skilled |
@@ -239,7 +241,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Sage
 
-| Sage | |
+| | |
 |---|---|
 | abilities | constitution, intelligence, wisdom |
 | origin feat | magic initiate (wizard) |
@@ -259,7 +261,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Sailor
 
-| Sailor | |
+| | |
 |---|---|
 | abilities | strength, dexterity, wisdom |
 | origin feat | tavern brawler |
@@ -278,7 +280,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Scribe
 
-| Scribe | |
+| | |
 |---|---|
 | abilities | dexterity, intelligence, wisdom |
 | origin feat | skilled |
@@ -298,7 +300,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Soldier
 
-| Soldier | |
+| | |
 |---|---|
 | abilities | strength, dexterity, constitution |
 | origin feat | savage attacker |
@@ -320,7 +322,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 
 ### Wayfarer
 
-| Wayfarer | |
+| | |
 |---|---|
 | abilities | dexterity, wisdom, charisma |
 | origin feat | lucky |

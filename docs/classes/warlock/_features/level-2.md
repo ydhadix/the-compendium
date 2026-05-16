@@ -3,8 +3,6 @@
 
 **Magic Action, Once per Long Rest**: You regain half of your expended Pact Magic Spell Slots (rounded up).
 
----
-
 ### Eldritch Adept
 *Level 2 Warlock*
 

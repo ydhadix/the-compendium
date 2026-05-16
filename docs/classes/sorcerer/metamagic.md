@@ -4,8 +4,6 @@ When you cast a spell, you can expend Sorcery Points to modify it with a Metamag
 
 **Level Up**: You can change one of your known Metamagics.
 
----
-
 ## Careful Spell
 
 **1 Sorcery Point**: Choose up to your Sorcerer Ability in creatures. The chosen creatures automatically succeed on saves against the spell, and take no damage from it.

@@ -10,7 +10,7 @@ Most of an adventurer's normal features aren't effective at the scale ships oper
 
 Characters who don't have an officer role act as passengers or crew, and do not take turns during ship combat.
 
-### Changing Roles
+#### Changing Roles
 
 Officer roles are chosen before combat begins and usually don't change during an encounter. However, roles may change mid-combat if circumstances demand it.
 
@@ -30,11 +30,11 @@ This process repeats until every officer of every ship has taken at least one tu
 
 The round ends after all officers have taken at least one turn, and the last combatant in initiative order finishes their turn. At that point, the next round begins normally.
 
-### Condition Durations
+#### Condition Durations
 
 While a ship is affected by a status effect that prevents actions (such as Incapacitated), an officer is still chosen on the ship's turns, but that officer forgoes taking any action.
 
-### Time Scaling
+#### Time Scaling
 
 Each round of ship combat represents roughly 1 minute of time. The extended timescale reflects the rhythm of ship-to-ship engagements, where movement, coordination, and timing matter more than moment-to-moment reactions.
 
@@ -50,7 +50,7 @@ Long range is the distance most ships prefer to engage at, unless they are speci
 
 Close range is point-blank engagement — combat at this distance is risky, as escaping isn't always an option.
 
-### Distance Scaling
+#### Distance Scaling
 
 Engagement ranges are not measured in feet, squares, or tiles; ships in the astral sea are massive entities traveling vast distances. Ordinary creatures' attacks rarely exceed Close range and are generally irrelevant until boarding occurs.
 
@@ -62,7 +62,7 @@ Hull Points (HP) represent a ship's external defenses and can be repaired readil
 
 Keel Points (KP) represent the ship's structural integrity. A ship has significantly fewer KP, which cannot be restored without powerful magic or extensive downtime. When a ship's KP are reduced to 0, the ship is destroyed, its life support systems fail, and its crew are in mortal danger.
 
-### Damage Scaling
+#### Damage Scaling
 
 Ships can endure significantly more damage than individual creatures, and their weapons' destructive power reflects this. Damage dealt to a ship from a non-ship source is halved, and damage dealt by a ship to a non-ship is doubled.
 

@@ -3,19 +3,17 @@
 
 The Sorcerer table shows how many cantrips you know and how many spells you prepare.
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 
 Your Sorcerer Ability is your Spellcasting Ability.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 
 Sorcerer spells use an Arcane Focus as a spellcasting focus.
 
-#### Changing Spells
+##### Changing Spells
 
 **Level Up**: You can change one of your known cantrips and one of your prepared spells.
-
----
 
 ### Font of Magic
 *Level 1 Sorcerer*
@@ -32,8 +30,6 @@ The Sorcerer table shows how many Sorcery Points you have. When you cast a spell
 | 4th | 6 | 7 |
 | 5th | 7 | 9 |
 | 6th | 9 | 11 |
-
----
 
 ### Metamagic
 *Level 1 Sorcerer*

@@ -7,7 +7,7 @@ You call upon divine power to perform a small miracle. You can use the following
 
 **Long Rest**: You regain all uses of Channel Divinity.
 
-#### Channel Divinity: Divine Spark
+##### Channel Divinity: Divine Spark
 
 You unleash a mote of divine energy that can harm or heal.
 
@@ -19,7 +19,7 @@ You unleash a mote of divine energy that can harm or heal.
 
 Add an additional 1d8 at levels 5, 11, and 17.
 
-#### Channel Divinity: Turn Undead
+##### Channel Divinity: Turn Undead
 
 Your faith rebukes the restless dead.
 
@@ -31,44 +31,40 @@ Your faith rebukes the restless dead.
 
 Add an additional 1d8 at levels 5, 11, and 17.
 
----
-
 ### Divine Order
 *Level 1 Cleric*
 
 Your deity's doctrine shapes how you serve their divine will. Choose one of the following benefits.
 
-#### Priest
+##### Priest
 While you aren't wearing armor, your base Armor Class is 8 + Dexterity + Cleric Ability + Proficiency Bonus.
 
-#### Protector
+##### Protector
 You gain proficiency with heavy armor and one martial weapon category.
 
-#### Thaumaturge
+##### Thaumaturge
 You learn one extra Cleric cantrip, and you gain Expertise in Religion.
-
----
 
 ### Spellcasting
 *Level 1 Cleric*
 
 Your prayers call forth the magic of your deity.
 
-#### Spellcasting Ability
+##### Spellcasting Ability
 Your Cleric Ability is your Spellcasting Ability.
 
-#### Spellcasting Focus
+##### Spellcasting Focus
 Cleric spells use a Holy Symbol as a spellcasting focus.
 
-#### Spells Prepared
+##### Spells Prepared
 The Cleric table shows how many cantrips you know and how many spells you prepare.
 
-#### Changing Spells
+##### Changing Spells
 **Long Rest**: You can change any of your prepared spells.
 
 **Level Up**: You can change one of your known cantrips.
 
-#### Spell Slots
+##### Spell Slots
 The Cleric table shows how many spell slots you have.
 
 **Long Rest**: You regain all your spell slots.

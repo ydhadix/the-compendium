@@ -3,11 +3,11 @@
 
 Your unwavering focus improves your martial arts' efficiency.
 
-#### Unending Ki
+##### Unending Ki
 
 Before Initiative, if you have 3 or fewer Ki, you can regain expended Ki until you have 4 Ki.
 
-#### Perfect Form
+##### Perfect Form
 
 Whenever you spend Ki to use your Martial Arts, you gain the following additional benefits:
 
