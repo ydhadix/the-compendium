@@ -1,17 +1,19 @@
-### *Hail of Thorns*
+??? spell "Hail of Thorns | 1st-Level Conjuration"
 
-| 1st-Level Conjuration | *ranger* |
-|---|---|
-| components | v |
-| cast time | bonus action, when you hit with a physical ranged attack |
-| range | - |
-| target | the target of the attack, and everything else in a 5-foot radius sphere |
-| duration | - |
+    #### Hail of Thorns
 
-each target makes a reflex save.
+    | 1st-Level Conjuration | *ranger* |
+    |---|---|
+    | components | v |
+    | cast time | bonus action, when you hit with a physical ranged attack |
+    | range | - |
+    | target | the target of the attack, and everything else in a 5-foot radius sphere |
+    | duration | - |
 
-fail: you deal 1d10 piercing damage.
+    Each target makes a reflex save.
 
-success: no effect.
+    Fail: you deal 1d10 piercing damage.
 
-**At Higher Levels:** add 1d10 piercing damage and 5 feet to the radius per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add 1d10 piercing damage and 5 feet to the radius per additional spell level.

@@ -1,27 +1,29 @@
-### *Command*
+??? spell "Command | 1st-Level Enchantment"
 
-| 1st-Level Enchantment | *bard, cleric, paladin* |
-|---|---|
-| components | v |
-| cast time | full action |
-| range | 60 feet |
-| target | one creature |
-| duration | until the end of the target's next turn |
+    #### Command
 
-choose one of the following verbal commands. the target makes a will save.
+    | 1st-Level Enchantment | *bard, cleric, paladin* |
+    |---|---|
+    | components | v |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one creature |
+    | duration | until the end of the target's next turn |
 
-fail: the target must follow the command on its next turn, then immediately ends its turn.
+    Choose one of the following verbal commands. the target makes a will save.
 
-success: no effect.
+    Fail: the target must follow the command on its next turn, then immediately ends its turn.
 
-approach: the target moves towards you by the shortest route.
+    Success: no effect.
 
-drop: the target drops anything it's holding.
+    Approach: the target moves towards you by the shortest route.
 
-flee: the target moves as far away from you as possible.
+    Drop: the target drops anything it's holding.
 
-grovel: the target drops prone.
+    Flee: the target moves as far away from you as possible.
 
-halt: the target doesn't move or take any action.
+    Grovel: the target drops prone.
 
-**At Higher Levels:** add one target per additional spell level.
+    Halt: the target doesn't move or take any action.
+
+    **At Higher Levels:** add one target per additional spell level.

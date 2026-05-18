@@ -1,9 +1,11 @@
-### *Armor of Weightlessness*
+??? infusion "Armor of Weightlessness | Armor (Any)"
 
-| Uncommon Armor (Any) | attunement |
-|---|---|
-| charges | 5 (1d4+1 at dawn) |
+    #### Armor of Weightlessness
 
-You do not deal or take damage from falling.
-Bonus Action, 1 Charge: You can cast Jump, targeting yourself.
-Bonus Action, 2 Charges: You can cast Levitate, targeting yourself.
+    | Uncommon Armor (Any) | attunement |
+    |---|---|
+    | charges | 5 (1d4+1 at dawn) |
+
+    You do not deal or take damage from falling.
+    Bonus Action, 1 Charge: You can cast Jump, targeting yourself.
+    Bonus Action, 2 Charges: You can cast Levitate, targeting yourself.

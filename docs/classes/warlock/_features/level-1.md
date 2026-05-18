@@ -1,31 +1,33 @@
-### Spellcasting (Pact Magic)
-*Level 1 Warlock*
+???+ class-feature "Spellcasting (Pact Magic) | Level 1 Warlock"
 
-The Warlock table shows how many cantrips you know and how many spells you prepare.
+    #### Spellcasting (Pact Magic)
 
-All Warlock spell slots are the same level, as shown in the Slot Level column of the Warlock table.
+    The Warlock table shows how many cantrips you know and how many spells you prepare.
 
-##### Spellcasting Ability
+    All Warlock spell slots are the same level, as shown in the Slot Level column of the Warlock table.
 
-Your Warlock Ability is your Spellcasting Ability.
+    ###### Spellcasting Ability
 
-##### Spellcasting Focus
+    Your Warlock Ability is your Spellcasting Ability.
 
-Warlock spells use an Arcane Focus as a spellcasting focus.
+    ###### Spellcasting Focus
 
-##### Changing Spells
+    Warlock spells use an Arcane Focus as a spellcasting focus.
 
-**Level Up**: You can change one of your known cantrips and one of your prepared spells.
+    ###### Changing Spells
 
-##### Restoring Spell Slots
+    **Level Up**: You can change one of your known cantrips and one of your prepared spells.
 
-**Short Rest**: You regain all your spell slots.
+    ###### Restoring Spell Slots
 
-### Eldritch Invocations
-*Level 1 Warlock*
+    **Short Rest**: You regain all your spell slots.
 
-The Warlock table shows how many Eldritch Invocations you know, and when you learn more. You can't pick the same Invocation more than once, unless its description says otherwise.
+???+ class-feature "Eldritch Invocations | Level 1 Warlock"
 
-**Level Up**: You can change one of your known Invocations. You can't change an Invocation if it's a prerequisite for another Invocation you know.
+    #### Eldritch Invocations
 
-See [Eldritch Invocations](invocations.md) for the full list of available options. Starting invocations: Armor of Shadows, Eldritch Mind, Lessons of the First Ones, Pact of the Blade, Pact of the Chain, Pact of the Tome.
+    The Warlock table shows how many Eldritch Invocations you know, and when you learn more. You can't pick the same Invocation more than once, unless its description says otherwise.
+
+    **Level Up**: You can change one of your known Invocations. You can't change an Invocation if it's a prerequisite for another Invocation you know.
+
+    See [Eldritch Invocations](invocations.md) for the full list of available options. Starting invocations: Armor of Shadows, Eldritch Mind, Lessons of the First Ones, Pact of the Blade, Pact of the Chain, Pact of the Tome.

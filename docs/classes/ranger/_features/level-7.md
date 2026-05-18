@@ -1,15 +1,16 @@
-### Imprinting Expert
-*Level 7 Ranger*
+???+ class-feature "Imprinting Expert | Level 7 Ranger"
 
-Your hunting instincts deepen, increasing endurance and mobility.
+    #### Imprinting Expert
 
-##### Tireless
+    Your hunting instincts deepen, increasing endurance and mobility.
 
-**Short Rest**: Your Exhaustion reduces by 1.
+    ###### Tireless
 
-##### Additional Imprints
+    **Short Rest**: Your Exhaustion reduces by 1.
 
-The following Imprints are added to your [Primal Imprint](imprints.md#level-7-imprints) options:
+    ###### Additional Imprints
 
-- Amorphous
-- Glider
+    The following Imprints are added to your [Primal Imprint](imprints.md#level-7-imprints) options:
+
+    - Amorphous
+    - Glider

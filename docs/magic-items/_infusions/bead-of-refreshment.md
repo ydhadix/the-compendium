@@ -1,7 +1,9 @@
-### *Bead of Refreshment*
+??? infusion "Bead of Refreshment | Potion"
 
-| Common Potion | — |
-|---|---|
+    #### Bead of Refreshment
 
-This flavorless, gelatinous bead dissolves in liquid, transforming up to a pint of the liquid into fresh, cold drinking water.
-The bead cannot affect magical liquids or poisons.
+    | Common Potion | — |
+    |---|---|
+
+    This flavorless, gelatinous bead dissolves in liquid, transforming up to a pint of the liquid into fresh, cold drinking water.
+    The bead cannot affect magical liquids or poisons.

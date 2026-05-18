@@ -1,6 +1,8 @@
-### *Orb of Time*
+??? infusion "Orb of Time | Focus (Arcane)"
 
-| Common Focus (Arcane) | — |
-|---|---|
+    #### Orb of Time
 
-Magic Action: You can learn whether it is morning, afternoon, evening, or nighttime.
+    | Common Focus (Arcane) | — |
+    |---|---|
+
+    Magic Action: You can learn whether it is morning, afternoon, evening, or nighttime.

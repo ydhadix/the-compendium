@@ -16,159 +16,163 @@
 
 --8<-- "classes/ranger/_features/level-2.md"
 
-### Beast Master Spells
-*Level 3 Beast Master Ranger*
+???+ subclass-feature "Beast Master Spells | Level 3 Beast Master"
 
-Your ranger path grants you additional spells. You learn these spells at the corresponding Ranger levels.
+    #### Beast Master Spells
 
-| Ranger Level | Spells |
-|---|---|
-| 3rd | cure wounds |
-| 5th | warding bond |
-| 9th | haste |
+    Your ranger path grants you additional spells. You learn these spells at the corresponding Ranger levels.
 
-### Primal Companion
-*Level 3 Beast Master Ranger*
+    | Ranger Level | Spells |
+    |---|---|
+    | 3rd | cure wounds |
+    | 5th | warding bond |
+    | 9th | haste |
 
-You summon a loyal beast spirit that fights and travels with you.
+???+ subclass-feature "Primal Companion | Level 3 Beast Master"
 
-You summon one of the following Primal Companions. When you do, choose the kind of animal it looks like, and a physical damage type for its Beast Strike attack.
+    #### Primal Companion
 
-**Long Rest**: You can change your companion's form.
+    You summon a loyal beast spirit that fights and travels with you.
 
-##### Issuing Commands
+    You summon one of the following Primal Companions. When you do, choose the kind of animal it looks like, and a physical damage type for its Beast Strike attack.
 
-**Bonus Action**: You command your companion to move and take any Action available to it.
+    **Long Rest**: You can change your companion's form.
 
-**Attack Action**: You command your companion to move and take the Attack action.
+    ###### Issuing Commands
 
-##### Well-Trained
+    **Bonus Action**: You command your companion to move and take any Action available to it.
 
-Your companion adds your Proficiency Bonus to its ability checks and saving throws.
+    **Attack Action**: You command your companion to move and take the Attack action.
 
-##### Share Spells
+    ###### Well-Trained
 
-Before you cast a spell that targets only you, you can also target your companion if they are within 120 feet.
+    Your companion adds your Proficiency Bonus to its ability checks and saving throws.
 
-##### Resurrection
+    ###### Share Spells
 
-**1 minute, 1 use of Marked Target**: If your companion is dead, you revive them with all their hit points.
+    Before you cast a spell that targets only you, you can also target your companion if they are within 120 feet.
 
----
+    ###### Resurrection
 
-#### Primal Companion: Land
+    **1 minute, 1 use of Marked Target**: If your companion is dead, you revive them with all their hit points.
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| | Medium Beast | Neutral | | | | |
-| | **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
-| | **Armor** | natural | **DR** | — | | |
-| | **STR** | +2 | **DEX** | +2 | **CON** | +2 |
-| | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
-| | **Senses** | Darkvision 60 ft. | | | | |
-| | **Speed** | 40 ft., Climb 40 ft. | **Reach** | 5 ft. | | |
+    ---
 
-##### Beast Strike
-*Melee Attack*
+    ###### Primal Companion: Land
 
-| | | | | |
-| |---|---|---|---|
-| | **Range** | Reach | **Attack** | +your Spell Attack to hit |
-| | **Damage** | 1d8 + Str + your Spell Ability | | |
-| | **Charge (20 ft.)** | While charging the target, this attack deals an extra 1d6 damage. If the target is up to one size larger, it is knocked Prone. | | |
+    | | | | | | | |
+    |---|---|---|---|---|---|---|
+    | | Medium Beast | Neutral | | | | |
+    | | **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
+    | | **Armor** | natural | **DR** | — | | |
+    | | **STR** | +2 | **DEX** | +2 | **CON** | +2 |
+    | | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
+    | | **Senses** | Darkvision 60 ft. | | | | |
+    | | **Speed** | 40 ft., Climb 40 ft. | **Reach** | 5 ft. | | |
 
----
+    ###### Beast Strike
+    *Melee Attack*
 
-#### Primal Companion: Sea
+    | | | | | |
+    | |---|---|---|---|
+    | | **Range** | Reach | **Attack** | +your Spell Attack to hit |
+    | | **Damage** | 1d8 + Str + your Spell Ability | | |
+    | | **Charge (20 ft.)** | While charging the target, this attack deals an extra 1d6 damage. If the target is up to one size larger, it is knocked Prone. | | |
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| | Medium Beast | Neutral | | | | |
-| | **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
-| | **Armor** | natural | **DR** | — | | |
-| | **STR** | +2 | **DEX** | +2 | **CON** | +2 |
-| | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
-| | **Senses** | Darkvision 90 ft. | | | | |
-| | **Speed** | 5 ft., Swim 60 ft. | **Reach** | 5 ft. | | |
+    ---
 
-**Amphibious**: Can breathe air and water.
+    ###### Primal Companion: Sea
 
-##### Beast Strike
-*Melee Attack*
+    | | | | | | | |
+    |---|---|---|---|---|---|---|
+    | | Medium Beast | Neutral | | | | |
+    | | **AC** | 11 + Dex + Prof | **HP** | (6 + Con) × Level | | |
+    | | **Armor** | natural | **DR** | — | | |
+    | | **STR** | +2 | **DEX** | +2 | **CON** | +2 |
+    | | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
+    | | **Senses** | Darkvision 90 ft. | | | | |
+    | | **Speed** | 5 ft., Swim 60 ft. | **Reach** | 5 ft. | | |
 
-| | | | | |
-|---|---|---|---|---|
-| | **Range** | Reach | **Attack** | +your Spell Attack to hit |
-| | **Damage** | 1d6 + Str + your Spell Ability | | |
-| | **Grappling** | The target is Grappled. The escape DC is your Spell Save DC. | | |
+    **Amphibious**: Can breathe air and water.
 
----
+    ###### Beast Strike
+    *Melee Attack*
 
-#### Primal Companion: Sky
+    | | | | | |
+    |---|---|---|---|---|
+    | | **Range** | Reach | **Attack** | +your Spell Attack to hit |
+    | | **Damage** | 1d6 + Str + your Spell Ability | | |
+    | | **Grappling** | The target is Grappled. The escape DC is your Spell Save DC. | | |
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| | Small Beast | Neutral | | | | |
-| | **AC** | 11 + Dex + Prof | **HP** | (4 + Con) × Level | | |
-| | **Armor** | natural | **DR** | — | | |
-| | **STR** | −2 | **DEX** | +3 | **CON** | +1 |
-| | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
-| | **Senses** | Darkvision 60 ft. | | | | |
-| | **Speed** | 10 ft., Fly 60 ft. | **Reach** | 5 ft. | | |
+    ---
 
-**Flyby**: Moving doesn't trigger Opportunity Attacks.
+    ###### Primal Companion: Sky
 
-##### Beast Strike
-*Melee Attack*
+    | | | | | | | |
+    |---|---|---|---|---|---|---|
+    | | Small Beast | Neutral | | | | |
+    | | **AC** | 11 + Dex + Prof | **HP** | (4 + Con) × Level | | |
+    | | **Armor** | natural | **DR** | — | | |
+    | | **STR** | −2 | **DEX** | +3 | **CON** | +1 |
+    | | **INT** | −1 | **WIS** | +2 | **CHA** | +0 |
+    | | **Senses** | Darkvision 60 ft. | | | | |
+    | | **Speed** | 10 ft., Fly 60 ft. | **Reach** | 5 ft. | | |
 
-| | | | | |
-|---|---|---|---|---|
-| | **Range** | Reach | **Attack** | +your Spell Attack to hit |
-| | **Damage** | 1d4 + Dex + your Spell Ability | | |
+    **Flyby**: Moving doesn't trigger Opportunity Attacks.
 
---8<-- "classes/ranger/_features/level-4.md"
+    ###### Beast Strike
+    *Melee Attack*
 
---8<-- "classes/ranger/_features/level-5.md"
+    | | | | | |
+    |---|---|---|---|---|
+    | | **Range** | Reach | **Attack** | +your Spell Attack to hit |
+    | | **Damage** | 1d4 + Dex + your Spell Ability | | |
 
-### Superior Training
-*Level 6 Beast Master Ranger*
+    --8<-- "classes/ranger/_features/level-4.md"
 
-Your companion can follow complex commands.
+    --8<-- "classes/ranger/_features/level-5.md"
 
-##### Magical Strikes
+???+ subclass-feature "Superior Training | Level 6 Beast Master"
 
-Your companion's Beast Strike can deal Force damage instead of its normal damage type.
+    #### Superior Training
 
-##### Advanced Commands
+    Your companion can follow complex commands.
 
-When you use your Bonus Action to command your companion, you can also command your companion to use its Bonus Action to Dash, Disengage, Dodge, or Help.
+    ###### Magical Strikes
 
---8<-- "classes/ranger/_features/level-7.md"
+    Your companion's Beast Strike can deal Force damage instead of its normal damage type.
 
---8<-- "classes/ranger/_features/level-8.md"
+    ###### Advanced Commands
 
-### Exceptional Training
-*Level 9 Beast Master Ranger*
+    When you use your Bonus Action to command your companion, you can also command your companion to use its Bonus Action to Dash, Disengage, Dodge, or Help.
 
-Your companion can unleash swift, successive attacks.
+    --8<-- "classes/ranger/_features/level-7.md"
 
-##### Apex Companion
+    --8<-- "classes/ranger/_features/level-8.md"
 
-When you change your companion's form, you can increase their size by one category.
+???+ subclass-feature "Exceptional Training | Level 9 Beast Master"
 
-##### Bestial Fury
+    #### Exceptional Training
 
-When your companion takes the Attack action on its turn, it can make an additional attack.
+    Your companion can unleash swift, successive attacks.
 
-##### Strike Mastery
+    ###### Apex Companion
 
-Your companion's Beast Strike can use the Graze or Sap weapon Mastery Properties.
+    When you change your companion's form, you can increase their size by one category.
 
---8<-- "classes/ranger/_features/level-10.md"
+    ###### Bestial Fury
 
---8<-- "classes/ranger/_features/level-11.md"
+    When your companion takes the Attack action on its turn, it can make an additional attack.
 
-## Additional Beast Forms
+    ###### Strike Mastery
+
+    Your companion's Beast Strike can use the Graze or Sap weapon Mastery Properties.
+
+    --8<-- "classes/ranger/_features/level-10.md"
+
+    --8<-- "classes/ranger/_features/level-11.md"
+
+    ## Additional Beast Forms
 
 ### Primal Companion: Gray Render
 

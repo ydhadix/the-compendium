@@ -1,13 +1,15 @@
-### *Gentle Repose*
+??? spell "Gentle Repose | 2nd-Level Necromancy"
 
-| 2nd-Level Necromancy | *cleric, paladin, wizard* |
-|---|---|
-| components | v, s, m (consumes 2 copper pieces) |
-| cast time | full action, or ritual |
-| range | reach |
-| target | one corpse |
-| duration | 10 days |
+    #### Gentle Repose
 
-the target doesn't decay and can't become undead.
+    | 2nd-Level Necromancy | *cleric, paladin, wizard* |
+    |---|---|
+    | components | v, s, m (consumes 2 copper pieces) |
+    | cast time | full action, or ritual |
+    | range | reach |
+    | target | one corpse |
+    | duration | 10 days |
 
-this spell's duration doesn't count against the time limit of resurrection spells.
+    The target doesn't decay and can't become undead.
+
+    This spell's duration doesn't count against the time limit of resurrection spells.

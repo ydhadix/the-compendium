@@ -1,6 +1,8 @@
-### *Helm of Awareness*
+??? infusion "Helm of Awareness | Clothing (Hat)"
 
-| Uncommon Clothing (Hat) | — |
-|---|---|
+    #### Helm of Awareness
 
-You have Advantage on Initiative checks.
+    | Uncommon Clothing (Hat) | — |
+    |---|---|
+
+    You have Advantage on Initiative checks.

@@ -1,33 +1,35 @@
-### Fighting Style
-*Level 2 Artificer*
+???+ class-feature "Fighting Style | Level 2 Artificer"
 
-Your training has developed into a particular style of fighting.
+    #### Fighting Style
 
-You gain a Fighting Style feat of your choice.
+    Your training has developed into a particular style of fighting.
 
-##### Changing Fighting Styles
+    You gain a Fighting Style feat of your choice.
 
-**Level Up**: You can change your Fighting Style feat.
+    ###### Changing Fighting Styles
 
-### Improvise
-*Level 2 Artificer*
+    **Level Up**: You can change your Fighting Style feat.
 
-You're able to come up with quick solutions under pressure.
+???+ class-feature "Improvise | Level 2 Artificer"
 
-You can use the following Improvise effects. The Artificer table shows how many Improvise uses you have.
+    #### Improvise
 
-**Short Rest**: You regain one use of Improvise.
+    You're able to come up with quick solutions under pressure.
 
-**Long Rest**: You regain all uses of Improvise.
+    You can use the following Improvise effects. The Artificer table shows how many Improvise uses you have.
 
-##### Improvise: Adapt
+    **Short Rest**: You regain one use of Improvise.
 
-You quickly reconfigure your gear for the task at hand.
+    **Long Rest**: You regain all uses of Improvise.
 
-**Magic Action**: You change one of your Infused Items.
+    ###### Improvise: Adapt
 
-##### Improvise: Overcome
+    You quickly reconfigure your gear for the task at hand.
 
-You find the missing piece that turns failure to success.
+    **Magic Action**: You change one of your Infused Items.
 
-**Reaction**: When a creature within 30 feet of you fails an ability check or saving throw, you add your Artificer Ability to the total.
+    ###### Improvise: Overcome
+
+    You find the missing piece that turns failure to success.
+
+    **Reaction**: When a creature within 30 feet of you fails an ability check or saving throw, you add your Artificer Ability to the total.

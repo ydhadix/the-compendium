@@ -1,17 +1,19 @@
-### *Earthbind*
+??? spell "Earthbind | 1st-Level Transmutation"
 
-| 1st-Level Transmutation | *druid, sorcerer, warlock, wizard* |
-|---|---|
-| components | v |
-| cast time | full action |
-| range | 300 feet |
-| target | one creature |
-| duration | 1 minute (concentration) |
+    #### Earthbind
 
-the target makes a fortitude save.
+    | 1st-Level Transmutation | *druid, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v |
+    | cast time | full action |
+    | range | 300 feet |
+    | target | one creature |
+    | duration | 1 minute (concentration) |
 
-fail: the target's flying speed becomes 0. if the target falls, its descent slows to 60 feet. when the target lands, it takes no damage from the fall.
+    The target makes a fortitude save.
 
-success: no effect.
+    Fail: the target's flying speed becomes 0. if the target falls, its descent slows to 60 feet. when the target lands, it takes no damage from the fall.
 
-**At Higher Levels:** add one target per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add one target per additional spell level.

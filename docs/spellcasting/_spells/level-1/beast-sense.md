@@ -1,11 +1,13 @@
-### *Beast Sense*
+??? spell "Beast Sense | 1st-Level Divination"
 
-| 1st-Level Divination | *druid, ranger* |
-|---|---|
-| components | s |
-| cast time | full action, or ritual |
-| range | reach |
-| target | one willing beast |
-| duration | 1 hour (concentration) |
+    #### Beast Sense
 
-you can see and hear through the target's senses, as well as your own.
+    | 1st-Level Divination | *druid, ranger* |
+    |---|---|
+    | components | s |
+    | cast time | full action, or ritual |
+    | range | reach |
+    | target | one willing beast |
+    | duration | 1 hour (concentration) |
+
+    You can see and hear through the target's senses, as well as your own.

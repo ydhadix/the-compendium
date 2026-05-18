@@ -1,12 +1,13 @@
-### Jack of All Trades
-*Level 2 Bard*
+???+ class-feature "Jack of All Trades | Level 2 Bard"
 
-Your varied talents let you adapt to any task.
+    #### Jack of All Trades
 
-##### Expertise
+    Your varied talents let you adapt to any task.
 
-You gain expertise in two of your skill or trade proficiencies.
+    ###### Expertise
 
-##### Generalist
+    You gain expertise in two of your skill or trade proficiencies.
 
-When you make an ability check, if you don't have proficiency, you can make the check with half-proficiency.
+    ###### Generalist
+
+    When you make an ability check, if you don't have proficiency, you can make the check with half-proficiency.

@@ -1,40 +1,43 @@
-### Marked Target
-*Level 1 Ranger*
+???+ class-feature "Marked Target | Level 1 Ranger"
 
-You single out a creature and hunt them relentlessly.
+    #### Marked Target
 
-You learn Hunter's Mark and can cast it without a spell slot using this feature. The Ranger table shows how many Marked Target uses you have.
+    You single out a creature and hunt them relentlessly.
 
-**Short Rest**: You regain one use of Marked Target.
+    You learn Hunter's Mark and can cast it without a spell slot using this feature. The Ranger table shows how many Marked Target uses you have.
 
-**Long Rest**: You regain all uses of Marked Target.
+    **Short Rest**: You regain one use of Marked Target.
 
-##### Improved Mark
+    **Long Rest**: You regain all uses of Marked Target.
 
-When you cast Hunter's Mark, it gains the following benefits:
+    ###### Improved Mark
 
-- The extra damage increases as you gain Ranger levels, as shown in the Mark Damage column of the Ranger table.
-- You can move the mark regardless of the target's HP.
-- You can cast this spell without Concentration. If you do, the spell's duration becomes 1 minute.
+    When you cast Hunter's Mark, it gains the following benefits:
 
-### Primal Imprint
-*Level 1 Ranger*
+    - The extra damage increases as you gain Ranger levels, as shown in the Mark Damage column of the Ranger table.
+    - You can move the mark regardless of the target's HP.
+    - You can cast this spell without Concentration. If you do, the spell's duration becomes 1 minute.
 
-You can channel animalistic techniques to survive.
+???+ class-feature "Primal Imprint | Level 1 Ranger"
 
-The Ranger table shows how many Primal Imprints you know, and when you learn more. You can't pick the same Imprint more than once.
+    #### Primal Imprint
 
-**Long Rest**: You can change one of your known Imprints.
+    You can channel animalistic techniques to survive.
 
-See [Primal Imprints](imprints.md) for the full list of available imprints. Starting imprints: Bioluminescence, Hold Breath, Powerful Build.
+    The Ranger table shows how many Primal Imprints you know, and when you learn more. You can't pick the same Imprint more than once.
 
-### Weapon Mastery
-*Level 1 Ranger*
+    **Long Rest**: You can change one of your known Imprints.
 
-Your practice with specific weapons unlocks new techniques.
+    See [Primal Imprints](imprints.md) for the full list of available imprints. Starting imprints: Bioluminescence, Hold Breath, Powerful Build.
 
-You learn two weapon masteries.
+???+ class-feature "Weapon Mastery | Level 1 Ranger"
 
-##### Changing Weapon Masteries
+    #### Weapon Mastery
 
-**Long Rest**: You can change one of your weapon masteries.
+    Your practice with specific weapons unlocks new techniques.
+
+    You learn two weapon masteries.
+
+    ###### Changing Weapon Masteries
+
+    **Long Rest**: You can change one of your weapon masteries.

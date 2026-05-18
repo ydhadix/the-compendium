@@ -1,14 +1,16 @@
-### *Gloves of the Stormrider*
+??? infusion "Gloves of the Stormrider | Clothing (Gloves)"
 
-| Rare Clothing (Gloves) | attunement |
-|---|---|
+    #### Gloves of the Stormrider
 
-#### Storm Sense
-You know the general direction and distance to any active thunderstorms within 5 miles.
+    | Rare Clothing (Gloves) | attunement |
+    |---|---|
 
-#### Lightning Resistance
-You have Resistance to Lightning damage.
+    #### Storm Sense
+    You know the general direction and distance to any active thunderstorms within 5 miles.
 
-#### Ride the Lightning
-Reaction: After anything within 30 feet takes Lightning damage, you can teleport to a space within 5 feet of that target.
-Reaction: After the path of a ranged attack or effect that deals Lightning damage passes within reach, you can teleport up to 100 feet up or down the path.
+    #### Lightning Resistance
+    You have Resistance to Lightning damage.
+
+    #### Ride the Lightning
+    Reaction: After anything within 30 feet takes Lightning damage, you can teleport to a space within 5 feet of that target.
+    Reaction: After the path of a ranged attack or effect that deals Lightning damage passes within reach, you can teleport up to 100 feet up or down the path.

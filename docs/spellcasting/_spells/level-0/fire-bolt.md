@@ -1,15 +1,17 @@
-### *Fire Bolt*
+??? spell "Fire Bolt | Evocation Cantrip"
 
-| Evocation Cantrip | *artificer, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 120 feet |
-| target | one thing |
-| duration | 1 minute |
+    #### Fire Bolt
 
-you make a ranged attack against the target.
+    | Evocation Cantrip | *artificer, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 120 feet |
+    | target | one thing |
+    | duration | 1 minute |
 
-hit: you deal 1d10 fire damage. a flammable object starts burning (1d4).
+    You make a ranged attack against the target.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Hit: you deal 1d10 fire damage. a flammable object starts burning (1d4).
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

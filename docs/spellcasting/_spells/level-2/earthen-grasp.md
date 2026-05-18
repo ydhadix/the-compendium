@@ -1,19 +1,21 @@
-### *Earthen Grasp*
+??? spell "Earthen Grasp | 2nd-Level Transmutation"
 
-| 2nd-Level Transmutation | *sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 30 feet |
-| target | one thing |
-| duration | 1 minute (concentration) |
+    #### Earthen Grasp
 
-you create a medium, earthen hand and take the following magic action (no additional action required).
+    | 2nd-Level Transmutation | *sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one thing |
+    | duration | 1 minute (concentration) |
 
-magic action: the hand releases all restrained targets. then, you move the hand up to 30 feet and can choose a target within 5 feet of the hand. the target makes a fortitude save.
+    You create a medium, earthen hand and take the following magic action (no additional action required).
 
-fail: you deal 2d6 bludgeoning damage and the target becomes restrained. the target can take a utilize action to make an athletics check against your spell save dc. on a success, this effect ends on the target.
+    Magic action: the hand releases all restrained targets. then, you move the hand up to 30 feet and can choose a target within 5 feet of the hand. the target makes a fortitude save.
 
-success: no effect.
+    Fail: you deal 2d6 bludgeoning damage and the target becomes restrained. the target can take a utilize action to make an athletics check against your spell save dc. on a success, this effect ends on the target.
 
-**At Higher Levels:** add 1d6 damage per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add 1d6 damage per additional spell level.

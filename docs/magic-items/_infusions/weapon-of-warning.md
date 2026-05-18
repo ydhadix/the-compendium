@@ -1,6 +1,8 @@
-### *Weapon of Warning*
+??? infusion "Weapon of Warning | Weapon (Any)"
 
-| Uncommon Weapon (Any) | attunement |
-|---|---|
+    #### Weapon of Warning
 
-You and your allies within 30 feet have Advantage on Initiative checks and are awakened from nonmagical sleep whenever combat begins.
+    | Uncommon Weapon (Any) | attunement |
+    |---|---|
+
+    You and your allies within 30 feet have Advantage on Initiative checks and are awakened from nonmagical sleep whenever combat begins.

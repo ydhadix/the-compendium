@@ -1,14 +1,17 @@
-### Level 1 Feature
-*Level 1 [Class Name]*
+???+ class-feature "Level 1 Feature | Level 1 [Class Name]"
 
-[Feature description].
+    #### Level 1 Feature
 
-### Level 1 Feature
-*Level 1 [Class Name]*
+    [Feature description].
 
-[Feature description].
+???+ class-feature "Level 1 Feature | Level 1 [Class Name]"
 
-### Level 1 Feature
-*Level 1 [Class Name]*
+    #### Level 1 Feature
 
-[Feature description].
+    [Feature description].
+
+???+ class-feature "Level 1 Feature | Level 1 [Class Name]"
+
+    #### Level 1 Feature
+
+    [Feature description].

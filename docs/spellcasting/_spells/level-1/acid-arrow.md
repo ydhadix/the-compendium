@@ -1,17 +1,19 @@
-### *Acid Arrow*
+??? spell "Acid Arrow | 1st-Level Evocation"
 
-| 1st-Level Evocation | *artificer, ranger, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 90 feet |
-| target | one thing |
-| duration | - |
+    #### Acid Arrow
 
-you make a ranged attack against the target.
+    | 1st-Level Evocation | *artificer, ranger, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 90 feet |
+    | target | one thing |
+    | duration | - |
 
-hit: you deal 4d4 acid damage. at the end of the target's next turn, you deal 2d4 acid damage.
+    You make a ranged attack against the target.
 
-miss: you deal half as much damage.
+    Hit: you deal 4d4 acid damage. at the end of the target's next turn, you deal 2d4 acid damage.
 
-**At Higher Levels:** add 1d4 acid damage to the attack and effect damage per additional spell level.
+    Miss: you deal half as much damage.
+
+    **At Higher Levels:** add 1d4 acid damage to the attack and effect damage per additional spell level.

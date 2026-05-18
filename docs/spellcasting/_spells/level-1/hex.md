@@ -1,19 +1,21 @@
-### *Hex*
+??? spell "Hex | 1st-Level Enchantment"
 
-| 1st-Level Enchantment | *warlock* |
-|---|---|
-| components | v |
-| cast time | bonus action |
-| range | 90 feet |
-| target | one creature |
-| duration | 1 hour (concentration) |
+    #### Hex
 
-choose an ability. the target has disadvantage on checks using the chosen ability.
+    | 1st-Level Enchantment | *warlock* |
+    |---|---|
+    | components | v |
+    | cast time | bonus action |
+    | range | 90 feet |
+    | target | one creature |
+    | duration | 1 hour (concentration) |
 
-when you hit the target with an attack, you deal an additional 1d6 necrotic damage.
+    Choose an ability. the target has disadvantage on checks using the chosen ability.
 
-bonus action: if the target has 0 hit points, choose a new target and move the mark to it (you don't choose a different ability).
+    When you hit the target with an attack, you deal an additional 1d6 necrotic damage.
 
-**At Higher Levels:** level 2-3: the duration is 8 hours (concentration).
+    Bonus action: if the target has 0 hit points, choose a new target and move the mark to it (you don't choose a different ability).
 
-level 4+: the duration is 24 hours (concentration).
+    **At Higher Levels:** level 2-3: the duration is 8 hours (concentration).
+
+    Level 4+: the duration is 24 hours (concentration).

@@ -1,8 +1,9 @@
-### Tactical Master
-*Level 7 Fighter*
+???+ class-feature "Tactical Master | Level 7 Fighter"
 
-Your weapon training brings out your weapons' full potential.
+    #### Tactical Master
 
-You learn two weapon masteries from Push, Sap, and Slow.
+    Your weapon training brings out your weapons' full potential.
 
-You can use Push, Sap, or Slow with any weapon.
+    You learn two weapon masteries from Push, Sap, and Slow.
+
+    You can use Push, Sap, or Slow with any weapon.

@@ -1,6 +1,8 @@
-### *Eyes of Minute Seeing*
+??? infusion "Eyes of Minute Seeing | Clothing (Jewelry)"
 
-| Uncommon Clothing (Jewelry) | — |
-|---|---|
+    #### Eyes of Minute Seeing
 
-When you examine something within your reach, you have Darkvision and Advantage on Perception checks.
+    | Uncommon Clothing (Jewelry) | — |
+    |---|---|
+
+    When you examine something within your reach, you have Darkvision and Advantage on Perception checks.

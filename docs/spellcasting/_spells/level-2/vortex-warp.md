@@ -1,17 +1,19 @@
-### *Vortex Warp*
+??? spell "Vortex Warp | 2nd-Level Conjuration"
 
-| 2nd-Level Conjuration | *artificer, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 90 feet |
-| target | one other creature or object |
-| duration | - |
+    #### Vortex Warp
 
-the target makes a fortitude save.
+    | 2nd-Level Conjuration | *artificer, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 90 feet |
+    | target | one other creature or object |
+    | duration | - |
 
-fail: you teleport the target to an unoccupied space on a surface or in a liquid that can support the target without squeezing.
+    The target makes a fortitude save.
 
-success: no effect.
+    Fail: you teleport the target to an unoccupied space on a surface or in a liquid that can support the target without squeezing.
 
-**At Higher Levels:** add 30 feet of range per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add 30 feet of range per additional spell level.

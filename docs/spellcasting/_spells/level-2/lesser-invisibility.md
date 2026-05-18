@@ -1,15 +1,17 @@
-### *Lesser Invisibility*
+??? spell "Lesser Invisibility | 2nd-Level Illusion"
 
-| 2nd-Level Illusion | *artificer, bard, sorcerer, warlock, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | reach |
-| target | one thing |
-| duration | 1 hour (concentration) |
+    #### Lesser Invisibility
 
-the target becomes invisible.
+    | 2nd-Level Illusion | *artificer, bard, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | reach |
+    | target | one thing |
+    | duration | 1 hour (concentration) |
 
-this spell ends if the target attacks, deals damage, or casts a spell.
+    The target becomes invisible.
 
-**At Higher Levels:** add one target per additional spell level.
+    This spell ends if the target attacks, deals damage, or casts a spell.
+
+    **At Higher Levels:** add one target per additional spell level.

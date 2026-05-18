@@ -1,9 +1,10 @@
-### Ability Increase
-*Level 4 Fighter*
+???+ class-feature "Ability Increase | Level 4 Fighter"
 
-You hone your talents through regular training.
+    #### Ability Increase
 
-Choose one of the following benefits:
+    You hone your talents through regular training.
 
-- You increase an Ability by 1.
-- You gain an additional Feat.
+    Choose one of the following benefits:
+
+    - You increase an Ability by 1.
+    - You gain an additional Feat.

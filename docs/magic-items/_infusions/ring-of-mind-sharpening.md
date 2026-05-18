@@ -1,7 +1,9 @@
-### *Ring of Mind Sharpening*
+??? infusion "Ring of Mind Sharpening | Clothing (Jewelry)"
 
-| Uncommon Clothing (Jewelry) | attunement |
-|---|---|
-| charges | 4 (1d4 at dawn) |
+    #### Ring of Mind Sharpening
 
-Reaction, 1 Charge: Before you fail a Concentration Save, you can succeed instead.
+    | Uncommon Clothing (Jewelry) | attunement |
+    |---|---|
+    | charges | 4 (1d4 at dawn) |
+
+    Reaction, 1 Charge: Before you fail a Concentration Save, you can succeed instead.

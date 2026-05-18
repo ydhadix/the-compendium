@@ -1,17 +1,19 @@
-### *Entangle*
+??? spell "Entangle | 1st-Level Conjuration"
 
-| 1st-Level Conjuration | *druid, ranger* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 90 feet |
-| target | everything in a 20-foot square on the ground |
-| duration | 1 minute (concentration) |
+    #### Entangle
 
-the area is difficult terrain.
+    | 1st-Level Conjuration | *druid, ranger* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 90 feet |
+    | target | everything in a 20-foot square on the ground |
+    | duration | 1 minute (concentration) |
 
-each target makes a fortitude save.
+    The area is difficult terrain.
 
-fail: the target becomes restrained. a creature that can reach the target can take a utilize action to make an athletics check against your spell save dc. on a success, this spell ends on the target.
+    Each target makes a fortitude save.
 
-success: no effect.
+    Fail: the target becomes restrained. a creature that can reach the target can take a utilize action to make an athletics check against your spell save dc. on a success, this spell ends on the target.
+
+    Success: no effect.

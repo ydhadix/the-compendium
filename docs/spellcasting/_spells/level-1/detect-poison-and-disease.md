@@ -1,13 +1,15 @@
-### *Detect Poison & Disease*
+??? spell "Detect Poison & Disease | 1st-Level Divination"
 
-| 1st-Level Divination | *cleric, druid, paladin, ranger* |
-|---|---|
-| components | v, s, m |
-| cast time | full action, or ritual |
-| range | 30 feet |
-| target | self |
-| duration | 10 minutes (concentration) |
+    #### Detect Poison & Disease
 
-you sense the location of any poisons, poisonous or venomous creatures, and magical contagions, and can identify the kind of poison, creature, or contagion.
+    | 1st-Level Divination | *cleric, druid, paladin, ranger* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action, or ritual |
+    | range | 30 feet |
+    | target | self |
+    | duration | 10 minutes (concentration) |
 
-this spell is blocked by 1 foot of stone, dirt or wood; 1 inch of metal; or a thin sheet of lead.
+    You sense the location of any poisons, poisonous or venomous creatures, and magical contagions, and can identify the kind of poison, creature, or contagion.
+
+    This spell is blocked by 1 foot of stone, dirt or wood; 1 inch of metal; or a thin sheet of lead.

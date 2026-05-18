@@ -1,17 +1,19 @@
-### *Spiritual Weapon*
+??? spell "Spiritual Weapon | 2nd-Level Evocation"
 
-| 2nd-Level Evocation | *cleric* |
-|---|---|
-| components | v, s |
-| cast time | bonus action |
-| range | 60 feet |
-| target | - |
-| duration | 1 minute (concentration) |
+    #### Spiritual Weapon
 
-you create a floating, spectral force that resembles a weapon and take the following bonus action (no additional action required).
+    | 2nd-Level Evocation | *cleric* |
+    |---|---|
+    | components | v, s |
+    | cast time | bonus action |
+    | range | 60 feet |
+    | target | - |
+    | duration | 1 minute (concentration) |
 
-bonus action: you move the weapon up to your speed, then you can make a melee attack against a target within 5 feet of it.
+    You create a floating, spectral force that resembles a weapon and take the following bonus action (no additional action required).
 
-hit: you deal 1d8 + your spellcasting ability force damage.
+    Bonus action: you move the weapon up to your speed, then you can make a melee attack against a target within 5 feet of it.
 
-**At Higher Levels:** add 1d8 force damage per additional spell level.
+    Hit: you deal 1d8 + your spellcasting ability force damage.
+
+    **At Higher Levels:** add 1d8 force damage per additional spell level.

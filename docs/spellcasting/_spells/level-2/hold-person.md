@@ -1,17 +1,19 @@
-### *Hold Person*
+??? spell "Hold Person | 2nd-Level Enchantment"
 
-| 2nd-Level Enchantment | *bard, cleric, druid, sorcerer, warlock, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 60 feet |
-| target | one humanoid |
-| duration | 1 minute (concentration) |
+    #### Hold Person
 
-the target makes a will save.
+    | 2nd-Level Enchantment | *bard, cleric, druid, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one humanoid |
+    | duration | 1 minute (concentration) |
 
-fail: the target becomes paralyzed. when the target's turn ends, it repeats the save.
+    The target makes a will save.
 
-success: this spell ends.
+    Fail: the target becomes paralyzed. when the target's turn ends, it repeats the save.
 
-**At Higher Levels:** add one target per additional spell level.
+    Success: this spell ends.
+
+    **At Higher Levels:** add one target per additional spell level.

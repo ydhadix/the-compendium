@@ -1,17 +1,19 @@
-### *Ray of Enfeeblement*
+??? spell "Ray of Enfeeblement | 2nd-Level Necromancy"
 
-| 2nd-Level Necromancy | *warlock, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 60 feet |
-| target | one creature |
-| duration | 1 minute (concentration) |
+    #### Ray of Enfeeblement
 
-the target makes a fortitude save.
+    | 2nd-Level Necromancy | *warlock, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one creature |
+    | duration | 1 minute (concentration) |
 
-fail: the target has disadvantage on d20 rolls using strength, and it subtracts 1d8 from all its damage rolls. when the target's turn ends, it repeats the save.
+    The target makes a fortitude save.
 
-success: the next attack the target makes has disadvantage, then this spell ends.
+    Fail: the target has disadvantage on d20 rolls using strength, and it subtracts 1d8 from all its damage rolls. when the target's turn ends, it repeats the save.
 
-**At Higher Levels:** add one target per additional spell level.
+    Success: the next attack the target makes has disadvantage, then this spell ends.
+
+    **At Higher Levels:** add one target per additional spell level.

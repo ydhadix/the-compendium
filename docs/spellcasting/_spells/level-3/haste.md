@@ -1,23 +1,25 @@
-### *Haste*
+??? spell "Haste | 3rd-Level Transmutation"
 
-| 3rd-Level Transmutation | *artificer, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 30 feet |
-| target | one creature |
-| duration | 1 minute (concentration) |
+    #### Haste
 
-the target gains the following benefits:
+    | 3rd-Level Transmutation | *artificer, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one creature |
+    | duration | 1 minute (concentration) |
 
-◆ its speed is doubled.
+    The target gains the following benefits:
 
-◆ it gains a +2 bonus to its armor class.
+    ◆ its speed is doubled.
 
-◆ it has advantage on reflex saves.
+    ◆ it gains a +2 bonus to its armor class.
 
-◆ it can take an additional action on its turns. this action can only be used to attack (one attack only), dash, disengage, hide, or utilize.
+    ◆ it has advantage on reflex saves.
 
-after this spell ends, the target is incapacitated and its speed is 0 until the end of its next turn.
+    ◆ it can take an additional action on its turns. this action can only be used to attack (one attack only), dash, disengage, hide, or utilize.
 
-**At Higher Levels:** add one target per additional spell level.
+    After this spell ends, the target is incapacitated and its speed is 0 until the end of its next turn.
+
+    **At Higher Levels:** add one target per additional spell level.

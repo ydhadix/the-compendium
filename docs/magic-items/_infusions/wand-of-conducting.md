@@ -1,7 +1,9 @@
-### *Wand of Conducting*
+??? infusion "Wand of Conducting | Focus (Arcane)"
 
-| Common Focus (Arcane) | — |
-|---|---|
-| charges | 3 at dawn |
+    #### Wand of Conducting
 
-Magic Action: While you are waving this wand, you can create orchestral music audible out to 120 feet until you stop waving the wand.
+    | Common Focus (Arcane) | — |
+    |---|---|
+    | charges | 3 at dawn |
+
+    Magic Action: While you are waving this wand, you can create orchestral music audible out to 120 feet until you stop waving the wand.

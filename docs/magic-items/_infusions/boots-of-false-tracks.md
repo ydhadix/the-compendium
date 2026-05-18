@@ -1,6 +1,8 @@
-### *Boots of False Tracks*
+??? infusion "Boots of False Tracks | Clothing (Boots)"
 
-| Common Clothing (Boots) | attunement |
-|---|---|
+    #### Boots of False Tracks
 
-These boots can leave tracks like those of any kind of Humanoid of your size.
+    | Common Clothing (Boots) | attunement |
+    |---|---|
+
+    These boots can leave tracks like those of any kind of Humanoid of your size.

@@ -1,17 +1,19 @@
-### *Arms of Hadar*
+??? spell "Arms of Hadar | 1st-Level Conjuration"
 
-| 1st-Level Conjuration | *warlock* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | - |
-| target | everything in a 10-foot aura |
-| duration | until the end of the target's next turn |
+    #### Arms of Hadar
 
-each target makes a fortitude save.
+    | 1st-Level Conjuration | *warlock* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | - |
+    | target | everything in a 10-foot aura |
+    | duration | until the end of the target's next turn |
 
-fail: you deal 2d6 necrotic damage. a creature damaged by this spell can't take reactions.
+    Each target makes a fortitude save.
 
-success: you deal half as much damage.
+    Fail: you deal 2d6 necrotic damage. a creature damaged by this spell can't take reactions.
 
-**At Higher Levels:** add 1d6 necrotic damage and 5 feet to the aura per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d6 necrotic damage and 5 feet to the aura per additional spell level.

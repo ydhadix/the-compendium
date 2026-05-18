@@ -1,12 +1,13 @@
-### Locus of Control
-*Level 2 Sorcerer*
+???+ class-feature "Locus of Control | Level 2 Sorcerer"
 
-Choose one of the following benefits.
+    #### Locus of Control
 
-##### Internal Locus
+    Choose one of the following benefits.
 
-Choose an Ability that isn't your Sorcerer Ability. When you make an Ability Check using the chosen Ability, you can use your Sorcerer Ability instead. (Your passive checks are unaffected.)
+    ###### Internal Locus
 
-##### External Locus
+    Choose an Ability that isn't your Sorcerer Ability. When you make an Ability Check using the chosen Ability, you can use your Sorcerer Ability instead. (Your passive checks are unaffected.)
 
-You gain the Elemental Adept feat, and you can choose any Elemental or Esoteric damage type for it.
+    ###### External Locus
+
+    You gain the Elemental Adept feat, and you can choose any Elemental or Esoteric damage type for it.

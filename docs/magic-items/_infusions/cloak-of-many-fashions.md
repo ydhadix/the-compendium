@@ -1,6 +1,8 @@
-### *Cloak of Many Fashions*
+??? infusion "Cloak of Many Fashions | Clothing (Cloak)"
 
-| Common Clothing (Cloak) | — |
-|---|---|
+    #### Cloak of Many Fashions
 
-Bonus Action: You can change the style, color, and apparent quality of this cloak.
+    | Common Clothing (Cloak) | — |
+    |---|---|
+
+    Bonus Action: You can change the style, color, and apparent quality of this cloak.

@@ -1,16 +1,17 @@
-### Magic Item Expert
-*Level 7 Artificer*
+???+ class-feature "Magic Item Expert | Level 7 Artificer"
 
-You've achieved a profound understanding of magic items.
+    #### Magic Item Expert
 
-##### Extra Attunement
+    You've achieved a profound understanding of magic items.
 
-You gain an additional attunement slot.
+    ###### Extra Attunement
 
-##### Universal Attunement
+    You gain an additional attunement slot.
 
-You ignore all Class, Race, Spell, and Level requirements to use or attune to magic items.
+    ###### Universal Attunement
 
-##### Additional Infusions
+    You ignore all Class, Race, Spell, and Level requirements to use or attune to magic items.
 
-You gain additional options for your [Infused Items](infusions.md#level-7-infusions).
+    ###### Additional Infusions
+
+    You gain additional options for your [Infused Items](infusions.md#level-7-infusions).

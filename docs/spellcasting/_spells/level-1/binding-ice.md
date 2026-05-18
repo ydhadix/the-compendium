@@ -1,21 +1,23 @@
-### *Binding Ice*
+??? spell "Binding Ice | 1st-Level Evocation"
 
-| 1st-Level Evocation | *druid, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | reach |
-| target | everything in a 15-foot cone |
-| duration | - |
+    #### Binding Ice
 
-nonmagical liquid in the area freezes.
+    | 1st-Level Evocation | *druid, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | reach |
+    | target | everything in a 15-foot cone |
+    | duration | - |
 
-each target makes a fortitude save.
+    Nonmagical liquid in the area freezes.
 
-fail: you deal 2d8 cold damage.
+    Each target makes a fortitude save.
 
-success: you deal half as much damage.
+    Fail: you deal 2d8 cold damage.
 
-**At Higher Levels:** add 1d8 cold damage and 15 feet of cone size per additional spell level.
+    Success: you deal half as much damage.
 
-level 2+: on a failed save, the target's speed is 0 for 1 minute. a creature other than the target can use an action to end this spell on the target.
+    **At Higher Levels:** add 1d8 cold damage and 15 feet of cone size per additional spell level.
+
+    Level 2+: on a failed save, the target's speed is 0 for 1 minute. a creature other than the target can use an action to end this spell on the target.

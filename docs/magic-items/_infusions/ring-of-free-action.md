@@ -1,6 +1,8 @@
-### *Ring of Free Action*
+??? infusion "Ring of Free Action | Clothing (Jewelry)"
 
-| Rare Clothing (Jewelry) | attunement |
-|---|---|
+    #### Ring of Free Action
 
-You ignore Difficult Terrain.  In addition, magical effects cannot reduce your Speeds, Paralyze, or Restrain you.
+    | Rare Clothing (Jewelry) | attunement |
+    |---|---|
+
+    You ignore Difficult Terrain.  In addition, magical effects cannot reduce your Speeds, Paralyze, or Restrain you.

@@ -1,15 +1,17 @@
-### *Eldritch Blast*
+??? spell "Eldritch Blast | Evocation Cantrip"
 
-| Evocation Cantrip | *warlock* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 120 feet |
-| target | one thing |
-| duration | - |
+    #### Eldritch Blast
 
-you make a ranged attack against the target.
+    | Evocation Cantrip | *warlock* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 120 feet |
+    | target | one thing |
+    | duration | - |
 
-hit: you deal 1d10 force damage.
+    You make a ranged attack against the target.
 
-**At Higher Levels:** make one additional attack at levels 5, 11, and 17. each attack can have the same target or different targets.
+    Hit: you deal 1d10 force damage.
+
+    **At Higher Levels:** make one additional attack at levels 5, 11, and 17. each attack can have the same target or different targets.

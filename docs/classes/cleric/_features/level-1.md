@@ -1,70 +1,73 @@
-### Channel Divinity
-*Level 1 Cleric*
+???+ class-feature "Channel Divinity | Level 1 Cleric"
 
-You call upon divine power to perform a small miracle. You can use the following Channel Divinity effects. The Cleric table shows how many Channel Divinity uses you have. If an effect requires a save, it uses your Spell Save DC.
+    #### Channel Divinity
 
-**Short Rest**: You regain one use of Channel Divinity.
+    You call upon divine power to perform a small miracle. You can use the following Channel Divinity effects. The Cleric table shows how many Channel Divinity uses you have. If an effect requires a save, it uses your Spell Save DC.
 
-**Long Rest**: You regain all uses of Channel Divinity.
+    **Short Rest**: You regain one use of Channel Divinity.
 
-##### Channel Divinity: Divine Spark
+    **Long Rest**: You regain all uses of Channel Divinity.
 
-You unleash a mote of divine energy that can harm or heal.
+    ###### Channel Divinity: Divine Spark
 
-**Magic Action**: Target a creature within 30 feet. You can heal the target by 1d8 + Cleric Ability, or you can force them to make a Fortitude save.
+    You unleash a mote of divine energy that can harm or heal.
 
-**Fail**: You deal 1d8 + Cleric Ability as Necrotic or Radiant damage.
+    **Magic Action**: Target a creature within 30 feet. You can heal the target by 1d8 + Cleric Ability, or you can force them to make a Fortitude save.
 
-**Success**: You deal half as much damage.
+    **Fail**: You deal 1d8 + Cleric Ability as Necrotic or Radiant damage.
 
-Add an additional 1d8 at levels 5, 11, and 17.
+    **Success**: You deal half as much damage.
 
-##### Channel Divinity: Turn Undead
+    Add an additional 1d8 at levels 5, 11, and 17.
 
-Your faith rebukes the restless dead.
+    ###### Channel Divinity: Turn Undead
 
-**Magic Action**: Each Undead within 30 feet makes a Will save.
+    Your faith rebukes the restless dead.
 
-**Fail**: You deal 1d8 + Cleric Ability as Radiant damage, and the target is Frightened, Incapacitated, and must move as far from you as it can on its turns. This effect ends early when the target takes damage, you are Incapacitated, or you die.
+    **Magic Action**: Each Undead within 30 feet makes a Will save.
 
-**Success**: No effect.
+    **Fail**: You deal 1d8 + Cleric Ability as Radiant damage, and the target is Frightened, Incapacitated, and must move as far from you as it can on its turns. This effect ends early when the target takes damage, you are Incapacitated, or you die.
 
-Add an additional 1d8 at levels 5, 11, and 17.
+    **Success**: No effect.
 
-### Divine Order
-*Level 1 Cleric*
+    Add an additional 1d8 at levels 5, 11, and 17.
 
-Your deity's doctrine shapes how you serve their divine will. Choose one of the following benefits.
+???+ class-feature "Divine Order | Level 1 Cleric"
 
-##### Priest
-While you aren't wearing armor, your base Armor Class is 8 + Dexterity + Cleric Ability + Proficiency Bonus.
+    #### Divine Order
 
-##### Protector
-You gain proficiency with heavy armor and one martial weapon category.
+    Your deity's doctrine shapes how you serve their divine will. Choose one of the following benefits.
 
-##### Thaumaturge
-You learn one extra Cleric cantrip, and you gain Expertise in Religion.
+    ###### Priest
+    While you aren't wearing armor, your base Armor Class is 8 + Dexterity + Cleric Ability + Proficiency Bonus.
 
-### Spellcasting
-*Level 1 Cleric*
+    ###### Protector
+    You gain proficiency with heavy armor and one martial weapon category.
 
-Your prayers call forth the magic of your deity.
+    ###### Thaumaturge
+    You learn one extra Cleric cantrip, and you gain Expertise in Religion.
 
-##### Spellcasting Ability
-Your Cleric Ability is your Spellcasting Ability.
+???+ class-feature "Spellcasting | Level 1 Cleric"
 
-##### Spellcasting Focus
-Cleric spells use a Holy Symbol as a spellcasting focus.
+    #### Spellcasting
 
-##### Spells Prepared
-The Cleric table shows how many cantrips you know and how many spells you prepare.
+    Your prayers call forth the magic of your deity.
 
-##### Changing Spells
-**Long Rest**: You can change any of your prepared spells.
+    ###### Spellcasting Ability
+    Your Cleric Ability is your Spellcasting Ability.
 
-**Level Up**: You can change one of your known cantrips.
+    ###### Spellcasting Focus
+    Cleric spells use a Holy Symbol as a spellcasting focus.
 
-##### Spell Slots
-The Cleric table shows how many spell slots you have.
+    ###### Spells Prepared
+    The Cleric table shows how many cantrips you know and how many spells you prepare.
 
-**Long Rest**: You regain all your spell slots.
+    ###### Changing Spells
+    **Long Rest**: You can change any of your prepared spells.
+
+    **Level Up**: You can change one of your known cantrips.
+
+    ###### Spell Slots
+    The Cleric table shows how many spell slots you have.
+
+    **Long Rest**: You regain all your spell slots.

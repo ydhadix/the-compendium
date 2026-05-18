@@ -1,6 +1,8 @@
-### *Potion of Climbing*
+??? infusion "Potion of Climbing | Potion"
 
-| Common Potion | — |
-|---|---|
+    #### Potion of Climbing
 
-Bonus Action: You can gain a Climb Speed equal to your Speed for 1 hour.
+    | Common Potion | — |
+    |---|---|
+
+    Bonus Action: You can gain a Climb Speed equal to your Speed for 1 hour.

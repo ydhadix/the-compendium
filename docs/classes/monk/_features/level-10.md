@@ -1,18 +1,19 @@
-### Perfect Discipline
-*Level 10 Monk*
+???+ class-feature "Perfect Discipline | Level 10 Monk"
 
-Your unwavering focus improves your martial arts' efficiency.
+    #### Perfect Discipline
 
-##### Unending Ki
+    Your unwavering focus improves your martial arts' efficiency.
 
-Before Initiative, if you have 3 or fewer Ki, you can regain expended Ki until you have 4 Ki.
+    ###### Unending Ki
 
-##### Perfect Form
+    Before Initiative, if you have 3 or fewer Ki, you can regain expended Ki until you have 4 Ki.
 
-Whenever you spend Ki to use your Martial Arts, you gain the following additional benefits:
+    ###### Perfect Form
 
-**Flurry of Blows**: You can make an additional Unarmed Strike.
+    Whenever you spend Ki to use your Martial Arts, you gain the following additional benefits:
 
-**Patient Defense**: You can gain two rolls of your Martial Arts Die as Temporary Hit Points.
+    **Flurry of Blows**: You can make an additional Unarmed Strike.
 
-**Step of the Wind**: You can move a willing creature within reach with you until the end of your turn.
+    **Patient Defense**: You can gain two rolls of your Martial Arts Die as Temporary Hit Points.
+
+    **Step of the Wind**: You can move a willing creature within reach with you until the end of your turn.

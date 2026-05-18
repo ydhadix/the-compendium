@@ -1,15 +1,17 @@
-### *Inflict Wounds*
+??? spell "Inflict Wounds | 1st-Level Necromancy"
 
-| 1st-Level Necromancy | *cleric* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | reach |
-| target | one thing |
-| duration | - |
+    #### Inflict Wounds
 
-you make a melee attack against the target.
+    | 1st-Level Necromancy | *cleric* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | reach |
+    | target | one thing |
+    | duration | - |
 
-hit: you deal 3d10 necrotic damage.
+    You make a melee attack against the target.
 
-**At Higher Levels:** add 1d10 necrotic damage per additional spell level.
+    Hit: you deal 3d10 necrotic damage.
+
+    **At Higher Levels:** add 1d10 necrotic damage per additional spell level.

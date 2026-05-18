@@ -16,134 +16,140 @@
 
 --8<-- "classes/artificer/_features/level-2.md"
 
-### Armorer Spells
-*Level 3 Armorer Artificer*
+???+ subclass-feature "Armorer Spells | Level 3 Armorer"
 
-Your specialization grants you additional spells. You learn these spells at the corresponding Artificer levels.
+    #### Armorer Spells
 
-| Artificer Level | Spells |
-|---|---|
-| 3rd | armor of agathys, magic missile |
-| 5th | kinetic jaunt, pass without trace |
-| 9th | haste, lightning bolt |
+    Your specialization grants you additional spells. You learn these spells at the corresponding Artificer levels.
 
-### Tools of the Trade
-*Level 3 Armorer Artificer*
+    | Artificer Level | Spells |
+    |---|---|
+    | 3rd | armor of agathys, magic missile |
+    | 5th | kinetic jaunt, pass without trace |
+    | 9th | haste, lightning bolt |
 
-Your experience with specialized tools has paid off.
+???+ subclass-feature "Tools of the Trade | Level 3 Armorer"
 
-##### Specialized Training
+    #### Tools of the Trade
 
-You gain proficiency with Heavy Armor.
+    Your experience with specialized tools has paid off.
 
-You gain proficiency and expertise with Smith's Tools.
+    ###### Specialized Training
 
-##### Fast Crafting
+    You gain proficiency with Heavy Armor.
 
-The time it takes for you to craft Armor is halved.
+    You gain proficiency and expertise with Smith's Tools.
 
-### Arcane Armor
-*Level 3 Armorer Artificer*
+    ###### Fast Crafting
 
-You've learned to make armor a conduit for your magic.
+    The time it takes for you to craft Armor is halved.
 
-**Short Rest**: You can turn a suit of armor within your reach into Arcane Armor. You can only have one Arcane Armor at a time.
+???+ subclass-feature "Arcane Armor | Level 3 Armorer"
 
-Arcane Armor has the following benefits:
+    #### Arcane Armor
 
-##### Second Skin
+    You've learned to make armor a conduit for your magic.
 
-While you wear the armor, it expands to cover your entire body, the armor can't be removed against your will, and you ignore the armor's Strength requirements.
+    **Short Rest**: You can turn a suit of armor within your reach into Arcane Armor. You can only have one Arcane Armor at a time.
 
-##### Modular Design
+    Arcane Armor has the following benefits:
 
-The armor counts as four separate items for the purpose of magic items and infusions: a chest piece, boots, helm, and weapon.
+    ###### Second Skin
 
-##### Quick Equip
+    While you wear the armor, it expands to cover your entire body, the armor can't be removed against your will, and you ignore the armor's Strength requirements.
 
-**Utilize Action**: You can don or doff the armor.
+    ###### Modular Design
 
-### Armor Model
-*Level 3 Armorer Artificer*
+    The armor counts as four separate items for the purpose of magic items and infusions: a chest piece, boots, helm, and weapon.
 
-You can customize your armor for different situations.
+    ###### Quick Equip
 
-When you choose your Arcane Armor, you can choose one of the following Armor Models.
+    **Utilize Action**: You can don or doff the armor.
 
-**Short Rest**: You can change your Armor Model.
+???+ subclass-feature "Armor Model | Level 3 Armorer"
 
-**Bonus Action, 1 Improvise**: You can change your Armor Model.
+    #### Armor Model
 
-Each Armor Model has a special weapon. Attacks with this weapon can use your Artificer Ability.
+    You can customize your armor for different situations.
 
-##### Armor Model: Dreadnaught
+    When you choose your Arcane Armor, you can choose one of the following Armor Models.
 
-Your armor makes you a towering juggernaut on the battlefield.
+    **Short Rest**: You can change your Armor Model.
 
-**Wrecking Ball**: An iron ball on a chain attached to one of your gauntlets is a simple melee weapon with reach that deals 1d10 force damage. A creature up to one size larger than you that is damaged by this weapon is moved up to 10 feet.
+    **Bonus Action, 1 Improvise**: You can change your Armor Model.
 
-**Giant Stature**: **Bonus Action, Artificer Ability per Long Rest**: You enlarge yourself for 1 minute. For the duration, you are Large and your reach increases by 5 feet.
+    Each Armor Model has a special weapon. Attacks with this weapon can use your Artificer Ability.
 
-##### Armor Model: Guardian
+    ###### Armor Model: Dreadnaught
 
-Your armor helps you hold the front line in battle.
+    Your armor makes you a towering juggernaut on the battlefield.
 
-**Thunder Gauntlets**: Your gauntlets are simple melee weapons with light that deal 1d8 thunder damage. A creature damaged by these weapons has disadvantage on attacks that don't target you until the start of your next turn.
+    **Wrecking Ball**: An iron ball on a chain attached to one of your gauntlets is a simple melee weapon with reach that deals 1d10 force damage. A creature up to one size larger than you that is damaged by this weapon is moved up to 10 feet.
 
-**Defensive Field**: **Bonus Action**: While Bloodied, you can gain your Artificer level as temporary hit points.
+    **Giant Stature**: **Bonus Action, Artificer Ability per Long Rest**: You enlarge yourself for 1 minute. For the duration, you are Large and your reach increases by 5 feet.
 
-##### Armor Model: Infiltrator
+    ###### Armor Model: Guardian
 
-Your armor lets you cross enemy lines unnoticed.
+    Your armor helps you hold the front line in battle.
 
-**Lightning Launcher**: Gemlike nodes on your gauntlets are simple ranged weapons with range (100/400 feet) that deal 1d6 lightning damage. Once per turn: when you deal damage with this weapon, you add 1d6 lightning damage.
+    **Thunder Gauntlets**: Your gauntlets are simple melee weapons with light that deal 1d8 thunder damage. A creature damaged by these weapons has disadvantage on attacks that don't target you until the start of your next turn.
 
-**Powered Steps**: Your Speed increases by 5 feet.
+    **Defensive Field**: **Bonus Action**: While Bloodied, you can gain your Artificer level as temporary hit points.
 
-**Dampening Field**: You have Advantage on Stealth checks.
+    ###### Armor Model: Infiltrator
 
---8<-- "classes/artificer/_features/level-4.md"
+    Your armor lets you cross enemy lines unnoticed.
 
---8<-- "classes/artificer/_features/level-5.md"
+    **Lightning Launcher**: Gemlike nodes on your gauntlets are simple ranged weapons with range (100/400 feet) that deal 1d6 lightning damage. Once per turn: when you deal damage with this weapon, you add 1d6 lightning damage.
 
-### Armor Modifications
-*Level 6 Armorer Artificer*
+    **Powered Steps**: Your Speed increases by 5 feet.
 
-You've learned techniques to integrate infusions into your armor.
+    **Dampening Field**: You have Advantage on Stealth checks.
 
-You can have two additional Infused Items. These Infused Items must be part of your Arcane Armor.
+    --8<-- "classes/artificer/_features/level-4.md"
 
---8<-- "classes/artificer/_features/level-7.md"
+    --8<-- "classes/artificer/_features/level-5.md"
 
---8<-- "classes/artificer/_features/level-8.md"
+???+ subclass-feature "Armor Modifications | Level 6 Armorer"
 
-### Perfected Armor
-*Level 9 Armorer Artificer*
+    #### Armor Modifications
 
-Your armor's offensive prowess now matches its defenses.
+    You've learned techniques to integrate infusions into your armor.
 
-Your Arcane Armor weapons gain an additional damage die.
+    You can have two additional Infused Items. These Infused Items must be part of your Arcane Armor.
 
-Your Armor Models gain additional benefits:
+    --8<-- "classes/artificer/_features/level-7.md"
 
-##### Armor Model: Dreadnaught
+    --8<-- "classes/artificer/_features/level-8.md"
 
-**Giant Stature**: When you use Giant Stature, you can become Large or Huge (your choice), your reach increases by an additional 5 feet, and you have Advantage on Strength checks and Fortitude saves.
+???+ subclass-feature "Perfected Armor | Level 9 Armorer"
 
-##### Armor Model: Guardian
+    #### Perfected Armor
 
-**Offensive Field**: **Reaction, Artificer Ability per Long Rest**: When a Huge or smaller creature you can see ends its turn within 30 feet, you can force it to make a Fortitude save against your Artificer Spell Save DC.
+    Your armor's offensive prowess now matches its defenses.
 
-**Fail**: You move the creature up to 30 feet straight towards yourself. Then, if the creature is within your reach, you can attack it with your Thunder Gauntlets.
+    Your Arcane Armor weapons gain an additional damage die.
 
-**Success**: No effect.
+    Your Armor Models gain additional benefits:
 
-##### Armor Model: Infiltrator
+    ###### Armor Model: Dreadnaught
 
-**Lightning Launcher**: A creature damaged by your Lightning Launcher emits bright light to 5 feet and dim light 5 feet further, and has disadvantage on attacks against you until the start of your next turn.
+    **Giant Stature**: When you use Giant Stature, you can become Large or Huge (your choice), your reach increases by an additional 5 feet, and you have Advantage on Strength checks and Fortitude saves.
 
-**Aerial Dash**: **Bonus Action, Artificer Ability per Long Rest**: You gain a fly speed equal to twice your Speed until the end of the turn.
+    ###### Armor Model: Guardian
 
---8<-- "classes/artificer/_features/level-10.md"
+    **Offensive Field**: **Reaction, Artificer Ability per Long Rest**: When a Huge or smaller creature you can see ends its turn within 30 feet, you can force it to make a Fortitude save against your Artificer Spell Save DC.
 
---8<-- "classes/artificer/_features/level-11.md"
+    **Fail**: You move the creature up to 30 feet straight towards yourself. Then, if the creature is within your reach, you can attack it with your Thunder Gauntlets.
+
+    **Success**: No effect.
+
+    ###### Armor Model: Infiltrator
+
+    **Lightning Launcher**: A creature damaged by your Lightning Launcher emits bright light to 5 feet and dim light 5 feet further, and has disadvantage on attacks against you until the start of your next turn.
+
+    **Aerial Dash**: **Bonus Action, Artificer Ability per Long Rest**: You gain a fly speed equal to twice your Speed until the end of the turn.
+
+    --8<-- "classes/artificer/_features/level-10.md"
+
+    --8<-- "classes/artificer/_features/level-11.md"

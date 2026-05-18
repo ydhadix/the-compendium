@@ -1,4 +1,5 @@
-### Level 5 Feature
-*Level 5 [Class Name]*
+???+ class-feature "Level 5 Feature | Level 5 [Class Name]"
 
-[Feature description].
+    #### Level 5 Feature
+
+    [Feature description].

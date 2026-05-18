@@ -1,17 +1,19 @@
-### *Sacred Flame*
+??? spell "Sacred Flame | Evocation Cantrip"
 
-| Evocation Cantrip | *cleric* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 60 feet |
-| target | one thing |
-| duration | - |
+    #### Sacred Flame
 
-the target makes a reflex save, and gains no benefit from half or three-quarters cover.
+    | Evocation Cantrip | *cleric* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one thing |
+    | duration | - |
 
-fail: you deal 1d8 radiant damage.
+    The target makes a reflex save, and gains no benefit from half or three-quarters cover.
 
-success: no effect.
+    Fail: you deal 1d8 radiant damage.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Success: no effect.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

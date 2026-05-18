@@ -1,15 +1,17 @@
-### *Animal Friendship*
+??? spell "Animal Friendship | 1st-Level Enchantment"
 
-| 1st-Level Enchantment | *bard, druid, ranger* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 30 feet |
-| target | one beast |
-| duration | 24 hours |
+    #### Animal Friendship
 
-the target makes a will save.
+    | 1st-Level Enchantment | *bard, druid, ranger* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one beast |
+    | duration | 24 hours |
 
-fail: the target becomes charmed. if you or an ally deal damage to the target, this spell ends on the target.
+    The target makes a will save.
 
-success: no effect.
+    Fail: the target becomes charmed. if you or an ally deal damage to the target, this spell ends on the target.
+
+    Success: no effect.

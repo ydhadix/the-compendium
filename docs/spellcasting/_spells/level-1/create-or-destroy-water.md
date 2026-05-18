@@ -1,17 +1,19 @@
-### *Create or Destroy Water*
+??? spell "Create or Destroy Water | 1st-Level Transmutation"
 
-| 1st-Level Transmutation | *artificer, cleric, druid* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 30 feet |
-| target | special |
-| duration | - |
+    #### Create or Destroy Water
 
-choose one of the following effects.
+    | 1st-Level Transmutation | *artificer, cleric, druid* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | special |
+    | duration | - |
 
-create: you create up to 10 gallons of clean water. you can create it in an open container, or you can create it as rain in a 30-foot cube, extinguishing exposed flames.
+    Choose one of the following effects.
 
-destroy: you destroy up to 10 gallons of water. you can destroy it from an open container, or you can destroy fog in a 30-foot cube.
+    Create: you create up to 10 gallons of clean water. you can create it in an open container, or you can create it as rain in a 30-foot cube, extinguishing exposed flames.
 
-**At Higher Levels:** add 5 gallons and expand the cube by 5 feet per additional spell level.
+    Destroy: you destroy up to 10 gallons of water. you can destroy it from an open container, or you can destroy fog in a 30-foot cube.
+
+    **At Higher Levels:** add 5 gallons and expand the cube by 5 feet per additional spell level.

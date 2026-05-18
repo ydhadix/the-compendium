@@ -1,6 +1,8 @@
-### *Ring of Swimming*
+??? infusion "Ring of Swimming | Clothing (Jewelry)"
 
-| Uncommon Clothing (Jewelry) | — |
-|---|---|
+    #### Ring of Swimming
 
-You have a Swim Speed of 40 feet.
+    | Uncommon Clothing (Jewelry) | — |
+    |---|---|
+
+    You have a Swim Speed of 40 feet.

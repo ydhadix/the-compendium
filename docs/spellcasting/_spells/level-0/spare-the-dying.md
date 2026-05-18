@@ -1,13 +1,15 @@
-### *Spare the Dying*
+??? spell "Spare the Dying | Necromancy Cantrip"
 
-| Necromancy Cantrip | *artificer, cleric, druid* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 15 feet |
-| target | one downed creature |
-| duration | - |
+    #### Spare the Dying
 
-the target becomes stabilized.
+    | Necromancy Cantrip | *artificer, cleric, druid* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 15 feet |
+    | target | one downed creature |
+    | duration | - |
 
-**At Higher Levels:** double the range at levels 5, 11, and 17.
+    The target becomes stabilized.
+
+    **At Higher Levels:** double the range at levels 5, 11, and 17.

@@ -1,6 +1,8 @@
-### *Ring of the Ram*
+??? infusion "Ring of the Ram | Clothing (Jewelry)"
 
-| Rare Clothing (Jewelry) | attunement |
-|---|---|
+    #### Ring of the Ram
 
-*Not yet added.*
+    | Rare Clothing (Jewelry) | attunement |
+    |---|---|
+
+    *Not yet added.*

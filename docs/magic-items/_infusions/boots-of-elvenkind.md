@@ -1,6 +1,8 @@
-### *Boots of Elvenkind*
+??? infusion "Boots of Elvenkind | Clothing (Boots)"
 
-| Uncommon Clothing (Boots) | — |
-|---|---|
+    #### Boots of Elvenkind
 
-Your steps make no sound, and you have Advantage on Stealth checks.
+    | Uncommon Clothing (Boots) | — |
+    |---|---|
+
+    Your steps make no sound, and you have Advantage on Stealth checks.

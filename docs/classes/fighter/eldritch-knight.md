@@ -20,97 +20,102 @@
 
 --8<-- "classes/fighter/_features/level-2.md"
 
-### Spellcasting
-*Level 3 Eldritch Knight Fighter*
+???+ subclass-feature "Spellcasting | Level 3 Eldritch Knight"
 
-You study arcane techniques to enhance your combat skills.
+    #### Spellcasting
 
-| Fighter Level | Cantrips Known | Spells Prepared | 1st | 2nd |
-|---|---|---|---|---|
-| 3  | 2 | 3 | 2 | - |
-| 4  | 2 | 4 | 3 | - |
-| 5  | 2 | 4 | 3 | - |
-| 6  | 2 | 4 | 3 | - |
-| 7  | 2 | 5 | 4 | 2 |
-| 8  | 2 | 6 | 4 | 2 |
-| 9  | 2 | 6 | 4 | 2 |
-| 10 | 3 | 7 | 4 | 3 |
-| 11 | 3 | 8 | 4 | 3 |
+    You study arcane techniques to enhance your combat skills.
 
-##### Spellcasting Ability
+    | Fighter Level | Cantrips Known | Spells Prepared | 1st | 2nd |
+    |---|---|---|---|---|
+    | 3  | 2 | 3 | 2 | - |
+    | 4  | 2 | 4 | 3 | - |
+    | 5  | 2 | 4 | 3 | - |
+    | 6  | 2 | 4 | 3 | - |
+    | 7  | 2 | 5 | 4 | 2 |
+    | 8  | 2 | 6 | 4 | 2 |
+    | 9  | 2 | 6 | 4 | 2 |
+    | 10 | 3 | 7 | 4 | 3 |
+    | 11 | 3 | 8 | 4 | 3 |
 
-Your Minor Ability is your Spellcasting Ability.
+    ###### Spellcasting Ability
 
-##### Spellcasting Focus
+    Your Minor Ability is your Spellcasting Ability.
 
-Wizard spells use an Arcane Focus as a spellcasting focus.
+    ###### Spellcasting Focus
 
-##### Spells Prepared
+    Wizard spells use an Arcane Focus as a spellcasting focus.
 
-You prepare spells from the Wizard spell list. The Eldritch Knight table shows how many cantrips you know and how many spells you prepare.
+    ###### Spells Prepared
 
-##### Changing Spells
+    You prepare spells from the Wizard spell list. The Eldritch Knight table shows how many cantrips you know and how many spells you prepare.
 
-**Level Up**: You can change one of your known cantrips and one of your prepared spells.
+    ###### Changing Spells
 
-##### Spell Slots
+    **Level Up**: You can change one of your known cantrips and one of your prepared spells.
 
-The Eldritch Knight table shows how many spell slots you have.
+    ###### Spell Slots
 
-**Long Rest**: You regain all your spell slots.
+    The Eldritch Knight table shows how many spell slots you have.
 
-### War Pact
-*Level 3 Eldritch Knight Fighter*
+    **Long Rest**: You regain all your spell slots.
 
-You bind your weapons with magic to call on them in battle.
+???+ subclass-feature "War Pact | Level 3 Eldritch Knight"
 
-**Bonus Action**: You can turn a weapon within your reach into a Pact Weapon. You can only have up to two Pact Weapons at a time, and you can't bond with a weapon that is attuned or bonded to another creature.
+    #### War Pact
 
-Pact Weapons have the following benefits:
+    You bind your weapons with magic to call on them in battle.
 
-##### Arcane Focus
+    **Bonus Action**: You can turn a weapon within your reach into a Pact Weapon. You can only have up to two Pact Weapons at a time, and you can't bond with a weapon that is attuned or bonded to another creature.
 
-You can use the weapon as an Arcane Focus.
+    Pact Weapons have the following benefits:
 
-##### Inseparable
+    ###### Arcane Focus
 
-While not Incapacitated, you can't be disarmed of the weapon.
+    You can use the weapon as an Arcane Focus.
 
-##### Summon Weapon
+    ###### Inseparable
 
-**Bonus Action**: You summon one or both of your Pact Weapons to your hand(s).
+    While not Incapacitated, you can't be disarmed of the weapon.
 
-### Arcane Charge
-*Level 3 Eldritch Knight Fighter*
+    ###### Summon Weapon
 
-You push beyond your limits — and your position.
+    **Bonus Action**: You summon one or both of your Pact Weapons to your hand(s).
 
-Before or after you use your Action Surge, you can teleport up to 30 feet.
+???+ subclass-feature "Arcane Charge | Level 3 Eldritch Knight"
 
---8<-- "classes/fighter/_features/level-4.md"
+    #### Arcane Charge
 
---8<-- "classes/fighter/_features/level-5.md"
+    You push beyond your limits — and your position.
 
-### War Magic
-*Level 6 Eldritch Knight Fighter*
+    Before or after you use your Action Surge, you can teleport up to 30 feet.
 
-You weave minor magic with your attacks to disrupt your enemy.
+    --8<-- "classes/fighter/_features/level-4.md"
 
-You gain the Spellblade feat.
+    --8<-- "classes/fighter/_features/level-5.md"
 
-After you hit a creature with a physical attack, the creature has Disadvantage on the next save it makes against a spell you cast before the end of your next turn.
+???+ subclass-feature "War Magic | Level 6 Eldritch Knight"
 
---8<-- "classes/fighter/_features/level-7.md"
+    #### War Magic
 
---8<-- "classes/fighter/_features/level-8.md"
+    You weave minor magic with your attacks to disrupt your enemy.
 
-### Improved War Magic
-*Level 9 Eldritch Knight Fighter*
+    You gain the Spellblade feat.
 
-Your techniques switch effortlessly between might and magic.
+    After you hit a creature with a physical attack, the creature has Disadvantage on the next save it makes against a spell you cast before the end of your next turn.
 
-Before you take the Attack action on your turn, you can forgo two of your attacks to cast a 2nd-level or lower spell that has a casting time of one Action.
+    --8<-- "classes/fighter/_features/level-7.md"
 
---8<-- "classes/fighter/_features/level-10.md"
+    --8<-- "classes/fighter/_features/level-8.md"
 
---8<-- "classes/fighter/_features/level-11.md"
+???+ subclass-feature "Improved War Magic | Level 9 Eldritch Knight"
+
+    #### Improved War Magic
+
+    Your techniques switch effortlessly between might and magic.
+
+    Before you take the Attack action on your turn, you can forgo two of your attacks to cast a 2nd-level or lower spell that has a casting time of one Action.
+
+    --8<-- "classes/fighter/_features/level-10.md"
+
+    --8<-- "classes/fighter/_features/level-11.md"

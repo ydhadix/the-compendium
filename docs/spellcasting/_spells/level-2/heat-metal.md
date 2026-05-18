@@ -1,19 +1,21 @@
-### *Heat Metal*
+??? spell "Heat Metal | 2nd-Level Transmutation"
 
-| 2nd-Level Transmutation | *artificer, bard, druid* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 60 feet |
-| target | one metal object |
-| duration | 1 minute (concentration) |
+    #### Heat Metal
 
-you make the target glow red-hot and take the following bonus action (no additional action required).
+    | 2nd-Level Transmutation | *artificer, bard, druid* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one metal object |
+    | duration | 1 minute (concentration) |
 
-bonus action: you deal 2d8 fire damage to everything touching the target. a creature that takes this damage makes a fortitude save.
+    You make the target glow red-hot and take the following bonus action (no additional action required).
 
-fail: the creature drops the target, if possible. if the creature doesn't, it has disadvantage on attacks and checks until the end of your next turn.
+    Bonus action: you deal 2d8 fire damage to everything touching the target. a creature that takes this damage makes a fortitude save.
 
-success: no additional effect.
+    Fail: the creature drops the target, if possible. if the creature doesn't, it has disadvantage on attacks and checks until the end of your next turn.
 
-**At Higher Levels:** add 1d8 fire damage per additional spell level.
+    Success: no additional effect.
+
+    **At Higher Levels:** add 1d8 fire damage per additional spell level.

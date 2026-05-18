@@ -1,19 +1,21 @@
-### *Searing Smite*
+??? spell "Searing Smite | 1st-Level Evocation"
 
-| 1st-Level Evocation | *paladin* |
-|---|---|
-| components | v |
-| cast time | bonus action, when you hit with a physical melee attack |
-| range | - |
-| target | the target of the attack |
-| duration | 1 minute |
+    #### Searing Smite
 
-you deal 1d6 fire damage.
+    | 1st-Level Evocation | *paladin* |
+    |---|---|
+    | components | v |
+    | cast time | bonus action, when you hit with a physical melee attack |
+    | range | - |
+    | target | the target of the attack |
+    | duration | 1 minute |
 
-when the target's turn starts, you deal 1d6 fire damage and the target makes a fortitude save.
+    You deal 1d6 fire damage.
 
-fail: no effect.
+    When the target's turn starts, you deal 1d6 fire damage and the target makes a fortitude save.
 
-success: this spell ends on the target.
+    Fail: no effect.
 
-**At Higher Levels:** add 1d6 fire damage per additional spell level.
+    Success: this spell ends on the target.
+
+    **At Higher Levels:** add 1d6 fire damage per additional spell level.

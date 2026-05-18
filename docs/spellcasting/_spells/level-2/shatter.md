@@ -1,19 +1,21 @@
-### *Shatter*
+??? spell "Shatter | 2nd-Level Evocation"
 
-| 2nd-Level Evocation | *artificer, bard, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 60 feet |
-| target | everything in a 10-foot radius sphere |
-| duration | - |
+    #### Shatter
 
-this spell emits a thunderous sound out to 300 feet.
+    | 2nd-Level Evocation | *artificer, bard, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | everything in a 10-foot radius sphere |
+    | duration | - |
 
-each target makes a fortitude save.
+    This spell emits a thunderous sound out to 300 feet.
 
-fail: you deal 3d8 thunder damage. objects and constructs have vulnerability to this damage.
+    Each target makes a fortitude save.
 
-success: you deal half as much damage.
+    Fail: you deal 3d8 thunder damage. objects and constructs have vulnerability to this damage.
 
-**At Higher Levels:** add 1d8 thunder damage and 5 feet to the radius per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d8 thunder damage and 5 feet to the radius per additional spell level.

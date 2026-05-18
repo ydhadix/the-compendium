@@ -1,17 +1,19 @@
-### *Spray of Cards*
+??? spell "Spray of Cards | 1st-Level Conjuration"
 
-| 1st-Level Conjuration | *artificer, bard, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | reach |
-| target | everything in a 15-foot cone |
-| duration | until the end of your next turn |
+    #### Spray of Cards
 
-each target makes a reflex save.
+    | 1st-Level Conjuration | *artificer, bard, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | reach |
+    | target | everything in a 15-foot cone |
+    | duration | until the end of your next turn |
 
-fail: you deal 2d10 force damage.
+    Each target makes a reflex save.
 
-success: you deal half as much damage.
+    Fail: you deal 2d10 force damage.
 
-**At Higher Levels:** add 1d10 force damage and 15 feet of cone size per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d10 force damage and 15 feet of cone size per additional spell level.

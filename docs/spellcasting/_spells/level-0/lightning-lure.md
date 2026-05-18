@@ -1,17 +1,19 @@
-### *Lightning Lure*
+??? spell "Lightning Lure | Evocation Cantrip"
 
-| Evocation Cantrip | *artificer, sorcerer, warlock, wizard* |
-|---|---|
-| components | v |
-| cast time | full action |
-| range | 30 feet |
-| target | one thing |
-| duration | - |
+    #### Lightning Lure
 
-the target makes a fortitude save.
+    | Evocation Cantrip | *artificer, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one thing |
+    | duration | - |
 
-fail: you deal 1d6 lightning damage. a large or smaller target is moved up to 10 feet closer to you.
+    The target makes a fortitude save.
 
-success: no effect.
+    Fail: you deal 1d6 lightning damage. a large or smaller target is moved up to 10 feet closer to you.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Success: no effect.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

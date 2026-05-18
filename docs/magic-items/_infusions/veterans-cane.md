@@ -1,6 +1,8 @@
-### *Veteran’s Cane*
+??? infusion "Veteran’s Cane | Weapon (Blade)"
 
-| Common Weapon (Blade) | — |
-|---|---|
+    #### Veteran’s Cane
 
-Bonus Action: You can transform this walking cane into a longsword or revert it to a cane.
+    | Common Weapon (Blade) | — |
+    |---|---|
+
+    Bonus Action: You can transform this walking cane into a longsword or revert it to a cane.

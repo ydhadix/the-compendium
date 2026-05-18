@@ -1,6 +1,8 @@
-### *Tankard of Sobriety*
+??? infusion "Tankard of Sobriety | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Tankard of Sobriety
 
-You can drink alcohol from this tankard without becoming inebriated.  This tankard has no effect on magical liquids or poison.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    You can drink alcohol from this tankard without becoming inebriated.  This tankard has no effect on magical liquids or poison.

@@ -1,11 +1,13 @@
-### *Create Food and Water*
+??? spell "Create Food and Water | 3rd-Level Conjuration"
 
-| 3rd-Level Conjuration | *artificer, cleric, paladin* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 30 feet |
-| target | - |
-| duration | - |
+    #### Create Food and Water
 
-you create 45 pounds of food and 30 gallons of clean, fresh water in nearby containers, or on the ground. the food is bland, but nourishing, and spoils after 24 hours.
+    | 3rd-Level Conjuration | *artificer, cleric, paladin* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | - |
+    | duration | - |
+
+    You create 45 pounds of food and 30 gallons of clean, fresh water in nearby containers, or on the ground. the food is bland, but nourishing, and spoils after 24 hours.

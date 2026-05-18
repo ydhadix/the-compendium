@@ -1,13 +1,15 @@
-### *Silence*
+??? spell "Silence | 2nd-Level Illusion"
 
-| 2nd-Level Illusion | *bard, cleric, ranger* |
-|---|---|
-| components | v, s |
-| cast time | full action, or ritual |
-| range | 120 feet |
-| target | everything in a 20-foot radius sphere |
-| duration | 10 minutes (concentration) |
+    #### Silence
 
-sound cannot be created or heard in the area.
+    | 2nd-Level Illusion | *bard, cleric, ranger* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action, or ritual |
+    | range | 120 feet |
+    | target | everything in a 20-foot radius sphere |
+    | duration | 10 minutes (concentration) |
 
-each target is deafened, has immunity to thunder damage, and cannot cast spells with verbal components.
+    Sound cannot be created or heard in the area.
+
+    Each target is deafened, has immunity to thunder damage, and cannot cast spells with verbal components.

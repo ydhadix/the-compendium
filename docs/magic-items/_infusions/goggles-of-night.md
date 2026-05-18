@@ -1,6 +1,8 @@
-### *Goggles of Night*
+??? infusion "Goggles of Night | Wondrous Item"
 
-| Uncommon Wondrous Item | — |
-|---|---|
+    #### Goggles of Night
 
-While wearing these dark lenses, you gain 60 feet of Darkvision.
+    | Uncommon Wondrous Item | — |
+    |---|---|
+
+    While wearing these dark lenses, you gain 60 feet of Darkvision.

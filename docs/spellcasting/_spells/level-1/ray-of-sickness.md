@@ -1,15 +1,17 @@
-### *Ray of Sickness*
+??? spell "Ray of Sickness | 1st-Level Necromancy"
 
-| 1st-Level Necromancy | *sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 60 feet |
-| target | one thing |
-| duration | until the end of your next turn |
+    #### Ray of Sickness
 
-you make a ranged attack against the target.
+    | 1st-Level Necromancy | *sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one thing |
+    | duration | until the end of your next turn |
 
-hit: you deal 3d8 poison damage. a creature damaged by this spell is poisoned.
+    You make a ranged attack against the target.
 
-**At Higher Levels:** add 1d8 poison damage per additional spell level.
+    Hit: you deal 3d8 poison damage. a creature damaged by this spell is poisoned.
+
+    **At Higher Levels:** add 1d8 poison damage per additional spell level.

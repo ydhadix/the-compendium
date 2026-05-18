@@ -1,8 +1,9 @@
-### Eldritch Expert
-*Level 7 Warlock*
+???+ class-feature "Eldritch Expert | Level 7 Warlock"
 
-The following Invocations are added to your [Eldritch Invocation](invocations.md#level-7-invocations) options:
+    #### Eldritch Expert
 
-- Life Drinker
-- Gift of the Protectors
-- Whispers of the Grave
+    The following Invocations are added to your [Eldritch Invocation](invocations.md#level-7-invocations) options:
+
+    - Life Drinker
+    - Gift of the Protectors
+    - Whispers of the Grave

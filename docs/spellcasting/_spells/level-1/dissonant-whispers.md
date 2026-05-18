@@ -1,17 +1,19 @@
-### *Dissonant Whispers*
+??? spell "Dissonant Whispers | 1st-Level Enchantment"
 
-| 1st-Level Enchantment | *bard* |
-|---|---|
-| components | v |
-| cast time | full action |
-| range | 60 feet |
-| target | one creature |
-| duration | - |
+    #### Dissonant Whispers
 
-the target makes a will save.
+    | 1st-Level Enchantment | *bard* |
+    |---|---|
+    | components | v |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one creature |
+    | duration | - |
 
-fail: you deal 3d6 psychic damage. a creature damaged by this spell immediately uses its reaction to move as far away from you as possible.
+    The target makes a will save.
 
-success: you deal half as much damage.
+    Fail: you deal 3d6 psychic damage. a creature damaged by this spell immediately uses its reaction to move as far away from you as possible.
 
-**At Higher Levels:** add 1d6 psychic damage per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d6 psychic damage per additional spell level.

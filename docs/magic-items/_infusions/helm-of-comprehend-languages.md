@@ -1,6 +1,8 @@
-### *Helm of Comprehend Languages*
+??? infusion "Helm of Comprehend Languages | Clothing (Hat)"
 
-| Uncommon Clothing (Hat) | — |
-|---|---|
+    #### Helm of Comprehend Languages
 
-Magic Action: You can cast Comprehend Languages.
+    | Uncommon Clothing (Hat) | — |
+    |---|---|
+
+    Magic Action: You can cast Comprehend Languages.

@@ -1,17 +1,19 @@
-### *Frostbite*
+??? spell "Frostbite | Evocation Cantrip"
 
-| Evocation Cantrip | *artificer, druid, sorcerer, warlock, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 60 feet |
-| target | one thing |
-| duration | until the end of your next turn |
+    #### Frostbite
 
-the target makes a fortitude save.
+    | Evocation Cantrip | *artificer, druid, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one thing |
+    | duration | until the end of your next turn |
 
-fail: you deal 1d6 cold damage. the next attack the target makes has disadvantage, then this spell ends.
+    The target makes a fortitude save.
 
-success: no effect.
+    Fail: you deal 1d6 cold damage. the next attack the target makes has disadvantage, then this spell ends.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Success: no effect.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

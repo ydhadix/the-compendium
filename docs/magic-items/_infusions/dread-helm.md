@@ -1,6 +1,8 @@
-### *Dread Helm*
+??? infusion "Dread Helm | Clothing (Hat)"
 
-| Common Clothing (Hat) | — |
-|---|---|
+    #### Dread Helm
 
-While wearing this helmet, your face is hidden in shadow and your eyes glow red.
+    | Common Clothing (Hat) | — |
+    |---|---|
+
+    While wearing this helmet, your face is hidden in shadow and your eyes glow red.

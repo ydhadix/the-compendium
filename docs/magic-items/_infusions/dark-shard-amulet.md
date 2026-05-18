@@ -1,6 +1,8 @@
-### *Dark Shard Amulet*
+??? infusion "Dark Shard Amulet | Focus (Arcane)"
 
-| Common Focus (Arcane) | attunement (warlock) |
-|---|---|
+    #### Dark Shard Amulet
 
-Magic Action, Once per Long Rest: You can attempt a DC 10 Intelligence (Arcana) check.  On a success, you cast a Warlock cantrip of your choice that you don’t know.
+    | Common Focus (Arcane) | attunement (warlock) |
+    |---|---|
+
+    Magic Action, Once per Long Rest: You can attempt a DC 10 Intelligence (Arcana) check.  On a success, you cast a Warlock cantrip of your choice that you don’t know.

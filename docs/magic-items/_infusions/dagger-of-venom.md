@@ -1,6 +1,8 @@
-### *Dagger of Venom*
+??? infusion "Dagger of Venom | Weapon (Dagger)"
 
-| Uncommon Weapon (Dagger) | — |
-|---|---|
+    #### Dagger of Venom
 
-*Not yet added.*
+    | Uncommon Weapon (Dagger) | — |
+    |---|---|
+
+    *Not yet added.*

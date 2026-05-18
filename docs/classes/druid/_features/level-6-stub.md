@@ -1,4 +1,5 @@
-### Subclass Feature
-*Level 6 Druid*
+???+ class-feature "Subclass Feature | Level 6 Druid"
 
-Your subclass grants you a feature at this level.
+    #### Subclass Feature
+
+    Your subclass grants you a feature at this level.

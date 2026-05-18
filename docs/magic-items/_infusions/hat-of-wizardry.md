@@ -1,6 +1,8 @@
-### *Hat of Wizardry*
+??? infusion "Hat of Wizardry | Focus (Arcane)"
 
-| Common Focus (Arcane) | attunement (wizard) |
-|---|---|
+    #### Hat of Wizardry
 
-Magic Action, Once per Long Rest: You can attempt a DC 10 Intelligence (Arcana) check.  On a success, you cast a Wizard cantrip of your choice that you don’t know.
+    | Common Focus (Arcane) | attunement (wizard) |
+    |---|---|
+
+    Magic Action, Once per Long Rest: You can attempt a DC 10 Intelligence (Arcana) check.  On a success, you cast a Wizard cantrip of your choice that you don’t know.

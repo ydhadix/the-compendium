@@ -1,12 +1,13 @@
-### One With Everything
-*Level 11 Monk*
+???+ class-feature "One With Everything | Level 11 Monk"
 
-You harmonize body and mind to withstand any threat.
+    #### One With Everything
 
-##### Enlightened
+    You harmonize body and mind to withstand any threat.
 
-You gain proficiency in all saving throws.
+    ###### Enlightened
 
-##### Inevitable
+    You gain proficiency in all saving throws.
 
-**1 Ki**: Before you fail a save, you can reroll it. The second time you use this feature on the same save, you succeed instead.
+    ###### Inevitable
+
+    **1 Ki**: Before you fail a save, you can reroll it. The second time you use this feature on the same save, you succeed instead.

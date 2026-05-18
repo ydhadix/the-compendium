@@ -1,15 +1,17 @@
-### *Greenflame Blade*
+??? spell "Greenflame Blade | Evocation Cantrip"
 
-| Evocation Cantrip | *artificer, sorcerer, warlock, wizard* |
-|---|---|
-| components | s, m (a melee weapon) |
-| cast time | full action |
-| range | the material component's reach |
-| target | one thing |
-| duration | - |
+    #### Greenflame Blade
 
-you make a melee attack against the target using the material component.
+    | Evocation Cantrip | *artificer, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | s, m (a melee weapon) |
+    | cast time | full action |
+    | range | the material component's reach |
+    | target | one thing |
+    | duration | - |
 
-hit: you deal the material component's damage, and you can change the damage type to fire. then, you deal your spellcasting ability as fire damage to a second target within 5 feet of the first.
+    You make a melee attack against the target using the material component.
 
-**At Higher Levels:** add 1d8 fire damage to the attack and effect damage at levels 5, 11, and 17.
+    Hit: you deal the material component's damage, and you can change the damage type to fire. then, you deal your spellcasting ability as fire damage to a second target within 5 feet of the first.
+
+    **At Higher Levels:** add 1d8 fire damage to the attack and effect damage at levels 5, 11, and 17.

@@ -1,6 +1,8 @@
-### *Orb of Direction*
+??? infusion "Orb of Direction | Focus (Arcane)"
 
-| Common Focus (Arcane) | — |
-|---|---|
+    #### Orb of Direction
 
-Magic Action: You can learn which way is magnetic north.
+    | Common Focus (Arcane) | — |
+    |---|---|
+
+    Magic Action: You can learn which way is magnetic north.

@@ -1,6 +1,8 @@
-### *Pot of Awakening*
+??? infusion "Pot of Awakening | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Pot of Awakening
 
-If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 days, it transforms into an Awakened Shrub.  When the shrub awakens, its roots destroy the pot.  The shrub is Friendly toward you and obeys your commands.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 days, it transforms into an Awakened Shrub.  When the shrub awakens, its roots destroy the pot.  The shrub is Friendly toward you and obeys your commands.

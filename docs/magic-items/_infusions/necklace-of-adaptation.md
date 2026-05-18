@@ -1,6 +1,8 @@
-### *Necklace of Adaptation*
+??? infusion "Necklace of Adaptation | Clothing (Jewelry)"
 
-| Uncommon Clothing (Jewelry) | attunement |
-|---|---|
+    #### Necklace of Adaptation
 
-You can breathe normally in any environment, and you have resistance to Poison damage and the Poisoned condition.
+    | Uncommon Clothing (Jewelry) | attunement |
+    |---|---|
+
+    You can breathe normally in any environment, and you have resistance to Poison damage and the Poisoned condition.

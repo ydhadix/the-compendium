@@ -1,17 +1,19 @@
-### *Cause Fear*
+??? spell "Cause Fear | 1st-Level Enchantment"
 
-| 1st-Level Enchantment | *bard, warlock, wizard* |
-|---|---|
-| components | v |
-| cast time | full action |
-| range | 60 feet |
-| target | one creature |
-| duration | 1 minute (concentration) |
+    #### Cause Fear
 
-the target makes a will save.
+    | 1st-Level Enchantment | *bard, warlock, wizard* |
+    |---|---|
+    | components | v |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one creature |
+    | duration | 1 minute (concentration) |
 
-fail: the target becomes frightened. when the target's turn ends, it repeats the save.
+    The target makes a will save.
 
-success: this spell ends on the target.
+    Fail: the target becomes frightened. when the target's turn ends, it repeats the save.
 
-**At Higher Levels:** add one target per additional spell level.
+    Success: this spell ends on the target.
+
+    **At Higher Levels:** add one target per additional spell level.

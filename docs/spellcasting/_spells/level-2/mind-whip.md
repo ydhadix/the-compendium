@@ -1,17 +1,19 @@
-### *Mind Whip*
+??? spell "Mind Whip | 2nd-Level Enchantment"
 
-| 2nd-Level Enchantment | *sorcerer, wizard* |
-|---|---|
-| components | v |
-| cast time | full action |
-| range | 90 feet |
-| target | one creature |
-| duration | until the end of the target's next turn |
+    #### Mind Whip
 
-the target makes a will save.
+    | 2nd-Level Enchantment | *sorcerer, wizard* |
+    |---|---|
+    | components | v |
+    | cast time | full action |
+    | range | 90 feet |
+    | target | one creature |
+    | duration | until the end of the target's next turn |
 
-fail: you deal 3d6 psychic damage, and the target is dazed.
+    The target makes a will save.
 
-success: the target takes half as much damage.
+    Fail: you deal 3d6 psychic damage, and the target is dazed.
 
-**At Higher Levels:** add one target per additional spell level.
+    Success: the target takes half as much damage.
+
+    **At Higher Levels:** add one target per additional spell level.

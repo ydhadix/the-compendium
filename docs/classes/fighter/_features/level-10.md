@@ -1,9 +1,10 @@
-### Ability Increase
-*Level 10 Fighter*
+???+ class-feature "Ability Increase | Level 10 Fighter"
 
-You sharpen your abilities through dedicated discipline.
+    #### Ability Increase
 
-Choose one of the following benefits:
+    You sharpen your abilities through dedicated discipline.
 
-- You increase an Ability by 1.
-- You gain an additional Feat.
+    Choose one of the following benefits:
+
+    - You increase an Ability by 1.
+    - You gain an additional Feat.

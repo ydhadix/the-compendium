@@ -1,12 +1,13 @@
-### Magic Item Adept
-*Level 4 Artificer*
+???+ class-feature "Magic Item Adept | Level 4 Artificer"
 
-Your understanding of making and using items has deepened.
+    #### Magic Item Adept
 
-##### Extra Attunement
+    Your understanding of making and using items has deepened.
 
-You gain an additional attunement slot.
+    ###### Extra Attunement
 
-##### Additional Infusions
+    You gain an additional attunement slot.
 
-You gain additional options for your [Infused Items](infusions.md#level-4-infusions).
+    ###### Additional Infusions
+
+    You gain additional options for your [Infused Items](infusions.md#level-4-infusions).

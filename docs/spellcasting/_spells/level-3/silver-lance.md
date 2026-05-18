@@ -1,17 +1,19 @@
-### *Silver Lance*
+??? spell "Silver Lance | 3rd-Level Evocation"
 
-| 3rd-Level Evocation | *cleric, sorcerer, wizard* |
-|---|---|
-| components | v, s, m (a silver pin worth 250 gold) |
-| cast time | full action |
-| range | - |
-| target | everything in a 5 × 120-foot line |
-| duration | - |
+    #### Silver Lance
 
-each target of your choice makes a fortitude save.
+    | 3rd-Level Evocation | *cleric, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m (a silver pin worth 250 gold) |
+    | cast time | full action |
+    | range | - |
+    | target | everything in a 5 × 120-foot line |
+    | duration | - |
 
-fail: you deal 3d10 force damage and knock the target prone.
+    Each target of your choice makes a fortitude save.
 
-success: you deal half as much damage.
+    Fail: you deal 3d10 force damage and knock the target prone.
 
-**At Higher Levels:** add 1d10 damage per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d10 damage per additional spell level.

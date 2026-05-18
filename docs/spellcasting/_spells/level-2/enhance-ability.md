@@ -1,15 +1,17 @@
-### *Enhance Ability*
+??? spell "Enhance Ability | 2nd-Level Transmutation"
 
-| 2nd-Level Transmutation | *artificer, bard, cleric, druid, ranger, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | reach |
-| target | one creature |
-| duration | 1 hour (concentration) |
+    #### Enhance Ability
 
-choose an ability.
+    | 2nd-Level Transmutation | *artificer, bard, cleric, druid, ranger, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | reach |
+    | target | one creature |
+    | duration | 1 hour (concentration) |
 
-the target has advantage on checks using the chosen ability.
+    Choose an ability.
 
-**At Higher Levels:** add one target per additional spell level.
+    The target has advantage on checks using the chosen ability.
+
+    **At Higher Levels:** add one target per additional spell level.

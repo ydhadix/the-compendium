@@ -1,17 +1,19 @@
-### *Armor of Agathys*
+??? spell "Armor of Agathys | 1st-Level Abjuration"
 
-| 1st-Level Abjuration | *warlock* |
-|---|---|
-| components | v, s, m |
-| cast time | bonus action |
-| range | - |
-| target | self |
-| duration | 1 hour |
+    #### Armor of Agathys
 
-you gain 5 temporary hit points.
+    | 1st-Level Abjuration | *warlock* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | bonus action |
+    | range | - |
+    | target | self |
+    | duration | 1 hour |
 
-whenever you are hit with a melee attack, the attacker takes 5 cold damage.
+    You gain 5 temporary hit points.
 
-this spell ends if you have no temporary hit points.
+    Whenever you are hit with a melee attack, the attacker takes 5 cold damage.
 
-**At Higher Levels:** add 5 temporary hit points and 5 cold damage per additional spell level.
+    This spell ends if you have no temporary hit points.
+
+    **At Higher Levels:** add 5 temporary hit points and 5 cold damage per additional spell level.

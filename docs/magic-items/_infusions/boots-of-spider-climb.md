@@ -1,6 +1,8 @@
-### *Boots of Spider Climb*
+??? infusion "Boots of Spider Climb | Clothing (Boots)"
 
-| Uncommon Clothing (Boots) | attunement |
-|---|---|
+    #### Boots of Spider Climb
 
-You have a Spider Climb speed equal to your Speed.
+    | Uncommon Clothing (Boots) | attunement |
+    |---|---|
+
+    You have a Spider Climb speed equal to your Speed.

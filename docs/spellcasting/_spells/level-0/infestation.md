@@ -1,17 +1,19 @@
-### *Infestation*
+??? spell "Infestation | Conjuration Cantrip"
 
-| Conjuration Cantrip | *druid, warlock* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 30 feet |
-| target | one thing |
-| duration | - |
+    #### Infestation
 
-the target makes a fortitude save.
+    | Conjuration Cantrip | *druid, warlock* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one thing |
+    | duration | - |
 
-fail: you deal 1d6 necrotic damage. a creature damaged by this spell immediately moves 5 feet in a random direction.
+    The target makes a fortitude save.
 
-success: no effect.
+    Fail: you deal 1d6 necrotic damage. a creature damaged by this spell immediately moves 5 feet in a random direction.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Success: no effect.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

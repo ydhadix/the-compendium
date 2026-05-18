@@ -1,19 +1,21 @@
-### *Produce Flame*
+??? spell "Produce Flame | Conjuration Cantrip"
 
-| Conjuration Cantrip | *artificer, druid, sorcerer, warlock* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 60 feet |
-| target | special |
-| duration | 10 minutes |
+    #### Produce Flame
 
-you create a magical flame in your hand. the flame is harmless to you and emits 20 feet of bright light and dim light 20 feet further. this spell ends if you cast it again.
+    | Conjuration Cantrip | *artificer, druid, sorcerer, warlock* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | special |
+    | duration | 10 minutes |
 
-bonus action: you target one thing in range. the target makes a reflex save. then, this spell ends.
+    You create a magical flame in your hand. the flame is harmless to you and emits 20 feet of bright light and dim light 20 feet further. this spell ends if you cast it again.
 
-fail: you deal 1d8 fire damage. a flammable object starts burning (1d4).
+    Bonus action: you target one thing in range. the target makes a reflex save. then, this spell ends.
 
-success: no effect.
+    Fail: you deal 1d8 fire damage. a flammable object starts burning (1d4).
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Success: no effect.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

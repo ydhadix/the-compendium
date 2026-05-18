@@ -1,15 +1,17 @@
-### *Primal Savagery*
+??? spell "Primal Savagery | Transmutation Cantrip"
 
-| Transmutation Cantrip | *druid* |
-|---|---|
-| components | s |
-| cast time | full action |
-| range | reach |
-| target | one thing |
-| duration | - |
+    #### Primal Savagery
 
-you make a melee attack against the target.
+    | Transmutation Cantrip | *druid* |
+    |---|---|
+    | components | s |
+    | cast time | full action |
+    | range | reach |
+    | target | one thing |
+    | duration | - |
 
-hit: you deal 1d10 acid damage.
+    You make a melee attack against the target.
 
-**At Higher Levels:** make one additional attack at levels 5, 11, and 17. each attack can have the same target or different targets.
+    Hit: you deal 1d10 acid damage.
+
+    **At Higher Levels:** make one additional attack at levels 5, 11, and 17. each attack can have the same target or different targets.

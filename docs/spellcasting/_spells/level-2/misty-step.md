@@ -1,11 +1,13 @@
-### *Misty Step*
+??? spell "Misty Step | 2nd-Level Conjuration"
 
-| 2nd-Level Conjuration | *sorcerer, warlock, wizard* |
-|---|---|
-| components | v |
-| cast time | bonus action |
-| range | 30 feet |
-| target | self |
-| duration | - |
+    #### Misty Step
 
-you teleport to an unoccupied space.
+    | 2nd-Level Conjuration | *sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v |
+    | cast time | bonus action |
+    | range | 30 feet |
+    | target | self |
+    | duration | - |
+
+    You teleport to an unoccupied space.

@@ -1,6 +1,8 @@
-### *Smoldering Armor*
+??? infusion "Smoldering Armor | Armor (Any)"
 
-| Common Armor (Any) | — |
-|---|---|
+    #### Smoldering Armor
 
-While worn, wisps of harmless, odorless smoke rise from this armor.
+    | Common Armor (Any) | — |
+    |---|---|
+
+    While worn, wisps of harmless, odorless smoke rise from this armor.

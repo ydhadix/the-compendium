@@ -1,4 +1,5 @@
-### Level 8 Feature
-*Level 8 [Class Name]*
+???+ class-feature "Level 8 Feature | Level 8 [Class Name]"
 
-[Feature description].
+    #### Level 8 Feature
+
+    [Feature description].

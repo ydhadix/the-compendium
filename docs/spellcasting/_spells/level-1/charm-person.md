@@ -1,17 +1,19 @@
-### *Charm Person*
+??? spell "Charm Person | 1st-Level Enchantment"
 
-| 1st-Level Enchantment | *bard, druid, sorcerer, warlock, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 30 feet |
-| target | one humanoid |
-| duration | 1 hour |
+    #### Charm Person
 
-the target makes a will save. if you've damaged the target in the last 24 hours, the target has advantage on the save.
+    | 1st-Level Enchantment | *bard, druid, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one humanoid |
+    | duration | 1 hour |
 
-fail: the target becomes charmed.
+    The target makes a will save. if you've damaged the target in the last 24 hours, the target has advantage on the save.
 
-success: no effect.
+    Fail: the target becomes charmed.
 
-**At Higher Levels:** add one target per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add one target per additional spell level.

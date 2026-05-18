@@ -1,17 +1,18 @@
-### Imprinting Adept
-*Level 4 Ranger*
+???+ class-feature "Imprinting Adept | Level 4 Ranger"
 
-Your instincts deepen, expanding your primal techniques.
+    #### Imprinting Adept
 
-##### Survivalist
+    Your instincts deepen, expanding your primal techniques.
 
-You gain expertise in Survival, and you learn two standard or exotic languages.
+    ###### Survivalist
 
-##### Additional Imprints
+    You gain expertise in Survival, and you learn two standard or exotic languages.
 
-The following Imprints are added to your [Primal Imprint](imprints.md#level-4-imprints) options:
+    ###### Additional Imprints
 
-- Amphibious
-- Heat Tolerance
-- Mimicry
-- Roving
+    The following Imprints are added to your [Primal Imprint](imprints.md#level-4-imprints) options:
+
+    - Amphibious
+    - Heat Tolerance
+    - Mimicry
+    - Roving

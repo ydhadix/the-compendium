@@ -1,21 +1,23 @@
-### *Dust Devil*
+??? spell "Dust Devil | 2nd-Level Conjuration"
 
-| 2nd-Level Conjuration | *druid, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 60 feet |
-| target | everything in a 10-foot radius sphere |
-| duration | 1 minute (concentration) |
+    #### Dust Devil
 
-if there is loose sand, dust, dirt, or gravel in the area, the area becomes heavily obscured.
+    | 2nd-Level Conjuration | *druid, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | everything in a 10-foot radius sphere |
+    | duration | 1 minute (concentration) |
 
-bonus action: you move the area up to 30 feet.
+    If there is loose sand, dust, dirt, or gravel in the area, the area becomes heavily obscured.
 
-when a target enters the area (including when this spell is cast or the area moves) or ends its turn there, once per turn, it makes a fortitude save.
+    Bonus action: you move the area up to 30 feet.
 
-fail: you deal 2d8 bludgeoning damage. the target is pushed 10 feet away and becomes prone.
+    When a target enters the area (including when this spell is cast or the area moves) or ends its turn there, once per turn, it makes a fortitude save.
 
-success: you deal half as much damage.
+    Fail: you deal 2d8 bludgeoning damage. the target is pushed 10 feet away and becomes prone.
 
-**At Higher Levels:** add 1d6 damage per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d6 damage per additional spell level.

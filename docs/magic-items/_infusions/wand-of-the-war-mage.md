@@ -1,6 +1,8 @@
-### *Wand of the War Mage*
+??? infusion "Wand of the War Mage | Focus (Arcane)"
 
-| Common Focus (Arcane) | attunement (spellcaster) |
-|---|---|
+    #### Wand of the War Mage
 
-Spells cast using this Arcane Focus ignore Half-Cover.
+    | Common Focus (Arcane) | attunement (spellcaster) |
+    |---|---|
+
+    Spells cast using this Arcane Focus ignore Half-Cover.

@@ -1,21 +1,23 @@
-### *Warding Wind*
+??? spell "Warding Wind | 2nd-Level Evocation"
 
-| 2nd-Level Evocation | *bard, druid, sorcerer, wizard* |
-|---|---|
-| components | v |
-| cast time | full action |
-| range | - |
-| target | everything in a 10-foot aura |
-| duration | 10 minutes (concentration) |
+    #### Warding Wind
 
-you create strong wind in the area. the area has the following effects:
+    | 2nd-Level Evocation | *bard, druid, sorcerer, wizard* |
+    |---|---|
+    | components | v |
+    | cast time | full action |
+    | range | - |
+    | target | everything in a 10-foot aura |
+    | duration | 10 minutes (concentration) |
 
-- vapor, fog, and gas are dispersed.
+    You create strong wind in the area. the area has the following effects:
 
-- unprotected flames are extinguished.
+    - vapor, fog, and gas are dispersed.
 
-- each target is deafened.
+    - unprotected flames are extinguished.
 
-- the area is difficult terrain for creatures other than you.
+    - each target is deafened.
 
-- physical ranged attacks have disadvantage if they pass through the area.
+    - the area is difficult terrain for creatures other than you.
+
+    - physical ranged attacks have disadvantage if they pass through the area.

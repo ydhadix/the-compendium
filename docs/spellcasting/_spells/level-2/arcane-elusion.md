@@ -1,13 +1,15 @@
-### *Arcane Elusion*
+??? spell "Arcane Elusion | 2nd-Level Abjuration"
 
-| 2nd-Level Abjuration | *wizard* |
-|---|---|
-| components | v, s |
-| cast time | bonus action |
-| range | - |
-| target | self |
-| duration | 10 minutes (concentration) |
+    #### Arcane Elusion
 
-you have resistance to magic.
+    | 2nd-Level Abjuration | *wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | bonus action |
+    | range | - |
+    | target | self |
+    | duration | 10 minutes (concentration) |
 
-whenever you make a save against magic to avoid taking damage, you take half damage if you fail and no damage if you succeed.
+    You have resistance to magic.
+
+    Whenever you make a save against magic to avoid taking damage, you take half damage if you fail and no damage if you succeed.

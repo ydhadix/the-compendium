@@ -16,72 +16,77 @@
 
 --8<-- "classes/warlock/_features/level-2.md"
 
-### Archfey Spells
-*Level 3 Archfey Warlock*
+???+ subclass-feature "Archfey Spells | Level 3 Archfey"
 
-Your patron grants you additional spells. You learn these spells at the corresponding Warlock levels.
+    #### Archfey Spells
 
-| Warlock Level | Spells |
-|---|---|
-| 3rd | faerie fire, sleep, calm emotions, misty step, phantasmal force |
-| 5th | blink, plant growth |
-| 7th | dominate beast, greater invisibility |
-| 9th | dominate person, seeming |
+    Your patron grants you additional spells. You learn these spells at the corresponding Warlock levels.
 
-### Beguiling Defense
-*Level 3 Archfey Warlock*
+    | Warlock Level | Spells |
+    |---|---|
+    | 3rd | faerie fire, sleep, calm emotions, misty step, phantasmal force |
+    | 5th | blink, plant growth |
+    | 7th | dominate beast, greater invisibility |
+    | 9th | dominate person, seeming |
 
-You gain Resistance to Psychic damage and Immunity to being Charmed.
+???+ subclass-feature "Beguiling Defense | Level 3 Archfey"
 
-### Steps of the Fey
-*Level 3 Archfey Warlock*
+    #### Beguiling Defense
 
-**Warlock Ability per Long Rest**: You cast Misty Step without a spell slot. When you do, you can choose one of the following additional effects:
+    You gain Resistance to Psychic damage and Immunity to being Charmed.
 
-##### Refreshing Step
+???+ subclass-feature "Steps of the Fey | Level 3 Archfey"
 
-After you teleport, one creature within 10 feet gains 1d10 Temporary Hit Points.
+    #### Steps of the Fey
 
-##### Taunting Step
+    **Warlock Ability per Long Rest**: You cast Misty Step without a spell slot. When you do, you can choose one of the following additional effects:
 
-Before you teleport, creatures within 10 feet make a Will save.
+    ###### Refreshing Step
 
-**Fail**: A creature has Disadvantage on attacks against creatures other than you until the end of your next turn.
+    After you teleport, one creature within 10 feet gains 1d10 Temporary Hit Points.
 
-**Success**: No effect.
+    ###### Taunting Step
 
---8<-- "classes/warlock/_features/level-4.md"
+    Before you teleport, creatures within 10 feet make a Will save.
 
---8<-- "classes/warlock/_features/level-5.md"
+    **Fail**: A creature has Disadvantage on attacks against creatures other than you until the end of your next turn.
 
-### Misty Escape
-*Level 6 Archfey Warlock*
+    **Success**: No effect.
 
-You can cast Misty Step as a Reaction after you take damage.
+    --8<-- "classes/warlock/_features/level-4.md"
 
-The following options are added to your Steps of the Fey:
+    --8<-- "classes/warlock/_features/level-5.md"
 
-##### Disappearing Step
+???+ subclass-feature "Misty Escape | Level 6 Archfey"
 
-Before you teleport, you become Invisible until the end of your next turn. This effect ends early if you Attack, deal damage, or cast a Spell.
+    #### Misty Escape
 
-##### Dreadful Step
+    You can cast Misty Step as a Reaction after you take damage.
 
-Before or after you teleport, creatures within 10 feet make a Will save.
+    The following options are added to your Steps of the Fey:
 
-**Fail**: A creature takes 2d10 Psychic damage.
+    ###### Disappearing Step
 
-**Success**: No effect.
+    Before you teleport, you become Invisible until the end of your next turn. This effect ends early if you Attack, deal damage, or cast a Spell.
 
---8<-- "classes/warlock/_features/level-7.md"
+    ###### Dreadful Step
 
---8<-- "classes/warlock/_features/level-8.md"
+    Before or after you teleport, creatures within 10 feet make a Will save.
 
-### Bewitching Magic
-*Level 9 Archfey Warlock*
+    **Fail**: A creature takes 2d10 Psychic damage.
 
-After you cast an Enchantment or Illusion spell using a spell slot, you can cast Misty Step without a spell slot as part of the same action.
+    **Success**: No effect.
 
---8<-- "classes/warlock/_features/level-10.md"
+    --8<-- "classes/warlock/_features/level-7.md"
 
---8<-- "classes/warlock/_features/level-11.md"
+    --8<-- "classes/warlock/_features/level-8.md"
+
+???+ subclass-feature "Bewitching Magic | Level 9 Archfey"
+
+    #### Bewitching Magic
+
+    After you cast an Enchantment or Illusion spell using a spell slot, you can cast Misty Step without a spell slot as part of the same action.
+
+    --8<-- "classes/warlock/_features/level-10.md"
+
+    --8<-- "classes/warlock/_features/level-11.md"

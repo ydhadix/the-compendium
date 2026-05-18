@@ -1,6 +1,8 @@
-### *Ring of Jumping*
+??? infusion "Ring of Jumping | Clothing (Jewelry)"
 
-| Uncommon Clothing (Jewelry) | attunement |
-|---|---|
+    #### Ring of Jumping
 
-*Not yet added.*
+    | Uncommon Clothing (Jewelry) | attunement |
+    |---|---|
+
+    *Not yet added.*

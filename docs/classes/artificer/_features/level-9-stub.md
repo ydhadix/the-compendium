@@ -1,4 +1,5 @@
-### Subclass Feature
-*Level 9 Artificer*
+???+ class-feature "Subclass Feature | Level 9 Artificer"
 
-Your subclass grants you a feature at this level.
+    #### Subclass Feature
+
+    Your subclass grants you a feature at this level.

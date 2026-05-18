@@ -1,19 +1,21 @@
-### *Earth Tremor*
+??? spell "Earth Tremor | 1st-Level Evocation"
 
-| 1st-Level Evocation | *bard, druid, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | - |
-| target | everything on the ground in a 10-foot aura |
-| duration | - |
+    #### Earth Tremor
 
-loose earth or stone in the area becomes nonmagical difficult terrain.
+    | 1st-Level Evocation | *bard, druid, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | - |
+    | target | everything on the ground in a 10-foot aura |
+    | duration | - |
 
-each target makes a fortitude save.
+    Loose earth or stone in the area becomes nonmagical difficult terrain.
 
-fail: you deal 1d6 bludgeoning damage, and the target becomes prone.
+    Each target makes a fortitude save.
 
-success: no effect.
+    Fail: you deal 1d6 bludgeoning damage, and the target becomes prone.
 
-**At Higher Levels:** add 1d6 bludgeoning damage and 5 feet to the aura per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add 1d6 bludgeoning damage and 5 feet to the aura per additional spell level.

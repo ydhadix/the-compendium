@@ -1,6 +1,8 @@
-### *Cloak of Elvenkind*
+??? infusion "Cloak of Elvenkind | Clothing (Cloak)"
 
-| Uncommon Clothing (Cloak) | attunement |
-|---|---|
+    #### Cloak of Elvenkind
 
-You have Advantage on Stealth checks, and Perception checks to see you have Disadvantage.
+    | Uncommon Clothing (Cloak) | attunement |
+    |---|---|
+
+    You have Advantage on Stealth checks, and Perception checks to see you have Disadvantage.

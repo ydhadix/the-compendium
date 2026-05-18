@@ -1,12 +1,13 @@
-### Magic Item Master
-*Level 10 Artificer*
+???+ class-feature "Magic Item Master | Level 10 Artificer"
 
-Your knowledge of magic items is unparalleled.
+    #### Magic Item Master
 
-##### Extra Attunement
+    Your knowledge of magic items is unparalleled.
 
-You gain an additional attunement slot.
+    ###### Extra Attunement
 
-##### Additional Infusions
+    You gain an additional attunement slot.
 
-You gain additional options for your [Infused Items](infusions.md#level-10-infusions).
+    ###### Additional Infusions
+
+    You gain additional options for your [Infused Items](infusions.md#level-10-infusions).

@@ -1,6 +1,8 @@
-### *Shield of Expression*
+??? infusion "Shield of Expression | Shield (Any)"
 
-| Common Shield (Any) | — |
-|---|---|
+    #### Shield of Expression
 
-Bonus Action: You can alter the expression of the face on the front of this shield.
+    | Common Shield (Any) | — |
+    |---|---|
+
+    Bonus Action: You can alter the expression of the face on the front of this shield.

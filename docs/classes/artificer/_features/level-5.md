@@ -1,6 +1,7 @@
-### Extra Attack
-*Level 5 Artificer*
+???+ class-feature "Extra Attack | Level 5 Artificer"
 
-Your form improves to incorporate an additional attack.
+    #### Extra Attack
 
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+    Your form improves to incorporate an additional attack.
+
+    Whenever you take the Attack Action on your turn, you can make an additional attack.

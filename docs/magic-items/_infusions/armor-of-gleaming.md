@@ -1,6 +1,8 @@
-### *Armor of Gleaming*
+??? infusion "Armor of Gleaming | Armor (Any)"
 
-| Common Armor (Any) | — |
-|---|---|
+    #### Armor of Gleaming
 
-This armor never gets dirty.
+    | Common Armor (Any) | — |
+    |---|---|
+
+    This armor never gets dirty.

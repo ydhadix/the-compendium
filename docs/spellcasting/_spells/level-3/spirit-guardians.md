@@ -1,19 +1,21 @@
-### *Spirit Guardians*
+??? spell "Spirit Guardians | 3rd-Level Conjuration"
 
-| 3rd-Level Conjuration | *cleric* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | - |
-| target | everything in a 15-foot aura |
-| duration | 10 minutes (concentration) |
+    #### Spirit Guardians
 
-targets of your choice have their speed halved in the area.
+    | 3rd-Level Conjuration | *cleric* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | - |
+    | target | everything in a 15-foot aura |
+    | duration | 10 minutes (concentration) |
 
-when a target of your choice enters the area (including when this spell is cast or the area moves) or ends its turn there, it makes a will save. a target only makes this save once each turn.
+    Targets of your choice have their speed halved in the area.
 
-fail: you deal 3d8 radiant or necrotic damage.
+    When a target of your choice enters the area (including when this spell is cast or the area moves) or ends its turn there, it makes a will save. a target only makes this save once each turn.
 
-success: you deal half as much damage.
+    Fail: you deal 3d8 radiant or necrotic damage.
 
-**At Higher Levels:** add 1d8 damage per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d8 damage per additional spell level.

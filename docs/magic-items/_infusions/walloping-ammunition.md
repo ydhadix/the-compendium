@@ -1,6 +1,8 @@
-### *Walloping Ammunition*
+??? infusion "Walloping Ammunition | Weapon (Ammunition)"
 
-| Common Weapon (Ammunition) | — |
-|---|---|
+    #### Walloping Ammunition
 
-A creature damage by this ammunition must succeed on a DC 10 Fortitude save or be knocked Prone.
+    | Common Weapon (Ammunition) | — |
+    |---|---|
+
+    A creature damage by this ammunition must succeed on a DC 10 Fortitude save or be knocked Prone.

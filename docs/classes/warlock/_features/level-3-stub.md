@@ -1,4 +1,5 @@
-### Warlock Subclass
-*Level 3 Warlock*
+???+ class-feature "Warlock Subclass | Level 3 Warlock"
 
-Choose a [Warlock Subclass](subclasses/index.md). You gain its features at the corresponding Warlock levels.
+    #### Warlock Subclass
+
+    Choose a [Warlock Subclass](subclasses/index.md). You gain its features at the corresponding Warlock levels.

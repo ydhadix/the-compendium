@@ -1,15 +1,17 @@
-### *Arcane Vigor*
+??? spell "Arcane Vigor | 1st-Level Abjuration"
 
-| 1st-Level Abjuration | *sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | bonus action |
-| range | - |
-| target | self |
-| duration | - |
+    #### Arcane Vigor
 
-you expend and roll up to 1 hit die.
+    | 1st-Level Abjuration | *sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | bonus action |
+    | range | - |
+    | target | self |
+    | duration | - |
 
-you heal by the total of those dice + your spellcasting ability.
+    You expend and roll up to 1 hit die.
 
-**At Higher Levels:** expend and roll 1 hit die per additional spell level.
+    You heal by the total of those dice + your spellcasting ability.
+
+    **At Higher Levels:** expend and roll 1 hit die per additional spell level.

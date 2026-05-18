@@ -1,6 +1,7 @@
-### Mystic Arcanum
-*Level 11 Warlock*
+???+ class-feature "Mystic Arcanum | Level 11 Warlock"
 
-You learn three Warlock spells: one 4th-level, one 5th-level, and one 6th-level.
+    #### Mystic Arcanum
 
-**Spellcasting, Once each per Long Rest**: You can cast each of these spells without a spell slot.
+    You learn three Warlock spells: one 4th-level, one 5th-level, and one 6th-level.
+
+    **Spellcasting, Once each per Long Rest**: You can cast each of these spells without a spell slot.

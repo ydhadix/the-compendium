@@ -1,13 +1,15 @@
-### *Flame Arrows*
+??? spell "Flame Arrows | 3rd-Level Transmutation"
 
-| 3rd-Level Transmutation | *artificer, druid, ranger, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | reach |
-| target | one quiver |
-| duration | 1 hour (concentration) |
+    #### Flame Arrows
 
-the next 12 arrows or bolts drawn from the target deal an additional 1d6 fire damage.
+    | 3rd-Level Transmutation | *artificer, druid, ranger, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | reach |
+    | target | one quiver |
+    | duration | 1 hour (concentration) |
 
-**At Higher Levels:** add two arrows per additional spell level.
+    The next 12 arrows or bolts drawn from the target deal an additional 1d6 fire damage.
+
+    **At Higher Levels:** add two arrows per additional spell level.

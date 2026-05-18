@@ -1,6 +1,8 @@
-### *Ear Horn of Hearing*
+??? infusion "Ear Horn of Hearing | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Ear Horn of Hearing
 
-While you hold this horn up to your ear, you ignore the effects of being Deafened.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    While you hold this horn up to your ear, you ignore the effects of being Deafened.

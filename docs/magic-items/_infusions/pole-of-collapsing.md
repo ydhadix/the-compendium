@@ -1,6 +1,8 @@
-### *Pole of Collapsing*
+??? infusion "Pole of Collapsing | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Pole of Collapsing
 
-Magic Action: You can collapse this pole into a 1-foot-long rod or revert it to a pole.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    Magic Action: You can collapse this pole into a 1-foot-long rod or revert it to a pole.

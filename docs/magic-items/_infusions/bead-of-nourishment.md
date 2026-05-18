@@ -1,6 +1,8 @@
-### *Bead of Nourishment*
+??? infusion "Bead of Nourishment | Potion"
 
-| Common Potion | — |
-|---|---|
+    #### Bead of Nourishment
 
-This flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of Rations.
+    | Common Potion | — |
+    |---|---|
+
+    This flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of Rations.

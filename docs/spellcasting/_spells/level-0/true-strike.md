@@ -1,15 +1,17 @@
-### *True Strike*
+??? spell "True Strike | Divination Cantrip"
 
-| Divination Cantrip | *artificer, bard, sorcerer, warlock, wizard* |
-|---|---|
-| components | s, m (a weapon you're proficient with) |
-| cast time | full action |
-| range | material component's reach or range |
-| target | one thing |
-| duration | - |
+    #### True Strike
 
-you make a spell attack against the target using the material component.
+    | Divination Cantrip | *artificer, bard, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | s, m (a weapon you're proficient with) |
+    | cast time | full action |
+    | range | material component's reach or range |
+    | target | one thing |
+    | duration | - |
 
-hit: you deal the material component's damage, and you can change the damage type to radiant. (you don't add your ability to the damage.)
+    You make a spell attack against the target using the material component.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Hit: you deal the material component's damage, and you can change the damage type to radiant. (you don't add your ability to the damage.)
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

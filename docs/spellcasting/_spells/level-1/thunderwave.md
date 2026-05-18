@@ -1,19 +1,21 @@
-### *Thunderwave*
+??? spell "Thunderwave | 1st-Level Evocation"
 
-| 1st-Level Evocation | *artificer, bard, druid, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | reach |
-| target | everything in a 15-foot cube |
-| duration | - |
+    #### Thunderwave
 
-this spell emits a thunderous sound out to 300 feet.
+    | 1st-Level Evocation | *artificer, bard, druid, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | reach |
+    | target | everything in a 15-foot cube |
+    | duration | - |
 
-each target makes a fortitude save.
+    This spell emits a thunderous sound out to 300 feet.
 
-fail: you deal 2d8 thunder damage. the target is pushed 10 feet away from you and becomes prone.
+    Each target makes a fortitude save.
 
-success: you deal half as much damage.
+    Fail: you deal 2d8 thunder damage. the target is pushed 10 feet away from you and becomes prone.
 
-**At Higher Levels:** add 1d8 thunder damage and 5 feet to the cube per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d8 thunder damage and 5 feet to the cube per additional spell level.

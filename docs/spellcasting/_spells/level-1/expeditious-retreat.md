@@ -1,13 +1,15 @@
-### *Expeditious Retreat*
+??? spell "Expeditious Retreat | 1st-Level Transmutation"
 
-| 1st-Level Transmutation | *artificer, ranger, sorcerer, warlock, wizard* |
-|---|---|
-| components | v, s |
-| cast time | bonus action |
-| range | - |
-| target | self |
-| duration | 10 minutes (concentration) |
+    #### Expeditious Retreat
 
-you take the dash action (no additional action required).
+    | 1st-Level Transmutation | *artificer, ranger, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | bonus action |
+    | range | - |
+    | target | self |
+    | duration | 10 minutes (concentration) |
 
-bonus action: you take the dash action.
+    You take the dash action (no additional action required).
+
+    Bonus action: you take the dash action.

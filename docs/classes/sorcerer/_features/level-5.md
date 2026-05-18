@@ -1,4 +1,5 @@
-### Sorcerous Restoration
-*Level 5 Sorcerer*
+???+ class-feature "Sorcerous Restoration | Level 5 Sorcerer"
 
-**Once per Long Rest**: When you finish a Short Rest, you regain your Sorcerer Level in Sorcery Points.
+    #### Sorcerous Restoration
+
+    **Once per Long Rest**: When you finish a Short Rest, you regain your Sorcerer Level in Sorcery Points.

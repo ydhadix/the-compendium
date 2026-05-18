@@ -1,17 +1,19 @@
-### *Burning Hands*
+??? spell "Burning Hands | 1st-Level Evocation"
 
-| 1st-Level Evocation | *druid, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | reach |
-| target | everything in a 15-foot cone |
-| duration | - |
+    #### Burning Hands
 
-each target makes a reflex save.
+    | 1st-Level Evocation | *druid, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | reach |
+    | target | everything in a 15-foot cone |
+    | duration | - |
 
-fail: you deal 3d6 fire damage. a flammable object starts burning (1d4).
+    Each target makes a reflex save.
 
-success: you deal half as much damage.
+    Fail: you deal 3d6 fire damage. a flammable object starts burning (1d4).
 
-**At Higher Levels:** add 2d6 fire damage and 15 feet of cone size per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 2d6 fire damage and 15 feet of cone size per additional spell level.

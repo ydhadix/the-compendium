@@ -1,7 +1,9 @@
-### *Wand of Magic Detection*
+??? infusion "Wand of Magic Detection | Focus (Arcane)"
 
-| Uncommon Focus (Arcane) | — |
-|---|---|
-| charges | 3 (1d3 at dawn) |
+    #### Wand of Magic Detection
 
-Magic Action, 1 Charge: You can cast Detect Magic.
+    | Uncommon Focus (Arcane) | — |
+    |---|---|
+    | charges | 3 (1d3 at dawn) |
+
+    Magic Action, 1 Charge: You can cast Detect Magic.

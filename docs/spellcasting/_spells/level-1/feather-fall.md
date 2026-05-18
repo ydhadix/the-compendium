@@ -1,15 +1,17 @@
-### *Feather Fall*
+??? spell "Feather Fall | 1st-Level Transmutation"
 
-| 1st-Level Transmutation | *artificer, bard, sorcerer, wizard* |
-|---|---|
-| components | v, m |
-| cast time | reaction, when a creature falls |
-| range | 60 feet |
-| target | up to 5 falling creatures |
-| duration | 1 minute |
+    #### Feather Fall
 
-the target's descent slows to 60 feet.
+    | 1st-Level Transmutation | *artificer, bard, sorcerer, wizard* |
+    |---|---|
+    | components | v, m |
+    | cast time | reaction, when a creature falls |
+    | range | 60 feet |
+    | target | up to 5 falling creatures |
+    | duration | 1 minute |
 
-when the target lands, it takes no damage from the fall and this spell ends on it.
+    The target's descent slows to 60 feet.
 
-**At Higher Levels:** add one target per additional spell level.
+    When the target lands, it takes no damage from the fall and this spell ends on it.
+
+    **At Higher Levels:** add one target per additional spell level.

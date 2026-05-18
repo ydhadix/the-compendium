@@ -1,54 +1,57 @@
-### Bardic Inspiration
-*Level 1 Bard*
+???+ class-feature "Bardic Inspiration | Level 1 Bard"
 
-Your presence can inspire allies when it matters most.
+    #### Bardic Inspiration
 
-You can give other creatures Inspiration Dice. Before a creature with an Inspiration Die fails a d20 roll, they can spend the die to add it to their d20 roll, potentially turning the failure into a success. A creature can only have one Inspiration Die at a time.
+    Your presence can inspire allies when it matters most.
 
-The Bard table shows the size of your Inspiration Dice and how many Bardic Inspiration uses you have.
+    You can give other creatures Inspiration Dice. Before a creature with an Inspiration Die fails a d20 roll, they can spend the die to add it to their d20 roll, potentially turning the failure into a success. A creature can only have one Inspiration Die at a time.
 
-**Short Rest**: Any remaining Inspiration Dice you've given vanish, and you regain all uses of Bardic Inspiration.
+    The Bard table shows the size of your Inspiration Dice and how many Bardic Inspiration uses you have.
 
-##### Giving Inspiration
+    **Short Rest**: Any remaining Inspiration Dice you've given vanish, and you regain all uses of Bardic Inspiration.
 
-**Bonus Action**: You give a creature within 60 feet an Inspiration Die.
+    ###### Giving Inspiration
 
-### Magical Secrets
-*Level 1 Bard*
+    **Bonus Action**: You give a creature within 60 feet an Inspiration Die.
 
-You weave knowledge from other magic traditions into your craft.
+???+ class-feature "Magical Secrets | Level 1 Bard"
 
-Choose one of the following Magical Secrets. You can learn cantrips and prepare spells from the chosen Magical Secret's spell lists as Bard spells. (Spells from these spell lists are not Bard spells until you learn or prepare them.)
+    #### Magical Secrets
 
-| Magical Secret | Spell Lists |
-|---|---|
-| arcane | wizard |
-| primal | druid |
-| divine | cleric |
+    You weave knowledge from other magic traditions into your craft.
 
-### Spellcasting
-*Level 1 Bard*
+    Choose one of the following Magical Secrets. You can learn cantrips and prepare spells from the chosen Magical Secret's spell lists as Bard spells. (Spells from these spell lists are not Bard spells until you learn or prepare them.)
 
-Your performances resonate with the weave to produce magic.
+    | Magical Secret | Spell Lists |
+    |---|---|
+    | arcane | wizard |
+    | primal | druid |
+    | divine | cleric |
 
-##### Spellcasting Ability
+???+ class-feature "Spellcasting | Level 1 Bard"
 
-Your Bard Ability is your Spellcasting Ability.
+    #### Spellcasting
 
-##### Spellcasting Focus
+    Your performances resonate with the weave to produce magic.
 
-Bard spells use a Musical Instrument as a spellcasting focus.
+    ###### Spellcasting Ability
 
-##### Spells Prepared
+    Your Bard Ability is your Spellcasting Ability.
 
-The Bard table shows how many cantrips you know and how many spells you prepare.
+    ###### Spellcasting Focus
 
-##### Changing Spells
+    Bard spells use a Musical Instrument as a spellcasting focus.
 
-**Level Up**: You can change one of your known cantrips and one of your prepared spells.
+    ###### Spells Prepared
 
-##### Spell Slots
+    The Bard table shows how many cantrips you know and how many spells you prepare.
 
-The Bard table shows how many spell slots you have.
+    ###### Changing Spells
 
-**Long Rest**: You regain all your spell slots.
+    **Level Up**: You can change one of your known cantrips and one of your prepared spells.
+
+    ###### Spell Slots
+
+    The Bard table shows how many spell slots you have.
+
+    **Long Rest**: You regain all your spell slots.

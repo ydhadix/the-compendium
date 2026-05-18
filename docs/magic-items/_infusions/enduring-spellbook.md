@@ -1,6 +1,8 @@
-### *Enduring Spellbook*
+??? infusion "Enduring Spellbook | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Enduring Spellbook
 
-This spellbook, and anything written on its pages, can’t be damaged by fire or water, and doesn’t deteriorate with age.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    This spellbook, and anything written on its pages, can’t be damaged by fire or water, and doesn’t deteriorate with age.

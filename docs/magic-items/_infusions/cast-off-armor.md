@@ -1,6 +1,8 @@
-### *Cast-Off Armor*
+??? infusion "Cast-Off Armor | Armor (Any)"
 
-| Common Armor (Any) | — |
-|---|---|
+    #### Cast-Off Armor
 
-Magic Action: You can doff this armor.
+    | Common Armor (Any) | — |
+    |---|---|
+
+    Magic Action: You can doff this armor.

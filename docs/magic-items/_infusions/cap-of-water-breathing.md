@@ -1,6 +1,8 @@
-### *Cap of Water Breathing*
+??? infusion "Cap of Water Breathing | Clothing (Hat)"
 
-| Uncommon Clothing (Hat) | — |
-|---|---|
+    #### Cap of Water Breathing
 
-Magic Action: While wearing this cap underwater, you can create a bubble of air around your head that allows you to breathe normally.  The bubble lasts until the cap is removed or you are no longer underwater.
+    | Uncommon Clothing (Hat) | — |
+    |---|---|
+
+    Magic Action: While wearing this cap underwater, you can create a bubble of air around your head that allows you to breathe normally.  The bubble lasts until the cap is removed or you are no longer underwater.

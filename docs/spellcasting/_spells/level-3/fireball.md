@@ -1,17 +1,19 @@
-### *Fireball*
+??? spell "Fireball | 3rd-Level Evocation"
 
-| 3rd-Level Evocation | *sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 150 feet |
-| target | everything in a 20-foot radius sphere |
-| duration | - |
+    #### Fireball
 
-each target makes a reflex save.
+    | 3rd-Level Evocation | *sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 150 feet |
+    | target | everything in a 20-foot radius sphere |
+    | duration | - |
 
-fail: you deal 8d6 fire damage. a flammable object starts burning (1d4).
+    Each target makes a reflex save.
 
-success: you deal half as much damage.
+    Fail: you deal 8d6 fire damage. a flammable object starts burning (1d4).
 
-**At Higher Levels:** add 1d6 fire damage and 5 feet to the radius per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d6 fire damage and 5 feet to the radius per additional spell level.

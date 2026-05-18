@@ -1,17 +1,19 @@
-### *Acid Splash*
+??? spell "Acid Splash | Evocation Cantrip"
 
-| Evocation Cantrip | *artificer, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 60 feet |
-| target | everything in a 5-foot sphere |
-| duration | - |
+    #### Acid Splash
 
-the target makes a reflex save.
+    | Evocation Cantrip | *artificer, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | everything in a 5-foot sphere |
+    | duration | - |
 
-fail: you deal 1d6 acid damage.
+    The target makes a reflex save.
 
-success: no effect.
+    Fail: you deal 1d6 acid damage.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Success: no effect.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

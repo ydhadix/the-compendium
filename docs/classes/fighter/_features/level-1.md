@@ -1,44 +1,47 @@
-### Situational Awareness
-*Level 1 Fighter*
+???+ class-feature "Situational Awareness | Level 1 Fighter"
 
-Your awareness of your surroundings lets you respond quickly.
+    #### Situational Awareness
 
-You can use the following Situational Awareness effects. The Fighter table shows how many Situational Awareness uses you have.
+    Your awareness of your surroundings lets you respond quickly.
 
-**Short Rest**: You regain one use of Situational Awareness.
+    You can use the following Situational Awareness effects. The Fighter table shows how many Situational Awareness uses you have.
 
-**Long Rest**: You regain all uses of Situational Awareness.
+    **Short Rest**: You regain one use of Situational Awareness.
 
-##### Situational Awareness: Second Wind
+    **Long Rest**: You regain all uses of Situational Awareness.
 
-You rally yourself and push forward with renewed vigor.
+    ###### Situational Awareness: Second Wind
 
-**Bonus Action**: You heal 1d10 + Level, then move up to half your speed without provoking Opportunity Attacks.
+    You rally yourself and push forward with renewed vigor.
 
-##### Situational Awareness: Tactical Mind
+    **Bonus Action**: You heal 1d10 + Level, then move up to half your speed without provoking Opportunity Attacks.
 
-You have a mind for tactics on and off the battlefield.
+    ###### Situational Awareness: Tactical Mind
 
-Before you fail a check, you can add 1d10 to the total. If the check still fails, you don't expend your Situational Awareness.
+    You have a mind for tactics on and off the battlefield.
 
-### Fighting Style
-*Level 1 Fighter*
+    Before you fail a check, you can add 1d10 to the total. If the check still fails, you don't expend your Situational Awareness.
 
-Your training has developed into a particular style of fighting.
+???+ class-feature "Fighting Style | Level 1 Fighter"
 
-You gain a Fighting Style feat of your choice.
+    #### Fighting Style
 
-##### Changing Fighting Styles
+    Your training has developed into a particular style of fighting.
 
-**Level Up**: You can change your Fighting Style feat.
+    You gain a Fighting Style feat of your choice.
 
-### Weapon Mastery
-*Level 1 Fighter*
+    ###### Changing Fighting Styles
 
-Your practice with specific weapons unlocks new techniques.
+    **Level Up**: You can change your Fighting Style feat.
 
-You learn weapon masteries. The Fighter table shows how many Weapon Masteries you know, and when you learn more.
+???+ class-feature "Weapon Mastery | Level 1 Fighter"
 
-##### Changing Weapon Masteries
+    #### Weapon Mastery
 
-**Long Rest**: You can change one of your weapon masteries.
+    Your practice with specific weapons unlocks new techniques.
+
+    You learn weapon masteries. The Fighter table shows how many Weapon Masteries you know, and when you learn more.
+
+    ###### Changing Weapon Masteries
+
+    **Long Rest**: You can change one of your weapon masteries.

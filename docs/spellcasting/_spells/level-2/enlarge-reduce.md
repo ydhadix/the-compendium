@@ -1,21 +1,23 @@
-### *Enlarge/Reduce*
+??? spell "Enlarge/Reduce | 2nd-Level Transmutation"
 
-| 2nd-Level Transmutation | *artificer, bard, druid, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 30 feet |
-| target | one thing |
-| duration | 1 minute (concentration) |
+    #### Enlarge/Reduce
 
-choose one of the following effects. the target makes a fortitude save.
+    | 2nd-Level Transmutation | *artificer, bard, druid, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one thing |
+    | duration | 1 minute (concentration) |
 
-fail: the target is affected by the chosen effect. if the target is a creature, everything they are wearing or carrying is affected as well.
+    Choose one of the following effects. the target makes a fortitude save.
 
-success: no effect.
+    Fail: the target is affected by the chosen effect. if the target is a creature, everything they are wearing or carrying is affected as well.
 
-enlarge: the target's size increases by one category. the target has advantage on strength checks and fortitude saves. the target's physical attacks deal an additional die of damage.
+    Success: no effect.
 
-reduce: the target's size decreases by one category. the target has disadvantage on strength checks and fortitude saves. the target's physical attacks deal one less die of damage. (minimum 1 damage)
+    Enlarge: the target's size increases by one category. the target has advantage on strength checks and fortitude saves. the target's physical attacks deal an additional die of damage.
 
-**At Higher Levels:** add one target per additional spell level.
+    Reduce: the target's size decreases by one category. the target has disadvantage on strength checks and fortitude saves. the target's physical attacks deal one less die of damage. (minimum 1 damage)
+
+    **At Higher Levels:** add one target per additional spell level.

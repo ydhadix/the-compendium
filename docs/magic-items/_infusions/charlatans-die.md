@@ -1,6 +1,8 @@
-### *Charlatan’s Die*
+??? infusion "Charlatan’s Die | Wondrous Item"
 
-| Common Wondrous Item | attunement |
-|---|---|
+    #### Charlatan’s Die
 
-When you roll this six-sided die, you can choose which number it rolls.
+    | Common Wondrous Item | attunement |
+    |---|---|
+
+    When you roll this six-sided die, you can choose which number it rolls.

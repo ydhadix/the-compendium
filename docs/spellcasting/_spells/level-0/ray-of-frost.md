@@ -1,15 +1,17 @@
-### *Ray of Frost*
+??? spell "Ray of Frost | Evocation Cantrip"
 
-| Evocation Cantrip | *artificer, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 60 feet |
-| target | one thing |
-| duration | until the end of your next turn |
+    #### Ray of Frost
 
-you make a ranged attack against the target.
+    | Evocation Cantrip | *artificer, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one thing |
+    | duration | until the end of your next turn |
 
-hit: you deal 1d8 cold damage. a creature damaged by this spell has its speed reduced by 10 feet.
+    You make a ranged attack against the target.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Hit: you deal 1d8 cold damage. a creature damaged by this spell has its speed reduced by 10 feet.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

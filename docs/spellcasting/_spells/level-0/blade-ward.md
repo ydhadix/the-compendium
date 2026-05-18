@@ -1,11 +1,13 @@
-### *Blade Ward*
+??? spell "Blade Ward | Abjuration Cantrip"
 
-| Abjuration Cantrip | *artificer, bard, sorcerer, warlock, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | - |
-| target | self |
-| duration | 1 minute (concentration) |
+    #### Blade Ward
 
-whenever you are attacked, you subtract 1d4 from the d20 roll.
+    | Abjuration Cantrip | *artificer, bard, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | - |
+    | target | self |
+    | duration | 1 minute (concentration) |
+
+    Whenever you are attacked, you subtract 1d4 from the d20 roll.

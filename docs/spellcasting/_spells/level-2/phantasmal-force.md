@@ -1,19 +1,21 @@
-### *Phantasmal Force*
+??? spell "Phantasmal Force | 2nd-Level Illusion"
 
-| 2nd-Level Illusion | *bard, sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 60 feet |
-| target | one creature |
-| duration | 1 minute (concentration) |
+    #### Phantasmal Force
 
-the target makes a will save.
+    | 2nd-Level Illusion | *bard, sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | one creature |
+    | duration | 1 minute (concentration) |
 
-fail: you create an illusory phantasm no larger than a 10-foot cube. the phantasm includes sound, temperature, and other stimuli, and only the target can perceive it. the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it.
+    The target makes a will save.
 
-success: no effect.
+    Fail: you create an illusory phantasm no larger than a 10-foot cube. the phantasm includes sound, temperature, and other stimuli, and only the target can perceive it. the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it.
 
-free action: if the target is within 5 feet of the phantasm, you deal 2d8 psychic damage to it. the target perceives the damage as a type appropriate to the phantasm.
+    Success: no effect.
 
-**At Higher Levels:** add one target per additional spell level.
+    Free action: if the target is within 5 feet of the phantasm, you deal 2d8 psychic damage to it. the target perceives the damage as a type appropriate to the phantasm.
+
+    **At Higher Levels:** add one target per additional spell level.

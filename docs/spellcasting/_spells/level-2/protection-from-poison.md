@@ -1,15 +1,17 @@
-### *Protection from Poison*
+??? spell "Protection from Poison | 2nd-Level Abjuration"
 
-| 2nd-Level Abjuration | *artificer, cleric, druid, paladin, ranger* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | reach |
-| target | one creature |
-| duration | 1 hour |
+    #### Protection from Poison
 
-the poisoned condition is ended on the target.
+    | 2nd-Level Abjuration | *artificer, cleric, druid, paladin, ranger* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | reach |
+    | target | one creature |
+    | duration | 1 hour |
 
-the target gains resistance to poison damage and the poisoned condition.
+    The poisoned condition is ended on the target.
 
-**At Higher Levels:** add one target per additional spell level.
+    The target gains resistance to poison damage and the poisoned condition.
+
+    **At Higher Levels:** add one target per additional spell level.

@@ -1,4 +1,5 @@
-### Subclass Feature
-*Level 3 Wizard*
+???+ class-feature "Subclass Feature | Level 3 Wizard"
 
-Choose a [subclass](subclasses/index.md). Your subclass grants you a feature at this level.
+    #### Subclass Feature
+
+    Choose a [subclass](subclasses/index.md). Your subclass grants you a feature at this level.

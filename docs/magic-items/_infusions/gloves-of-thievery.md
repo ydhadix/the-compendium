@@ -1,6 +1,8 @@
-### *Gloves of Thievery*
+??? infusion "Gloves of Thievery | Clothing (Gloves)"
 
-| Uncommon Clothing (Gloves) | — |
-|---|---|
+    #### Gloves of Thievery
 
-These gloves are invisible while worn.  You gain a +5 bonus to Precision checks.
+    | Uncommon Clothing (Gloves) | — |
+    |---|---|
+
+    These gloves are invisible while worn.  You gain a +5 bonus to Precision checks.

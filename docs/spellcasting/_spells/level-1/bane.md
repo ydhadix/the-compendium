@@ -1,17 +1,19 @@
-### *Bane*
+??? spell "Bane | 1st-Level Enchantment"
 
-| 1st-Level Enchantment | *bard, cleric, warlock* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 30 feet |
-| target | up to 3 creatures |
-| duration | 1 minute (concentration) |
+    #### Bane
 
-each target makes a will save.
+    | 1st-Level Enchantment | *bard, cleric, warlock* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | up to 3 creatures |
+    | duration | 1 minute (concentration) |
 
-fail: whenever the target makes an attack or save, you subtract 1d4 from the d20 roll.
+    Each target makes a will save.
 
-success: no effect.
+    Fail: whenever the target makes an attack or save, you subtract 1d4 from the d20 roll.
 
-**At Higher Levels:** add one target per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add one target per additional spell level.

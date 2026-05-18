@@ -1,15 +1,17 @@
-### *Lesser Restoration*
+??? spell "Lesser Restoration | 2nd-Level Abjuration"
 
-| 2nd-Level Abjuration | *artificer, bard, cleric, druid, paladin, ranger* |
-|---|---|
-| components | v, s |
-| cast time | bonus action |
-| range | reach |
-| target | one creature |
-| duration | - |
+    #### Lesser Restoration
 
-choose one of the following conditions: blinded, deafened, paralyzed, or poisoned.
+    | 2nd-Level Abjuration | *artificer, bard, cleric, druid, paladin, ranger* |
+    |---|---|
+    | components | v, s |
+    | cast time | bonus action |
+    | range | reach |
+    | target | one creature |
+    | duration | - |
 
-the chosen condition is ended on the target.
+    Choose one of the following conditions: blinded, deafened, paralyzed, or poisoned.
 
-**At Higher Levels:** add one target per additional spell level.
+    The chosen condition is ended on the target.
+
+    **At Higher Levels:** add one target per additional spell level.

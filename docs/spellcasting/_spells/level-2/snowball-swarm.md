@@ -1,17 +1,19 @@
-### *Snowball Swarm*
+??? spell "Snowball Swarm | 2nd-Level Evocation"
 
-| 2nd-Level Evocation | *sorcerer, wizard* |
-|---|---|
-| components | v, s, m |
-| cast time | full action |
-| range | 90 feet |
-| target | everything in a 10-foot radius sphere |
-| duration | - |
+    #### Snowball Swarm
 
-each target makes a reflex save.
+    | 2nd-Level Evocation | *sorcerer, wizard* |
+    |---|---|
+    | components | v, s, m |
+    | cast time | full action |
+    | range | 90 feet |
+    | target | everything in a 10-foot radius sphere |
+    | duration | - |
 
-fail: you deal 3d6 cold damage. a creature damaged by this spell has its speed reduced by 10 feet.
+    Each target makes a reflex save.
 
-success: you deal half as much damage.
+    Fail: you deal 3d6 cold damage. a creature damaged by this spell has its speed reduced by 10 feet.
 
-**At Higher Levels:** add 1d6 cold damage and 30 feet to the range per additional spell level.
+    Success: you deal half as much damage.
+
+    **At Higher Levels:** add 1d6 cold damage and 30 feet to the range per additional spell level.

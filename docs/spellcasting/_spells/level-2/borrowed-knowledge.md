@@ -1,13 +1,15 @@
-### *Borrowed Knowledge*
+??? spell "Borrowed Knowledge | 2nd-Level Divination"
 
-| 2nd-Level Divination | *bard, cleric, warlock, wizard* |
-|---|---|
-| components | v, s, m (a book worth 25 gold) |
-| cast time | full action |
-| range | - |
-| target | self |
-| duration | 1 hour |
+    #### Borrowed Knowledge
 
-choose a skill.
+    | 2nd-Level Divination | *bard, cleric, warlock, wizard* |
+    |---|---|
+    | components | v, s, m (a book worth 25 gold) |
+    | cast time | full action |
+    | range | - |
+    | target | self |
+    | duration | 1 hour |
 
-you gain proficiency in the chosen skill.
+    Choose a skill.
+
+    You gain proficiency in the chosen skill.

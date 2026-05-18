@@ -1,58 +1,61 @@
-### Unarmored Form
-*Level 1 Monk*
+???+ class-feature "Unarmored Form | Level 1 Monk"
 
-You adopt a combat stance that thrives while unencumbered.
+    #### Unarmored Form
 
-While you aren't wearing armor or wielding a shield, you gain the following benefits:
+    You adopt a combat stance that thrives while unencumbered.
 
-##### Unarmored Defense
+    While you aren't wearing armor or wielding a shield, you gain the following benefits:
 
-Your base Armor Class is 8 + Monk Ability + Minor Ability + Proficiency Bonus.
+    ###### Unarmored Defense
 
-##### Unarmored Movement
+    Your base Armor Class is 8 + Monk Ability + Minor Ability + Proficiency Bonus.
 
-Your Speed increases, and you can move along vertical surfaces and across liquids without falling during your movement. The Monk table shows your bonus Speed, and when this bonus increases.
+    ###### Unarmored Movement
 
-##### Unarmored Grapple
+    Your Speed increases, and you can move along vertical surfaces and across liquids without falling during your movement. The Monk table shows your bonus Speed, and when this bonus increases.
 
-You can use your Monk Ability to Grapple or Shove.
+    ###### Unarmored Grapple
 
-### Ki
-*Level 1 Monk*
+    You can use your Monk Ability to Grapple or Shove.
 
-You harness your discipline into a well of mystical energy.
+???+ class-feature "Ki | Level 1 Monk"
 
-You can spend Ki to use Monk features. You have Ki equal to your Level. If an effect requires a save, its DC is 8 + your Minor Ability + your Proficiency Bonus.
+    #### Ki
 
-**Short Rest**: You regain all your Ki.
+    You harness your discipline into a well of mystical energy.
 
-**Once per Long Rest**: Before Initiative, you can regain all your Ki.
+    You can spend Ki to use Monk features. You have Ki equal to your Level. If an effect requires a save, its DC is 8 + your Minor Ability + your Proficiency Bonus.
 
-Unarmed strikes, simple melee weapons, and light martial melee weapons are monk weapons. Some Monk features can only be used with these weapons. Some Monk subclasses expand which weapons are monk weapons.
+    **Short Rest**: You regain all your Ki.
 
-### Martial Arts
-*Level 1 Monk*
+    **Once per Long Rest**: Before Initiative, you can regain all your Ki.
 
-Your efficient, practiced movement lets you take swift actions.
+    Unarmed strikes, simple melee weapons, and light martial melee weapons are monk weapons. Some Monk features can only be used with these weapons. Some Monk subclasses expand which weapons are monk weapons.
 
-Whenever you attack with a Monk Weapon, you can use your Monk Ability for the attack, and you can use your Martial Arts Die instead of the attack's normal damage dice.
+???+ class-feature "Martial Arts | Level 1 Monk"
 
-**Bonus Action**: You can use one of the following effects:
+    #### Martial Arts
 
-##### Flurry of Blows
+    Your efficient, practiced movement lets you take swift actions.
 
-You make one Unarmed Strike.
+    Whenever you attack with a Monk Weapon, you can use your Monk Ability for the attack, and you can use your Martial Arts Die instead of the attack's normal damage dice.
 
-**1 Ki**: You can make an additional Unarmed Strike.
+    **Bonus Action**: You can use one of the following effects:
 
-##### Patient Defense
+    ###### Flurry of Blows
 
-You take the Disengage Action.
+    You make one Unarmed Strike.
 
-**1 Ki**: You can also take the Dodge Action.
+    **1 Ki**: You can make an additional Unarmed Strike.
 
-##### Step of the Wind
+    ###### Patient Defense
 
-You take the Dash Action.
+    You take the Disengage Action.
 
-**1 Ki**: You can also take the Disengage Action, and your jump distance is doubled until the end of the turn.
+    **1 Ki**: You can also take the Dodge Action.
+
+    ###### Step of the Wind
+
+    You take the Dash Action.
+
+    **1 Ki**: You can also take the Disengage Action, and your jump distance is doubled until the end of the turn.

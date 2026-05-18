@@ -1,6 +1,8 @@
-### *Item of Resistance*
+??? infusion "Item of Resistance | Wondrous Item"
 
-| Uncommon Wondrous Item | attunement |
-|---|---|
+    #### Item of Resistance
 
-*Not yet added.*
+    | Uncommon Wondrous Item | attunement |
+    |---|---|
+
+    *Not yet added.*

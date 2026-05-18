@@ -1,4 +1,5 @@
-### Subclass Feature
-*Level 6 Wizard*
+???+ class-feature "Subclass Feature | Level 6 Wizard"
 
-Your subclass grants you a feature at this level.
+    #### Subclass Feature
+
+    Your subclass grants you a feature at this level.

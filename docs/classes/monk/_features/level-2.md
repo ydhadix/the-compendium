@@ -1,19 +1,21 @@
-### Deflecting Palm
-*Level 2 Monk*
+???+ class-feature "Deflecting Palm | Level 2 Monk"
 
-You can diminish and redirect incoming strikes.
+    #### Deflecting Palm
 
-**Reaction**: Before you take Physical damage from an attack, you can reduce the damage by 1d10 + Monk Ability + Level.
+    You can diminish and redirect incoming strikes.
 
-**1 Ki**: If this feature reduces an attack's damage to 0, you can redirect the attack. If the attack was a Melee attack, choose a target within Reach. If the attack was a Ranged attack, choose a target within 60 feet. The target makes a Reflex save.
+    **Reaction**: Before you take Physical damage from an attack, you can reduce the damage by 1d10 + Monk Ability + Level.
 
-**Fail**: You deal (2 × Martial Arts Die) + Monk Ability as damage of the original attack's type.
+    **1 Ki**: If this feature reduces an attack's damage to 0, you can redirect the attack. If the attack was a Melee attack, choose a target within Reach. If the attack was a Ranged attack, choose a target within 60 feet. The target makes a Reflex save.
 
-**Success**: You deal half as much damage.
+    **Fail**: You deal (2 × Martial Arts Die) + Monk Ability as damage of the original attack's type.
 
-### Slow Fall
-*Level 2 Monk*
+    **Success**: You deal half as much damage.
 
-You center your body to lessen impact from a fall.
+???+ class-feature "Slow Fall | Level 2 Monk"
 
-**Reaction**: Before you take damage from falling, you reduce the damage by 5 × Level.
+    #### Slow Fall
+
+    You center your body to lessen impact from a fall.
+
+    **Reaction**: Before you take damage from falling, you reduce the damage by 5 × Level.

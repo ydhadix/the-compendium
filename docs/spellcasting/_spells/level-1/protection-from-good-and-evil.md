@@ -1,17 +1,19 @@
-### *Protection from Good & Evil*
+??? spell "Protection from Good & Evil | 1st-Level Abjuration"
 
-| 1st-Level Abjuration | *cleric, druid, paladin, warlock, wizard* |
-|---|---|
-| components | v, s, m (consumes holy water worth 25 gold) |
-| cast time | full action |
-| range | reach |
-| target | one creature |
-| duration | 10 minutes (concentration) |
+    #### Protection from Good & Evil
 
-the target is protected against aberrations, celestials, elementals, fey, fiends, and undead.
+    | 1st-Level Abjuration | *cleric, druid, paladin, warlock, wizard* |
+    |---|---|
+    | components | v, s, m (consumes holy water worth 25 gold) |
+    | cast time | full action |
+    | range | reach |
+    | target | one creature |
+    | duration | 10 minutes (concentration) |
 
-creatures of those types have disadvantage on attacks against the target.
+    The target is protected against aberrations, celestials, elementals, fey, fiends, and undead.
 
-the target can't be possessed, charmed, or frightened by those creatures, and has advantage against those conditions if it is already affected.
+    Creatures of those types have disadvantage on attacks against the target.
 
-**At Higher Levels:** add one target per additional spell level.
+    The target can't be possessed, charmed, or frightened by those creatures, and has advantage against those conditions if it is already affected.
+
+    **At Higher Levels:** add one target per additional spell level.

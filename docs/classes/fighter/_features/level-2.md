@@ -1,21 +1,23 @@
-### Action Surge
-*Level 2 Fighter*
+???+ class-feature "Action Surge | Level 2 Fighter"
 
-You push yourself beyond your normal limits for a moment.
+    #### Action Surge
 
-**Once per Turn**: You can take an additional Action on your turn, other than the Magic action.
+    You push yourself beyond your normal limits for a moment.
 
-The Fighter table shows how many Action Surge uses you have.
+    **Once per Turn**: You can take an additional Action on your turn, other than the Magic action.
 
-**Short Rest**: You regain all uses of Action Surge.
+    The Fighter table shows how many Action Surge uses you have.
 
-### Indomitable
-*Level 2 Fighter*
+    **Short Rest**: You regain all uses of Action Surge.
 
-You steel your resolve and push through a failing defense.
+???+ class-feature "Indomitable | Level 2 Fighter"
 
-Before you fail a save, you can reroll it and add your level to the total.
+    #### Indomitable
 
-The Fighter table shows how many Indomitable uses you have.
+    You steel your resolve and push through a failing defense.
 
-**Long Rest**: You regain all uses of Indomitable.
+    Before you fail a save, you can reroll it and add your level to the total.
+
+    The Fighter table shows how many Indomitable uses you have.
+
+    **Long Rest**: You regain all uses of Indomitable.

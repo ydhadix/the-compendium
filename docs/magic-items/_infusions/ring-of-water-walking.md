@@ -1,6 +1,8 @@
-### *Ring of Water Walking*
+??? infusion "Ring of Water Walking | Clothing (Jewelry)"
 
-| Uncommon Clothing (Jewelry) | — |
-|---|---|
+    #### Ring of Water Walking
 
-Magic Action: You can cast Water Walk, targeting yourself.
+    | Uncommon Clothing (Jewelry) | — |
+    |---|---|
+
+    Magic Action: You can cast Water Walk, targeting yourself.

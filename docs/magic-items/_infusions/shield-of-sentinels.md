@@ -1,6 +1,8 @@
-### *Shield of Sentinels*
+??? infusion "Shield of Sentinels | Shield (Any)"
 
-| Uncommon Shield (Any) | — |
-|---|---|
+    #### Shield of Sentinels
 
-You have Advantage on Initiative and Perception checks.
+    | Uncommon Shield (Any) | — |
+    |---|---|
+
+    You have Advantage on Initiative and Perception checks.

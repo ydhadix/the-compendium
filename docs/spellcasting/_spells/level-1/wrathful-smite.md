@@ -1,17 +1,19 @@
-### *Wrathful Smite*
+??? spell "Wrathful Smite | 1st-Level Necromancy"
 
-| 1st-Level Necromancy | *paladin* |
-|---|---|
-| components | v |
-| cast time | bonus action, when you hit with a physical melee attack |
-| range | - |
-| target | the target of the attack |
-| duration | 1 minute |
+    #### Wrathful Smite
 
-you deal 1d6 necrotic damage and the target makes a will save.
+    | 1st-Level Necromancy | *paladin* |
+    |---|---|
+    | components | v |
+    | cast time | bonus action, when you hit with a physical melee attack |
+    | range | - |
+    | target | the target of the attack |
+    | duration | 1 minute |
 
-fail: the target becomes frightened. when the target's turn ends, it repeats the save.
+    You deal 1d6 necrotic damage and the target makes a will save.
 
-success: this spell ends on the target.
+    Fail: the target becomes frightened. when the target's turn ends, it repeats the save.
 
-**At Higher Levels:** add 1d6 necrotic damage per additional spell level.
+    Success: this spell ends on the target.
+
+    **At Higher Levels:** add 1d6 necrotic damage per additional spell level.

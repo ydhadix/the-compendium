@@ -1,6 +1,8 @@
-### *Arrow-Catching Shield*
+??? infusion "Arrow-Catching Shield | Shield (Any)"
 
-| Rare Shield (Any) | attunement |
-|---|---|
+    #### Arrow-Catching Shield
 
-*Not yet added.*
+    | Rare Shield (Any) | attunement |
+    |---|---|
+
+    *Not yet added.*

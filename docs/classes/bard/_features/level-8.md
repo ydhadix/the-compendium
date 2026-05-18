@@ -1,12 +1,13 @@
-### Master of One
-*Level 8 Bard*
+???+ class-feature "Master of One | Level 8 Bard"
 
-Your talents can inspire anyone — even yourself.
+    #### Master of One
 
-##### Expertise
+    Your talents can inspire anyone — even yourself.
 
-You gain expertise in one of your skill or trade proficiencies.
+    ###### Expertise
 
-##### Specialist
+    You gain expertise in one of your skill or trade proficiencies.
 
-**1 use of Bardic Inspiration**: When you fail a check using the chosen expertise, you can add an Inspiration Die to the check, potentially turning the failure into a success.
+    ###### Specialist
+
+    **1 use of Bardic Inspiration**: When you fail a check using the chosen expertise, you can add an Inspiration Die to the check, potentially turning the failure into a success.

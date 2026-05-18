@@ -1,31 +1,33 @@
-### *Bestow Curse*
+??? spell "Bestow Curse | 3rd-Level Necromancy"
 
-| 3rd-Level Necromancy | *bard, cleric, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | reach |
-| target | one creature |
-| duration | 1 minute (concentration) |
+    #### Bestow Curse
 
-choose one of the following effects. the target makes a will save.
+    | 3rd-Level Necromancy | *bard, cleric, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | reach |
+    | target | one creature |
+    | duration | 1 minute (concentration) |
 
-fail: the target is cursed with the chosen effect.
+    Choose one of the following effects. the target makes a will save.
 
-success: no effect.
+    Fail: the target is cursed with the chosen effect.
 
-sloth: choose an ability. the target has disadvantage on checks and saves using that ability.
+    Success: no effect.
 
-weakness: the target has disadvantage on attack rolls.
+    Sloth: choose an ability. the target has disadvantage on checks and saves using that ability.
 
-cowardice: when the target starts its turn, it makes a will save. on a failed save, it must use its action to dodge.
+    Weakness: the target has disadvantage on attack rolls.
 
-rot: when the target takes damage, you also deal 1d8 necrotic damage.
+    Cowardice: when the target starts its turn, it makes a will save. on a failed save, it must use its action to dodge.
 
-**At Higher Levels:** level 4: the duration becomes 10 minutes.
+    Rot: when the target takes damage, you also deal 1d8 necrotic damage.
 
-level 5-6: the duration becomes 8 hours and doesn't require concentration.
+    **At Higher Levels:** level 4: the duration becomes 10 minutes.
 
-level 7-8: the duration becomes 24 hours and doesn't require concentration.
+    Level 5-6: the duration becomes 8 hours and doesn't require concentration.
 
-level 9: the duration becomes until dispelled and doesn't require concentration.
+    Level 7-8: the duration becomes 24 hours and doesn't require concentration.
+
+    Level 9: the duration becomes until dispelled and doesn't require concentration.

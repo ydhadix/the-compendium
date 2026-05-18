@@ -1,6 +1,8 @@
-### *Candle of the Deep*
+??? infusion "Candle of the Deep | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Candle of the Deep
 
-The flame of this candle doesn’t go out when immersed in water.  It gives off light and heat like a normal candle.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    The flame of this candle doesn’t go out when immersed in water.  It gives off light and heat like a normal candle.

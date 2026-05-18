@@ -1,17 +1,19 @@
-### *Thunderclap*
+??? spell "Thunderclap | Evocation Cantrip"
 
-| Evocation Cantrip | *artificer, bard, druid, sorcerer, warlock, wizard* |
-|---|---|
-| components | s |
-| cast time | full action |
-| range | - |
-| target | everything in a 5-foot aura |
-| duration | - |
+    #### Thunderclap
 
-you emit a thunderous sound out to 100 feet. the target makes a fortitude save.
+    | Evocation Cantrip | *artificer, bard, druid, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | s |
+    | cast time | full action |
+    | range | - |
+    | target | everything in a 5-foot aura |
+    | duration | - |
 
-fail: you deal 1d6 thunder damage.
+    You emit a thunderous sound out to 100 feet. the target makes a fortitude save.
 
-success: no effect.
+    Fail: you deal 1d6 thunder damage.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Success: no effect.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

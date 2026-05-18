@@ -1,37 +1,39 @@
-### Fighting Style
-*Level 2 Ranger*
+???+ class-feature "Fighting Style | Level 2 Ranger"
 
-Your training has developed into a particular style of fighting.
+    #### Fighting Style
 
-You gain a Fighting Style feat of your choice.
+    Your training has developed into a particular style of fighting.
 
-##### Changing Fighting Styles
+    You gain a Fighting Style feat of your choice.
 
-**Level Up**: You can change your Fighting Style feat.
+    ###### Changing Fighting Styles
 
-### Spellcasting
-*Level 2 Ranger*
+    **Level Up**: You can change your Fighting Style feat.
 
-You adopt druidic magic to aid in exploration.
+???+ class-feature "Spellcasting | Level 2 Ranger"
 
-##### Spellcasting Ability
+    #### Spellcasting
 
-Your Minor Ability is your Spellcasting Ability.
+    You adopt druidic magic to aid in exploration.
 
-##### Spellcasting Focus
+    ###### Spellcasting Ability
 
-Ranger spells use a Druidic Focus as a spellcasting focus.
+    Your Minor Ability is your Spellcasting Ability.
 
-##### Spells Prepared
+    ###### Spellcasting Focus
 
-The Ranger table shows how many spells you prepare.
+    Ranger spells use a Druidic Focus as a spellcasting focus.
 
-##### Changing Spells
+    ###### Spells Prepared
 
-**Long Rest**: You can change one of your prepared spells.
+    The Ranger table shows how many spells you prepare.
 
-##### Spell Slots
+    ###### Changing Spells
 
-The Ranger table shows how many spell slots you have.
+    **Long Rest**: You can change one of your prepared spells.
 
-**Long Rest**: You regain all your spell slots.
+    ###### Spell Slots
+
+    The Ranger table shows how many spell slots you have.
+
+    **Long Rest**: You regain all your spell slots.

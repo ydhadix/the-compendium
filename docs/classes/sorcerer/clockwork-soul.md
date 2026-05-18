@@ -16,59 +16,64 @@
 
 --8<-- "classes/sorcerer/_features/level-2.md"
 
-### Clockwork Soul Spells
-*Level 3 Clockwork Soul Sorcerer*
+???+ subclass-feature "Clockwork Soul Spells | Level 3 Clockwork Soul"
 
-Your subclass grants you additional spells. You learn these spells at the corresponding Sorcerer levels.
+    #### Clockwork Soul Spells
 
-| Sorcerer Level | Spells |
-|---|---|
-| 3rd | alarm, protection from evil and good, aid, lesser restoration |
-| 5th | dispel magic, protection from energy |
-| 7th | freedom of movement, summon construct |
-| 9th | greater restoration, wall of force |
+    Your subclass grants you additional spells. You learn these spells at the corresponding Sorcerer levels.
 
-### Restore Balance
-*Level 3 Clockwork Soul Sorcerer*
+    | Sorcerer Level | Spells |
+    |---|---|
+    | 3rd | alarm, protection from evil and good, aid, lesser restoration |
+    | 5th | dispel magic, protection from energy |
+    | 7th | freedom of movement, summon construct |
+    | 9th | greater restoration, wall of force |
 
-**Reaction, Sorcerer Ability per Long Rest**: When a creature within 60 feet is about to roll dice with Advantage or Disadvantage, the roll has neither.
+???+ subclass-feature "Restore Balance | Level 3 Clockwork Soul"
 
-### Trance of Order
-*Level 3 Clockwork Soul Sorcerer*
+    #### Restore Balance
 
-**Bonus Action, Once per Long Rest**: You gain the following benefits for 1 minute:
+    **Reaction, Sorcerer Ability per Long Rest**: When a creature within 60 feet is about to roll dice with Advantage or Disadvantage, the roll has neither.
 
-- Attacks against you can't have Advantage.
-- When you roll a d20, you can treat a roll lower than your Sorcerer Ability as your Sorcerer Ability.
+???+ subclass-feature "Trance of Order | Level 3 Clockwork Soul"
 
-If you have no uses of this feature remaining, you can expend 3 Sorcery Points to use it again.
+    #### Trance of Order
 
---8<-- "classes/sorcerer/_features/level-4.md"
+    **Bonus Action, Once per Long Rest**: You gain the following benefits for 1 minute:
 
---8<-- "classes/sorcerer/_features/level-5.md"
+    - Attacks against you can't have Advantage.
+    - When you roll a d20, you can treat a roll lower than your Sorcerer Ability as your Sorcerer Ability.
 
-### Bastion of Law
-*Level 6 Clockwork Soul Sorcerer*
+    If you have no uses of this feature remaining, you can expend 3 Sorcery Points to use it again.
 
-**Magic Action**: Choose a creature within 30 feet and expend up to 5 Sorcery Points. For each Sorcery Point expended, the creature gains a Bastion Die (a d8).
+    --8<-- "classes/sorcerer/_features/level-4.md"
 
-When a creature with a Bastion Die takes damage, they can expend any number of Bastion Dice, roll them, and reduce the damage by the total rolled.
+    --8<-- "classes/sorcerer/_features/level-5.md"
 
---8<-- "classes/sorcerer/_features/level-7.md"
+???+ subclass-feature "Bastion of Law | Level 6 Clockwork Soul"
 
---8<-- "classes/sorcerer/_features/level-8.md"
+    #### Bastion of Law
 
-### Clockwork Cavalcade
-*Level 9 Clockwork Soul Sorcerer*
+    **Magic Action**: Choose a creature within 30 feet and expend up to 5 Sorcery Points. For each Sorcery Point expended, the creature gains a Bastion Die (a d8).
 
-**Magic Action, Once per Long Rest**: Choose a 30-foot cube originating from you. The following effects occur within the cube:
+    When a creature with a Bastion Die takes damage, they can expend any number of Bastion Dice, roll them, and reduce the damage by the total rolled.
 
-- You can heal up to 100 Hit Points, divided between any number of creatures.
-- Damaged objects are instantly repaired.
-- Choose any number of creatures or objects. Every spell of level 6 or lower ends on the chosen creatures and objects.
+    --8<-- "classes/sorcerer/_features/level-7.md"
 
-If you have no uses of this feature remaining, you can expend 7 Sorcery Points to use it again.
+    --8<-- "classes/sorcerer/_features/level-8.md"
 
---8<-- "classes/sorcerer/_features/level-10.md"
+???+ subclass-feature "Clockwork Cavalcade | Level 9 Clockwork Soul"
 
---8<-- "classes/sorcerer/_features/level-11.md"
+    #### Clockwork Cavalcade
+
+    **Magic Action, Once per Long Rest**: Choose a 30-foot cube originating from you. The following effects occur within the cube:
+
+    - You can heal up to 100 Hit Points, divided between any number of creatures.
+    - Damaged objects are instantly repaired.
+    - Choose any number of creatures or objects. Every spell of level 6 or lower ends on the chosen creatures and objects.
+
+    If you have no uses of this feature remaining, you can expend 7 Sorcery Points to use it again.
+
+    --8<-- "classes/sorcerer/_features/level-10.md"
+
+    --8<-- "classes/sorcerer/_features/level-11.md"

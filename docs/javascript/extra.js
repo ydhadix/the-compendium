@@ -93,3 +93,37 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".card").forEach(wrapSubcards);
 
 });
+
+// --- Anchor navigation for admonitions ------------------------------------
+// h4 anchors are invisible (height: 0) and sit inside <details> elements.
+// scroll-margin-top is unreliable on zero-height elements, and the browser
+// fires the scroll before <details> has reflowed when it was closed.
+// Instead: intercept hash navigation, open the parent <details> explicitly,
+// wait one frame for layout, then scroll to the <details> box itself.
+(function () {
+    function scrollToAnchor() {
+        var hash = window.location.hash;
+        if (!hash) return;
+        var target;
+        try { target = document.querySelector(hash); } catch (e) { return; }
+        if (!target) return;
+
+        var details = target.closest("details");
+        if (!details) return;
+
+        details.open = true;
+
+        requestAnimationFrame(function () {
+            var headerEl = document.querySelector(".md-header");
+            var tabsEl   = document.querySelector(".md-tabs");
+            var offset   = (headerEl ? headerEl.offsetHeight : 0)
+                         + (tabsEl   ? tabsEl.offsetHeight   : 0)
+                         + 8;
+            var top = details.getBoundingClientRect().top + window.scrollY - offset;
+            window.scrollTo({ top: top, behavior: "instant" });
+        });
+    }
+
+    window.addEventListener("hashchange", scrollToAnchor);
+    window.addEventListener("load", scrollToAnchor);
+}());

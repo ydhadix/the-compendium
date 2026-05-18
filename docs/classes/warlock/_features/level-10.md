@@ -1,9 +1,10 @@
-### Eldritch Master
-*Level 10 Warlock*
+???+ class-feature "Eldritch Master | Level 10 Warlock"
 
-When you use your Mystic Recovery, you regain all your expended Pact Magic Spell Slots.
+    #### Eldritch Master
 
-The following Invocations are added to your [Eldritch Invocation](invocations.md#level-10-invocations) options:
+    When you use your Mystic Recovery, you regain all your expended Pact Magic Spell Slots.
 
-- Visions of Distant Realms
-- Witch Sight
+    The following Invocations are added to your [Eldritch Invocation](invocations.md#level-10-invocations) options:
+
+    - Visions of Distant Realms
+    - Witch Sight

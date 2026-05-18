@@ -1,6 +1,7 @@
-### Evasion
-*Level 7 Monk*
+???+ class-feature "Evasion | Level 7 Monk"
 
-Your precise movements allow danger to pass by harmlessly.
+    #### Evasion
 
-Whenever you make a Reflex save to avoid taking damage, you take half damage if you fail and no damage if you succeed.
+    Your precise movements allow danger to pass by harmlessly.
+
+    Whenever you make a Reflex save to avoid taking damage, you take half damage if you fail and no damage if you succeed.

@@ -16,102 +16,108 @@
 
 --8<-- "classes/artificer/_features/level-2.md"
 
-### Cartographer Spells
-*Level 3 Cartographer Artificer*
+???+ subclass-feature "Cartographer Spells | Level 3 Cartographer"
 
-Your specialization grants you additional spells. You learn these spells at the corresponding Artificer levels.
+    #### Cartographer Spells
 
-| Artificer Level | Spells |
-|---|---|
-| 3rd | entangle, healing word |
-| 5th | locate object, pass without trace |
-| 9th | plant growth, locate creature |
+    Your specialization grants you additional spells. You learn these spells at the corresponding Artificer levels.
 
-### Tools of the Trade
-*Level 3 Cartographer Artificer*
+    | Artificer Level | Spells |
+    |---|---|
+    | 3rd | entangle, healing word |
+    | 5th | locate object, pass without trace |
+    | 9th | plant growth, locate creature |
 
-Your experience with specialized tools has paid off.
+???+ subclass-feature "Tools of the Trade | Level 3 Cartographer"
 
-##### Specialized Training
+    #### Tools of the Trade
 
-You gain proficiency and expertise with Calligrapher's Supplies, Cartographer's Tools, and the Survival skill.
+    Your experience with specialized tools has paid off.
 
-##### Fast Crafting
+    ###### Specialized Training
 
-The time it takes for you to craft Spell Scrolls is halved.
+    You gain proficiency and expertise with Calligrapher's Supplies, Cartographer's Tools, and the Survival skill.
 
-### Surveyor's Assistant
-*Level 3 Cartographer Artificer*
+    ###### Fast Crafting
 
-You augment your assistant to scout farther, faster, and better.
+    The time it takes for you to craft Spell Scrolls is halved.
 
-##### Surveyor Upgrade
+???+ subclass-feature "Surveyor's Assistant | Level 3 Cartographer"
 
-Your assistant's Hover speed is equal to your Speed (minimum 30 feet), and your assistant gains 240 feet of Darkvision and Proficiency with Nature, Perception, and Survival.
+    #### Surveyor's Assistant
 
-##### Improved Communication
+    You augment your assistant to scout farther, faster, and better.
 
-The range of your telepathy and sense sharing with your assistant extends to 3 miles while on the same plane. Additionally, you are not Blinded or Deafened while perceiving through your assistant.
+    ###### Surveyor Upgrade
 
-##### Improved Spell Delivery
+    Your assistant's Hover speed is equal to your Speed (minimum 30 feet), and your assistant gains 240 feet of Darkvision and Proficiency with Nature, Perception, and Survival.
 
-Your assistant can deliver any spell, not just Reach spells. (A spell that targets Self targets the assistant instead of you.)
+    ###### Improved Communication
 
-### Adventurer's Atlas
-*Level 3 Cartographer Artificer*
+    The range of your telepathy and sense sharing with your assistant extends to 3 miles while on the same plane. Additionally, you are not Blinded or Deafened while perceiving through your assistant.
 
-You compile your journeys into an atlas that connects you and your allies.
+    ###### Improved Spell Delivery
 
-**Long Rest**: You can create an Adventurer's Atlas. The atlas disappears if you create another Adventurer's Atlas.
+    Your assistant can deliver any spell, not just Reach spells. (A spell that targets Self targets the assistant instead of you.)
 
-Your name is written in the atlas, which can contain your Artificer Ability (minimum 1) additional names. A creature can only write their own name in the atlas, and you can erase any other name in the atlas by touching it. (You can remove your name from the atlas, though that doesn't allow you to add another creature in your place.)
+???+ subclass-feature "Adventurer's Atlas | Level 3 Cartographer"
 
-##### Secret Shortcuts
+    #### Adventurer's Atlas
 
-You can spend 15 feet of movement to teleport up to 10 feet.
+    You compile your journeys into an atlas that connects you and your allies.
 
-##### Global Positioning
+    **Long Rest**: You can create an Adventurer's Atlas. The atlas disappears if you create another Adventurer's Atlas.
 
-Creatures in the atlas always know the general location and direction to other creatures in the atlas, and do not need to see to target each other with spells and magical effects.
+    Your name is written in the atlas, which can contain your Artificer Ability (minimum 1) additional names. A creature can only write their own name in the atlas, and you can erase any other name in the atlas by touching it. (You can remove your name from the atlas, though that doesn't allow you to add another creature in your place.)
 
-##### Terrain Advantage
+    ###### Secret Shortcuts
 
-Creatures in the atlas add 1d4 to Initiative checks.
+    You can spend 15 feet of movement to teleport up to 10 feet.
 
---8<-- "classes/artificer/_features/level-4.md"
+    ###### Global Positioning
 
---8<-- "classes/artificer/_features/level-5.md"
+    Creatures in the atlas always know the general location and direction to other creatures in the atlas, and do not need to see to target each other with spells and magical effects.
 
-### Ingenious Movement
-*Level 6 Cartographer Artificer*
+    ###### Terrain Advantage
 
-Your quick thinking helps you and your allies reposition.
+    Creatures in the atlas add 1d4 to Initiative checks.
 
-Your Speed increases by 10 feet.
+    --8<-- "classes/artificer/_features/level-4.md"
 
-Before or after you use your Improvise, one creature in your Adventurer's Atlas can teleport up to 30 feet.
+    --8<-- "classes/artificer/_features/level-5.md"
 
---8<-- "classes/artificer/_features/level-7.md"
+???+ subclass-feature "Ingenious Movement | Level 6 Cartographer"
 
---8<-- "classes/artificer/_features/level-8.md"
+    #### Ingenious Movement
 
-### Superior Surveyor
-*Level 9 Cartographer Artificer*
+    Your quick thinking helps you and your allies reposition.
 
-Your navigation expertise safeguards you and your allies.
+    Your Speed increases by 10 feet.
 
-##### Safe Haven
+    Before or after you use your Improvise, one creature in your Adventurer's Atlas can teleport up to 30 feet.
 
-Before a creature in your Adventurer's Atlas would drop to 0 Hit Points or be killed, you can remove their name from the atlas to make them have 2 × your Level HP instead, then teleport them to within 5 feet of another creature in the atlas.
+    --8<-- "classes/artificer/_features/level-7.md"
 
-A creature whose name is removed from the atlas this way can't write their name in the atlas again until you finish a Long Rest.
+    --8<-- "classes/artificer/_features/level-8.md"
 
-##### Perfect Pathfinding
+???+ subclass-feature "Superior Surveyor | Level 9 Cartographer"
 
-You learn Find the Path.
+    #### Superior Surveyor
 
-**Spellcasting, Once per Long Rest**: You can cast Find the Path without a spell slot or components.
+    Your navigation expertise safeguards you and your allies.
 
---8<-- "classes/artificer/_features/level-10.md"
+    ###### Safe Haven
 
---8<-- "classes/artificer/_features/level-11.md"
+    Before a creature in your Adventurer's Atlas would drop to 0 Hit Points or be killed, you can remove their name from the atlas to make them have 2 × your Level HP instead, then teleport them to within 5 feet of another creature in the atlas.
+
+    A creature whose name is removed from the atlas this way can't write their name in the atlas again until you finish a Long Rest.
+
+    ###### Perfect Pathfinding
+
+    You learn Find the Path.
+
+    **Spellcasting, Once per Long Rest**: You can cast Find the Path without a spell slot or components.
+
+    --8<-- "classes/artificer/_features/level-10.md"
+
+    --8<-- "classes/artificer/_features/level-11.md"

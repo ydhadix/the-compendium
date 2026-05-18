@@ -1,7 +1,9 @@
-### *Weapon of Repeating*
+??? infusion "Weapon of Repeating | Weapon (Loading)"
 
-| Uncommon Weapon (Loading) | — |
-|---|---|
+    #### Weapon of Repeating
 
-This weapon ignores its Loading property.
-When you make a ranged attack with this weapon, it can produce its own ammunition.  The created ammunition vanishes immediately after the attack hits or misses.
+    | Uncommon Weapon (Loading) | — |
+    |---|---|
+
+    This weapon ignores its Loading property.
+    When you make a ranged attack with this weapon, it can produce its own ammunition.  The created ammunition vanishes immediately after the attack hits or misses.

@@ -1,19 +1,21 @@
-### *Thunderous Smite*
+??? spell "Thunderous Smite | 1st-Level Evocation"
 
-| 1st-Level Evocation | *paladin* |
-|---|---|
-| components | v |
-| cast time | bonus action, when you hit with a physical melee attack |
-| range | - |
-| target | the target of the attack |
-| duration | - |
+    #### Thunderous Smite
 
-this spell emits a thunderous sound out to 300 feet.
+    | 1st-Level Evocation | *paladin* |
+    |---|---|
+    | components | v |
+    | cast time | bonus action, when you hit with a physical melee attack |
+    | range | - |
+    | target | the target of the attack |
+    | duration | - |
 
-you deal 2d6 thunder damage and the target makes a fortitude save.
+    This spell emits a thunderous sound out to 300 feet.
 
-fail: the target is pushed 10 feet away from you and becomes prone.
+    You deal 2d6 thunder damage and the target makes a fortitude save.
 
-success: no effect.
+    Fail: the target is pushed 10 feet away from you and becomes prone.
 
-**At Higher Levels:** add 1d6 thunder damage per additional spell level.
+    Success: no effect.
+
+    **At Higher Levels:** add 1d6 thunder damage per additional spell level.

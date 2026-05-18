@@ -1,6 +1,8 @@
-### *Clockwork Amulet*
+??? infusion "Clockwork Amulet | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Clockwork Amulet
 
-Once per Dawn: Before you attack, you can forgo rolling to get a 10 on the d20.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    Once per Dawn: Before you attack, you can forgo rolling to get a 10 on the d20.

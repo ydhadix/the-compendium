@@ -1,21 +1,23 @@
-### *Pyrotechnics*
+??? spell "Pyrotechnics | 2nd-Level Transmutation"
 
-| 2nd-Level Transmutation | *artificer, bard, sorcerer, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 60 feet |
-| target | everything in a 20-foot radius sphere |
-| duration | 1 minute (concentration) |
+    #### Pyrotechnics
 
-you create a burst of flames, then immediately extinguish any fire in the area. choose one of the following effects.
+    | 2nd-Level Transmutation | *artificer, bard, sorcerer, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 60 feet |
+    | target | everything in a 20-foot radius sphere |
+    | duration | 1 minute (concentration) |
 
-fireworks: the target makes a fortitude save.
+    You create a burst of flames, then immediately extinguish any fire in the area. choose one of the following effects.
 
-fail: you deal 2d6 fire damage and the target is blinded.
+    Fireworks: the target makes a fortitude save.
 
-success: you deal half as much damage.
+    Fail: you deal 2d6 fire damage and the target is blinded.
 
-smoke: the area is filled with smoke and heavily obscured. this spell ends if the smoke is dispersed.
+    Success: you deal half as much damage.
 
-**At Higher Levels:** add 1d6 fire damage and 10 feet to the radius per additional spell level.
+    Smoke: the area is filled with smoke and heavily obscured. this spell ends if the smoke is dispersed.
+
+    **At Higher Levels:** add 1d6 fire damage and 10 feet to the radius per additional spell level.

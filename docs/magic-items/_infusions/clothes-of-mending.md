@@ -1,6 +1,8 @@
-### *Clothes of Mending*
+??? infusion "Clothes of Mending | Clothing (Clothes)"
 
-| Common Clothing (Clothes) | — |
-|---|---|
+    #### Clothes of Mending
 
-This set of Traveler’s Clothes mends itself to counteract daily wear and tear.
+    | Common Clothing (Clothes) | — |
+    |---|---|
+
+    This set of Traveler’s Clothes mends itself to counteract daily wear and tear.

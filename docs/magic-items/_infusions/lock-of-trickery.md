@@ -1,6 +1,8 @@
-### *Lock of Trickery*
+??? infusion "Lock of Trickery | Wondrous Item"
 
-| Common Wondrous Item | — |
-|---|---|
+    #### Lock of Trickery
 
-Dexterity checks made to pick this lock have Disadvantage.
+    | Common Wondrous Item | — |
+    |---|---|
+
+    Dexterity checks made to pick this lock have Disadvantage.

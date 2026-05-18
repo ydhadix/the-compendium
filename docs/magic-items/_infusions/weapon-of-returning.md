@@ -1,6 +1,8 @@
-### *Weapon of Returning*
+??? infusion "Weapon of Returning | Weapon (Thrown)"
 
-| Uncommon Weapon (Thrown) | — |
-|---|---|
+    #### Weapon of Returning
 
-After you make a ranged attack with this weapon, it returns to your hand immediately after the attack hits or misses.
+    | Uncommon Weapon (Thrown) | — |
+    |---|---|
+
+    After you make a ranged attack with this weapon, it returns to your hand immediately after the attack hits or misses.

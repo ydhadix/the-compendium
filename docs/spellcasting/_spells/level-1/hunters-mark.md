@@ -1,19 +1,21 @@
-### *Hunter's Mark*
+??? spell "Hunter's Mark | 1st-Level Divination"
 
-| 1st-Level Divination | *ranger* |
-|---|---|
-| components | v |
-| cast time | bonus action |
-| range | 90 feet |
-| target | one creature |
-| duration | 1 hour (concentration) |
+    #### Hunter's Mark
 
-you have advantage on perception and survival checks to find the target.
+    | 1st-Level Divination | *ranger* |
+    |---|---|
+    | components | v |
+    | cast time | bonus action |
+    | range | 90 feet |
+    | target | one creature |
+    | duration | 1 hour (concentration) |
 
-when you hit the target with an attack, you deal an additional 1d6 force damage.
+    You have advantage on perception and survival checks to find the target.
 
-bonus action: if the target has 0 hit points, choose a new target and move the mark to it.
+    When you hit the target with an attack, you deal an additional 1d6 force damage.
 
-**At Higher Levels:** level 2-3: the duration is 8 hours (concentration).
+    Bonus action: if the target has 0 hit points, choose a new target and move the mark to it.
 
-level 4+: the duration is 24 hours (concentration).
+    **At Higher Levels:** level 2-3: the duration is 8 hours (concentration).
+
+    Level 4+: the duration is 24 hours (concentration).

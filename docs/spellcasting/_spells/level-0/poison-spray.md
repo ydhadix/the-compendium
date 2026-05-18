@@ -1,15 +1,17 @@
-### *Poison Spray*
+??? spell "Poison Spray | Necromancy Cantrip"
 
-| Necromancy Cantrip | *artificer, druid, sorcerer, warlock, wizard* |
-|---|---|
-| components | v, s |
-| cast time | full action |
-| range | 30 feet |
-| target | one thing |
-| duration | - |
+    #### Poison Spray
 
-you make a ranged attack against the target.
+    | Necromancy Cantrip | *artificer, druid, sorcerer, warlock, wizard* |
+    |---|---|
+    | components | v, s |
+    | cast time | full action |
+    | range | 30 feet |
+    | target | one thing |
+    | duration | - |
 
-hit: you deal 1d12 poison damage.
+    You make a ranged attack against the target.
 
-**At Higher Levels:** add one damage die at levels 5, 11, and 17.
+    Hit: you deal 1d12 poison damage.
+
+    **At Higher Levels:** add one damage die at levels 5, 11, and 17.

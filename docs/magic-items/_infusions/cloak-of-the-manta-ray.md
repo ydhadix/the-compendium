@@ -1,6 +1,8 @@
-### *Cloak of the Manta Ray*
+??? infusion "Cloak of the Manta Ray | Clothing (Cloak)"
 
-| Uncommon Clothing (Cloak) | — |
-|---|---|
+    #### Cloak of the Manta Ray
 
-You have a Swim Speed of 60 feet and can breathe underwater.
+    | Uncommon Clothing (Cloak) | — |
+    |---|---|
+
+    You have a Swim Speed of 60 feet and can breathe underwater.
