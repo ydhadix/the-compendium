@@ -1,42 +1,53 @@
 # Fighting Style Feats
 
+Fighting styles are specialized martial techniques that set you apart from other trained warriors.
+
 ## Basic Fighting Styles
 
 ??? feats "Blessed Warrior | Paladin"
 
     #### Blessed Warrior
 
-    You learn two Cleric cantrips of your choice as extra Paladin spells. You can change one of these cantrips when you gain a level.
+    You learn two cleric cantrips of your choice as paladin spells.  Whenever you gain a level, you can change one of these spells.
 
 ??? feats "Blind Fighting | —"
 
     #### Blind Fighting
 
-    You have 10 feet of Blindsight.
+    You have 10 feet of blindsight.
 
 ??? feats "Brawling | —"
 
     #### Brawling
 
-    Your Unarmed Strikes deal 1d6 Bludgeoning damage and have Versatile (1d8).
+    Your unarmed strikes deal 1d6 bludgeoning damage and have versatile (1d8).
 
-    After you succeed on a Grapple against a creature you're already grappling, the target is also Restrained while it is grappled by you.
+    ###### Pin
+    After you succeed on a grapple against a creature you're already grappling, the target is also restrained while it is grappled by you.
 
 ??? feats "Breaking | —"
 
     #### Breaking
 
-    When you attack with an Improvised Weapon, you add +1 to damage rolls with that weapon.
+    Your improvised weapons add +1 to damage rolls.
 
-    Once per Turn: Before you deal damage with an Improvised Weapon, you can maximize the damage dice. If the weapon is nonmagical, it breaks after the attack.
+    ###### Disposable
+
+    *Once per Turn*
+    
+    Before you deal damage with an improvised weapon, you can maximize the damage dice.  After dealing this damage, the weapon breaks if it isn't magical.
 
 ??? feats "Charger | —"
 
     #### Charger
 
-    Before you Dash, you add 10 feet to your Speed until the end of the turn.
+    Before you dash, you add 10 feet to your speed until the end of the turn.
 
-    Once per Turn: When you hit with a Melee Attack after moving at least 10 feet in a straight line towards the target, you can use one of these effects:
+    ###### Charge
+
+    *Once per Turn*
+    
+    Before you hit with a melee attack after moving at least 10 feet in a straight line towards the target, you can use one of these effects:
 
     - You add 1d8 to the attack's damage.
     - After the attack, if the target is no more than one size larger than you, you move it up to 10 feet straight away from you.
@@ -45,235 +56,295 @@
 
     #### Defensive
 
-    While you are wearing armor, you add +1 to your AC and Damage Reduction.
+    While wearing armor, you add +1 to armor class and damage reduction.
 
 ??? feats "Druidic Warrior | Ranger"
 
     #### Druidic Warrior
 
-    You learn two Druid cantrips of your choice as extra Ranger spells. You can change one of these cantrips when you gain a level.
+    You learn two druid cantrips of your choice as ranger spells. Whenever you gain a level, you can change one of these cantrips.
 
 ??? feats "Dueling | —"
 
     #### Dueling
 
-    When you Melee Attack while holding the weapon in one hand and no other weapons, you add +2 damage with that weapon.
+    While you are only holding one weapon, your melee attacks with one-handed weapons add +2 to damage rolls.
 
 ??? feats "Great Weapon Fighting | —"
 
     #### Great Weapon Fighting
 
-    When you Melee Attack while holding the weapon in two hands, your minimum damage roll is half the die's maximum roll (d4 = 2, d6 = 3, d8 = 4, d10 = 5, d12 = 6).
+    Your melee damage with two-handed weapons has a minimum dice roll equal to half the die's maximum *(d4 = 2, d6 = 3, d8 = 4, d10 = 5, d12 = 6)*.
 
 ??? feats "Mounted | —"
 
     #### Mounted
 
-    While you are mounted, you add +1 to you and your mount's AC.
+    While mounted, you add +1 to you and your mount's armor class.
 
-    Bonus Action: You can command your mount to take any action available to it. (When commanded this way, it isn't restricted to the Dash, Disengage, or Dodge actions.)
+    ###### Command
+
+    *Bonus Action*
+
+    You can command your mount to take any action available to it *(when commanded this way, your mount isn't restricted to the dash, disengage, or dodge actions)*.
 
 ??? feats "Opportunist | —"
 
     #### Opportunist
 
-    Reaction (Opportunity Attack): Before a creature moves out of your reach, you can make a melee attack against the creature.
+    *Reaction (Opportunity Attack)*
+    
+    Before a creature moves out of your reach, you can make a melee attack against the creature.
 
 ??? feats "Protection | —"
 
     #### Protection
 
-    Reaction: Before you or another creature within reach is attacked, you can use a weapon or shield to give disadvantage to attacks against the target until the start of your next turn. This effect ends if the target leaves your reach.
+    *Reaction*
+    
+    Before a creature within reach is attacked, you can use a weapon or shield to impose disadvantage to attacks against the attacked creature until the start of your next turn. This effect ends if the target leaves your reach.
 
 ??? feats "Savage | —"
 
     #### Savage
 
-    Once per Turn: Before you deal damage with a weapon, you can roll the damage dice twice and use either result.
+    *Once per Turn*
+    
+    Your damage rolls with weapons have advantage.
 
 ??? feats "Sharpshooting | —"
 
     #### Sharpshooting
 
-    When you attack with a Ranged Weapon, you add +2 to attack rolls with that weapon.
+    Your ranged weapons add +2 to attack rolls.
 
 ??? feats "Shield Defense | —"
 
     #### Shield Defense
 
-    While you have a shield donned, you can add your shield's AC bonus to your Reflex saves (Masterwork is included in this bonus).
+    While you have a shield donned, you can add your shield's armor class bonus to your reflex saves *(masterwork is included in this bonus)*.
 
-    Reaction: Before another creature within reach is hit with an attack or fails a Reflex save, you can add your shield's AC bonus to the target's AC or Reflex save until the end of the turn.
+    ###### Cover
+
+    *Reaction*
+    
+    Before another creature within reach is hit with an attack or fails a reflex save, you can add your shield's armor class bonus to the target's armor class or reflex saves until the end of the turn.
 
 ??? feats "Shield Fighting | —"
 
     #### Shield Fighting
 
-    You can attack with a medium shield as though it is a Hammer. (It is still a shield and is only a weapon while attacking with it.)
+    You can wield a medium shield as a hammer (it is still a shield and only a weapon while attacking).
 
-    Once per Turn: After you attack with a Melee Weapon, you can use a shield to Shove or Push the target of the attack.
+    ###### Shield Bash
+
+    *Once per Turn*
+    
+    After you attack with a melee weapon, you can use a shield to shove or push the target of the attack.
 
 ??? feats "Striking | —"
 
     #### Striking
 
-    Your Unarmed Strikes deal 1d6 Bludgeoning damage and have Finesse.
+    Your unarmed strikes deal 1d6 bludgeoning damage and have finesse.
 
-    You can use your Dexterity to make Grapple, Shove, and Push checks.
+    You can use your dexterity to make grapple, shove, and push checks.
 
 ??? feats "Throwing | —"
 
     #### Throwing
 
-    Your range with Thrown weapons is doubled.
+    Your non-light, non-heavy thrown weapons add +2 to damage rolls.
 
-    After you make a Ranged Attack with a Light Thrown weapon, it returns to your free hand.
+    Your thrown weapons double their range.
 
-    When you attack with a non-Light, non-Heavy Thrown weapon, you add +2 damage with that weapon.
+    ###### Returning
+
+    After you make a ranged attack with a light thrown weapon, it returns to your free hand.
 
 ??? feats "Two-Weapon Fighting | —"
 
     #### Two-Weapon Fighting
 
-    When you attack with a weapon's Light property, you can add the attack's ability to the damage.
+    Your attacks using a weapon's light property add the attack's ability to damage rolls.
 
 ??? feats "Weapon Mastery | —"
 
     #### Weapon Mastery
 
-    You gain proficiency with one Mastery Property.
+    You gain proficiency with one mastery property.
 
     ###### Repeatable
-    You can take this feat more than once, but you must choose a different Mastery Property each time.
+    You can take this feat more than once, but you must choose a different mastery property each time.
 
 ??? feats "Weapon Training | —"
 
     #### Weapon Training
 
-    You gain proficiency with one type of Martial Weapon.
+    You gain proficiency with one type of martial weapon.
 
     ###### Repeatable
-    You can take this feat more than once, but you must choose a different Martial Weapon each time.
+    You can take this feat more than once, but you must choose a different martial weapon each time.
 
-    ## Advanced Fighting Styles
+## Advanced Fighting Styles
 
-    Advanced Fighting Style feats require another Fighting Style feat as a prerequisite.
+Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basic-fighting-styles) as a prerequisite.
 
-??? feats "Balanced | Dueling"
+??? feats "Balanced | [Dueling](fighting-style.md#dueling)"
 
     #### Balanced
 
-    When you attack with a Versatile weapon in one hand and have a shield donned, you can use its versatile damage with one hand.
+    While you have a shield donned, your versatile weapons can use their versatile damage with one hand.
 
-    Bonus Action: You can use a versatile weapon or shield to Shove a creature.
+    ###### Bash
 
-??? feats "Bow Expert | Sharpshooting, Bow proficiency"
+    *Bonus Action*
+    
+    You can use a versatile weapon or shield to shove a creature.
+
+??? feats "Bow Expert | [Sharpshooting](fighting-style.md#sharpshooting), Bow proficiency"
 
     #### Bow Expert
 
-    When you attack with a Bow, you ignore Long Range penalties.
+    Your bows ignore long range penalties.
 
-    Before you attack with a Bow, you can make an additional attack against a second target within 10 feet of the first. If you do, both attacks have Disadvantage.
+    ###### Speed Shooting
 
-??? feats "Crossbow Expert | Sharpshooting"
+    Before you attack with a bow, you can make an additional attack against a second target within 10 feet of the first. If you do, both attacks have disadvantage.
+
+??? feats "Crossbow Expert | [Sharpshooting](fighting-style.md#sharpshooting)"
 
     #### Crossbow Expert
 
-    When you attack with a Crossbow, you ignore the Loading property and Enemy Reach penalties.
+    Your crossbows ignore the loading property and enemy reach penalties.
 
-    Your physical damage with Crossbows ignores Resistance and Damage Reduction.
+    ###### Penetrating Shots
 
-??? feats "Distance Shooting | Sharpshooting"
+    Your crossbows ignore physical resistance and damage reduction.
+
+??? feats "Distance Shooting | [Sharpshooting](fighting-style.md#sharpshooting)"
 
     #### Distance Shooting
 
-    When you attack with a Ranged Weapon, you ignore Long Range penalties, you ignore Half Cover, and you treat Three-Quarters Cover as Half Cover.
+    Your ranged weapons ignore long range penalties and half-cover, and treat three-quarters cover as half cover.
 
-??? feats "Dual Wielding | Two-Weapon Fighting"
+??? feats "Dual Wielding | [Two-Weapon Fighting](fighting-style.md#two-weapon-fighting)"
 
     #### Dual Wielding
 
-    While you're holding two weapons, you add +1 to your AC.
+    While holding two weapons, you add +1 to armor class.
 
-    You can attack with a weapon held in one hand as though it is Light and has Nick.
+    ###### Balance
 
-??? feats "Fencing | Dueling"
+    Your one-handed weapons have the light and nick properties.
+
+??? feats "Fencing | [Dueling](fighting-style.md#dueling)"
 
     #### Fencing
 
-    While you're holding a finesse weapon in one hand and no other weapons, you add +1 to your AC.
+    While holding a finesse weapon and no other weapons, you add +1 to armor class.
 
-    Reaction: Before you are hit with an attack, you can use a finesse weapon to add your Dexterity to your AC, potentially causing that attack to miss. If that attack misses, you can attack the attacker using that weapon.
+    ###### Riposte
 
-??? feats "Firearm Expert | Sharpshooting, Firearm proficiency"
+    *Reaction*
+    
+    Before you are hit with an attack, you can use a finesse weapon to add your dexterity to your armor class, potentially causing that attack to miss. If that attack misses, you can attack the attacker using that weapon.
+
+??? feats "Firearm Expert | [Sharpshooting](fighting-style.md#sharpshooting), Firearm proficiency"
 
     #### Firearm Expert
 
-    When you attack with a Firearm, you ignore the Loading property, and your minimum damage roll is half the die's maximum roll (d4 = 2, d6 = 3, d8 = 4, d10 = 5, d12 = 6).
+    Your firearms ignore the loading property.
 
-    Reaction: After Initiative, you can attack with a Firearm.
+    Your ranged damage with firearms has a minimum dice roll equal to half the die's maximum *(d4 = 2, d6 = 3, d8 = 4, d10 = 5, d12 = 6)*.
 
-??? feats "Grappling | Brawling or Striking"
+    ###### Quick Draw
+
+    *Reaction*
+
+    After rolling initiative, you can attack using a firearm.
+
+??? feats "Grappling | [Brawling](fighting-style.md#brawling) or [Striking](fighting-style.md#striking)"
 
     #### Grappling
 
-    When you attack a creature you're grappling, you have Advantage on the attack roll.
+    Your attacks against targets you're grappling have advantage on attack rolls.
 
-    When you move a creature you're grappling, you ignore the Movable penalty.
+    While grappling a creature no more than one size larger than you, you ignore the moving penalty.
 
-    Once per Turn: After you attack with an Unarmed Strike, you can Grapple the target of the attack.
+    ###### Takedown
 
-??? feats "Great Weapon Expert | Great Weapon Fighting"
+    *Once per Turn*
+    
+    After you attack using an unarmed strike, you can grapple the target of the attack.
+
+??? feats "Great Weapon Expert | [Great Weapon Fighting](fighting-style.md#great-weapon-fighting)"
 
     #### Great Weapon Expert
 
-    When you attack with a Heavy, Melee Weapon, you add your Proficiency Bonus to the damage.
+    Your heavy melee weapons add your proficiency bonus to damage rolls.
 
-    Once per Turn: After you attack with a Heavy, Melee Weapon and score a Critical Hit or reduce a creature to 0 HP, you can make an additional attack using that weapon.
+    ###### Follow Through
 
-??? feats "Marking | Opportunist"
+    *Once per Turn*
+    
+    After you attack with a heavy melee weapon and score a critical hit or reduce the target to 0 hit points, you can make an additional attack using that weapon.
+
+??? feats "Marking | [Opportunist](fighting-style.md#opportunist)"
 
     #### Marking
 
-    After you hit a creature with a melee attack, the target becomes Marked by you until the end of your next turn.
+    After you hit a creature with a melee attack, the target becomes marked by you until the end of your next turn.
 
-    You have advantage on Opportunity Attacks against targets Marked by you.
+    You have advantage on opportunity attacks against targets marked by you.
 
-    You can make Opportunity Attacks against targets Marked by you without using a Reaction. You can't make more than one Opportunity Attack per turn.
+    You can make opportunity attacks against targets marked by you without using a reaction. You can't make more than one opportunity attack per turn.
 
-??? feats "Melee Shooting | Sharpshooting"
+??? feats "Melee Shooting | [Sharpshooting](fighting-style.md#sharpshooting)"
 
     #### Melee Shooting
 
-    When you attack with a Ranged Weapon, you ignore Enemy Reach penalties.
+    Your ranged weapons ignore enemy reach penalties and add +2 to damage rolls against targets within your reach.
 
-    When you attack a target within your reach with a Ranged Weapon, you add +2 to damage with that weapon.
-
-??? feats "Mounted Expert | Mounted"
+??? feats "Mounted Expert | [Mounted](fighting-style.md#mounted)"
 
     #### Mounted Expert
 
-    When you make a Melee Attack while mounted, you have Advantage if the target of the attack is smaller than your mount and not mounted.
+    While mounted, your melee attacks have advantage if the target is smaller than your mount and not mounted.
 
-    Reaction: Before your mount takes damage, you can take that damage instead.
+    ###### Rollback
 
-??? feats "Polearm Expert | Dueling or Great Weapon Fighting"
+    *Reaction*
+    
+    Before your mount takes damage, you can take that damage instead.
+
+??? feats "Polearm Expert | [Dueling](fighting-style.md#dueling) or [Great Weapon Fighting](fighting-style.md#great-weapon-fighting)"
 
     #### Polearm Expert
 
-    Bonus Action: After you attack with a Stave or Polearm, you can make an additional attack using that weapon. This attack's damage die is 1d4 Bludgeoning.
+    *Bonus Action*
+    
+    After you attack with a stave or polearm, you can make an additional attack using that weapon. This attack's damage die is 1d4 bludgeoning.
 
-    Reaction (Opportunity Attack): Before a creature enters or moves within your reach with a Stave or Polearm, you can use that weapon to attack the creature.
+    ###### Set
 
-??? feats "Sentinel | Opportunist"
+    *Reaction (Opportunity Attack)*
+    
+    Before a creature enters or moves within your reach with a stave or polearm, you can use that weapon to attack the creature.
+
+??? feats "Sentinel | [Opportunist](fighting-style.md#opportunist)"
 
     #### Sentinel
 
-    After you hit with an Opportunity Attack, the target of the attack's Speed becomes 0 until the end of the turn.
+    After you hit with an opportunity attack, you can make the target's speed become 0 until the end of the turn.
 
-    Reaction (Opportunity Attack): Before a creature attacks another target, you can make a Melee Attack against the attacker.
+    ###### Punish
 
-??? feats "Shield Throwing | Shield Defense or Shield Fighting"
+    *Reaction (Opportunity Attack)*
+    
+    Before a creature within reach attacks another target, you can make a melee attack against the attacker.
+
+??? feats "Shield Throwing | [Shield Defense](fighting-style.md#shield-defense) or [Shield Fighting](fighting-style.md#shield-fighting)"
 
     #### Shield Throwing
 
@@ -281,34 +352,36 @@
 
     Once per Turn: You can don or doff a light or medium shield.
 
-??? feats "Shield Warrior | Shield Defense or Shield Fighting"
+??? feats "Shield Warrior | [Shield Defense](fighting-style.md#shield-defense) or [Shield Fighting](fighting-style.md#shield-fighting)"
 
     #### Shield Warrior
 
-    You can attack with a heavy shield as though it is a Variant Hammer. (It is still a shield and is only a weapon while attacking with it.)
+    You can wield a heavy shield as a variant hammer (it is still a shield and only a weapon while attacking).
 
-    While you have a heavy shield donned, you add +1 to your AC bonus with that shield.
+    While donning a heavy shield, you add +1 to armor class.
 
-??? feats "Sling Expert | Sharpshooting"
+??? feats "Sling Expert | [Sharpshooting](fighting-style.md#sharpshooting)"
 
     #### Sling Expert
 
-    Your range with Slings is doubled.
+    Your slings double their range and add +1 to their critical hit range.
 
-    When you attack with a Sling, you add +1 to your Critical Hit Range.
-
-??? feats "Variable | Dueling"
+??? feats "Variable | [Dueling](fighting-style.md#dueling)"
 
     #### Variable
 
-    When you attack with a Versatile weapon in one hand and no other weapons or a shield, you add +1 to your attack roll.
+    While you are only holding one weapon and not donning a shield, your versatile weapons add +1 to attack rolls.
+
+    ###### Fast Hands
 
     Bonus Action: You can take the Utilize action.
 
-??? feats "War Casting | Opportunist"
+??? feats "War Casting | [Opportunist](fighting-style.md#opportunist)"
 
     #### War Casting
 
-    You have advantage on Concentration saves.
+    You have advantage on concentration saves.
 
-    When you make an Opportunity Attack, instead of making an attack, you can cast a spell that targets only the target of the attack.
+    ###### Reflexive Casting
+
+    Before you make an opportunity attack, instead of making a weapon attack, you can cast a spell that targets only the target of the attack.

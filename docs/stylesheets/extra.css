@@ -200,7 +200,7 @@ body,
     /* text-transform: ; */
 }
 
-.md-typeset h1                 { font-size: 2.2rem; }
+.md-typeset h1                 { font-size: 2.2rem; margin-bottom: 0.2em; }
 .md-typeset h2                 { font-size: 1.6rem; }
 .md-typeset h3,
 .md-typeset h5                 { font-size: 1.25rem; }
@@ -208,7 +208,7 @@ body,
 .md-typeset h4                 { height: 0; overflow: hidden; margin: 0; padding: 0; line-height: 0; scroll-margin-top: 100rem; }
 .md-typeset h6                 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; }
 .md-typeset h3,
-.md-typeset h6                 { margin-bottom: 0; }
+.md-typeset h6                 { margin-top: 0.2em; margin-bottom: 0; }
 .md-typeset h3 + *,
 .md-typeset h6 + *             { margin-top: 0; }
 

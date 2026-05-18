@@ -1,5 +1,7 @@
 # General Feats
 
+General feats represent a wide range of specialized talents you may have acquired.  When you choose a general feat, you can choose an [Origin Feat](origin.md), [Racial Feat](racial.md), or [Fighting Style](fighting-style.md) instead.
+
 ??? feats "Actor | 2 Charisma"
 
     #### Actor
