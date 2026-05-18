@@ -600,3 +600,35 @@ body[data-md-color-scheme="slate"] {
     margin-top: 0;
     padding-top: 0;
 }
+
+/* ============================================================
+   MOBILE — full-width cards and tables
+   At < 60em the ToC collapses into the hamburger menu. The
+   content inner has margin: 0 0.8rem, so cards and tables are
+   inset by 0.8rem on each side. Negative margins counteract
+   that so they bleed to the viewport edges.
+   ============================================================ */
+
+@media screen and (max-width: 59.9375em) {
+
+    .card {
+        margin-left: -0.8rem;
+        margin-right: -0.8rem;
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+    }
+
+    .subcard {
+        margin-left: -1rem;
+        margin-right: -1rem;
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+    }
+
+    .md-typeset__scrollwrap {
+        margin-left: -0.8rem;
+        margin-right: -0.8rem;
+    }
+}
