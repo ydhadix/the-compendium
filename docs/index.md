@@ -1,8 +1,12 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # The Compendium
 
-A homebrew ruleset for fifth-edition Dungeons & Dragons.
-
-| Section | |
+| | |
 |---|---|
 | [Rules Rolodex](rules/index.md) | Core game rules — abilities, actions, conditions, movement, and more. |
 | [Hero Handbook](characters/index.md) | Character building — races, backgrounds, classes, and feats. |

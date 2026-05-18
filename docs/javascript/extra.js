@@ -1,21 +1,18 @@
 // ============================================================
 // HEADING LAYOUT CONTRACT
 //
-// h1  — page title; one per page; excluded from ToC
-// h2  — main section titles; no cards
-// h3  — card titles (ToC-visible): features, spells, conditions, etc.
-//        A card spans from an h3 to the next h3 or higher heading.
-// h4  — table titles (ToC-visible): stat blocks, ship stats, major tables
-// h5  — subsection titles (hidden from ToC); flat, no card
-// h6  — sub-card titles (hidden from ToC): ancestry options, sub-entries, etc.
-//        A subcard spans from an h6 to the next h5, h6, or higher heading.
+// h1  — page title; one per page
+// h2  — section titles; creates a card spanning to the next h1/h2
+// h3  — subsection titles (ToC-visible); flat, no card
+// h4  — anchor-only (ToC-visible, invisible on page)
+// h5  — entry titles (ToC-visible); always creates a subcard
+//        A subcard spans from an h5 to the next h2, h3, or h5.
+// h6  — sub-entry titles; bold, body-colored, no card
 // ============================================================
 
 document.addEventListener("DOMContentLoaded", function () {
 
     // --- Site name home link -------------------------------------------
-    // Material renders the logo anchor with the correct base URL already;
-    // reuse that href so we don't hardcode the GitHub Pages path.
     var logoAnchor = document.querySelector("a.md-header__button.md-logo");
     var titleEl    = document.querySelector(".md-header__title");
     if (titleEl && logoAnchor) {
@@ -30,19 +27,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // --- Empty first-column detection ---------------------------------
-    // Tables where every cell in the first column is empty receive the
-    // .no-row-labels class, suppressing the column and any row-label
-    // styling. Combined with the CSS empty-thead rule this covers all
-    // four label combinations:
-    //
-    //   thead empty + first col empty  →  no labels at all
-    //   thead empty + first col filled →  row labels only
-    //   thead filled + first col empty →  column labels only  (.no-row-labels)
-    //   thead filled + first col filled → full matrix table
-    //
-    // Matrix tables with an empty A1 corner cell: put &nbsp; there.
-    // trim() does not strip non-breaking spaces ( ), so &nbsp;
-    // is treated as non-empty and the column is preserved.
     document.querySelectorAll(".md-content__inner table").forEach(function (table) {
         var allEmpty = Array.from(table.querySelectorAll("tr")).every(function (row) {
             return row.cells.length === 0 || row.cells[0].textContent.trim() === "";
@@ -50,20 +34,18 @@ document.addEventListener("DOMContentLoaded", function () {
         if (allEmpty) table.setAttribute("data-no-row-labels", "");
     });
 
-    // --- h3 card wrapping ---------------------------------------------
-    // Wrap each h3 and all following siblings (until the next h1/h2/h3)
-    // in a <div class="card"> so they can be styled as a unit without
-    // any markup in the markdown source files.
     var content = document.querySelector(".md-content__inner");
     if (!content) return;
 
-    // Snapshot children before mutating the DOM.
+    // --- h2 card wrapping ---------------------------------------------
+    // Wrap each h2 and all following siblings (until the next h1/h2)
+    // in a <div class="card">.
     var children = Array.from(content.children);
     var i = 0;
 
     while (i < children.length) {
         var el = children[i];
-        if (el.tagName === "H3") {
+        if (el.tagName === "H2") {
             var card = document.createElement("div");
             card.className = "card";
             el.parentNode.insertBefore(card, el);
@@ -71,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
             i++;
             while (i < children.length) {
                 var next = children[i];
-                if (next.tagName === "H1" || next.tagName === "H2" || next.tagName === "H3") break;
+                if (next.tagName === "H1" || next.tagName === "H2") break;
                 card.appendChild(next);
                 i++;
             }
@@ -80,15 +62,15 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    // --- h6 sub-card wrapping -----------------------------------------
-    // Inside each .card, wrap each h6 and its following siblings (until
-    // the next h5, h6, or higher heading) in a <div class="subcard">.
-    document.querySelectorAll(".card").forEach(function (card) {
-        var children = Array.from(card.children);
+    // --- h5 subcard wrapping ------------------------------------------
+    // Run on the top-level content (h5s before any h2) and inside every
+    // .card (h5s within h2 sections). h4 does not break subcard boundaries.
+    function wrapSubcards(parent) {
+        var children = Array.from(parent.children);
         var i = 0;
         while (i < children.length) {
             var el = children[i];
-            if (el.tagName === "H6") {
+            if (el.tagName === "H5") {
                 var subcard = document.createElement("div");
                 subcard.className = "subcard";
                 el.parentNode.insertBefore(subcard, el);
@@ -97,8 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 while (i < children.length) {
                     var next = children[i];
                     if (next.tagName === "H1" || next.tagName === "H2" ||
-                        next.tagName === "H3" || next.tagName === "H4" ||
-                        next.tagName === "H5" || next.tagName === "H6") break;
+                        next.tagName === "H3" || next.tagName === "H5") break;
                     subcard.appendChild(next);
                     i++;
                 }
@@ -106,6 +87,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 i++;
             }
         }
-    });
+    }
+
+    wrapSubcards(content);
+    document.querySelectorAll(".card").forEach(wrapSubcards);
 
 });

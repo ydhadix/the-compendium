@@ -105,7 +105,8 @@
    Light mode:
      --clr-accent       crimson — headings, links, card borders
      --clr-accent-alt   bright red — visited links
-     --clr-page-bg      tan parchment — body/texture base, subcard background
+     --clr-leather-bg   dark brown — page/sidebar background
+     --clr-page-bg      tan parchment — center column and subcard background
      --clr-card-bg      light parchment — card background
      --clr-table-bg     lightest parchment — table and back-to-top background
      --clr-body-text    near-black body copy
@@ -128,6 +129,7 @@
 [data-md-color-scheme="default"] {
     --clr-accent:      #8C1911;
     --clr-accent-alt:  #D83731;
+    --clr-leather-bg:  #362E24;
     --clr-page-bg:     #c8b89a;
     --clr-card-bg:     #e8ddd0;
     --clr-table-bg:    #ede8df;
@@ -173,6 +175,10 @@ body,
     font-size: 1rem;
 }
 
+.md-typeset p {
+    margin: 0.5em auto;
+}
+
 .md-typeset table:not([class]) {
     font-family: "Alegreya Sans SC", sans-serif;
     font-size: 0.9rem;
@@ -195,13 +201,22 @@ body,
 }
 
 .md-typeset h1                 { font-size: 2.2rem; }
-.md-typeset h2,
-.md-typeset h3                 { font-size: 1.6rem; }
-.md-typeset h4,
+.md-typeset h2                 { font-size: 1.6rem; }
+.md-typeset h3,
 .md-typeset h5                 { font-size: 1.25rem; }
-.md-typeset h6                 { font-size: 1.1rem; }
+.md-typeset h5                 { text-transform: none; }
+.md-typeset h4                 { height: 0; overflow: hidden; margin: 0; padding: 0; line-height: 0; }
+.md-typeset h6                 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; }
+.md-typeset h3,
+.md-typeset h6                 { margin-bottom: 0; }
+.md-typeset h3 + *,
+.md-typeset h6 + *             { margin-top: 0; }
 
 .md-typeset h2 {
+    border-bottom: 2px solid var(--clr-divider);
+    padding-bottom: 0.25em;
+}
+.md-typeset h5 {
     border-bottom: 1px solid var(--clr-divider);
     padding-bottom: 0.25em;
 }
@@ -218,6 +233,7 @@ body,
 [data-md-color-scheme="default"] .md-typeset h6 {
     color: var(--clr-accent);
 }
+[data-md-color-scheme="default"] .md-typeset h6 { color: var(--clr-body-text); }
 
 /* ============================================================
    HEADINGS — dark mode
@@ -229,8 +245,9 @@ body,
 [data-md-color-scheme="slate"] .md-typeset h4,
 [data-md-color-scheme="slate"] .md-typeset h5,
 [data-md-color-scheme="slate"] .md-typeset h6 {
-    color: var(--clr-body-text);
+    color: var(--clr-accent);
 }
+[data-md-color-scheme="slate"] .md-typeset h6 { color: var(--clr-body-text); }
 
 /* ============================================================
    HEADER / SITE NAME
@@ -262,9 +279,10 @@ body[data-md-color-scheme="slate"] .md-tabs {
    ============================================================ */
 
 body[data-md-color-scheme="default"] {
-    background-color: var(--clr-page-bg);
+    background-color: var(--clr-leather-bg);
     background-image: url("../assets/images/large-leather.png");
     background-repeat: repeat;
+    background-blend-mode: overlay;
 }
 
 body[data-md-color-scheme="slate"] {
@@ -274,12 +292,157 @@ body[data-md-color-scheme="slate"] {
     background-blend-mode: overlay;
 }
 
-/* Make the content column transparent so the leather texture shows through.
-   --md-default-bg-color feeds tables and UI widgets, not the content area. */
+/* Sidebars are transparent — leather texture shows through from the body. */
 .md-main__inner,
-.md-content,
 .md-content__inner {
     background-color: transparent;
+}
+
+/* Center column: paper card that stretches to fill the row height. */
+[data-md-color-scheme="default"] .md-content {
+    background-color: var(--clr-page-bg);
+    background-image: url("../assets/images/paper.png");
+    background-repeat: repeat;
+    background-blend-mode: overlay;
+    align-self: stretch;
+}
+
+[data-md-color-scheme="slate"] .md-content {
+    background-color: var(--clr-card-bg);
+    align-self: stretch;
+}
+
+/* Column dividers: full-height fixed pseudo-elements anchored to each sidebar.
+   They disappear automatically when Material hides the parent sidebar element. */
+.md-sidebar--primary::after,
+.md-sidebar--secondary::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--clr-divider);
+    box-shadow: 1px 0px 1px 1px rgba(220, 190, 130, 0.3);
+    pointer-events: none;
+    z-index: 0;
+}
+
+.md-sidebar--primary::after {
+    left: var(--md-sidebar-width, 12.1rem);
+}
+
+.md-sidebar--secondary::after {
+    left: calc(100vw - var(--md-sidebar-width, 12.1rem));
+}
+
+/* ============================================================
+   LAYOUT
+   ============================================================ */
+
+/* Remove the grid max-width so sidebars hug the window edges
+   and the center column expands to fill all available space. */
+.md-grid {
+    max-width: 100%;
+}
+
+/* Remove the top gap between the nav banner and the column tops.
+   min-height ensures the parchment column always extends to the footer
+   on short pages without disturbing the three-column horizontal layout. */
+.md-main__inner {
+    padding-top: 0;
+    margin-top: 0;
+    min-height: calc(100vh - 4.8rem);
+}
+
+.md-sidebar--primary,
+.md-sidebar--secondary {
+    padding: 0;
+}
+
+.md-sidebar__scrollwrap {
+    margin: 0;
+    max-height: calc(100vh - 4.8rem);
+}
+
+.md-sidebar__inner {
+    padding: 0;
+}
+
+/* Raise the footer above the sticky sidebar and fixed border lines. */
+.md-footer {
+    position: relative;
+    z-index: 2;
+}
+
+/* ============================================================
+   SIDEBAR TYPOGRAPHY
+   Scoped to the breakpoints where each sidebar is visible as
+   a sidebar — keeps the hamburger drawer at its default styling.
+   ============================================================ */
+
+/* Primary sidebar (left nav) — desktop only (>= 76.1875em) */
+@media screen and (min-width: 76.1875em) {
+    .md-sidebar--primary .md-nav__title,
+    .md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+        background: transparent;
+        box-shadow: none;
+        padding-top: 0.4rem;
+        font-family: "Alegreya SC", serif;
+        font-size: 1.05rem;
+        text-transform: uppercase;
+        color: var(--clr-accent);
+        text-shadow:
+            -1px -1px 2px rgba(0, 0, 0, 0.85),
+             1px  1px 2px rgba(208, 89, 68, 0.3);
+    }
+
+    .md-sidebar--primary .md-nav__link {
+        font-family: "Alegreya Sans SC", sans-serif;
+        font-size: 0.9rem;
+        text-transform: lowercase;
+        color: var(--clr-divider);
+        text-shadow:
+            -1px -1px 2px rgba(0, 0, 0, 0.85),
+             1px  1px 2px rgba(220, 190, 130, 0.3);
+        margin: 4px auto;
+    }
+
+    /* Nested section expanders (subsection headers, e.g. "Feats") —
+       same style as nav items but slightly larger and bold. The top-level
+       section title is handled by the .md-nav--lifted rule above (higher
+       specificity keeps it crimson); this targets depth 1+. */
+    .md-sidebar--primary .md-nav__item--section > .md-nav__link {
+        color: var(--clr-divider);
+        font-size: 1rem;
+        font-weight: 700;
+    }
+}
+
+/* Secondary sidebar (ToC) — visible from tablet up (>= 60em) */
+@media screen and (min-width: 60em) {
+    .md-sidebar--secondary .md-nav__title {
+        background: transparent;
+        box-shadow: none;
+        padding-top: 0.4rem;
+        font-family: "Alegreya SC", serif;
+        font-size: 1.05rem;
+        text-transform: uppercase;
+        color: var(--clr-accent);
+        text-shadow:
+            -1px -1px 2px rgba(0, 0, 0, 0.85),
+             1px  1px 2px rgba(208, 89, 68, 0.3);
+    }
+
+    .md-sidebar--secondary .md-nav__link {
+        font-family: "Alegreya Sans SC", sans-serif;
+        font-size: 0.9rem;
+        text-transform: lowercase;
+        color: var(--clr-divider);
+        text-shadow:
+            -1px -1px 2px rgba(0, 0, 0, 0.85),
+             1px  1px 2px rgba(220, 190, 130, 0.3);
+        margin: 4px auto;
+    }
 }
 
 /* ============================================================
@@ -291,11 +454,11 @@ body[data-md-color-scheme="slate"] {
 }
 
 .md-typeset a:visited {
-    color: var(--clr-accent-alt);
+    color: var(--clr-accent);
 }
 
 .md-typeset a:hover {
-    color: var(--clr-accent);
+    color: var(--clr-accent-alt);
     text-decoration: underline;
 }
 
@@ -323,25 +486,71 @@ body[data-md-color-scheme="slate"] {
 .md-typeset table:not([class]) {
     display: table;
     background-color: var(--clr-table-bg);
+    border-collapse: collapse;
+    border: 3px solid var(--clr-divider);
 }
 
-/* Material wraps tables in inline-block divs with negative side margins;
-   zero the margins and stretch to fill parent width. */
+/* Remove Material's default cell borders; only draw the dividers we want.
+   With border-collapse the table's own border wins the outer edges when
+   cells have none. */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    /* border: none; */
+    padding: 0.2rem 0.5rem;
+    vertical-align: middle;
+}
+
+/* Separator between header row and body. */
+.md-typeset table:not([class]) thead tr > * {
+    border-bottom: 2px solid var(--clr-divider);
+}
+
+/* Separator right of the first column (row-label column).
+   width: 1% + white-space: nowrap shrinks the column to its content width;
+   the remaining columns fill the rest under table-layout: auto.
+   For data-no-row-labels tables the first child is display:none,
+   so no visible separator appears — no extra rule needed. */
+.md-typeset table:not([class]) tr > :first-child {
+    border-right: 2px solid var(--clr-divider);
+    width: 1%;
+    white-space: nowrap;
+    text-align: center;
+}
+
+/* Column labels: bold, uppercase. */
+.md-typeset table:not([class]) th {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* Row labels (first td in body rows): bold, lowercase. */
+.md-typeset table:not([class]) tbody tr > td:first-child {
+    font-weight: 700;
+    text-transform: lowercase;
+}
+
+/* Data cells: lowercase. Size inherited from the base table rule (0.9rem). */
+.md-typeset table:not([class]) tbody tr > td:not(:first-child) {
+    text-transform: lowercase;
+}
+
+/* Material wraps tables in divs; zero all margins so adjacent tables
+   stack flush and rely on surrounding element padding for spacing. */
 .md-typeset__scrollwrap {
-    margin-left: 0;
-    margin-right: 0;
+    margin: 0;
+    padding-bottom: 8px;
 }
 .md-typeset__table {
     display: block;
     width: 100%;
+    padding: 0;
+    margin: 0;
+
 }
 .md-typeset__table table {
     width: 100%;
     table-layout: auto;
 }
-
-/* --- Row label formatting (first column of labelled tables) ------- */
-/* .md-typeset table td:first-child { } */
 
 /* ============================================================
    SUBTITLE (.subtitle paragraph — italic caption below a heading)
@@ -357,7 +566,7 @@ body[data-md-color-scheme="slate"] {
 }
 
 /* ============================================================
-   CARDS (h3-level entries: features, spells, conditions, etc.)
+   CARDS (h2-level sections: features, spells, conditions, etc.)
    ============================================================ */
 
 .card {
@@ -369,13 +578,13 @@ body[data-md-color-scheme="slate"] {
     background-color: var(--clr-card-bg);
 }
 
-.card > h3:first-child {
+.card > h2:first-child {
     margin-top: 0;
     padding-top: 0;
 }
 
 /* ============================================================
-   SUBCARDS (h6-level entries: ancestry options, sub-entries, etc.)
+   SUBCARDS (h5-level entries: ancestry options, sub-entries, etc.)
    ============================================================ */
 
 .subcard {
@@ -387,7 +596,7 @@ body[data-md-color-scheme="slate"] {
     background-color: var(--clr-page-bg);
 }
 
-.subcard > h6:first-child {
+.subcard > h5:first-child {
     margin-top: 0;
     padding-top: 0;
 }

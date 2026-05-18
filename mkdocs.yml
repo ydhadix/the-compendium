@@ -35,6 +35,10 @@ exclude_docs: |
 
 not_in_nav: |
   **/subclasses/index.md
+  rules/index.md
+  equipment/index.md
+  characters/index.md
+  characters/feats/index.md
 
 extra_css:
   - stylesheets/extra.css
