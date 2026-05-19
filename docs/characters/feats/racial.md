@@ -7,9 +7,9 @@ Racial feats are only available to certain races.
     #### Integrated Protection
 
     ###### Integrated Armor
-    After you finish a short rest, you can don a suit of armor you are proficient in.  Until you doff the armor, it has the following benefits:
+    After you finish a Short Rest, you can don a suit of armor you are proficient in. Until you doff the armor, it has the following benefits:
 
     - Features and spells treat you as though you were unarmored.
-    - You ignore the armor's stealth penalties.
-    - You gain a +1 bonus to armor class and damage reduction.
+    - You ignore the armor's Stealth penalties.
+    - You gain a +1 bonus to Armor Class and Damage Reduction.
     - It takes 1 hour to doff the armor.
