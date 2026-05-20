@@ -7,17 +7,17 @@ Origin feats represent an aspect of your character before they became an adventu
     #### Alert
 
     ###### Initiative Proficiency
-    You gain proficiency with initiative checks.
+    You gain Proficiency in Initiative.
 
     ###### Initiative Swap
-    Immediately after you roll initiative, you can swap your initiative with one willing ally in the same combat. You can't make this swap if you or the ally are Incapacitated.
+    After you roll Initiative, you can swap your Initiative with one willing ally in the same combat. You can't make this swap if you or the target are Incapacitated.
 
 ??? feats "Crafter | —"
 
     #### Crafter
 
     ###### Tool Proficiency
-    You gain proficiency with three of the following artisan's tools.
+    You gain Proficiency with **3** of the following Artisan's Tools.
 
     - Carpenter's Tools
     - Leatherworker's Tools
@@ -29,27 +29,27 @@ Origin feats represent an aspect of your character before they became an adventu
     - Woodcarver's Tools
 
     ###### Discount
-    Nonmagical items and materials you buy cost 20 percent less.
+    Nonmagical items and materials you buy cost **20** percent less.
 
     ###### Fast Crafting
-    *Utilize Action*
+    _Utilize Action_
 
-    *Proficiency Bonus uses per Long Rest*
+    _Proficiency Bonus uses per Long Rest_
 
-    You can create a nonmagical item associated with one of the tool proficiencies above, provided you have the tools in hand and proficiency with those tools.
+    You can create a nonmagical item associated with one of the tool Proficiencies above, provided you have the tools in hand and Proficiency with those tools.
 
-    The crafted item can't be armor, a ranged or martial weapon, or cost more than 25 gold. Items crafted this way have no value to merchants and fall apart after you finish a Long Rest.
+    The crafted item can't be armor, a ranged or martial weapon, or cost more than **25** gold. Items crafted this way have no value to merchants and fall apart after you finish a Long Rest.
 
 ??? feats "Healer | —"
 
     #### Healer
 
     ###### Battle Medic
-    *Utilize Action*
+    _Utilize Action_
 
-    *1 use of a Healer's Kit*
+    _1 use of a Healer's Kit_
 
-    You can expend one Hit Die from a creature within reach, roll it, and add your Proficiency Bonus. You heal the creature by the total.
+    You can expend one Hit Die from a creature within reach, roll it, and add **[PB]**. You heal the target by the total.
 
     ###### Healing Reroll
     After you roll a 1 on a die to heal a creature, you can reroll the die.
@@ -58,7 +58,7 @@ Origin feats represent an aspect of your character before they became an adventu
 
     #### Lucky
 
-    *Proficiency Bonus uses per Long Rest*
+    _Proficiency Bonus uses per Long Rest_
 
     ###### Advantage
     Before you roll a d20, you can gain Advantage on the roll.
@@ -73,10 +73,10 @@ Origin feats represent an aspect of your character before they became an adventu
     Choose Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard.
 
     ###### Spells Known
-    You learn two cantrips and a 1st-level spell from the chosen class's spell list. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn **2** Cantrips and a 1st-level spell from the chosen class's spell list. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Free Casting
-    *1 use per Long Rest*
+    _1 use per Long Rest_
 
     You can cast this feat's 1st-level spell without a spell slot.
 
@@ -91,17 +91,17 @@ Origin feats represent an aspect of your character before they became an adventu
     #### Musician
 
     ###### Instrument Training
-    You gain proficiency with three musical instruments of your choice.
+    You gain Proficiency with **3** Musical Instruments of your choice.
 
     ###### Encouraging Song
-    After you finish a Short Rest, you can play a song on a musical instrument you are proficient with. Choose up to your Proficiency Bonus allies who heard the song. Those allies gain one DM inspiration.
+    After a Short Rest, choose up to **[PB]** allies within **60** feet. Those allies gain **1** DM inspiration.
 
 ??? feats "Skilled | —"
 
     #### Skilled
 
     ###### Three Proficiencies
-    You gain proficiency with any three skills, trades, or martial weapon categories.
+    You gain Proficiency with any three Skills, Trades, or martial weapon categories.
 
     ###### Repeatable
     You can take this feat more than once.
@@ -111,7 +111,7 @@ Origin feats represent an aspect of your character before they became an adventu
     #### Tough
 
     ###### Extra Hit Points Now
-    Whenever you gain this feat, add twice your Level to your hit point maximum.
+    Add **[LV x 2]** to your Hit Point Maximum.
 
     ###### Extra Hit Points Later
-    Whenever you level up, add 2 to your hit point maximum.
+    Whenever you level up, add **2** to your Hit Point Maximum.

@@ -10,4 +10,4 @@ Building a character involves choosing a race, a background, and a class, then s
 
 ## Character Creation
 
-*This section hasn't been added yet.*
+_This section hasn't been added yet._

@@ -4,32 +4,32 @@
 
 | Mark | Proficiency | Level 1 | Level 3 | Level 5 | Level 7 | Level 9 | Class |
 |---|---|---|---|---|---|---|---|
-| Death | Medicine,<br>Religion | *Dancing Lights*,<br>*False Life* | *Gentle Repose* | *Animate Dead* | *Death Ward* | *Create Undead* | Cleric |
-| Detection | Perception,<br>Stealth | *Message*,<br>*Find Familiar* | *Detect Thoughts* | *Clairvoyance* | *Arcane Eye* | *Scrying* | Wizard |
-| Finding | Perception,<br>Survival | *Light*,<br>*Hunter's Mark* | *Locate Object* | *Locate Creature* | *Psychic Lance* | *Hold Monster* | Druid |
-| Handling | Nature,<br>Survival | *Produce Flame*,<br>*Animal Friendship* | *Find Steed* | *Conjure Animals* | *Dominate Beast* | *Awaken* | Druid |
-| Healing | Athletics,<br>Medicine | *Spare the Dying*,<br>*Cure Wounds* | *Lesser Restoration* | *Aura of Vitality* | *Aura of Life* | *Greater Restoration* | Cleric |
-| Hospitality | Insight,<br>Persuasion | *Friends*,<br>*Goodberry* | *Prayer of Healing* | *Tiny Hut* | *Aura of Purity* | *Heroes' Feast* | Cleric |
-| Making | Arcana,<br>an Artisan's Tool | *Mending*,<br>*Identify* | *Magic Weapon* | *Elemental Weapon* | *Fabricate* | *Creation* | Wizard |
-| Passage | Acrobatics,<br>Survival | *Message*,<br>*Expeditious Retreat* | *Misty Step* | *Haste* | *Dimension Door* | *Teleportation Circle* | Wizard |
-| Scribing | History,<br>Precision | *Mage Hand*,<br>*Comprehend Languages* | *Silence* | *Tongues* | *Private Sanctum* | *Legend Lore* | Wizard |
-| Sentinels | Athletics,<br>Perception | *Blade Ward*,<br>*Compelled Duel* | *Knock* | *Counterspell* | *Resilient Sphere* | *Arcane Hand* | Cleric |
-| Shadows | Deception,<br>Performance | *Minor Illusion*,<br>*Disguise Self* | *Lesser Invisibility* | *Major Image* | *Greater Invisibility* | *Mislead* | Bard |
-| Storms | Arcana,<br>Precision | *Elementalism*,<br>*Air Bubble* | *Levitate* | *Fly* | *Conjure Minor Elemental* | *Conjure Elemental* | Wizard |
-| Warding | Intimidation,<br>Precision | *Resistance*,<br>*Armor of Agathys* | *Arcane Lock* | *Nondetection* | *Secret Chest* | *Contingency* | Wizard |
+| Death | Medicine,<br>Religion | _Dancing Lights_,<br>_False Life_ | _Gentle Repose_ | _Animate Dead_ | _Death Ward_ | _Create Undead_ | Cleric |
+| Detection | Perception,<br>Stealth | _Message_,<br>_Find Familiar_ | _Detect Thoughts_ | _Clairvoyance_ | _Arcane Eye_ | _Scrying_ | Wizard |
+| Finding | Perception,<br>Survival | _Light_,<br>_Hunter's Mark_ | _Locate Object_ | _Locate Creature_ | _Psychic Lance_ | _Hold Monster_ | Druid |
+| Handling | Nature,<br>Survival | _Produce Flame_,<br>_Animal Friendship_ | _Find Steed_ | _Conjure Animals_ | _Dominate Beast_ | _Awaken_ | Druid |
+| Healing | Athletics,<br>Medicine | _Spare the Dying_,<br>_Cure Wounds_ | _Lesser Restoration_ | _Aura of Vitality_ | _Aura of Life_ | _Greater Restoration_ | Cleric |
+| Hospitality | Insight,<br>Persuasion | _Friends_,<br>_Goodberry_ | _Prayer of Healing_ | _Tiny Hut_ | _Aura of Purity_ | _Heroes' Feast_ | Cleric |
+| Making | Arcana,<br>an Artisan's Tool | _Mending_,<br>_Identify_ | _Magic Weapon_ | _Elemental Weapon_ | _Fabricate_ | _Creation_ | Wizard |
+| Passage | Acrobatics,<br>Survival | _Message_,<br>_Expeditious Retreat_ | _Misty Step_ | _Haste_ | _Dimension Door_ | _Teleportation Circle_ | Wizard |
+| Scribing | History,<br>Precision | _Mage Hand_,<br>_Comprehend Languages_ | _Silence_ | _Tongues_ | _Private Sanctum_ | _Legend Lore_ | Wizard |
+| Sentinels | Athletics,<br>Perception | _Blade Ward_,<br>_Compelled Duel_ | _Knock_ | _Counterspell_ | _Resilient Sphere_ | _Arcane Hand_ | Cleric |
+| Shadows | Deception,<br>Performance | _Minor Illusion_,<br>_Disguise Self_ | _Lesser Invisibility_ | _Major Image_ | _Greater Invisibility_ | _Mislead_ | Bard |
+| Storms | Arcana,<br>Precision | _Elementalism_,<br>_Air Bubble_ | _Levitate_ | _Fly_ | _Conjure Minor Elemental_ | _Conjure Elemental_ | Wizard |
+| Warding | Intimidation,<br>Precision | _Resistance_,<br>_Armor of Agathys_ | _Arcane Lock_ | _Nondetection_ | _Secret Chest_ | _Contingency_ | Wizard |
 
 ??? feats "Noble Dragonmark | No Dragonmark"
 
     #### Noble Dragonmark
 
     ###### Mark Proficiency
-    You gain proficiency with one of your dragonmark's proficiencies.
+    You gain Proficiency with one of your dragonmark's listed Skills or Trades.
 
     ###### Mark Spells
     You learn your dragonmark's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Free Casting
-    *1 use each per Long Rest*
+    _1 use each per Long Rest_
 
     You can cast one of this feat's spells without a spell slot.
 
@@ -43,18 +43,18 @@
     #### Aberrant Dragonmark
 
     ###### Uncanny Fortitude
-    You add 1d4 to Fortitude saves.
+    You add **1d4** to Fortitude saves.
 
     ###### Aberrant Spells
-    You learn a cantrip and a 1st-level spell from the sorcerer spell list. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn a Cantrip and a 1st-level spell from the Sorcerer spell list. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Free Casting
-    *1 use per Short Rest*
+    _1 use per Short Rest_
 
     You can cast this feat's 1st-level spell without a spell slot.
 
     ###### Changing Spells
-    Whenever you level up, you can replace one of this feat's spells with another spell of the same level from the sorcerer spell list.
+    Whenever you level up, you can replace one of this feat's spells with another spell of the same level from the Sorcerer spell list.
 
 ## Greater Dragonmark Boons
 
@@ -64,7 +64,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     #### Greater Mark Spellcasting
 
-    *1 use per Long Rest*
+    _1 use per Long Rest_
 
     You can cast one spell you know without a spell slot. The level of the spell you cast increases with your Level.
 
@@ -122,15 +122,15 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     After you hit with an attack while mounted, your mount can use its Reaction to move or attack.
 
     ###### Subdue
-    *Magic Action*
+    _Magic Action_
 
-    *Proficiency Bonus uses per Long Rest*
+    _Proficiency Bonus uses per Long Rest_
 
-    One beast within 30 feet makes a Will save *(DC = 8 + Strength, Wisdom, or Charisma + Proficiency Bonus)*. The target has Disadvantage if you or a companion dealt damage to it since the start of your previous turn.
+    One beast within **30** feet makes a Will save _(DC = **[8 + STR, WIS, or CHA + PB]**)_. The target has Disadvantage if you or a companion dealt damage to it since the start of your previous turn.
 
     | | |
     |---|---|
-    | **Fail** | For 1 minute, the target is Frightened of you. Whenever the target's turn ends, it repeats this save; on a success, this effect ends. |
+    | **Fail** | For **1** minute, the target is Frightened of you. Whenever the target's turn ends, it repeats this save; on a success, this effect ends. |
     | **Success** | No effect. |
 
 <!--
@@ -176,7 +176,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain a Climb Speed and a Swim Speed equal to your Speed. Your movement is unaffected by difficult terrain.
 
     ###### Slippery
-    You can use 5 feet of movement to automatically escape from nonmagical restraints *(e.g. manacles, chains, or being grappled)*.
+    You can use **5** feet of movement to automatically escape from nonmagical restraints _(e.g. manacles, chains, or being grappled)_.
 
     ###### Rising Tide
     After an ally enters your reach for the first time on a turn or starts its turn there, until the end of the target's next turn, the target gains the effect of Fleet-Footed and Slippery.
@@ -191,16 +191,16 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     The time it takes for you to craft spell scrolls is halved.
 
     ###### Quick Study
-    *Bonus Action*
+    _Bonus Action_
 
-    You take the Study action.
+    You can take the Study Action.
 
     ###### Well-Read
-    *Reaction*
+    _Reaction_
 
-    *Proficiency Bonus uses per Long Rest*
+    _Proficiency Bonus uses per Long Rest_
 
-    After you roll a check you don't have Expertise in, if it would fail, you can add your Proficiency Bonus to the total.
+    After you roll a check you don't have Expertise in, if it would fail, you can add **[PB]** to the total.
 
 <!--
 ??? feats "Greater Mark of Sentinels | Noble Dragonmark (Sentinels)"
@@ -210,9 +210,9 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain the [Greater Mark Spellcasting](dragonmarks.md#greater-mark-spellcasting) feature.
 
     ###### Warden
-    *Reaction*
+    _Reaction_
     
-    *1 use per Short Rest*
+    _1 use per Short Rest_
     
     Before a creature within your reach takes damage, you can swap places with that creature and take that damage instead.
 
@@ -241,10 +241,10 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain Resistance to Lightning and Thunder damage.
 
     ###### Feather Soul
-    Your weight is reduced by half, and you gain Immunity to falling damage.
+    Your weight is reduced by half, and you gain Immunity to Falling damage.
 
     ###### Tempest Magic
-    Before or after you cast a spell, you can fly up to 10 feet without provoking opportunity attacks.
+    Before or after you cast a spell, you can fly up to **10** feet without provoking Opportunity Attacks.
 
 <!--
 ??? feats "Greater Mark of Warding | Noble Dragonmark (Warding)"

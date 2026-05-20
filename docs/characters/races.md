@@ -4,66 +4,66 @@
 
 | | |
 |---|---|
-| abilities | Constitution and One of Your Choice |
-| creature type | Humanoid and Celestial |
-| size category | Medium or Small |
-| speed | 30 ft. |
-| reach | 5 ft. |
-| hit points | 8 |
-| resistances | Necrotic and Radiant |
-| senses | Darkvision 60 ft. |
+| Abilities | Constitution and one of your choice |
+| Creature Type | Humanoid and Celestial |
+| Size Category | Medium or Small |
+| Speed | 30 ft. |
+| Reach | 5 ft. |
+| Hit Points | 8 |
+| Resistances | Necrotic and Radiant |
+| Senses | Darkvision 60 ft. |
 
 ??? race "Divine Revelation | Level 3"
 
-    *Bonus Action*
+    _Bonus Action_
 
-    *1 use per Long Rest*
+    _1 use per Long Rest_
 
     Choose one of the following revelations. You can choose a different revelation each time you use this feature.
 
-    For 1 minute, or until you end this effect *(no action required)*, you have the revelation's effects, and before you deal damage, you can add your Proficiency Bonus as Necrotic or Radiant damage.
+    For **1** minute or until you end this effect _(no action required)_, you have the revelation's effects, and before you deal damage, you can add **[PB]** Necrotic or Radiant damage.
 
     | Revelation | Effect |
     |---|---|
-    | Winged | You have a fly speed equal to your speed. |
-    | Chosen | You emit bright light to 10 feet and dim light 10 feet further. At the end of your turn, you deal your Proficiency Bonus as Radiant damage to each other creature within a 10-foot Aura. |
-    | Fallen | Each creature of your choice within 10 feet makes a Will save *(DC = 8 + Constitution + Proficiency Bonus)*.<br>**Fail** — Until this revelation ends, the target is Frightened of you.<br>**Success** — No effect. |
+    | Winged | You have a fly speed equal to your Speed. |
+    | Chosen | You emit bright light to **10** feet and dim light **10** feet further. Whenever your turn ends, you deal **[PB]** Radiant damage to each other creature within a **10**-foot Aura. |
+    | Fallen | Each creature of your choice within **10** feet makes a Will save _(DC = **[8 + CON + PB]**)_.<br>**Fail** — Until this revelation ends, the target is Frightened of you.<br>**Success** — No effect. |
 
 ## Dragonborn
 
 | | |
 |---|---|
-| abilities | Strength and One of Your Choice |
-| creature type | Humanoid and Dragon |
-| size category | Medium |
-| speed | 30 ft. |
-| reach | 5 ft. |
-| hit points | 10 |
-| resistances | Determined by Draconic Ancestry |
-| senses | Darkvision 60 ft. |
+| Abilities | Strength and one of your choice |
+| Creature Type | Humanoid and Dragon |
+| Size Category | Medium |
+| Speed | 30 ft. |
+| Reach | 5 ft. |
+| Hit Points | 10 |
+| Resistances | Determined by Draconic Ancestry |
+| Senses | Darkvision 60 ft. |
 
 ??? race "Breath Weapon | —"
 
-    *Attack Action*
+    _Attack Action_
 
-    *Proficiency Bonus uses per Long Rest*
+    _Proficiency Bonus uses per Long Rest_
 
-    Everything within a 15-foot Cone or a 30-foot × 5-foot Line makes a Reflex save *(DC = 8 + Constitution + Proficiency Bonus)*.
+    Everything within a **15**-foot Cone or a **30**-foot × **5**-foot Line makes a Reflex save _(DC = **[8 + CON + PB]**)_.
 
     | | |
     |---|---|
-    | **Fail** | You deal 1d10 + your Constitution as your Draconic Ancestry damage type. |
+    | **Fail** | You deal **[1d10 + CON]** Draconic Ancestry damage. |
     | **Success** | You deal half as much damage. |
 
-    Add 1d10 to the damage when you reach Level 5 *(2d10)*, 11 *(3d10)*, and 17 *(4d10)*.
+    Add **1d10** to the damage when you reach Level **5 _(2d10)_**, **11 _(3d10)_**, and **17 _(4d10)_**.
 
 ??? race "Draconic Flight | Level 5"
 
-    *Bonus Action*
+    _Bonus Action_
 
-    *1 use per Long Rest*
+    _1 use per Long Rest_
 
-    For 10 minutes or until you end this effect *(no action required)*, you have a fly speed equal to your speed.
+    For **10** minutes or until you end this effect _(no action required)_, you have a fly speed equal to your Speed.
 
 ??? race "Draconic Ancestry | —"
 
@@ -81,50 +81,50 @@
 
 | | |
 |---|---|
-| abilities | Constitution and One of Your Choice |
-| creature type | Humanoid |
-| size category | Medium |
-| speed | 30 ft. |
-| reach | 5 ft. |
-| hit points | 10 |
-| resistances | Poison |
-| protections | Poisoned, Prone |
-| senses | Darkvision 120 ft., Tremorsense 30 ft. |
+| Abilities | Constitution and one of your choice |
+| Creature Type | Humanoid |
+| Size Category | Medium |
+| Speed | 30 ft. |
+| Reach | 5 ft. |
+| Hit Points | 10 |
+| Resistances | Poison |
+| Protections | Poisoned, Prone |
+| Senses | Darkvision 120 ft., Tremorsense 30 ft. |
 
 ??? race "Dwarven Toughness | —"
 
-    Whenever you level up, add 1 to your hit point maximum.
+    Whenever you level up, add **1** to your Hit Point Maximum.
 
 ??? race "Treasure Sense | —"
 
-    *Bonus Action*
+    _Bonus Action_
 
-    *Proficiency Bonus uses per Long Rest*
+    _Proficiency Bonus uses per Long Rest_
 
-    For 10 minutes, you can sense the location of precious metals, minerals, and gems worth at least 50 gold within 30 feet, even through walls and obstacles. You can identify the general category of material but not its specific type.
+    For **10** minutes, you can sense the location of precious metals, minerals, and gems worth at least **50** gold within **30** feet, even through walls and obstacles. You can identify the general category of material but not its specific type.
 
 ## Elf
 
 | | |
 |---|---|
-| abilities | Dexterity and One of Your Choice |
-| creature type | Humanoid |
-| size category | Medium |
-| speed | 35 ft. |
-| reach | 5 ft. |
-| hit points | 6 |
-| protections | Charmed |
-| senses | Darkvision 60 ft. |
+| Abilities | Dexterity and one of your choice |
+| Creature Type | Humanoid |
+| Size Category | Medium |
+| Speed | 35 ft. |
+| Reach | 5 ft. |
+| Hit Points | 6 |
+| Protections | Charmed |
+| Senses | Darkvision 60 ft. |
 
 ??? race "Keen Senses | —"
 
-    You gain proficiency with one of Insight, Perception, or Survival.
+    You gain Proficiency in one of Insight, Perception, or Survival.
 
 ??? race "Trance | —"
 
     You don't need to sleep, and magic can't put you to sleep.
 
-    You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation. You remain conscious.
+    You can finish a Long Rest in **4** hours if you spend those hours in a trancelike meditation. You remain conscious.
 
 ??? race "Elven Ancestry | —"
 
@@ -134,19 +134,19 @@
     You learn your ancestry's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Free Casting
-    *1 use each per Long Rest*
+    _1 use each per Long Rest_
 
     You can cast one of this ancestry's spells without a spell slot.
 
     ??? ancestry "Dark Elf"
 
-        Your darkvision increases by 60 ft.
+        Your darkvision increases by **60** ft.
 
         | Level | Spells Known |
         |---|---|
-        | 1st | *Dancing Lights* |
-        | 3rd | *Faerie Fire* |
-        | 5th | *Darkness* |
+        | 1st | _Dancing Lights_ |
+        | 3rd | _Faerie Fire_ |
+        | 5th | _Darkness_ |
 
     ??? ancestry "High Elf"
 
@@ -154,32 +154,32 @@
 
         | Level | Spells Known |
         |---|---|
-        | 1st | *Prestidigitation* |
-        | 3rd | *Detect Magic* |
-        | 5th | *Misty Step* |
+        | 1st | _Prestidigitation_ |
+        | 3rd | _Detect Magic_ |
+        | 5th | _Misty Step_ |
 
     ??? ancestry "Wood Elf"
 
-        Your speed increases by 5 feet.
+        Your Speed increases by **5** feet.
 
         | Level | Spells Known |
         |---|---|
-        | 1st | *Druidcraft* |
-        | 3rd | *Longstrider* |
-        | 5th | *Pass without Trace* |
+        | 1st | _Druidcraft_ |
+        | 3rd | _Longstrider_ |
+        | 5th | _Pass without Trace_ |
 
 ## Gnome
 
 | | |
 |---|---|
-| abilities | Dexterity and One of Your Choice |
-| creature type | Humanoid |
-| size category | Small |
-| speed | 30 ft. |
-| reach | 5 ft. |
-| hit points | 6 |
-| protections | Will saves |
-| senses | Darkvision 60 ft. |
+| Abilities | Dexterity and one of your choice |
+| Creature Type | Humanoid |
+| Size Category | Small |
+| Speed | 30 ft. |
+| Reach | 5 ft. |
+| Hit Points | 6 |
+| Protections | Will saves |
+| Senses | Darkvision 60 ft. |
 
 ??? race "Naturally Stealthy | —"
 
@@ -191,28 +191,28 @@
     You learn your ancestry's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Free Casting
-    *1 use each per Long Rest*
+    _1 use each per Long Rest_
 
     You can cast one of this ancestry's spells without a spell slot.
 
     | Level | Spells Known |
     |---|---|
-    | 1st | *Prestidigitation*, *Mage Hand* |
-    | 3rd | *Speak with Animals* |
-    | 5th | *Pass without Trace* |
+    | 1st | _Prestidigitation_, _Mage Hand_ |
+    | 3rd | _Speak with Animals_ |
+    | 5th | _Pass without Trace_ |
 
 ## Goliath
 
 | | |
 |---|---|
-| abilities | Strength and One of Your Choice |
-| creature type | Humanoid and Giant |
-| size category | Medium |
-| speed | 30 ft. |
-| reach | 10 ft. |
-| hit points | 10 |
-| resistances | Determined by Giant Ancestry |
-| protections | Grappled |
+| Abilities | Strength and one of your choice |
+| Creature Type | Humanoid and Giant |
+| Size Category | Medium |
+| Speed | 30 ft. |
+| Reach | 10 ft. |
+| Hit Points | 10 |
+| Resistances | Determined by Giant Ancestry |
+| Protections | Grappled |
 
 ??? race "Powerful Build | —"
 
@@ -220,11 +220,11 @@
 
 ??? race "Large Form | Level 5"
 
-    *Bonus Action*
+    _Bonus Action_
 
-    *1 use per Long Rest*
+    _1 use per Long Rest_
 
-    For 10 minutes or until you end this effect *(no action required)*, you are Large, you have Advantage on Strength checks, and your Speed increases by 10 feet.
+    For **10** minutes or until you end this effect _(no action required)_, you are Large, you have Advantage on Strength checks, and your Speed increases by **10** feet.
 
 ??? race "Giant Ancestry | —"
 
@@ -236,11 +236,11 @@
 
         ###### Cloud Jaunt
 
-        *Bonus Action*
+        _Bonus Action_
 
-        *Proficiency Bonus uses per Long Rest*
+        _Proficiency Bonus uses per Long Rest_
 
-        You can magically teleport up to 30 feet.
+        You can magically teleport up to **30** feet.
 
     ??? ancestry "Fire Goliath"
 
@@ -248,9 +248,11 @@
 
         ###### Fire Smite
 
-        *Proficiency Bonus uses per Long Rest*
+        _Free Action_
 
-        Before you deal damage with an attack, you can add 1d10 Fire damage.
+        _Proficiency Bonus uses per Long Rest_
+
+        Before you deal damage, you can add **1d10** Fire damage.
 
     ??? ancestry "Frost Goliath"
 
@@ -258,9 +260,11 @@
 
         ###### Frost Smite
 
-        *Proficiency Bonus uses per Long Rest*
+        _Free Action_
 
-        Before you deal damage with an attack, you can add 1d6 Cold damage. Until the start of your next turn, the target's Speed is reduced by 10 feet.
+        _Proficiency Bonus uses per Long Rest_
+
+        Before you deal damage, you can add **1d6** Cold damage. After you deal that damage, until the start of your next turn, the target's Speed is reduced by **10** feet.
 
     ??? ancestry "Hill Goliath"
 
@@ -268,9 +272,11 @@
 
         ###### Hill Quake
 
-        *Proficiency Bonus uses per Long Rest*
+        _Free Action_
 
-        After you deal damage with an attack, you can knock the target Prone.
+        _Proficiency Bonus uses per Long Rest_
+
+        After you deal damage, you can knock the target Prone.
 
     ??? ancestry "Stone Goliath"
 
@@ -278,11 +284,11 @@
 
         ###### Stone Endurance
 
-        *Reaction*
+        _Reaction_
 
-        *Proficiency Bonus uses per Long Rest*
+        _Proficiency Bonus uses per Long Rest_
 
-        Before you take damage, you can reduce the damage by 1d12 + your Constitution.
+        Before you take damage, you can reduce the damage by **[1d12 + CON]**.
 
     ??? ancestry "Storm Goliath"
 
@@ -290,23 +296,23 @@
 
         ###### Storm Rebuke
 
-        *Reaction*
+        _Reaction_
 
-        *Proficiency Bonus uses per Long Rest*
+        _Proficiency Bonus uses per Long Rest_
 
-        After you take damage from a creature within 60 feet of you, you can deal 1d8 Thunder damage to the creature.
+        After you take damage from a creature within **60** feet of you, you can deal **1d8** Thunder damage to the target.
 
 ## Halfling
 
 | | |
 |---|---|
-| abilities | Dexterity and One of Your Choice |
-| creature type | Humanoid |
-| size category | Small |
-| speed | 35 ft. |
-| reach | 5 ft. |
-| hit points | 8 |
-| protections | Frightened |
+| Abilities | Dexterity and one of your choice |
+| Creature Type | Humanoid |
+| Size Category | Small |
+| Speed | 35 ft. |
+| Reach | 5 ft. |
+| Hit Points | 8 |
+| Protections | Frightened |
 
 ??? race "Naturally Stealthy | —"
 
@@ -318,20 +324,20 @@
 
 ??? race "Halfling Luck | —"
 
-    After you roll a 1 on a d20, you can reroll the die.
+    After you roll a **1** on a d20, you can reroll the die.
 
 ## Orc
 
 | | |
 |---|---|
-| abilities | Strength and One of Your Choice |
-| creature type | Humanoid |
-| size category | Medium |
-| speed | 35 ft. |
-| reach | 5 ft. |
-| hit points | 12 |
-| protections | Death |
-| senses | Darkvision 120 ft. |
+| Abilities | Strength and one of your choice |
+| Creature Type | Humanoid |
+| Size Category | Medium |
+| Speed | 35 ft. |
+| Reach | 5 ft. |
+| Hit Points | 12 |
+| Protections | Death |
+| Senses | Darkvision 120 ft. |
 
 ??? race "Powerful Build | —"
 
@@ -339,38 +345,38 @@
 
 ??? race "Relentless Endurance | —"
 
-    *1 use per Long Rest*
+    _1 use per Long Rest_
 
-    Before you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead.
+    Before you are reduced to **0** hit points but not killed outright, you can drop to **1** hit point instead.
 
 ??? race "Orcish Adrenaline | —"
 
-    *Bonus Action*
+    _Bonus Action_
 
-    *Proficiency Bonus uses per Short Rest*
+    _Proficiency Bonus uses per Short Rest_
 
-    You can take the Dash action and gain your Proficiency Bonus as Temporary Hit Points.
+    You can take the Dash Action and gain **[PB]** Temporary Hit Points.
 
 ## Prime
 
 | | |
 |---|---|
-| abilities | Two of Your Choice |
-| creature type | Humanoid |
-| size category | Medium |
-| speed | 30 ft. |
-| reach | 5 ft. |
-| hit points | 8 |
+| Abilities | Two of your choice |
+| Creature Type | Humanoid |
+| Size Category | Medium |
+| Speed | 30 ft. |
+| Reach | 5 ft. |
+| Hit Points | 8 |
 
 ??? race "Resourceful | —"
 
-    *1 use per Long Rest*
+    _1 use per Long Rest_
 
     After you roll a d20, you can roll an additional d20 and choose which d20 to use.
 
 ??? race "Skillful | —"
 
-    You gain proficiency with one skill of your choice.
+    You gain Proficiency in one Skill of your choice.
 
 ??? race "Versatile | —"
 
@@ -380,15 +386,15 @@
 
 | | |
 |---|---|
-| abilities | Constitution and One of Your Choice |
-| creature type | Humanoid and Construct |
-| size category | Medium |
-| speed | 30 ft. |
-| reach | 5 ft. |
-| hit points | 10 |
-| resistances | Poison |
-| protections | Exhausted, Poisoned |
-| immunities | Disease |
+| Abilities | Constitution and one of your choice |
+| Creature Type | Humanoid and Construct |
+| Size Category | Medium |
+| Speed | 30 ft. |
+| Reach | 5 ft. |
+| Hit Points | 10 |
+| Resistances | Poison |
+| Protections | Exhausted, Poisoned |
+| Immunities | Disease |
 
 ??? race "Constructed Nature | —"
 
@@ -398,7 +404,7 @@
 
     You don't need to sleep, and magic can't put you to sleep.
 
-    You can finish a Long Rest in 4 hours if you spend those hours in an inactive, motionless state. You remain conscious.
+    You can finish a Long Rest in **4** hours if you spend those hours in an inactive, motionless state. You remain conscious.
 
 ??? race "Synth Ancestry | —"
 
@@ -406,21 +412,21 @@
 
     ??? ancestry "Reploid Synth"
 
-        Choose another race. You are visually indistinguishable from that race and use its size category, speed, and reach, though you weigh twice as much as the race normally would.
+        Choose another race. You are visually indistinguishable from that race and use its size category, Speed, and reach, though you weigh twice as much as the race normally would.
 
         You gain one of the chosen race's features of your choice.
 
     ??? ancestry "Android Synth"
 
-        You add +1 to Armor Class.
+        You add **+1** to Armor Class.
 
-        You gain proficiency with one skill and one trade of your choice.
+        You gain Proficiency in one Skill and Proficiency with one Trade of your choice.
 
     ??? ancestry "Warforged Synth"
 
-        You add +1 to Armor Class and Damage Reduction.
+        You add **+1** to Armor Class and Damage Reduction.
 
-        Your size is Large and your reach extends by 5 feet.
+        Your size is Large and your reach extends by **5** feet.
 
         Your physical attacks deal double damage to objects and structures.
 
@@ -428,19 +434,19 @@
 
 | | |
 |---|---|
-| abilities | Constitution and One of Your Choice |
-| creature type | Humanoid and Fiend |
-| size category | Medium or Small |
-| speed | 30 ft. |
-| reach | 5 ft. |
-| hit points | 8 |
-| resistances | Determined by Fiendish Ancestry |
-| protections | Charmed |
-| senses | Darkvision 60 ft. |
+| Abilities | Constitution and one of your choice |
+| Creature Type | Humanoid and Fiend |
+| Size Category | Medium or Small |
+| Speed | 30 ft. |
+| Reach | 5 ft. |
+| Hit Points | 8 |
+| Resistances | Determined by Fiendish Ancestry |
+| Protections | Charmed |
+| Senses | Darkvision 60 ft. |
 
 ??? race "Silver-Tongued | —"
 
-    You gain proficiency with one of Deception, Intimidation, or Persuasion.
+    You gain Proficiency in one of Deception, Intimidation, or Persuasion.
 
 ??? race "Fiendish Ancestry | —"
 
@@ -450,7 +456,7 @@
     You learn your ancestry's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Free Casting
-    *1 use each per Long Rest*
+    _1 use each per Long Rest_
 
     You can cast one of this ancestry's spells without a spell slot.
 
@@ -460,9 +466,9 @@
 
         | Level | Spells Known |
         |---|---|
-        | 1st | *Thaumaturgy*, *Poison Spray* |
-        | 3rd | *Ray of Sickness* |
-        | 5th | *Hold Person* |
+        | 1st | _Thaumaturgy_, _Poison Spray_ |
+        | 3rd | _Ray of Sickness_ |
+        | 5th | _Hold Person_ |
 
     ??? ancestry "Chthonic Tiefling"
 
@@ -470,9 +476,9 @@
 
         | Level | Spells Known |
         |---|---|
-        | 1st | *Thaumaturgy*, *Chill Touch* |
-        | 3rd | *False Life* |
-        | 5th | *Ray of Enfeeblement* |
+        | 1st | _Thaumaturgy_, _Chill Touch_ |
+        | 3rd | _False Life_ |
+        | 5th | _Ray of Enfeeblement_ |
 
     ??? ancestry "Infernal Tiefling"
 
@@ -480,6 +486,6 @@
 
         | Level | Spells Known |
         |---|---|
-        | 1st | *Thaumaturgy*, *Fire Bolt* |
-        | 3rd | *Hellish Rebuke* |
-        | 5th | *Darkness* |
+        | 1st | _Thaumaturgy_, _Fire Bolt_ |
+        | 3rd | _Hellish Rebuke_ |
+        | 5th | _Darkness_ |
