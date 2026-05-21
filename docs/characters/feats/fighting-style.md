@@ -8,7 +8,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Blessed Warrior
 
-    You learn two Cleric Cantrips of your choice as Paladin spells. Whenever you level up, you can replace one of these Cantrips with another Cleric Cantrip.
+    You learn **2** Cleric Cantrips of your choice as Paladin spells. Whenever you level up, you can replace one of these Cantrips with another Cleric Cantrip.
 
 ??? feats "Blind Fighting | —"
 
@@ -32,17 +32,23 @@ Fighting styles are specialized martial techniques that set you apart from other
     Your improvised weapons add **+1** to damage rolls.
 
     ###### Disposable
+    _Free Action_
+
     _1 use per Turn_
 
-    Before you deal damage with an improvised weapon, you can maximize the damage dice. After dealing this damage, the weapon breaks if it isn't magical.
+    Before you deal damage with an improvised weapon, you can maximize the damage dice. After you deal this damage, the weapon breaks if it isn't magical.
 
 ??? feats "Charger | —"
 
     #### Charger
 
-    Before you Dash, add **10** feet to your Speed until the end of the turn.
+    _Free Action_
+
+    Before you Dash, until the end of the turn, you can add **+10** feet to your Speed.
 
     ###### Charge
+    _Free Action_
+
     _1 use per Turn_
 
     Before you hit with a melee attack after moving at least **10** feet in a line toward the target, you can use one of these effects:
@@ -60,7 +66,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Druidic Warrior
 
-    You learn two Druid Cantrips of your choice as Ranger spells. Whenever you level up, you can replace one of these Cantrips with another Druid Cantrip.
+    You learn **2** Druid Cantrips of your choice as Ranger spells. Whenever you level up, you can replace one of these Cantrips with another Druid Cantrip.
 
 ??? feats "Dueling | —"
 
@@ -78,7 +84,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Mounted
 
-    While mounted, you add **+1** to you and your mount's Armor Class.
+    While mounted, you and your mount each add **+1** to Armor Class.
 
     ###### Command
     _Bonus Action_
@@ -109,7 +115,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _1 use per Turn_
 
-    Before you roll damage with a weapon, you can roll with Advantage.
+    After you hit with a weapon attack, you can gain Advantage on the damage roll.
 
 ??? feats "Sharpshooting | —"
 
@@ -135,6 +141,8 @@ Fighting styles are specialized martial techniques that set you apart from other
     You can wield a medium shield as a hammer _(it is still a shield and only a weapon while attacking)_.
 
     ###### Shield Bash
+    _Free Action_
+
     _1 use per Turn_
 
     After you attack with a melee weapon, you can use a shield to shove or push the target of the attack.
@@ -201,9 +209,11 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Bow Expert
 
-    Your bows ignore long range penalties.
+    Your bows ignore Long Range penalties.
 
     ###### Speed Shooting
+    _Free Action_
+
     Before you attack with a bow, you can make an additional attack against a second target within **10** feet of the first. If you do, both attacks have Disadvantage.
 
 ??? feats "Crossbow Expert | [Sharpshooting](fighting-style.md#sharpshooting)"
@@ -219,7 +229,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Distance Shooting
 
-    Your ranged weapons ignore long range penalties and Half Cover, and treat Three-Quarters Cover as Half Cover.
+    Your ranged weapons ignore Long Range penalties and Half Cover, and treat Three-Quarters Cover as Half Cover.
 
 ??? feats "Dual Wielding | [Two-Weapon Fighting](fighting-style.md#two-weapon-fighting)"
 
@@ -276,19 +286,21 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
     Your heavy melee weapons add **[PB]** to damage rolls.
 
     ###### Follow Through
+    _Free Action_
+
     _1 use per Turn_
 
-    After you attack with a heavy melee weapon and score a critical hit or reduce the target to **0** hit points, you can make an additional attack using that weapon.
+    After you attack with a heavy melee weapon and score a Critical Hit or reduce the target to **0** hit points, you can make an additional attack using that weapon.
 
 ??? feats "Marking | [Opportunist](fighting-style.md#opportunist)"
 
     #### Marking
 
-    After you hit a creature with a melee attack, until the end of your next turn, the target is marked by you.
+    After you hit a creature with a melee attack, until the end of your next turn, the target is Marked by you.
 
-    You have Advantage on Opportunity Attacks against targets marked by you.
+    You have Advantage on Opportunity Attacks against targets Marked by you.
 
-    You can make Opportunity Attacks against targets marked by you without using a Reaction. You can't make more than one Opportunity Attack per turn.
+    You can make Opportunity Attacks against targets Marked by you without using a Reaction. You can't make more than one Opportunity Attack per turn.
 
 ??? feats "Melee Shooting | [Sharpshooting](fighting-style.md#sharpshooting)"
 
@@ -335,7 +347,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Shield Throwing
 
-    You can attack with a light or medium shield as though it is a Variant Sidearm. _(It is still a shield and is only a weapon while attacking with it.)_ Whenever you throw a shield, you doff it as part of the attack.
+    You can attack with a light or medium shield as though it is a Variant Sidearm. _(It is still a shield and is only a weapon while attacking with it.)_ Throwing a shield doffs it as part of the attack.
 
     ###### Swift Girding
     _Free Action_
@@ -348,7 +360,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Shield Warrior
 
-    You can wield a heavy shield as a variant hammer _(it is still a shield and only a weapon while attacking)_.
+    You can wield a heavy shield as a Variant Hammer _(it is still a shield and only a weapon while attacking)_.
 
     While donning a heavy shield, you add **+1** to Armor Class.
 
@@ -356,7 +368,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Sling Expert
 
-    Your slings double their range and add **+1** to their critical hit range.
+    Your slings double their range and add **+1** to their Critical Hit range.
 
 ??? feats "Variable | [Dueling](fighting-style.md#dueling)"
 

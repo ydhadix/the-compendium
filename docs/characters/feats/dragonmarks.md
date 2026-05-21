@@ -31,7 +31,7 @@
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this feat's spells without a spell slot.
+    You can cast one of this feat's spells without a Spell Slot.
 
     ###### Changing Spells
     Each dragonmark has a class's spell list associated with it.
@@ -51,7 +51,7 @@
     ###### Free Casting
     _1 use per Short Rest_
 
-    You can cast this feat's 1st-level spell without a spell slot.
+    You can cast this feat's 1st-level spell without a Spell Slot.
 
     ###### Changing Spells
     Whenever you level up, you can replace one of this feat's spells with another spell of the same level from the Sorcerer spell list.
@@ -66,7 +66,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     _1 use per Long Rest_
 
-    You can cast one spell you know without a spell slot. The level of the spell you cast increases with your Level.
+    You can cast one spell you know without a Spell Slot. The level of the spell you cast increases with your Level.
 
     | Level | Spell Level |
     |---|---|
@@ -130,7 +130,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     | | |
     |---|---|
-    | **Fail** | For **1** minute, the target is Frightened of you. Whenever the target's turn ends, it repeats this save; on a success, this effect ends. |
+    | **Fail** | For **1** minute, the target is Frightened of you. Before the target's turn ends, it repeats this save; on a success, this effect ends. |
     | **Success** | No effect. |
 
 <!--
@@ -173,10 +173,10 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain the [Greater Mark Spellcasting](dragonmarks.md#greater-mark-spellcasting) feature.
 
     ###### Fleet-Footed
-    You gain a Climb Speed and a Swim Speed equal to your Speed. Your movement is unaffected by difficult terrain.
+    You gain a Climb Speed and a Swim Speed equal to your Speed. Your movement is unaffected by Difficult Terrain.
 
     ###### Slippery
-    You can use **5** feet of movement to automatically escape from nonmagical restraints _(e.g. manacles, chains, or being grappled)_.
+    You can use **5** feet of movement to automatically escape from nonmagical restraints _(e.g. manacles, chains, or being Grappled)_.
 
     ###### Rising Tide
     After an ally enters your reach for the first time on a turn or starts its turn there, until the end of the target's next turn, the target gains the effect of Fleet-Footed and Slippery.
@@ -200,7 +200,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     _Proficiency Bonus uses per Long Rest_
 
-    After you roll a check you don't have Expertise in, if it would fail, you can add **[PB]** to the total.
+    Before you fail a check you don't have Expertise in, you can add **[PB]** to the total.
 
 <!--
 ??? feats "Greater Mark of Sentinels | Noble Dragonmark (Sentinels)"
@@ -244,6 +244,8 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     Your weight is reduced by half, and you gain Immunity to Falling damage.
 
     ###### Tempest Magic
+    _Free Action_
+
     Before or after you cast a spell, you can fly up to **10** feet without provoking Opportunity Attacks.
 
 <!--

@@ -10,7 +10,7 @@ General feats represent a wide range of specialized talents you may have acquire
     While you're disguised as another person, you have Advantage on Deception and Performance checks to convince others you aren't that person.
 
     ###### Mimicry
-    Whenever you speak, you can mimic the sounds of another creature. A creature that can hear you can make an Insight check _(no action required)_ to determine the mimicry is faked.
+    You can mimic the sounds of another creature. A creature that can hear you can make an Insight check _(no action required)_ to determine the mimicry is faked.
 
 ??? feats "Athlete | 2 Strength or Dexterity"
 
@@ -20,7 +20,7 @@ General feats represent a wide range of specialized talents you may have acquire
     You gain a Climb Speed equal to your Speed.
 
     ###### Hop Up
-    Whenever you stand up from Prone, you use only **5** feet of movement and don't provoke Opportunity Attacks.
+    Standing up from Prone only costs **5** feet of movement and doesn't provoke Opportunity Attacks.
 
     ###### Jumping
     You can make a running Long or High Jump without moving.
@@ -43,6 +43,8 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Crusher
 
     ###### Push
+    _Free Action_
+
     After you deal Bludgeoning damage with an attack to a target no more than one size larger than you, you can move the target **5** feet to an unoccupied space.
 
     ###### Enhanced Critical
@@ -58,7 +60,9 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Speedy Recovery
     _Bonus Action_
 
-    You can expend one Hit Die and heal by one roll of the expended die.
+    _1 Hit Die_
+
+    You heal by **[HD]**.
 
 ??? feats "Elemental Adept | —"
 
@@ -67,7 +71,9 @@ General feats represent a wide range of specialized talents you may have acquire
     Choose an Elemental Damage Type.
 
     ###### Energy Mastery
-    After you roll a 1 on a damage die of the chosen Damage Type, you can treat the roll as a **2**.
+    _Free Action_
+
+    Before you roll a **1** on a damage die of the chosen Damage Type, you can treat the roll as a **2**.
 
     ###### Energy Resistance
     You gain Resistance to the chosen damage.
@@ -88,7 +94,7 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this feat's spells without a spell slot.
+    You can cast one of this feat's spells without a Spell Slot.
 
     ###### Changing Spells
     Whenever you level up, you can replace this feat's 1st-level spell with another 1st-level Divination or Enchantment spell.
@@ -141,9 +147,11 @@ General feats represent a wide range of specialized talents you may have acquire
     After you damage a creature, until the end of the turn, the target has Disadvantage on Concentration saves.
 
     ###### Indomitable Will
+    _Free Action_
+
     _1 use per Short Rest_
 
-    After you fail a Will save, you can succeed instead.
+    Before you fail a Will save, you can succeed instead.
 
 ??? feats "Martial Weapon Training | —"
 
@@ -170,7 +178,7 @@ General feats represent a wide range of specialized talents you may have acquire
     Your Speed increases by **10** feet.
 
     ###### Dash over Difficult Terrain
-    Whenever you take the Dash Action, until the end of the turn, Difficult Terrain doesn't cost you extra movement.
+    Before you Dash, until the end of the turn, Difficult Terrain doesn't cost you extra movement.
 
     ###### Agile Movement
     Opportunity Attacks have Disadvantage against you.
@@ -199,12 +207,14 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Piercer
 
     ###### Puncture
+    _Free Action_
+
     _1 use per Turn_
 
-    After you roll damage for an attack that deals Piercing damage, you can reroll one of the damage dice.
+    Before you deal Piercing damage with an attack, you can reroll **1** damage die.
 
     ###### Enhanced Critical
-    After you roll damage for a Critical Hit that deals Piercing damage, you can add one damage die to the total.
+    After you score a Critical Hit that deals Piercing damage, you can add **1** damage die to the damage roll.
 
 ??? feats "Planar Wanderer | —"
 
@@ -216,17 +226,17 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Portal Cracker
     _Magic Action_
 
-    Choose a portal within your reach and make an Arcana check _(DC = **20**)_. On a success, for **1** hour, the portal is forced open or closed. A creature holding the portal's key can take a Magic Action to attempt the same Arcana check to end this effect.
+    Choose a portal within your reach and make an Arcana check _(DC = **20**)_. On a success, for **1** hour, the portal is forced open or closed. A creature holding the portal's key can use a Magic Action to attempt the same Arcana check to end this effect.
 
     A creature who fails an Arcana check against this effect takes **3d8** Psychic damage and can't attempt the check on the same portal again until it finishes a Long Rest.
 
     ###### Portal Sense
-    You learn the _Detect Portal_ spell. You can cast it using Intelligence, Wisdom, or Charisma as your spellcasting ability. Whenever you cast _Detect Portal_ using this feat, it doesn't require Concentration.
+    You learn the _Detect Portal_ spell. You can cast it using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Free Casting
     _1 use per Long Rest_
 
-    You can cast _Detect Portal_ without a spell slot.
+    You can cast _Detect Portal_ without a Spell Slot or Concentration.
 
 ??? feats "Poisoner | —"
 
@@ -251,7 +261,7 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Apply Poison
     _Bonus Action_
 
-    You coat one weapon or up to three pieces of ammunition. Once applied, the poison retains potency for **1** minute or until its damage is dealt, whichever comes first.
+    You coat **1** weapon or up to **3** pieces of ammunition. Once applied, the poison retains potency for **1** minute or until its damage is dealt, whichever comes first.
 
 ??? feats "Resilient | —"
 
@@ -261,9 +271,11 @@ General feats represent a wide range of specialized talents you may have acquire
     You gain Aptitude in Reflex, Fortitude, or Will saves. If you already have Aptitude, you can gain Proficiency instead.
 
     ###### Indomitable
+    _Free Action_
+
     _1 use per Long Rest_
 
-    After you fail a save, you can succeed instead.
+    Before you fail a save, you can succeed instead.
 
 ??? feats "Resourceful | 2 Dexterity"
 
@@ -278,7 +290,7 @@ General feats represent a wide range of specialized talents you may have acquire
     You add **[PB]** to the number of unworn items you have access to in combat.
 
     ###### Steady Stockpile
-    After a Long Rest, you can turn an ammunition container within your reach into a Steady Stockpile. Whenever you attack, your Steady Stockpile never runs out of nonmagical ammunition. Any ammo produced this way is destroyed immediately after the attack.
+    After a Long Rest, you can turn an ammunition container within your reach into a Steady Stockpile. Your Steady Stockpile never runs out of nonmagical ammunition. Any ammo produced this way is destroyed immediately after the attack.
 
 ??? feats "Ritual Caster | 2 Intelligence, Wisdom, or Charisma"
 
@@ -292,7 +304,7 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Quick Ritual
     _1 use per Long Rest_
 
-    You cast a Ritual spell you know without a spell slot using its regular casting time.
+    You can cast a Ritual spell you know without a Spell Slot using its regular casting time.
 
 ??? feats "Scion of Chaos | Chaotic alignment, no Scion Feat"
 
@@ -305,14 +317,14 @@ General feats represent a wide range of specialized talents you may have acquire
     You learn the _Minor Illusion_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your spellcasting ability.
 
     ###### Chaotic Flare
-    After you roll a 1 or a 20 on the d20 for an Attack Roll or Saving Throw, one of the following effects occurs at random, and lasts until the end of your next turn.
+    After you roll a **1** or a **20** on the d20 for an Attack Roll or Saving Throw, one of the following effects occurs at random, and lasts until the end of your next turn.
 
     | d4 | Effect |
     |---|---|
-    | 1 | **Battle Fury** — one creature within **60** feet has Advantage on attack rolls and Disadvantage on ability checks. |
-    | 2 | **Disruption Field** — you deal **1d8** Force damage to everything within a **5**-foot Aura, and everything that enters that area for the first time on a turn. |
-    | 3 | **Unbound** — whenever you move, you can use some or all of your Speed to teleport that distance instead. |
-    | 4 | **Wailing Winds** — you and every creature within a **15**-foot Aura have Disadvantage on Will saves. |
+    | 1 | **Battle Fury** — One creature within **60** feet has Advantage on attack rolls and Disadvantage on ability checks. |
+    | 2 | **Disruption Field** — You deal **1d8** Force damage to everything within a **5**-foot Aura, and everything that enters that area for the first time on a turn. |
+    | 3 | **Unbound** — Before you move, you can use some or all of your Speed to teleport that distance instead. |
+    | 4 | **Wailing Winds** — You and every creature within a **15**-foot Aura have Disadvantage on Will saves. |
 
 ??? feats "Scion of Crossroads | Neutral alignment, no Scion Feat"
 
@@ -330,7 +342,7 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this feat's spells without a spell slot.
+    You can cast one of this feat's spells without a Spell Slot.
 
 ??? feats "Scion of Order | Lawful alignment, no Scion Feat"
 
@@ -398,7 +410,7 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this feat's spells without a spell slot.
+    You can cast one of this feat's spells without a Spell Slot.
 
     ###### Changing Spells
     Whenever you level up, you can replace this feat's 1st-level spell with another 1st-level Illusion or Necromancy spell.
@@ -421,7 +433,7 @@ General feats represent a wide range of specialized talents you may have acquire
     You have Blindsight with a range of **10** feet.
 
     ###### Fog of War
-    You have Advantage on Dexterity _(Stealth)_ checks made as part of the Hide Action during combat.
+    You have Advantage on Stealth checks made as part of the Hide Action during combat.
 
     ###### Sniper
     If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
@@ -431,6 +443,8 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Slasher
 
     ###### Hamstring
+    _Free Action_
+
     _1 use per Turn_
 
     After you hit a creature with an attack that deals Slashing damage, until the start of your next turn, the target's Speed is reduced by **10** feet.
@@ -443,7 +457,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Spellblade
 
     ###### Sword and Spell
-    Whenever you take the Attack Action on your turn, you can cast a Cantrip that has a Casting Time of one Action in place of one of those attacks.
+    Before you Attack on your turn, you can replace **1** of your attacks with casting a Cantrip with a Casting Time under **1** minute.
 
 ??? feats "Spell Sniper | Spellcasting"
 
@@ -456,14 +470,14 @@ General feats represent a wide range of specialized talents you may have acquire
     Being within **5** feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.
 
     ###### Increased Range
-    Whenever you cast a spell that has a range of at least **10** feet and requires you to make an attack roll, you can increase the spell's range by **60** feet.
+    Your attack spells with a Range of at least **10** feet add **+60** feet to their Range.
 
 ??? feats "Telekinetic | —"
 
     #### Telekinetic
 
     ###### Minor Telekinesis
-    You learn the _Mage Hand_ spell. You can cast it using Intelligence, Wisdom, or Charisma as your spellcasting ability, without Verbal or Somatic components. You can make the spectral hand invisible, and its range and the distance it can be away from you both increase by **30** feet.
+    You learn the _Mage Hand_ spell. You can cast it using Intelligence, Wisdom, or Charisma as your spellcasting ability, without Components. You can make the spectral hand invisible, and its Range and the distance it can be away from you both increase by **30** feet.
 
     ###### Telekinetic Shove
     _Bonus Action_
@@ -485,7 +499,7 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Detect Thoughts
     _1 use per Long Rest_
 
-    You always have the _Detect Thoughts_ spell prepared. You can cast it using Intelligence, Wisdom, or Charisma as your spellcasting ability, without a spell slot or spell components. You can also cast it using spell slots you have of the appropriate level.
+    You always have the _Detect Thoughts_ spell prepared. You can cast it using Intelligence, Wisdom, or Charisma as your spellcasting ability, without a Spell Slot or Components. You can also cast it using Spell Slots you have of the appropriate level.
 
 ??? feats "War Magus | Spellcasting"
 
@@ -495,6 +509,8 @@ General feats represent a wide range of specialized talents you may have acquire
     You gain Protection from Concentration saves.
 
     ###### Indomitable Reflex
+    _Free Action_
+
     _1 use per Short Rest_
 
-    After you fail a Reflex save, you can succeed instead.
+    Before you fail a Reflex save, you can succeed instead.

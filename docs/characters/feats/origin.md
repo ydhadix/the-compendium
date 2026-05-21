@@ -47,12 +47,12 @@ Origin feats represent an aspect of your character before they became an adventu
     ###### Battle Medic
     _Utilize Action_
 
-    _1 use of a Healer's Kit_
+    _1 Healer's Kit use_
 
-    You can expend one Hit Die from a creature within reach, roll it, and add **[PB]**. You heal the target by the total.
+    Expend **1** of the target's Hit Dice. You heal the target by **[target's HD + PB]**.
 
     ###### Healing Reroll
-    After you roll a 1 on a die to heal a creature, you can reroll the die.
+    Before you roll a **1** on a die to heal a creature, you can reroll the die.
 
 ??? feats "Lucky | —"
 
@@ -61,10 +61,14 @@ Origin feats represent an aspect of your character before they became an adventu
     _Proficiency Bonus uses per Long Rest_
 
     ###### Advantage
+    _Free Action_
+
     Before you roll a d20, you can gain Advantage on the roll.
 
     ###### Disadvantage
-    Before a creature attacks you, you can impose Disadvantage on the attack roll.
+    _Free Action_
+
+    Before a creature attacks you, you can impose Disadvantage on the roll.
 
 ??? feats "Magic Initiate | —"
 
@@ -78,7 +82,7 @@ Origin feats represent an aspect of your character before they became an adventu
     ###### Free Casting
     _1 use per Long Rest_
 
-    You can cast this feat's 1st-level spell without a spell slot.
+    You can cast this feat's 1st-level spell without a Spell Slot.
 
     ###### Changing Spells
     Whenever you level up, you can replace one of this feat's spells with another spell of the same level from the chosen class's spell list.
@@ -94,14 +98,14 @@ Origin feats represent an aspect of your character before they became an adventu
     You gain Proficiency with **3** Musical Instruments of your choice.
 
     ###### Encouraging Song
-    After a Short Rest, choose up to **[PB]** allies within **60** feet. Those allies gain **1** DM inspiration.
+    After a Short Rest, choose up to **[PB]** allies within **60** feet. Those allies gain **1** DM Inspiration.
 
 ??? feats "Skilled | —"
 
     #### Skilled
 
     ###### Three Proficiencies
-    You gain Proficiency with any three Skills, Trades, or martial weapon categories.
+    You gain Proficiency with any **3** Skills, Trades, or martial weapon categories.
 
     ###### Repeatable
     You can take this feat more than once.

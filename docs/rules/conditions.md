@@ -228,6 +228,10 @@ Your attacks have Advantage.
 
 Attacks against you have Disadvantage.
 
+### Marked
+
+_Has not been written yet._
+
 ### Paralyzed
 
 ##### Incapacitated

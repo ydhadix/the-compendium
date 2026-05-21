@@ -14,7 +14,7 @@ Weapons are the primary means for characters to defend themselves in combat with
 |---|---|---|---|---|---|---|
 | improvised | 1d4 bludgeoning, piercing, or slashing | light | thrown (10/30), versatile (1d6) | - | - | - |
 | sidearm | 1d4 bludgeoning, piercing, or slashing | light | finesse, thrown (20/60) | nick, sap, slow, vex | 1d6 damage, no finesse | 1 gold |
-| stave | 1d6 bludgeoning or piercing | - | thrown (20/60), versatile (1d8) | sap, slow, topple | thrown (30/90), no versatile | 1 gold |
+| staff | 1d6 bludgeoning or piercing | - | thrown (20/60), versatile (1d8) | sap, slow, topple | thrown (30/90), no versatile | 1 gold |
 
 ### Simple Ranged Weapons
 

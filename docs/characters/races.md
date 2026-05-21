@@ -26,7 +26,7 @@
     | Revelation | Effect |
     |---|---|
     | Winged | You have a fly speed equal to your Speed. |
-    | Chosen | You emit bright light to **10** feet and dim light **10** feet further. Whenever your turn ends, you deal **[PB]** Radiant damage to each other creature within a **10**-foot Aura. |
+    | Chosen | You emit bright light to **10** feet and dim light **10** feet further. Before your turn ends, you deal **[PB]** Radiant damage to each other creature within a **10**-foot Aura. |
     | Fallen | Each creature of your choice within **10** feet makes a Will save _(DC = **[8 + CON + PB]**)_.<br>**Fail** — Until this revelation ends, the target is Frightened of you.<br>**Success** — No effect. |
 
 ## Dragonborn
@@ -136,11 +136,11 @@
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this ancestry's spells without a spell slot.
+    You can cast one of this ancestry's spells without a Spell Slot.
 
     ??? ancestry "Dark Elf"
 
-        Your darkvision increases by **60** ft.
+        Your Darkvision increases by **60** feet.
 
         | Level | Spells Known |
         |---|---|
@@ -193,7 +193,7 @@
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this ancestry's spells without a spell slot.
+    You can cast one of this ancestry's spells without a Spell Slot.
 
     | Level | Spells Known |
     |---|---|
@@ -324,7 +324,7 @@
 
 ??? race "Halfling Luck | —"
 
-    After you roll a **1** on a d20, you can reroll the die.
+    Before you roll a **1** on a d20, you can reroll the die.
 
 ## Orc
 
@@ -372,7 +372,7 @@
 
     _1 use per Long Rest_
 
-    After you roll a d20, you can roll an additional d20 and choose which d20 to use.
+    Before you roll a d20, you can roll an additional d20 and choose which d20 to use.
 
 ??? race "Skillful | —"
 
@@ -458,7 +458,7 @@
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this ancestry's spells without a spell slot.
+    You can cast one of this ancestry's spells without a Spell Slot.
 
     ??? ancestry "Abyssal Tiefling"
 
