@@ -104,14 +104,14 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Heavily Armored
 
     ###### Armor Training
-    You gain Proficiency with Heavy armor.
+    You gain Proficiency with Heavy Armor.
 
 ??? feats "Heavy Armor Master | Heavy Armor Proficiency"
 
     #### Heavy Armor Master
 
     ###### Damage Reduction
-    If you're wearing Heavy armor, you add **[PB]** to your armor's Damage Reduction.
+    If you're wearing Heavy Armor, you add **[PB]** to your Armor's Damage Reduction.
 
 ??? feats "Inspiring Leader | 2 Intelligence, Wisdom, or Charisma"
 
@@ -137,7 +137,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Lightly Armored
 
     ###### Armor Training
-    You gain Proficiency with Light armor.
+    You gain Proficiency with Light Armor.
 
 ??? feats "Mage Slayer | —"
 
@@ -165,10 +165,10 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Medium Armor Master
 
     ###### Dexterous Wearer
-    If you're wearing Medium armor, you add **1** to the maximum abilities you can add to your armor's Armor Class and Damage Reduction.
+    If you're wearing Medium Armor, you add **1** to the maximum abilities you can add to your Armor's Armor Class and Damage Reduction.
 
     ###### Subtle Steps
-    You ignore Stealth penalties of Medium armor you wear.
+    You ignore Stealth penalties of Medium Armor you wear.
 
 ??? feats "Mobile | 2 Dexterity or Constitution"
 
@@ -188,7 +188,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Moderately Armored
 
     ###### Armor Training
-    You gain Proficiency with Medium armor.
+    You gain Proficiency with Medium Armor.
 
 ??? feats "Observant | 2 Intelligence or Wisdom"
 

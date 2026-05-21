@@ -38,7 +38,7 @@ Origin feats represent an aspect of your character before they became an adventu
 
     You can create a nonmagical item associated with one of the tool Proficiencies above, provided you have the tools in hand and Proficiency with those tools.
 
-    The crafted item can't be armor, a ranged or martial weapon, or cost more than **25** gold. Items crafted this way have no value to merchants and fall apart after you finish a Long Rest.
+    The crafted item can't be Armor, a ranged or martial weapon, or cost more than **25** gold. Items crafted this way have no value to merchants and fall apart after you finish a Long Rest.
 
 ??? feats "Healer | —"
 

@@ -60,7 +60,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Defensive
 
-    While wearing armor, you add **+1** to Armor Class and Damage Reduction.
+    While wearing Armor, you add **+1** to Armor Class and Damage Reduction.
 
 ??? feats "Druidic Warrior | Ranger"
 
@@ -127,25 +127,25 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Shield Defense
 
-    While you have a shield donned, you can add your shield's Armor Class bonus to your Reflex saves _(masterwork is included in this bonus)_.
+    While you have a Shield donned, you can add your Shield's Armor Class bonus to your Reflex saves _(masterwork is included in this bonus)_.
 
     ###### Cover
     _Reaction_
 
-    Before a creature within reach other than you is hit with an attack or fails a Reflex save, until the end of the turn, you add your shield's Armor Class bonus to the target's Armor Class or Reflex saves.
+    Before a creature within reach other than you is hit with an attack or fails a Reflex save, until the end of the turn, you add your Shield's Armor Class bonus to the target's Armor Class or Reflex saves.
 
 ??? feats "Shield Fighting | —"
 
     #### Shield Fighting
 
-    You can wield a medium shield as a hammer _(it is still a shield and only a weapon while attacking)_.
+    You can wield a Medium Shield as a hammer _(it is still a Shield and only a weapon while attacking)_.
 
     ###### Shield Bash
     _Free Action_
 
     _1 use per Turn_
 
-    After you attack with a melee weapon, you can use a shield to shove or push the target of the attack.
+    After you attack with a melee weapon, you can use a Shield to shove or push the target of the attack.
 
 ??? feats "Striking | —"
 
@@ -198,12 +198,12 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Balanced
 
-    While you have a shield donned, your versatile weapons can use their versatile damage with one hand.
+    While you have a Shield donned, your versatile weapons can use their versatile damage with one hand.
 
     ###### Bash
     _Bonus Action_
 
-    You can use a versatile weapon or shield to shove a creature.
+    You can use a versatile weapon or Shield to shove a creature.
 
 ??? feats "Bow Expert | [Sharpshooting](fighting-style.md#sharpshooting), Bow Proficiency"
 
@@ -347,22 +347,22 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Shield Throwing
 
-    You can attack with a light or medium shield as though it is a Variant Sidearm. _(It is still a shield and is only a weapon while attacking with it.)_ Throwing a shield doffs it as part of the attack.
+    You can attack with a Light or Medium Shield as though it is a Variant Sidearm. _(It is still a Shield and is only a weapon while attacking with it.)_ Throwing a Shield doffs it as part of the attack.
 
     ###### Swift Girding
     _Free Action_
 
     _1 use per Turn_
 
-    You can don or doff a light or medium shield.
+    You can don or doff a Light or Medium Shield.
 
 ??? feats "Shield Warrior | [Shield Defense](fighting-style.md#shield-defense) or [Shield Fighting](fighting-style.md#shield-fighting)"
 
     #### Shield Warrior
 
-    You can wield a heavy shield as a Variant Hammer _(it is still a shield and only a weapon while attacking)_.
+    You can wield a Heavy Shield as a Variant Hammer _(it is still a Shield and only a weapon while attacking)_.
 
-    While donning a heavy shield, you add **+1** to Armor Class.
+    While donning a Heavy Shield, you add **+1** to Armor Class.
 
 ??? feats "Sling Expert | [Sharpshooting](fighting-style.md#sharpshooting)"
 
@@ -374,7 +374,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Variable
 
-    While you are only holding one weapon and not donning a shield, your versatile weapons add **+1** to attack rolls.
+    While you are only holding one weapon and not donning a Shield, your versatile weapons add **+1** to attack rolls.
 
     ###### Fast Hands
     _Bonus Action_
