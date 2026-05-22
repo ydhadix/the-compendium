@@ -1,100 +1,100 @@
 # Equipment Packs
 
-### Burglar's Pack
+??? pack "Burglar's Pack | 16 gold"
 
-**cost**: 16 GP
+    #### Burglar's Pack
 
-- backpack
-- ball bearings
-- bell
-- 10 candles
-- crowbar
-- hooded lantern
-- 7 flasks of oil
-- 5 days of rations
-- rope
-- tinder box
-- waterskin
+    - Backpack
+    - Ball Bearings
+    - Bell
+    - **10** Candles
+    - Crowbar
+    - Hooded Lantern
+    - **7** Flasks of Oil
+    - **5** days of Rations
+    - Rope
+    - Tinderbox
+    - Waterskin
 
-### Diplomat's Pack
+??? pack "Diplomat's Pack | 39 gold"
 
-**cost**: 39 GP
+    #### Diplomat's Pack
 
-- chest
-- fine clothes
-- ink
-- 5 ink pens
-- lamp
-- 2 map or scroll cases
-- 4 flasks of oil
-- 5 sheets of paper
-- 5 sheets of parchment
-- perfume
-- tinder box
+    - Chest
+    - Fine Clothes
+    - Ink
+    - **5** Ink Pens
+    - Lamp
+    - **2** Map or Scroll Cases
+    - **4** Flasks of Oil
+    - **5** sheets of Paper
+    - **5** sheets of Parchment
+    - Perfume
+    - Tinderbox
 
-### Dungeoneer's Pack
+??? pack "Dungeoneer's Pack | 12 gold"
 
-**cost**: 12 GP
+    #### Dungeoneer's Pack
 
-- backpack
-- caltrops
-- crowbar
-- 2 flasks of oil
-- 10 days of rations
-- rope
-- tinder box
-- 10 torches
-- waterskin
+    - Backpack
+    - Caltrops
+    - Crowbar
+    - **2** Flasks of Oil
+    - **10** days of Rations
+    - Rope
+    - Tinderbox
+    - **10** Torches
+    - Waterskin
 
-### Entertainer's Pack
+??? pack "Entertainer's Pack | 40 gold"
 
-**cost**: 40 GP
+    #### Entertainer's Pack
 
-- backpack
-- bedroll
-- bell
-- bullseye lantern
-- 3 costumes
-- mirror
-- 8 flasks of oil
-- 9 days of rations
-- tinder box
-- waterskin
+    - Backpack
+    - Bedroll
+    - Bell
+    - Bullseye Lantern
+    - **3** Costumes
+    - Mirror
+    - **8** Flasks of Oil
+    - **9** days of Rations
+    - Tinderbox
+    - Waterskin
 
-### Explorer's Pack
+??? pack "Explorer's Pack | 10 gold"
 
-**cost**: 10 GP
+    #### Explorer's Pack
 
-- backpack
-- bedroll
-- 2 flasks of oil
-- 10 days of rations
-- rope
-- tinder box
-- 10 torches
-- waterskin
+    - Backpack
+    - Bedroll
+    - **2** Flasks of Oil
+    - **10** days of Rations
+    - Rope
+    - Tinderbox
+    - **10** Torches
+    - Waterskin
 
-### Priest's Pack
+??? pack "Priest's Pack | 19 gold"
 
-**cost**: 19 GP
+    #### Priest's Pack
 
-- backpack
-- blanket
-- holy water
-- lamp
-- 7 days of rations
-- robe
-- tinder box
+    - Backpack
+    - Blanket
+    - Holy Water
+    - Lamp
+    - **7** days of Rations
+    - Robe
+    - Tinderbox
 
-### Scholar's Pack
+??? pack "Scholar's Pack | 40 gold"
 
-**cost**: 40 GP
+    #### Scholar's Pack
 
-- backpack
-- book
-- ink
-- ink pen
-- lamp
-- 10 flasks of oil
-- 10 sheets of parchment
-- tinder box
+    - Backpack
+    - Book
+    - Ink
+    - Ink Pen
+    - Lamp
+    - **10** Flasks of Oil
+    - **10** sheets of Parchment
+    - Tinderbox

@@ -1,181 +1,241 @@
 # Weapons
 
-Weapons are the primary means for characters to defend themselves in combat without relying on magic.
-
 ## Weapons Tables
+
+### Unarmed
 
 | Name | Damage | Weight | Properties | Mastery | Variant | Cost |
 |---|---|---|---|---|---|---|
-| unarmed | 1d4 bludgeoning | - | versatile (1d6) | - | - | - |
+| Unarmed | 1d4 Bludgeoning | - | Versatile (1d6) | - | - | - |
 
 ### Simple Melee Weapons
 
 | Name | Damage | Weight | Properties | Mastery | Variant | Cost |
 |---|---|---|---|---|---|---|
-| improvised | 1d4 bludgeoning, piercing, or slashing | light | thrown (10/30), versatile (1d6) | - | - | - |
-| sidearm | 1d4 bludgeoning, piercing, or slashing | light | finesse, thrown (20/60) | nick, sap, slow, vex | 1d6 damage, no finesse | 1 gold |
-| staff | 1d6 bludgeoning or piercing | - | thrown (20/60), versatile (1d8) | sap, slow, topple | thrown (30/90), no versatile | 1 gold |
+| Improvised | 1d4 Bludgeoning, Piercing, or Slashing | Light | Thrown (10/30), Versatile (1d6) | - | - | - |
+| Sidearm | 1d4 Bludgeoning, Piercing, or Slashing | Light | Finesse, Thrown (20/60) | Nick, Sap, Slow, Vex | 1d6 Damage, no Finesse | 1 gold |
+| Staff | 1d6 Bludgeoning or Piercing | - | Thrown (20/60), Versatile (1d8) | Sap, Slow, Topple | Thrown (30/90), no Versatile | 1 gold |
 
 ### Simple Ranged Weapons
 
 | Name | Damage | Weight | Properties | Mastery | Variant | Cost |
 |---|---|---|---|---|---|---|
-| sling | 1d4 bludgeoning | - | ammunition (40/160) | slow, topple | - | 1 gold |
-| crossbow | 1d6 piercing | light | ammunition (40/160), loading | slow, vex | 1d8 damage, ammunition (80/320), two-handed, no light | 25 gold |
+| Sling | 1d4 Bludgeoning | - | Ammunition (40/160) | Slow, Topple | - | 1 gold |
+| Crossbow | 1d6 Piercing | Light | Ammunition (40/160), Loading | Slow, Vex | 1d8 Damage, Ammunition (80/320), Two-Handed, no Light | 25 gold |
 
 ### Martial Melee Weapons
 
 | Name | Damage | Weight | Properties | Mastery | Variant | Cost |
 |---|---|---|---|---|---|---|
-| foil | 1d6 slashing or piercing | light | finesse | nick, graze, slow, vex | 1d8 damage, no light or nick | 10 gold |
-| blade | 1d8 slashing | - | versatile (1d10) | graze, sap, topple | 1d12 or 2d6 damage, heavy, two-handed, cleave, no versatile | 15 gold |
-| hammer | 1d8 bludgeoning or piercing | - | versatile (1d10) | push, sap, topple | 1d12 or 2d6 damage, heavy, two-handed, cleave, no versatile | 5 gold |
-| polearm | 1d10 slashing or piercing | heavy | two-handed, reach | cleave, graze, push, topple | - | 20 gold |
+| Fence | 1d6 Slashing or Piercing | Light | Finesse | Nick, Graze, Slow, Vex | 1d8 Damage, no Light or Nick | 10 gold |
+| Blade | 1d8 Slashing | - | Versatile (1d10) | Graze, Sap, Topple | 1d12 or 2d6 Damage, Heavy, Two-Handed, Cleave, no Versatile | 15 gold |
+| Hammer | 1d8 Bludgeoning or Piercing | - | Versatile (1d10) | Push, Sap, Topple | 1d12 or 2d6 Damage, Heavy, Two-Handed, Cleave, no Versatile | 5 gold |
+| Polearm | 1d10 Slashing or Piercing | Heavy | Two-Handed, Reach | Cleave, Graze, Push, Topple | - | 20 gold |
 
 ### Martial Ranged Weapons
 
 | Name | Damage | Weight | Properties | Mastery | Variant | Cost |
 |---|---|---|---|---|---|---|
-| bow | 1d8 piercing | - | ammunition (80/320), two-handed | sap, slow, vex | 1d10 damage, ammunition (150/600), heavy, pierce | 25 gold |
-| firearm | 1d10 piercing | - | ammunition (40/160), loading | push, slow, vex | 1d12 or 2d6 damage, ammunition (100/400), two-handed, heavy, pierce | 250 gold |
+| Bow | 1d8 Piercing | - | Ammunition (80/320), Two-Handed | Sap, Slow, Vex | 1d10 Damage, Ammunition (150/600), Heavy, Pierce | 25 gold |
+| Firearm | 1d10 Piercing | - | Ammunition (40/160), Loading | Push, Slow, Vex | 1d12 or 2d6 Damage, Ammunition (100/400), Two-Handed, Heavy, Pierce | 250 gold |
 
-## Weapon Categories
+## Weapon Families
 
-Each weapon belongs to a category that describes its damage, weight, properties, mastery options, and cost.  Weapon categories only describe the broad family of a weapon, though its specific form is up to you.
+Each weapon belongs to a category that describes its damage, weight, properties, Mastery options, and cost. Weapon categories only describe the broad family of a weapon, though its specific form is up to you.
+
+### Variant Weapons
+
+Some weapon categories have variant properties. A variant weapon costs twice as much as its normal version and applies the listed modifications to its statistics.
 
 ### Example Weapons
 
 | Category | Standard Weapon | Variant Weapon |
 |---|---|---|
-| sidearm | club, dagger, dart, sickle | handaxe, light hammer |
-| stave | quarterstaff, mace, spear | javelin, trident |
-| sling | sling | - |
-| crossbow | hand crossbow | light crossbow |
-| fence | scimitar, shortsword | rapier |
-| blade | battleaxe, longsword | greataxe, greatsword |
-| hammer | flail, greatclub, morningstar, warhammer, war pick | maul |
-| polearm | glaive, halberd, lance, pike | - |
-| bow | shortbow | longbow |
-| firearm | pistol | heavy crossbow, musket |
+| Sidearm | Club, Dagger, Dart, Sickle | Handaxe, Light Hammer |
+| Staff | Quarterstaff, Mace, Spear | Javelin, Trident |
+| Sling | Sling | - |
+| Crossbow | Hand Crossbow | Light Crossbow |
+| Fence | Scimitar, Shortsword | Rapier |
+| Blade | Battleaxe, Longsword | Greataxe, Greatsword |
+| Hammer | Flail, Greatclub, Morningstar, Warhammer, War Pick | Maul |
+| Polearm | Glaive, Halberd, Lance, Pike | - |
+| Bow | Shortbow | Longbow |
+| Firearm | Pistol | Heavy Crossbow, Musket |
 
-## Variant Weapons
+## Wielding Weapons
 
-Some weapon categories have variant properties. A variant weapon costs twice as much as its normal version and applies the listed modifications to its statistics.
+### Drawing and Stowing
 
-## Proficiency
+You can draw or stow one weapon before or after you attack. You can draw or stow additional weapons with the Utilize Action.
 
-Whenever you attack with a weapon you are proficient with, you add your proficiency bonus to the attack roll.
+### Proficiency
 
-#### Simple and Martial Weapons
+Attacking with a weapon you have Proficiency with adds **[PB]** to the Attack Roll.
 
-Every weapon is either simple or martial. All adventurers are proficient with simple weapons, which require minimal training to use effectively. Martial weapons have superior damage and a wider variety of properties but require specific training to use.
+### Simple and Martial Weapons
 
-#### Melee and Ranged Weapons
+Every weapon is either Simple or Martial. All adventurers have Proficiency with Simple weapons, which require minimal training to use effectively. Martial weapons have superior damage and a wider variety of properties but require specific training to use.
 
-Every weapon is either melee or ranged. Melee weapons add your Strength to attack and damage rolls, while Ranged weapons add your Dexterity to attack and damage rolls.
+### Melee and Ranged Weapons
 
-#### Improvised Weapons
+Every weapon is either Melee or Ranged. Melee weapons add your Strength to Attack Rolls and Damage Rolls, while Ranged weapons add your Dexterity to Attack Rolls and Damage Rolls.
 
-Improvised weapons are makeshift weapons, or a weapon wielded improperly (such as making a Melee attack with a Ranged weapon). Improvised weapons are Simple Melee weapons.
+### Improvised Weapons
 
-#### Unarmed Strikes
+Improvised weapons are makeshift weapons, or a weapon wielded improperly (such as making a Melee Attack with a Ranged weapon). Improvised weapons are Simple Melee Weapons.
 
-An attack that uses part of the attacker's body, such as a punch or kick, is an Unarmed Strike.  Every creature is proficient with Unarmed Strikes.  Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
+### Unarmed Strikes
 
-###### Damage
+An attack that uses part of the attacker's body, such as a punch or kick, is an Unarmed Strike. Every creature has Proficiency with Unarmed Strikes. Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
 
-You make an attack roll as normal and deal damage on a hit.
+##### Damage
 
-###### Grapple
+You make an Attack Roll against the target.
 
-You make an Athletics check contested by the target's Athletics or Acrobatics check. On a success, you Grapple the target.
+| | |
+|---|---|
+| **Hit** | You deal damage normally. |
 
-###### Shove
+##### Grapple
 
-You make an Athletics check contested by the target's Athletics or Acrobatics check. On a success, you can knock the target Prone or move the target 5 feet.
+You make an Athletics check, contested by the target's Athletics or Acrobatics check.
 
-## Drawing and Stowing
+| | |
+|---|---|
+| **Success** | You Grapple the target. |
 
-Before or after you attack, you can draw or stow one weapon. You can draw or stow additional weapons with the Utilize action.
+##### Shove
 
-## Weight Properties
+You make an Athletics check, contested by the target's Athletics or Acrobatics check.
 
-### Light
+| | |
+|---|---|
+| **Success** | You knock the target Prone or move the target **5** feet. |
 
-Bonus Action, Once per Turn: If you attacked with a Light weapon this turn, then you can attack with a different Light weapon held in a different hand. You don't add your ability to the extra attack's damage, unless it is negative.
+## Properties
 
-### Heavy
+### Weight Properties
 
-You have disadvantage on attacks with heavy weapons unless your strength is 2 or higher.
+??? weapon-property "Light"
 
-## Weapon Properties
+    #### Light
+
+    _Bonus Action_
+
+    After you attack with a Light weapon this Turn, you can attack with a different Light weapon in your other hand. You don't add your ability modifier to the Damage Roll, unless it is negative.
+
+??? weapon-property "Heavy"
+
+    #### Heavy
+
+    You have Disadvantage on Attack Rolls with Heavy weapons unless your Strength is **2** or higher.
+
+### Weapon Properties
 
 Most weapons have properties that determine how they're used beyond dealing damage.
 
-### Ammunition
+??? weapon-property "Ammunition"
 
-You can only make a ranged attack with an ammunition weapon if you have ammunition to fire from it. Each attack expends one piece of ammunition.
+    #### Ammunition
 
-### Finesse
+    You can only make a Ranged Attack with an Ammunition weapon if you have Ammunition to fire from it. Each Attack Roll expends one piece of Ammunition.
 
-When you attack with a finesse weapon, you can use strength or dexterity for the attack.
+??? weapon-property "Finesse"
 
-### Loading
+    #### Finesse
 
-You can only fire one piece of ammunition from a loading weapon when you attack with it, regardless of the number of attacks you can normally make.
+    A Finesse weapon can use Strength or Dexterity for Attack Rolls and Damage Rolls.
 
-### Reach
+??? weapon-property "Loading"
 
-Your reach with a reach weapon is extended by 5 feet.
+    #### Loading
 
-### Thrown
+    A Loading weapon fires only one piece of Ammunition per Attack Action, regardless of how many Attack Rolls you can normally make.
 
-You can make a ranged attack with a thrown weapon using the same ability you would use to make a melee attack.
+??? weapon-property "Reach"
 
-### Two-Handed
+    #### Reach
 
-You can only attack with a two-handed weapon if you use two hands.
+    A Reach weapon extends your Reach by **5** feet.
 
-### Versatile
+??? weapon-property "Thrown"
 
-You can attack with a versatile weapon using one or two hands. When you attack with two hands, use the damage dice shown in parentheses.
+    #### Thrown
 
-## Mastery Properties
+    You can make a Ranged Attack with a Thrown weapon using the same ability modifier you would use for a Melee Attack.
 
-A weapon's mastery property can only be used if you have a feature that specifically allows you to use it. You can only use one mastery property per attack.
+??? weapon-property "Two-Handed"
 
-### Cleave
+    #### Two-Handed
 
-Once per turn, after you hit with a melee attack, you can also attack a second target within 5 feet of the first. You don't add your ability to the extra attack's damage, unless it is negative.
+    Attacking with a Two-Handed weapon requires two hands.
 
-### Graze
+??? weapon-property "Versatile"
 
-After you miss with this weapon, you can deal damage to the target equal to the attack's ability.
+    #### Versatile
 
-### Nick
+    You can attack with a Versatile weapon using one or two hands. Two-handed attacks use the Damage Dice shown in parentheses.
 
-After you use this weapon's Light property, you can make the extra attack as part of the Attack action.
+### Mastery
 
-### Pierce
+A weapon's Mastery property can only be used if you have a feature that specifically allows it. Only one Mastery property can be applied to each Attack Roll.
 
-Once per turn, after you hit with a ranged attack, you can also attack a second target up to 10 feet in a straight line behind the first. You don't add your ability to the extra attack's damage, unless it is negative.
+??? weapon-property "Cleave"
 
-### Push
+    #### Cleave
 
-After you damage a target that is up to one size larger than you, you can move the target up to 10 feet.
+    _1 use per Turn_
 
-### Sap
+    After you hit with a Melee Attack, you can make a Melee Attack against a second target within **5** feet of the first. You don't add your ability modifier to the Damage Roll, unless it is negative.
 
-After you damage a creature, the target has disadvantage on its next attack before your next turn.
+??? weapon-property "Graze"
 
-### Slow
+    #### Graze
 
-After you damage a creature, you can reduce its speed by 10 feet until your next turn. You can't reduce a creature's speed by more than 10 feet this way.
+    After you miss with this weapon, you can deal damage to the target equal to the ability modifier used for the Attack Roll.
 
-### Topple
+??? weapon-property "Nick"
 
-Once per turn, after you damage a target that is up to one size larger than you, you can knock the target Prone.
+    #### Nick
 
-### Vex
+    After you use this weapon's Light property, the extra attack is made as part of the Attack Action instead of requiring a Bonus Action.
 
-After you hit a creature, you have advantage on your next attack against that target before the end of your next turn.
+??? weapon-property "Pierce"
+
+    #### Pierce
+
+    _1 use per Turn_
+
+    After you hit with a Ranged Attack, you can make a Ranged Attack against a second target up to **10** feet in a straight line behind the first. You don't add your ability modifier to the Damage Roll, unless it is negative.
+
+??? weapon-property "Push"
+
+    #### Push
+
+    After you damage a target up to one size larger than you, you can push the target up to **10** feet.
+
+??? weapon-property "Sap"
+
+    #### Sap
+
+    After you damage a creature, until the start of your next Turn, the target has Disadvantage on its next Attack Roll.
+
+??? weapon-property "Slow"
+
+    #### Slow
+
+    After you damage a creature, you can reduce the target's Speed by **10** feet until the start of your next Turn. A creature's Speed can't be reduced by more than **10** feet this way.
+
+??? weapon-property "Topple"
+
+    #### Topple
+
+    _1 use per Turn_
+
+    After you damage a target up to one size larger than you, you can knock the target Prone.
+
+??? weapon-property "Vex"
+
+    #### Vex
+
+    After you hit a creature, until the end of your next Turn, you have Advantage on the next Attack Roll you make against that target.

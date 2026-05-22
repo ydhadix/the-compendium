@@ -20,7 +20,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Brawling
 
-    Your unarmed strikes deal **1d6** Bludgeoning damage and have versatile (**1d8**).
+    Your Unarmed Strikes deal **1d6** Bludgeoning damage and have Versatile (**1d8**).
 
     ###### Pin
     After you succeed on a Grapple against a creature you're already Grappling, until the Grapple ends, the target is also Restrained.
@@ -29,14 +29,14 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Breaking
 
-    Your improvised weapons add **+1** to damage rolls.
+    Your Improvised Weapons add **+1** to Damage Rolls.
 
     ###### Disposable
     _Free Action_
 
     _1 use per Turn_
 
-    Before you deal damage with an improvised weapon, you can maximize the damage dice. After you deal this damage, the weapon breaks if it isn't magical.
+    Before you deal damage with an Improvised Weapon, you can maximize the Damage Dice. After you deal this damage, the weapon breaks if it isn't magical.
 
 ??? feats "Charger | —"
 
@@ -72,13 +72,13 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Dueling
 
-    While you are only holding one weapon, your Melee Attacks with one-handed weapons add **+2** to damage rolls.
+    While you are only holding one weapon, your Melee Attacks with one-handed weapons add **+2** to Damage Rolls.
 
 ??? feats "Great Weapon Fighting | —"
 
     #### Great Weapon Fighting
 
-    Your melee damage with two-handed weapons has a minimum dice roll equal to half the die's maximum _(d4 = **2**, d6 = **3**, d8 = **4**, d10 = **5**, d12 = **6**)_.
+    Your Damage Dice with Two-Handed Melee Weapons have a minimum Dice Roll equal to half the die's maximum _(d4 = **2**, d6 = **3**, d8 = **4**, d10 = **5**, d12 = **6**)_.
 
 ??? feats "Mounted | —"
 
@@ -97,7 +97,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _Opportunity Attack_
 
-    Before a creature moves out of your reach, you can make a Melee Attack against the target.
+    Before a creature moves out of your Reach, you can make a Melee Attack against the target.
 
 ??? feats "Protection | —"
 
@@ -105,7 +105,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _Reaction_
 
-    Before a creature within reach is attacked, until the start of your next Turn, attacks against the target have Disadvantage. This effect ends if the target leaves your reach.
+    Before a creature within Reach is attacked, until the start of your next Turn, attacks against the target have Disadvantage. This effect ends if the target leaves your Reach.
 
 ??? feats "Savage | —"
 
@@ -115,13 +115,13 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _1 use per Turn_
 
-    After you hit with a weapon attack, you can gain Advantage on the damage roll.
+    After you hit with a weapon attack, you can gain Advantage on the Damage Roll.
 
 ??? feats "Sharpshooting | —"
 
     #### Sharpshooting
 
-    Your ranged weapons add **+2** to Attack Rolls.
+    Your Ranged Weapons add **+2** to Attack Rolls.
 
 ??? feats "Shield Defense | —"
 
@@ -132,45 +132,45 @@ Fighting styles are specialized martial techniques that set you apart from other
     ###### Cover
     _Reaction_
 
-    Before a creature within reach other than you is hit with an attack or fails a Reflex save, until the end of the Turn, you add your Shield's Armor Class bonus to the target's Armor Class or Reflex saves.
+    Before a creature within Reach other than you is hit with an attack or fails a Reflex save, until the end of the Turn, you add your Shield's Armor Class bonus to the target's Armor Class or Reflex saves.
 
 ??? feats "Shield Fighting | —"
 
     #### Shield Fighting
 
-    You can wield a Medium Shield as a hammer _(it is still a Shield and only a weapon while attacking)_.
+    You can wield a Medium Shield as a Hammer _(it is still a Shield and only a weapon while attacking)_.
 
     ###### Shield Bash
     _Free Action_
 
     _1 use per Turn_
 
-    After you attack with a melee weapon, you can use a Shield to Shove or Push the target of the attack.
+    After you attack with a melee weapon, you can use a Shield to Shove the target of the attack.
 
 ??? feats "Striking | —"
 
     #### Striking
 
-    Your unarmed strikes deal **1d6** Bludgeoning damage and have finesse.
+    Your Unarmed Strikes deal **1d6** Bludgeoning damage and have Finesse.
 
-    You can use your Dexterity to make Grapple, Shove, and Push checks.
+    You can use your Dexterity to make Grapple and Shove checks.
 
 ??? feats "Throwing | —"
 
     #### Throwing
 
-    Your non-light, non-heavy thrown weapons add **+2** to damage rolls.
+    Your non-Light, non-Heavy Thrown weapons add **+2** to Damage Rolls.
 
-    Your thrown weapons double their range.
+    Your Thrown weapons double their Range.
 
     ###### Returning
-    After you make a ranged attack with a light thrown weapon, it returns to your free hand.
+    After you make a Ranged Attack with a Light Thrown Weapon, it returns to your free hand.
 
 ??? feats "Two-Weapon Fighting | —"
 
     #### Two-Weapon Fighting
 
-    Your attacks using a weapon's light property add the attack's ability to damage rolls.
+    Your attacks using a weapon's Light property add the attack's ability to Damage Rolls.
 
 ??? feats "Weapon Mastery | —"
 
@@ -185,10 +185,10 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Weapon Training
 
-    You gain Proficiency with one type of martial weapon.
+    You gain Proficiency with one family of Martial Weapons.
 
     ###### Repeatable
-    You can take this feat more than once, but you must choose a different martial weapon each time.
+    You can take this feat more than once, but you must choose a different family each time.
 
 ## Advanced Fighting Styles
 
@@ -198,38 +198,38 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Balanced
 
-    While you have a Shield donned, your versatile weapons can use their versatile damage with one hand.
+    While you have a Shield donned, your Versatile weapons can deal their two-handed damage with one hand.
 
     ###### Bash
     _Bonus Action_
 
-    You can use a versatile weapon or Shield to Shove a creature.
+    You can use a Versatile weapon or Shield to Shove a creature.
 
 ??? feats "Bow Expert | [Sharpshooting](fighting-style.md#sharpshooting), Bow Proficiency"
 
     #### Bow Expert
 
-    Your bows ignore Long Range penalties.
+    Your Bows ignore Long Range penalties.
 
     ###### Speed Shooting
     _Free Action_
 
-    Before you attack with a bow, you can make an additional attack against a second target within **10** feet of the first. If you do, both attacks have Disadvantage.
+    Before you attack with a Bow, you can make an additional attack against a second target within **10** feet of the first. If you do, both attacks have Disadvantage.
 
 ??? feats "Crossbow Expert | [Sharpshooting](fighting-style.md#sharpshooting)"
 
     #### Crossbow Expert
 
-    Your crossbows ignore the loading property and enemy reach penalties.
+    Your Crossbows ignore the Loading property and enemy Reach penalties.
 
     ###### Penetrating Shots
-    Your crossbows ignore physical Resistance and Damage Reduction.
+    Your Crossbows ignore Physical Resistance and Damage Reduction.
 
 ??? feats "Distance Shooting | [Sharpshooting](fighting-style.md#sharpshooting)"
 
     #### Distance Shooting
 
-    Your ranged weapons ignore Long Range penalties and Half Cover, and treat Three-Quarters Cover as Half Cover.
+    Your Ranged Weapons ignore Long Range penalties and Half Cover, and treat Three-Quarters Cover as Half Cover.
 
 ??? feats "Dual Wielding | [Two-Weapon Fighting](fighting-style.md#two-weapon-fighting)"
 
@@ -238,31 +238,31 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
     While holding two weapons, you add **+1** to your Armor Class.
 
     ###### Balance
-    Your one-handed weapons have the light and nick properties.
+    Your one-handed weapons have the Light and Nick properties.
 
 ??? feats "Fencing | [Dueling](fighting-style.md#dueling)"
 
     #### Fencing
 
-    While holding a finesse weapon and no other weapons, you add **+1** to your Armor Class.
+    While holding a Finesse Weapon and no other weapons, you add **+1** to your Armor Class.
 
     ###### Riposte
     _Reaction_
 
-    Before you are hit with an attack, you can use a finesse weapon to add your Dexterity to your Armor Class. If that attack misses, you can attack the attacker using that weapon.
+    Before you are hit with an attack, you can use a Finesse Weapon to add your Dexterity to your Armor Class. If that attack misses, you can attack the attacker using that weapon.
 
 ??? feats "Firearm Expert | [Sharpshooting](fighting-style.md#sharpshooting), Firearm Proficiency"
 
     #### Firearm Expert
 
-    Your firearms ignore the loading property.
+    Your Firearms ignore the Loading property.
 
-    Your ranged damage with firearms has a minimum dice roll equal to half the die's maximum _(d4 = **2**, d6 = **3**, d8 = **4**, d10 = **5**, d12 = **6**)_.
+    Your Damage Dice with Firearms have a minimum Dice Roll equal to half the die's maximum _(d4 = **2**, d6 = **3**, d8 = **4**, d10 = **5**, d12 = **6**)_.
 
     ###### Quick Draw
     _Reaction_
 
-    After you roll Initiative, you can attack using a firearm.
+    After you roll Initiative, you can attack using a Firearm.
 
 ??? feats "Grappling | [Brawling](fighting-style.md#brawling) or [Striking](fighting-style.md#striking)"
 
@@ -277,20 +277,20 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     _1 use per Turn_
 
-    After you attack using an unarmed strike, you can Grapple the target of the attack.
+    After you attack using an Unarmed Strike, you can Grapple the target of the attack.
 
 ??? feats "Great Weapon Expert | [Great Weapon Fighting](fighting-style.md#great-weapon-fighting)"
 
     #### Great Weapon Expert
 
-    Your heavy melee weapons add **[PB]** to damage rolls.
+    Your Heavy Melee Weapons add **[PB]** to Damage Rolls.
 
     ###### Follow Through
     _Free Action_
 
     _1 use per Turn_
 
-    After you attack with a heavy melee weapon and score a Critical Hit or reduce the target to **0** hit points, you can make an additional attack using that weapon.
+    After you attack with a Heavy Melee Weapon and score a Critical Hit or reduce the target to **0** Hit Points, you can make an additional attack using that weapon.
 
 ??? feats "Marking | [Opportunist](fighting-style.md#opportunist)"
 
@@ -306,7 +306,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Melee Shooting
 
-    Your ranged weapons ignore enemy reach penalties and add **+2** to damage rolls against targets within your reach.
+    Your Ranged Weapons ignore enemy Reach penalties and add **+2** to Damage Rolls against targets within your Reach.
 
 ??? feats "Mounted Expert | [Mounted](fighting-style.md#mounted)"
 
@@ -325,12 +325,12 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     _Bonus Action_
 
-    After you attack with a stave or polearm, you can make an additional attack using that weapon. This attack's damage die is **1d4** Bludgeoning.
+    After you attack with a Staff or Polearm, you can make an additional attack using that weapon. This attack's Damage Die is **1d4** Bludgeoning.
 
     ###### Set
     _Opportunity Attack_
 
-    Before a creature enters or moves within your reach with a stave or polearm, you can use that weapon to attack the target.
+    Before a creature enters or moves within your Reach with a Staff or Polearm, you can use that weapon to attack the target.
 
 ??? feats "Sentinel | [Opportunist](fighting-style.md#opportunist)"
 
@@ -341,7 +341,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
     ###### Punish
     _Opportunity Attack_
 
-    Before a creature within reach attacks anything other than you, you can make a Melee Attack against the attacker.
+    Before a creature within Reach attacks anything other than you, you can make a Melee Attack against the attacker.
 
 ??? feats "Shield Throwing | [Shield Defense](fighting-style.md#shield-defense) or [Shield Fighting](fighting-style.md#shield-fighting)"
 
@@ -368,13 +368,13 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Sling Expert
 
-    Your slings double their range and add **+1** to their Critical Hit range.
+    Your Slings double their Range and add **+1** to their Critical Hit Range.
 
 ??? feats "Variable | [Dueling](fighting-style.md#dueling)"
 
     #### Variable
 
-    While you are only holding one weapon and not donning a Shield, your versatile weapons add **+1** to Attack Rolls.
+    While you are only holding one weapon and not donning a Shield, your Versatile weapons add **+1** to Attack Rolls.
 
     ###### Fast Hands
     _Bonus Action_

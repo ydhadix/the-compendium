@@ -77,7 +77,7 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Energy Mastery
     _Free Action_
 
-    Before you roll a **1** on a damage die of the chosen Damage Type, you can treat the roll as a **2**.
+    Before you roll a **1** on a Damage Die of the chosen Damage Type, you can treat the roll as a **2**.
 
     ###### Energy Resistance
     You gain Resistance to the chosen damage.
@@ -215,10 +215,10 @@ General feats represent a wide range of specialized talents you may have acquire
 
     _1 use per Turn_
 
-    Before you deal Piercing damage with an attack, you can reroll **1** damage die.
+    Before you deal Piercing damage with an attack, you can reroll **1** Damage Die.
 
     ###### Enhanced Critical
-    After you score a Critical Hit that deals Piercing damage, you can add **1** damage die to the damage roll.
+    After you score a Critical Hit that deals Piercing damage, you can add **1** Damage Die to the Damage Roll.
 
 ??? feats "Planar Wanderer | —"
 

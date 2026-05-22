@@ -1,12 +1,14 @@
 # Armor
 
-## Unarmored
+## Armor Tables
+
+### Unarmored
 
 | Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
 |---|---|---|---|---|---|---|
 | Unarmored | 8 + DEX + PB | - | - | - | - | - |
 
-## Light Armor
+### Light Armor
 
 | Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
 |---|---|---|---|---|---|---|
@@ -14,7 +16,7 @@
 | Leather | 10 + DEX + PB | - | 6 | - | - | 45 gold |
 | Light Shield | +0 | - | - | - | - | 5 gold |
 
-## Medium Armor
+### Medium Armor
 
 | Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
 |---|---|---|---|---|---|---|
@@ -24,7 +26,7 @@
 | Half Plate | 14 + DEX (max 2) + PB | - | STR (max 2) | 4 | Disadvantage | 750 gold |
 | Medium Shield | +2 | - | - | - | - | 10 gold |
 
-## Heavy Armor
+### Heavy Armor
 
 | Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
 |---|---|---|---|---|---|---|
@@ -33,17 +35,19 @@
 | Full Plate | 17 + PB | 3 | STR (max 3) | 2 | Disadvantage | 1500 gold |
 | Heavy Shield | +2 | 2 | - | - | - | 50 gold |
 
-## Upgrading Armor
+## Armor Families
 
-There are three families of medium and heavy armor: Chain, Scale, and Plate. A set of armor can be upgraded to another armor in the same family by spending gold equal to the difference in their costs, purchasing only the parts of the armor that are missing.
-
-### Armor Families
+There are three families of medium and heavy armor: Chain, Scale, and Plate.
 
 | Family | Light | Medium | Heavy |
 |---|---|---|---|
 | Chain | Padded | Chain Shirt | Heavy Chain |
 | Scale | Padded | Scale Mail | Heavy Scale |
 | Plate | Padded | Breastplate, Half Plate | Full Plate |
+
+### Upgrading Armor
+
+A set of armor can be upgraded to another armor in the same family by spending gold equal to the difference in their costs, purchasing only the parts of the armor that are missing.
 
 ## Wearing Armor
 

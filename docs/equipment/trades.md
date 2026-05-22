@@ -1,336 +1,224 @@
 # Trades
 
-Trade tools represent specialized knowledge in a craft, game, or art form. Proficiency with a trade tool lets you add your proficiency bonus to relevant ability checks.
+Trade tools represent specialized knowledge in a craft, game, or art form. Proficiency with a trade tool lets you add your Proficiency Bonus to relevant Ability Checks.
 
 ## Gaming Sets
 
-Gaming sets are typically used for entertainment or gambling, and come in many shapes, sizes, and variations.
+Gaming Sets are typically used for entertainment or gambling, and come in many shapes, sizes, and variations.
 
-**Ability**: intelligence
+| | |
+|---|---|
+| **Ability** | Intelligence |
+| **Applications** | Discern whether someone is cheating |
 
-**Applications**: discern whether someone is cheating
-
-**Common Variants**
-
-- dice (1 silver)
-- dragonchess (1 gold)
-- playing cards (5 silvers)
-- three-dragon ante (1 gold)
+| Variant | Cost |
+|---|---|
+| Dice | 1 silver |
+| Dragonchess | 1 gold |
+| Playing Cards | 5 silver |
+| Three-Dragon Ante | 1 gold |
 
 ## Musical Instruments
 
-Musical instruments are often used as part of a performance, and come in many shapes, sizes, and variations.
+Musical Instruments are often used as part of a performance, and come in many shapes, sizes, and variations.
 
-**Ability**: charisma
+| | |
+|---|---|
+| **Ability** | Charisma |
+| **Applications** | Play a tune |
 
-**Applications**: play a tune
-
-**Common Variants**
-
-- bagpipes (30 gold)
-- drum (6 gold)
-- dulcimer (25 gold)
-- flute (2 gold)
-- horn (3 gold)
-- lute (35 gold)
-- pan flute (12 gold)
-- shawm (2 gold)
-- viol (30 gold)
+| Variant | Cost |
+|---|---|
+| Bagpipes | 30 gold |
+| Drum | 6 gold |
+| Dulcimer | 25 gold |
+| Flute | 2 gold |
+| Horn | 3 gold |
+| Lute | 35 gold |
+| Pan Flute | 12 gold |
+| Shawm | 2 gold |
+| Viol | 30 gold |
 
 ## Artisan's Tools
 
-Artisan's tools are typically used to craft items or practice a profession.
+Artisan's Tools are typically used to craft items or practice a profession.
 
-### Alchemist's Supplies
+??? trade "Alchemist's Supplies | 50 gold"
 
-**cost**: 50 GP
+    #### Alchemist's Supplies
 
-**ability**: intelligence
+    | | |
+    |---|---|
+    | **Ability** | Intelligence |
+    | **Applications** | Identify a substance |
+    | **Crafting** | Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume |
 
-**applications**: identify a substance
+??? trade "Brewer's Supplies | 20 gold"
 
-**Crafting**
+    #### Brewer's Supplies
 
-- acid
-- alchemist's fire
-- component pouch
-- oil
-- paper
-- perfume
+    | | |
+    |---|---|
+    | **Ability** | Wisdom |
+    | **Applications** | Detect poisoned drink |
+    | **Crafting** | Antitoxin |
 
-### Brewer's Supplies
+??? trade "Calligrapher's Supplies | 10 gold"
 
-**cost**: 20 GP
+    #### Calligrapher's Supplies
 
-**ability**: wisdom
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Write forgery resistant text |
+    | **Crafting** | Ink, Spell Scrolls |
 
-**applications**: detect poisoned drink
+??? trade "Carpenter's Tools | 8 gold"
 
-**Crafting**
+    #### Carpenter's Tools
 
-- antitoxin
+    | | |
+    |---|---|
+    | **Ability** | Strength |
+    | **Applications** | Seal or pry open a door or container |
+    | **Crafting** | Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch |
 
-### Calligrapher's Supplies
+??? trade "Cartographer's Tools | 15 gold"
 
-**cost**: 10 GP
+    #### Cartographer's Tools
 
-**ability**: dexterity
+    | | |
+    |---|---|
+    | **Ability** | Intelligence |
+    | **Applications** | Draft a map of a small area |
+    | **Crafting** | Map |
 
-**applications**: write forgery resistant text
+??? trade "Cobbler's Tools | 5 gold"
 
-**Crafting**
+    #### Cobbler's Tools
 
-- ink
-- spell scrolls
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Repair footwear |
+    | **Crafting** | Climber's Kit |
 
-### Carpenter's Tools
+??? trade "Cook's Utensils | 1 gold"
 
-**cost**: 8 GP
+    #### Cook's Utensils
 
-**ability**: strength
+    | | |
+    |---|---|
+    | **Ability** | Wisdom |
+    | **Applications** | Improve food's flavor |
+    | **Crafting** | Rations |
 
-**applications**: seal or pry open a door or container
+??? trade "Glassblower's Tools | 30 gold"
 
-**Crafting**
+    #### Glassblower's Tools
 
-- club
-- greatclub
-- quarterstaff
-- barrel
-- chest
-- ladder
-- pole
-- portable ram
-- torch
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Discern a glass container's contents |
+    | **Crafting** | Glass Bottle, Magnifying Glass, Spyglass, Vial |
 
-### Cartographer's Tools
+??? trade "Herbalism Kit | 5 gold"
 
-**cost**: 15 GP
+    #### Herbalism Kit
 
-**ability**: intelligence
+    | | |
+    |---|---|
+    | **Ability** | Intelligence |
+    | **Applications** | Identify a plant |
+    | **Crafting** | Antitoxin, Basic Poison, Candle, Healer's Kit, Potion of Healing |
 
-**applications**: draft a map of a small area
+??? trade "Jeweler's Tools | 25 gold"
 
-**Crafting**
+    #### Jeweler's Tools
 
-- map
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Discern a gem's value |
+    | **Crafting** | Arcane Focus, Holy Symbol |
 
-### Cobbler's Tools
+??? trade "Leatherworker's Tools | 5 gold"
 
-**cost**: 5 GP
+    #### Leatherworker's Tools
 
-**ability**: dexterity
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Add a design to a leather item |
+    | **Crafting** | Sling, Whip, Leather Armor, Backpack, Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin |
 
-**applications**: repair footwear
+??? trade "Mason's Tools | 10 gold"
 
-**Crafting**
+    #### Mason's Tools
 
-- climber's kit
+    | | |
+    |---|---|
+    | **Ability** | Strength |
+    | **Applications** | Chisel a symbol or hole in stone |
+    | **Crafting** | Block and Tackle |
 
-### Cook's Utensils
+??? trade "Painter's Supplies | 10 gold"
 
-**cost**: 1 GP
+    #### Painter's Supplies
 
-**ability**: wisdom
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Paint a recognizable image |
+    | **Crafting** | Druidic Focus, Holy Symbol |
 
-**applications**: improve food's flavor
+??? trade "Potter's Tools | 10 gold"
 
-**Crafting**
+    #### Potter's Tools
 
-- rations
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Discern a ceramic container's contents |
+    | **Crafting** | Jug, Lamp |
 
-### Glassblower's Tools
+??? trade "Smith's Tools | 20 gold"
 
-**cost**: 30 GP
+    #### Smith's Tools
 
-**ability**: dexterity
+    | | |
+    |---|---|
+    | **Ability** | Strength |
+    | **Applications** | Pry open a door or container |
+    | **Crafting** | Any metal Melee Weapon, Any Medium or Heavy Armor, Ball Bearings, Bucket, Bullets, Caltrops, Chain, Crowbar, Grappling Hook, Iron Pot, Iron Spikes, Sling Stone |
 
-**applications**: discern a glass container's contents
+??? trade "Tinker's Tools | 50 gold"
 
-**Crafting**
+    #### Tinker's Tools
 
-- glass bottle
-- magnifying glass
-- spyglass
-- vial
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Assemble a tiny item made of scrap |
+    | **Crafting** | Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Lockpick, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox |
 
-### Herbalism Kit
+??? trade "Weaver's Tools | 1 gold"
 
-**cost**: 5 GP
+    #### Weaver's Tools
 
-**ability**: intelligence
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Mend torn clothing |
+    | **Crafting** | Padded Armor, Basket, Bedroll, Blanket, Costume, Fine Clothes, Robe, Net, Rope, Sack, String, Tent, Traveler's Clothes |
 
-**applications**: identify a plant
+??? trade "Woodcarver's Tools | 1 gold"
 
-**Crafting**
+    #### Woodcarver's Tools
 
-- antitoxin
-- basic poison
-- candle
-- healer's kit
-- potion of healing
-
-### Jeweler's Tools
-
-**cost**: 25 GP
-
-**ability**: dexterity
-
-**applications**: discern a gem's value
-
-**Crafting**
-
-- arcane focus
-- holy symbol
-
-### Leatherworker's Tools
-
-**cost**: 5 GP
-
-**ability**: dexterity
-
-**applications**: add a design to a leather item
-
-**Crafting**
-
-- sling
-- whip
-- leather armor
-- backpack
-- crossbow bolt case
-- map or scroll case
-- parchment
-- pouch
-- quiver
-- waterskin
-
-### Mason's Tools
-
-**cost**: 10 GP
-
-**ability**: strength
-
-**applications**: chisel a symbol or hole in stone
-
-**Crafting**
-
-- block and tackle
-
-### Painter's Supplies
-
-**cost**: 10 GP
-
-**ability**: dexterity
-
-**applications**: paint a recognizable image
-
-**Crafting**
-
-- druidic focus
-- holy symbol
-
-### Potter's Tools
-
-**cost**: 10 GP
-
-**ability**: dexterity
-
-**applications**: discern a ceramic container's contents
-
-**Crafting**
-
-- jug
-- lamp
-
-### Smith's Tools
-
-**cost**: 20 GP
-
-**ability**: strength
-
-**applications**: pry open a door or container
-
-**Crafting**
-
-- any metal melee weapon
-- any medium or heavy armor
-- ball bearings
-- bucket
-- bullets
-- caltrops
-- chain
-- crowbar
-- grappling hook
-- iron pot
-- iron spikes
-- slingstone
-
-### Tinker's Tools
-
-**cost**: 50 GP
-
-**ability**: dexterity
-
-**applications**: assemble a tiny item made of scrap
-
-**Crafting**
-
-- musket
-- pistol
-- bell
-- bullseye lantern
-- flask
-- hooded lantern
-- hunting trap
-- lock
-- lockpick
-- manacles
-- mirror
-- shovel
-- signal whistle
-- tinder box
-
-### Weaver's Tools
-
-**cost**: 1 GP
-
-**ability**: dexterity
-
-**applications**: mend torn clothing
-
-**Crafting**
-
-- padded armor
-- basket
-- bedroll
-- blanket
-- costume
-- fine clothes
-- robe
-- net
-- rope
-- sack
-- string
-- tent
-- traveler's clothes
-
-### Woodcarver's Tools
-
-**cost**: 1 GP
-
-**ability**: dexterity
-
-**applications**: carve a pattern in wood
-
-**Crafting**
-
-- any ranged weapon (except pistol, musket, and sling)
-- club
-- greatclub
-- quarterstaff
-- arrows
-- bolts
-- needles
-- arcane focus
-- druidic focus
-- ink pen
+    | | |
+    |---|---|
+    | **Ability** | Dexterity |
+    | **Applications** | Carve a pattern in wood |
+    | **Crafting** | Any Ranged Weapon (except Pistol, Musket, and Sling), Club, Greatclub, Quarterstaff, Arrows, Bolts, Needles, Arcane Focus, Druidic Focus, Ink Pen |
