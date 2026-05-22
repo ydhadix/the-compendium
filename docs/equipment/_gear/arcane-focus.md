@@ -1,0 +1,14 @@
+??? item "Arcane Focus | Varies"
+
+    #### Arcane Focus
+
+    A Sorcerer, Warlock, or Wizard can use an Arcane Focus as a Spellcasting Focus.
+
+    | Focus | Cost |
+    |---|---|
+    | Crystal | 10 gold |
+    | Orb | 20 gold |
+    | Rod | 10 gold |
+    | Staff | 5 gold |
+    | Wand | 10 gold |
+
