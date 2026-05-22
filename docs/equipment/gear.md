@@ -1,572 +1,797 @@
 # Adventuring Gear
 
-### Acid
+## Combat
 
-**cost**: 25 GP
+??? item "Acid | 25 gold"
 
-Acid comes in a Vial.
+    #### Acid
 
-A Vial filled with Acid can be wielded as a Simple Melee Weapon with Thrown (20/60 feet) that deals 2d6 Acid damage.  After the Vial is used to attack, the Acid is consumed.  After being thrown, the Vial is destroyed.
+    Acid comes in a Vial.
 
-### Alchemist’s Fire
+    A Vial filled with Acid can be wielded as a Simple Melee Weapon with Thrown (**20**/**60** feet).
 
-**cost**: 50 GP
+    | | |
+    |---|---|
+    | **Hit** | You deal **2d6** Acid damage. |
 
-Alchemist’s Fire comes in a Vial.
+    After the attack, the Acid is consumed and the Vial is destroyed.
 
-A Vial filled with Alchemist’s Fire can be wielded as a Simple Melee Weapon with Thrown (20/60 feet) that deals 1d4 Fire damage.  A target damaged by this weapon starts Burning (1d4).  After the Vial is used to attack, the Alchemist’s Fire is consumed.  After being thrown, the Vial is destroyed.
+??? item "Alchemist's Fire | 50 gold"
 
-### Ammunition
+    #### Alchemist's Fire
 
-**cost**: varies
+    Alchemist's Fire comes in a Vial.
 
-Weapons with the Ammunition property require ammunition to make an attack and specify which type in their description.  Each type requires different storage, which must be bought separately.
+    A Vial filled with Alchemist's Fire can be wielded as a Simple Melee Weapon with Thrown (**20**/**60** feet).
 
-| Type | Weapon | Storage | qty. | Cost |
-|---|---|---|---|---|
-| arrow | bow | quiver | 20 | 1 gold |
-| bolt | crossbow | case | 20 | 1 gold |
-| bullet | firearm | pouch | 10 | 3 gold |
-| sling stone | sling | pouch | 20 | 4 copper |
+    | | |
+    |---|---|
+    | **Hit** | You deal **1d4** Fire damage. The target starts Burning (**1d4**). |
 
-### Antitoxin
+    After the attack, the Alchemist's Fire is consumed and the Vial is destroyed.
 
-**cost**: 50 GP
+??? item "Ammunition | Varies"
 
-Antitoxin comes in a Vial.
+    #### Ammunition
 
-Bonus Action: A creature in your Reach consumes the Antitoxin, gaining a +5 bonus on saves to resist the Poisoned condition for 1 hour.
+    Weapons with the Ammunition property require ammunition to make an attack and specify which type in their description. Each type requires different storage, which must be bought separately.
 
-### Arcane Focus
+    | Type | Weapon | Storage | Qty. | Cost |
+    |---|---|---|---|---|
+    | Arrow | Bow | Quiver | 20 | 1 gold |
+    | Bolt | Crossbow | Bolt Case | 20 | 1 gold |
+    | Bullet | Firearm | Pouch | 10 | 3 gold |
+    | Sling Stone | Sling | Pouch | 20 | 4 copper |
 
-**cost**: varies
+??? item "Ball Bearings | 1 gold"
 
-An Arcane Focus is carved or bejeweled to channel arcane magic.  A Sorcerer, Warlock, or Wizard can use an Arcane Focus as a Spellcasting Focus.
+    #### Ball Bearings
 
-| Focus | Cost |
-|---|---|
-| crystal | 10 gold |
-| orb | 20 gold |
-| staff | 5 gold |
-| rod | 10 gold |
-| wand | 10 gold |
+    ###### Scatter
+    _Utilize Action_
 
-### Backpack
+    You can spill the Ball Bearings from a Pouch, covering a level, **10**-foot Square area within **10** feet.
 
-**cost**: 2 GP
+    After a creature enters this area, the creature makes a Reflex save _(DC = **10**)_.
 
-A Backpack holds up to 30 pounds within 1 cubic foot.
+    | | |
+    |---|---|
+    | **Fail** | The target is knocked Prone. |
+    | **Success** | No effect. |
 
-### Ball Bearings
+    It takes **10** minutes to recover spilled Ball Bearings.
 
-**cost**: 1 GP
+??? item "Basic Poison | 100 gold"
 
-Utilize Action: You spill the Ball Bearings from a Pouch, covering a level, 10-foot Square area within 10 feet.
+    #### Basic Poison
 
-When a creature enters this area, it must make a DC 10 Reflex save.  On a failed save, the creature is knocked Prone.
+    Basic Poison comes in a Vial.
 
-It takes 10 minutes to recover spilled Ball Bearings.
+    ###### Venom
+    A weapon coated in Basic Poison adds **1d4** Poison damage to any Piercing or Slashing damage it deals.
 
-### Barrel
+    ###### Coat Weapon
+    _Bonus Action_
 
-**cost**: 2 GP
+    You can coat one weapon or up to **3** pieces of ammunition. Once applied, the poison retains potency for **1** minute or until its damage is dealt, whichever comes first.
 
-A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.
+??? item "Caltrops | 1 gold"
 
-### Basket
+    #### Caltrops
 
-**cost**: 4 SP
+    ###### Scatter
+    _Utilize Action_
 
-A Basket holds up to 40 pounds within 2 cubic feet.
+    You can spread the Caltrops from a Pouch, covering a level, **5**-foot Square area within **5** feet.
 
-### Bedroll
+    After a creature enters this area, the creature makes a Reflex save _(DC = **15**)_.
 
-**cost**: 1 GP
+    | | |
+    |---|---|
+    | **Fail** | You deal **1** Piercing damage to the target. Until the start of the target's next Turn, the target is Immobile. |
+    | **Success** | No effect. |
 
-A Bedroll sleeps one Small or Medium creature.  While in a Bedroll, you automatically succeed on saves against Extreme Cold.
+    It takes **10** minutes to recover spread Caltrops.
 
-### Bell
+??? item "Bolt Case | 1 gold"
 
-**cost**: 1 GP
+    #### Bolt Case
 
-Utilize Action: You ring the bell, producing a sound audible up to 60 feet away.
+    A Bolt Case holds up to **20** Bolts.
 
-### Blanket
+??? item "Holy Water | 25 gold"
 
-**cost**: 5 SP
+    #### Holy Water
 
-While wrapped in a Blanket, you have Advantage on saves against Extreme Cold.
+    Holy Water comes in a Flask.
 
-### Block and Tackle
+    A Flask filled with Holy Water can be wielded as a Simple Melee Weapon with Thrown (**20**/**60** feet).
 
-**cost**: 1 GP
+    | | |
+    |---|---|
+    | **Hit** | Against Fiends and Undead, you deal **2d8** Radiant damage. |
 
-A Block and Tackle allows you to hoist up to four times the weight you can normally lift.
+    After the attack, the Holy Water is consumed and the Flask is destroyed.
 
-### Book
+??? item "Hunting Trap | 2 gold"
 
-**cost**: 25 GP
+    #### Hunting Trap
 
-A Book contains fiction or nonfiction.
+    ###### Set
+    _Utilize Action_
 
-While consulting an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence checks about that topic.
+    You can set the Hunting Trap, affixing it by a heavy Chain to an immobile object within Reach.
 
-### Bottle, Glass
+    The first creature that steps on the set Hunting Trap makes a Reflex save _(DC = **13**)_.
 
-**cost**: 2 GP
+    | | |
+    |---|---|
+    | **Fail** | You deal **1d4** Piercing damage. The trap attaches to the target. Until the start of the target's next Turn, the target is Immobile. |
+    | **Success** | No effect. |
 
-A Glass Bottle holds up to 1 ½ pints of liquid.
+    While the Hunting Trap is attached to a creature, the creature's movement is limited by the length of the Chain (typically **3** feet).
 
-### Bucket
+    ###### Remove
+    _Utilize Action_
 
-**cost**: 5 CP
+    A creature that can reach an attached trap can make a DC **13** Athletics check.
 
-A Bucket holds up to half a cubic foot of contents.
+    | | |
+    |---|---|
+    | **Success** | The Hunting Trap is removed. |
+    | **Fail** | The trap deals **1** Piercing damage to the attached creature. |
 
-### Caltrops
+??? item "Net | 1 gold"
 
-**cost**: 1 GP
+    #### Net
 
-Utilize Action: You spread the Caltrops from a Pouch, covering a level, 5-foot Square area within 5 feet.
+    ###### Ensnare
+    A Net can be wielded as a Simple Melee Weapon with Thrown (**15** feet).
 
-When a creature enters this area, it must make a DC 15 Reflex save.  On a failed save, the creature takes 1 Piercing damage and becomes Immobile until the start of its next turn.
+    | | |
+    |---|---|
+    | **Hit** | You deal no damage. If the target is Large or smaller, until the target escapes or the Net is destroyed, the target is Restrained. |
 
-It takes 10 minutes to recover spread Caltrops.
+    ###### Escape
+    _Utilize Action_
 
-### Candle
+    A Restrained creature can make a DC **10** Athletics check.
 
-**cost**: 1 CP
+    | | |
+    |---|---|
+    | **Success** | The creature escapes. |
 
-While lit, a Candle emits 5 feet of Bright Light and Dim Light 5 feet further.  After a Candle is lit for 1 hour, it is destroyed.
+    ###### Durability
+    The Net has AC **10**, HP **5**, and Immunity to Bludgeoning, Poison, and Psychic damage. If it drops to **0** Hit Points, it is destroyed.
 
-### Case, Crossbow Bolt
+??? item "Quiver | 1 gold"
 
-**cost**: 1 GP
+    #### Quiver
 
-A Crossbow Bolt Case holds up to 20 Bolts.
+    A Quiver holds up to **20** Arrows.
 
-### Case, Map or Scroll
+## Medical
 
-**cost**: 1 GP
+??? item "Antitoxin | 50 gold"
 
-A Map Case or Scroll Case holds up to 10 sheets of Paper or 5 sheets of Parchment.
+    #### Antitoxin
 
-### Chain
+    Antitoxin comes in a Vial.
 
-**cost**: 5 GP
+    ###### Administer
+    _Bonus Action_
 
-Utilize Action: Choose an object or a Grappled, Incapacitated, or Restrained creature within your Reach and make a DC 13 Athletics check.  On a success, you wrap the Chain around the target.  If the target’s legs are bound, the target is Restrained.
+    A creature within your Reach consumes the Antitoxin. For **1** hour, that creature adds **+5** to Saving Throws against the Poisoned condition.
 
-Utilize Action: A bound creature can make a DC 18 Acrobatics check.  On a success, the creature escapes.
+??? item "Healer's Kit | 5 gold"
 
-Utilize Action: A creature that can reach a bound target can make a DC 20 Athletics check.  On a success, the Chain is destroyed.
+    #### Healer's Kit
 
-### Chest
+    ###### Stabilize
+    _Utilize Action_
 
-**cost**: 5 GP
+    _10 uses_
 
-A Chest holds up to 12 cubic feet of contents.
+    You can Stabilize a Downed creature within Reach.
 
-### Climber’s Kit
+??? item "Potion of Healing | 50 gold"
 
-**cost**: 25 GP
+    #### Potion of Healing
 
-A Climber’s Kit includes boot tips, gloves, pitons, and a harness.
+    A Potion of Healing is a Common Magic Item.
 
-Utilize Action: You anchor yourself in place.  While anchored, you can’t be moved more than 25 feet from the anchor point.
+    ###### Heal
+    _Bonus Action_
 
-Bonus Action: You undo the anchor.
+    A creature within your Reach consumes the Potion of Healing and heals by **[2d4 + 2]**.
 
-### Clothes, Fine
+## Spellcasting
 
-**cost**: 15 GP
+??? item "Arcane Focus | Varies"
 
-Fine Clothes are made of expensive fabrics and adorned with expertly crafted details.  Some events and locations admit only people wearing these clothes.
+    #### Arcane Focus
 
-### Clothes, Traveler’s
+    A Sorcerer, Warlock, or Wizard can use an Arcane Focus as a Spellcasting Focus.
 
-**cost**: 2 GP
+    | Focus | Cost |
+    |---|---|
+    | Crystal | 10 gold |
+    | Orb | 20 gold |
+    | Rod | 10 gold |
+    | Staff | 5 gold |
+    | Wand | 10 gold |
 
-Traveler’s Clothes are resilient garments designed for travel in various environments.
+??? item "Component Pouch | 25 gold"
 
-### Component Pouch
+    #### Component Pouch
 
-**cost**: 25 GP
+    A Component Pouch is watertight and filled with compartments that hold Material Components of your Spells.
 
-A Component Pouch is watertight and filled with compartments that hold Material components of your spells.
+??? item "Druidic Focus | Varies"
 
-### Costume
+    #### Druidic Focus
 
-**cost**: 5 GP
+    A Druid or Ranger can use a Druidic Focus as a Spellcasting Focus.
 
-While wearing a Costume, you have Advantage on any check you make to impersonate the person or type of person it represents.
+    | Focus | Cost |
+    |---|---|
+    | Sprig of Mistletoe | 1 gold |
+    | Staff | 5 gold |
+    | Yew Wand | 10 gold |
 
-### Crowbar
+??? item "Holy Symbol | Varies"
 
-**cost**: 2 GP
+    #### Holy Symbol
 
-While using a Crowbar, you gain a +5 bonus to Strength checks you make where the Crowbar’s leverage can be applied.
+    A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.
 
-### Druidic Focus
+    | Symbol | Usage | Cost |
+    |---|---|---|
+    | Amulet | worn or held | 5 gold |
+    | Emblem | on fabric or a Shield | 5 gold |
+    | Reliquary | held | 5 gold |
 
-**cost**: varies
+??? item "Spell Scroll | 50 gold"
 
-A Druidic Focus is carved, tied with ribbon, or painted to channel primal magic.  A Druid or Ranger can use a Druidic Focus as a Spellcasting Focus.
+    #### Spell Scroll
 
-| Focus | Cost |
-|---|---|
-| sprig of mistletoe | 1 gold |
-| staff | 5 gold |
-| yew wand | 10 gold |
+    A Spell Scroll is a Common Magic Item. A Spell Scroll contains a single 1st-level Spell.
 
-### Flask
+    If you know the Spell or it is on your class's Spell List, you can read the scroll. You can cast the Spell using its normal Casting Time without requiring Material Components. The scroll's Spellcasting Ability is **+3**.
 
-**cost**: 2 CP
+## Lighting
 
-A Flask holds up to 1 pint of liquid.
+??? item "Bullseye Lantern | 10 gold"
 
-### Grappling Hook
+    #### Bullseye Lantern
 
-**cost**: 2 GP
+    A Bullseye Lantern burns Oil as fuel. While lit, a Bullseye Lantern emits a **60**-foot Cone of Bright Light and Dim Light **60** feet further.
 
-Utilize Action: You throw the Grappling Hook at a railing, ledge, or another catching within 50 feet and make a DC 13 Acrobatics check.  On a success, the hook catches on.  If you tied a rope to the hook, you can then Climb it.
+??? item "Candle | 1 copper"
 
-### Healer’s Kit
+    #### Candle
 
-**cost**: 5 GP
+    While lit, a Candle emits **5** feet of Bright Light and Dim Light **5** feet further. After a Candle is lit for **1** hour, it is destroyed.
 
-A Healer’s Kit has 10 uses.
+??? item "Hooded Lantern | 5 gold"
 
-Utilize Action, 1 use: Choose a Downed creature within Reach.  The creature is Stabilized.
+    #### Hooded Lantern
 
-### Holy Symbol
+    A Hooded Lantern burns Oil as fuel. While lit, a Hooded Lantern emits **30** feet of Bright Light and Dim Light **30** feet further.
 
-**cost**: varies
+    ###### Adjust Hood
+    _Bonus Action_
 
-A Holy Symbol is bejeweled or painted to channel divine magic.  A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.
+    You can lower or raise the hood. While lowered, the light is restricted to **5** feet of Bright Light and Dim Light **5** feet further.
 
-| Symbol | Usage | Cost |
-|---|---|---|
-| amulet | worn or held | 5 gold |
-| emblem | on fabric or a shield | 5 gold |
-| reliquary | held | 5 gold |
+??? item "Lamp | 5 silver"
 
-### Holy Water
+    #### Lamp
 
-**cost**: 25 GP
+    A Lamp burns Oil as fuel. While lit, a Lamp emits **15** feet of Bright Light and Dim Light **30** feet further.
 
-Holy Water comes in a Flask.
+??? item "Oil | 1 silver"
 
-A Flask filled with Holy Water can be wielded as a Simple Melee Weapon with Thrown (20/60 feet) that deals 2d8 Radiant damage if the target is a Fiend or Undead.  After the Flask is used to attack, the Holy Water is consumed.  After being thrown, the Flask is destroyed.
+    #### Oil
 
-### Hunting Trap
+    Oil comes in a Flask and serves as fuel for Lamps and Lanterns.
 
-**cost**: 2 GP
+    ###### Fuel
+    _Utilize Action_
 
-Utilize Action: You set the Hunting Trap, affixing it by a heavy Chain to an immobile object within Reach.
+    You can light or extinguish Oil in a Lamp or Lantern. Oil in a Lamp or Lantern burns for a total of **6** hours before being consumed.
 
-The first creature that steps on the set Hunting Trap must make a DC 13 Reflex save.  On a failed save, the trap attaches to the creature, deals 1d4 Piercing damage and reduces the creature’s Speed to 0 until the start of its next turn.
+    ###### Spread
+    _Utilize Action_
 
-While the Hunting Trap is attached to a creature, the creature’s movement is limited by the length of the Chain (typically 3 feet).
+    You can pour the Oil from a Flask, covering a **5**-foot Square area within Reach. While lit, the Oil burns for **2** Rounds and deals **5** Fire damage to any creature that enters the area or ends its Turn there _(once per Turn)_.
 
-Utilize Action: A creature that can reach an attached trap can make a DC 13 Athletics check.  On a success, the Hunting Trap is removed.  On a failed check, the trap deals 1 Piercing damage to the attached creature.
+    ###### Throw
+    A Flask filled with Oil can be wielded as a Simple Melee Weapon with Thrown (**20**/**60** feet).
 
-### Ink
+    | | |
+    |---|---|
+    | **Hit** | For **1** minute, the target is covered in Oil. |
 
-**cost**: 10 GP
+    A target covered in Oil takes an additional **5** Fire damage from any Fire damage dealt to it.
 
-Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 pages.
+    After the attack, the Oil is consumed and the Flask is destroyed.
 
-### Ink Pen
+??? item "Tinderbox | 5 silver"
 
-**cost**: 2 CP
+    #### Tinderbox
 
-An Ink Pen uses Ink to write or draw.
+    A Tinderbox is a small container holding flint, fire, steel, and tinder used to kindle a fire.
 
-### Jug
+    ###### Ignite
+    _Bonus Action_
 
-**cost**: 2 CP
+    You can light a Candle, Lamp, Lantern, or Torch — or anything else with exposed fuel.
 
-A Jug holds up to 1 gallon of liquid.
+??? item "Torch | 1 copper"
 
-### Ladder
+    #### Torch
 
-**cost**: 1 SP
+    While lit, a Torch burns for **1** hour and emits **20** feet of Bright Light and Dim Light **20** feet further.
 
-A Ladder is 10 feet tall.  You can Climb to move up or down it.
+    A lit Torch can be wielded as a Simple Melee Weapon with Thrown (**15** feet) that deals **1** Fire damage.
 
-### Lamp
+## Clothing
 
-**cost**: 5 SP
+??? item "Costume | 5 gold"
 
-A Lamp burns Oil as fuel.  While lit, a lamp emits 15 feet of Bright Light and Dim Light 30 feet further.
+    #### Costume
 
-### Lantern, Bullseye
+    While wearing a Costume, you have Advantage on any Ability Check you make to impersonate the person or type of person it represents.
 
-**cost**: 10 GP
+??? item "Fine Clothes | 15 gold"
 
-A Bullseye Lantern burns Oil as fuel.  While lit, a Bullseye Lantern emits a 60-foot Cone of Bright Light and Dim Light 60 feet further.
+    #### Fine Clothes
 
-### Lantern, Hooded
+    Fine Clothes are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing Fine Clothes.
 
-**cost**: 5 GP
+??? item "Perfume | 5 gold"
 
-A Hooded Lantern burns Oil as fuel.  While lit, a Hooded Lantern emits 30 feet of Bright Light and Dim Light 30 feet further.
+    #### Perfume
 
-Bonus Action: You lower or raise the hood.  While lowered, the light emitted is restricted to 5 feet of Bright Light and Dim Light 5 feet further.
+    Perfume comes in a Vial.
 
-### Lock
+    ###### Apply
+    _Utilize Action_
 
-**cost**: 10 GP
+    You can apply the Perfume to a creature within Reach. For **1** hour, that creature has Advantage on Persuasion checks against Indifferent Humanoids within **5** feet.
 
-A Lock comes with a key used to lock or unlock it.
+??? item "Robe | 1 gold"
 
-Utilize Action: A creature without a key that can reach the lock can make a DC 20 Precision check.  On a success, the creature chooses whether the Lock is locked or unlocked.
+    #### Robe
 
-### Lockpick
+    A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.
 
-**cost**: 25 GP
+??? item "Traveler's Clothes | 2 gold"
 
-While using a Lockpick, you gain a +5 bonus to Precision checks you make to pick a lock or disarm a trap.
+    #### Traveler's Clothes
 
-### Magnifying Glass
+    Traveler's Clothes are resilient garments designed for travel in various environments.
 
-**cost**: 100 GP
+## Containers
 
-While using a Magnifying Glass, you gain a +5 bonus to Intelligence and Wisdom checks you make to appraise or inspect a highly detailed item.
+??? item "Backpack | 2 gold"
 
-### Manacles
+    #### Backpack
 
-**cost**: 2 GP
+    A Backpack holds up to **30** pounds within **1** cubic foot.
 
-A set of Manacles comes with a key used to lock or unlock them.
+??? item "Barrel | 2 gold"
 
-Utilize Action: Choose a Small or Medium Grappled, Incapacitated, or Restrained creature within your Reach and make a DC 13 Precision check.  On a success, you bind the target’s hands.  While bound, the target has Disadvantage on attacks, can’t provide Somatic components, and is Restrained if the Manacles are attached to a chain or hook that is fixed in place.
+    #### Barrel
 
-Utilize Action: A bound creature can make a DC 20 Precision check.  On a success, the creature escapes.
+    A Barrel holds up to **40** gallons of liquid or up to **4** cubic feet of dry goods.
 
-Utilize Action: A creature that can reach a bound target can make a DC 25 Athletics check.  On a success, the Manacles are destroyed.
+??? item "Basket | 4 silver"
 
-Utilize Action: A creature without a key that can reach the Manacles can take the to make a DC 20 Precision check.  On a success, the creature chooses whether the Manacles are locked or unlocked.
+    #### Basket
 
-### Map
+    A Basket holds up to **40** pounds within **2** cubic feet.
 
-**cost**: 1 GP
+??? item "Bucket | 5 copper"
 
-A Map represents the terrain for a location.
+    #### Bucket
 
-While consulting an accurate Map about its location, you gain a +5 bonus to Survival checks to find your way in that location.
+    A Bucket holds up to half a cubic foot of contents.
 
-### Mirror
+??? item "Chest | 5 gold"
 
-**cost**: 5 GP
+    #### Chest
 
-A handheld, steel Mirror is useful for personal cosmetics, but also for peeking around corners and reflecting light.
+    A Chest holds up to **12** cubic feet of contents.
 
-### Net
+??? item "Flask | 2 copper"
 
-**cost**: 1 GP
+    #### Flask
 
-A Net can be wielded as a Simple Melee Weapon with Thrown (15 feet).  On a hit, the Net deals no damage and a Large or smaller target is Restrained by the Net.
+    A Flask holds up to **1** pint of liquid.
 
-Utilize Action: A Restrained creature can make a DC 10 Athletics check.  On a success, the creature escapes.
+??? item "Glass Bottle | 2 gold"
 
-The Net has AC 10, HP 5, and Immunity to Bludgeoning, Poison, and Psychic damage.  If it drops to 0 Hit Points, it is destroyed.
+    #### Glass Bottle
 
-### Oil
+    A Glass Bottle holds up to **1½** pints of liquid.
 
-**cost**: 1 SP
+??? item "Iron Pot | 2 gold"
 
-Oil comes in a Flask and serves as fuel for Lamps and Lanterns.
+    #### Iron Pot
 
-Utilize Action: You light or extinguish Oil in a Lamp or Lantern until it has burned for a total of 6 hours.
+    An Iron Pot holds up to **1** gallon of liquid.
 
-Utilize Action: You pour the Oil from a Flask, covering a 5-foot Square area within Reach.  When lit, the Oil burns for 2 Rounds and deals 5 Fire damage to anything that enters the area or ends its turn there, but only once per turn.
+??? item "Jug | 2 copper"
 
-A Flask filled with Oil can be wielded as a Simple Melee Weapon with Thrown (20/60 feet).  After the Flask is used to attack, the Oil is consumed.  After being thrown, the Flask is destroyed.
+    #### Jug
 
-On a hit, the target is covered in Oil, which dries after 1 minute.  Whenever a target covered in Oil takes Fire damage, the Oil deals 5 Fire damage to the target.
+    A Jug holds up to **1** gallon of liquid.
 
-### Paper
+??? item "Pouch | 5 silver"
 
-**cost**: 2 SP
+    #### Pouch
 
-One sheet of Paper can hold about 250 handwritten words.
+    A Pouch holds up to **6** pounds within one-fifth of a cubic foot.
 
-### Parchment
+??? item "Sack | 1 copper"
 
-**cost**: 1 SP
+    #### Sack
 
-One sheet of Parchment can hold about 250 handwritten words.
+    A Sack holds up to **30** pounds within **1** cubic foot.
 
-### Perfume
+??? item "Vial | 1 gold"
 
-**cost**: 5 GP
+    #### Vial
 
-Perfume comes in a Vial.
+    A Vial holds up to **4** ounces of liquid.
 
-Utilize Action: You apply the Perfume to a creature within Reach.  A creature affected by Perfume has Advantage on Persuasion checks against Indifferent Humanoids within 5 feet for 1 hour.
+??? item "Waterskin | 2 silver"
 
-### Poison, Basic
+    #### Waterskin
 
-**cost**: 100 GP
+    A Waterskin holds up to **4** pints of liquid.
 
-Basic Poison comes in a Vial.
+## Locks & Restraints
 
-When a weapon coated in poison deals Piercing or Slashing damage, it deals 1d4 Poison damage to the target.
+??? item "Chain | 5 gold"
 
-Bonus Action: You coat one weapon or up to three pieces of ammunition.  Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.
+    #### Chain
 
-### Pole
+    ###### Bind
+    _Utilize Action_
 
-**cost**: 5 CP
+    You can choose an object or a Grappled, Incapacitated, or Restrained creature within your Reach and make a DC **13** Athletics check.
 
-A Pole is 10 feet long and can be used to touch things at a distance.
+    | | |
+    |---|---|
+    | **Success** | You wrap the Chain around the target. If the target's legs are bound, the target is Restrained. |
 
-While using a Pole, you gain a +5 bonus to Athletics checks you make as part of a High or Long Jump.
+    ###### Escape
+    _Utilize Action_
 
-### Pot, Iron
+    A bound creature can make a DC **18** Acrobatics check.
 
-**cost**: 2 GP
+    | | |
+    |---|---|
+    | **Success** | The creature escapes. |
 
-An Iron Pot holds up to 1 gallon of liquid.
+    ###### Break Free
+    _Utilize Action_
 
-### Potion of Healing
+    A creature that can reach a bound target can make a DC **20** Athletics check.
 
-**cost**: 50 GP
+    | | |
+    |---|---|
+    | **Success** | The Chain is destroyed. |
 
-A Potion of Healing is a Common Magic Item.
+??? item "Lock | 10 gold"
 
-Bonus Action: A creature in your Reach consumes the potion and heals 2d4 + 2 Hit Points.
+    #### Lock
 
-### Pouch
+    A Lock comes with a key used to lock or unlock it.
 
-**cost**: 5 SP
+    ###### Pick Lock
+    _Utilize Action_
 
-A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
+    A creature without a key that can reach the Lock can make a DC **20** Precision check.
 
-### Quiver
+    | | |
+    |---|---|
+    | **Success** | The creature chooses whether the Lock is locked or unlocked. |
 
-**cost**: 1 GP
+??? item "Lockpick | 25 gold"
 
-A Quiver holds up to 20 Arrows.
+    #### Lockpick
 
-### Ram, Portable
+    Using a Lockpick adds **+5** to your Precision checks to pick a Lock or disarm a trap.
 
-**cost**: 4 GP
+??? item "Manacles | 2 gold"
 
-While using a Portable Ram, you gain a +5 bonus to Strength checks you make to break down doors.
+    #### Manacles
 
-### Rations
+    A set of Manacles comes with a key used to lock or unlock them.
 
-**cost**: 5 SP
+    ###### Bind
+    _Utilize Action_
 
-Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts.
+    You can choose a Small or Medium Grappled, Incapacitated, or Restrained creature within your Reach and make a DC **13** Precision check.
 
-### Robe
+    | | |
+    |---|---|
+    | **Success** | You bind the target's hands. While bound, the target has Disadvantage on Attack Rolls, can't provide Somatic Components, and is Restrained if the Manacles are attached to a Chain or hook that is fixed in place. |
 
-**cost**: 1 GP
+    ###### Escape
+    _Utilize Action_
 
-A Robe has vocational or ceremonial significance.  Some events and locations admit only people wearing a robe bearing certain colors or symbols.
+    A bound creature can make a DC **20** Precision check.
 
-### Rope
+    | | |
+    |---|---|
+    | **Success** | The creature escapes. |
 
-**cost**: 1 GP
+    ###### Break Free
+    _Utilize Action_
 
-Utilize Action: You make a DC 10 Precision check.  On a success, you tie a knot with the Rope.
+    A creature that can reach a bound target can make a DC **25** Athletics check.
 
-You can also use this Action to bind a Grappled, Incapacitated, or Restrained creature within your Reach.  On a success, you wrap the Rope around the target.  If the target’s legs are bound, the target is Restrained.
+    | | |
+    |---|---|
+    | **Success** | The Manacles are destroyed. |
 
-Utilize Action: A bound creature can make a DC 15 Acrobatics check.  On a success, the creature escapes.
+    ###### Pick Lock
+    _Utilize Action_
 
-Utilize Action: A creature that can reach the Rope can make a DC 20 Athletics check.  On a success, the Rope is destroyed.
+    A creature without a key that can reach the Manacles can make a DC **20** Precision check.
 
-### Sack
+    | | |
+    |---|---|
+    | **Success** | The creature chooses whether the Manacles are locked or unlocked. |
 
-**cost**: 1 CP
+## Tools
 
-A Sack holds up to 30 pounds within 1 cubic foot.
+??? item "Bell | 1 gold"
 
-### Sextant
+    #### Bell
 
-**cost**: 25 GP
+    ###### Ring
+    _Utilize Action_
 
-While using a Sextant, you gain a +5 bonus to Survival checks you make to navigate at sea.
+    You can ring the Bell, producing a sound audible up to **60** feet away.
 
-### Shovel
+??? item "Block and Tackle | 1 gold"
 
-**cost**: 2 GP
+    #### Block and Tackle
 
-Working for 1 hour, you can use a Shovel to dig a 5-foot Cube hole in soil or similar material.
+    A Block and Tackle allows you to hoist up to **4** times the weight you can normally lift.
 
-### Signal Whistle
+??? item "Climber's Kit | 25 gold"
 
-**cost**: 5 CP
+    #### Climber's Kit
 
-Utilize Action: You blow on the Signal Whistle, which emits a whistle sound out to 600 feet.
+    A Climber's Kit includes boot tips, gloves, pitons, and a harness.
 
-### Spell Scroll
+    ###### Anchor
+    _Utilize Action_
 
-**cost**: Level 1, 50 GP
+    You can anchor yourself in place. While anchored, you can't be moved more than **25** feet from the anchor point.
 
-A Spell Scroll is a Common Magic Item.
+    ###### Unanchor
+    _Bonus Action_
 
-A Spell Scroll contains a single spell.   If you know the spell or it is on your class’s Spell List, you can read the scroll.
+    You can undo the anchor.
 
-Spellcasting: If you can read the scroll, you cast the spell using its normal Casting Time and don’t need Material components.  The Spellcasting Ability of the spell is +3.
+??? item "Crowbar | 2 gold"
 
-### Spikes, Iron
+    #### Crowbar
 
-**cost**: 1 GP
+    Using a Crowbar adds **+5** to your Strength checks where its leverage can be applied.
 
-Iron Spikes come in bundles of 10.
+??? item "Grappling Hook | 2 gold"
 
-Utilize Action: You use a blunt object to hammer a Spike into wood, earth, or a similar material.  You can do so to jam a door shut or to anchor a Rope or Chain you tie to the Spike.
+    #### Grappling Hook
 
-### Spyglass
+    ###### Hook
+    _Utilize Action_
 
-**cost**: 1,000 GP
+    You can throw the Grappling Hook at a railing, ledge, or another fixture within **50** feet and make a DC **13** Acrobatics check.
 
-Objects viewed through a Spyglass are magnified to twice their size.
+    | | |
+    |---|---|
+    | **Success** | The hook catches on. If you tied a Rope to the hook, you can then Climb it. |
 
-### String
+??? item "Iron Spikes | 1 gold"
 
-**cost**: 1 SP
+    #### Iron Spikes
 
-String is 10 feet long.
+    Iron Spikes come in bundles of **10**.
 
-Utilize Action: You tie a knot in the String.
+    ###### Drive
+    _Utilize Action_
 
-### Tent
+    You can use a blunt object to hammer a Spike into wood, earth, or a similar material, jamming a door shut or anchoring a Rope or Chain you tie to the Spike.
 
-**cost**: 2 GP
+??? item "Ladder | 1 silver"
 
-A Tent sleeps up to two Small or Medium creatures.
+    #### Ladder
 
-### Tinderbox
+    A Ladder is **10** feet tall. You can Climb to move up or down it.
 
-**cost**: 5 SP
+??? item "Magnifying Glass | 100 gold"
 
-A Tinderbox is a small container holding flint, fire, steel, and tinder used to kindle a fire.
+    #### Magnifying Glass
 
-Bonus Action: You light a Candle, Lamp, Lantern, or Torch – or anything else with exposed fuel.
+    Using a Magnifying Glass adds **+5** to your Intelligence and Wisdom checks to appraise or inspect a highly detailed item.
 
-### Torch
+??? item "Mirror | 5 gold"
 
-**cost**: 1 CP
+    #### Mirror
 
-While lit, a Torch burns for 1 hour and emits 20 feet of Bright Light and Dim Light 20 feet further.
+    A handheld steel Mirror is useful for personal cosmetics, but also for peeking around corners and reflecting light.
 
-A lit Torch can be wielded as a Simple Melee Weapon with Thrown (15 feet) that deals 1 Fire damage.
+??? item "Pole | 5 copper"
 
-### Vial
+    #### Pole
 
-**cost**: 1 GP
+    A Pole is **10** feet long and can be used to touch things at a distance.
 
-A Vial holds up to 4 ounces of liquid.
+    Using a Pole adds **+5** to your Athletics checks as part of a High or Long Jump.
 
-### Waterskin
+??? item "Portable Ram | 4 gold"
 
-**cost**: 2 SP
+    #### Portable Ram
 
-A Waterskin holds up to 4 pints of liquid.
+    Using a Portable Ram adds **+5** to your Strength checks to break down doors.
+
+??? item "Rope | 1 gold"
+
+    #### Rope
+
+    ###### Tie Knot
+    _Utilize Action_
+
+    You can make a DC **10** Precision check.
+
+    | | |
+    |---|---|
+    | **Success** | You tie a knot with the Rope. |
+
+    ###### Bind
+    _Utilize Action_
+
+    You can choose a Grappled, Incapacitated, or Restrained creature within your Reach and make a DC **10** Precision check.
+
+    | | |
+    |---|---|
+    | **Success** | You wrap the Rope around the target. If the target's legs are bound, the target is Restrained. |
+
+    ###### Escape
+    _Utilize Action_
+
+    A bound creature can make a DC **15** Acrobatics check.
+
+    | | |
+    |---|---|
+    | **Success** | The creature escapes. |
+
+    ###### Cut Free
+    _Utilize Action_
+
+    A creature that can reach the Rope can make a DC **20** Athletics check.
+
+    | | |
+    |---|---|
+    | **Success** | The Rope is destroyed. |
+
+??? item "Sextant | 25 gold"
+
+    #### Sextant
+
+    Using a Sextant adds **+5** to your Survival checks to navigate at sea.
+
+??? item "Shovel | 2 gold"
+
+    #### Shovel
+
+    Working for **1** hour, you can use a Shovel to dig a **5**-foot Cube hole in soil or similar material.
+
+??? item "Signal Whistle | 5 copper"
+
+    #### Signal Whistle
+
+    ###### Signal
+    _Utilize Action_
+
+    You can blow on the Signal Whistle, emitting a sound audible up to **600** feet away.
+
+??? item "Spyglass | 1,000 gold"
+
+    #### Spyglass
+
+    Objects viewed through a Spyglass are magnified to twice their size.
+
+??? item "String | 1 silver"
+
+    #### String
+
+    String is **10** feet long.
+
+    ###### Tie Knot
+    _Utilize Action_
+
+    You can tie a knot in the String.
+
+## Survival
+
+??? item "Bedroll | 1 gold"
+
+    #### Bedroll
+
+    A Bedroll sleeps **1** Small or Medium creature. While in a Bedroll, you are Immune to Extreme Cold.
+
+??? item "Blanket | 5 silver"
+
+    #### Blanket
+
+    While wrapped in a Blanket, you have Protection from Extreme Cold.
+
+??? item "Rations | 5 silver"
+
+    #### Rations
+
+    Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts.
+
+??? item "Tent | 2 gold"
+
+    #### Tent
+
+    A Tent sleeps up to **2** Small or Medium creatures.
+
+## Writing & Records
+
+??? item "Book | 25 gold"
+
+    #### Book
+
+    A Book contains fiction or nonfiction.
+
+    Consulting an accurate nonfiction Book adds **+5** to your Intelligence checks about its topic.
+
+??? item "Ink | 10 gold"
+
+    #### Ink
+
+    Ink comes in a **1**-ounce bottle, which provides enough Ink to write about **500** pages.
+
+??? item "Ink Pen | 2 copper"
+
+    #### Ink Pen
+
+    An Ink Pen uses Ink to write or draw.
+
+??? item "Map | 1 gold"
+
+    #### Map
+
+    A Map represents the terrain for a location.
+
+    Consulting an accurate Map adds **+5** to your Survival checks to find your way in its location.
+
+??? item "Map or Scroll Case | 1 gold"
+
+    #### Map or Scroll Case
+
+    A Map or Scroll Case holds up to **10** sheets of Paper or **5** sheets of Parchment.
+
+??? item "Paper | 2 silver"
+
+    #### Paper
+
+    One sheet of Paper can hold about **250** handwritten words.
+
+??? item "Parchment | 1 silver"
+
+    #### Parchment
+
+    One sheet of Parchment can hold about **250** handwritten words.

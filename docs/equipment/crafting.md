@@ -33,7 +33,7 @@ The cost of crafting an item is paid in raw materials worth half the item's norm
 
 Items made with special Materials may gain additional properties. You must acquire a Material before you can craft an item with it. Crafting an item with a Material increases the item's value, but doesn't increase the time required to craft the item.
 
-??? item "Adamantine | 500 gold"
+??? material "Adamantine | 500 gold"
 
     #### Adamantine
 
@@ -41,37 +41,37 @@ Items made with special Materials may gain additional properties. You must acqui
 
     ###### Armor
 
-    You are unaffected by Critical Hits from non-Adamantine sources _(Critical Hits gain no benefits, and the attack roll must beat your Armor Class to hit you)_.
+    You are unaffected by Critical Hits from non-Adamantine sources _(Critical Hits gain no benefits, and the Attack Roll must beat your Armor Class to hit you)_.
 
     ###### Weapon
 
     Attacks with this weapon against objects are Critical Hits.
 
-??? item "Heartwood | 1,000 gold"
+??? material "Heartwood | 1,000 gold"
 
     #### Heartwood
 
-    Heartwood naturally mends normal wear and tear, can be a spellcasting focus for any spell, and can be used to create items normally made of metal.
+    Heartwood naturally mends normal wear and tear, can be a Spellcasting Focus for any Spell, and can be used to create items normally made of metal.
 
     ###### Weapon
 
     This weapon's Physical Attack Masterwork bonus is also its Spell Attack Masterwork bonus.
 
-??? item "Ironwill | 2,500 gold"
+??? material "Ironwill | 2,500 gold"
 
     #### Ironwill
 
-    This item can be used as a spellcasting focus for any spell.
+    This item can be used as a Spellcasting Focus for any Spell.
 
     ###### Armor
 
-    You can use your spellcasting ability to make Fortitude saves, instead of Constitution.
+    You can use your Spellcasting Ability to make Fortitude saves, instead of Constitution.
 
     ###### Weapon
 
-    You can use your spellcasting ability to make attacks with this weapon, instead of Strength or Dexterity.
+    You can use your Spellcasting Ability to make attacks with this weapon, instead of Strength or Dexterity.
 
-??? item "Mithral | 500 gold"
+??? material "Mithral | 500 gold"
 
     #### Mithral
 
@@ -85,7 +85,7 @@ Items made with special Materials may gain additional properties. You must acqui
 
     If this weapon is Light, it gains the Finesse property. If this weapon is not Light or Heavy, it becomes Light.
 
-??? item "Quicksilver | 500 gold"
+??? material "Quicksilver | 500 gold"
 
     #### Quicksilver
 
@@ -101,9 +101,9 @@ Items made with special Materials may gain additional properties. You must acqui
 
     _Bonus Action_
 
-    You can change this weapon into the form of any melee weapon.
+    You can change this weapon into the form of any Melee Weapon.
 
-??? item "Silver | 100 gold"
+??? material "Silver | 100 gold"
 
     #### Silver
 
@@ -111,7 +111,7 @@ Items made with special Materials may gain additional properties. You must acqui
 
     ###### Weapon
 
-    Before this weapon deals damage to a shapeshifted creature, add **1** damage die.
+    Before this weapon deals damage to a shapeshifted creature, add **1** Damage Die.
 
 ## Masterwork
 
@@ -133,15 +133,15 @@ Crafting a Masterwork item costs half as much as purchasing one, but requires Ex
 
 ### Physical Attack
 
-Masterwork items with a Physical Attack bonus add that bonus to physical attack and damage rolls made using the item.
+Masterwork items with a Physical Attack bonus add that bonus to Physical Attack and Damage Rolls made using the item.
 
 ### Spell Attack
 
-Masterwork items with a Spell Attack bonus add that bonus to spell attack rolls made using the item as a spellcasting focus _(you must be able to use the item as a spellcasting focus normally)_.
+Masterwork items with a Spell Attack bonus add that bonus to Spell Attack Rolls made using the item as a Spellcasting Focus _(you must be able to use the item as a Spellcasting Focus normally)_.
 
 ### Spell Save
 
-Masterwork items with a Spell Save bonus add that bonus to the spell save DC of spells cast using the item as a spellcasting focus _(you must be able to use the item as a spellcasting focus normally)_.
+Masterwork items with a Spell Save bonus add that bonus to the Spell Save DC of Spells cast using the item as a Spellcasting Focus _(you must be able to use the item as a Spellcasting Focus normally)_.
 
 ### Armor Class
 

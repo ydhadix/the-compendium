@@ -11,7 +11,7 @@
 | Reach | 5 ft. |
 | Hit Points | 8 |
 | Resistances | Necrotic and Radiant |
-| Senses | Darkvision 60 ft. |
+| Senses | Darkvision (60 ft.) |
 
 ??? race "Divine Revelation | Level 3"
 
@@ -23,11 +23,19 @@
 
     For **1** minute or until you end this effect _(no action required)_, you have the revelation's effects, and before you deal damage, you can add **[PB]** Necrotic or Radiant damage.
 
-    | Revelation | Effect |
+    ###### Winged
+    You have a Fly Speed equal to your Speed.
+
+    ###### Chosen
+    You emit Bright Light to **10** feet and Dim Light **10** feet further. Before your Turn ends, you deal **[PB]** Radiant damage to each other creature within a **10**-foot Aura.
+
+    ###### Fallen
+    Each creature of your choice within **10** feet makes a Will save _(DC = **[8 + CON + PB]**)_.
+
+    | | |
     |---|---|
-    | Winged | You have a fly speed equal to your Speed. |
-    | Chosen | You emit bright light to **10** feet and dim light **10** feet further. Before your turn ends, you deal **[PB]** Radiant damage to each other creature within a **10**-foot Aura. |
-    | Fallen | Each creature of your choice within **10** feet makes a Will save _(DC = **[8 + CON + PB]**)_.<br>**Fail** — Until this revelation ends, the target is Frightened of you.<br>**Success** — No effect. |
+    | **Fail** | Until this revelation ends, the target is Frightened of you. |
+    | **Success** | No effect. |
 
 ## Dragonborn
 
@@ -40,7 +48,7 @@
 | Reach | 5 ft. |
 | Hit Points | 10 |
 | Resistances | Determined by Draconic Ancestry |
-| Senses | Darkvision 60 ft. |
+| Senses | Darkvision (60 ft.) |
 
 ??? race "Breath Weapon | —"
 
@@ -55,7 +63,7 @@
     | **Fail** | You deal **[1d10 + CON]** Draconic Ancestry damage. |
     | **Success** | You deal half as much damage. |
 
-    Add **1d10** to the damage when you reach Level **5 _(2d10)_**, **11 _(3d10)_**, and **17 _(4d10)_**.
+    The damage increases by **1d10** at Level **5 _(2d10)_**, **11 _(3d10)_**, and **17 _(4d10)_**.
 
 ??? race "Draconic Flight | Level 5"
 
@@ -63,7 +71,7 @@
 
     _1 use per Long Rest_
 
-    For **10** minutes or until you end this effect _(no action required)_, you have a fly speed equal to your Speed.
+    For **10** minutes or until you end this effect _(no action required)_, you have a Fly Speed equal to your Speed.
 
 ??? race "Draconic Ancestry | —"
 
@@ -89,7 +97,7 @@
 | Hit Points | 10 |
 | Resistances | Poison |
 | Protections | Poisoned, Prone |
-| Senses | Darkvision 120 ft., Tremorsense 30 ft. |
+| Senses | Darkvision (120 ft.), Tremorsense (30 ft.) |
 
 ??? race "Dwarven Toughness | —"
 
@@ -114,7 +122,7 @@
 | Reach | 5 ft. |
 | Hit Points | 6 |
 | Protections | Charmed |
-| Senses | Darkvision 60 ft. |
+| Senses | Darkvision (60 ft.) |
 
 ??? race "Keen Senses | —"
 
@@ -131,12 +139,12 @@
     Choose an ancestry. Each ancestry has different spells and benefits.
 
     ###### Ancestry Spells
-    You learn your ancestry's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn your ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this ancestry's spells without a Spell Slot.
+    You can cast one of this ancestry's Spells without a Spell Slot.
 
     ??? ancestry "Dark Elf"
 
@@ -150,7 +158,7 @@
 
     ??? ancestry "High Elf"
 
-        After a Long Rest, you can replace one of this ancestry's spells with another Wizard spell of the same level.
+        After a Long Rest, you can replace one of this ancestry's Spells with another Wizard Spell of the same Level.
 
         | Level | Spells Known |
         |---|---|
@@ -179,7 +187,7 @@
 | Reach | 5 ft. |
 | Hit Points | 6 |
 | Protections | Will saves |
-| Senses | Darkvision 60 ft. |
+| Senses | Darkvision (60 ft.) |
 
 ??? race "Naturally Stealthy | —"
 
@@ -188,12 +196,12 @@
 ??? race "Gnomish Ancestry | —"
 
     ###### Ancestry Spells
-    You learn your ancestry's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn your ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this ancestry's spells without a Spell Slot.
+    You can cast one of this ancestry's Spells without a Spell Slot.
 
     | Level | Spells Known |
     |---|---|
@@ -264,7 +272,7 @@
 
         _Proficiency Bonus uses per Long Rest_
 
-        Before you deal damage, you can add **1d6** Cold damage. After you deal that damage, until the start of your next turn, the target's Speed is reduced by **10** feet.
+        Before you deal damage, you can add **1d6** Cold damage. After you deal that damage, until the start of your next Turn, the target's Speed is reduced by **10** feet.
 
     ??? ancestry "Hill Goliath"
 
@@ -337,7 +345,7 @@
 | Reach | 5 ft. |
 | Hit Points | 12 |
 | Protections | Death |
-| Senses | Darkvision 120 ft. |
+| Senses | Darkvision (120 ft.) |
 
 ??? race "Powerful Build | —"
 
@@ -418,17 +426,17 @@
 
     ??? ancestry "Android Synth"
 
-        You add **+1** to Armor Class.
+        You add **+1** to your Armor Class.
 
         You gain Proficiency in one Skill and Proficiency with one Trade of your choice.
 
     ??? ancestry "Warforged Synth"
 
-        You add **+1** to Armor Class and Damage Reduction.
+        You add **+1** to your Armor Class and Damage Reduction.
 
         Your size is Large and your reach extends by **5** feet.
 
-        Your physical attacks deal double damage to objects and structures.
+        Your Physical Attacks deal double damage to objects and structures.
 
 ## Tiefling
 
@@ -442,7 +450,7 @@
 | Hit Points | 8 |
 | Resistances | Determined by Fiendish Ancestry |
 | Protections | Charmed |
-| Senses | Darkvision 60 ft. |
+| Senses | Darkvision (60 ft.) |
 
 ??? race "Silver-Tongued | —"
 
@@ -453,12 +461,12 @@
     Choose an ancestry. Each ancestry has different spells and determines the type of your Resistance.
 
     ###### Ancestry Spells
-    You learn your ancestry's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn your ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this ancestry's spells without a Spell Slot.
+    You can cast one of this ancestry's Spells without a Spell Slot.
 
     ??? ancestry "Abyssal Tiefling"
 

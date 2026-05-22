@@ -27,7 +27,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Calligrapher's Supplies |
 | Expertise | Religion |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Calligrapher's Supplies, robe, holy symbol, book of prayers, 10 sheets of parchment, 8 gold |
+| Equipment | Calligrapher's Supplies, Robe, Holy Symbol, Book of Prayers, 10 sheets of Parchment, 8 gold |
 
 ### Artisan
 
@@ -39,7 +39,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | choose one Artisan's Tool |
 | Expertise | Persuasion |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | the chosen tool, traveler's clothes, 2 pouches, 32 gold |
+| Equipment | the chosen tool, Traveler's Clothes, 2 Pouches, 32 gold |
 
 ### Charlatan
 
@@ -51,7 +51,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Calligrapher's Supplies |
 | Expertise | Deception |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Calligrapher's Supplies, fine clothes, costume, 20 gold |
+| Equipment | Calligrapher's Supplies, Fine Clothes, Costume, 20 gold |
 
 ### Criminal
 
@@ -63,7 +63,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | choose one Gaming Set |
 | Expertise | Precision |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | the chosen Gaming Set, traveler's clothes, 2 daggers, crowbar, lockpick, 2 pouches, 15 gold |
+| Equipment | the chosen Gaming Set, Traveler's Clothes, 2 daggers, Crowbar, Lockpick, 2 Pouches, 15 gold |
 
 ### Entertainer
 
@@ -75,7 +75,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | choose one Musical Instrument |
 | Expertise | Performance |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | the chosen instrument, traveler's clothes, 2 costumes, mirror, perfume, 11 gold |
+| Equipment | the chosen instrument, Traveler's Clothes, 2 Costumes, Mirror, Perfume, 11 gold |
 
 ### Farmer
 
@@ -87,7 +87,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Carpenter's Tools |
 | Expertise | Nature |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Carpenter's Tools, traveler's clothes, sickle, Healer's Kit, iron pot, shovel, 30 gold |
+| Equipment | Carpenter's Tools, Traveler's Clothes, sickle, Healer's Kit, Iron Pot, Shovel, 30 gold |
 
 ### Guard
 
@@ -99,7 +99,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | choose one Gaming Set |
 | Expertise | Athletics |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | the chosen Gaming Set, traveler's clothes, light crossbow, spear, 20 bolts, bolt case, hooded lantern, manacles, 12 gold |
+| Equipment | the chosen Gaming Set, Traveler's Clothes, light crossbow, spear, 20 Bolts, Crossbow Bolt Case, Hooded Lantern, Manacles, 12 gold |
 
 ### Guide
 
@@ -111,7 +111,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Cartographer's Tools |
 | Expertise | Survival |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Cartographer's Tools, traveler's clothes, shortbow, dagger, 20 arrows, quiver, bedroll, tent, 1 gold |
+| Equipment | Cartographer's Tools, Traveler's Clothes, shortbow, dagger, 20 Arrows, Quiver, Bedroll, Tent, 1 gold |
 
 ### Hermit
 
@@ -123,7 +123,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Herbalism Kit |
 | Expertise | Medicine |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Herbalism Kit, traveler's clothes, quarterstaff, book of philosophy, lamp, 3 flasks of oil, bedroll, 16 gold |
+| Equipment | Herbalism Kit, Traveler's Clothes, quarterstaff, Book of Philosophy, Lamp, 3 Flasks of Oil, Bedroll, 16 gold |
 
 ### Merchant
 
@@ -135,7 +135,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Jeweler's Tools |
 | Expertise | Persuasion |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Jeweler's Tools, traveler's clothes, 2 pouches, 22 gold |
+| Equipment | Jeweler's Tools, Traveler's Clothes, 2 Pouches, 22 gold |
 
 ### Noble
 
@@ -147,7 +147,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | choose one Gaming Set |
 | Expertise | Persuasion |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | the chosen Gaming Set, fine clothes, perfume, 29 gold |
+| Equipment | the chosen Gaming Set, Fine Clothes, Perfume, 29 gold |
 
 ### Sage
 
@@ -159,7 +159,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Calligrapher's Supplies |
 | Expertise | Arcana |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Calligrapher's Supplies, robe, quarterstaff, book of history, 8 sheets of parchment, 8 gold |
+| Equipment | Calligrapher's Supplies, Robe, quarterstaff, Book of History, 8 sheets of Parchment, 8 gold |
 
 ### Sailor
 
@@ -171,7 +171,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Cartographer's Tools |
 | Expertise | Acrobatics |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Cartographer's Tools, traveler's clothes, dagger, rope, 30 gold |
+| Equipment | Cartographer's Tools, Traveler's Clothes, dagger, Rope, 30 gold |
 
 ### Scribe
 
@@ -183,7 +183,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Calligrapher's Supplies |
 | Expertise | History |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Calligrapher's Supplies, fine clothes, lamp, 3 flasks of oil, 12 sheets of parchment, 23 gold |
+| Equipment | Calligrapher's Supplies, Fine Clothes, Lamp, 3 Flasks of Oil, 12 sheets of Parchment, 23 gold |
 
 ### Soldier
 
@@ -195,7 +195,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | choose one Gaming Set |
 | Expertise | Intimidation |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | the chosen Gaming Set, traveler's clothes, shortbow, spear, 20 arrows, quiver, Healer's Kit, 14 gold |
+| Equipment | the chosen Gaming Set, Traveler's Clothes, shortbow, spear, 20 Arrows, Quiver, Healer's Kit, 14 gold |
 
 ### Wayfarer
 
@@ -207,4 +207,4 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Trade | Cobbler's Tools |
 | Expertise | Stealth |
 | Languages | Common, one Standard, one Exotic |
-| Equipment | Cobbler's Tools, traveler's clothes, any Gaming Set, 2 daggers, bedroll, 2 pouches, 36 gold |
+| Equipment | Cobbler's Tools, Traveler's Clothes, any Gaming Set, 2 daggers, Bedroll, 2 Pouches, 36 gold |

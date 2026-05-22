@@ -8,7 +8,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Blessed Warrior
 
-    You learn **2** Cleric Cantrips of your choice as Paladin spells. Whenever you level up, you can replace one of these Cantrips with another Cleric Cantrip.
+    You learn **2** Cleric Cantrips of your choice as Paladin Spells. Whenever you level up, you can replace one of these Cantrips with another Cleric Cantrip.
 
 ??? feats "Blind Fighting | —"
 
@@ -23,7 +23,7 @@ Fighting styles are specialized martial techniques that set you apart from other
     Your unarmed strikes deal **1d6** Bludgeoning damage and have versatile (**1d8**).
 
     ###### Pin
-    After you succeed on a grapple against a creature you're already grappling, until the grapple ends, the target is also Restrained.
+    After you succeed on a Grapple against a creature you're already Grappling, until the Grapple ends, the target is also Restrained.
 
 ??? feats "Breaking | —"
 
@@ -44,14 +44,14 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _Free Action_
 
-    Before you Dash, until the end of the turn, you can add **+10** feet to your Speed.
+    Before you Dash, until the end of the Turn, you can add **+10** feet to your Speed.
 
     ###### Charge
     _Free Action_
 
     _1 use per Turn_
 
-    Before you hit with a melee attack after moving at least **10** feet in a line toward the target, you can use one of these effects:
+    Before you hit with a Melee Attack after moving at least **10** feet in a line toward the target, you can use one of these effects:
 
     - You add **1d8** to the attack's damage.
     - After the attack, if the target is no more than one size larger than you, you move it up to **10** feet straight away from you.
@@ -60,19 +60,19 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Defensive
 
-    While wearing Armor, you add **+1** to Armor Class and Damage Reduction.
+    While wearing Armor, you add **+1** to your Armor Class and Damage Reduction.
 
 ??? feats "Druidic Warrior | Ranger"
 
     #### Druidic Warrior
 
-    You learn **2** Druid Cantrips of your choice as Ranger spells. Whenever you level up, you can replace one of these Cantrips with another Druid Cantrip.
+    You learn **2** Druid Cantrips of your choice as Ranger Spells. Whenever you level up, you can replace one of these Cantrips with another Druid Cantrip.
 
 ??? feats "Dueling | —"
 
     #### Dueling
 
-    While you are only holding one weapon, your melee attacks with one-handed weapons add **+2** to damage rolls.
+    While you are only holding one weapon, your Melee Attacks with one-handed weapons add **+2** to damage rolls.
 
 ??? feats "Great Weapon Fighting | —"
 
@@ -97,7 +97,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _Opportunity Attack_
 
-    Before a creature moves out of your reach, you can make a melee attack against the target.
+    Before a creature moves out of your reach, you can make a Melee Attack against the target.
 
 ??? feats "Protection | —"
 
@@ -105,7 +105,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _Reaction_
 
-    Before a creature within reach is attacked, until the start of your next turn, attacks against the target have Disadvantage. This effect ends if the target leaves your reach.
+    Before a creature within reach is attacked, until the start of your next Turn, attacks against the target have Disadvantage. This effect ends if the target leaves your reach.
 
 ??? feats "Savage | —"
 
@@ -121,7 +121,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     #### Sharpshooting
 
-    Your ranged weapons add **+2** to attack rolls.
+    Your ranged weapons add **+2** to Attack Rolls.
 
 ??? feats "Shield Defense | —"
 
@@ -132,7 +132,7 @@ Fighting styles are specialized martial techniques that set you apart from other
     ###### Cover
     _Reaction_
 
-    Before a creature within reach other than you is hit with an attack or fails a Reflex save, until the end of the turn, you add your Shield's Armor Class bonus to the target's Armor Class or Reflex saves.
+    Before a creature within reach other than you is hit with an attack or fails a Reflex save, until the end of the Turn, you add your Shield's Armor Class bonus to the target's Armor Class or Reflex saves.
 
 ??? feats "Shield Fighting | —"
 
@@ -145,7 +145,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     _1 use per Turn_
 
-    After you attack with a melee weapon, you can use a Shield to shove or push the target of the attack.
+    After you attack with a melee weapon, you can use a Shield to Shove or Push the target of the attack.
 
 ??? feats "Striking | —"
 
@@ -153,7 +153,7 @@ Fighting styles are specialized martial techniques that set you apart from other
 
     Your unarmed strikes deal **1d6** Bludgeoning damage and have finesse.
 
-    You can use your Dexterity to make grapple, shove, and push checks.
+    You can use your Dexterity to make Grapple, Shove, and Push checks.
 
 ??? feats "Throwing | —"
 
@@ -203,7 +203,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
     ###### Bash
     _Bonus Action_
 
-    You can use a versatile weapon or Shield to shove a creature.
+    You can use a versatile weapon or Shield to Shove a creature.
 
 ??? feats "Bow Expert | [Sharpshooting](fighting-style.md#sharpshooting), Bow Proficiency"
 
@@ -235,7 +235,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Dual Wielding
 
-    While holding two weapons, you add **+1** to Armor Class.
+    While holding two weapons, you add **+1** to your Armor Class.
 
     ###### Balance
     Your one-handed weapons have the light and nick properties.
@@ -244,7 +244,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Fencing
 
-    While holding a finesse weapon and no other weapons, you add **+1** to Armor Class.
+    While holding a finesse weapon and no other weapons, you add **+1** to your Armor Class.
 
     ###### Riposte
     _Reaction_
@@ -268,16 +268,16 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Grappling
 
-    Your attacks against targets you're grappling have Advantage on attack rolls.
+    Your attacks against targets you're Grappling have Advantage on Attack Rolls.
 
-    While grappling a creature no more than one size larger than you, you ignore the moving penalty.
+    While Grappling a creature no more than one size larger than you, you ignore the moving penalty.
 
     ###### Takedown
     _Free Action_
 
     _1 use per Turn_
 
-    After you attack using an unarmed strike, you can grapple the target of the attack.
+    After you attack using an unarmed strike, you can Grapple the target of the attack.
 
 ??? feats "Great Weapon Expert | [Great Weapon Fighting](fighting-style.md#great-weapon-fighting)"
 
@@ -296,11 +296,11 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Marking
 
-    After you hit a creature with a melee attack, until the end of your next turn, the target is Marked by you.
+    After you hit a creature with a Melee Attack, until the end of your next Turn, the target is Marked by you.
 
     You have Advantage on Opportunity Attacks against targets Marked by you.
 
-    You can make Opportunity Attacks against targets Marked by you without using a Reaction. You can't make more than one Opportunity Attack per turn.
+    You can make Opportunity Attacks against targets Marked by you without using a Reaction. You can't make more than one Opportunity Attack per Turn.
 
 ??? feats "Melee Shooting | [Sharpshooting](fighting-style.md#sharpshooting)"
 
@@ -312,7 +312,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Mounted Expert
 
-    While mounted, your melee attacks have Advantage if the target is smaller than your mount and not mounted.
+    While mounted, your Melee Attacks have Advantage if the target is smaller than your mount and not mounted.
 
     ###### Rollback
     _Reaction_
@@ -336,12 +336,12 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Sentinel
 
-    After you hit with an Opportunity Attack, until the end of the turn, the target's Speed becomes **0**.
+    After you hit with an Opportunity Attack, until the end of the Turn, the target is Immobile.
 
     ###### Punish
     _Opportunity Attack_
 
-    Before a creature within reach attacks anything other than you, you can make a melee attack against the attacker.
+    Before a creature within reach attacks anything other than you, you can make a Melee Attack against the attacker.
 
 ??? feats "Shield Throwing | [Shield Defense](fighting-style.md#shield-defense) or [Shield Fighting](fighting-style.md#shield-fighting)"
 
@@ -362,7 +362,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     You can wield a Heavy Shield as a Variant Hammer _(it is still a Shield and only a weapon while attacking)_.
 
-    While donning a Heavy Shield, you add **+1** to Armor Class.
+    While you have a Heavy Shield donned, you add **+1** to your Armor Class.
 
 ??? feats "Sling Expert | [Sharpshooting](fighting-style.md#sharpshooting)"
 
@@ -374,7 +374,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Variable
 
-    While you are only holding one weapon and not donning a Shield, your versatile weapons add **+1** to attack rolls.
+    While you are only holding one weapon and not donning a Shield, your versatile weapons add **+1** to Attack Rolls.
 
     ###### Fast Hands
     _Bonus Action_
@@ -388,4 +388,4 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
     You have Advantage on Concentration saves.
 
     ###### Reflexive Casting
-    Before you make an Opportunity Attack, instead of making a weapon attack, you can cast a spell that targets only the target of the attack.
+    Before you make an Opportunity Attack, instead of making a Physical Attack, you can cast a Spell that targets only the target of the attack.

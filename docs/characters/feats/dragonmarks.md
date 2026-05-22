@@ -26,17 +26,17 @@
     You gain Proficiency with one of your dragonmark's listed Skills or Trades.
 
     ###### Mark Spells
-    You learn your dragonmark's spells at the corresponding levels. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn your dragonmark's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
 
-    You can cast one of this feat's spells without a Spell Slot.
+    You can cast one of this feat's Spells without a Spell Slot.
 
     ###### Changing Spells
-    Each dragonmark has a class's spell list associated with it.
+    Each dragonmark has a class's Spell List associated with it.
 
-    Whenever you level up, you can replace one of this feat's spells with another non-damage spell of the same level from the associated class's spell list.
+    Whenever you level up, you can replace one of this feat's Spells with another non-damage Spell of the same Level from the associated class's Spell List.
 
 ??? feats "Aberrant Dragonmark | No Dragonmark"
 
@@ -46,15 +46,15 @@
     You add **1d4** to Fortitude saves.
 
     ###### Aberrant Spells
-    You learn a Cantrip and a 1st-level spell from the Sorcerer spell list. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn a Cantrip and a 1st-level Spell from the Sorcerer Spell List. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use per Short Rest_
 
-    You can cast this feat's 1st-level spell without a Spell Slot.
+    You can cast this feat's 1st-level Spell without a Spell Slot.
 
     ###### Changing Spells
-    Whenever you level up, you can replace one of this feat's spells with another spell of the same level from the Sorcerer spell list.
+    Whenever you level up, you can replace one of this feat's Spells with another Spell of the same Level from the Sorcerer Spell List.
 
 ## Greater Dragonmark Boons
 
@@ -66,7 +66,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     _1 use per Long Rest_
 
-    You can cast one spell you know without a Spell Slot. The level of the spell you cast increases with your Level.
+    You can cast one Spell you know without a Spell Slot. The Level of the Spell you cast increases with your Level.
 
     | Level | Spell Level |
     |---|---|
@@ -126,12 +126,19 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     _Proficiency Bonus uses per Long Rest_
 
-    One beast within **30** feet makes a Will save _(DC = **[8 + STR, WIS, or CHA + PB]**)_. The target has Disadvantage if you or a companion dealt damage to it since the start of your previous turn.
+    One beast within **30** feet makes a Will save _(DC = **[8 + STR, WIS, or CHA + PB]**)_. The target has Disadvantage if you or a companion dealt damage to it since the start of your previous Turn.
 
     | | |
     |---|---|
-    | **Fail** | For **1** minute, the target is Frightened of you. Before the target's turn ends, it repeats this save; on a success, this effect ends. |
+    | **Fail** | For **1** minute, the target is Frightened of you. |
     | **Success** | No effect. |
+
+    Before the target's Turn ends, it repeats this save.
+
+    | | |
+    |---|---|
+    | **Fail** | No additional effect. |
+    | **Success** | This effect ends on the target. |
 
 <!--
 ??? feats "Greater Mark of Healing | Noble Dragonmark (Healing)"
@@ -176,10 +183,10 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain a Climb Speed and a Swim Speed equal to your Speed. Your movement is unaffected by Difficult Terrain.
 
     ###### Slippery
-    You can use **5** feet of movement to automatically escape from nonmagical restraints _(e.g. manacles, chains, or being Grappled)_.
+    You can use **5** feet of movement to automatically escape from nonmagical restraints _(e.g. Manacles, Chains, or being Grappled)_.
 
     ###### Rising Tide
-    After an ally enters your reach for the first time on a turn or starts its turn there, until the end of the target's next turn, the target gains the effect of Fleet-Footed and Slippery.
+    After an ally enters your reach for the first time on a Turn or starts its Turn there, until the end of the target's next Turn, the target gains the effect of Fleet-Footed and Slippery.
 
 ??? feats "Greater Mark of Scribing | Noble Dragonmark (Scribing)"
 
@@ -200,7 +207,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     _Proficiency Bonus uses per Long Rest_
 
-    Before you fail a check you don't have Expertise in, you can add **[PB]** to the total.
+    Before you fail an Ability Check you don't have Expertise in, you can add **[PB]** to the total.
 
 <!--
 ??? feats "Greater Mark of Sentinels | Noble Dragonmark (Sentinels)"

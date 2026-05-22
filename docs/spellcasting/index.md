@@ -115,6 +115,7 @@ Every shape has a point of origin from which the effect’s energy erupts in str
 | Cylinder | the origin is the center of the cylinder’s circular top or bottom | base’s radius and cylinder’s height | yes |
 | Line | the line extends from the origin | the line’s length and width | no, but you can choose to include it |
 | Sphere | the sphere extends from the origin in all directions | the max radius from the origin | yes |
+| Square | _This description hasn't been written yet._ | - | - |
 
 ### Targets
 Most spells require you to pick one or more targets to be affected by the spell’s magic.  A target is usually a creature or object.

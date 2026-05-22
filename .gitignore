@@ -1,5 +1,9 @@
-.venv/
+.venv*/
 site/
 .DS_Store
 *.pyc
 __pycache__/
+.claude/*
+archive/
+old/
+raw/

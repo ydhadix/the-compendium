@@ -10,7 +10,7 @@ Origin feats represent an aspect of your character before they became an adventu
     You gain Proficiency in Initiative.
 
     ###### Initiative Swap
-    After you roll Initiative, you can swap your Initiative with one willing ally in the same combat. You can't make this swap if you or the target are Incapacitated.
+    After you roll Initiative, you can swap your Initiative with one willing ally in the same combat. You can't swap if you or the target are Incapacitated.
 
 ??? feats "Crafter | —"
 
@@ -77,15 +77,15 @@ Origin feats represent an aspect of your character before they became an adventu
     Choose Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard.
 
     ###### Spells Known
-    You learn **2** Cantrips and a 1st-level spell from the chosen class's spell list. You can cast those spells using Intelligence, Wisdom, or Charisma as your spellcasting ability.
+    You learn **2** Cantrips and a 1st-level Spell from the chosen class's Spell List. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use per Long Rest_
 
-    You can cast this feat's 1st-level spell without a Spell Slot.
+    You can cast this feat's 1st-level Spell without a Spell Slot.
 
     ###### Changing Spells
-    Whenever you level up, you can replace one of this feat's spells with another spell of the same level from the chosen class's spell list.
+    Whenever you level up, you can replace one of this feat's Spells with another Spell of the same Level from the chosen class's Spell List.
 
     ###### Repeatable
     You can take this feat more than once, but you must choose a different class each time.

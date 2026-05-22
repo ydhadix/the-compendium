@@ -63,7 +63,7 @@ While donning a suit of armor, you can leave off parts of the armor to treat it 
 
 ### Proficiency
 
-While you wear armor you don't have Proficiency with, you have Disadvantage on D20 Tests using Strength or Dexterity and can't cast spells.
+While you wear armor you don't have Proficiency with, you have Disadvantage on D20 Tests using Strength or Dexterity and can't cast Spells.
 
 ### Strength Requirements
 
@@ -83,16 +83,16 @@ Shields are extra armor that is easily donned or doffed.
 
 ### Light Shield
 
-A light shield leaves your hand free.
+A Light Shield leaves your hand free.
 
 _Reaction_
 
-Before you are hit by an attack while your shield hand is free, until the end of the turn, you can add **+2** to your Armor Class.
+Before you are hit by an attack, until the end of the Turn, you can add **+2** to your Armor Class while your shield hand is free.
 
 ### Medium Shield
 
-While donned, a medium shield adds **+2** to your Armor Class and occupies one hand.
+While donned, a Medium Shield adds **+2** to your Armor Class and occupies one hand.
 
 ### Heavy Shield
 
-While donned, a heavy shield adds **+2** to your Armor Class, occupies one hand, and you count as Three-Quarters Cover for creatures of your size, or Full Cover for creatures smaller than you _(creatures typically count as Half Cover)_.
+While donned, a Heavy Shield adds **+2** to your Armor Class, occupies one hand, and you count as Three-Quarters Cover for creatures of your size, or Full Cover for creatures smaller than you _(creatures typically count as Half Cover)_.
