@@ -347,7 +347,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Shield Throwing
 
-    You can attack with a Light or Medium Shield as though it is a Variant Sidearm. _(It is still a Shield and is only a weapon while attacking with it.)_ Throwing a Shield doffs it as part of the attack.
+    You can attack with a Light or Medium Shield as though it is a Delta Sidearm. _(It is still a Shield and is only a weapon while attacking with it.)_ Throwing a Shield doffs it as part of the attack.
 
     ###### Swift Girding
     _Free Action_
@@ -360,7 +360,7 @@ Advanced Fighting Styles require another [Fighting Style](fighting-style.md#basi
 
     #### Shield Warrior
 
-    You can wield a Heavy Shield as a Variant Hammer _(it is still a Shield and only a weapon while attacking)_.
+    You can wield a Heavy Shield as a Delta Hammer _(it is still a Shield and only a weapon while attacking)_.
 
     While you have a Heavy Shield donned, you add **+1** to your Armor Class.
 

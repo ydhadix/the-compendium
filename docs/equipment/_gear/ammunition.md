@@ -4,7 +4,7 @@
 
     Weapons with the Ammunition property require ammunition to make an attack and specify which type in their description. Each type requires different storage, which must be bought separately.
 
-    | Type | Weapon | Storage | Qty. | Cost |
+    | Type | Weapon | Storage | Qty. | Value |
     |---|---|---|---|---|
     | Arrow | Bow | Quiver | 20 | 1 gold |
     | Bolt | Crossbow | Bolt Case | 20 | 1 gold |

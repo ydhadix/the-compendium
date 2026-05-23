@@ -167,17 +167,14 @@ nav:
       #   - Evocation:      classes/wizard/evocation.md
 
   - Equipment Encyclopedia:
-    - Starting Gear:         equipment/starting.md
-    - Crafting:              equipment/crafting.md
+    - Getting Started:       equipment/index.md
     - Weapons:               equipment/weapons.md
     - Armor:                 equipment/armor.md
     - Adventuring Gear:      equipment/gear.md
-    - Equipment Packs:       equipment/packs.md
     - Trades:                equipment/trades.md
 
   - Infusion Index:
     - Magic Items: magic-items/index.md
-    - Crafting:    magic-items/crafting.md
     - Common:      magic-items/common.md
     - Uncommon:    magic-items/uncommon.md
     - Rare:        magic-items/rare.md

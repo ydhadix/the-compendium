@@ -4,7 +4,7 @@
 
     A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.
 
-    | Symbol | Usage | Cost |
+    | Symbol | Usage | Value |
     |---|---|---|
     | Amulet | worn or held | 5 gold |
     | Emblem | on fabric or a Shield | 5 gold |

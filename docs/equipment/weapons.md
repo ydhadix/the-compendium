@@ -4,52 +4,50 @@
 
 ### Unarmed
 
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+| Name | Damage | Weight | Hands | Properties | Mastery | Value |
 |---|---|---|---|---|---|---|
 | Unarmed | 1d4 Bludgeoning | - | Versatile (1d6) | - | - | - |
 
-### Simple Melee Weapons
+### Simple Weapons
 
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+| Name | Damage | Weight | Hands | Properties | Mastery | Value |
 |---|---|---|---|---|---|---|
-| Improvised | 1d4 Bludgeoning, Piercing, or Slashing | Light | Thrown (10/30), Versatile (1d6) | - | - | - |
-| Sidearm | 1d4 Bludgeoning, Piercing, or Slashing | Light | Finesse, Thrown (20/60) | Nick, Sap, Slow, Vex | 1d6 Damage, no Finesse | 1 gold |
-| Staff | 1d6 Bludgeoning or Piercing | - | Thrown (20/60), Versatile (1d8) | Sap, Slow, Topple | Thrown (30/90), no Versatile | 1 gold |
+| Improvised | 1d4 Bludgeoning, Piercing, or Slashing | Light | Versatile (1d6) | Thrown (10/30) | - | - |
+| Sidearm | 1d4 Bludgeoning, Piercing, or Slashing | Light | One | Finesse, Thrown (20/60) | Nick, Sap, Slow, Vex | 1 gold |
+| Sidearm Δ | 1d6 Bludgeoning, Piercing, or Slashing | Light | One | Thrown (20/60) | Nick, Sap, Slow, Vex | 2 gold |
+| Staff | 1d6 Bludgeoning or Piercing | - | Versatile (1d8) | Thrown (20/60) | Sap, Slow, Topple | 1 gold |
+| Staff Δ | 1d6 Bludgeoning or Piercing | - | One | Thrown (30/90) | Sap, Slow, Topple | 2 gold |
+| Sling | 1d4 Bludgeoning | - | One | Ammunition (40/160) | Slow, Topple | 1 gold |
+| Crossbow | 1d6 Piercing | Light | One | Ammunition (40/160), Loading | Slow, Vex | 25 gold |
+| Crossbow Δ | 1d8 Piercing | - | Two | Ammunition (80/320), Loading | Slow, Vex | 50 gold |
 
-### Simple Ranged Weapons
+### Martial Weapons
 
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
+| Name | Damage | Weight | Hands | Properties | Mastery | Value |
 |---|---|---|---|---|---|---|
-| Sling | 1d4 Bludgeoning | - | Ammunition (40/160) | Slow, Topple | - | 1 gold |
-| Crossbow | 1d6 Piercing | Light | Ammunition (40/160), Loading | Slow, Vex | 1d8 Damage, Ammunition (80/320), Two-Handed, no Light | 25 gold |
-
-### Martial Melee Weapons
-
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
-|---|---|---|---|---|---|---|
-| Fence | 1d6 Slashing or Piercing | Light | Finesse | Nick, Graze, Slow, Vex | 1d8 Damage, no Light or Nick | 10 gold |
-| Blade | 1d8 Slashing | - | Versatile (1d10) | Graze, Sap, Topple | 1d12 or 2d6 Damage, Heavy, Two-Handed, Cleave, no Versatile | 15 gold |
-| Hammer | 1d8 Bludgeoning or Piercing | - | Versatile (1d10) | Push, Sap, Topple | 1d12 or 2d6 Damage, Heavy, Two-Handed, Cleave, no Versatile | 5 gold |
-| Polearm | 1d10 Slashing or Piercing | Heavy | Two-Handed, Reach | Cleave, Graze, Push, Topple | - | 20 gold |
-
-### Martial Ranged Weapons
-
-| Name | Damage | Weight | Properties | Mastery | Variant | Cost |
-|---|---|---|---|---|---|---|
-| Bow | 1d8 Piercing | - | Ammunition (80/320), Two-Handed | Sap, Slow, Vex | 1d10 Damage, Ammunition (150/600), Heavy, Pierce | 25 gold |
-| Firearm | 1d10 Piercing | - | Ammunition (40/160), Loading | Push, Slow, Vex | 1d12 or 2d6 Damage, Ammunition (100/400), Two-Handed, Heavy, Pierce | 250 gold |
+| Fence | 1d6 Slashing or Piercing | Light | One | Finesse | Nick, Graze, Slow, Vex | 10 gold |
+| Fence Δ | 1d8 Slashing or Piercing | - | One | Finesse | Graze, Slow, Vex | 20 gold |
+| Blade | 1d8 Slashing | - | Versatile (1d10) | - | Graze, Sap, Topple | 15 gold |
+| Blade Δ | 1d12 or 2d6 Slashing | Heavy | Two | - | Cleave, Graze, Sap, Topple | 30 gold |
+| Hammer | 1d8 Bludgeoning or Piercing | - | Versatile (1d10) | - | Push, Sap, Topple | 5 gold |
+| Hammer Δ | 1d12 or 2d6 Bludgeoning or Piercing | Heavy | Two | - | Cleave, Push, Sap, Topple | 10 gold |
+| Polearm | 1d10 Slashing or Piercing | Heavy | Two | Reach | Cleave, Graze, Push, Topple | 20 gold |
+| Bow | 1d8 Piercing | - | Two | Ammunition (80/320) | Sap, Slow, Vex | 25 gold |
+| Bow Δ | 1d10 Piercing | Heavy | Two | Ammunition (150/600) | Pierce, Sap, Slow, Vex | 50 gold |
+| Firearm | 1d10 Piercing | - | One | Ammunition (40/160), Loading | Push, Slow, Vex | 250 gold |
+| Firearm Δ | 1d12 or 2d6 Piercing | Heavy | Two | Ammunition (100/400), Loading | Pierce, Push, Slow, Vex | 500 gold |
 
 ## Weapon Families
 
-Each weapon belongs to a category that describes its damage, weight, properties, Mastery options, and cost. Weapon categories only describe the broad family of a weapon, though its specific form is up to you.
+Each weapon belongs to a category that describes its damage, weight, properties, Mastery options, and Value. A category covers a broad family of weapons — its specific form is up to you.
 
-### Variant Weapons
+### Delta Weapons
 
-Some weapon categories have variant properties. A variant weapon costs twice as much as its normal version and applies the listed modifications to its statistics.
+Some weapon categories have a Delta Weapon _(Δ)_ — an alternative build that shares Proficiency with its base weapon.
 
 ### Example Weapons
 
-| Category | Standard Weapon | Variant Weapon |
+| Category | Standard Weapon | Delta Weapon |
 |---|---|---|
 | Sidearm | Club, Dagger, Dart, Sickle | Handaxe, Light Hammer |
 | Staff | Quarterstaff, Mace, Spear | Javelin, Trident |

@@ -1,6 +1,6 @@
 # Trades
 
-Trade tools represent specialized knowledge in a craft, game, or art form. Proficiency with a trade tool lets you add your Proficiency Bonus to relevant Ability Checks.
+Trade tools represent specialized knowledge in a craft, game, or art form. Proficiency with a trade tool adds **[PB]** to relevant Ability Checks, and may grant Advantage on related Skill checks.
 
 ## Gaming Sets
 
@@ -11,7 +11,7 @@ Gaming Sets are typically used for entertainment or gambling, and come in many s
 | **Ability** | Intelligence |
 | **Applications** | Discern whether someone is cheating |
 
-| Variant | Cost |
+| Game | Value |
 |---|---|
 | Dice | 1 silver |
 | Dragonchess | 1 gold |
@@ -27,7 +27,7 @@ Musical Instruments are often used as part of a performance, and come in many sh
 | **Ability** | Charisma |
 | **Applications** | Play a tune |
 
-| Variant | Cost |
+| Instrument | Value |
 |---|---|
 | Bagpipes | 30 gold |
 | Drum | 6 gold |

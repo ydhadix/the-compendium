@@ -4,7 +4,7 @@
 
     A Druid or Ranger can use a Druidic Focus as a Spellcasting Focus.
 
-    | Focus | Cost |
+    | Focus | Value |
     |---|---|
     | Sprig of Mistletoe | 1 gold |
     | Staff | 5 gold |

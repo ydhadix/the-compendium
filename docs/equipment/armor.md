@@ -4,13 +4,13 @@
 
 ### Unarmored
 
-| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
+| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Value |
 |---|---|---|---|---|---|---|
 | Unarmored | 8 + DEX + PB | - | - | - | - | - |
 
 ### Light Armor
 
-| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
+| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Value |
 |---|---|---|---|---|---|---|
 | Padded | 9 + DEX + PB | - | - | 6 | - | 10 gold |
 | Leather | 10 + DEX + PB | - | 6 | - | - | 45 gold |
@@ -18,7 +18,7 @@
 
 ### Medium Armor
 
-| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
+| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Value |
 |---|---|---|---|---|---|---|
 | Chain Shirt | 12 + DEX (max 2) + PB | - | STR (max 1) | 4 | - | 50 gold |
 | Scale Mail | 13 + DEX (max 2) + PB | - | STR (max 2) | 4 | Disadvantage | 50 gold |
@@ -28,7 +28,7 @@
 
 ### Heavy Armor
 
-| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Cost |
+| Name | Armor Class | Strength | Damage Reduction | Item Capacity | Stealth | Value |
 |---|---|---|---|---|---|---|
 | Heavy Chain | 15 + PB | 1 | STR (max 2) | 2 | Disadvantage | 75 gold |
 | Heavy Scale | 16 + PB | 2 | STR (max 3) | 2 | Disadvantage | 200 gold |
@@ -47,7 +47,7 @@ There are three families of medium and heavy armor: Chain, Scale, and Plate.
 
 ### Upgrading Armor
 
-A set of armor can be upgraded to another armor in the same family by spending gold equal to the difference in their costs, purchasing only the parts of the armor that are missing.
+A set of armor can be upgraded to another armor in the same family by spending gold equal to the difference in their Values, purchasing only the parts of the armor that are missing.
 
 ## Wearing Armor
 
@@ -63,7 +63,7 @@ Your armor's weight determines how quickly you can don and doff it.
 
 ### Partially Donned Armor
 
-While donning a suit of armor, you can leave off parts of the armor to treat it as an armor in the same family with a lesser cost instead. Leaving off parts of your armor reduces its protection but can also remove Stealth penalties or reduce how long it takes to don.
+While donning a suit of armor, you can leave off parts of the armor to treat it as an armor in the same family with a lesser Value instead. Leaving off parts of your armor reduces its protection but can also remove Stealth penalties or reduce how long it takes to don.
 
 ### Proficiency
 

@@ -2,5 +2,5 @@
 
     #### Bedroll
 
-    A Bedroll sleeps **1** Small or Medium creature. While in a Bedroll, you are Immune to Extreme Cold.
+    A Bedroll sleeps **1** Small or Medium creature. While in a Bedroll, you gain Immunity to Extreme Cold.
 
