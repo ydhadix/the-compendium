@@ -39,6 +39,10 @@ Equipment usually requires wearing or wielding it properly.  An item's type dete
 | Weapon | Held in hand | One per hand | Leatherworker's Tools, Smith's Tools, Tinker's Tools, or Woodcarver's Tools |
 | Other | Varies | Varies | Tinker's Tools or another appropriate Artisan's Tool |
 
+### Potions
+
+A Potion can be consumed by you or administered to a creature within Reach. Either use requires the same action.
+
 ###### Clothing Types
 
 | Type | Usage | Limit | Crafting Tool |

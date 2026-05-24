@@ -10,4 +10,4 @@
 
     ###### Weapon
 
-    You can use your Spellcasting Ability to make attacks with this weapon, instead of Strength or Dexterity.
+    You can use your Spellcasting Ability to make Physical Attacks with this weapon, instead of Strength or Dexterity.

@@ -25,8 +25,8 @@
     ###### Mark Proficiency
     You gain Proficiency with one of your dragonmark's listed Skills or Trades.
 
-    ###### Mark Spells
-    You learn your dragonmark's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn this dragonmark's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
@@ -43,18 +43,18 @@
     #### Aberrant Dragonmark
 
     ###### Uncanny Fortitude
-    You add **1d4** to Fortitude saves.
+    You add **1d4** to your Fortitude saves.
 
-    ###### Aberrant Spells
-    You learn a Cantrip and a 1st-level Spell from the Sorcerer Spell List. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn a Sorcerer Cantrip and a 1st-Level Sorcerer Spell. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use per Short Rest_
 
-    You can cast this feat's 1st-level Spell without a Spell Slot.
+    You can cast this feat's 1st-Level Spell without a Spell Slot.
 
     ###### Changing Spells
-    Whenever you level up, you can replace one of this feat's Spells with another Spell of the same Level from the Sorcerer Spell List.
+    Whenever you level up, you can replace one of this feat's Spells with another Sorcerer Spell of the same Level.
 
 ## Greater Dragonmark Boons
 
@@ -116,10 +116,10 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain the [Greater Mark Spellcasting](dragonmarks.md#greater-mark-spellcasting) feature.
 
     ###### Monstrous Instincts
-    Your spells and features can treat monstrosities as beasts.
+    Your Spells and features can treat monstrosities as beasts.
 
     ###### Superior Handling
-    After you hit with an attack while mounted, your mount can use its Reaction to move or attack.
+    After you hit with an Attack while mounted, your mount can use its Reaction to Move or Attack.
 
     ###### Subdue
     _Magic Action_
@@ -130,7 +130,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
 
     | | |
     |---|---|
-    | **Fail** | For **1** minute, the target is Frightened of you. |
+    | **Fail** | The target is Frightened of you for **1** minute. |
     | **Success** | No effect. |
 
     Before the target's Turn ends, it repeats this save.
@@ -186,7 +186,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You can use **5** feet of movement to automatically escape from nonmagical restraints _(e.g. Manacles, Chains, or being Grappled)_.
 
     ###### Rising Tide
-    After an ally enters your reach for the first time on a Turn or starts its Turn there, until the end of the target's next Turn, the target gains the effect of Fleet-Footed and Slippery.
+    After an ally enters your Reach for the first time on a Turn or starts its Turn there, the target gains the effect of Fleet-Footed and Slippery until the end of the target's next Turn.
 
 ??? feats "Greater Mark of Scribing | Noble Dragonmark (Scribing)"
 
@@ -195,7 +195,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain the [Greater Mark Spellcasting](dragonmarks.md#greater-mark-spellcasting) feature.
 
     ###### Scrivener
-    The time it takes for you to craft spell scrolls is halved.
+    The time it takes for you to craft Spell Scrolls is halved.
 
     ###### Quick Study
     _Bonus Action_
@@ -203,7 +203,7 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You can take the Study Action.
 
     ###### Well-Read
-    _Reaction_
+    _Free Action_
 
     _Proficiency Bonus uses per Long Rest_
 
@@ -245,15 +245,15 @@ Greater Dragonmark boons require another [Dragonmark](dragonmarks.md#dragonmarks
     You gain the [Greater Mark Spellcasting](dragonmarks.md#greater-mark-spellcasting) feature.
 
     ###### Heart of the Storm
-    You gain Resistance to Lightning and Thunder damage.
+    You gain Resistance to Lightning and Thunder Damage.
 
     ###### Feather Soul
-    Your weight is reduced by half, and you gain Immunity to Falling damage.
+    Your weight is reduced by half, and you gain Immunity to Falling Damage.
 
     ###### Tempest Magic
     _Free Action_
 
-    Before or after you cast a spell, you can fly up to **10** feet without provoking Opportunity Attacks.
+    Before or after you cast a Spell, you can Fly up to **10** feet without provoking Opportunity Attacks.
 
 <!--
 ??? feats "Greater Mark of Warding | Noble Dragonmark (Warding)"

@@ -12,11 +12,11 @@ Many Infusions share common properties.
 
 | Property | Effect |
 |---|---|
-| Attunement | The item requires Attunement to use its effects. |
-| Charges | The item has Charges that must be expended to use some of its effects. |
-| Command Word | The item requires audibly speaking a short word or phrase to use some of its effects. |
-| Consumable | The item loses its magic after being used. |
-| Cursed | The item has a hidden, detrimental effect. Most methods of identifying items don't reveal curses, and you can't voluntarily end your Attunement to a Cursed item. |
+| Attunement | You must Attune to this item to use its effects. |
+| Charges | You expend this item's Charges to use some of its effects. |
+| Command Word | You must audibly speak a Command Word to use some of this item's effects. |
+| Consumable | You can use this item a limited number of times before it loses its magic. |
+| Cursed | This item has a hidden, detrimental effect. Most methods of identifying items don't reveal curses, and you can't voluntarily end your Attunement to it. |
 
 ### Identification
 
@@ -24,9 +24,9 @@ Some Magic Items are indistinguishable from their nonmagical counterparts, while
 
 The _Identify_ Spell is the fastest way to reveal an item's properties.
 
-Wearing or attempting to use an item can also offer hints about its properties.  For Potions, a little taste is enough to tell the taster what a Potion does.
+Wearing or attempting to use an item can also offer hints about its properties.  For Potions, a little taste is enough to tell you what a Potion does.
 
-Alternatively, you can spend a Short Rest focused on only that item while being in physical contact with it.  This can't be the same Short Rest used to attune to the item.  After you finish the Short Rest, you learn the item's properties and how to use them.
+Alternatively, you can spend a Short Rest focused on only that item while being in physical contact with it.  This can't be the same Short Rest used to Attune to the item.  After you finish the Short Rest, you learn the item's properties and how to use them.
 
 ### Attunement
 
@@ -58,7 +58,7 @@ You can infuse a Magic Item, provided you have Proficiency in Arcana.  If the In
 
 ### Time and Cost
 
-The cost of infusing an item is paid in raw materials and time based on the Infusion's Rarity.  Consumable items require half as much time and gold.
+The Cost of infusing an item is paid in raw materials and time based on the Infusion's Rarity.  Consumable items require half as much time and gold.
 
 | Rarity | Time | Cost |
 |---|---|---|
@@ -70,7 +70,7 @@ The cost of infusing an item is paid in raw materials and time based on the Infu
 
 Every day of infusing requires **8** hours of work, but the total hours and days don't need to be consecutive.
 
-You can work with other characters to shorten the infusing time, provided each character has the appropriate Proficiencies and Spells.  Each character's contribution reduces the total time as though they were working independently.
+You can work with others to shorten the infusing time, provided each contributor has the appropriate Proficiencies and Spells.  Each contributor reduces the total time as though they were working independently.
 
 ### Spell Scrolls
 

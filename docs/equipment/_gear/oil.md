@@ -12,16 +12,16 @@
     ###### Spread
     _Utilize Action_
 
-    You can pour the Oil from a Flask, covering a **5**-foot Square area within Reach. While lit, the Oil burns for **2** Rounds and deals **5** Fire damage to any creature that enters the area or ends its Turn there _(once per Turn)_.
+    You can pour the Oil from a Flask, covering a **5**-foot Square area within Reach. While lit, the Oil burns for **2** Rounds and deals **5** Fire Damage to any creature that enters the area or ends its Turn there _(once per Turn)_.
 
     ###### Throw
     A Flask filled with Oil can be wielded as a Simple Melee Weapon with Thrown (**20**/**60** feet).
 
     | | |
     |---|---|
-    | **Hit** | For **1** minute, the target is covered in Oil. |
+    | **Hit** | The target is covered in Oil for **1** minute. |
 
-    A target covered in Oil takes an additional **5** Fire damage from any Fire damage dealt to it.
+    A target covered in Oil takes an additional **5** Fire Damage from any Fire Damage dealt to it.
 
-    After the attack, the Oil is consumed and the Flask is destroyed.
+    After the Attack, the Oil is consumed and the Flask is destroyed.
 

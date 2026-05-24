@@ -19,5 +19,5 @@
     | **Success** | The creature escapes. |
 
     ###### Durability
-    The Net has AC **10**, HP **5**, and Immunity to Bludgeoning, Poison, and Psychic damage. If it drops to **0** Hit Points, it is destroyed.
+    The Net has Armor Class **10**, Hit Points **5**, and Immunity to Bludgeoning, Poison, and Psychic damage. If it drops to **0** Hit Points, it is destroyed.
 

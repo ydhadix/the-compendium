@@ -8,7 +8,7 @@
 
     | | |
     |---|---|
-    | **Hit** | You deal **2d6** Acid damage. |
+    | **Hit** | You deal **2d6** Acid Damage. |
 
-    After the attack, the Acid is consumed and the Vial is destroyed.
+    After the Attack, the Acid is consumed and the Vial is destroyed.
 

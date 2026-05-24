@@ -84,7 +84,7 @@ Improvised weapons are makeshift weapons, or a weapon wielded improperly (such a
 
 ### Unarmed Strikes
 
-An attack that uses part of the attacker's body, such as a punch or kick, is an Unarmed Strike. Every creature has Proficiency with Unarmed Strikes. Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
+An Attack that uses part of the attacker's body, such as a punch or kick, is an Unarmed Strike. Every creature has Proficiency with Unarmed Strikes. Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
 
 ##### Damage
 
@@ -172,9 +172,9 @@ Most weapons have properties that determine how they're used beyond dealing dama
 
     #### Versatile
 
-    You can attack with a Versatile weapon using one or two hands. Two-handed attacks use the Damage Dice shown in parentheses.
+    You can attack with a Versatile weapon using one or two hands. Two-Handed Attacks use the Damage Dice shown in parentheses.
 
-### Mastery
+### Weapon Mastery
 
 A weapon's Mastery property can only be used if you have a feature that specifically allows it. Only one Mastery property can be applied to each Attack Roll.
 
@@ -196,7 +196,7 @@ A weapon's Mastery property can only be used if you have a feature that specific
 
     #### Nick
 
-    After you use this weapon's Light property, the extra attack is made as part of the Attack Action instead of requiring a Bonus Action.
+    After you use this weapon's Light property, the additional Attack is made as part of the Attack Action instead of requiring a Bonus Action.
 
 ??? weapon-property "Pierce"
 
@@ -216,7 +216,7 @@ A weapon's Mastery property can only be used if you have a feature that specific
 
     #### Sap
 
-    After you damage a creature, until the start of your next Turn, the target has Disadvantage on its next Attack Roll.
+    After you damage a creature, the target has Disadvantage on its next Attack Roll before the start of your next Turn.
 
 ??? weapon-property "Slow"
 
@@ -236,4 +236,4 @@ A weapon's Mastery property can only be used if you have a feature that specific
 
     #### Vex
 
-    After you hit a creature, until the end of your next Turn, you have Advantage on the next Attack Roll you make against that target.
+    After you hit a creature, you have Advantage on the next Attack Roll you make against that target before the end of your next Turn.

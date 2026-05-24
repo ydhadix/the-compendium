@@ -180,7 +180,7 @@ nav:
     - Rare:        magic-items/rare.md
     - Very Rare:   magic-items/very-rare.md
     - Legendary:   magic-items/legendary.md
-    - Artifacts:   magic-items/artifacts.md
+    - Artifacts:   magic-items/artifact.md
 
   - Spell Selection:
     - Spellcasting: spellcasting/index.md

@@ -11,7 +11,7 @@
 
     | | |
     |---|---|
-    | **Fail** | You deal **1** Piercing damage to the target. Until the start of the target's next Turn, the target is Immobile. |
+    | **Fail** | The target takes **1** Piercing damage. The target is Immobile until the start of its next Turn. |
     | **Success** | No effect. |
 
     It takes **10** minutes to recover spread Caltrops.

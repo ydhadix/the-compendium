@@ -8,7 +8,7 @@
 
     | | |
     |---|---|
-    | **Hit** | You deal **1d4** Fire damage. The target starts Burning (**1d4**). |
+    | **Hit** | You deal **1d4** Fire Damage. The target starts Burning (**1d4**). |
 
-    After the attack, the Alchemist's Fire is consumed and the Vial is destroyed.
+    After the Attack, the Alchemist's Fire is consumed and the Vial is destroyed.
 

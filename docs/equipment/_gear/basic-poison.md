@@ -5,7 +5,7 @@
     Basic Poison comes in a Vial.
 
     ###### Venom
-    A weapon coated in Basic Poison adds **1d4** Poison damage to any Piercing or Slashing damage it deals.
+    A weapon coated in Basic Poison adds **1d4** Poison Damage to any Piercing Damage or Slashing Damage it deals.
 
     ###### Coat Weapon
     _Bonus Action_

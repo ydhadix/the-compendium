@@ -7,5 +7,5 @@
     ###### Heal
     _Bonus Action_
 
-    A creature within your Reach consumes the Potion of Healing and heals by **[2d4 + 2]**.
+    You consume the Potion of Healing and heal by **[2d4 + 2]**.
 

@@ -38,7 +38,7 @@ Origin feats represent an aspect of your character before they became an adventu
 
     You can create a nonmagical item associated with one of the tool Proficiencies above, provided you have the tools in hand and Proficiency with those tools.
 
-    The crafted item can't be Armor, a ranged or martial weapon, or cost more than **25** gold. Items crafted this way have no value to merchants and fall apart after you finish a Long Rest.
+    The crafted item can't be Armor, a Ranged or Martial Weapon, or cost more than **25** gold. Items crafted this way have no value to merchants and fall apart after you finish a Long Rest.
 
 ??? feats "Healer | —"
 
@@ -76,13 +76,13 @@ Origin feats represent an aspect of your character before they became an adventu
 
     Choose Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard.
 
-    ###### Spells Known
-    You learn **2** Cantrips and a 1st-level Spell from the chosen class's Spell List. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn **2** Cantrips and a 1st-Level Spell from the chosen class's Spell List. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use per Long Rest_
 
-    You can cast this feat's 1st-level Spell without a Spell Slot.
+    You can cast this feat's 1st-Level Spell without a Spell Slot.
 
     ###### Changing Spells
     Whenever you level up, you can replace one of this feat's Spells with another Spell of the same Level from the chosen class's Spell List.
@@ -95,7 +95,7 @@ Origin feats represent an aspect of your character before they became an adventu
     #### Musician
 
     ###### Instrument Training
-    You gain Proficiency with **3** Musical Instruments of your choice.
+    You gain Proficiency with **3** Musical Instruments.
 
     ###### Encouraging Song
     After a Short Rest, choose up to **[PB]** allies within **60** feet. Those allies gain **1** DM Inspiration.
@@ -105,7 +105,7 @@ Origin feats represent an aspect of your character before they became an adventu
     #### Skilled
 
     ###### Three Proficiencies
-    You gain Proficiency with any **3** Skills, Trades, or martial weapon categories.
+    You gain Proficiency with any **3** Skills, Trades, or Martial Weapon categories.
 
     ###### Repeatable
     You can take this feat more than once.

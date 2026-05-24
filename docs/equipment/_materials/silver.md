@@ -6,4 +6,4 @@
 
     ###### Weapon
 
-    Before this weapon deals damage to a shapeshifted creature, add **1** Damage Die.
+    Before this weapon deals damage to a shapeshifted creature, you add **1** Damage Die.

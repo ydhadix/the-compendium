@@ -8,7 +8,7 @@
 
     | | |
     |---|---|
-    | **Hit** | Against Fiends and Undead, you deal **2d8** Radiant damage. |
+    | **Hit** | Against Fiends and Undead, you deal **2d8** Radiant Damage. |
 
-    After the attack, the Holy Water is consumed and the Flask is destroyed.
+    After the Attack, the Holy Water is consumed and the Flask is destroyed.
 

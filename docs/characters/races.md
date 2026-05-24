@@ -21,20 +21,23 @@
 
     Choose one of the following revelations. You can choose a different revelation each time you use this feature.
 
-    For **1** minute or until you end this effect _(no action required)_, you have the revelation's effects, and before you deal damage, you can add **[PB]** Necrotic or Radiant damage.
+    For **1** minute or until you end this effect _(no action required)_, you gain the following benefits:
+
+    - You have the revelation's effects.
+    - Before you deal damage, you can add **[PB]** Necrotic or Radiant Damage.
 
     ###### Winged
     You have a Fly Speed equal to your Speed.
 
     ###### Chosen
-    You emit Bright Light to **10** feet and Dim Light **10** feet further. Before your Turn ends, you deal **[PB]** Radiant damage to each other creature within a **10**-foot Aura.
+    You emit Bright Light to **10** feet and Dim Light **10** feet further. Before your Turn ends, you deal **[PB]** Radiant Damage to each other creature within a **10**-foot Aura.
 
     ###### Fallen
     Each creature of your choice within **10** feet makes a Will save _(DC = **[8 + CON + PB]**)_.
 
     | | |
     |---|---|
-    | **Fail** | Until this revelation ends, the target is Frightened of you. |
+    | **Fail** | The target is Frightened of you until this revelation ends. |
     | **Success** | No effect. |
 
 ## Dragonborn
@@ -60,7 +63,7 @@
 
     | | |
     |---|---|
-    | **Fail** | You deal **[1d10 + CON]** Draconic Ancestry damage. |
+    | **Fail** | You deal **[1d10 + CON]** Draconic Ancestry Damage. |
     | **Success** | You deal half as much damage. |
 
     The damage increases by **1d10** at Level **5 _(2d10)_**, **11 _(3d10)_**, and **17 _(4d10)_**.
@@ -71,11 +74,11 @@
 
     _1 use per Long Rest_
 
-    For **10** minutes or until you end this effect _(no action required)_, you have a Fly Speed equal to your Speed.
+    You have a Fly Speed equal to your Speed for **10** minutes or until you end this effect _(no action required)_.
 
 ??? race "Draconic Ancestry | —"
 
-    Choose an ancestry. Your ancestry determines the damage type of your Resistance and Breath Weapon.
+    Choose an ancestry. Your ancestry determines the Damage Type of your Resistance and Breath Weapon.
 
     | | Ancestry | Damage Type |  | Ancestry | Damage Type |
     |---|---|---|---|---|---|
@@ -109,7 +112,7 @@
 
     _Proficiency Bonus uses per Long Rest_
 
-    For **10** minutes, you can sense the location of precious metals, minerals, and gems worth at least **50** gold within **30** feet, even through walls and obstacles. You can identify the general category of material but not its specific type.
+    You can sense the location of precious metals, minerals, and gems worth at least **50** gold within **30** feet, even through walls and obstacles, for **10** minutes. You can identify the general category of material but not its specific type.
 
 ## Elf
 
@@ -138,8 +141,8 @@
 
     Choose an ancestry. Each ancestry has different spells and benefits.
 
-    ###### Ancestry Spells
-    You learn your ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn this ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
@@ -148,7 +151,7 @@
 
     ??? ancestry "Dark Elf"
 
-        Your Darkvision increases by **60** feet.
+        You gain **+60** feet of Darkvision.
 
         | Level | Spells Known |
         |---|---|
@@ -195,8 +198,8 @@
 
 ??? race "Gnomish Ancestry | —"
 
-    ###### Ancestry Spells
-    You learn your ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn this ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
@@ -240,7 +243,7 @@
 
     ??? ancestry "Cloud Goliath"
 
-        You gain Resistance to Thunder damage.
+        You gain Resistance to Thunder Damage.
 
         ###### Cloud Jaunt
 
@@ -252,7 +255,7 @@
 
     ??? ancestry "Fire Goliath"
 
-        You gain Resistance to Fire damage.
+        You gain Resistance to Fire Damage.
 
         ###### Fire Smite
 
@@ -260,11 +263,11 @@
 
         _Proficiency Bonus uses per Long Rest_
 
-        Before you deal damage, you can add **1d10** Fire damage.
+        Before you deal damage, you can add **1d10** Fire Damage.
 
     ??? ancestry "Frost Goliath"
 
-        You gain Resistance to Cold damage.
+        You gain Resistance to Cold Damage.
 
         ###### Frost Smite
 
@@ -272,11 +275,11 @@
 
         _Proficiency Bonus uses per Long Rest_
 
-        Before you deal damage, you can add **1d6** Cold damage. After you deal that damage, until the start of your next Turn, the target's Speed is reduced by **10** feet.
+        Before you deal damage, you can add **1d6** Cold Damage. After you deal that damage, the target's Speed is reduced by **10** feet until the start of your next Turn.
 
     ??? ancestry "Hill Goliath"
 
-        You gain Resistance to Poison damage.
+        You gain Resistance to Poison Damage.
 
         ###### Hill Quake
 
@@ -288,7 +291,7 @@
 
     ??? ancestry "Stone Goliath"
 
-        You gain Resistance to Poison damage.
+        You gain Resistance to Poison Damage.
 
         ###### Stone Endurance
 
@@ -300,7 +303,7 @@
 
     ??? ancestry "Storm Goliath"
 
-        You gain Resistance to Lightning damage.
+        You gain Resistance to Lightning Damage.
 
         ###### Storm Rebuke
 
@@ -308,7 +311,7 @@
 
         _Proficiency Bonus uses per Long Rest_
 
-        After you take damage from a creature within **60** feet of you, you can deal **1d8** Thunder damage to the target.
+        After you take damage from a creature within **60** feet of you, you can deal **1d8** Thunder Damage to the target.
 
 ## Halfling
 
@@ -353,9 +356,11 @@
 
 ??? race "Relentless Endurance | —"
 
+    _Free Action_
+
     _1 use per Long Rest_
 
-    Before you are reduced to **0** hit points but not killed outright, you can drop to **1** hit point instead.
+    Before you are reduced to **0** Hit Points but not killed outright, you can drop to **1** Hit Point instead.
 
 ??? race "Orcish Adrenaline | —"
 
@@ -378,13 +383,15 @@
 
 ??? race "Resourceful | —"
 
+    _Free Action_
+
     _1 use per Long Rest_
 
     Before you roll a d20, you can roll an additional d20 and choose which d20 to use.
 
 ??? race "Skillful | —"
 
-    You gain Proficiency in one Skill of your choice.
+    You gain Proficiency in one Skill.
 
 ??? race "Versatile | —"
 
@@ -420,21 +427,21 @@
 
     ??? ancestry "Reploid Synth"
 
-        Choose another race. You are visually indistinguishable from that race and use its size category, Speed, and reach, though you weigh twice as much as the race normally would.
+        Choose another race. You are visually indistinguishable from that race and use its Size Category, Speed, and Reach, though you weigh twice as much as the race normally would.
 
-        You gain one of the chosen race's features of your choice.
+        You gain one of the chosen race's features.
 
     ??? ancestry "Android Synth"
 
         You add **+1** to your Armor Class.
 
-        You gain Proficiency in one Skill and Proficiency with one Trade of your choice.
+        You gain Proficiency in one Skill and Proficiency with one Trade.
 
     ??? ancestry "Warforged Synth"
 
         You add **+1** to your Armor Class and Damage Reduction.
 
-        Your size is Large and your reach extends by **5** feet.
+        Your size is Large and your Reach extends by **5** feet.
 
         Your Physical Attacks deal double damage to objects and structures.
 
@@ -460,8 +467,8 @@
 
     Choose an ancestry. Each ancestry has different spells and determines the type of your Resistance.
 
-    ###### Ancestry Spells
-    You learn your ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn this ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
@@ -470,7 +477,7 @@
 
     ??? ancestry "Abyssal Tiefling"
 
-        You gain Resistance to Poison damage.
+        You gain Resistance to Poison Damage.
 
         | Level | Spells Known |
         |---|---|
@@ -480,7 +487,7 @@
 
     ??? ancestry "Chthonic Tiefling"
 
-        You gain Resistance to Necrotic damage.
+        You gain Resistance to Necrotic Damage.
 
         | Level | Spells Known |
         |---|---|
@@ -490,7 +497,7 @@
 
     ??? ancestry "Infernal Tiefling"
 
-        You gain Resistance to Fire damage.
+        You gain Resistance to Fire Damage.
 
         | Level | Spells Known |
         |---|---|

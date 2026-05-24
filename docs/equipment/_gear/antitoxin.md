@@ -7,5 +7,5 @@
     ###### Administer
     _Bonus Action_
 
-    A creature within your Reach consumes the Antitoxin. For **1** hour, that creature adds **+5** to Saving Throws against the Poisoned condition.
+    You can administer the Antitoxin to a creature within your Reach. That creature adds **+5** to Saving Throws against the Poisoned condition for **1** hour.
 

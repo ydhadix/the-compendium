@@ -10,7 +10,7 @@ General feats represent a wide range of specialized talents you may have acquire
     While you're disguised as another person, you have Advantage on Deception and Performance checks to convince others you aren't that person.
 
     ###### Mimicry
-    You can mimic the sounds of another creature. A creature that can hear you can make an Insight check _(DC = **[8 + CHA + PB]**)_ _(no action required)_.
+    You can mimic the sounds of another creature. A creature that can hear you can make a DC **[8 + CHA + PB]** Insight check _(no action required)_.
 
     | | |
     |---|---|
@@ -49,10 +49,10 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Push
     _Free Action_
 
-    After you deal Bludgeoning damage with an attack to a target no more than one size larger than you, you can move the target **5** feet to an unoccupied space.
+    After you deal Bludgeoning Damage with an Attack to a target no more than one size larger than you, you can move the target **5** feet to an unoccupied space.
 
     ###### Enhanced Critical
-    After you score a Critical Hit that deals Bludgeoning damage, until the start of your next Turn, attacks against the target have Advantage.
+    After you score a Critical Hit that deals Bludgeoning Damage, Attacks against the target have Advantage until the start of your next Turn.
 
 ??? feats "Durable | —"
 
@@ -80,7 +80,7 @@ General feats represent a wide range of specialized talents you may have acquire
     Before you roll a **1** on a Damage Die of the chosen Damage Type, you can treat the roll as a **2**.
 
     ###### Energy Resistance
-    You gain Resistance to the chosen damage.
+    You gain Resistance to the chosen Damage Type.
 
     ###### Irresistible Energy
     Damage you deal of the chosen Damage Type ignores Resistance.
@@ -92,8 +92,8 @@ General feats represent a wide range of specialized talents you may have acquire
 
     #### Fey-Touched
 
-    ###### Spells Known
-    You learn one 1st-level Divination or Enchantment Spell and the _Misty Step_ Spell. You can cast them using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn one 1st-Level Divination or Enchantment Spell and the _Misty Step_ Spell. You can cast them using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
@@ -101,7 +101,7 @@ General feats represent a wide range of specialized talents you may have acquire
     You can cast one of this feat's Spells without a Spell Slot.
 
     ###### Changing Spells
-    Whenever you level up, you can replace this feat's 1st-level Spell with another 1st-level Divination or Enchantment Spell.
+    Whenever you level up, you can replace this feat's 1st-Level Spell with another 1st-Level Divination or Enchantment Spell.
 
 ??? feats "Heavily Armored | Medium Armor Proficiency"
 
@@ -148,7 +148,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Mage Slayer
 
     ###### Concentration Breaker
-    After you damage a creature, until the end of the Turn, the target has Disadvantage on Concentration saves.
+    After you damage a creature, the target has Disadvantage on Concentration saves until the end of the Turn.
 
     ###### Indomitable Will
     _Free Action_
@@ -162,7 +162,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Martial Weapon Training
 
     ###### Weapon Proficiency
-    You gain Proficiency with Martial weapons.
+    You gain Proficiency with Martial Weapons.
 
 ??? feats "Medium Armor Master | Medium Armor Proficiency"
 
@@ -182,7 +182,7 @@ General feats represent a wide range of specialized talents you may have acquire
     Your Speed increases by **10** feet.
 
     ###### Dash over Difficult Terrain
-    Before you Dash, until the end of the Turn, Difficult Terrain doesn't cost you extra movement.
+    Before you Dash, Difficult Terrain doesn't cost you extra movement until the end of the Turn.
 
     ###### Agile Movement
     Opportunity Attacks have Disadvantage against you.
@@ -215,22 +215,22 @@ General feats represent a wide range of specialized talents you may have acquire
 
     _1 use per Turn_
 
-    Before you deal Piercing damage with an attack, you can reroll **1** Damage Die.
+    Before you deal Piercing Damage with an Attack, you can reroll **1** Damage Die.
 
     ###### Enhanced Critical
-    After you score a Critical Hit that deals Piercing damage, you can add **1** Damage Die to the Damage Roll.
+    After you score a Critical Hit that deals Piercing Damage, you can add **1** Damage Die to the Damage Roll.
 
 ??? feats "Planar Wanderer | —"
 
     #### Planar Wanderer
 
     ###### Damage Resistance
-    After a Long Rest, choose Acid, Cold, or Fire damage. Until your next Long Rest, you gain Resistance to the chosen damage.
+    After a Long Rest, choose Acid, Cold, or Fire Damage. Until your next Long Rest, you gain Resistance to the chosen Damage Type.
 
     ###### Portal Cracker
     _Magic Action_
 
-    Choose a portal within your reach and make an Arcana check _(DC = **20**)_.
+    You can choose a portal within your Reach and make a DC **20** Arcana check.
 
     | | |
     |---|---|
@@ -239,12 +239,12 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Revert Portal
     _Magic Action_
 
-    A creature holding the portal's key makes an Arcana check _(DC = **20**)_ to end this effect.
+    A creature holding the portal's key can make a DC **20** Arcana check to end this effect.
 
     | | |
     |---|---|
     | **Success** | This effect ends. |
-    | **Fail** | You deal **3d8** Psychic damage. Until the target finishes a Long Rest, it can't attempt this check on the same portal again. |
+    | **Fail** | You deal **3d8** Psychic Damage. The target can't attempt this check on the same portal again until it finishes a Long Rest. |
 
     ###### Portal Sense
     You learn the _Detect Portal_ Spell. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -259,7 +259,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Poisoner
 
     ###### Potent Poison
-    Poison damage you deal ignores Resistance.
+    Poison Damage you deal ignores Resistance.
 
     ###### Poisoner's Kit
     You gain Proficiency with the Poisoner's Kit. If you already have Proficiency, you can gain Expertise instead.
@@ -267,11 +267,11 @@ General feats represent a wide range of specialized talents you may have acquire
     ###### Brew Poison
     After a Short Rest, you can expend **50** gold in materials to craft **[PB]** doses of Personal Poison.
 
-    After a weapon coated in Personal Poison deals Piercing or Slashing damage, the target makes a Fortitude save _(DC = **[8 + INT or WIS + PB]**)_.
+    After a weapon coated in Personal Poison deals Piercing or Slashing Damage, the target makes a Fortitude save _(DC = **[8 + INT or WIS + PB]**)_.
 
     | | |
     |---|---|
-    | **Fail** | You deal **2d8** Poison damage. Until the end of your next Turn, the target is Poisoned. |
+    | **Fail** | You deal **2d8** Poison Damage. The target is Poisoned until the end of your next Turn. |
     | **Success** | No effect. |
 
     ###### Apply Poison
@@ -291,7 +291,7 @@ General feats represent a wide range of specialized talents you may have acquire
 
     _1 use per Long Rest_
 
-    Before you fail a save, you can succeed instead.
+    Before you fail a Saving Throw, you can succeed instead.
 
 ??? feats "Resourceful | 2 Dexterity"
 
@@ -306,28 +306,28 @@ General feats represent a wide range of specialized talents you may have acquire
     You add **[PB]** to the number of unworn items you have access to in combat.
 
     ###### Steady Stockpile
-    After a Long Rest, you can turn an Ammunition container within your reach into a Steady Stockpile. Your Steady Stockpile never runs out of nonmagical Ammunition. Any Ammunition produced this way is destroyed immediately after the attack.
+    After a Long Rest, you can turn an Ammunition container within your Reach into a Steady Stockpile. Your Steady Stockpile never runs out of nonmagical Ammunition. Any Ammunition produced this way is destroyed immediately after the Attack.
 
 ??? feats "Ritual Caster | 2 Intelligence, Wisdom, or Charisma"
 
     #### Ritual Caster
 
     ###### Ritual Spells
-    You learn **[PB]** 1st-level Ritual Spells. You can cast them using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    You learn **[PB]** 1st-Level Ritual Spells. You can cast them using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
-    Whenever your Proficiency Bonus increases, you learn an additional 1st-level Ritual Spell.
+    Whenever your Proficiency Bonus increases, you learn an additional 1st-Level Ritual Spell.
 
     ###### Quick Ritual
     _1 use per Long Rest_
 
-    You can cast a Ritual Spell you know without a Spell Slot using its regular casting time.
+    You can cast a Ritual Spell you know without a Spell Slot using its regular Casting Time.
 
 ??? feats "Scion of Chaos | Chaotic alignment, no Scion Feat"
 
     #### Scion of Chaos
 
     ###### Damage Resistance
-    You gain Resistance to Poison damage. _(Not the Poisoned condition)_
+    You gain Resistance to Poison Damage. _(Not the Poisoned condition)_
 
     ###### Minor Magic
     You learn the _Minor Illusion_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -337,8 +337,8 @@ General feats represent a wide range of specialized talents you may have acquire
 
     | d4 | Effect |
     |---|---|
-    | 1 | **Battle Fury** — One creature within **60** feet has Advantage on Attack Rolls and Disadvantage on Ability Checks. |
-    | 2 | **Disruption Field** — You deal **1d8** Force damage to everything within a **5**-foot Aura, and everything that enters that area for the first time on a Turn. |
+    | 1 | **Battle Fury** — Choose one creature within **60** feet. It has Advantage on Attack Rolls and Disadvantage on Ability Checks. |
+    | 2 | **Disruption Field** — You deal **1d8** Force Damage to everything within a **5**-foot Aura, and everything that enters that area for the first time on a Turn. |
     | 3 | **Unbound** — Before you move, you can use some or all of your Speed to teleport that distance instead. |
     | 4 | **Wailing Winds** — You and every creature within a **15**-foot Aura have Disadvantage on Will saves. |
 
@@ -347,12 +347,12 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Scion of Crossroads
 
     ###### Damage Resistance
-    You gain Resistance to Psychic damage.
+    You gain Resistance to Psychic Damage.
 
     ###### Minor Magic
     You learn the _Mage Hand_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
-    ###### Spells Known
+    ###### Learned Spells
     You learn the _Misty Step_ and _Tongues_ Spells. You can cast them using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
@@ -365,7 +365,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Scion of Order
 
     ###### Damage Resistance
-    You gain Resistance to Force damage.
+    You gain Resistance to Force Damage.
 
     ###### Minor Magic
     You learn the _Guidance_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -375,11 +375,11 @@ General feats represent a wide range of specialized talents you may have acquire
 
     _Proficiency Bonus uses per Long Rest_
 
-    Before you deal damage to a creature within **60** feet, you can add **1d8** Force damage. After you deal that damage, the target makes a Will save _(DC = **[8 + INT, WIS, or CHA + PB]**)_.
+    Before you deal damage to a creature within **60** feet, you can add **1d8** Force Damage. After you deal that damage, the target makes a Will save _(DC = **[8 + INT, WIS, or CHA + PB]**)_.
 
     | | |
     |---|---|
-    | **Fail** | Until the end of your next Turn, the target is Restrained. |
+    | **Fail** | The target is Restrained until the end of your next Turn. |
     | **Success** | No effect. |
 
 ??? feats "Scion of Righteousness | Good alignment, no Scion Feat"
@@ -387,7 +387,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Scion of Righteousness
 
     ###### Damage Resistance
-    You gain Resistance to Radiant damage.
+    You gain Resistance to Radiant Damage.
 
     ###### Minor Magic
     You learn the _Sacred Flame_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -404,7 +404,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Scion of Scorn
 
     ###### Damage Resistance
-    You gain Resistance to Necrotic damage.
+    You gain Resistance to Necrotic Damage.
 
     ###### Minor Magic
     You learn the _Chill Touch_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -414,14 +414,14 @@ General feats represent a wide range of specialized talents you may have acquire
 
     _Proficiency Bonus uses per Long Rest_
 
-    Before you deal damage to a creature within **60** feet, you can add **[1d6 + PB]** Necrotic damage. After you deal that damage, you heal by the Necrotic damage dealt.
+    Before you deal damage to a creature within **60** feet, you can add **[1d6 + PB]** Necrotic Damage and heal by the Necrotic Damage dealt.
 
 ??? feats "Shadow-Touched | —"
 
     #### Shadow-Touched
 
-    ###### Spells Known
-    You learn one 1st-level Illusion or Necromancy Spell and the _Invisibility_ Spell. You can cast them using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+    ###### Learned Spells
+    You learn one 1st-Level Illusion or Necromancy Spell and the _Invisibility_ Spell. You can cast them using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
     ###### Free Casting
     _1 use each per Long Rest_
@@ -429,14 +429,14 @@ General feats represent a wide range of specialized talents you may have acquire
     You can cast one of this feat's Spells without a Spell Slot.
 
     ###### Changing Spells
-    Whenever you level up, you can replace this feat's 1st-level Spell with another 1st-level Illusion or Necromancy Spell.
+    Whenever you level up, you can replace this feat's 1st-Level Spell with another 1st-Level Illusion or Necromancy Spell.
 
 ??? feats "Skill Expert | —"
 
     #### Skill Expert
 
     ###### Skill Proficiency
-    You gain Proficiency in one Skill of your choice.
+    You gain Proficiency in one Skill.
 
     ###### Expertise
     Choose one Skill in which you have Proficiency. You gain Expertise in that Skill.
@@ -446,7 +446,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Skulker
 
     ###### Blindsight
-    You have Blindsight with a range of **10** feet.
+    You gain **+10** feet of Blindsight.
 
     ###### Fog of War
     You have Advantage on Stealth checks made as part of the Hide Action during combat.
@@ -463,17 +463,17 @@ General feats represent a wide range of specialized talents you may have acquire
 
     _1 use per Turn_
 
-    After you hit a creature with an attack that deals Slashing damage, until the start of your next Turn, the target's Speed is reduced by **10** feet.
+    After you hit a creature with an Attack that deals Slashing Damage, the target's Speed is reduced by **10** feet until the start of your next Turn.
 
     ###### Enhanced Critical
-    After you score a Critical Hit that deals Slashing damage, until the start of your next Turn, the target has Disadvantage on Attack Rolls.
+    After you score a Critical Hit that deals Slashing Damage, the target has Disadvantage on Attack Rolls until the start of your next Turn.
 
 ??? feats "Spellblade | Extra Attack"
 
     #### Spellblade
 
     ###### Sword and Spell
-    Before you Attack on your Turn, you can replace **1** of your attacks with casting a Cantrip with a Casting Time under **1** minute.
+    Before you Attack on your Turn, you can replace **1** of your Attacks with casting a Cantrip with a Casting Time under **1** minute.
 
 ??? feats "Spell Sniper | Spellcasting"
 

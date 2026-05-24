@@ -75,7 +75,7 @@ If you don't meet your armor's Strength requirement, your Speed is reduced by **
 
 ### Damage Reduction
 
-While wearing armor with Damage Reduction, the amount of Bludgeoning, Piercing, and Slashing damage you take from attacks is reduced by that amount.
+While wearing armor with Damage Reduction, the amount of Bludgeoning, Piercing, and Slashing Damage you take from Attacks is reduced by that amount.
 
 ### Item Capacity
 
@@ -91,7 +91,7 @@ A Light Shield leaves your hand free.
 
 _Reaction_
 
-Before you are hit by an attack, until the end of the Turn, you can add **+2** to your Armor Class while your shield hand is free.
+Before you are hit by an Attack, you can add **+2** to your Armor Class, while your shield hand is free, until the end of the Turn.
 
 ### Medium Shield
 

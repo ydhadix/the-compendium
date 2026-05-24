@@ -11,7 +11,7 @@
 
     | | |
     |---|---|
-    | **Fail** | You deal **1d4** Piercing damage. The trap attaches to the target. Until the start of the target's next Turn, the target is Immobile. |
+    | **Fail** | The target takes **1d4** Piercing Damage. The trap attaches to the target. The target is Immobile until the start of its next Turn. |
     | **Success** | No effect. |
 
     While the Hunting Trap is attached to a creature, the creature's movement is limited by the length of the Chain (typically **3** feet).
@@ -24,5 +24,5 @@
     | | |
     |---|---|
     | **Success** | The Hunting Trap is removed. |
-    | **Fail** | The trap deals **1** Piercing damage to the attached creature. |
+    | **Fail** | The trap deals **1** Piercing Damage to the attached creature. |
 
