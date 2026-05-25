@@ -4,7 +4,7 @@
 
     | Common Focus (Arcane) | — |
     |---|---|
-    | charges | 3 at dawn |
+    | Charges | 3 per Day |
 
     _Magic Action_
 

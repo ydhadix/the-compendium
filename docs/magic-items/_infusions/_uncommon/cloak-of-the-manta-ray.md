@@ -5,4 +5,4 @@
     | Uncommon Clothing (Cloak) | — |
     |---|---|
 
-    You have a Swim Speed of **60** feet and can breathe underwater.
+    You have a **60**-foot Swim Speed and can breathe underwater.

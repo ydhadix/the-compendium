@@ -4,7 +4,7 @@
 
     | Common Clothing (Hat) | — |
     |---|---|
-    | charges | 3 at dawn |
+    | Charges | 3 per Day |
 
     _Magic Action_
 

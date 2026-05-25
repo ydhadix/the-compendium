@@ -4,7 +4,7 @@
 
     | Uncommon Focus (Arcane) | Attunement (Spellcaster) |
     |---|---|
-    | charges | 3 (1d3 at dawn) |
+    | Charges | 3 (1d3 per Day) |
 
     _Magic Action_
 

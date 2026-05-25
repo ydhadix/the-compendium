@@ -204,7 +204,7 @@ body,
 }
 
 /* ============================================================
-   HEADINGS — shared
+   HEADINGS
    ============================================================ */
 
 .md-typeset h1,
@@ -215,8 +215,7 @@ body,
 .md-typeset h6 {
     font-family: "Alegreya SC", serif;
     font-weight: 700;
-    /* letter-spacing: ; */
-    /* text-transform: ; */
+    color: var(--clr-accent);
 }
 
 .md-typeset h1                 { font-size: 2.2rem; margin-bottom: 0.2em; }
@@ -225,7 +224,7 @@ body,
 .md-typeset h5                 { font-size: 1.25rem; }
 .md-typeset h5                 { text-transform: none; }
 .md-typeset h4                 { height: 0; overflow: hidden; margin: 0; padding: 0; line-height: 0; scroll-margin-top: 100rem; }
-.md-typeset h6                 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; }
+.md-typeset h6                 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; color: var(--clr-body-text); }
 .md-typeset h3,
 .md-typeset h6                 { margin-top: 0.2em; margin-bottom: 0; }
 .md-typeset h3 + *,
@@ -239,34 +238,6 @@ body,
     border-bottom: 1px solid var(--clr-divider);
     padding-bottom: 0.25em;
 }
-
-/* ============================================================
-   HEADINGS — light mode
-   ============================================================ */
-
-[data-md-color-scheme="default"] .md-typeset h1,
-[data-md-color-scheme="default"] .md-typeset h2,
-[data-md-color-scheme="default"] .md-typeset h3,
-[data-md-color-scheme="default"] .md-typeset h4,
-[data-md-color-scheme="default"] .md-typeset h5,
-[data-md-color-scheme="default"] .md-typeset h6 {
-    color: var(--clr-accent);
-}
-[data-md-color-scheme="default"] .md-typeset h6 { color: var(--clr-body-text); }
-
-/* ============================================================
-   HEADINGS — dark mode
-   ============================================================ */
-
-[data-md-color-scheme="slate"] .md-typeset h1,
-[data-md-color-scheme="slate"] .md-typeset h2,
-[data-md-color-scheme="slate"] .md-typeset h3,
-[data-md-color-scheme="slate"] .md-typeset h4,
-[data-md-color-scheme="slate"] .md-typeset h5,
-[data-md-color-scheme="slate"] .md-typeset h6 {
-    color: var(--clr-accent);
-}
-[data-md-color-scheme="slate"] .md-typeset h6 { color: var(--clr-body-text); }
 
 /* ============================================================
    HEADER / SITE NAME
@@ -297,19 +268,13 @@ body[data-md-color-scheme="slate"] .md-tabs {
    BACKGROUND TEXTURE
    ============================================================ */
 
-body[data-md-color-scheme="default"] {
-    background-color: var(--clr-leather-bg);
+body {
     background-image: url("../assets/images/large-leather.png");
     background-repeat: repeat;
     background-blend-mode: overlay;
 }
-
-body[data-md-color-scheme="slate"] {
-    background-color: var(--clr-page-bg);
-    background-image: url("../assets/images/large-leather.png");
-    background-repeat: repeat;
-    background-blend-mode: overlay;
-}
+body[data-md-color-scheme="default"] { background-color: var(--clr-leather-bg); }
+body[data-md-color-scheme="slate"]   { background-color: var(--clr-page-bg); }
 
 /* Sidebars are transparent — leather texture shows through from the body. */
 .md-main__inner,
@@ -483,6 +448,13 @@ body[data-md-color-scheme="slate"] {
 
 /* ============================================================
    TABLES
+
+   Material wraps wide tables in .md-typeset__scrollwrap >
+   .md-typeset__table > table, and sets the inner table to
+   display:inline-block for horizontal scrolling. We restore
+   display:table on user-authored tables (selector :not([class]))
+   so table-layout and column widths behave normally, and zero
+   the wrapper margins so adjacent tables stack flush.
    ============================================================ */
 
 /* Suppress the header row when all column headers are empty.
@@ -500,8 +472,6 @@ body[data-md-color-scheme="slate"] {
     display: none;
 }
 
-/* Material sets display:inline-block on tables; restore display:table so
-   table-layout and width behave correctly. */
 .md-typeset table:not([class]) {
     display: table;
     background-color: var(--clr-table-bg);
@@ -509,12 +479,8 @@ body[data-md-color-scheme="slate"] {
     border: 3px solid var(--clr-divider);
 }
 
-/* Remove Material's default cell borders; only draw the dividers we want.
-   With border-collapse the table's own border wins the outer edges when
-   cells have none. */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    /* border: none; */
     padding: 0.2rem 0.5rem;
     vertical-align: middle;
 }

@@ -4,7 +4,7 @@
 
     | Uncommon Wondrous Item | — |
     |---|---|
-    | charges | 1 at dawn |
+    | Charges | 1 per Day |
 
     ###### Name Liquid
     _Magic Action_

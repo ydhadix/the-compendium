@@ -4,10 +4,10 @@
 
     | Common Wondrous Item | — |
     |---|---|
-    | charges | 4 (1d4 at dawn) |
+    | Charges | 4 (1d4 per Day) |
 
     _Magic Action_
 
     _1 Charge_
 
-    You can blow the horn, and only one creature of your choice within **600** feet of the horn can hear it.
+    You can choose **1** creature within **600** feet and blow the horn.  Only the chosen creature can hear it.

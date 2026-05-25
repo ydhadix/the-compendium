@@ -4,7 +4,7 @@
 
     | Rare Clothing (Jewelry) | Attunement (Spellcaster) |
     |---|---|
-    | charges | 5 (1d4+1 at dawn) |
+    | Charges | 5 (1d4+1 per Day) |
 
     _Free Action_
 
@@ -12,5 +12,5 @@
 
     | | |
     |---|---|
-    | **d6 ≥ Spell's Level** | You cast the Spell spending **1** Charge per Spell Level instead of a Spell Slot. |
-    | **d6 < Spell's Level** | You cast the Spell using a Spell Slot as normal.  Without a Spell Slot, the casting fails _(the Casting Time is still expended)_. |
+    | **d6 ≥ Spell Level** | You cast the Spell spending **1** Charge per Spell Level instead of a Spell Slot. |
+    | **d6 < Spell Level** | You cast the Spell using a Spell Slot as normal.  Without a Spell Slot, the casting fails _(the Casting Time is still expended)_. |

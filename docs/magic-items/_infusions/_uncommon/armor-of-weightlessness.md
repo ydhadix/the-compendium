@@ -4,7 +4,7 @@
 
     | Uncommon Armor (Any) | Attunement |
     |---|---|
-    | charges | 5 (1d4+1 at dawn) |
+    | Charges | 5 (1d4+1 per Day) |
 
     You have Immunity to Falling Damage.
 

@@ -5,4 +5,4 @@
     | Common Wondrous Item | — |
     |---|---|
 
-    The flame of this candle doesn't go out when immersed in water.  It gives off light and heat like a normal candle.
+    The flame of this candle doesn't go out while submerged in water.  It gives off light and heat like a normal candle.

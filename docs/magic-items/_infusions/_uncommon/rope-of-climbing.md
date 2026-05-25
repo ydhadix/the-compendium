@@ -14,7 +14,7 @@
 
     | Command Word | Effect |
     |---|---|
-    | move / stop | Choose a location within **60** feet.  The other end moves **10** feet toward it before each of your Turns ends. |
-    | fasten / unfasten | The other end securely fastens to an object. |
-    | knot / unknot | Large knots appear at **1**-foot intervals, shortening the rope to **50** feet and granting Advantage on checks to Climb it. |
-    | coil / uncoil | All other effects end and the rope coils itself. |
+    | Move / Stop | Choose a location within **60** feet.  The other end moves **10** feet toward it before each of your Turns ends. |
+    | Fasten / Unfasten | The other end securely fastens to an object. |
+    | Knot / Unknot | Large knots appear at **1**-foot intervals, shortening the rope to **50** feet and granting Advantage on checks to Climb it. |
+    | Coil / Uncoil | All other effects end and the rope coils itself. |

@@ -4,7 +4,7 @@
 
     | Very Rare Clothing (Jewelry) | Attunement (Spellcaster) |
     |---|---|
-    | charges | 6 (1d6 at dawn) |
+    | Charges | 6 (1d6 per Day) |
 
     ###### Guiding Lights
     _Magic Action_
@@ -15,7 +15,7 @@
 
     _1 to 3 Charges_
 
-    You can cast _Cure Wounds_, _Faerie Fire_, or _Guiding Bolt_.  Increase the Spell's Level by **1** for each additional Charge expended.
+    You can cast _Cure Wounds_, _Faerie Fire_, or _Guiding Bolt_.  Increase the Spell Level by **1** for each additional Charge expended.
 
     ###### Shooting Stars
     _Magic Action_
@@ -30,12 +30,12 @@
     | **Success** | You deal half as much damage. |
 
     ###### Celestial Body
-    Each dawn, choose one of the following effects:
+    After each Long Rest, choose one of the following effects:
 
     | Effect | Benefit |
     |---|---|
     | Sun | Before you cast a Spell that deals Fire Damage, you can change it to Radiant Damage, or vice-versa. |
-    | Moon | After you use magic to heal another creature, you can gain Temporary Hit Points equal to your Spellcasting Ability.  While you have these Temporary Hit Points, you have Immunity to the Frightened condition. |
+    | Moon | After you use magic to heal another creature, you can gain Temporary Hit Points equal to your Spellcasting Ability.  While you have these Temporary Hit Points, you gain Immunity to Frightened. |
     | Meteor | After you use Shooting Stars, you can teleport to a space in any of the chosen Spheres. |
 
     _Bonus Action_

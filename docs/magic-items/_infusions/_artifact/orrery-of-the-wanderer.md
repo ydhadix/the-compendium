@@ -12,7 +12,7 @@
     ###### Part of a Whole
     While a component is not installed in the completed chassis, Attuning to the component may have unpredictable side effects, as determined by the DM.
 
-    ###### Chassis
+    ##### Chassis
     _Attunement (Special)_
 
     This hollow, golden shell contains the framework necessary to connect the other components of the orrery.
@@ -40,8 +40,8 @@
     ###### Master of Travel
     ???
 
-    ###### Chronometer
-    _Attunement — 1 Charge (1 at Dawn)_
+    ##### Chronometer
+    _Attunement — 1 Charge (1 per Day)_
 
     This precision timepiece uses the position of celestial bodies to pinpoint your location and heading.  This component adds **+1** to your Armor Class, and you always know which way is north.
 
@@ -53,15 +53,15 @@
 
     _1 Charge_
 
-    After you damage a creature, you can force it to make a Will save _(DC **15**)_.
+    After you damage a creature, you can have it make a Will save _(DC = **15**)_.
 
     | | |
     |---|---|
     | **Fail** | The creature is banished to a harmless demiplane until the end of its next Turn. |
     | **Success** | No effect. |
 
-    ###### Dimensional Loop
-    _Attunement — 1 Charge (1 at Dawn)_
+    ##### Dimensional Loop
+    _Attunement — 1 Charge (1 per Day)_
 
     This ovular, golden loop detects and manipulates interdimensional portals.  This component adds **+1** to your Will saves, and you can't be surprised.
 
@@ -82,8 +82,8 @@
     | **Success** | You force the portal open or closed for **1** hour. |
     | **Fail** | You take **3d8** Psychic Damage. |
 
-    ###### Far Gear
-    _Attunement — 1 Charge (1 at Dawn)_
+    ##### Far Gear
+    _Attunement — 1 Charge (1 per Day)_
 
     This set of intricate, platinum gears calculate the shortest path to a destination.  This component adds **+1** to your Attack Rolls, and Difficult Terrain doesn't cost you extra movement.
 
@@ -99,8 +99,8 @@
 
     Choose a space you can see within **60** feet.  Until the end of your Turn, you treat that space as if it were within **5** feet of you.
 
-    ###### Rotor of Return
-    _Attunement — 1 Charge (1 at Dawn)_
+    ##### Rotor of Return
+    _Attunement — 1 Charge (1 per Day)_
 
     Shifting runes on this circular disk perpetually record recent dates, times, and coordinates.  This component adds **+1** to your Reflex saves, and you can accurately recall anything you have perceived within the past **30** days.
 
@@ -112,14 +112,16 @@
 
     You record your current location in the rotor.
 
+    ###### Recall Signal
+
     _Bonus Action_
 
     _1 Charge_
 
     You can teleport up to **500** feet to the last location recorded in the rotor.
 
-    ###### Timepiece of Travel
-    _Attunement — 1 Charge (1 at Dawn)_
+    ##### Timepiece of Travel
+    _Attunement — 1 Charge (1 per Day)_
 
     This set of shimmering brass dials and gears track the passage of time across different planes.  This component adds **+1** to your Spell Save DC, and you always know what hour of the day it is.
 
@@ -133,16 +135,17 @@
 
     _1 Charge_
 
-    After a creature makes a d20 Roll, you can record the result and reroll the d20.  A recorded result is lost at Dawn.
+    Before a creature rolls a d20 , you can record the result and reroll the die.  A recorded result does not carry between Days.
 
+    ###### Time Slip
     _Reaction_
 
     _1 recorded result_
 
-    Before a creature makes a d20 Roll, you can replace the d20 with the recorded result.
+    Before a creature rolls a d20, you can replace the d20 with the recorded result.
 
-    ###### Wheel of Stars
-    _Attunement — 1 Charge (1 at Dawn)_
+    ##### Wheel of Stars
+    _Attunement — 1 Charge (1 per Day)_
 
     This astrolabe is etched with spinning constellations and a single, shifting line.  This component adds **+1** to your Fortitude saves, and you don't need to eat or drink.
 

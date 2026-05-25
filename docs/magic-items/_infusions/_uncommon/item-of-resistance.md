@@ -2,7 +2,7 @@
 
     #### Item of Resistance
 
-    | Uncommon Wondrous Item | attunement |
+    | Uncommon Wondrous Item | Attunement |
     |---|---|
 
     *Not yet added.*

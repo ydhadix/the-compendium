@@ -4,14 +4,15 @@
 
     | Common Focus (Arcane) | Attunement (Warlock) |
     |---|---|
-    | charges | 1 at dawn |
+    | Charges | 1 per Day |
 
     _Magic Action_
 
     _1 Charge_
 
-    Make a DC **10** Arcana check.
+    You can make a DC **10** Arcana check.
 
     | | |
     |---|---|
-    | **Success** | You cast a Warlock Cantrip of your choice that you don't know. |
+    | **Success** | You cast a Warlock Cantrip that you don't know. |
+    | **Fail** | No effect. |

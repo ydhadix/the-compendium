@@ -4,10 +4,10 @@
 
     | Common Wondrous Item | — |
     |---|---|
-    | charges | 10 (1d6+4 at dawn) |
+    | Charges | 10 (1d6+4 per Day) |
 
     _Magic Action_
 
     _1 Charge_
 
-    You can summon a pinch of nonmagical food seasoning of your choice, enough to season a single meal.
+    You can summon a pinch of nonmagical food seasoning, enough to season a single meal.

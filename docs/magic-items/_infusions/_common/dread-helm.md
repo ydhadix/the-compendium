@@ -5,4 +5,4 @@
     | Common Clothing (Hat) | — |
     |---|---|
 
-    While donned, your face is hidden in shadow and your eyes glow red.
+    While worn, your face is hidden in shadow and your eyes glow red.

@@ -5,4 +5,4 @@
     | Uncommon Clothing (Jewelry) | — |
     |---|---|
 
-    While examining something within your Reach, you have Darkvision and Advantage on Perception checks.
+    While examining something within your Reach, you gain **+5** feet of Darkvision and have Advantage on Perception checks.

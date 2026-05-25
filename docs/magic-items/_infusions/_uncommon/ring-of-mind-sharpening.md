@@ -4,7 +4,7 @@
 
     | Uncommon Clothing (Jewelry) | Attunement |
     |---|---|
-    | charges | 4 (1d4 at dawn) |
+    | Charges | 4 (1d4 per Day) |
 
     _Reaction_
 

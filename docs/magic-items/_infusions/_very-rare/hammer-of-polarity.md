@@ -4,7 +4,7 @@
 
     | Very Rare Weapon (Hammer) | Attunement (Spellcaster) |
     |---|---|
-    | charges | 7 (1d4+3 at dawn) |
+    | Charges | 7 (1d4+3 per Day) |
 
     ###### Magnetic Compass
     While you aren't holding this weapon, it hovers within your Reach, remaining upright and leaving your hands free.  The weapon moves around you to indicate magnetic north.
@@ -37,4 +37,4 @@
 
     _4 Charges_
 
-    Before you or a creature within **5** feet of you is targeted by an Attack or forced to make a save, you can summon an immobile barrier of force in a **5**-foot Aura for **1** minute _(Concentration)_.  This barrier blocks all Attacks and effects in both directions _(including the triggering Attack or effect)_.
+    Before you or a creature within **5** feet of you is targeted by an Attack or makes a Saving Throw, you can summon an immobile barrier of force in a **5**-foot Aura for **1** minute _(Concentration)_.  This barrier blocks all Attacks and effects in both directions _(including the triggering Attack or effect)_.

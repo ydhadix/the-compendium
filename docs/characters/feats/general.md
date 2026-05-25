@@ -37,10 +37,10 @@ General feats represent a wide range of specialized talents you may have acquire
     You gain Proficiency with Cook's Utensils. If you already have Proficiency, you can gain Expertise instead.
 
     ###### Replenishing Meal
-    After a Short Rest, choose up to **[4 + PB]** creatures that used one or more Hit Dice to heal during this rest. You heal each chosen creature by **1d8**.
+    After a Short Rest, you can choose up to **[4 + PB]** creatures that used one or more Hit Dice to heal during this rest. You heal each chosen creature by **1d8**.
 
     ###### Bolstering Treats
-    After a Short Rest, you create **[PB]** treats. A creature can use the Utilize Action to eat a treat, gaining **[PB]** Temporary Hit Points. Uneaten treats spoil after **8** hours.
+    After a Short Rest, you can create **[PB]** treats. A creature can use the Utilize Action to eat a treat, gaining **[PB]** Temporary Hit Points. Uneaten treats spoil after **8** hours.
 
 ??? feats "Crusher | —"
 
@@ -179,7 +179,7 @@ General feats represent a wide range of specialized talents you may have acquire
     #### Mobile
 
     ###### Speed Increase
-    Your Speed increases by **10** feet.
+    Your Speed increases by **+10** feet.
 
     ###### Dash over Difficult Terrain
     Before you Dash, Difficult Terrain doesn't cost you extra movement until the end of the Turn.

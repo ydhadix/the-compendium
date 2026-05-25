@@ -4,19 +4,19 @@
 
     | Uncommon Wondrous Item (Musical Instrument) | — |
     |---|---|
-    | charges | 3 (1d3 at dawn) |
+    | Charges | 3 (1d3 per Day) |
 
     ###### Haunt
     _Magic Action_
 
     _1 Charge_
 
-    Choose any number of creatures within **30** feet.  Each target makes a Will save _(DC = **15**)_.
+    Choose any number of creatures within **30** feet.  Each target makes a Will save _(DC = **13**)_.
 
     | | |
     |---|---|
     | **Fail** | The target is Frightened of you for **1** minute. |
-    | **Success** | The target is immune to this item's effects for **24** hours. |
+    | **Success** | The target has Immunity to this item's effects for **24** hours. |
 
     Before a Frightened target's Turn ends, it repeats this save.
 

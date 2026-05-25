@@ -4,7 +4,7 @@
 
     | Uncommon Clothing (Jewelry) | Attunement (Spellcaster) |
     |---|---|
-    | charges | 1 at dawn |
+    | Charges | 1 per Day |
 
     _Bonus Action_
 

@@ -43,3 +43,9 @@ You can resume a rest immediately after an interruption, but a travel or long re
 Resting isn't mandatory, but going without sleep has its consequences. If you go 24 hours without finishing a travel or long rest, you must succeed on a DC 10 fortitude save or gain 1 level of exhaustion.
 
 Each time you make this save the DC increases by 5. The DC resets to 10 when you finish a long rest.
+
+## The Day
+
+A **Day** is the fundamental recurring time cycle of the campaign setting. Its duration and the moment it begins are designated by the DM based on context — typically a 24-hour cycle starting at a fixed point such as midnight or dawn in standard settings, or an equivalent cycle determined by the DM in non-standard settings such as the Astral Plane or a spelljamming vessel.
+
+Features and Magic Items that recharge or reset **per Day** do so at the start of each Day, independent of any character's rest. If a Day boundary occurs during an active Encounter, the recharge is delayed until the Encounter concludes.

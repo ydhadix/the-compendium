@@ -2,7 +2,7 @@
 
     #### Ring of Jumping
 
-    | Uncommon Clothing (Jewelry) | attunement |
+    | Uncommon Clothing (Jewelry) | Attunement |
     |---|---|
 
     *Not yet added.*

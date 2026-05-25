@@ -4,7 +4,7 @@
 
     | Uncommon Armor (Any) | Attunement (Spellcaster) |
     |---|---|
-    | charges | 6 (1d6 at dawn) |
+    | Charges | 6 (1d6 per Day) |
 
     ###### Arcane Might
     _Free Action_

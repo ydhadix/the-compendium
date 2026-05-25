@@ -2,9 +2,9 @@
 
     #### Weapon of Radiance
 
-    | Uncommon Weapon (Any) | Attunement (Spellcaster) |
+    | Uncommon Weapon (Any) | Attunement |
     |---|---|
-    | charges | 4 (1d4 at dawn) |
+    | Charges | 4 (1d4 per Day) |
 
     This weapon emits **30** feet of Bright Light and Dim Light **30** feet further.
 
@@ -18,7 +18,7 @@
 
     _1 Charge_
 
-    Before a creature attacks you, the attacker makes a Fortitude save _(DC = **15**)_.
+    Before a creature attacks you, the attacker makes a Fortitude save _(DC = **13**)_.
 
     | | |
     |---|---|

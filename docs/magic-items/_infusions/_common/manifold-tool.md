@@ -4,7 +4,7 @@
 
     | Common Wondrous Item | Attunement (Artificer) |
     |---|---|
-    | charges | 1 at dawn |
+    | Charges | 1 per Day |
 
     ###### Transform Tool
     _Magic Action_
@@ -16,4 +16,4 @@
 
     _1 Charge_
 
-    You can gain Proficiency with one Artisan's Tool of your choice until you finish a Long Rest.
+    You can gain Proficiency with one Artisan's Tool until you finish a Long Rest.
