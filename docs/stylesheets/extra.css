@@ -1,619 +1,692 @@
-/* ============================================================
-   FONTS
-   ============================================================ */
+/* =========================================================================
+   Custom chrome on top of Material — PythonMusic layout, Compendium skin.
+   Dark sticky header with a hover mega-menu; textured two-tone body (leather
+   page behind a parchment content panel); optional contextual left nav. The
+   text column is fixed, with an interior inset that grows 60em..80.6em.
+   ========================================================================= */
 
-@font-face {
-    font-family: "Beclave";
-    src: url("../assets/fonts/Beclave Demo.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-}
+/* ----- Fonts (self-hosted; theme.font is false) -------------------------- */
+@font-face { font-family: "Beclave";          src: url("../fonts/Beclave Demo.ttf") format("truetype");        font-weight: 400; font-style: normal; }
+@font-face { font-family: "Alegreya SC";      src: url("../fonts/AlegreyaSC-Regular.ttf") format("truetype");  font-weight: 400; font-style: normal; }
+@font-face { font-family: "Alegreya SC";      src: url("../fonts/AlegreyaSC-Italic.ttf") format("truetype");   font-weight: 400; font-style: italic; }
+@font-face { font-family: "Alegreya SC";      src: url("../fonts/AlegreyaSC-Bold.ttf") format("truetype");     font-weight: 700; font-style: normal; }
+@font-face { font-family: "Alegreya SC";      src: url("../fonts/AlegreyaSC-BoldItalic.ttf") format("truetype"); font-weight: 700; font-style: italic; }
+@font-face { font-family: "Alegreya Sans SC"; src: url("../fonts/AlegreyaSansSC-Regular.ttf") format("truetype");  font-weight: 400; font-style: normal; }
+@font-face { font-family: "Alegreya Sans SC"; src: url("../fonts/AlegreyaSansSC-Italic.ttf") format("truetype");   font-weight: 400; font-style: italic; }
+@font-face { font-family: "Alegreya Sans SC"; src: url("../fonts/AlegreyaSansSC-Bold.ttf") format("truetype");     font-weight: 700; font-style: normal; }
+@font-face { font-family: "Alegreya Sans SC"; src: url("../fonts/AlegreyaSansSC-BoldItalic.ttf") format("truetype"); font-weight: 700; font-style: italic; }
+@font-face { font-family: "Lato";             src: url("../fonts/Lato-Regular.ttf") format("truetype");    font-weight: 400; font-style: normal; }
+@font-face { font-family: "Lato";             src: url("../fonts/Lato-Italic.ttf") format("truetype");     font-weight: 400; font-style: italic; }
+@font-face { font-family: "Lato";             src: url("../fonts/Lato-Bold.ttf") format("truetype");       font-weight: 700; font-style: normal; }
+@font-face { font-family: "Lato";             src: url("../fonts/Lato-BoldItalic.ttf") format("truetype"); font-weight: 700; font-style: italic; }
 
-@font-face {
-    font-family: "Alegreya SC";
-    src: url("../assets/fonts/AlegreyaSC-Regular.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Alegreya SC";
-    src: url("../assets/fonts/AlegreyaSC-Italic.ttf") format("truetype");
-    font-weight: 400;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "Alegreya SC";
-    src: url("../assets/fonts/AlegreyaSC-Bold.ttf") format("truetype");
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Alegreya SC";
-    src: url("../assets/fonts/AlegreyaSC-BoldItalic.ttf") format("truetype");
-    font-weight: 700;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "Alegreya Sans SC";
-    src: url("../assets/fonts/AlegreyaSansSC-Regular.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Alegreya Sans SC";
-    src: url("../assets/fonts/AlegreyaSansSC-Italic.ttf") format("truetype");
-    font-weight: 400;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "Alegreya Sans SC";
-    src: url("../assets/fonts/AlegreyaSansSC-Bold.ttf") format("truetype");
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Alegreya Sans SC";
-    src: url("../assets/fonts/AlegreyaSansSC-BoldItalic.ttf") format("truetype");
-    font-weight: 700;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "Lato";
-    src: url("../assets/fonts/Lato-Regular.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Lato";
-    src: url("../assets/fonts/Lato-Italic.ttf") format("truetype");
-    font-weight: 400;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "Lato";
-    src: url("../assets/fonts/Lato-Bold.ttf") format("truetype");
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Lato";
-    src: url("../assets/fonts/Lato-BoldItalic.ttf") format("truetype");
-    font-weight: 700;
-    font-style: italic;
-}
-
-/* ============================================================
-   PALETTE
-   To change a colour, edit it here — nowhere else.
-
-   Shared (both modes):
-     --clr-header-bg    dark nav/header bar background
-     --clr-header-text  light text/icons on the header bar
-     --clr-divider      golden tan — h2 rule, decorative dividers
-
-   Light mode:
-     --clr-accent       crimson — headings, links, card borders
-     --clr-accent-alt   bright red — visited links
-     --clr-leather-bg   dark brown — page/sidebar background
-     --clr-page-bg      tan parchment — center column and subcard background
-     --clr-card-bg      light parchment — card background
-     --clr-table-bg     lightest parchment — table and back-to-top background
-     --clr-body-text    near-black body copy
-
-   Dark mode:
-     --clr-accent       bright red — headings, links, card borders
-     --clr-accent-alt   crimson — visited links
-     --clr-page-bg      near-black — body/texture base, subcard background
-     --clr-card-bg      dark grey — card background
-     --clr-table-bg     medium dark grey — table and back-to-top background
-     --clr-body-text    near-white body copy
-   ============================================================ */
-
+/* ----- Palette -----------------------------------------------------------
+   Compendium colours live in --clr-*; edit them here, nowhere else. Shared
+   tokens first, then per-scheme (default = light parchment, slate = dark). */
 :root {
-    --clr-header-bg:   #202020;
-    --clr-header-text: #D0D0D0;
-    --clr-divider:     #B99F71;
+  --clr-header-bg:   #202020;   /* dark nav/header bar */
+  --clr-header-text: #d0d0d0;   /* light text on the bar */
+  --clr-divider:     #b99f71;   /* golden tan — rules, dividers, table borders */
 }
 
 [data-md-color-scheme="default"] {
-    --clr-accent:      #8C1911;
-    --clr-accent-alt:  #D83731;
-    --clr-leather-bg:  #362E24;
-    --clr-page-bg:     #c8b89a;
-    --clr-card-bg:     #e8ddd0;
-    --clr-table-bg:    #ede8df;
-    --clr-body-text:   #1a1a1a;
+  --clr-accent:      #8c1911;   /* crimson — headings, links, card borders */
+  --clr-accent-alt:  #d83731;   /* bright red — link hover/visited */
+  --clr-leather-bg:  #362e24;   /* dark brown — page base */
+  --clr-page-bg:     #c8b89a;   /* tan parchment — content panel + subcards */
+  --clr-card-bg:     #e8ddd0;   /* light parchment — cards, dropdowns */
+  --clr-table-bg:    #ede8df;   /* lightest parchment — tables, footer band */
+  --clr-body-text:   #1a1a1a;
 
-    /* Material theme mappings */
-    --md-primary-fg-color:        var(--clr-header-bg);
-    --md-primary-bg-color:        var(--clr-header-text);
-    --md-primary-bg-color--light: rgba(208,208,208,0.7);
-    --md-accent-fg-color:         var(--clr-accent);
-    --md-default-bg-color:        var(--clr-table-bg);
-    --md-default-fg-color:        rgba(0,0,0,0.87);
-    --md-typeset-color:           var(--clr-body-text);
-    --md-typeset-a-color:         var(--clr-accent);
+  --md-primary-fg-color: var(--clr-header-bg);
+  --md-primary-bg-color: var(--clr-header-text);
+  --md-accent-fg-color:  var(--clr-accent);
+  --md-default-bg-color: var(--clr-table-bg);
+  --md-default-fg-color: rgba(0, 0, 0, 0.87);
+  --md-typeset-color:    var(--clr-body-text);
+  --md-typeset-a-color:  var(--clr-accent);
 }
 
 [data-md-color-scheme="slate"] {
-    --clr-accent:      #D83731;
-    --clr-accent-alt:  #8C1911;
-    --clr-page-bg:     #1a1a1a;
-    --clr-card-bg:     #2e2e2e;
-    --clr-table-bg:    #464646;
-    --clr-body-text:   rgba(255,255,255,0.87);
+  --clr-accent:      #d83731;
+  --clr-accent-alt:  #8c1911;
+  --clr-leather-bg:  #1a1a1a;
+  --clr-page-bg:     #1a1a1a;
+  --clr-card-bg:     #2e2e2e;
+  --clr-table-bg:    #464646;
+  --clr-body-text:   rgba(255, 255, 255, 0.87);
 
-    /* Material theme mappings */
-    --md-primary-fg-color:        var(--clr-header-bg);
-    --md-primary-bg-color:        var(--clr-header-text);
-    --md-primary-bg-color--light: rgba(208,208,208,0.7);
-    --md-accent-fg-color:         var(--clr-accent);
-    --md-default-bg-color:        var(--clr-table-bg);
-    --md-default-fg-color:        rgba(255,255,255,0.87);
-    --md-typeset-color:           var(--clr-body-text);
-    --md-typeset-a-color:         var(--clr-accent);
+  --md-primary-fg-color: var(--clr-header-bg);
+  --md-primary-bg-color: var(--clr-header-text);
+  --md-accent-fg-color:  var(--clr-accent);
+  --md-default-bg-color: var(--clr-table-bg);
+  --md-default-fg-color: rgba(255, 255, 255, 0.87);
+  --md-typeset-color:    var(--clr-body-text);
+  --md-typeset-a-color:  var(--clr-accent);
 }
 
-/* ============================================================
-   BASE TYPOGRAPHY
-   ============================================================ */
+/* ----- Layout knobs (PythonMusic chrome; geometry only) ------------------ */
+:root {
+  --md-text-font-family: "Lato", sans-serif;
 
-body,
-.md-typeset {
-    font-family: "Lato", sans-serif;
-    font-size: 1rem;
+  --pm-page-top-gap:   2rem;      /* gap above the banner */
+  --pm-col:            42rem;     /* readable text column (fixed >= 60em) */
+  --pm-pad-min:        2rem;      /* interior inset <= 60em */
+  --pm-pad-max:        7rem;      /* interior inset >= 80.6em */
+  --pm-gutter:         1rem;      /* min window-edge gutter */
+  --pm-nav-w:          9rem;      /* left-nav width */
+  --pm-nav-gap:        1rem;      /* gap between nav and panel */
+  --pm-content-pad-top: 3.5rem;   /* text inset from the panel top */
+
+  /* Derived: inset ramps pad-min -> pad-max across 60em..80.6em (slope ~0.2427). */
+  --pm-pad:      clamp(var(--pm-pad-min),
+                       calc(var(--pm-pad-min) + (100% - 60rem) * 0.2427),
+                       var(--pm-pad-max));
+  --pm-panel:    calc(var(--pm-col) + 2 * var(--pm-pad));     /* column + both insets */
+  --pm-nav-foot: calc(var(--pm-nav-w) + var(--pm-nav-gap));   /* width the nav adds left of the panel */
+
+  /* Panel perimeter hairline — one box-shadow per side, composed per band. */
+  --pm-panel-edge-color: rgba(0, 0, 0, 0.25);
+  --pm-edge-left:   -1px 0 0 var(--pm-panel-edge-color);
+  --pm-edge-right:   1px 0 0 var(--pm-panel-edge-color);
+  --pm-edge-top:     0 -1px 0 var(--pm-panel-edge-color);
+  --pm-edge-bottom:  0 1px 0 var(--pm-panel-edge-color);
 }
+/* Leather base colour for the page/gutters, per scheme. */
+[data-md-color-scheme="default"] { --pm-page-bg: var(--clr-leather-bg); }
+[data-md-color-scheme="slate"]   { --pm-page-bg: var(--clr-leather-bg); }
 
-.md-typeset p {
-    margin: 0.5em auto;
-}
+/* ----- Typography (Lato body · Alegreya SC headings · crimson) ----------- */
+.md-typeset { font-size: 1rem; line-height: 1.625; }
+.md-typeset p { margin: 0.5em auto; }
+.md-typeset b,
+.md-typeset strong { font-weight: 700; }
 
-.md-typeset table:not([class]) {
-    font-family: "Alegreya Sans SC", sans-serif;
-    font-size: 0.9rem;
-}
-
-/* ============================================================
-   LISTS
-   ============================================================ */
-
+/* Lists: tighten Material's default spacing (from the draft). */
 .md-typeset ul,
-.md-typeset ol {
-    margin-top: 0;
-}
-
+.md-typeset ol { margin-top: 0; }
 .md-typeset ol li,
-.md-typeset ul li {
-    margin-bottom: 0;
-}
-
+.md-typeset ul li { margin-bottom: 0; }
 .md-typeset ol li p,
-.md-typeset ul li p {
-    margin: 0;
+.md-typeset ul li p { margin: 0; }
+/* Nested lists flow at body line-height — no extra gap when indentation changes.
+   Selector mirrors Material's own (same specificity) so these margins win. */
+.md-typeset ul li ul,
+.md-typeset ul li ol,
+.md-typeset ol li ul,
+.md-typeset ol li ol { margin-top: 0; margin-bottom: 0; }
+
+/* Numbered-list markers: bold Alegreya Sans SC. */
+.md-typeset ol > li::marker {
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-weight: 700;
+  color: var(--clr-accent);
 }
 
-/* ============================================================
-   HEADINGS
-   ============================================================ */
+/* Bullet markers: crimson filled diamond, drawn via ::before so the glyph
+   renders cross-browser (content on ::marker is ignored in Safari). Task lists
+   keep their checkboxes. */
+.md-typeset ul:not(.task-list) { list-style: none; }
+.md-typeset ul:not(.task-list) > li { position: relative; }
+.md-typeset ul:not(.task-list) > li::before {
+  content: "◆";
+  position: absolute;
+  left: -1.25em;
+  color: var(--clr-accent);
+  /* Shrink with scale (not font-size) so the glyph stays vertically centered on
+     the first line — a smaller font-size shortens its line box and rides high. */
+  transform: scale(0.55);
+}
 
-.md-typeset h1,
+.md-typeset h1, .md-typeset h2, .md-typeset h3,
+.md-typeset h4, .md-typeset h5, .md-typeset h6 {
+  font-family: "Alegreya SC", serif;
+  font-weight: 700;
+  color: var(--clr-accent);
+}
+.md-typeset h1 { font-size: 2.2rem; margin-bottom: 0.2em; }
+/* h2 + h3 are primary section headers and look identical (h3 also cards). */
 .md-typeset h2,
-.md-typeset h3,
+.md-typeset h3 { font-size: 1.6rem; border-bottom: 2px solid var(--clr-divider); padding-bottom: 0.25em; }
+/* h4 = subheader inside an h3 card. */
+.md-typeset h4 { font-size: 1.25rem; }
+/* h5 = secondary section header (subcard). */
+.md-typeset h5 { font-size: 1.25rem; text-transform: none; border-bottom: 2px solid var(--clr-divider); padding-bottom: 0.25em; }
+/* h6 = subheader inside an h5 card. */
+.md-typeset h6 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; color: var(--clr-body-text); }
+/* In-card subheaders (h4, h6) hug the content that follows them. */
 .md-typeset h4,
-.md-typeset h5,
-.md-typeset h6 {
-    font-family: "Alegreya SC", serif;
-    font-weight: 700;
-    color: var(--clr-accent);
-}
+.md-typeset h6 { margin-top: 0.2em; margin-bottom: 0; }
+.md-typeset h4 + *,
+.md-typeset h6 + * { margin-top: 0; }
 
-.md-typeset h1                 { font-size: 2.2rem; margin-bottom: 0.2em; }
-.md-typeset h2                 { font-size: 1.6rem; }
-.md-typeset h3,
-.md-typeset h5                 { font-size: 1.25rem; }
-.md-typeset h5                 { text-transform: none; }
-.md-typeset h4                 { height: 0; overflow: hidden; margin: 0; padding: 0; line-height: 0; scroll-margin-top: 100rem; }
-.md-typeset h6                 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; color: var(--clr-body-text); }
-.md-typeset h3,
-.md-typeset h6                 { margin-top: 0.2em; margin-bottom: 0; }
-.md-typeset h3 + *,
-.md-typeset h6 + *             { margin-top: 0; }
-
-.md-typeset h2 {
-    border-bottom: 2px solid var(--clr-divider);
-    padding-bottom: 0.25em;
-}
-.md-typeset h5 {
-    border-bottom: 1px solid var(--clr-divider);
-    padding-bottom: 0.25em;
-}
-
-/* ============================================================
-   HEADER / SITE NAME
-   ============================================================ */
-
-body[data-md-color-scheme="default"] .md-header,
-body[data-md-color-scheme="default"] .md-tabs {
-    background-color: var(--clr-header-text);
-    color: var(--clr-header-bg);
-}
-
-body[data-md-color-scheme="slate"] .md-header,
-body[data-md-color-scheme="slate"] .md-tabs {
-    background-color: var(--clr-header-bg);
-    color: var(--clr-header-text);
-}
-
-.md-header__title .md-ellipsis,
-.md-header__title a {
-    font-family: "Beclave", serif;
-    font-size: 1.15em;
-    letter-spacing: 0.04em;
-    color: inherit;
-    text-decoration: none;
-}
-
-/* ============================================================
-   BACKGROUND TEXTURE
-   ============================================================ */
-
+/* =========================================================================
+   Textured two-tone background — leather page, parchment panel.
+   The leather texture lives on body and shows in the gutters beside the
+   content-width bands and behind the (transparent) main + footer; the parchment
+   panel covers it behind the content.
+   ========================================================================= */
 body {
-    background-image: url("../assets/images/large-leather.png");
-    background-repeat: repeat;
-    background-blend-mode: overlay;
-}
-body[data-md-color-scheme="default"] { background-color: var(--clr-leather-bg); }
-body[data-md-color-scheme="slate"]   { background-color: var(--clr-page-bg); }
-
-/* Sidebars are transparent — leather texture shows through from the body. */
-.md-main__inner,
-.md-content__inner {
-    background-color: transparent;
+  background-color: var(--pm-page-bg);
+  background-image: url("../images/textures/large-leather.png");
+  background-repeat: repeat;
+  background-blend-mode: overlay;
 }
 
-/* Center column: paper card that stretches to fill the row height. */
+.md-main {
+  background-color: transparent;   /* leather shows through from body */
+  display: flex;
+  flex-direction: column;          /* let the inner grid fill full height */
+}
+.md-content {
+  background-color: var(--clr-page-bg);   /* parchment panel */
+  padding-inline: var(--pm-pad);          /* scaling interior inset (border-box) */
+}
 [data-md-color-scheme="default"] .md-content {
-    background-color: var(--clr-page-bg);
-    background-image: url("../assets/images/paper.png");
-    background-repeat: repeat;
-    background-blend-mode: overlay;
-    align-self: stretch;
+  background-image: url("../images/textures/paper.png");
+  background-repeat: repeat;
+  background-blend-mode: overlay;
 }
+[data-md-color-scheme="slate"] .md-content { background-color: var(--clr-card-bg); }
 
-[data-md-color-scheme="slate"] .md-content {
-    background-color: var(--clr-card-bg);
-    align-self: stretch;
+/* Cap + centre the text column at --pm-col at all widths; below 60em the panel
+   goes full-bleed while the column holds. */
+.md-content__inner {
+  max-width: var(--pm-col);
+  margin: 0 auto 3rem;
+  padding-top: var(--pm-content-pad-top);
 }
-
-/* Column dividers: full-height fixed pseudo-elements anchored to each sidebar.
-   They disappear automatically when Material hides the parent sidebar element. */
-.md-sidebar--primary::after,
-.md-sidebar--secondary::after {
-    content: '';
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: var(--clr-divider);
-    box-shadow: 1px 0px 1px 1px rgba(220, 190, 130, 0.3);
-    pointer-events: none;
-    z-index: 0;
-}
-
-.md-sidebar--primary::after {
-    left: var(--md-sidebar-width, 12.1rem);
-}
-
-.md-sidebar--secondary::after {
-    left: calc(100vw - var(--md-sidebar-width, 12.1rem));
-}
-
-/* ============================================================
-   LAYOUT
-   ============================================================ */
-
-/* Remove the grid max-width so sidebars hug the window edges
-   and the center column expands to fill all available space. */
-.md-grid {
-    max-width: 100%;
-}
-
-/* Remove the top gap between the nav banner and the column tops.
-   min-height ensures the parchment column always extends to the footer
-   on short pages without disturbing the three-column horizontal layout. */
+/* Fill .md-main down to the footer; drop Material's top margin. */
 .md-main__inner {
-    padding-top: 0;
-    margin-top: 0;
-    min-height: calc(100vh - 4.8rem);
+  flex: 1 0 auto;
+  margin-top: 0;
 }
 
-.md-sidebar--primary,
-.md-sidebar--secondary {
-    padding: 0;
-}
-
-.md-sidebar__scrollwrap {
-    margin: 0;
-    max-height: calc(100vh - 4.8rem);
-}
-
-.md-sidebar__inner {
-    padding: 0;
-}
-
-/* Raise the footer above the sticky sidebar and fixed border lines. */
-.md-footer {
-    position: relative;
-    z-index: 2;
-}
-
-/* ============================================================
-   SIDEBAR TYPOGRAPHY
-   Scoped to the breakpoints where each sidebar is visible as
-   a sidebar — keeps the hamburger drawer at its default styling.
-   ============================================================ */
-
-/* Primary sidebar (left nav) — desktop only (>= 76.1875em) */
-@media screen and (min-width: 76.1875em) {
-    .md-sidebar--primary .md-nav__title,
-    .md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
-        background: transparent;
-        box-shadow: none;
-        padding-top: 0.4rem;
-        font-family: "Alegreya SC", serif;
-        font-size: 1.05rem;
-        text-transform: uppercase;
-        color: var(--clr-accent);
-        text-shadow:
-            -1px -1px 2px rgba(0, 0, 0, 0.85),
-             1px  1px 2px rgba(208, 89, 68, 0.3);
-    }
-
-    .md-sidebar--primary .md-nav__link {
-        font-family: "Alegreya Sans SC", sans-serif;
-        font-size: 0.9rem;
-        text-transform: lowercase;
-        color: var(--clr-divider);
-        text-shadow:
-            -1px -1px 2px rgba(0, 0, 0, 0.85),
-             1px  1px 2px rgba(220, 190, 130, 0.3);
-        margin: 4px auto;
-    }
-
-    /* Nested section expanders (subsection headers, e.g. "Feats") —
-       same style as nav items but slightly larger and bold. The top-level
-       section title is handled by the .md-nav--lifted rule above (higher
-       specificity keeps it crimson); this targets depth 1+. */
-    .md-sidebar--primary .md-nav__item--section > .md-nav__link {
-        color: var(--clr-divider);
-        font-size: 1rem;
-        font-weight: 700;
-    }
-}
-
-/* Secondary sidebar (ToC) — visible from tablet up (>= 60em) */
+/* =========================================================================
+   Panel outline — banner/header/content/footer share one hairline rectangle.
+   Left+right on every band draw the sides; the banner adds the top and the
+   footer the bottom. Internal dividers come from the regions' colour changes.
+   ========================================================================= */
 @media screen and (min-width: 60em) {
-    .md-sidebar--secondary .md-nav__title {
-        background: transparent;
-        box-shadow: none;
-        padding-top: 0.4rem;
-        font-family: "Alegreya SC", serif;
-        font-size: 1.05rem;
-        text-transform: uppercase;
-        color: var(--clr-accent);
-        text-shadow:
-            -1px -1px 2px rgba(0, 0, 0, 0.85),
-             1px  1px 2px rgba(208, 89, 68, 0.3);
-    }
-
-    .md-sidebar--secondary .md-nav__link {
-        font-family: "Alegreya Sans SC", sans-serif;
-        font-size: 0.9rem;
-        text-transform: lowercase;
-        color: var(--clr-divider);
-        text-shadow:
-            -1px -1px 2px rgba(0, 0, 0, 0.85),
-             1px  1px 2px rgba(220, 190, 130, 0.3);
-        margin: 4px auto;
-    }
+  .md-banner  { box-shadow: var(--pm-edge-left), var(--pm-edge-right), var(--pm-edge-top); }
+  .md-header  { box-shadow: var(--pm-edge-left), var(--pm-edge-right); }
+  .md-content { box-shadow: var(--pm-edge-left), var(--pm-edge-right); }
+  .pm-footer  { box-shadow: var(--pm-edge-left), var(--pm-edge-right),
+                            var(--pm-edge-top), var(--pm-edge-bottom); }
 }
 
-/* ============================================================
-   LINKS
-   ============================================================ */
+/* ----- Media embeds: responsive 16:9 iframe (YouTube / Vimeo).
+   <iframe class="pm-video" src="...embed/ID" allowfullscreen></iframe> */
+.pm-video { width: 100%; aspect-ratio: 16 / 9; border: 0; }
 
-.md-typeset a {
-    color: var(--clr-accent);
+/* ----- Demo screencasts: responsive, keeping each clip's own shape. Set size
+   per-embed: <iframe class="pm-demo" style="max-width:270px; aspect-ratio:270/151" ...> */
+.pm-demo { width: 100%; height: auto; border: 0; display: block; }
+
+/* ----- Banner: a single full-width image, no overlaid text. */
+.md-banner { background-color: #000000; }        /* black behind the image */
+.md-banner__inner { margin: 0; padding: 0; }     /* image reaches the edges */
+.pm-banner-link { display: block; }              /* no inline descender gap */
+.pm-banner-img { display: block; width: 100%; height: auto; }
+
+/* =========================================================================
+   Header bar + global mega-menu
+   ========================================================================= */
+.md-header { background: linear-gradient(#252525, #0a0a0a); }
+
+/* Title lives only in the drawer; pin the inner row to the bar height so the bar
+   doesn't grow to fit the mega-menu / search. */
+.md-header__title { display: none; }
+.md-header__inner { height: 2.4rem; }
+
+/* Desktop: breathing room left of the mega-menu and right of search. */
+@media screen and (min-width: 60em) {
+  .md-header__inner { padding-left: 2rem; padding-right: 2rem; }
 }
 
-.md-typeset a:visited {
-    color: var(--clr-accent);
+/* ----- Search box. Resting/hover = grey (#666) with light text;
+   focused = light (#f9f9f9) with dark (#222) text. */
+
+/* resting + hover */
+.md-search__form,
+.md-search__form:hover            { background-color: #666666; }
+.md-search__input                 { color: #eeeeee; }
+.md-search__input::placeholder    { color: #cccccc; }
+.md-search__icon,
+.md-search__input ~ .md-search__icon { color: #dddddd; }
+
+/* focused (search opened) */
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form              { background-color: #f9f9f9; }
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input             { color: #222222; }
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input::placeholder{ color: #666666; }
+[data-md-toggle="search"]:checked ~ .md-header .md-search__icon,
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input ~ .md-search__icon { color: #222222; }
+
+.pm-megamenu {
+  display: flex;
+  align-items: stretch;
+  align-self: stretch;       /* fill the bar height so highlights match it */
+  margin-right: auto;        /* push search to the far right */
+  color: #eeeeee;
+}
+.pm-megamenu__inner { position: relative; display: flex; align-items: stretch; }
+
+.pm-megamenu__list { list-style: none; margin: 0; padding: 0; }
+.pm-megamenu__item { position: relative; }
+
+.pm-megamenu__label,
+.pm-megamenu__link {
+  display: block;
+  padding: 0.55rem 0.9rem;
+  color: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-weight: 700;
 }
 
-.md-typeset a:hover {
-    color: var(--clr-accent-alt);
-    text-decoration: underline;
+/* Top-level items fill the header height so the whole cell is a hover target. */
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item { display: flex; align-items: stretch; }
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item > .pm-megamenu__label,
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item > .pm-megamenu__link {
+  display: flex;
+  align-items: center;
 }
 
-/* ============================================================
-   TABLES
+/* Hover (all levels) = crimson. */
+.pm-megamenu .pm-megamenu__item:hover > .pm-megamenu__label,
+.pm-megamenu .pm-megamenu__item:hover > .pm-megamenu__link {
+  background-color: var(--clr-accent);
+  color: #ffffff;
+}
+.pm-megamenu__link--active { font-weight: 700; box-shadow: inset 0 -3px 0 var(--clr-accent); }
 
-   Material wraps wide tables in .md-typeset__scrollwrap >
-   .md-typeset__table > table, and sets the inner table to
-   display:inline-block for horizontal scrolling. We restore
-   display:table on user-authored tables (selector :not([class]))
-   so table-layout and column widths behave normally, and zero
-   the wrapper margins so adjacent tables stack flush.
-   ============================================================ */
+/* Top-level horizontal bar */
+.pm-megamenu__inner > .pm-megamenu__list { display: flex; align-items: stretch; }
 
-/* Suppress the header row when all column headers are empty.
-   Convention: use | | | as the markdown header line for tables
-   that have no column labels (e.g. key-value stat blocks). */
-.md-typeset table thead:not(:has(th:not(:empty))) {
-    display: none;
+/* Nested submenus — parchment panels, hidden until hover. */
+.pm-megamenu__list .pm-megamenu__list {
+  display: none;
+  position: absolute;
+  min-width: 12rem;
+  background-color: var(--clr-card-bg);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.35);
+  z-index: 10;
+}
+.pm-megamenu__list .pm-megamenu__list .pm-megamenu__label,
+.pm-megamenu__list .pm-megamenu__list .pm-megamenu__link { color: var(--clr-body-text); font-size: 0.9rem; text-transform: lowercase;}
+
+/* Active page chain = crimson text at every open level (specific enough to beat
+   the parchment dropdown colour above)... */
+.pm-megamenu .pm-megamenu__list .pm-megamenu__link--active { color: var(--clr-accent); }
+/* ...except the topmost item on the horizontal bar, which stays light. */
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item > .pm-megamenu__link--active { color: #ffffff; }
+.pm-megamenu__list .pm-megamenu__list .pm-megamenu__item { border-bottom: 1px dotted var(--clr-divider); }
+.pm-megamenu__list .pm-megamenu__list .pm-megamenu__item:last-child { border-bottom: none; }
+
+/* Separators (sentinel "sep:" nav entries; see navtools.py): a tan rule, with an
+   optional grouped subheading below. Space sits above the rule, flush below. */
+.pm-megamenu__sep { list-style: none; margin: 0; border-top: 4px solid var(--clr-divider); }
+.pm-megamenu__list .pm-megamenu__list .pm-megamenu__item:has(+ .pm-megamenu__sep) { border-bottom: none; }
+.pm-megamenu__sep--labeled {
+  margin: 0;
+  padding: 0.35rem 0.7rem 0.15rem;
+}
+.pm-megamenu__sep-label {
+  font-family: "Alegreya Sans SC", sans-serif;   /* match table column labels */
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--clr-accent);
 }
 
-/* Suppress the first column for tables flagged .no-row-labels by JS.
-   Convention: leave the entire first column empty for tables that
-   have column labels but no row labels (e.g. horizontal stat blocks).
-   Matrix tables with a blank A1 corner: use &nbsp; in that cell. */
-.md-typeset table[data-no-row-labels] tr > :first-child {
-    display: none;
+/* Level 2 drops down; level 3+ flies out to the right. */
+.pm-megamenu__inner > .pm-megamenu__list
+  > .pm-megamenu__item > .pm-megamenu__list { top: 100%; left: 0; }
+.pm-megamenu__list .pm-megamenu__list .pm-megamenu__list { top: 0; left: 100%; }
+.pm-megamenu__item:hover > .pm-megamenu__list { display: block; }
+.pm-megamenu__list .pm-megamenu__list .pm-megamenu__item { display: block; }
+
+/* Affordance carets — CSS triangles (colour follows currentColor). */
+.pm-megamenu__item--has-children > .pm-megamenu__label::after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.4rem;
+  opacity: 0.7;
+  /* default ▸ (submenu items) */
+  border-top: 0.25rem solid transparent;
+  border-bottom: 0.25rem solid transparent;
+  border-left: 0.30rem solid currentColor;
 }
+/* Top-level items: ▾ */
+.pm-megamenu__inner > .pm-megamenu__list
+  > .pm-megamenu__item--has-children > .pm-megamenu__label::after {
+  border-top: 0.30rem solid currentColor;
+  border-bottom: 0;
+  border-left: 0.25rem solid transparent;
+  border-right: 0.25rem solid transparent;
+}
+.pm-megamenu__item--capped > .pm-megamenu__label { opacity: 0.6; cursor: default; }
+
+/* Hide the mega-menu below 60em — Material's hamburger drawer takes over. */
+@media screen and (max-width: 59.984375em) {
+  .pm-megamenu { display: none; }
+}
+
+/* =========================================================================
+   Cancel Material's grid
+   Drop .md-grid's auto side-margins + width cap on every band so each can size
+   and offset itself. At all widths: .md-main is a flex column, where a
+   margin:0 auto child shrink-wraps instead of stretching. Below 60em the bands
+   are full-width anyway, so cancelling the (non-binding) cap is invisible.
+   ========================================================================= */
+.md-grid { margin-inline: 0; max-width: none; }
+
+/* Desktop: header/banner/content/footer share one column sized to the panel.
+   Default (nav-less): centre the panel, shrink with the window, grey gutters
+   each side. Explicit width keeps the sticky header from shrink-wrapping. */
+@media screen and (min-width: 60em) {
+  .md-header,
+  .md-banner,
+  .md-content,
+  .pm-footer {
+    width: min(var(--pm-panel), 100% - 2 * var(--pm-gutter));
+    max-width: var(--pm-panel);
+    margin-inline: auto;
+  }
+
+  /* Nav pages: a fixed-width bookmark fills the left slack; the panel shifts
+     right by its footprint. --pm-panel-left is the panel's left edge (set on
+     body so out-of-container bands and the nav inherit it). */
+  body:has(.pm-localnav) {
+    --pm-panel-left: max(var(--pm-gutter) + var(--pm-nav-foot),
+                         (100% - var(--pm-panel)) / 2 + var(--pm-nav-foot) / 2);
+  }
+  /* Standalone bands offset to the panel's left edge (.md-content handled below). */
+  body:has(.pm-localnav) .md-header,
+  body:has(.pm-localnav) .md-banner,
+  .md-container:has(.pm-localnav) .pm-footer {
+    width: min(var(--pm-panel), 100% - var(--pm-panel-left) - var(--pm-gutter));
+    margin-left: var(--pm-panel-left);
+    margin-right: 0;
+  }
+
+  /* Grey gap above the banner (padding, not margin, to avoid margin-collapse). */
+  [data-md-component="announce"] { padding-top: var(--pm-page-top-gap); }
+}
+
+/* =========================================================================
+   Contextual left column (.pm-localnav) — desktop only, over the grey
+   ========================================================================= */
+.pm-localnav { display: none; }   /* mobile: drawer handles nav */
+
+@media screen and (min-width: 60em) {
+  .pm-localnav {
+    display: block;
+    align-self: flex-start;
+    flex-shrink: 0;
+    width: var(--pm-nav-w);
+    padding: 1.2rem 0;
+    position: sticky;
+    top: 2.4rem;               /* clear the single-row header */
+    max-height: calc(100vh - 2.4rem);   /* cap + scroll independently */
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    margin-left: calc(var(--pm-panel-left) - var(--pm-nav-foot));   /* the left slack */
+  }
+
+  /* Material's primary sidebar is the mobile drawer; hide its desktop column and
+     the now-redundant hamburger. */
+  .md-sidebar--primary,
+  .md-header [for="__drawer"] { display: none; }
+
+  /* Content fills the panel; on nav pages it flows after the bookmark. */
+  .md-content { flex: 0 1 auto; align-self: stretch; }
+  .md-container:has(.pm-localnav) .md-content {
+    width: min(var(--pm-panel), 100% - var(--pm-panel-left) - var(--pm-gutter));
+    margin-left: var(--pm-nav-gap);
+    margin-right: 0;
+  }
+
+  /* Zero Material's sidebar-adjacent inner margins so the inset is set only by
+     our padding on .md-content. */
+  [dir=ltr] .md-sidebar--primary:not([hidden]) ~ .md-content > .md-content__inner,
+  [dir=ltr] .md-sidebar--secondary:not([hidden]) ~ .md-content > .md-content__inner,
+  [dir=rtl] .md-sidebar--primary:not([hidden]) ~ .md-content > .md-content__inner,
+  [dir=rtl] .md-sidebar--secondary:not([hidden]) ~ .md-content > .md-content__inner {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.pm-localnav__list { list-style: none; margin: 0; padding: 0; }
+
+/* Indent each nested level, with a faint tan guide line. */
+.pm-localnav__list .pm-localnav__list {
+  margin: 0.1rem 0 0.25rem 0.55rem;
+  padding-left: 0.45rem;
+  border-left: 1px solid rgba(185, 159, 113, 0.3);
+}
+
+/* Gold-on-leather, lifted off the texture with a soft text-shadow (per the draft). */
+.pm-localnav__link,
+.pm-localnav__section {
+  display: block;
+  padding: 0.25rem 0.6rem;
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 0.85rem;
+  color: var(--clr-divider);
+  text-decoration: none;
+  text-shadow: -1px -1px 2px rgba(0, 0, 0, 0.85), 1px 1px 2px rgba(220, 190, 130, 0.3);
+}
+.pm-localnav__section {
+  font-family: "Alegreya SC", serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--clr-accent);
+}
+.pm-localnav__link:hover { color: var(--clr-accent-alt); }
+.pm-localnav__link--active { color: var(--clr-divider); font-weight: 700; text-transform: uppercase; }
+
+/* Separators are hidden in the left nav (bar + any label) — they live in the
+   mega menu instead, where they're more useful. */
+.pm-localnav__sep { display: none; }
+
+/* Separators in the mobile drawer (Material's nav tree; see nav-item.html):
+   a flush, full-width divider, optionally with a grouped subheading below. */
+.pm-drawernav__sep { list-style: none; margin: 0; border-top: 4px solid var(--clr-divider); }
+.pm-drawernav__sep--labeled { margin: 0; padding: 0.35rem 0.7rem 0.15rem; }
+.pm-drawernav__sep-label {
+  font-size: 0.55rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.05em; color: #999999;
+}
+
+/* =========================================================================
+   Material default overrides
+   ========================================================================= */
+
+/* Hold the base font size constant — Material steps it up at 100em/125em. */
+@media screen and (min-width: 100em) { html { font-size: 125%; } }
+@media screen and (min-width: 125em) { html { font-size: 125%; } }
+
+/* Logo removed from the nav bar and the drawer title (keep the site name). */
+.md-header__button.md-logo,
+.md-nav--primary .md-nav__title .md-logo { display: none; }
+
+/* Tighten the drawer's site-title bar now the logo is gone, and set it in the
+   Beclave display face. Direct child hits only the top-level title, not nested
+   section titles. */
+.md-nav--primary > .md-nav__title {
+  font-family: "Beclave", serif;
+  letter-spacing: 0.04em;
+  font-size: 1.2rem;
+  padding-top: 1.5rem;
+  height: auto;
+}
+
+/* (Tables are skinned in their own section below.) */
+
+/* =========================================================================
+   Code syntax-highlighting knobs — one colour per Pygments token group.
+   Values are Material's defaults (no-op as-is); tweak a line to recolour that
+   group across all code blocks.
+   ========================================================================= */
+:root,
+[data-md-color-scheme="default"] {
+  --md-code-fg-color: #36464e;            /* default code text */
+  --md-code-bg-color: #f5f5f5;            /* code block background */
+
+  /* Vivid groups */
+  --md-code-hl-keyword-color:  #3f6ec6;   /* from import def class if (.k .kn .kd .kr .kt .kp .nd .nt) */
+  --md-code-hl-function-color: #a846b9;   /* def/class/module names (.nf .nc .nn .ne) */
+  --md-code-hl-constant-color: #6e59d9;   /* builtins & constants (.nb .bp .no) */
+  --md-code-hl-number-color:   #d52a2a;   /* numbers (.m .mi .mf .mh .mo .mb .il) */
+  --md-code-hl-string-color:   #1c7d4d;   /* strings (.s .s1 .s2 .sb .sc .si .ss .l) */
+  --md-code-hl-special-color:  #db1457;   /* escapes / regex / preprocessor (.se .sr .sh .sx .cp) */
+
+  /* Muted groups */
+  --md-code-hl-name-color:        var(--md-code-fg-color);            /* names: vars, attrs, calls (.n .kc) */
+  --md-code-hl-operator-color:    #3f6ec6;  /* operators (.o .ow) */
+  --md-code-hl-punctuation-color: var(--md-default-fg-color--light);  /* punctuation (.p) */
+  --md-code-hl-comment-color:     #388022;  /* comments / docstrings (.c .c1 .cm .ch .cs .sd) */
+  --md-code-hl-variable-color:    var(--md-default-fg-color--light);  /* attrs / vars (.na .nv .vc .vg .vi) */
+  --md-code-hl-generic-color:     var(--md-default-fg-color--light);  /* generic / diff (.ge .gh .go .gp .gr .gs .gt .gu) */
+
+  --md-code-hl-color: #4287ff;            /* highlighted-line background accent */
+}
+
+/* =========================================================================
+   Tables — parchment fill, tan borders, uppercase headers, a row-label column.
+   Material wraps wide tables in .md-typeset__scrollwrap > __table > table and
+   sets the inner table to inline-block; we restore display:table on user tables
+   (:not([class])) so column widths behave, and zero the wrapper margins.
+   ========================================================================= */
+
+/* Hide the header row when all column headers are empty (markdown "| | |" line). */
+.md-typeset table thead:not(:has(th:not(:empty))) { display: none; }
+
+/* Hide the first column for tables flagged .no-row-labels by JS (data attr). */
+.md-typeset table[data-no-row-labels] tr > :first-child { display: none; }
 
 .md-typeset table:not([class]) {
-    display: table;
-    background-color: var(--clr-table-bg);
-    border-collapse: collapse;
-    border: 3px solid var(--clr-divider);
+  display: table;
+  width: 100%;
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 0.9rem;
+  background-color: var(--clr-table-bg);
+  border-collapse: collapse;
+  border: 3px solid var(--clr-divider);
 }
-
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    padding: 0.2rem 0.5rem;
-    vertical-align: middle;
+  padding: 0.2rem 0.5rem;
+  vertical-align: middle;
 }
-
-/* Separator between header row and body. */
-.md-typeset table:not([class]) thead tr > * {
-    border-bottom: 2px solid var(--clr-divider);
-}
-
-/* Separator right of the first column (row-label column).
-   width: 1% + white-space: nowrap shrinks the column to its content width;
-   the remaining columns fill the rest under table-layout: auto.
-   For data-no-row-labels tables the first child is display:none,
-   so no visible separator appears — no extra rule needed. */
+/* Separator below the header row. */
+.md-typeset table:not([class]) thead tr > * { border-bottom: 2px solid var(--clr-divider); }
+/* Separator right of the first (row-label) column; shrink it to its content. */
 .md-typeset table:not([class]) tr > :first-child {
-    border-right: 2px solid var(--clr-divider);
-    width: 1%;
-    white-space: nowrap;
-    text-align: center;
+  border-right: 2px solid var(--clr-divider);
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
 }
-
-/* Column labels: bold, uppercase. */
+/* Column labels bold uppercase; row labels bold lowercase; data cells lowercase. */
 .md-typeset table:not([class]) th {
-    font-weight: 700;
-    text-transform: uppercase;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: var(--clr-page-bg);   /* tan parchment header band */
+  color: var(--clr-accent);               /* crimson label text */
 }
+.md-typeset table:not([class]) tbody tr > td:first-child { font-weight: 700; text-transform: lowercase; }
+.md-typeset table:not([class]) tbody tr > td:not(:first-child) { text-transform: lowercase; }
 
-/* Row labels (first td in body rows): bold, lowercase. */
-.md-typeset table:not([class]) tbody tr > td:first-child {
-    font-weight: 700;
-    text-transform: lowercase;
-}
+/* Material wraps tables in divs; zero margins so adjacent tables stack flush. */
+.md-typeset__scrollwrap { margin: 0; padding-bottom: 8px; }
+.md-typeset__table { display: block; width: 100%; padding: 0; margin: 0; }
+.md-typeset__table table { width: 100%; table-layout: auto; }
 
-/* Data cells: lowercase. Size inherited from the base table rule (0.9rem). */
-.md-typeset table:not([class]) tbody tr > td:not(:first-child) {
-    text-transform: lowercase;
-}
+/* =========================================================================
+   Content elements — subtitle caption + card / subcard containers
+   ========================================================================= */
 
-/* Material wraps tables in divs; zero all margins so adjacent tables
-   stack flush and rely on surrounding element padding for spacing. */
-.md-typeset__scrollwrap {
-    margin: 0;
-    padding-bottom: 8px;
-}
-.md-typeset__table {
-    display: block;
-    width: 100%;
-    padding: 0;
-    margin: 0;
-
-}
-.md-typeset__table table {
-    width: 100%;
-    table-layout: auto;
-}
-
-/* ============================================================
-   SUBTITLE (.subtitle paragraph — italic caption below a heading)
-   Usage: add { .subtitle } on the line after the paragraph in markdown.
-   Requires the attr_list markdown extension.
-   ============================================================ */
-
+/* Subtitle: italic caption below a heading. Add { .subtitle } after the
+   paragraph in markdown (requires attr_list). */
 .md-typeset .subtitle {
-    font-style: italic;
-    font-size: 0.875rem;
-    opacity: 0.65;
-    margin-top: -0.75em;
+  font-style: italic;
+  font-size: 0.875rem;
+  opacity: 0.65;
+  margin-top: -0.75em;
 }
 
-/* ============================================================
-   CARDS (h2-level sections: features, spells, conditions, etc.)
-   ============================================================ */
-
+/* Cards (h2-level sections) and subcards (h5-level entries). */
 .card {
-    border: 2px solid var(--clr-accent);
-    border-radius: 4px;
-    padding: 0.75rem 1rem 0.5rem;
-    margin: 1.25rem 0;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-    background-color: var(--clr-card-bg);
+  border: 2px solid var(--clr-accent);
+  border-radius: 4px;
+  padding: 0.75rem 1rem 0.5rem;
+  margin: 1.25rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  background-color: var(--clr-card-bg);
 }
-
-.card > h2:first-child {
-    margin-top: 0;
-    padding-top: 0;
-}
-
-/* ============================================================
-   SUBCARDS (h5-level entries: ancestry options, sub-entries, etc.)
-   ============================================================ */
+.card > h3:first-child { margin-top: 0; padding-top: 0; }
 
 .subcard {
-    border: 1px solid var(--clr-accent);
-    border-radius: 3px;
-    padding: 0.5rem 0.75rem 0.4rem;
-    margin: 0.75rem 0;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
-    background-color: var(--clr-page-bg);
+  border: 2px solid var(--clr-accent);
+  border-radius: 3px;
+  padding: 0.5rem 0.75rem 0.4rem;
+  margin: 0.75rem 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  background-color: var(--clr-page-bg);
 }
+.subcard > h5:first-child { margin-top: 0; padding-top: 0; }
 
-.subcard > h5:first-child {
-    margin-top: 0;
-    padding-top: 0;
-}
-
-/* ============================================================
-   MOBILE — full-width cards and tables
-   At < 60em the ToC collapses into the hamburger menu. The
-   content inner has margin: 0 0.8rem, so cards and tables are
-   inset by 0.8rem on each side. Negative margins counteract
-   that so they bleed to the viewport edges.
-   ============================================================ */
-
+/* Mobile (< 60em): bleed cards, subcards, and wide tables to the viewport
+   edges, cancelling the content inner's side inset. */
 @media screen and (max-width: 59.9375em) {
-
-    .card {
-        margin-left: -0.8rem;
-        margin-right: -0.8rem;
-        border-left: none;
-        border-right: none;
-        border-radius: 0;
-    }
-
-    .subcard {
-        margin-left: -1rem;
-        margin-right: -1rem;
-        border-left: none;
-        border-right: none;
-        border-radius: 0;
-    }
-
-    .md-typeset__scrollwrap {
-        margin-left: -0.8rem;
-        margin-right: -0.8rem;
-    }
+  .card {
+    margin-left: -0.8rem; margin-right: -0.8rem;
+    border-left: none; border-right: none; border-radius: 0;
+  }
+  .subcard {
+    margin-left: -1rem; margin-right: -1rem;
+    border-left: none; border-right: none; border-radius: 0;
+  }
+  .md-typeset__scrollwrap { margin-left: -0.8rem; margin-right: -0.8rem; }
 }
+
+/* =========================================================================
+   Footer — content-width band: left = Reference (cover + citation);
+   right = License and Source Code stacked.
+   ========================================================================= */
+.md-footer { background-color: transparent; }   /* leather shows through from body */
+.pm-footer {
+  background-color: var(--clr-table-bg);   /* lightest parchment band */
+  color: var(--clr-body-text);
+  /* Width, alignment, and perimeter come from the shared band rule + Panel outline. */
+}
+
+.pm-footer__inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem 2.5rem;
+  padding: 1.5rem 2rem;
+}
+/* Reference and the License/Source stack each take a third; the last third
+   stays blank. */
+.pm-footer__col--reference { flex: 0 1 33.33%; min-width: 13rem; }
+.pm-footer__stack          { flex: 0 1 33.33%; min-width: 13rem; display: flex; flex-direction: column; gap: 1rem; }
+
+.pm-footer__reference { display: flex; gap: 1rem; align-items: flex-start; }
+.pm-footer__cover     { width: 84px; height: auto; flex-shrink: 0; }
+.pm-footer__cc        { height: 1.6em; width: auto; vertical-align: middle; margin-right: 0.4rem; }
+
+.pm-footer__title {
+  margin: 0 0 0.4rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #666666;
+}
+.pm-footer p { margin: 0; font-size: 0.6rem; line-height: 1.6; }
+.pm-footer a { color: var(--clr-accent); }
+.pm-footer a:hover { color: var(--clr-accent-alt); text-decoration: underline; }

@@ -1,209 +1,312 @@
 site_name: The Compendium
 site_url: https://ydhadix.github.io/the-compendium/
-repo_url: https://github.com/ydhadix/the-compendium
 repo_name: ydhadix/the-compendium
+docs_dir: docs
+site_dir: site
 
 theme:
   name: material
-  font: false
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+  custom_dir: overrides
+  font: false              # no Google Fonts; use the Helvetica system stack (see extra.css)
+  icon:    images/icon_dark.png
+  favicon: images/icon.ico
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.top
-    - search.highlight
-    - content.tabs.link
-
-exclude_docs: |
-  **/_*/**
-
-not_in_nav: |
-  **/subclasses/index.md
-  rules/index.md
-  equipment/index.md
-  characters/index.md
-  characters/feats/index.md
+    - toc.integrate        # page sections nest under the active page in the LEFT sidebar
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.sections
+    # - navigation.top
+    # - search.highlight
+    # - content.tabs.link
 
 extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascript/extra.js
+  - javascripts/banner.js
+  - javascripts/cards.js
+  - javascripts/tables.js
 
-plugins:
-  - search
+# exclude_docs: |            # files/folders in docs/ that we don't want compiled
+#   _snippets/*.py
+
+not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
+  character/feat/*/*
+  character/race/*
+  class/*/*/*
+  item/*/*/*
+  rules/action/normal/*
+  rules/condition/*
+  rules/environment/hazard/*
+  spelljammer/*/*/*
+  spell/level-*/*
+
+hooks:
+  - overrides/navtools.py     # nav rules for the mega-menu + left ToC (shared)
 
 markdown_extensions:
-  - admonition
-  - attr_list
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - pymdownx.snippets:
       base_path: docs
-  - tables
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - attr_list               # image sizing/alignment: ![](img){ width="200" align="right" }
+  - md_in_html              # markdown inside HTML, e.g. <figure> + <figcaption> captions
   - toc:
-      toc_depth: 4
+      toc_depth: 2          # ToC shows h1–h2 only; h3+ (e.g. method sections) are omitted
 
 nav:
-  - Home: index.md
+  - The Compendium:
+    - Overview:                   index.md
 
-  - Rules Rolodex:
-    - Abilities:                rules/abilities.md
-    - Actions:                  rules/actions.md
-    - Advantage & Disadvantage: rules/advantage-disadvantage.md
-    - Alignment:                rules/alignment.md
-    - Attunement:               rules/attunement.md
-    - Companions:               rules/companions.md
-    - Concentration:            rules/concentration.md
-    - Conditions:               rules/conditions.md
-    - Cover:                    rules/cover.md
-    - Creature Types:           rules/creature-types.md
-    - D20 Rolls:                rules/d20-rolls.md
-    - Damage Types:             rules/damage-types.md
-    - Hazards:                  rules/hazards.md
-    - Initiative:               rules/initiative.md
-    - Languages:                rules/languages.md
-    - Movement:                 rules/movement.md
-    - Proficiency:              rules/proficiency.md
-    - Resting:                  rules/resting.md
-    - Senses:                   rules/senses.md
-    - Size:                     rules/size.md
+    - Rules Rolodex:
+      - Overview:                 rules/index.md
+      - Dice Rolls:
+        - Overview:               rules/d20/index.md
+        - Ability Checks:         rules/d20/check.md
+        - Attack Rolls:           rules/d20/attack.md
+        - Saving Throws:          rules/d20/save.md
+        - Damage Rolls:           rules/d20/damage.md
+        - "---": "sep:"
+        - Advantage/Disadvantage: rules/d20/advantage.md
+        - Rerolls:                rules/d20/reroll.md
+      - Encounters:
+        - Overview:               rules/encounter/index.md
+        - Initiative:             rules/encounter/initiative.md
+        - Rounds and Turns:       rules/encounter/round.md
+        - Actions:                rules/encounter/action/index.md
+        - Combat:                 rules/encounter/combat.md
+        - Surprise:               rules/encounter/surprise.md
+      - Resting:
+        - Overview:               rules/rest/index.md
+        - Long Rest:              rules/rest/long.md
+        - Travel Rest:            rules/rest/travel.md
+        - Short Rest:             rules/rest/short.md
+        - Downtime:               rules/rest/downtime.md
+      - Environments:
+        - Overview:               rules/environment/index.md
+        - Movement:               rules/environment/movement.md
+        - Lighting:               rules/environment/lighting.md
+        - Cover:                  rules/environment/cover.md
+        - Air Quality:            rules/environment/air.md
+        - Hazards:                rules/environment/hazard/index.md
+      - Conditions:               rules/condition/index.md
+      - Spellcasting:
+        - Overview:               rules/spellcasting/index.md
+        - Preparing Spells:       rules/spellcasting/preparing.md
+        - Casting Spells:         rules/spellcasting/casting.md
+        - Spell Slots:            rules/spellcasting/spell-slot.md
+        - Spellcasting Ability:   rules/spellcasting/spell-ability.md
+      - "Creature Traits": "sep:"
+      - Innate Traits:
+        - Overview:               rules/trait/innate/index.md
+        - Creature Types:         rules/trait/innate/creature-type.md
+        - Alignment:              rules/trait/innate/alignment.md
+        - Size:                   rules/trait/innate/size.md
+        - Reach:                  rules/trait/innate/reach.md
+      - Acquired Traits:
+        - Overview:               rules/trait/learned/index.md
+        - Abilities:              rules/trait/learned/ability.md
+        - Level:                  rules/trait/learned/level.md
+        - Proficiency:            rules/trait/learned/proficiency.md
+        - Skills:                 rules/trait/learned/skill.md
+        - Languages:              rules/trait/learned/language.md
+        - Speeds:                 rules/trait/learned/speed.md
+        - Senses:                 rules/trait/learned/sense.md
+      - Social Traits:
+        - Overview:               rules/trait/social/index.md
+        - Relationships:          rules/trait/social/relationship.md
+        - Disposition:            rules/trait/social/disposition.md
+        - Companions:             rules/trait/social/companion.md
+      - Defenses:
+        - Overview:               rules/trait/defense/index.md
+        - Hit Points:             rules/trait/defense/hit-point.md
+        - Armor Class:            rules/trait/defense/armor-class.md
+        - Damage Types:           rules/trait/defense/damage.md
+        - Resistance:             rules/trait/defense/resistance.md
+        - Protection:             rules/trait/defense/protection.md
+        - Damage Reduction:       rules/trait/defense/reduction.md
+        - Damage Threshold:       rules/trait/defense/threshold.md
 
-  - Hero Handbook:
-    - Character Creation: characters/index.md
-    - Races:              characters/races.md
-    - Backgrounds:        characters/background.md
-    - Feats:
-      - Origin Feats:     characters/feats/origin.md
-      - Racial Feats:     characters/feats/racial.md
-      - Fighting Styles:  characters/feats/fighting-style.md
-      - General Feats:    characters/feats/general.md
-      - Dragonmark Boons: characters/feats/dragonmarks.md
+    - Hero Handbook:
+      - Overview:                 character/index.md
+      - Character Creation:       character/creation.md
+      - "---": "sep:"
+      - Backgrounds:              character/background.md
+      - Races:                    character/race/index.md
+      - Feats:
+        - Overview:               character/feat/index.md
+        - Origin Feats:           character/feat/origin/index.md
+        - "---": "sep:"
+        - General Feats:          character/feat/general/index.md
+        - Fighting Styles:        character/feat/fighting-style/index.md
+        - Ancestry Feats:         character/feat/ancestry/index.md
+        - "---": "sep:"
+        - Epic Boons:             character/feat/epic/index.md
+        - Dragonmarks:            character/feat/dragonmark/index.md
 
-  - Class Codex:
-    - Overview:           classes/index.md
-    - Artificer:
-      - Description:      classes/artificer/index.md
-      - Spells:           classes/artificer/spells.md
-      - Infusions:        classes/artificer/infusions.md
-      - Subclasses:
-        - Armorer:        classes/artificer/armorer.md
-        - Cartographer:   classes/artificer/cartographer.md
-    - Barbarian:
-      - Description:      classes/barbarian/index.md
-      # - Subclasses:
-      #   - Berserker:      classes/barbarian/berserker.md
-    - Bard:
-      - Description:      classes/bard/index.md
-      - Spells:           classes/bard/spells.md
-      # - Subclasses:
-      #   - Lore:           classes/bard/lore.md
-    - Cleric:
-      - Description:      classes/cleric/index.md
-      - Spells:           classes/cleric/spells.md
-      - Subclasses:
-        - Arcana:         classes/cleric/arcana.md
-    - Druid:
-      - Description:      classes/druid/index.md
-      - Spells:           classes/druid/spells.md
-      # - Subclasses:
-      #   - Moon:           classes/druid/moon.md
-    - Fighter:
-      - Description:      classes/fighter/index.md
-      - Subclasses:
-        - Eldritch Knight: classes/fighter/eldritch-knight.md
-    - Monk:
-      - Description:      classes/monk/index.md
-      # - Subclasses:
-      #   - Open Hand:      classes/monk/open-hand.md
-    - Paladin:
-      - Description:      classes/paladin/index.md
-      - Spells:           classes/paladin/spells.md
-      # - Subclasses:
-      #   - Devotion:       classes/paladin/devotion.md
-    - Ranger:
-      - Description:      classes/ranger/index.md
-      - Spells:           classes/ranger/spells.md
-      - Imprints:         classes/ranger/imprints.md
-      - Subclasses:
-        - Beast Master:   classes/ranger/beast-master.md
-    - Rogue:
-      - Description:      classes/rogue/index.md
-      # - Subclasses:
-      #   - Assassin:       classes/rogue/assassin.md
-    - Sorcerer:
-      - Description:      classes/sorcerer/index.md
-      - Spells:           classes/sorcerer/spells.md
-      - Metamagic:        classes/sorcerer/metamagic.md
-      # - Subclasses:
-      #   - Clockwork Soul: classes/sorcerer/clockwork-soul.md
-    - Warlock:
-      - Description:      classes/warlock/index.md
-      - Spells:           classes/warlock/spells.md
-      - Invocations:      classes/warlock/invocations.md
-      # - Subclasses:
-      #   - Archfey:        classes/warlock/archfey.md
-    - Wizard:
-      - Description:      classes/wizard/index.md
-      - Spells:           classes/wizard/spells.md
-      # - Subclasses:
-      #   - Evocation:      classes/wizard/evocation.md
+    - Class Codex:
+      - Overview:                 class/index.md
+      - Artificer:
+        - Overview:               class/artificer/index.md
+        - Features:               class/artificer/features.md
+        - Spell List:             class/artificer/spells/index.md
+        - "Artificer Subclasses": "sep:"
+        - Armorer:                class/artificer/armorer.md
+        - Cartographer:           class/artificer/cartographer.md
+      - Barbarian:
+        - Overview:               class/barbarian/index.md
+        - Features:               class/barbarian/features.md
+        # - "Barbarian Subclasses": "sep:"
+      - Bard:
+        - Overview:               class/bard/index.md
+        - Features:               class/bard/features.md
+        - Spell List:             class/bard/spells/index.md
+        # - "Bard Subclasses": "sep:"
+      - Cleric:
+        - Overview:               class/cleric/index.md
+        - Features:               class/cleric/features.md
+        - Spell List:             class/cleric/spells/index.md
+        - "Cleric Subclasses": "sep:"
+        - Arcana:                 class/cleric/arcana.md
+      - Druid:
+        - Overview:               class/druid/index.md
+        - Features:               class/druid/features.md
+        - Spell List:             class/druid/spells/index.md
+        # - "Druid Subclasses": "sep:"
+      - Fighter:
+        - Overview:               class/fighter/index.md
+        - Features:               class/fighter/features.md
+        - "Fighter Subclasses": "sep:"
+        - Eldritch Knight:        class/fighter/eldritch-knight.md
+      - Monk:
+        - Overview:               class/monk/index.md
+        - Features:               class/monk/features.md
+        # - "Monk Subclasses": "sep:"
+      - Paladin:
+        - Overview:               class/paladin/index.md
+        - Features:               class/paladin/features.md
+        - Spell List:             class/paladin/spells/index.md
+        # - "Paladin Subclasses": "sep:"
+      - Ranger:
+        - Overview:               class/ranger/index.md
+        - Features:               class/ranger/features.md
+        - Spell List:             class/ranger/spells/index.md
+        - Imprints:               class/ranger/imprint/index.md
+        - "Ranger Subclasses": "sep:"
+        - Beast Master:           class/ranger/beast-master.md
+      - Rogue:
+        - Overview:               class/rogue/index.md
+        - Features:               class/rogue/features.md
+        # - "Rogue Subclasses": "sep:"
+      - Sorcerer:
+        - Overview:               class/sorcerer/index.md
+        - Features:               class/sorcerer/features.md
+        - Spell List:             class/sorcerer/spells/index.md
+        - Metamagic:              class/sorcerer/metamagic/index.md
+        # - "Sorcerer Subclasses": "sep:"
+      - Warlock:
+        - Overview:               class/warlock/index.md
+        - Features:               class/warlock/features.md
+        - Spell List:             class/warlock/spells/index.md
+        - Invocations:            class/warlock/invocation/index.md
+        # - "Warlock Subclasses": "sep:"
+      - Wizard:
+        - Overview:               class/wizard/index.md
+        - Features:               class/wizard/features.md
+        - Spell List:             class/wizard/spells/index.md
+        # - "Wizard Subclasses": "sep:"
 
-  - Equipment Encyclopedia:
-    - Getting Started:       equipment/index.md
-    - Weapons:               equipment/weapons.md
-    - Armor:                 equipment/armor.md
-    - Adventuring Gear:      equipment/gear.md
-    - Trades:                equipment/trades.md
+    - Item Index:
+      - Overview:                 item/index.md
+      - Adventuring Gear:
+        - Overview:               item/gear/index.md
+        - Combat:                 item/gear/combat/index.md
+        - Spellcasting Foci:      item/gear/spell-focus/index.md
+        - Medical:                item/gear/medical/index.md
+        - Clothing:               item/gear/clothing/index.md
+        - Survival:               item/gear/survival/index.md
+        - Containers:             item/gear/container/index.md
+        - Tools:                  item/gear/tool/index.md
+        - Light Sources:          item/gear/lighting/index.md
+        - Writing:                item/gear/writing/index.md
+      - Trades:
+        - Overview:               item/trade/index.md
+        - Artisan's Tools:        item/trade/artisan/index.md
+        - Musical Instruments:    item/trade/music.md
+        - Gaming Sets:            item/trade/gaming.md
+      - Weapons:
+        - Overview:               item/weapon/index.md
+        - Weapon Types:           item/weapon/type.md
+        - Properties:             item/weapon/property.md
+        - Mastery:                item/weapon/mastery.md
+      - Armor:
+        - Overview:               item/armor/index.md
+        - Armor Types:            item/armor/type.md
+        - Shields:                item/armor/shield.md
+      - Infusions:
+        - Overview:               item/infusion/index.md
+        - Common:                 item/infusion/common/index.md
+        - Uncommon:               item/infusion/uncommon/index.md
+        - Rare:                   item/infusion/rare/index.md
+        - Very Rare:              item/infusion/very-rare/index.md
+        - Legendary:              item/infusion/legendary/index.md
+        - Artifacts:              item/infusion/artifact/index.md
+        - Unique:                 item/infusion/unique/index.md
+        - "---": "sep:"
+        - Magic Items:            item/infusion/magic-item.md
+        - Attunement:             item/infusion/attunement.md
+        - Charges:                item/infusion/charge.md
+      - "---": "sep:"
+      - Equipping Items:          item/equip.md
+      - Masterwork:               item/masterwork.md
+      - Consumables:              item/consumable.md
+      - Currency:                 item/currency.md
 
-  - Infusion Index:
-    - Magic Items: magic-items/index.md
-    - Common:      magic-items/common.md
-    - Uncommon:    magic-items/uncommon.md
-    - Rare:        magic-items/rare.md
-    - Very Rare:   magic-items/very-rare.md
-    - Legendary:   magic-items/legendary.md
-    - Artifacts:   magic-items/artifact.md
+    - Spell Selection:
+      - Overview:                 spell/index.md
+      - Parts of a Spell:
+        - Overview:               spell/part/index.md
+        - Spell Level:            spell/part/spell-level.md
+        - Class List:             spell/part/spell-list.md
+        - School of Magic:        spell/part/school.md
+        - Casting Time:           spell/part/casting-time.md
+        - Components:             spell/part/component.md
+        - Targets:                spell/part/target.md
+        - Areas of Effect:        spell/part/area.md
+        - Duration:               spell/part/duration.md
+        - Concentration:          spell/part/concentration.md
+      - "---": "sep:"
+      - Cantrips:                 spell/level-0/index.md
+      - 1st-Level:                spell/level-1/index.md
+      - 2nd-Level:                spell/level-2/index.md
+      - 3rd-Level:                spell/level-3/index.md
+      - 4th-Level:                spell/level-4/index.md
+      - 5th-Level:                spell/level-5/index.md
+      - 6th-Level:                spell/level-6/index.md
 
-  - Spell Selection:
-    - Spellcasting: spellcasting/index.md
-    - Cantrips:     spellcasting/level-0.md
-    - 1st-Level:    spellcasting/level-1.md
-    - 2nd-Level:    spellcasting/level-2.md
-    - 3rd-Level:    spellcasting/level-3.md
-    - 4th-Level:    spellcasting/level-4.md
-    - 5th-Level:    spellcasting/level-5.md
-    - 6th-Level:    spellcasting/level-6.md
+    - Bastion Blueprints:
+      - Overview:                 bastion/index.md
+      - Building a Bastion:       bastion/creation.md
+      - "---": "sep:"
+      - Bastion Facilities:       bastion/facility/index.md
 
-  - Bastion Blueprints:  bastions.md
-
-  - Spelljamming Schematics:
-    - Ship Combat:                spelljamming/index.md
-    - Officers:
-      - Overview:                 spelljamming/officers/index.md
-      - Pilot:                    spelljamming/officers/pilot.md
-      - Quartermaster:            spelljamming/officers/quartermaster.md
-      - Spelljammer:              spelljamming/officers/spelljammer.md
-    - Ship Components:
-      - Overview:                 spelljamming/components/index.md
-      - Pilot Components:         spelljamming/components/pilot.md
-      - Quartermaster Components: spelljamming/components/quartermaster.md
-      - Spelljamming Helms:       spelljamming/components/helms.md
-    - Example Ships:              spelljamming/examples.md
+    - Spelljammer Schematics:
+      - Overview:                 spelljammer/index.md
+      - Creating a Ship:          spelljammer/creation.md
+      - "---": "sep:"
+      - Ship Components:
+        - Overview:               spelljammer/component/index.md
+        - Pilot Components:       spelljammer/component/pilot/index.md
+        - Quartermaster Components: spelljammer/component/quartermaster/index.md
+        - Spelljammer Helms:      spelljammer/component/spelljammer/index.md
+      - Officers:
+        - Overview:               spelljammer/officer/index.md
+        - Pilot:                  spelljammer/officer/pilot.md
+        - Quartermaster:          spelljammer/officer/quartermaster.md
+        - Spelljammer:            spelljammer/officer/spelljammer.md
+      - Initiative:               spelljammer/initiative.md
+      - Engagement Ranges:        spelljammer/range.md
+      - Ship Damage:              spelljammer/damage.md
+      - Leviathans:               spelljammer/leviathan.md
+      - Example Ships:            spelljammer/example/index.md

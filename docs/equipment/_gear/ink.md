@@ -1,6 +1,0 @@
-??? item "Ink | 10 gold"
-
-    #### Ink
-
-    Ink comes in a **1**-ounce bottle, which provides enough Ink to write about **500** pages.
-

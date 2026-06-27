@@ -1,0 +1,96 @@
+{#-
+  Contextual left ToC.
+
+  Renders the current top-level section's tree, starting at the 2nd nav level (no
+  top-level header), expanded along the active path down to the current page, with
+  ALL siblings shown at each level on that path. The current page is highlighted.
+  Only nav levels appear — page headings are not listed.
+
+  Active path = mkdocs `item.active` for pages in the nav; for pages kept out of
+  the nav (leaf pages) it is `localnav_chain` / `localnav_host` from navtools.py.
+  A leaf page is listed alongside its siblings (`localnav_siblings`) under their
+  shared hub, with the current leaf highlighted. Those siblings appear only while
+  we are on one of them — the hub's own index page shows nothing below it, so the
+  same depth rule used for sections holds for leaf collections too.
+
+  A section's title links to its own index (`section.index_page`, set by
+  navtools.py); that index is never listed as a child ("Overview" disappears).
+-#}
+
+{#- The out-of-nav leaf pages sharing a hub, the current one highlighted. -#}
+{% macro leaves(siblings) %}
+  <ul class="pm-localnav__list">
+    {% for leaf in siblings %}
+    <li class="pm-localnav__item">
+      <a
+        href="{{ leaf.url | url }}"
+        class="pm-localnav__link {% if leaf == page %}pm-localnav__link--active{% endif %}"
+      >{{ leaf.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+{% endmacro %}
+
+{#- One level of the contextual tree (children already have "Overview" removed). -#}
+{% macro tree(items) %}
+  <ul class="pm-localnav__list">
+    {% for item in items %}
+      {% if item.is_separator %}
+      <li class="pm-localnav__sep{% if item.separator_label %} pm-localnav__sep--labeled{% endif %}" role="separator">
+        {% if item.separator_label %}<span class="pm-localnav__sep-label">{{ item.separator_label }}</span>{% endif %}
+      </li>
+      {% else %}
+      <li class="pm-localnav__item">
+        {% if item.is_section %}
+          {%- set on_path = item.active or (localnav_chain is defined and item in localnav_chain) -%}
+          {% if item.index_page %}
+            <a
+              href="{{ item.index_page.url | url }}"
+              class="pm-localnav__link {% if item.index_page == page %}pm-localnav__link--active{% endif %}"
+            >{{ item.title }}</a>
+          {% else %}
+            <span class="pm-localnav__section">{{ item.title }}</span>
+          {% endif %}
+          {#- Expand a section's children only once we're inside it (the current
+              page is one of the children, or deeper) — not when we're on the
+              section's own index page, which lists them inline already. -#}
+          {% if on_path and page != item.index_page %}
+            {{ tree(item.children | reject("equalto", item.index_page) | list) }}
+          {% endif %}
+          {#- A hub can also be a section's own index page (its "Overview"), which
+              is absorbed into the title link above; hang its leaves off the
+              section so they still appear. -#}
+          {% if localnav_host is defined and item.index_page and item.index_page == localnav_host and localnav_siblings %}
+            {{ leaves(localnav_siblings) }}
+          {% endif %}
+        {% else %}
+          <a
+            href="{{ item.url | url }}"
+            class="pm-localnav__link {% if item == page %}pm-localnav__link--active{% endif %}"
+          >{{ item.title }}</a>
+          {#- This nav page is the hub for the leaf we're on: list its leaves. -#}
+          {% if localnav_host is defined and localnav_host and item == localnav_host and localnav_siblings %}
+            {{ leaves(localnav_siblings) }}
+          {% endif %}
+        {% endif %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endmacro %}
+
+{#- Entry point: the active top-level section's contents (2nd level down). -#}
+{% macro leftnav(nav) %}
+  {%- set top = nav | selectattr("active") | list | first -%}
+  {%- if not top and localnav_chain is defined and localnav_chain -%}
+    {%- set top = localnav_chain | last -%}
+  {%- endif -%}
+  {#- Only sections have nav levels to show; a top-level leaf page has none. -#}
+  {% if top and top.is_section %}
+    <div class="pm-localnav">
+      <div class="pm-localnav__inner">
+        {{ tree(top.children | reject("equalto", top.index_page) | list) }}
+      </div>
+    </div>
+  {% endif %}
+{% endmacro %}
