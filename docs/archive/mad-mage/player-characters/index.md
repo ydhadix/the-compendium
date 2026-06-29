@@ -2,12 +2,11 @@
 banner: campaign/mad-mage.png
 ---
 
-# Dungeon of the Mad Mage
+# Player Characters
 
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
 
-| Sections | Description |
+| Player Characters | Description |
 |---|---|
-| [Player Characters](player-characters/index.md) | `Description TBD` | 

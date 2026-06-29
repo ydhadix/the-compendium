@@ -2,12 +2,11 @@
 banner: campaign/icewind-dale.png
 ---
 
-# Icewind Dale
+# Player Characters
 
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
 
-| Sections | Description |
+| Player Characters | Description |
 |---|---|
-| [Player Characters](player-characters/index.md) | `Description TBD` | 

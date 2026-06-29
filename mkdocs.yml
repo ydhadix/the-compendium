@@ -315,13 +315,13 @@ nav:
       - Leviathans:               spelljammer/leviathan.md
       - Example Ships:            spelljammer/example/index.md
 
-  - The Archives:
-    - Overview:                   archive/index.md
-    - Dragon Heist:               archive/dragon-heist/index.md
-    - Icewind Dale:               archive/icewind-dale/index.md
-    - Tomb of Annihilation:       archive/tomb-of-annihilation/index.md
-    - Dungeon of the Mad Mage:    archive/mad-mage/index.md
-    - Hyperion:
-      - Overview:                 archive/hyperion/index.md
-      - "Part 1: Exodus":         archive/hyperion/1/index.md
-      - "Part 2: Odyssey":        archive/hyperion/2/index.md
+  # - The Archives:
+  #   - Overview:                   archive/index.md
+  #   - Dragon Heist:               archive/dragon-heist/index.md
+  #   - Icewind Dale:               archive/icewind-dale/index.md
+  #   - Tomb of Annihilation:       archive/tomb-of-annihilation/index.md
+  #   - Dungeon of the Mad Mage:    archive/mad-mage/index.md
+  #   - Hyperion:
+  #     - Overview:                 archive/hyperion/index.md
+  #     - "Part 1: Exodus":         archive/hyperion/1/index.md
+  #     - "Part 2: Odyssey":        archive/hyperion/2/index.md

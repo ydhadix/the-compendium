@@ -2,12 +2,11 @@
 banner: campaign/the-odyssey.png
 ---
 
-# Hyperion Part 2: Odyssey
+# Player Characters
 
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
 
-| Sections | Description |
+| Player Characters | Description |
 |---|---|
-| [Player Characters](player-characters/index.md) | `Description TBD` | 
