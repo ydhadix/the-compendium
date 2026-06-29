@@ -33,7 +33,6 @@ extra_javascript:
   - javascripts/tables.js
   - javascripts/recent.js
   - javascripts/meganav.js
-  - javascripts/leftnav.js
 
 # exclude_docs: |            # files/folders in docs/ that we don't want compiled
 #   _snippets/*.py

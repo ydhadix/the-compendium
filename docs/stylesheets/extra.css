@@ -97,7 +97,7 @@
 [data-md-color-scheme="slate"]   { --pm-page-bg: var(--clr-leather-bg); }
 
 /* ----- Typography (Lato body · Alegreya SC headings · crimson) ----------- */
-.md-typeset { font-size: 1rem; line-height: 1.625; }
+.md-typeset { font-size: 0.85rem; line-height: 1.5; }
 .md-typeset p { margin: 0.5em auto; }
 .md-typeset b,
 .md-typeset strong { font-weight: 700; }
@@ -456,29 +456,51 @@ body {
 .pm-localnav { display: none; }   /* mobile: drawer handles nav */
 
 @media screen and (min-width: 60em) {
-  /* The frame is a zero-height sticky anchor (Material's own trick): with
-     height:0 it can't inflate the flex row, so the content panel + footer hug the
-     real content instead of stretching to the nav. The inner overflows this
-     0-height box; leftnav.js sizes the inner to the visible viewport space below
-     the header so it scrolls internally without floating past the footer. */
+  /* The container holds both the content row and the footer; make it the
+     positioning context so the nav inner can span the whole page height (down to
+     the bottom of the footer) rather than just the content row. */
+  .md-container:has(.pm-localnav) { position: relative; }
+
+  /* The frame is a zero-height anchor (Material's own trick): with height:0 it
+     can't inflate the flex row, so the content panel + footer hug the real
+     content instead of stretching to the nav. It stays in flow only to reserve
+     the left column's width; the inner is taken out of flow and sized against the
+     container below. */
   .pm-localnav {
     display: block;            /* override the mobile `display: none` default */
     flex-shrink: 0;
     width: var(--pm-nav-w);
-    position: sticky;
-    top: 2.4rem;               /* sit just below the overhanging header */
     height: 0;                 /* don't contribute height to the row */
     margin-left: calc(var(--pm-panel-left) - var(--pm-nav-foot));   /* the left slack */
   }
 
-  /* The parchment panel and the scroller in one. The background is fixed (it does
-     not scroll with the list). The top edge is square — it tucks flush under the
-     overhanging header with an inset shadow the list scrolls beneath (no top
-     feather). The
-     left and bottom edges still feather into the leather. leftnav.js sets the live
-     max-height — the calc() here is the no-JS fallback. */
+  /* Track: an out-of-flow column the full height of the page — from flush under
+     the overhanging header (top) down to the bottom of the footer (bottom) — in
+     the left slack the frame above reserves. It carries no styling; it exists only
+     to give the sticky panel a containing block that reaches the footer, so the
+     panel can pin without ever travelling past it. */
   .pm-localnav__inner {
-    max-height: calc(100vh - 2.4rem);
+    position: absolute;
+    top: 0;                                                /* flush under the header */
+    bottom: 0;                                             /* down to the footer's base */
+    left: calc(var(--pm-panel-left) - var(--pm-nav-foot));
+    width: var(--pm-nav-w);
+  }
+
+  /* The parchment panel and the scroller in one. Sticky: it pins just below the
+     header and stays in view while the page scrolls, released only when the track
+     ends — so its bottom rests at the footer's base and never overshoots. Its
+     height is the viewport below the header, capped to the track (max-height: 100%)
+     so on a short page it stops at the footer instead of overhanging. A list taller
+     than that height scrolls internally rather than stretching the page. The top
+     edge is square — it tucks under the header with an inset shadow the list
+     scrolls beneath (no top feather); the left and bottom edges feather into the
+     leather. */
+  .pm-localnav__panel {
+    position: sticky;
+    top: 2.4rem;                             /* pin just below the overhanging header */
+    height: calc(100vh - 2.4rem);            /* fill the viewport below the header… */
+    max-height: 100%;                        /* …but never past the track (the footer) */
     overflow-y: auto;
     overscroll-behavior: contain;
     padding: 1.4rem 0.2rem 1.4rem 0.2rem;
@@ -498,9 +520,9 @@ body {
     scrollbar-width: thin;                         /* Firefox: thin gold bar */
     scrollbar-color: var(--clr-divider) transparent;
   }
-  .pm-localnav__inner::-webkit-scrollbar { width: 7px; }
-  .pm-localnav__inner::-webkit-scrollbar-track { background: transparent; }
-  .pm-localnav__inner::-webkit-scrollbar-thumb {
+  .pm-localnav__panel::-webkit-scrollbar { width: 7px; }
+  .pm-localnav__panel::-webkit-scrollbar-track { background: transparent; }
+  .pm-localnav__panel::-webkit-scrollbar-thumb {
     background-color: var(--clr-divider);
     border-radius: 4px;
     border: 2px solid transparent;   /* inset the thumb from the track edge */

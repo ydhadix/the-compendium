@@ -88,14 +88,18 @@
   {#- Only sections have nav levels to show; a top-level leaf page has none. -#}
   {% if top and top.is_section %}
     <div class="pm-localnav">
+      {#- __inner is a full-height track (spans to the footer base); __panel is the
+          sticky parchment that pins under the header and scrolls internally. -#}
       <div class="pm-localnav__inner">
-        {{ tree(top.children | reject("equalto", top.index_page) | list) }}
-        {#- Recently visited pages, filled by recent.js; hidden until it has
-            entries. Open by default; its tan rule divides it from the tree. -#}
-        <details class="pm-recent" open hidden>
-          <summary class="pm-localnav__section pm-recent__summary">Recent</summary>
-          <ul class="pm-recent__list"></ul>
-        </details>
+        <div class="pm-localnav__panel">
+          {{ tree(top.children | reject("equalto", top.index_page) | list) }}
+          {#- Recently visited pages, filled by recent.js; hidden until it has
+              entries. Open by default; its tan rule divides it from the tree. -#}
+          <details class="pm-recent" open hidden>
+            <summary class="pm-localnav__section pm-recent__summary">Recent</summary>
+            <ul class="pm-recent__list"></ul>
+          </details>
+        </div>
       </div>
     </div>
   {% endif %}
