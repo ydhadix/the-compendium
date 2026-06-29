@@ -12,6 +12,6 @@
 | [Casting Time](casting-time.md) | `Description TBD` |
 | [Components](component.md) | `Description TBD` |
 | [Targets](target.md) | `Description TBD` |
-| [Areas of Effect](area.md) | `Description TBD` |
+| [Area of Effect](area.md) | `Description TBD` |
 | [Duration](duration.md) | `Description TBD` |
 | [Concentration](concentration.md) | `Description TBD` |

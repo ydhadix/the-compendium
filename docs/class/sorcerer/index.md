@@ -6,6 +6,6 @@
 
 | Sorcerer | Description |
 |---|---|
-| [Features](features.md) | `Description TBD` |
-| [Spell List](spells/index.md) | `Description TBD` |
+| [Class Features](features.md) | `Description TBD` |
+| [Sorcerer Spell List](spells/index.md) | `Description TBD` |
 | [Metamagic](metamagic/index.md) | `Description TBD` |

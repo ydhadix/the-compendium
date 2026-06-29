@@ -6,4 +6,4 @@
 
 | Monk | Description |
 |---|---|
-| [Features](features.md) | `Description TBD` |
+| [Class Features](features.md) | `Description TBD` |

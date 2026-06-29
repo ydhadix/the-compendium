@@ -7,5 +7,5 @@
 | Weapons | Description |
 |---|---|
 | [Weapon Types](type.md) | `Description TBD` |
-| [Properties](property.md) | `Description TBD` |
-| [Mastery](mastery.md) | `Description TBD` |
+| [Weapon Properties](property.md) | `Description TBD` |
+| [Weapon Mastery](mastery.md) | `Description TBD` |

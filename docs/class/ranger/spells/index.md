@@ -1,4 +1,8 @@
-# Spell List
+# Ranger Spell List
 
 !!! note "In progress"
     This page is a stub. Content is still being written.
+
+
+| Ranger Spell List | Description |
+|---|---|

@@ -7,3 +7,4 @@
 | Sections | Description |
 |---|---|
 | [The Compendium](index.md) | `Description TBD` |
+| [The Archives](archive/index.md) | `Description TBD` |

@@ -6,7 +6,7 @@
 
 | Ranger | Description |
 |---|---|
-| [Features](features.md) | `Description TBD` |
-| [Spell List](spells/index.md) | `Description TBD` |
+| [Class Features](features.md) | `Description TBD` |
+| [Ranger Spell List](spells/index.md) | `Description TBD` |
 | [Imprints](imprint/index.md) | `Description TBD` |
 | [Beast Master](beast-master.md) | `Description TBD` |

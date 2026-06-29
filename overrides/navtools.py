@@ -3,7 +3,7 @@
 This is the single place the nav "rules" live, so the templates stay dumb.
 
 on_nav annotates every Section with:
-    section.index_page      its own index page ("Overview"), or None. The section
+    section.index_page      its own index page (its index.md), or None. The section
                             title links here, and this page is never listed as a
                             child entry.
     section.has_subsection  True if any child is itself a Section.
@@ -35,7 +35,7 @@ _DASHES = set("-—–─")       # a title of only these is a plain rule, with 
 # falling back to BANNER_FALLBACK. Enumerated at build time so adding/removing a
 # file in docs/images/banners/ needs no code change.
 BANNER_SUBDIR = ("images", "banners")
-BANNER_FALLBACK = "the-odyssey.png"
+BANNER_FALLBACK = "odyssey.png"
 _BANNER_EXTS = (".png", ".jpg", ".jpeg", ".webp", ".gif")
 
 

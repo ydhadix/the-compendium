@@ -6,6 +6,6 @@
 
 | Warlock | Description |
 |---|---|
-| [Features](features.md) | `Description TBD` |
-| [Spell List](spells/index.md) | `Description TBD` |
+| [Class Features](features.md) | `Description TBD` |
+| [Warlock Spell List](spells/index.md) | `Description TBD` |
 | [Invocations](invocation/index.md) | `Description TBD` |

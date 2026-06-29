@@ -6,9 +6,8 @@
 
 | Defenses | Description |
 |---|---|
-| [Hit Points](hit-point.md) | `Description TBD` |
 | [Armor Class](armor-class.md) | `Description TBD` |
-| [Damage Types](damage.md) | `Description TBD` |
+| [Hit Points](hit-point.md) | `Description TBD` |
 | [Resistance](resistance.md) | `Description TBD` |
 | [Protection](protection.md) | `Description TBD` |
 | [Damage Reduction](reduction.md) | `Description TBD` |

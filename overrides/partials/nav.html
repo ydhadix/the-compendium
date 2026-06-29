@@ -1,13 +1,12 @@
 {#-
-  Copied from mkdocs-material's partials/nav.html, with ONE change: the mobile
-  drawer skips the single top-level group ("The Compendium") and renders its
-  children (Overview, Rules Rolodex, Hero Handbook, …) as the topmost level, so
-  the drawer opens straight onto the sections instead of one redundant tap-in.
+  Copied from mkdocs-material's partials/nav.html, with ONE change to the mobile
+  drawer's top level: the first top-level group is flattened — its children are
+  promoted to the topmost level, so the drawer opens straight onto the sections.
+  Every other top-level group renders normally as a collapsible item.
 
-  We loop over each top-level group and render ITS children at level 1. A group
-  with no children (a bare top-level page) is rendered directly as a fallback.
-  Paths combine both loop indices so checkbox toggle ids stay unique even if more
-  than one top-level group is ever added.
+  The first group's children take paths "__nav_1_<i>"; later groups take
+  "__nav_<group_index>", so checkbox toggle ids stay unique. A first group with no
+  children falls through to the normal branch.
 
   Keep in sync with Material on upgrade: re-copy the upstream file and re-apply
   this loop change. Separator/section styling lives in stylesheets/extra.css.
@@ -35,12 +34,16 @@
   <ul class="md-nav__list" data-md-scrollfix>
     {% for group in nav.items %}
       {% set group_index = loop.index %}
-      {% if group.children %}
+      {% if loop.first and group.children %}
+        {#- First top-level group: promote its children to the root level so the
+            drawer opens straight onto the sections. -#}
         {% for nav_item in group.children %}
           {% set path = "__nav_" ~ group_index ~ "_" ~ loop.index %}
           {{ item.render(nav_item, path, 1) }}
         {% endfor %}
       {% else %}
+        {#- Every other top-level group renders normally, as a collapsible
+            nested item. -#}
         {% set path = "__nav_" ~ group_index %}
         {{ item.render(group, path, 1) }}
       {% endif %}

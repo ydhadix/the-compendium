@@ -6,7 +6,7 @@
 
 | Artificer | Description |
 |---|---|
-| [Features](features.md) | `Description TBD` |
-| [Spell List](spells/index.md) | `Description TBD` |
+| [Class Features](features.md) | `Description TBD` |
+| [Artificer Spell List](spells/index.md) | `Description TBD` |
 | [Armorer](armorer.md) | `Description TBD` |
 | [Cartographer](cartographer.md) | `Description TBD` |

@@ -9,8 +9,6 @@
 | [Creating a Ship](creation.md) | `Description TBD` |
 | [Ship Components](component/index.md) | `Description TBD` |
 | [Officers](officer/index.md) | `Description TBD` |
-| [Initiative](initiative.md) | `Description TBD` |
-| [Engagement Ranges](range.md) | `Description TBD` |
-| [Ship Damage](damage.md) | `Description TBD` |
+| [Ship Combat](combat/index.md) | `Description TBD` |
 | [Leviathans](leviathan.md) | `Description TBD` |
 | [Example Ships](example/index.md) | `Description TBD` |

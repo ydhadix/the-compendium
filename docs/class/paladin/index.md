@@ -6,5 +6,5 @@
 
 | Paladin | Description |
 |---|---|
-| [Features](features.md) | `Description TBD` |
-| [Spell List](spells/index.md) | `Description TBD` |
+| [Class Features](features.md) | `Description TBD` |
+| [Paladin Spell List](spells/index.md) | `Description TBD` |

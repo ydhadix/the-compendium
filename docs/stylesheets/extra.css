@@ -74,8 +74,8 @@
   --pm-pad-min:        2rem;      /* interior inset <= 60em */
   --pm-pad-max:        7rem;      /* interior inset >= 80.6em */
   --pm-gutter:         1rem;      /* min window-edge gutter */
-  --pm-nav-w:          9rem;      /* left-nav width */
-  --pm-nav-gap:        1rem;      /* gap between nav and panel */
+  --pm-nav-w:          10.5rem;   /* left-nav width (a touch roomier) */
+  --pm-nav-gap:        0rem;      /* nav panel sits flush against the content panel */
   --pm-content-pad-top: 3.5rem;   /* text inset from the panel top */
 
   /* Derived: inset ramps pad-min -> pad-max across 60em..80.6em (slope ~0.2427). */
@@ -222,6 +222,11 @@ body {
 /* ----- Demo screencasts: responsive, keeping each clip's own shape. Set size
    per-embed: <iframe class="pm-demo" style="max-width:270px; aspect-ratio:270/151" ...> */
 .pm-demo { width: 100%; height: auto; border: 0; display: block; }
+
+/* ----- Spotify embeds: full-width rounded player. Set height per-embed via the
+   iframe's height attribute (352 full · 152 compact · 80 mini).
+   <iframe class="pm-spotify" src="https://open.spotify.com/embed/playlist/ID" height="352"></iframe> */
+.pm-spotify { display: block; width: 100%; border: 0; border-radius: 12px; margin: 1rem 0; }
 
 /* ----- Banner: a single full-width image, no overlaid text. */
 .md-banner { background-color: #000000; }        /* black behind the image */
@@ -422,18 +427,56 @@ body {
 .pm-localnav { display: none; }   /* mobile: drawer handles nav */
 
 @media screen and (min-width: 60em) {
+  /* The frame is a zero-height sticky anchor (Material's own trick): with
+     height:0 it can't inflate the flex row, so the content panel + footer hug the
+     real content instead of stretching to the nav. The inner overflows this
+     0-height box; leftnav.js sizes the inner to the visible viewport space below
+     the header so it scrolls internally without floating past the footer. */
   .pm-localnav {
-    display: block;
-    align-self: flex-start;
+    display: block;            /* override the mobile `display: none` default */
     flex-shrink: 0;
     width: var(--pm-nav-w);
-    padding: 1.2rem 0;
     position: sticky;
     top: 2.4rem;               /* clear the single-row header */
-    max-height: calc(100vh - 2.4rem);   /* cap + scroll independently */
+    height: 0;                 /* don't contribute height to the row */
+    margin-left: calc(var(--pm-panel-left) - var(--pm-nav-foot));   /* the left slack */
+  }
+
+  /* The parchment panel and the scroller in one. The background is fixed (it does
+     not scroll with the list). The mask feathers the panel into the leather on the
+     top, left, and bottom edges; the top/bottom feather doubles as a scroll fade
+     as the list moves under it. leftnav.js sets the live max-height — the calc()
+     here is the no-JS fallback. */
+  .pm-localnav__inner {
+    max-height: calc(100vh - 2.4rem);
     overflow-y: auto;
     overscroll-behavior: contain;
-    margin-left: calc(var(--pm-panel-left) - var(--pm-nav-foot));   /* the left slack */
+    padding: 1.4rem 0.5rem 1.4rem 0.6rem;
+    border-radius: 3px;
+    background-color: var(--clr-card-bg);   /* light parchment */
+    background-image: url("../images/textures/paper.png");
+    background-repeat: repeat;
+    background-blend-mode: overlay;
+    -webkit-mask-image:
+      linear-gradient(to bottom, transparent 0, #000 1.4rem),
+      linear-gradient(to top,    transparent 0, #000 1.4rem),
+      linear-gradient(to right,  transparent 0, #000 0.5rem);
+    mask-image:
+      linear-gradient(to bottom, transparent 0, #000 1.4rem),
+      linear-gradient(to top,    transparent 0, #000 1.4rem),
+      linear-gradient(to right,  transparent 0, #000 0.5rem);
+    -webkit-mask-composite: source-in;   /* webkit keyword for "intersect" */
+    mask-composite: intersect;           /* feather all three edges at once */
+    scrollbar-width: thin;                         /* Firefox: thin gold bar */
+    scrollbar-color: var(--clr-divider) transparent;
+  }
+  .pm-localnav__inner::-webkit-scrollbar { width: 7px; }
+  .pm-localnav__inner::-webkit-scrollbar-track { background: transparent; }
+  .pm-localnav__inner::-webkit-scrollbar-thumb {
+    background-color: var(--clr-divider);
+    border-radius: 4px;
+    border: 2px solid transparent;   /* inset the thumb from the track edge */
+    background-clip: padding-box;
   }
 
   /* Material's primary sidebar is the mobile drawer; hide its desktop column and
@@ -441,7 +484,9 @@ body {
   .md-sidebar--primary,
   .md-header [for="__drawer"] { display: none; }
 
-  /* Content fills the panel; on nav pages it flows after the bookmark. */
+  /* Content fills the row (stretch) so the parchment panel always reaches the
+     footer; the nav no longer drags it taller because the nav is height-capped
+     and its inner list scrolls. */
   .md-content { flex: 0 1 auto; align-self: stretch; }
   .md-container:has(.pm-localnav) .md-content {
     width: min(var(--pm-panel), 100% - var(--pm-panel-left) - var(--pm-gutter));
@@ -465,20 +510,21 @@ body {
 /* Indent each nested level, with a faint tan guide line. */
 .pm-localnav__list .pm-localnav__list {
   margin: 0.1rem 0 0.25rem 0.55rem;
-  padding-left: 0.45rem;
-  border-left: 1px solid rgba(185, 159, 113, 0.3);
+  padding-left: 0.1rem;                              /* keep children close to the guide line */
+  border-left: 1px solid rgba(185, 159, 113, 0.5);  /* gold guide line */
 }
 
-/* Gold-on-leather, lifted off the texture with a soft text-shadow (per the draft). */
+/* Dark ink on the parchment panel; crimson section headers (matches the cards
+   and drawer nav). No leather text-shadow — the panel reads light now. */
 .pm-localnav__link,
 .pm-localnav__section {
   display: block;
   padding: 0.25rem 0.6rem;
   font-family: "Alegreya Sans SC", sans-serif;
   font-size: 0.85rem;
-  color: var(--clr-divider);
+  font-weight: 700;
+  color: var(--clr-body-text);
   text-decoration: none;
-  text-shadow: -1px -1px 2px rgba(0, 0, 0, 0.85), 1px 1px 2px rgba(220, 190, 130, 0.3);
 }
 .pm-localnav__section {
   font-family: "Alegreya SC", serif;
@@ -487,19 +533,84 @@ body {
   color: var(--clr-accent);
 }
 .pm-localnav__link:hover { color: var(--clr-accent-alt); }
-.pm-localnav__link--active { color: var(--clr-divider); font-weight: 700; text-transform: uppercase; }
+.pm-localnav__link--active { color: var(--clr-accent); font-weight: 700; text-transform: uppercase; }
 
 /* Separators are hidden in the left nav (bar + any label) — they live in the
    mega menu instead, where they're more useful. */
 .pm-localnav__sep { display: none; }
 
-/* Separators in the mobile drawer (Material's nav tree; see nav-item.html):
-   a flush, full-width divider, optionally with a grouped subheading below. */
+/* Recent Items — collapsible block at the bottom of the left nav (filled by
+   recent.js; hidden until it has entries). A tan rule divides it from the tree
+   above. The summary reuses .pm-localnav__section for its crimson heading look;
+   links reuse .pm-localnav__link. */
+.pm-recent {
+  margin: 0.4rem 0 0;
+  padding-top: 0.4rem;
+  border-top: 2px solid var(--clr-divider);
+}
+.pm-recent__summary {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;                 /* drop the native disclosure triangle */
+  /* Crimson sans-serif uppercase, like the section headers */
+  font-family: "Alegreya Sans SC", sans-serif;
+  color: var(--clr-accent);
+}
+.pm-recent__summary::-webkit-details-marker { display: none; }
+/* Caret on the right, rotating when open. */
+.pm-recent__summary::after {
+  content: "";
+  margin-left: auto;
+  border-left: 0.3rem solid currentColor;
+  border-top: 0.25rem solid transparent;
+  border-bottom: 0.25rem solid transparent;
+  opacity: 0.7;
+  transition: transform 120ms;
+}
+.pm-recent[open] .pm-recent__summary::after { transform: rotate(90deg); }
+.pm-recent__list { list-style: none; margin: 0.15rem 0 0; padding: 0; }
+/* Truncate long titles to the nav column instead of wrapping. */
+.pm-recent__link { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* =========================================================================
+   Compact (drawer) nav — mirror the mega menu: Alegreya Sans SC items on
+   parchment, crimson hover (white text), crimson active, tan separators with
+   crimson uppercase labels. Scoped to .md-nav--primary (the mobile drawer).
+   ========================================================================= */
+.md-nav--primary .md-nav__link {
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--clr-body-text);
+}
+.md-nav--primary .md-nav__link--active { color: var(--clr-accent); }
+/* Hover/focus = crimson bg, white text. The active-item selectors match
+   Material's own active-hover rule (specificity 0,4,0) so white wins on the
+   current page too, instead of Material repainting the text crimson. */
+.md-nav--primary .md-nav__link:hover,
+.md-nav--primary .md-nav__link:focus,
+.md-nav--primary .md-nav__item--active > .md-nav__link:hover,
+.md-nav--primary .md-nav__item--active > .md-nav__link:focus {
+  background-color: var(--clr-accent);
+  color: #ffffff;
+}
+/* Drilled-in section headers (the back-button title) read like a heading. */
+.md-nav--primary .md-nav .md-nav__title {
+  font-family: "Alegreya SC", serif;
+  color: var(--clr-accent);
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+/* Separators in the drawer (Material's nav tree; see nav-item.html): a flush,
+   full-width tan divider, optionally with a crimson grouped subheading below. */
 .pm-drawernav__sep { list-style: none; margin: 0; border-top: 4px solid var(--clr-divider); }
 .pm-drawernav__sep--labeled { margin: 0; padding: 0.35rem 0.7rem 0.15rem; }
 .pm-drawernav__sep-label {
-  font-size: 0.55rem; font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.05em; color: #999999;
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 0.75rem; font-weight: 1000; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--clr-accent);
 }
 
 /* =========================================================================
@@ -596,7 +707,7 @@ body {
 .md-typeset table:not([class]) th {
   font-weight: 700;
   text-transform: uppercase;
-  background-color: var(--clr-page-bg);   /* tan parchment header band */
+  background-color: var(--clr-divider);   /* gold header band */
   color: var(--clr-accent);               /* crimson label text */
 }
 .md-typeset table:not([class]) tbody tr > td:first-child { font-weight: 700; text-transform: lowercase; }

@@ -7,7 +7,7 @@
 | Adventuring Gear | Description |
 |---|---|
 | [Combat](combat/index.md) | `Description TBD` |
-| [Spellcasting Foci](spell-focus/index.md) | `Description TBD` |
+| [Spellcasting Focuses](spell-focus/index.md) | `Description TBD` |
 | [Medical](medical/index.md) | `Description TBD` |
 | [Clothing](clothing/index.md) | `Description TBD` |
 | [Survival](survival/index.md) | `Description TBD` |

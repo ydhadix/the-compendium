@@ -14,7 +14,7 @@
   same depth rule used for sections holds for leaf collections too.
 
   A section's title links to its own index (`section.index_page`, set by
-  navtools.py); that index is never listed as a child ("Overview" disappears).
+  navtools.py); that index is never listed as a child (it drops out of the list).
 -#}
 
 {#- The out-of-nav leaf pages sharing a hub, the current one highlighted. -#}
@@ -31,7 +31,7 @@
   </ul>
 {% endmacro %}
 
-{#- One level of the contextual tree (children already have "Overview" removed). -#}
+{#- One level of the contextual tree (children already have the section index removed). -#}
 {% macro tree(items) %}
   <ul class="pm-localnav__list">
     {% for item in items %}
@@ -57,7 +57,7 @@
           {% if on_path and page != item.index_page %}
             {{ tree(item.children | reject("equalto", item.index_page) | list) }}
           {% endif %}
-          {#- A hub can also be a section's own index page (its "Overview"), which
+          {#- A hub can also be a section's own index page, which
               is absorbed into the title link above; hang its leaves off the
               section so they still appear. -#}
           {% if localnav_host is defined and item.index_page and item.index_page == localnav_host and localnav_siblings %}
@@ -90,6 +90,12 @@
     <div class="pm-localnav">
       <div class="pm-localnav__inner">
         {{ tree(top.children | reject("equalto", top.index_page) | list) }}
+        {#- Recently visited pages, filled by recent.js; hidden until it has
+            entries. Open by default; its tan rule divides it from the tree. -#}
+        <details class="pm-recent" open hidden>
+          <summary class="pm-localnav__section pm-recent__summary">Recent</summary>
+          <ul class="pm-recent__list"></ul>
+        </details>
       </div>
     </div>
   {% endif %}
