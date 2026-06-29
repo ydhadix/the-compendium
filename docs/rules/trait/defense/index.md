@@ -8,7 +8,8 @@
 |---|---|
 | [Armor Class](armor-class.md) | `Description TBD` |
 | [Hit Points](hit-point.md) | `Description TBD` |
-| [Resistance](resistance.md) | `Description TBD` |
 | [Protection](protection.md) | `Description TBD` |
+| [Evasion](evasion.md) | `Description TBD` |
+| [Damage Resistance](resistance.md) | `Description TBD` |
 | [Damage Reduction](reduction.md) | `Description TBD` |
 | [Damage Threshold](threshold.md) | `Description TBD` |

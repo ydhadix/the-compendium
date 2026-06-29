@@ -74,7 +74,6 @@ nav:
       - Character Traits:
         - Overview:               rules/trait/index.md
         - Abilities:              rules/trait/ability.md
-        - Level:                  rules/trait/level.md
         - Proficiency:            rules/trait/proficiency.md
         - Skills:                 rules/trait/skill.md
         - Languages:              rules/trait/language.md
@@ -99,8 +98,9 @@ nav:
         - Overview:               rules/trait/defense/index.md
         - Armor Class:            rules/trait/defense/armor-class.md
         - Hit Points:             rules/trait/defense/hit-point.md
-        - Resistance:             rules/trait/defense/resistance.md
         - Protection:             rules/trait/defense/protection.md
+        - Evasion:                rules/trait/defense/evasion.md
+        - Damage Resistance:      rules/trait/defense/resistance.md
         - Damage Reduction:       rules/trait/defense/reduction.md
         - Damage Threshold:       rules/trait/defense/threshold.md
       - Encounters:
@@ -146,6 +146,7 @@ nav:
 
     - Class Codex:
       - Overview:                 class/index.md
+      - Leveling Up:              class/level.md
       - Artificer:
         - Overview:               class/artificer/index.md
         - Class Features:         class/artificer/features.md

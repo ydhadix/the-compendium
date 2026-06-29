@@ -7,7 +7,6 @@
 | Character Traits | Description |
 |---|---|
 | [Abilities](ability.md) | `Description TBD` |
-| [Level](level.md) | `Description TBD` |
 | [Proficiency](proficiency.md) | `Description TBD` |
 | [Skills](skill.md) | `Description TBD` |
 | [Languages](language.md) | `Description TBD` |

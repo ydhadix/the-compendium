@@ -51,10 +51,10 @@
           {% else %}
             <span class="pm-localnav__section">{{ item.title }}</span>
           {% endif %}
-          {#- Expand a section's children only once we're inside it (the current
-              page is one of the children, or deeper) — not when we're on the
-              section's own index page, which lists them inline already. -#}
-          {% if on_path and page != item.index_page %}
+          {#- Expand a section's children whenever it's on the active path —
+              including when we're on the section's own index page, so the index's
+              children show in the nav. -#}
+          {% if on_path %}
             {{ tree(item.children | reject("equalto", item.index_page) | list) }}
           {% endif %}
           {#- A hub can also be a section's own index page, which

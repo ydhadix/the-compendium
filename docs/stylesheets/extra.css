@@ -520,7 +520,7 @@ body {
 .pm-localnav__list .pm-localnav__list {
   margin: 0.1rem 0 0.25rem 0.55rem;
   padding-left: 0.1rem;                              /* keep children close to the guide line */
-  border-left: 1px solid rgba(185, 159, 113, 0.65);  /* gold guide line */
+  border-left: 3px solid rgba(185, 159, 113, 0.65);  /* gold guide line */
 }
 
 /* Bookmark look: white lettering on the red fabric, with gold section headers,
@@ -584,43 +584,96 @@ body {
 .pm-recent__link { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 /* =========================================================================
-   Compact (drawer) nav — mirror the mega menu: Alegreya Sans SC items on
-   parchment, crimson hover (white text), crimson active, tan separators with
-   crimson uppercase labels. Scoped to .md-nav--primary (the mobile drawer).
+   Compact (drawer) nav — the localnav bookmark on mobile: red fabric, white
+   lettering, gold accents. Scoped to .md-nav--primary (the mobile drawer).
    ========================================================================= */
+/* Red fabric across the drawer root, its nested (drilled-in) panels, and the
+   list area — overriding Material's parchment backgrounds. */
+.md-nav--primary,
+.md-nav--primary .md-nav,
+.md-nav--primary .md-nav__title ~ .md-nav__list {
+  background-color: #8c1911;
+  background-image: url("../images/textures/fabric.png");
+  background-repeat: repeat;
+  background-blend-mode: multiply;
+}
+/* Drop Material's faint inter-item rules for the clean localnav look. */
+.md-nav--primary .md-nav__item { border-top: none; }
+
+/* White items, lifted off the weave; gold for the active page. The item--active
+   selector (0,3,0) beats Material's own active colour. */
 .md-nav--primary .md-nav__link {
   font-family: "Alegreya Sans SC", sans-serif;
   font-weight: 700;
   font-size: 0.9rem;
-  color: var(--clr-body-text);
+  color: #f6f1e6;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.45);
 }
-.md-nav--primary .md-nav__link--active { color: var(--clr-accent); }
-/* Hover/focus = crimson bg, white text. The active-item selectors match
-   Material's own active-hover rule (specificity 0,4,0) so white wins on the
-   current page too, instead of Material repainting the text crimson. */
+.md-nav--primary .md-nav__link--active,
+.md-nav--primary .md-nav__item--active > .md-nav__link { color: var(--clr-divider); }
+/* Hover/focus = gold text over a subtle dark wash (keeps touch feedback). The
+   active-item selectors match Material's own active-hover rule (specificity 0,4,0)
+   so these win on the current page too. */
 .md-nav--primary .md-nav__link:hover,
 .md-nav--primary .md-nav__link:focus,
 .md-nav--primary .md-nav__item--active > .md-nav__link:hover,
 .md-nav--primary .md-nav__item--active > .md-nav__link:focus {
-  background-color: var(--clr-accent);
-  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.22);
+  color: var(--clr-divider);
 }
-/* Drilled-in section headers (the back-button title) read like a heading. */
-.md-nav--primary .md-nav .md-nav__title {
-  font-family: "Alegreya SC", serif;
-  color: var(--clr-accent);
-  font-weight: 700;
-  font-size: 1.5em;
+/* Every drawer title section shares the site's dark header look: white Beclave on
+   a dark bar (overrides Material's tall parchment titles and the fabric). The flat
+   height + flex put the back arrow inline with the title on child menus. */
+.md-nav--primary .md-nav__title {
+  /* Beclave's caps sit above the line-box centre, so centred text rides high.
+     Shift the text down by --pm-title-shift via asymmetric padding (top +shift,
+     bottom -shift → box height unchanged); the icon counter-translates by -shift
+     to stay put. Tune this one value to taste. */
+  --pm-title-shift: 0.1rem;
+  display: flex;
+  align-items: center;
+  height: auto;
+  padding: calc(1rem + var(--pm-title-shift)) 0.6rem calc(1rem - var(--pm-title-shift)) 0.4rem;
+  line-height: 1.4;
+  font-family: "Beclave", serif;
+  letter-spacing: 0.04em;
+  font-size: 1.1rem;
+  white-space: normal;                  /* wrap long section names instead of clipping */
+  color: #f6f1e6;                       /* white */
+  background: var(--clr-header-bg);     /* dark bar */
+  box-shadow: 0 0.15rem 0.35rem rgba(0, 0, 0, 0.45);
+}
+/* Leading icon on drawer titles — the back arrow on child menus, the site icon on
+   the root title — matched in size and left gap so they're interchangeable. (Any
+   vertical-centering nudge belongs here so it applies to both.) */
+.md-nav--primary .md-nav .md-nav__title .md-nav__icon,
+.md-nav--primary > .md-nav__title[for="__drawer"] .md-logo {
+  position: static;
+  flex: 0 0 auto;
+  width: 1.2rem;
+  height: 1.2rem;
+  margin: 0 0.4rem 0 0;
+  padding: 0;
+  transform: translateY(calc(-1 * var(--pm-title-shift)));  /* hold icon at box centre */
+}
+/* Re-show the site icon in the root title (it's hidden only in the header) and fit
+   its image to the icon box. */
+.md-nav--primary > .md-nav__title[for="__drawer"] .md-logo { display: block; }
+.md-nav--primary > .md-nav__title[for="__drawer"] .md-logo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 /* Separators in the drawer (Material's nav tree; see nav-item.html): a flush,
-   full-width tan divider, optionally with a crimson grouped subheading below. */
+   full-width gold divider, optionally with a gold grouped subheading below. */
 .pm-drawernav__sep { list-style: none; margin: 0; border-top: 4px solid var(--clr-divider); }
 .pm-drawernav__sep--labeled { margin: 0; padding: 0.35rem 0.7rem 0.15rem; }
 .pm-drawernav__sep-label {
   font-family: "Alegreya Sans SC", sans-serif;
   font-size: 0.75rem; font-weight: 1000; text-transform: uppercase;
-  letter-spacing: 0.05em; color: var(--clr-accent);
+  letter-spacing: 0.05em; color: var(--clr-divider);
 }
 
 /* =========================================================================
@@ -631,19 +684,16 @@ body {
 @media screen and (min-width: 100em) { html { font-size: 125%; } }
 @media screen and (min-width: 125em) { html { font-size: 125%; } }
 
-/* Logo removed from the nav bar and the drawer title (keep the site name). */
-.md-header__button.md-logo,
-.md-nav--primary .md-nav__title .md-logo { display: none; }
+/* Logo removed from the header bar (the drawer title shows it as a leading icon). */
+.md-header__button.md-logo { display: none; }
 
-/* Tighten the drawer's site-title bar now the logo is gone, and set it in the
-   Beclave display face. Direct child hits only the top-level title, not nested
-   section titles. */
-.md-nav--primary > .md-nav__title {
-  font-family: "Beclave", serif;
-  letter-spacing: 0.04em;
-  font-size: 1.2rem;
-  padding-top: 1.5rem;
-  height: auto;
+/* The root drawer title is rendered identically to the section titles (shared rule
+   above) — the only difference is the site icon vs the back arrow. This override
+   exists solely to beat Material's grey [for=__drawer] colour/background at the
+   needed specificity; it adds no dimensional difference. */
+.md-nav--primary > .md-nav__title[for="__drawer"] {
+  color: #f6f1e6;
+  background: var(--clr-header-bg);
 }
 
 /* (Tables are skinned in their own section below.) */

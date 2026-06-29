@@ -6,6 +6,7 @@
 
 | Sections | Description |
 |---|---|
+| [Leveling Up](level.md) | `Description TBD` |
 | [Artificer](artificer/index.md) | `Description TBD` |
 | [Barbarian](barbarian/index.md) | `Description TBD` |
 | [Bard](bard/index.md) | `Description TBD` |
