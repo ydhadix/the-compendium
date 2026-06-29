@@ -147,13 +147,13 @@
 .md-typeset h1 { font-size: 2.2rem; margin-bottom: 0.2em; }
 /* h2 + h3 are primary section headers and look identical (h3 also cards). */
 .md-typeset h2,
-.md-typeset h3 { font-size: 1.6rem; border-bottom: 2px solid var(--clr-divider); padding-bottom: 0.25em; }
+.md-typeset h3 { font-size: 1.6rem; border-bottom: 2px solid var(--clr-divider); margin-bottom: 0; margin-top: 0.5em; }
 /* h4 = subheader inside an h3 card. */
-.md-typeset h4 { font-size: 1.25rem; }
+.md-typeset h4 { font-size: 1.25rem; padding-top: 0.2em; }
 /* h5 = secondary section header (subcard). */
-.md-typeset h5 { font-size: 1.25rem; text-transform: none; border-bottom: 2px solid var(--clr-divider); padding-bottom: 0.25em; }
+.md-typeset h5 { font-size: 1.25rem; text-transform: none; border-bottom: 2px solid var(--clr-divider); margin-bottom: 0; }
 /* h6 = subheader inside an h5 card. */
-.md-typeset h6 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; color: var(--clr-body-text); }
+.md-typeset h6 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; color: var(--clr-body-text); padding-top: 0.2em; }
 /* In-card subheaders (h4, h6) hug the content that follows them. */
 .md-typeset h4,
 .md-typeset h6 { margin-top: 0.2em; margin-bottom: 0; }
