@@ -408,12 +408,22 @@ body {
     --pm-panel-left: max(var(--pm-gutter) + var(--pm-nav-foot),
                          (100% - var(--pm-panel)) / 2 + var(--pm-nav-foot) / 2);
   }
-  /* Standalone bands offset to the panel's left edge (.md-content handled below). */
-  body:has(.pm-localnav) .md-header,
-  body:has(.pm-localnav) .md-banner,
+  /* The footer stays in the content column. */
   .md-container:has(.pm-localnav) .pm-footer {
     width: min(var(--pm-panel), 100% - var(--pm-panel-left) - var(--pm-gutter));
     margin-left: var(--pm-panel-left);
+    margin-right: 0;
+  }
+  /* Banner + meganav header are one block, spanning from the left edge of the left
+     nav to the right edge of the content pane (widened left by the nav's
+     footprint; max-width:none lets it exceed the panel cap). The nav hangs under
+     them. */
+  body:has(.pm-localnav) .md-banner,
+  body:has(.pm-localnav) .md-header {
+    width: calc(min(var(--pm-panel), 100% - var(--pm-panel-left) - var(--pm-gutter))
+                + var(--pm-nav-foot));
+    max-width: none;
+    margin-left: calc(var(--pm-panel-left) - var(--pm-nav-foot));
     margin-right: 0;
   }
 
@@ -437,36 +447,35 @@ body {
     flex-shrink: 0;
     width: var(--pm-nav-w);
     position: sticky;
-    top: 2.4rem;               /* clear the single-row header */
+    top: 2.4rem;               /* sit just below the overhanging header */
     height: 0;                 /* don't contribute height to the row */
     margin-left: calc(var(--pm-panel-left) - var(--pm-nav-foot));   /* the left slack */
   }
 
   /* The parchment panel and the scroller in one. The background is fixed (it does
-     not scroll with the list). The mask feathers the panel into the leather on the
-     top, left, and bottom edges; the top/bottom feather doubles as a scroll fade
-     as the list moves under it. leftnav.js sets the live max-height — the calc()
-     here is the no-JS fallback. */
+     not scroll with the list). The top edge is square — it tucks flush under the
+     overhanging header with an inset shadow the list scrolls beneath (no top
+     feather). The
+     left and bottom edges still feather into the leather. leftnav.js sets the live
+     max-height — the calc() here is the no-JS fallback. */
   .pm-localnav__inner {
     max-height: calc(100vh - 2.4rem);
     overflow-y: auto;
     overscroll-behavior: contain;
     padding: 1.4rem 0.5rem 1.4rem 0.6rem;
-    border-radius: 3px;
-    background-color: var(--clr-card-bg);   /* light parchment */
-    background-image: url("../images/textures/paper.png");
+    background-color: #8c1911;               /* red fabric bookmark */
+    background-image: url("../images/textures/fabric.png");
     background-repeat: repeat;
-    background-blend-mode: overlay;
+    background-blend-mode: multiply;         /* weave reads as darker threads */
+    box-shadow: inset 0 0.55rem 0.4rem -0.4rem rgba(0, 0, 0, 0.55);  /* under-banner shadow */
     -webkit-mask-image:
-      linear-gradient(to bottom, transparent 0, #000 1.4rem),
-      linear-gradient(to top,    transparent 0, #000 1.4rem),
-      linear-gradient(to right,  transparent 0, #000 0.5rem);
+      linear-gradient(to top,   transparent 0, #000 1.4rem),
+      linear-gradient(to right, transparent 0, #000 0.5rem);
     mask-image:
-      linear-gradient(to bottom, transparent 0, #000 1.4rem),
-      linear-gradient(to top,    transparent 0, #000 1.4rem),
-      linear-gradient(to right,  transparent 0, #000 0.5rem);
+      linear-gradient(to top,   transparent 0, #000 1.4rem),
+      linear-gradient(to right, transparent 0, #000 0.5rem);
     -webkit-mask-composite: source-in;   /* webkit keyword for "intersect" */
-    mask-composite: intersect;           /* feather all three edges at once */
+    mask-composite: intersect;           /* feather the left + bottom edges */
     scrollbar-width: thin;                         /* Firefox: thin gold bar */
     scrollbar-color: var(--clr-divider) transparent;
   }
@@ -511,11 +520,11 @@ body {
 .pm-localnav__list .pm-localnav__list {
   margin: 0.1rem 0 0.25rem 0.55rem;
   padding-left: 0.1rem;                              /* keep children close to the guide line */
-  border-left: 1px solid rgba(185, 159, 113, 0.5);  /* gold guide line */
+  border-left: 1px solid rgba(185, 159, 113, 0.65);  /* gold guide line */
 }
 
-/* Dark ink on the parchment panel; crimson section headers (matches the cards
-   and drawer nav). No leather text-shadow — the panel reads light now. */
+/* Bookmark look: white lettering on the red fabric, with gold section headers,
+   hover, and active state. A soft dark shadow lifts the text off the weave. */
 .pm-localnav__link,
 .pm-localnav__section {
   display: block;
@@ -523,17 +532,18 @@ body {
   font-family: "Alegreya Sans SC", sans-serif;
   font-size: 0.85rem;
   font-weight: 700;
-  color: var(--clr-body-text);
+  color: #f6f1e6;                              /* warm white */
   text-decoration: none;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.45);
 }
 .pm-localnav__section {
   font-family: "Alegreya SC", serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: var(--clr-accent);
+  color: var(--clr-divider);                   /* gold accent */
 }
-.pm-localnav__link:hover { color: var(--clr-accent-alt); }
-.pm-localnav__link--active { color: var(--clr-accent); font-weight: 700; text-transform: uppercase; }
+.pm-localnav__link:hover { color: var(--clr-divider); }            /* gold on hover */
+.pm-localnav__link--active { color: var(--clr-divider); font-weight: 700; text-transform: uppercase; }
 
 /* Separators are hidden in the left nav (bar + any label) — they live in the
    mega menu instead, where they're more useful. */
@@ -553,9 +563,9 @@ body {
   align-items: center;
   cursor: pointer;
   list-style: none;                 /* drop the native disclosure triangle */
-  /* Crimson sans-serif uppercase, like the section headers */
+  /* Gold sans-serif uppercase, like the section headers */
   font-family: "Alegreya Sans SC", sans-serif;
-  color: var(--clr-accent);
+  color: var(--clr-divider);
 }
 .pm-recent__summary::-webkit-details-marker { display: none; }
 /* Caret on the right, rotating when open. */

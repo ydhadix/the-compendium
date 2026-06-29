@@ -1,3 +1,8 @@
+---
+hide_localnav: true
+---
+
+
 # The Compendium
 
 !!! note "In progress"
