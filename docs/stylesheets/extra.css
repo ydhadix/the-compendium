@@ -292,6 +292,25 @@ body {
   font-weight: 700;
 }
 
+/* Leftmost top-level item leads the bar in the Beclave display face. Beclave's
+   caps ride high in the line box, so shift the text down with asymmetric vertical
+   padding (top +shift, bottom -shift → cell height unchanged), matching the drawer
+   titles' --pm-title-shift trick above. */
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item:first-child > .pm-megamenu__label,
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item:first-child > .pm-megamenu__link {
+  --pm-title-shift: 0.12rem;
+  padding-top: calc(0.55rem + var(--pm-title-shift));
+  padding-bottom: calc(0.55rem - var(--pm-title-shift));
+  font-family: "Beclave", serif;
+  font-size: 1.05rem;
+}
+
+/* Every top-level item except the leading Beclave one renders lowercase. */
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item:not(:first-child) > .pm-megamenu__label,
+.pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item:not(:first-child) > .pm-megamenu__link {
+  text-transform: lowercase;
+}
+
 /* Top-level items fill the header height so the whole cell is a hover target. */
 .pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item { display: flex; align-items: stretch; }
 .pm-megamenu__inner > .pm-megamenu__list > .pm-megamenu__item > .pm-megamenu__label,
@@ -684,8 +703,14 @@ body {
 @media screen and (min-width: 100em) { html { font-size: 125%; } }
 @media screen and (min-width: 125em) { html { font-size: 125%; } }
 
-/* Logo removed from the header bar (the drawer title shows it as a leading icon). */
-.md-header__button.md-logo { display: none; }
+/* Site icon sits at the far left of the header bar, leading the mega-menu. */
+.md-header__button.md-logo {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 0.4rem;
+  padding: 0;
+}
+.md-header__button.md-logo img { height: 1.6rem; width: auto; }
 
 /* The root drawer title is rendered identically to the section titles (shared rule
    above) — the only difference is the site icon vs the back arrow. This override
