@@ -10,6 +10,11 @@
   `nav_item.is_separator` branch at the top of render(). Separator styling lives
   in stylesheets/extra.css (.pm-drawernav__sep).
 -#}
+{#- A plain drawer divider (mobile only). Reused by nav.html for the promoted
+    top level and below for the after-index / end-of-section separators. -#}
+{% macro sep() %}
+  <li class="pm-drawernav__sep" role="separator"></li>
+{% endmacro %}
 {% macro render_status(nav_item, type) %}
   {% set class = "md-status md-status--" ~ type %}
   {% if config.extra.status and config.extra.status[type] %}
@@ -145,8 +150,14 @@
             {% for item in nav_item.children %}
               {% if not index or item != index %}
                 {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
+                {#- A divider after this section's own index page (Overview);
+                    index_page is set by navtools.py, so other index.md-backed
+                    leaf links (e.g. Conditions) don't trigger one. -#}
+                {% if nav_item.index_page and item == nav_item.index_page %}{{ sep() }}{% endif %}
               {% endif %}
             {% endfor %}
+            {#- And a divider closing out the section. -#}
+            {{ sep() }}
           </ul>
         </nav>
       {% else %}

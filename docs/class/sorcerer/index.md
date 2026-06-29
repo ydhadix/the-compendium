@@ -8,4 +8,4 @@
 |---|---|
 | [Class Features](features.md) | `Description TBD` |
 | [Sorcerer Spell List](spells/index.md) | `Description TBD` |
-| [Metamagic](metamagic/index.md) | `Description TBD` |
+| [Metamagics](metamagic/index.md) | `Description TBD` |

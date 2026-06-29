@@ -80,7 +80,7 @@ nav:
         - Speeds:                 rules/trait/speed.md
         - Senses:                 rules/trait/sense.md
         - "---": "sep:"
-        - Creature Types:         rules/trait/creature-type.md
+        - Creature Type:          rules/trait/creature-type.md
         - Alignment:              rules/trait/alignment.md
         - Size:                   rules/trait/size.md
         - Reach:                  rules/trait/reach.md
@@ -91,7 +91,7 @@ nav:
         - Saving Throws:          rules/dice/save.md
         - Damage Rolls:           rules/dice/damage.md
         - "---": "sep:"
-        - Advantage/Disadvantage: rules/d20/advantage.md
+        - Advantage / Disadvantage: rules/d20/advantage.md
         - Rerolls:                rules/d20/reroll.md
         - Critical Hits:          rules/d20/critical.md
       - Defenses:
@@ -120,10 +120,11 @@ nav:
         - Hazards:                rules/adventure/hazard/index.md
       - Resting:
         - Overview:               rules/rest/index.md
-        - Long Rest:              rules/rest/long.md
-        - Travel Rest:            rules/rest/travel.md
         - Short Rest:             rules/rest/short.md
+        - Travel Rest:            rules/rest/travel.md
+        - Long Rest:              rules/rest/long.md
         - Downtime:               rules/rest/downtime.md
+        - "---": "sep:"
         - Bastions:               rules/rest/bastion/index.md
       - Conditions:               rules/condition/index.md
 
@@ -136,7 +137,6 @@ nav:
       - Feats:
         - Overview:               character/feat/index.md
         - Origin Feats:           character/feat/origin/index.md
-        - "---": "sep:"
         - General Feats:          character/feat/general/index.md
         - Fighting Styles:        character/feat/fighting-style/index.md
         - Ancestry Feats:         character/feat/ancestry/index.md
@@ -147,6 +147,7 @@ nav:
     - Class Codex:
       - Overview:                 class/index.md
       - Leveling Up:              class/level.md
+      - "---": "sep:"
       - Artificer:
         - Overview:               class/artificer/index.md
         - Class Features:         class/artificer/features.md
@@ -203,7 +204,7 @@ nav:
         - Overview:               class/sorcerer/index.md
         - Class Features:         class/sorcerer/features.md
         - Sorcerer Spell List:    class/sorcerer/spells/index.md
-        - Metamagic:              class/sorcerer/metamagic/index.md
+        - Metamagics:             class/sorcerer/metamagic/index.md
         # - "Sorcerer Subclasses": "sep:"
       - Warlock:
         - Overview:               class/warlock/index.md
@@ -292,7 +293,7 @@ nav:
         - 5th-Level:              spell/level/5/index.md
         - 6th-Level:              spell/level/6/index.md
 
-    - Spelljammer Schematics:
+    - Spelljammer Schematic:
       - Overview:                 spelljammer/index.md
       - Creating a Ship:          spelljammer/creation.md
       - "---": "sep:"

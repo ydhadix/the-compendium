@@ -481,7 +481,7 @@ body {
     max-height: calc(100vh - 2.4rem);
     overflow-y: auto;
     overscroll-behavior: contain;
-    padding: 1.4rem 0.5rem 1.4rem 0.6rem;
+    padding: 1.4rem 0.2rem 1.4rem 0.2rem;
     background-color: #8c1911;               /* red fabric bookmark */
     background-image: url("../images/textures/fabric.png");
     background-repeat: repeat;
@@ -549,7 +549,8 @@ body {
   display: block;
   padding: 0.25rem 0.6rem;
   font-family: "Alegreya Sans SC", sans-serif;
-  font-size: 0.85rem;
+  text-transform: lowercase;
+  font-size: 0.9rem;
   font-weight: 700;
   color: #f6f1e6;                              /* warm white */
   text-decoration: none;

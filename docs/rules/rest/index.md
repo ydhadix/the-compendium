@@ -6,8 +6,8 @@
 
 | Resting | Description |
 |---|---|
-| [Long Rest](long.md) | `Description TBD` |
-| [Travel Rest](travel.md) | `Description TBD` |
 | [Short Rest](short.md) | `Description TBD` |
+| [Travel Rest](travel.md) | `Description TBD` |
+| [Long Rest](long.md) | `Description TBD` |
 | [Downtime](downtime.md) | `Description TBD` |
 | [Bastions](bastion/index.md) | `Description TBD` |

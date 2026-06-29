@@ -12,7 +12,7 @@
 | [Languages](language.md) | `Description TBD` |
 | [Speeds](speed.md) | `Description TBD` |
 | [Senses](sense.md) | `Description TBD` |
-| [Creature Types](creature-type.md) | `Description TBD` |
+| [Creature Type](creature-type.md) | `Description TBD` |
 | [Alignment](alignment.md) | `Description TBD` |
 | [Size](size.md) | `Description TBD` |
 | [Reach](reach.md) | `Description TBD` |

@@ -10,6 +10,6 @@
 | [Attack Rolls](attack.md) | `Description TBD` |
 | [Saving Throws](save.md) | `Description TBD` |
 | [Damage Rolls](damage.md) | `Description TBD` |
-| [Advantage/Disadvantage](../d20/advantage.md) | `Description TBD` |
+| [Advantage / Disadvantage](../d20/advantage.md) | `Description TBD` |
 | [Rerolls](../d20/reroll.md) | `Description TBD` |
 | [Critical Hits](../d20/critical.md) | `Description TBD` |
