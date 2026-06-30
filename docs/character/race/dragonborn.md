@@ -2,6 +2,8 @@
 
 `Description TBD`
 
+## Dragonborn Traits
+
 | | |
 |---|---|
 | Abilities | Strength and one of your choice |

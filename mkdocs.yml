@@ -49,6 +49,7 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   spelljammer/*/*/*
   spell/level/*/*
   archive/*/*
+  archive/*
 
 hooks:
   - overrides/navtools.py     # nav rules for the mega-menu + left ToC (shared)
@@ -138,6 +139,7 @@ nav:
         - Origin Feats:           character/feat/origin/index.md
         - General Feats:          character/feat/general/index.md
         - Fighting Styles:        character/feat/fighting-style/index.md
+        - Advanced Fighting Styles: character/feat/advanced-fighting-style/index.md
         - Ancestry Feats:         character/feat/ancestry/index.md
         - "---": "sep:"
         - Epic Boons:             character/feat/epic/index.md

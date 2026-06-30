@@ -1,8 +1,8 @@
 # Ancestry Feats
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+`Description TBD`
 
 
 | Ancestry Feats | Description |
 |---|---|
+| [Integrated Protection](integrated-protection.md) | `Description TBD` |

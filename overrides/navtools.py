@@ -35,7 +35,7 @@ _DASHES = set("-—–─")       # a title of only these is a plain rule, with 
 # falling back to BANNER_FALLBACK. Enumerated at build time so adding/removing a
 # file in docs/images/banners/ needs no code change.
 BANNER_SUBDIR = ("images", "banners")
-BANNER_FALLBACK = "odyssey.png"
+BANNER_FALLBACK = "campaign/odyssey.png"
 _BANNER_EXTS = (".png", ".jpg", ".jpeg", ".webp", ".gif")
 
 
