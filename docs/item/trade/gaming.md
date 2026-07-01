@@ -1,4 +1,13 @@
-# Gaming Sets
+### Gaming Sets
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+| | |
+|---|---|
+| Ability | Intelligence |
+| Applications | Discern whether someone is cheating |
+
+| Game | Value |
+|---|---|
+| Dice | 1 silver |
+| Dragonchess | 1 gold |
+| Playing Cards | 5 silver |
+| Three-Dragon Ante | 1 gold |
