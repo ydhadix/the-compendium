@@ -56,13 +56,13 @@ When you choose Paladin as your Secondary Class, you gain the following proficie
 ### 1: Weapon Mastery
 You learn **2** Weapon Masteries.
 ###### Changing Weapon Masteries
-When you finish a Long Rest, you can replace one of your Weapon Masteries.
+After a Long Rest, you can replace one of your Weapon Masteries.
 
 
 ### 2: Fighting Style
-You gain a Fighting Style feat of your choice.
+You gain a Fighting Style feat.
 ###### Changing Fighting Styles
-When you Level Up, you can change your Fighting Style feat.
+Whenever you level up, you can change your Fighting Style feat.
 
 
 ### 2: Spellcasting
@@ -82,15 +82,15 @@ When you Level Up, you can change your Fighting Style feat.
 #### Spellcasting Ability
 Your Secondary Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Paladin spells use a Holy Symbol as a spellcasting focus.
+Paladin Spells use a Holy Symbol as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting table shows how many spells you prepare.
+The Spellcasting table shows how many Spells you prepare.
 ###### Changing Spells
-When you finish a Long Rest, you can replace one of your prepared spells.
+After a Long Rest, you can replace one of your Prepared Spells.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Long Rest, you regain all your spell slots.
+After a Long Rest, you regain all your Spell Slots.
 
 
 ### 3: Paladin Subclass
@@ -105,7 +105,7 @@ Choose a Paladin Subclass. Your subclass grants you a feature at this level.
 
 
 ### 5: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature

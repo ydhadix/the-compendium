@@ -1,2 +1,2 @@
 ### Sure-Footed
-You have Protection from Prone, and you gain a Climb Speed equal to your Speed.
+You have Prone Protection, and you gain a Climb Speed equal to your Speed.

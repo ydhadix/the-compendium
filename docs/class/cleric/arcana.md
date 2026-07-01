@@ -13,7 +13,7 @@
 ## Arcana Features
 
 ### 3: Arcana Spells
-Your specialization grants you additional spells. You learn these spells at the corresponding Cleric levels.
+Your specialization grants you additional Spells. You learn these Spells at the corresponding Cleric Levels.
 
 | Level | Spells |
 |---|---|
@@ -24,21 +24,21 @@ Your specialization grants you additional spells. You learn these spells at the 
 
 
 ### 3: Arcane Initiate
-You gain proficiency in the Arcana skill, and you learn two Wizard cantrips as Cleric cantrips.
+You gain Arcana Proficiency and learn **2** Wizard Cantrips as Cleric Cantrips.
 
 
 ### 3: Turn Arcane
-Your divine power repels creatures shaped by magic. Whenever you use Channel Divinity: Turn Undead, choose one of the following creature types: Celestial, Elemental, Fey, or Fiend. Creatures of the chosen type can be affected by this use of Turn Undead.
+Before you use Channel Divinity: Turn Undead, choose one of the following Creature Types: Celestial, Elemental, Fey, or Fiend. This use of Turn Undead affects Creatures of the chosen Creature Type.
 
 
 ### 6: Spell Breaker
-Before you heal an ally by expending a spell slot or use of Channel Divinity, you can also end one spell of your choice affecting that ally. The level of the spell must be equal to or lower than the level of the spell slot expended, or less than your Cleric Ability if you used Channel Divinity.
+Before you heal an ally by expending a Spell Slot or use of Channel Divinity, you can also end one Spell affecting that ally. The Level of the ended Spell can be at most the Level of the expended Spell Slot, or less than **Cleric Ability** if you used Channel Divinity.
 
 
 ### 9: Arcane Mastery
-You learn three Wizard spells: one 3rd, 4th, and 5th level.
+You learn **3** Wizard Spells: one 3rd-Level, one 4th-Level, and one 5th-Level Spell.
 ###### Free Casting
 1 use each per Long Rest
 { .subtitle }
 
-You can cast one of this feature's spells without a Spell Slot.
+You can cast one of this feature's Spells without a Spell Slot.

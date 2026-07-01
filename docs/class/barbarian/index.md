@@ -54,9 +54,9 @@ When you choose Barbarian as your Secondary Class, you gain the following profic
 ## Barbarian Features
 
 ### 1: Weapon Mastery
-You learn Weapon Masteries. The [Barbarian Table](#class-table) shows how many Weapon Masteries you know, and when you learn more.
+You learn Weapon Masteries. The [Barbarian Table](#class-table) shows how many Weapon Masteries you know.
 ###### Changing Weapon Masteries
-When you finish a Long Rest, you can replace one of your Weapon Masteries.
+After a Long Rest, you can replace one of your Weapon Masteries.
 
 
 <Level 2 Features>
@@ -74,7 +74,7 @@ Choose a Barbarian Subclass. Your subclass grants you a feature at this level.
 
 
 ### 5: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature

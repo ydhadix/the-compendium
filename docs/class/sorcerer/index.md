@@ -71,13 +71,13 @@ When you choose Sorcerer as your Secondary Class, you gain the following profici
 #### Spellcasting Ability
 Your Sorcerer Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Sorcerer spells use an Arcane Focus as a spellcasting focus.
+Sorcerer Spells use an Arcane Focus as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting Table shows how many cantrips you know and how many spells you prepare.
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
 ###### Changing Spells
-When you gain a Level, you can replace one of your known cantrips and one of your prepared spells.
+Whenever you gain a Level, you can replace one of your known Cantrips and one of your Prepared Spells.
 #### Spell Slots
-Before you cast a spell, you can expend Sorcery Points to create the required spell slot.  The Spellcasting Table shows how many Sorcery Points you have.
+Before you cast a Spell, you can expend Sorcery Points to create the required Spell Slot. The Spellcasting table shows how many Sorcery Points you have.
 
 | Spell Level | Sorcery Points | Minimum Sorcerer Level |
 |---|---|---|
@@ -89,7 +89,7 @@ Before you cast a spell, you can expend Sorcery Points to create the required sp
 | 6th | 9 | 11 |
 
 ###### Regaining Sorcery Points
-When you finish a Long Rest, you regain all your Sorcery Points.
+After a Long Rest, you regain all your Sorcery Points.
 
 
 <Level 2 Features>

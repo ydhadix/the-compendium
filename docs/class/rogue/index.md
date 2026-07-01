@@ -56,7 +56,7 @@ When you choose Rogue as your Secondary Class, you gain the following proficienc
 ### 1: Weapon Mastery
 You learn **2** Weapon Masteries.
 ###### Changing Weapon Masteries
-When you finish a Long Rest, you can replace one of your Weapon Masteries.
+After a Long Rest, you can replace one of your Weapon Masteries.
 
 
 <Level 2 Features>

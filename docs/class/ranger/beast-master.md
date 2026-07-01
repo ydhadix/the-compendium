@@ -19,7 +19,7 @@
 ## Beast Master Features
 
 ### 3: Beast Master Spells
-Your specialization grants you additional spells. You learn these spells at the corresponding Ranger levels.
+Your specialization grants you additional Spells. You learn these Spells at the corresponding Ranger Levels.
 
 | Level | Spells |
 |---|---|
@@ -29,12 +29,12 @@ Your specialization grants you additional spells. You learn these spells at the 
 
 
 ### 3: Primal Companion
-You summon a [Primal Companion](#primal-companion-forms). When you do, choose the kind of animal it looks like.
+You summon a [Primal Companion](#primal-companion-forms).
 
 Primal Companions have the following benefits:
 
-- Your companion adds your Proficiency Bonus to its ability checks and saving throws.
-- Before you cast a spell that targets only you, you can also target your companion if they are within 120 feet.
+- Your companion adds **PB** to its Ability Checks and Saving Throws.
+- Before you cast a Spell that targets only you, you can also target your companion if it is within **120** feet.
 
 #### Issuing Commands
 Your companion still follows normal Action rules, regardless of how many commands you issue.
@@ -42,35 +42,35 @@ Your companion still follows normal Action rules, regardless of how many command
 Attack Action
 { .subtitle }
 
-You command your companion to move and take the Attack action.
+You command your companion to move and Attack.
 ###### Other Commands
 Bonus Action
 { .subtitle }
 
-You command your companion to move and take any Action available to it _(including the Attack action)_.
+You command your companion to move and take any Action available to it _(including the Attack Action)_.
 #### Changing Companions
-When you finish a Long Rest, you can change your companion's form to another [Primal Companion](#primal-companion-forms).
+After a Long Rest, you can change your companion's form to another [Primal Companion](#primal-companion-forms).
 #### Resurrecting Companions
 1 minute, 1 Marked Target use
 { .subtitle }
 
-If your companion is dead, you can revive them with all their hit points.
+If your companion is dead, you can revive it with all its Hit Points.
 
 
 ### 6: Superior Training
 #### Magical Strikes
-Your companion's Beast Strike can deal Force damage instead of its normal damage type.
+Your companion's Beast Strike can deal Force Damage instead of its normal Damage Type.
 #### Advanced Commands
 Before or after you use your Bonus Action to command your companion, you can also command your companion to use its Bonus Action to Dash, Disengage, Dodge, or Help.
 
 
 ### 9: Exceptional Training
 #### Apex Companion
-When you change your companion's form, you can increase their size by one category.
+After you change your companion's form, you can increase its Size Category by **1**.
 #### Bestial Fury
-When your companion takes the Attack action on its turn, it can make an additional attack.
+The number of Attacks your companion can make with its Attack Action increases by **1**.
 #### Strike Mastery
-Your companion's Beast Strike can use the Graze or Sap weapon Mastery Properties.
+Your companion's Beast Strike can use the Graze or Sap Weapon Mastery.
 
 ## Primal Companion Forms
 
@@ -105,7 +105,7 @@ Medium Beast, Neutral
 | Range | Reach |
 | Attack | +your Spell Attack to hit |
 | Damage | 1d8 + STR + your Spell Ability Bludgeoning, Piercing, or Slashing Damage |
-| Effect | Before this attack deals damage, if the companion moved at least 20 feet in a straight line towards the target, add 1d6 damage.  After dealing this damage, if the target is no more than one size larger, it is knocked Prone. |
+| Effect | Before this Attack deals damage, if the companion moved at least **20** feet in a straight line towards the target, add **1d6** damage.  After dealing this damage, if the target is no more than **1** Size Category larger, the companion knocks it Prone. |
 
 
 ##### Primal Companion: Sea
@@ -139,7 +139,7 @@ Medium Beast, Neutral
 | Range | Reach |
 | Attack | +your Spell Attack to hit |
 | Damage | 1d6 + STR + your Spell Ability Bludgeoning, Piercing, or Slashing Damage |
-| Effect | After this attack hits, the companion grapples the target.  The companion adds your Spell Ability to checks to prevent the target from escaping. |
+| Effect | After this Attack hits, the companion grapples the target.  The companion adds **Spell Ability** to Checks to prevent the target from escaping. |
 
 
 ##### Primal Companion: Sky

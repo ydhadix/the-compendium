@@ -71,15 +71,15 @@ When you choose Warlock as your Secondary Class, you gain the following proficie
 #### Spellcasting Ability
 Your Warlock Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Warlock spells use an Arcane Focus as a spellcasting focus.
+Warlock Spells use an Arcane Focus as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting Table shows how many cantrips you know and how many spells you prepare.
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
 ###### Changing Spells
-When you gain a Level, you can replace one of your known cantrips and one of your prepared spells.
+Whenever you gain a Level, you can replace one of your known Cantrips and one of your Prepared Spells.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Short Rest, you regain all your spell slots.
+After a Short Rest, you regain all your Spell Slots.
 
 
 <Level 2 Features>

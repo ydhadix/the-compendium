@@ -51,63 +51,63 @@ When you choose Monk as your Secondary Class, you gain the following proficienci
 ## Monk Features
 
 ### 1: Unarmored Stance
-While you aren't wearing armor or wielding a shield, you gain the following benefits:
+While you are Unarmored and don't have a Shield donned, you gain the following benefits:
 #### Unarmored Defense
-Your base Armor Class is 8 + Monk Ability + Secondary Ability + Proficiency Bonus.
+Your base Armor Class becomes **8 + Monk Ability + Secondary Ability + PB**.
 #### Unarmored Movement
 Your Speed increases, and you can move along vertical surfaces and across liquids without falling during your movement. The [Monk Table](#class-table) shows your bonus Speed, and when this bonus increases.
 #### Unarmored Grapple
 You can use your Monk Ability to Grapple or Shove.
 
 ### 1: Ki
-You can spend Ki to use Monk features. You have Ki equal to your Character Level. If an effect requires a save, its DC is 8 + your Secondary Ability + your Proficiency Bonus.
+You can spend Ki to use Monk Features. You have Ki equal to **LV**. If an effect requires a save, its DC is **8 + Secondary Ability + PB**.
 ###### Regaining Ki
-When you finish a Short Rest, you regain all uses of Ki.
+After a Short Rest, you regain all uses of Ki.
 ###### Quick Focus
-Once per Long Rest
+1 use per Long Rest
 { .subtitle }
 
 Before you roll Initiative, you can regain all uses of Ki.
 
 ### 1: Martial Arts
-Your attacks with Monk Weapons can use your Monk Ability and you can use your Martial Arts Die instead of the attack's normal damage dice.
+Your Attacks with Monk Weapons can use your Monk Ability, and you can use your Martial Arts Die instead of the Attack's normal Damage Dice.
 
 While in [Unarmored Stance](#1-unarmored-stance), you can use the following Actions:
 #### Flurry of Blows
 Bonus Action
 { .subtitle }
 
-You can make one Unarmed Strike.  Then, you can expend 1 Ki to make an additional Unarmed Strike.
+You can make **1** Unarmed Strike.  Then, you can expend **1** Ki to make an additional Unarmed Strike.
 #### Patient Defense
 Bonus Action
 { .subtitle }
 
-You can Disengage.  Then, you can expend 1 Ki to Dodge.
+You can Disengage.  Then, you can expend **1** Ki to Dodge.
 #### Step of the Wind
 Bonus Action
 { .subtitle }
 
-You can Dash.  Then, you can expend 1 Ki to Disengage, and your jump distance is doubled until the end of the turn.
+You can Dash.  Then, you can expend **1** Ki to Disengage, and your jump distance doubles until the end of your Turn.
 
 ##### Monk Weapons
-Unarmed strikes, simple melee weapons, and light martial melee weapons are monk weapons. Some Monk features can only be used with these weapons. Some Monk subclasses expand which weapons are monk weapons.
+Unarmed Strikes, Simple Melee Weapons, and Light Martial Melee Weapons are Monk Weapons. You can use some Monk Features only with these Weapons. Some Monk Subclasses expand which Weapons are Monk Weapons.
 
 
 ### 2: Deflecting Palm
 Reaction
 { .subtitle }
 
-Before you take Physical damage from an attack, you can reduce the damage by 1d10 + Monk Ability + Level.
+Before you take Physical Damage from an Attack, you can reduce that damage by **1d10 + Monk Ability + LV**.
 
 #### Redirect
 1 Ki use
 { .subtitle }
 
-After this feature reduces an attack's damage to 0, you can redirect the attack. If the attack was a Melee attack, choose a target within Reach. If the attack was a Ranged attack, choose a target within 60 feet. The target makes a Reflex save.
+After this feature reduces an Attack's damage to **0**, you can redirect the Attack. If the Attack was a Melee Attack, choose one creature within Reach. If the Attack was a Ranged Attack, choose one creature within **60** feet. The target makes a Reflex Save.
 
 | | |
 |---|---|
-| Fail | You deal (2 × Martial Arts Die) + Monk Ability as damage of the original attack's type. |
+| Fail | You deal **2 × Martial Arts Die + Monk Ability** damage of the original Attack's type. |
 | Success | You deal half as much damage. |
 
 
@@ -115,7 +115,7 @@ After this feature reduces an attack's damage to 0, you can redirect the attack.
 Reaction
 { .subtitle }
 
-Before you take Falling damage, you reduce the damage by 5 × Level.
+Before you take Falling Damage, you can reduce that damage by **LV × 5**.
 
 
 ### 3: Monk Subclass
@@ -130,16 +130,16 @@ Choose a Monk Subclass. Your subclass grants you a feature at this level.
 Once per Turn, 1 Ki use
 { .subtitle }
 
-After you hit with a Monk Weapon, you can force the target to make a Fortitude save.
+After you hit with a Monk Weapon, you can force the target to make a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You stun the target until the end of your next turn. |
-| Success | The target's speed is halved until the end of your next turn. |
+| Fail | You stun the target until the end of your next Turn. |
+| Success | The target's Speed halves until the end of your next Turn. |
 
 
 ### 5: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature
@@ -147,13 +147,13 @@ Your subclass grants you an additional feature.
 
 
 ### 7: Evasion
-Whenever you make a Reflex save to avoid taking damage, you take half damage if you fail and no damage if you succeed.
+After you make a Reflex Save to avoid taking damage, you take half damage if you fail and no damage if you succeed.
 
 
 ### 8: Self-Restoration
-Forgoing food and drink no longer Exhausts you.
+Forgoing food and drink no longer exhausts you.
 
-Whenever you end your turn, you can end one of the Charmed, Frightened, or Poisoned conditions affecting you.
+After you end your Turn, you can end one of the Charmed, Frightened, or Sickened conditions affecting you.
 
 
 ### 9: Subclass Feature
@@ -162,20 +162,20 @@ Your subclass grants you an additional feature.
 
 ### 10: Perfect Discipline
 #### Unending Ki
-Before you roll Initiative, if you have 3 or fewer Ki, you can regain expended Ki until you have 4 Ki.
+Before you roll Initiative, if you have **3** or fewer Ki, you can regain expended Ki until you have **4** Ki.
 #### Perfect Form
-Whenever you spend Ki to use your Martial Arts, you gain the following additional benefits:
+Spending Ki on your Martial Arts grants the following additional benefits:
 ###### Flurry of Blows
 You can make an additional Unarmed Strike.
 ###### Patient Defense
-You can gain two rolls of your Martial Arts Die as Temporary Hit Points.
+You can gain **2** rolls of your Martial Arts Die as Temporary Hit Points.
 ###### Step of the Wind
-You can move a willing creature within reach with you until the end of your turn.
+You can move a willing creature within Reach with you until the end of your Turn.
 
 
 ### 11: One With Everything
 #### Enlightened
-You gain proficiency in all saving throws.
+You have Proficiency in Saving Throws.
 #### Inevitable
 1 Ki use
 { .subtitle }

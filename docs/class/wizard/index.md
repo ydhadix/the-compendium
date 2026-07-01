@@ -71,15 +71,15 @@ When you choose Wizard as your Secondary Class, you gain the following proficien
 #### Spellcasting Ability
 Your Wizard Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Wizard spells use a Druidic Focus as a spellcasting focus.
+Wizard Spells use an Arcane Focus as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting table shows how many cantrips you know and how many spells you prepare.
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
 ###### Changing Spells
-When you finish a Long Rest, you can replace one of your known cantrips and any of your prepared spells.
+After a Long Rest, you can replace one of your known Cantrips and any of your Prepared Spells.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Long Rest, you regain all your spell slots.
+After a Long Rest, you regain all your Spell Slots.
 
 
 <Level 2 Features>

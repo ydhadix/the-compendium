@@ -53,46 +53,46 @@ When you choose Cleric as your Secondary Class, you gain the following proficien
 ### 1: Channel Divinity
 You can use the following Channel Divinity effects. The [Cleric Table](#class-table) shows how many Channel Divinity uses you have.
 ###### Regaining Uses
-When you finish a Short Rest, you regain one use of Channel Divinity.
+After a Short Rest, you regain **1** use of Channel Divinity.
 
-When you finish a Long Rest, you regain all uses of Channel Divinity.
+After a Long Rest, you regain all uses of Channel Divinity.
 ##### Channel Divinity: Divine Spark
 Magic Action, 1 Channel Divinity use
 { .subtitle }
 
-You can target a creature within 30 feet with one of the following effects:
+You can target one creature within **30** feet with one of the following effects:
 
-- You heal the target by 1d8 + your Cleric Ability
-- The target makes a Fortitude save.
+- You heal the target by **1d8 + Cleric Ability**
+- The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You deal 1d8 + Cleric Ability as Necrotic or Radiant damage. |
+| Fail | You deal **1d8 + Cleric Ability** Necrotic or Radiant Damage. |
 | Success | You deal half as much damage. |
 
-Add 1d8 to the healing and damage at levels 5, 11, and 17.
+Add **1d8** to the healing and damage at Level 5, Level 11, and Level 17.
 ##### Channel Divinity: Turn Undead
 Magic Action, 1 Channel Divinity use
 { .subtitle }
 
-Each Undead within 30 feet makes a Will save.
+Each Undead within **30** feet makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You deal 1d8 + Cleric Ability as Radiant damage, and the target is Frightened, Incapacitated, and must move as far from you as it can on its turns. This effect ends early when the target takes damage, you are Incapacitated, or you die. |
+| Fail | You deal **1d8 + Cleric Ability** Radiant Damage, and you frighten and incapacitate the target. While the target is Frightened by you, it moves as far from you as it can on its Turns. This effect ends early if the target takes damage, you are Incapacitated, or you die. |
 | Success | No effect. |
 
-Add 1d8 to the damage at levels 5, 11, and 17.
+Add **1d8** to the damage at Level 5, Level 11, and Level 17.
 
 
 ### 1: Divine Order
 Choose one of the following benefits.
 ##### Priest
-While you aren't wearing armor, your base Armor Class is 8 + Dexterity + Cleric Ability + Proficiency Bonus.
+While you are Unarmored, your base Armor Class becomes **8 + DEX + Cleric Ability + PB**.
 ##### Protector
-You gain proficiency with heavy armor and one martial weapon category.
+You have Proficiency with Heavy Armor and one Martial Weapon category.
 ##### Thaumaturge
-You learn one additional Cleric cantrip, and you gain Expertise in Religion.
+You learn **1** additional Cleric Cantrip and gain Religion Expertise.
 
 
 ### 1: Spellcasting
@@ -113,23 +113,23 @@ You learn one additional Cleric cantrip, and you gain Expertise in Religion.
 #### Spellcasting Ability
 Your Cleric Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Cleric spells use a Holy Symbol as a spellcasting focus.
+Cleric Spells use a Holy Symbol as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting table shows how many cantrips you know and how many spells you prepare.
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
 ###### Changing Spells
-When you finish a Long Rest, you can replace any of your prepared spells.
+After a Long Rest, you can replace any of your Prepared Spells.
 
-When you gain a Level, you can replace one of your known cantrips.
+Whenever you gain a Level, you can replace one of your known Cantrips.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Long Rest, you regain all your spell slots.
+After a Long Rest, you regain all your Spell Slots.
 
 
 ### 2: Divine Recovery
-Once per Long Rest
+1 use per Long Rest
 { .subtitle }
-When you finish a Short Rest, you can regain expended spell slots with combined level up to one-third of your Character Level (rounded up).
+After a Short Rest, you can regain expended Spell Slots with combined Level up to one-third of your Character Level _(rounded up)_.
 
 
 ### 3: Cleric Subclass
@@ -143,9 +143,9 @@ Choose a Cleric Subclass. Your subclass grants you a feature at this level.
 ### 5: Blessed Strikes
 Choose one of the following benefits.
 ##### Divine Strike
-Before you deal damage with a weapon, you can add 1d8 Necrotic or Radiant damage.
+Before you deal damage with a Weapon, you can add **1d8** Necrotic or Radiant Damage.
 ##### Potent Spellcasting
-Before you deal damage with a Cleric cantrip, you can add your Cleric Ability to the damage.
+Before you deal damage with a Cleric Cantrip, you can add **Cleric Ability** damage.
 
 
 ### 6: Subclass Feature
@@ -153,10 +153,10 @@ Your subclass grants you an additional feature.
 
 
 ### 8: Commune
-Bonus Action, Once per Long Rest
+Bonus Action, 1 use per Long Rest
 { .subtitle }
 
-You mentally contact your Cleric subclass's deity or a divine proxy and ask up to three questions, each answered with one word or a short phrase. Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question is beyond your deity's knowledge.
+You mentally contact your Cleric Subclass's deity or a divine proxy and ask up to **3** questions, each answered with **1** word or a short phrase. Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question is beyond your deity's knowledge.
 
 
 ### 9: Subclass Feature
@@ -166,13 +166,13 @@ Your subclass grants you an additional feature.
 ### 10: Improved Blessed Strikes
 The benefit you chose for Blessed Strikes improves.
 ##### Divine Strike
-The extra damage increases to 2d8.
+The extra damage becomes **2d8**.
 ##### Potent Spellcasting
-Before you deal damage with a Cleric cantrip, you can give any creature within 60 feet of yourself temporary hit points equal to twice your Cleric Ability.
+Before you deal damage with a Cleric Cantrip, you can give one creature within **60** feet **Cleric Ability × 2** Temporary Hit Points.
 
 
 ### 11: Divine Intervention
-Once per Long Rest
+1 use per Long Rest
 { .subtitle }
 
-You can cast any Cleric spell at your highest spell slot level without a spell slot.
+You can cast any Cleric Spell at your highest Spell Slot Level without a Spell Slot.

@@ -53,15 +53,15 @@ When you choose Ranger as your Secondary Class, you gain the following proficien
 ### 1: Marked Target
 You learn _Hunter's Mark_ and can cast it using this feature. The [Ranger Table](#class-table) shows how many Marked Target uses you have.
 ###### Regaining Uses
-When you finish a Short Rest, you regain one use of Marked Target.
+After a Short Rest, you regain **1** use of Marked Target.
 
-When you finish a Long Rest, you regain all uses of Marked Target.
+After a Long Rest, you regain all uses of Marked Target.
 #### Improved Mark
 Your _Hunter's Mark_ gains the following benefits:
 
-- The extra damage increases as you gain Ranger levels, as shown in the [Ranger Table](#class-table).
-- You can move the mark regardless of the target's HP.
-- You can cast this spell without Concentration. If you do, the spell's duration becomes 1 minute for that casting.
+- The extra damage increases as you gain Ranger Levels, as shown in the [Ranger Table](#class-table).
+- You can move the Mark regardless of the target's Hit Points.
+- You can cast this Spell without Concentration. If you do, the Spell's Duration becomes **1** minute for that casting.
 ###### Free Casting
 1 Marked Target use
 { .subtitle }
@@ -72,7 +72,7 @@ You can cast _Hunter's Mark_ without a Spell Slot.
 ### 1: Primal Imprint
 The [Ranger Table](#class-table) shows how many [Primal Imprints](imprint/index.md) you know, and when you learn more.  You can't pick the same Imprint more than once.
 ###### Changing Imprints
-When you finish a Long Rest, you can replace one of your known Imprints.
+After a Long Rest, you can replace one of your known Imprints.
 
 | Imprints | Description |
 |---|---|
@@ -87,13 +87,13 @@ When you finish a Long Rest, you can replace one of your known Imprints.
 ### 1: Weapon Mastery
 You learn **2** Weapon Masteries.
 ###### Changing Weapon Masteries
-When you finish a Long Rest, you can replace one of your Weapon Masteries.
+After a Long Rest, you can replace one of your Weapon Masteries.
 
 
 ### 2: Fighting Style
-You gain a Fighting Style feat of your choice.
+You gain a Fighting Style feat.
 ###### Changing Fighting Styles
-When you Level Up, you can change your Fighting Style feat.
+Whenever you level up, you can change your Fighting Style feat.
 
 
 ### 2: Spellcasting
@@ -113,15 +113,15 @@ When you Level Up, you can change your Fighting Style feat.
 #### Spellcasting Ability
 Your Secondary Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Ranger spells use a Druidic Focus as a spellcasting focus.
+Ranger Spells use a Druidic Focus as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting table shows how many spells you prepare.
+The Spellcasting table shows how many Spells you prepare.
 ###### Changing Spells
-When you finish a Long Rest, you can replace one of your prepared spells.
+After a Long Rest, you can replace one of your Prepared Spells.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Long Rest, you regain all your spell slots.
+After a Long Rest, you regain all your Spell Slots.
 
 
 ### 3: Ranger Subclass
@@ -134,7 +134,7 @@ Choose a Ranger Subclass. Your subclass grants you a feature at this level.
 
 ### 4: Imprinting Adept
 #### Survivalist
-You gain expertise in Survival, and you learn two standard or exotic languages.
+You gain Survival Expertise and learn **2** Standard or Exotic Languages.
 #### Additional Imprints
 You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
@@ -151,7 +151,7 @@ You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
 
 ### 5: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature
@@ -160,7 +160,7 @@ Your subclass grants you an additional feature.
 
 ### 7: Imprinting Expert
 #### Tireless
-When you finish a Short Rest, your Exhaustion reduces by 1.
+After a Short Rest, your Exhaustion decreases by **1**.
 #### Additional Imprints
 You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
@@ -173,10 +173,10 @@ You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
 
 ### 8: Vanish
-Bonus Action, Secondary Ability per Long Rest
+Bonus Action, Secondary Ability uses per Long Rest
 { .subtitle }
 
-You become Invisible and Hidden until the end of your next turn. Your Hide DC is your Ranger spell save DC.
+You become Invisible and Hidden until the end of your next Turn. Your Hide DC is your Ranger Spell Save DC.
 
 
 ### 9: Subclass Feature
@@ -193,6 +193,6 @@ You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
 
 ### 11: Foe Slayer
-After you start your turn, you can move your Hunter's Mark to a new creature you can see within range.
+After you start your Turn, you can move your Hunter's Mark to a new creature within range.
 
-Before you deal damage to a marked creature, you can end your Hunter's Mark to give the target vulnerability to the damage _(If the damage was from an attack, you still add the bonus damage before applying vulnerability)_.
+Before you deal damage to a creature Marked by you, you can end your Hunter's Mark to give the target Vulnerability to that damage _(If the damage was from an Attack, you still add the bonus damage before applying Vulnerability)_.

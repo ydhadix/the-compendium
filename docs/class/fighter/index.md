@@ -6,8 +6,8 @@
 ## Class Table
 | Level | Features | Situational Awareness | Weapon Mastery | Action Surge | Indomitable |
 |---|---|---|---|---|---|
-|  1 | [Situational Awareness](#1-situational-awareness),<br>[Fighting Style](#1-fighting-style),<br>[Weapon Mastery](#1-weapon-mastery) |2 | 3 |  - | - |
-|  2 | [Action Surge](#2-action-surge),<br>[Indomitable](#2-indomitable) | 2 |  3 |1 | 1 |
+|  1 | [Situational Awareness](#1-situational-awareness),<br>[Fighting Style](#1-fighting-style),<br>[Weapon Mastery](#1-weapon-mastery) | 2 | 3 | - | - |
+|  2 | [Action Surge](#2-action-surge),<br>[Indomitable](#2-indomitable) | 2 | 3 | 1 | 1 |
 |  3 | [Fighter Subclass](#3-fighter-subclass) | 2 | 3 | 1 | 1 |
 |  4 | [Ability Increase](#4-ability-increase) | 3 | 4 | 1 | 1 |
 |  5 | [Extra Attack](#5-extra-attack) | 3 | 4 | 1 | 1 |
@@ -53,53 +53,53 @@ When you choose Fighter as your Secondary Class, you gain the following proficie
 ### 1: Situational Awareness
 You can use the following Situational Awareness effects. [The Fighter Table](#class-table) shows how many Situational Awareness uses you have.
 ###### Regaining Uses
-When you finish a Short Rest, you regain one use of Situational Awareness.
+After a Short Rest, you regain **1** use of Situational Awareness.
 
-When you finish a Long Rest, you regain all uses of Situational Awareness.
+After a Long Rest, you regain all uses of Situational Awareness.
 ##### Situational Awareness: Second Wind
 Bonus Action, 1 Situational Awareness use
 { .subtitle }
 
-You heal 1d10 + your Character Level, then move up to half your speed without provoking Opportunity Attacks.
+You heal by **1d10 + LV**, then move up to half your Speed without provoking Opportunity Attacks.
 ##### Situational Awareness: Tactical Mind
 1 Situational Awareness use
 { .subtitle }
 
-Before you fail a check, you can add 1d10 to the total. If the check still fails, you don't expend a use of Situational Awareness.
+Before you fail a check, you can add **1d10** to the check. If the check still fails, you don't expend a use of Situational Awareness.
 
 
 ### 1: Fighting Style
-You gain a Fighting Style feat of your choice.
+You gain a Fighting Style feat.
 ###### Changing Fighting Styles
-When you Level Up, you can change your Fighting Style feat.
+Whenever you level up, you can change your Fighting Style feat.
 
 
 ### 1: Weapon Mastery
-You learn Weapon Masteries. The [Fighter Table](#class-table) shows how many Weapon Masteries you know, and when you learn more.
+You learn Weapon Masteries. The [Fighter Table](#class-table) shows how many Weapon Masteries you know.
 ###### Changing Weapon Masteries
-When you finish a Long Rest, you can replace one of your Weapon Masteries.
+After a Long Rest, you can replace one of your Weapon Masteries.
 
 
 ### 2: Action Surge
 The [Fighter Table](#class-table) shows how many Action Surge uses you have.
 ###### Regaining Uses
-When you finish a Short Rest, you regain all uses of Action Surge.
+After a Short Rest, you regain all uses of Action Surge.
 ##### Extra Action
 Once per Turn, 1 Action Surge use
 { .subtitle }
 
-You can take an additional Action on your turn, other than the Magic action.
+You can take an additional Action on your Turn, other than the Magic Action.
 
 
 ### 2: Indomitable
 The [Fighter Table](#class-table) shows how many Indomitable uses you have.
 ###### Regaining Uses
-When you finish a Long Rest, you regain all uses of Indomitable.
+After a Long Rest, you regain all uses of Indomitable.
 ##### Save Recovery
 1 Indomitable use
 { .subtitle }
 
-Before you fail a save, you can reroll it and add your Character Level to the total.
+Before you fail a save, you can reroll it and add **LV** to the save.
 
 
 ### 3: Fighter Subclass
@@ -113,12 +113,12 @@ Choose a Fighter Subclass. Your subclass grants you a feature at this level.
 ### 4: Ability Increase
 Choose one of the following benefits:
 
-- You increase an Ability by 1.
+- You increase an Ability by **1**.
 - You gain an additional Feat.
 
 
 ### 5: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature
@@ -126,13 +126,13 @@ Your subclass grants you an additional feature.
 
 
 ### 7: Tactical Master
-You learn two weapon masteries from Push, Sap, and Slow.
+You learn **2** Weapon Masteries from Push, Sap, and Slow.
 
-You can use Push, Sap, or Slow with any weapon.
+You can use Push, Sap, or Slow with any Weapon.
 
 
 ### 8: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 9: Subclass Feature
@@ -142,9 +142,9 @@ Your subclass grants you an additional feature.
 ### 10: Ability Increase
 Choose one of the following benefits:
 
-- You increase an Ability by 1.
+- You increase an Ability by **1**.
 - You gain an additional Feat.
 
 
 ### 11: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.

@@ -2,4 +2,4 @@
 Ranger Level 4
 { .subtitle }
 
-You gain 120 feet of Darkvision.
+You gain **120** feet of Darkvision.

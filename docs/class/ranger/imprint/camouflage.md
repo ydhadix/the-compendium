@@ -1,2 +1,2 @@
 ### Camouflage
-Perception checks to see you are made with Disadvantage.
+A creature has Disadvantage on Perception Checks to see you.

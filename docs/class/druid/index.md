@@ -72,17 +72,17 @@ When you choose Druid as your Secondary Class, you gain the following proficienc
 #### Spellcasting Ability
 Your Druid Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Druid spells use a Druidic Focus as a spellcasting focus.
+Druid Spells use a Druidic Focus as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting table shows how many cantrips you know and how many spells you prepare.
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
 ###### Changing Spells
-When you finish a Long Rest, you can replace one of your prepared spells.
+After a Long Rest, you can replace one of your Prepared Spells.
 
-When you gain a Level, you can replace one of your known cantrips.
+Whenever you gain a Level, you can replace one of your known Cantrips.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Long Rest, you regain all your spell slots.
+After a Long Rest, you regain all your Spell Slots.
 
 
 <Level 2 Features>

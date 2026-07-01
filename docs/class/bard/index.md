@@ -56,15 +56,15 @@ You can give other creatures Inspiration Dice.  The [Bard Table](#class-table) s
 Bonus Action, 1 Bardic Inspiration use
 { .subtitle }
 
-You give a creature within 60 feet an Inspiration Die.
+You give one creature within **60** feet an Inspiration Die.
 #### Using Inspiration Dice
-Before a creature with an Inspiration Die fails a d20 roll, they can spend the die to add it to their d20 roll, potentially turning the failure into a success. A creature can only have one Inspiration Die at a time.
+Before a creature with an Inspiration Die fails a D20 Test, it can spend the die to add it to the Test, potentially turning the failure into a success. A creature can only have **1** Inspiration Die at a time.
 ###### Regaining Inspiration Dice
-When you finish a Short Rest, any remaining Inspiration Dice you've given vanish, and you regain all uses of Bardic Inspiration.
+After a Short Rest, any remaining Inspiration Dice you've given vanish, and you regain all uses of Bardic Inspiration.
 
 
 ### 1: Magical Secrets
-Choose one of the following Magical Secrets. You can learn cantrips and prepare spells from the chosen Magical Secret's spell lists as Bard spells _(Spells from these spell lists are not Bard spells until you learn or prepare them)_.
+Choose one of the following Magical Secrets. You can learn Cantrips and prepare Spells from the chosen Magical Secret's Spell Lists as Bard Spells _(Spells from these Spell Lists are not Bard Spells until you learn or prepare them)_.
 
 | Magical Secret | Spell Lists |
 |---|---|
@@ -91,22 +91,22 @@ Choose one of the following Magical Secrets. You can learn cantrips and prepare 
 #### Spellcasting Ability
 Your Bard Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Bard spells use a Musical Instrument as a spellcasting focus.
+Bard Spells use a Musical Instrument as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting table shows how many cantrips you know and how many spells you prepare.
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
 ###### Changing Spells
-When you gain a Level, you can replace one of your known cantrips and one of your prepared spells.
+Whenever you gain a Level, you can replace one of your known Cantrips and one of your Prepared Spells.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Long Rest, you regain all your spell slots.
+After a Long Rest, you regain all your Spell Slots.
 
 
 ### 2: Jack of All Trades
 #### Expert
-You gain expertise in two of your skill or trade proficiencies.
+You gain Expertise in **2** of your Skill or Trade Proficiencies.
 #### Generalist
-You have Aptitude with all Ability Checks you make without Proficiency.
+You have Aptitude in all Ability Checks you make without Proficiency.
 
 
 ### 3: Bard Subclass
@@ -121,7 +121,7 @@ Choose a Bard Subclass. Your subclass grants you a feature at this level.
 Reaction
 { .subtitle }
 
-Before a creature within 30 feet fails a saving throw to resist Charm or Fear, you can reroll the save with Advantage.
+Before a creature within **30** feet fails a Saving Throw to resist Charm or Fear, you can reroll the save with Advantage.
 
 
 ### 6: Subclass Feature
@@ -130,12 +130,12 @@ Your subclass grants you an additional feature.
 
 ### 8: Master of One
 #### Expert
-You gain expertise in one of your skill or trade proficiencies.
+You gain Expertise in one of your Skill or Trade Proficiencies.
 #### Specialist
 Free Action, 1 Bardic Inspiration use
 { .subtitle }
 
-Before you fail a check using the chosen expertise, you can add an Inspiration Die to the check.
+Before you fail a check using the chosen Expertise, you can add an Inspiration Die to the check.
 
 
 ### 9: Subclass Feature
@@ -143,13 +143,13 @@ Your subclass grants you an additional feature.
 
 
 ### 10: Font of Inspiration
-After you roll Initiative, if you have fewer than two uses of Bardic Inspiration, you regain expended uses until you have two.
+After you roll Initiative, if you have fewer than **2** uses of Bardic Inspiration, you regain expended uses until you have **2**.
 
 
 ### 11: Words of Creation
-You learn _Power Word Heal_ and _Power Word Kill_.  Before you cast either spell, you can add an additional target within 10 feet of the first.
+You learn _Power Word Heal_ and _Power Word Kill_.  Before you cast either Spell, you can add an additional target within **10** feet of the first.
 ###### Free Casting
 1 use per Long Rest
 { .subtitle }
 
-You can cast one of this feature's spells without a Spell Slot.
+You can cast one of this feature's Spells without a Spell Slot.

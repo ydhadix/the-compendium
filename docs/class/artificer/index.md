@@ -68,24 +68,24 @@ When you choose Artificer as your Secondary Class, you gain the following profic
 #### Spellcasting Ability
 Your Artificer Ability is your Spellcasting Ability.
 #### Spellcasting Focus
-Artificer spells use any Artisan's Tool or Infused Item as a spellcasting focus.
+Artificer Spells use any Artisan's Tool or Infused Item as a Spellcasting Focus.
 #### Spells Prepared
-The Spellcasting table shows how many cantrips you know and how many spells you prepare.
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
 ###### Changing Spells
-When you finish a Long Rest, you can replace one of your known cantrips and one of your prepared spells.
+After a Long Rest, you can replace one of your known Cantrips and one of your Prepared Spells.
 #### Spell Slots
-The Spellcasting table shows how many spell slots you have.
+The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
-When you finish a Long Rest, you regain all your spell slots.
+After a Long Rest, you regain all your Spell Slots.
 
 
 ### 1: Tradesman
 #### Tinkerer
-You gain expertise with Tinker's Tools and one of your skill or trade proficiencies.
+You gain Expertise with Tinker's Tools and one of your Skill or Trade Proficiencies.
 #### Item Magic
-You learn the _Mending_, _Find Familiar_, and _Identify_ spells.
+You learn the _Mending_, _Find Familiar_, and _Identify_ Spells.
 #### Assistant Familiar
-When you cast _Find Familiar_, you can choose an Animated Assistant as your familiar, using its normal creature type.
+Before you cast _Find Familiar_, you can choose an Animated Assistant as your Familiar, using its normal Creature Type.
 ##### Animated Assistant
 Tiny Construct, Neutral
 { .subtitle }
@@ -95,7 +95,7 @@ Tiny Construct, Neutral
 | | **HP** | (4 + CON) × Level | **Hit Dice** | 1d4 per Level |
 | | **Armor** | natural | **Resistance** | — | 
 | | **AC** | 10 + DEX + PB | **Protection** | — |
-| | **DR** | — | **Immunity** | Exhaustion, Poison, Psychic , Sickness |
+| | **DR** | — | **Immunity** | Exhaustion, Poison, Psychic, Sickness |
 
 ###### Abilities
 | | | | | | | |
@@ -114,24 +114,24 @@ Tiny Construct, Neutral
 ###### Features
 | | |
 |---|---|
-| Mobile Storage | The assistant can store and quickly retrieve items up to your Artificer Ability. |
+| Mobile Storage | The assistant can store and quickly retrieve items up to **Artificer Ability**. |
 | Crafting Aid | The assistant can help you craft items without meeting the item's requirements. |
-| Evasion | When the assistant makes a Reflex save to avoid damage, it takes half damage on a failure and no damage on a success. |
+| Evasion | After the assistant makes a Reflex Save to avoid damage, it takes half damage on a failure and no damage on a success. |
 
 ###### Actions
 | Force Strike | Melee or Ranged Attack |
 |---|---|
 | Range | Reach / 30 ft. |
 | Attack | +your Spell Attack to hit |
-| Damage | 1d6 + DEX Force damage |
+| Damage | 1d6 + DEX Force Damage |
 
 
 ### 1: Infuse Items
-When you finish a Long Rest, you can infuse magic item effects into appropriate nearby items, creating temporary items as needed. Temporary items have no value and vanish when their infusions end.
+After a Long Rest, you can infuse Magic Item effects into appropriate nearby items, creating temporary items as needed. Temporary items have no Value and vanish once their Infusions end.
 
-After you infuse an item, you can attune to it immediately.
+After you infuse an item, you can Attune to it immediately.
 
-The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, you must choose existing infusions to end.
+The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end.
 
 | Infusion | Rarity | Attunement |
 |---|---|---|
@@ -147,17 +147,17 @@ The [Artificer Table](#class-table) shows how many items you can infuse. To infu
 
 
 ### 2: Fighting Style
-You gain a Fighting Style feat of your choice.
+You gain a Fighting Style feat.
 ###### Changing Fighting Styles
-When you Level Up, you can change your Fighting Style feat.
+Whenever you level up, you can change your Fighting Style feat.
 
 
 ### 2: Improvise
 You can use the following Improvise effects. The [Artificer Table](#class-table) shows how many Improvise uses you have.
 ###### Regaining Uses
-When you finish a Short Rest, you regain one use of Improvise.
+After a Short Rest, you regain **1** use of Improvise.
 
-When you finish a Long Rest, you regain all uses of Improvise.
+After a Long Rest, you regain all uses of Improvise.
 ##### Improvise: Adapt
 Magic Action, 1 Improvise use
 { .subtitle }
@@ -167,7 +167,7 @@ You change one of your Infused Items.
 Reaction, 1 Improvise use
 { .subtitle }
 
-Before a creature within 30 feet of you fails an ability check or saving throw, you add your Artificer Ability to the total.
+Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Artificer Ability** to that check or save.
 
 
 ### 3: Artificer Subclass
@@ -181,7 +181,7 @@ Choose an Artificer Subclass. Your subclass grants you a feature at this level.
 
 ### 4: Magic Item Adept
 #### Extra Attunement
-You gain an additional attunement slot.
+You gain an additional Attunement slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
@@ -201,7 +201,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 
 ### 5: Extra Attack
-Whenever you take the Attack Action on your turn, you can make an additional attack.
+The number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature
@@ -210,13 +210,13 @@ Your subclass grants you an additional feature.
 
 ### 7: Magic Item Expert
 #### Extra Attunement
-You gain an additional attunement slot.
+You gain an additional Attunement slot.
 #### Universal Attunement
-You ignore all Class, Race, Spell, and Level requirements to use or attune to magic items.
+You ignore all Class, Race, Spell, and Level requirements to use or Attune to Magic Items.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Infusion | Rarity | Infusion |
+| Infusion | Rarity | Attunement |
 |---|---|---|
 | Dagger of Venom | Rare | Yes |
 | Item of Resistance | Rare | No |
@@ -226,12 +226,12 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 
 ### 8: Spell-Storing Item
-When you finish a Long Rest, you can choose a weapon or Artificer spellcasting focus and an Artificer spell. The chosen item gains the following effect until you use this feature again:
+After a Long Rest, you can choose a Weapon or Artificer Spellcasting Focus and an Artificer Spell. The chosen item gains the following effect until you use this feature again:
 ###### Spell-Storing Item
-2 × Artificer Ability per Long Rest
+2 × Artificer Ability uses per Long Rest
 { .subtitle }
 
-A creature holding this item can cast the chosen spell using your spellcasting ability.
+A creature holding this item can cast the chosen Spell using your Spellcasting Ability.
 
 
 ### 9: Subclass Feature
@@ -240,11 +240,11 @@ Your subclass grants you an additional feature.
 
 ### 10: Magic Item Master
 #### Extra Attunement
-You gain an additional attunement slot.
+You gain an additional Attunement slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Infusion | Rarity | Infusion |
+| Infusion | Rarity | Attunement |
 |---|---|---|
 | Arrow-Catching Shield | Rare | Yes |
 | Ring of Free Action | Rare | Yes |
@@ -254,6 +254,6 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 ### 11: Soul of Artifice
 #### Attunement Shield
-You gain a +1 bonus to Saving Throws for each magic item you're attuned to.
+Your Saving Throws increase by **1** for each Magic Item you're Attuned to.
 #### Emergency Fail-Safe
-Before you're reduced to 0 hit points, but not killed outright, you can end one of your infusions to set your Hit Points to half of your Hit Point Maximum instead.
+Before you're reduced to **0** Hit Points, but not killed outright, you can end one of your Infusions to set your Hit Points to half your Hit Point Maximum instead.
