@@ -8,7 +8,7 @@ A set of Manacles comes with a key used to lock or unlock them.
 Utilize Action
 { .subtitle }
 
-You can choose a Small or Medium Grappled, Incapacitated, or Restrained creature within your Reach and make a DC **13** Precision check.
+You can choose a Small or Medium Grappled, Incapacitated, or Restrained creature within Reach and make a DC **13** Precision Check.
 
 | | |
 |---|---|
@@ -18,7 +18,7 @@ You can choose a Small or Medium Grappled, Incapacitated, or Restrained creature
 Utilize Action
 { .subtitle }
 
-A bound creature can make a DC **20** Precision check.
+A bound creature can make a DC **20** Precision Check.
 
 | | |
 |---|---|
@@ -28,7 +28,7 @@ A bound creature can make a DC **20** Precision check.
 Utilize Action
 { .subtitle }
 
-A creature that can reach a bound target can make a DC **25** Athletics check.
+A creature that can reach a bound target can make a DC **25** Athletics Check.
 
 | | |
 |---|---|
@@ -38,7 +38,7 @@ A creature that can reach a bound target can make a DC **25** Athletics check.
 Utilize Action
 { .subtitle }
 
-A creature without a key that can reach the Manacles can make a DC **20** Precision check.
+A creature without a key that can reach the Manacles can make a DC **20** Precision Check.
 
 | | |
 |---|---|

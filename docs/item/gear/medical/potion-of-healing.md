@@ -8,4 +8,4 @@ A Potion of Healing is a Common Magic Item.
 Bonus Action
 { .subtitle }
 
-You consume the Potion of Healing and heal by **[2d4 + 2]**.
+You consume the Potion of Healing and heal by **2d4 + 2**.

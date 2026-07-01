@@ -6,7 +6,7 @@
 Utilize Action
 { .subtitle }
 
-You can throw the Grappling Hook at a railing, ledge, or another fixture within **50** feet and make a DC **13** Acrobatics check.
+You can throw the Grappling Hook at a railing, ledge, or another fixture within **50** feet and make a DC **13** Acrobatics Check.
 
 | | |
 |---|---|

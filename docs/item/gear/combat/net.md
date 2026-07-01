@@ -13,11 +13,11 @@ A Net can be wielded as a Simple Melee Weapon with Thrown (**15** feet).
 Utilize Action
 { .subtitle }
 
-A Restrained creature can make a DC **10** Athletics check.
+A Restrained creature can make a DC **10** Athletics Check.
 
 | | |
 |---|---|
 | **Success** | The creature escapes. |
 
 ###### Durability
-The Net has Armor Class **10**, Hit Points **5**, and Immunity to Bludgeoning, Poison, and Psychic damage. If it drops to **0** Hit Points, it is destroyed.
+The Net has Armor Class **10**, Hit Points **5**, and Immunity to Bludgeoning, Poison, and Psychic Damage. If it drops to **0** Hit Points, it is destroyed.

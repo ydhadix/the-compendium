@@ -9,4 +9,4 @@ A lit Torch can be wielded as a Simple Melee Weapon with Thrown (**15** feet).
 
 | | |
 |---|---|
-| **Hit** | You deal **1** Fire damage. |
+| **Hit** | You deal **1** Fire Damage. |

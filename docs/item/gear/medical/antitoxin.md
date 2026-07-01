@@ -8,4 +8,4 @@ Antitoxin comes in a Vial.
 Bonus Action
 { .subtitle }
 
-You can administer the Antitoxin to a creature within your Reach. That creature adds **+5** to Saving Throws against the Poisoned condition for **1** hour.
+You can administer the Antitoxin to a creature within Reach. That creature adds **+5** to Saving Throws against being Sickened for **1** hour.

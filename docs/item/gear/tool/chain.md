@@ -6,7 +6,7 @@
 Utilize Action
 { .subtitle }
 
-You can choose an object or a Grappled, Incapacitated, or Restrained creature within your Reach and make a DC **13** Athletics check.
+You can choose an object or a Grappled, Incapacitated, or Restrained creature within Reach and make a DC **13** Athletics Check.
 
 | | |
 |---|---|
@@ -16,7 +16,7 @@ You can choose an object or a Grappled, Incapacitated, or Restrained creature wi
 Utilize Action
 { .subtitle }
 
-A bound creature can make a DC **18** Acrobatics check.
+A bound creature can make a DC **18** Acrobatics Check.
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ A bound creature can make a DC **18** Acrobatics check.
 Utilize Action
 { .subtitle }
 
-A creature that can reach a bound target can make a DC **20** Athletics check.
+A creature that can reach a bound target can make a DC **20** Athletics Check.
 
 | | |
 |---|---|
