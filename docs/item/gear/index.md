@@ -1,7 +1,6 @@
 # Adventuring Gear
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+`Description TBD`
 
 
 | Adventuring Gear | Description |
@@ -15,3 +14,4 @@
 | [Tools](tool/index.md) | `Description TBD` |
 | [Light Sources](lighting/index.md) | `Description TBD` |
 | [Writing](writing/index.md) | `Description TBD` |
+| [Gear Packs](pack/index.md) | `Description TBD` |

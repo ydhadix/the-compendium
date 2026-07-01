@@ -1,8 +1,11 @@
 # Survival
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+`Description TBD`
 
 
-| Survival | Description |
-|---|---|
+| Item | Value | Description |
+|---|---|---|
+| [Bedroll](bedroll.md) | 1 gold | `Description TBD` |
+| [Blanket](blanket.md) | 5 silver | `Description TBD` |
+| [Rations](rations.md) | 5 silver | `Description TBD` |
+| [Tent](tent.md) | 2 gold | `Description TBD` |

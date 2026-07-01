@@ -222,6 +222,8 @@ nav:
         - Tools:                  item/gear/tool/index.md
         - Light Sources:          item/gear/lighting/index.md
         - Writing:                item/gear/writing/index.md
+        - "---": "sep:"
+        - Gear Packs:             item/gear/pack/index.md
       - Trades:
         - Overview:               item/trade/index.md
         - Artisan's Tools:        item/trade/artisan/index.md
