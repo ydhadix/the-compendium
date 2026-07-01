@@ -1,0 +1,5 @@
+### Heavy Shield
+50 gold
+{ .subtitle }
+
+While donned, a Heavy Shield adds **+2** to your Armor Class, occupies one hand, and you count as Three-Quarters Cover for creatures of your size, or Full Cover for creatures smaller than you _(creatures typically count as Half Cover)_.

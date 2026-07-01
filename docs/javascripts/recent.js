@@ -5,7 +5,7 @@
 (function () {
   var KEY = "pm-recent";
   var OPEN_KEY = "pm-recent-open";
-  var MAX = 5;
+  var MAX = 6;
 
   function load() {
     try { return JSON.parse(localStorage.getItem(KEY)) || []; }

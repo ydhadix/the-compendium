@@ -36,6 +36,16 @@ extra_javascript:
 
 exclude_docs: |            # files/folders in docs/ that we don't want compiled
   spell/level/*/*_list.md
+  item/weapon/property/*.md
+  item/weapon/mastery/*.md
+  !item/weapon/property/index.md
+  !item/weapon/mastery/index.md
+  item/armor/shield/*.md
+  !item/armor/shield/index.md
+  item/gear/*/*.md
+  !item/gear/*/index.md
+  item/trade/artisan/*.md
+  !item/trade/artisan/index.md
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
   character/feat/*/*
@@ -69,7 +79,7 @@ nav:
   - The Compendium:
     - Overview:                   index.md
 
-    - Rules Rolodex:
+    - Rules Rolodex (WIP):
       - Overview:                 rules/index.md
       - Character Traits:
         - Overview:               rules/trait/index.md
@@ -140,9 +150,9 @@ nav:
         - General Feats:          character/feat/general/index.md
         - Fighting Styles:        character/feat/fighting-style/index.md
         - Advanced Fighting Styles: character/feat/advanced-fighting-style/index.md
-        - Ancestry Feats:         character/feat/ancestry/index.md
+        - Ancestry Feats (WIP):   character/feat/ancestry/index.md
         - "---": "sep:"
-        - Epic Boons:             character/feat/epic/index.md
+        - Epic Boons (WIP):       character/feat/epic/index.md
         - Dragonmarks:            character/feat/dragonmark/index.md
 
     - Class Codex:
@@ -204,7 +214,7 @@ nav:
         - Wizard Spell List:      class/wizard/spell-list.md
         # - "Subclasses": "sep:"
 
-    - Item Index:
+    - Item Index (WIP):
       - Overview:                 item/index.md
       - Using Items:              item/equip.md
       - Crafting Items:           item/crafting.md
@@ -232,14 +242,14 @@ nav:
       - Weapons:
         - Overview:               item/weapon/index.md
         - Weapon Types:           item/weapon/type.md
-        - Weapon Properties:      item/weapon/property.md
-        - Weapon Mastery:         item/weapon/mastery.md
+        - Weapon Properties:      item/weapon/property/index.md
+        - Weapon Mastery:         item/weapon/mastery/index.md
       - Armor:
         - Overview:               item/armor/index.md
         - Armor Types:            item/armor/type.md
-        - Shields:                item/armor/shield.md
+        - Shields:                item/armor/shield/index.md
 
-    - Magic Item Manual:
+    - Magic Item Manual (WIP):
       - Overview:                 magic-item/infusion/index.md
       - Infusing Items:           magic-item/infusion/infusing.md
       - Attunement:               magic-item/infusion/attunement.md
@@ -255,7 +265,7 @@ nav:
         - Artifacts:              magic-item/infusion/artifact/index.md
         - Unique:                 magic-item/infusion/unique/index.md
 
-    - Spell Selection:
+    - Spell Selection (WIP):
       - Overview:                 spell/index.md
       - Preparing Spells:         spell/preparing.md
       - Casting Spells:           spell/casting.md
@@ -281,7 +291,7 @@ nav:
         - 5th-Level:              spell/level/5/index.md
         - 6th-Level:              spell/level/6/index.md
 
-    - Spelljammer Schematic:
+    - Spelljammer Schematic (WIP):
       - Overview:                 spelljammer/index.md
       - Creating a Ship:          spelljammer/creation.md
       - "---": "sep:"
