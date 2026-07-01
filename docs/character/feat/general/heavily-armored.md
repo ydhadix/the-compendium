@@ -1,9 +1,6 @@
 ### Heavily Armored
-
-_Prerequisite: Medium Armor Proficiency_
-
-`Description TBD`
+Prerequisite: Medium Armor Proficiency
+{ .subtitle }
 
 #### Armor Training
-
-You gain Proficiency with Heavy Armor.
+You have Proficiency with Heavy Armor.

@@ -1,15 +1,9 @@
 ### Durable
-
-`Description TBD`
-
 #### Defy Death
-
-You gain Protection from Death saves.
+You have Death Protection.
 
 #### Speedy Recovery
+Bonus Action, 1 Hit Die
+{ .subtitle }
 
-_Bonus Action_
-
-_1 Hit Die_
-
-You heal by **[HD]**.
+You heal by **HD**.

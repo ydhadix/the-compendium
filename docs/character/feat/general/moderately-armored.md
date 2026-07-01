@@ -1,9 +1,6 @@
 ### Moderately Armored
-
-_Prerequisite: Light Armor Proficiency_
-
-`Description TBD`
+Prerequisite: Light Armor Proficiency
+{ .subtitle }
 
 #### Armor Training
-
-You gain Proficiency with Medium Armor.
+You have Proficiency with Medium Armor.

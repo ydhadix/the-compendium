@@ -1,7 +1,4 @@
 ### Lightly Armored
 
-`Description TBD`
-
 #### Armor Training
-
-You gain Proficiency with Light Armor.
+You have Proficiency with Light Armor.

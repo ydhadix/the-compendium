@@ -1,10 +1,7 @@
 ### Crafter
 
-`Description TBD`
-
 #### Tool Proficiency
-
-You gain Proficiency with **3** of the following Artisan's Tools.
+You have Proficiency with **3** of the following Artisan's Tools.
 
 - Carpenter's Tools
 - Leatherworker's Tools
@@ -16,14 +13,11 @@ You gain Proficiency with **3** of the following Artisan's Tools.
 - Woodcarver's Tools
 
 #### Discount
-
-Nonmagical items and materials you buy cost **20** percent less.
+Nonmagical items and materials you buy cost **20**% less.
 
 #### Fast Crafting
-
-_Utilize Action_
-
-_Proficiency Bonus uses per Long Rest_
+Utilize Action, Proficiency Bonus uses per Long Rest
+{ .subtitle }
 
 You can create a nonmagical item associated with one of the tool Proficiencies above, provided you have the tools in hand and Proficiency with those tools.
 

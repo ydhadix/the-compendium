@@ -1,13 +1,11 @@
 ### Mark of Storms
-
-_Prerequisite: No other Dragonmark_
+Prerequisite: No other Dragonmark
+{ .subtitle }
 
 #### Mark Proficiency
-
-You have Proficiency in one of Arcana or Precision.
+You have Arcana or Precision Proficiency.
 
 #### Mark Spells
-
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
 | LV | Spells |
@@ -19,19 +17,17 @@ You learn this Dragonmark's Spells at the corresponding Levels.  You can cast th
 | 9th | _Conjure Elemental_ |
 
 ###### Free Casting
-
-_1 use each per Long Rest_
+1 use each per Long Rest
+{ .subtitle }
 
 You can cast one of this Dragonmark's Spells without a Spell Slot.
 
 ###### Changing Spells
-
-When you gain a Level, you can replace one of this Dragonmark's Spells with a Wizard Spell of the same Level, provided that spell doesn't deal damage.
+Whenever you level up, you can replace one of this Dragonmark's Spells with a Wizard Spell of the same Level, provided that Spell doesn't deal damage.
 
 ### Greater Mark of Storms
 
 #### Greater Spellcasting
-
 You have an additional Spell Slot.  The level of this Spell Slot increases at the corresponding Levels.
 
 After you finish a Long Rest, you regain this Spell Slot.
@@ -45,15 +41,13 @@ After you finish a Long Rest, you regain this Spell Slot.
 | 9th | 5th |
 
 #### Heart of the Storm
-
-You have Resistance to Lighting and Thunder damage.
+You have Lightning and Thunder Resistance.
 
 #### Feather Soul
-
-Your weight is reduced by half, and you are immune to Falling Damage.
+Your weight is reduced by half, and you have Immunity to Falling Damage.
 
 #### Tempest Magic
+Free Action
+{ .subtitle }
 
-_Free Action_
-
-Before or after you cast a spell, you can fly up to 10 feet without provoking opportunity attacks.
+Before or after you cast a Spell, you can Fly up to **10** feet without provoking Opportunity Attacks.

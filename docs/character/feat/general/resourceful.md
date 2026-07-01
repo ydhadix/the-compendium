@@ -1,19 +1,15 @@
 ### Resourceful
-
-_Prerequisite: 2 Dexterity_
-
-`Description TBD`
+Prerequisite: 2 Dexterity
+{ .subtitle }
 
 #### Fast Hands
+Bonus Action
+{ .subtitle }
 
-_Bonus Action_
-
-You can take the Utilize Action.
+You can Utilize.
 
 #### More Pockets
-
-You add **[PB]** to the number of unworn items you have access to in combat.
+You add **PB** to the number of unworn items you have access to in combat.
 
 #### Steady Stockpile
-
 After a Long Rest, you can turn an Ammunition container within your Reach into a Steady Stockpile. Your Steady Stockpile never runs out of nonmagical Ammunition. Any Ammunition produced this way is destroyed immediately after the Attack.

@@ -1,14 +1,12 @@
 ### Charger
-
-_Free Action_
+Free Action
+{ .subtitle }
 
 Before you Dash, you can add **+10** feet to your Speed until the end of the Turn.
 
 #### Charge
-
-_Free Action_
-
-_1 use per Turn_
+Free Action, 1 use per Turn
+{ .subtitle }
 
 After you move at least **10** feet in a line toward a target, you can choose one of these effects for your next Melee Attack against that target:
 

@@ -1,17 +1,12 @@
 ### War Magus
-
-_Prerequisite: Spellcasting_
-
-`Description TBD`
+Prerequisite: Spellcasting
+{ .subtitle }
 
 #### Concentration
-
-You gain Protection from Concentration saves.
+You have Concentration Protection.
 
 #### Indomitable Reflex
+Free Action, 1 use per Short Rest
+{ .subtitle }
 
-_Free Action_
-
-_1 use per Short Rest_
-
-Before you fail a Reflex save, you can succeed instead.
+Before you fail a Reflex Save, you can succeed instead.

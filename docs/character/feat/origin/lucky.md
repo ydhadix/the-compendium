@@ -1,17 +1,15 @@
 ### Lucky
-
-_Proficiency Bonus uses per Long Rest_
-
-`Description TBD`
+Proficiency Bonus uses per Long Rest
+{ .subtitle }
 
 #### Advantage
+Free Action
+{ .subtitle }
 
-_Free Action_
-
-Before you roll a d20, you can gain Advantage on the roll.
+Before you roll a d20, you can gain Advantage on the d20.
 
 #### Disadvantage
+Free Action
+{ .subtitle }
 
-_Free Action_
-
-Before a creature attacks you, you can impose Disadvantage on the roll.
+Before a creature attacks you, you can impose Disadvantage on the Attack Roll.

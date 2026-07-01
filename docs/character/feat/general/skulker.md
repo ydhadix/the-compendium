@@ -1,17 +1,12 @@
 ### Skulker
-
-_Prerequisite: 2 Dexterity_
-
-`Description TBD`
+Prerequisite: 2 Dexterity
+{ .subtitle }
 
 #### Blindsight
-
-You gain **+10** feet of Blindsight.
+You have **10** feet of Blindsight.
 
 #### Fog of War
-
-You have Advantage on Stealth checks made as part of the Hide Action during combat.
+You have Advantage on Stealth Checks made as part of the Hide Action during combat.
 
 #### Sniper
-
-If you make an Attack Roll while hidden and the roll misses, making the Attack Roll doesn't reveal your location.
+If you make an Attack Roll while hidden and the Attack Roll misses, making the Attack Roll doesn't reveal your location.

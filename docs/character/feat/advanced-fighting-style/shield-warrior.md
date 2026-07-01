@@ -1,6 +1,6 @@
 ### Shield Warrior
-
-_Prerequisite: Shield Defense or Shield Fighting_
+Prerequisite: Shield Defense or Shield Fighting
+{ .subtitle }
 
 You can wield a Heavy Shield as a Delta Hammer _(it is still a Shield and only a weapon while attacking)_.
 

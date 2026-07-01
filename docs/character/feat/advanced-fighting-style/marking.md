@@ -1,8 +1,8 @@
 ### Marking
+Prerequisite: Opportunist
+{ .subtitle }
 
-_Prerequisite: Opportunist_
-
-After you hit a creature with a Melee Attack, the target is Marked by you until the end of your next Turn.
+After you hit a creature with a Melee Attack, you mark the target until the end of your next Turn.
 
 You have Advantage on Opportunity Attacks against targets Marked by you.
 

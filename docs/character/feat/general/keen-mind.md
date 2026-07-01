@@ -1,15 +1,12 @@
 ### Keen Mind
-
-_Prerequisite: 2 Intelligence_
-
-`Description TBD`
+Prerequisite: 2 Intelligence
+{ .subtitle }
 
 #### Lore Knowledge
-
-You gain Proficiency in Arcana, History, Nature, Medicine, or Religion. If you already have Proficiency, you can gain Expertise instead.
+You have Arcana, History, Nature, Medicine, or Religion Proficiency. If you already have the chosen Proficiency, you instead have Expertise.
 
 #### Quick Study
+Bonus Action
+{ .subtitle }
 
-_Bonus Action_
-
-You can take the Study Action.
+You can Study.

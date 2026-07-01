@@ -1,13 +1,11 @@
 ### Mark of Handling
-
-_Prerequisite: No other Dragonmark_
+Prerequisite: No other Dragonmark
+{ .subtitle }
 
 #### Mark Proficiency
-
-You have Proficiency in one of Nature or Survival.
+You have Nature or Survival Proficiency.
 
 #### Mark Spells
-
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
 | LV | Spells |
@@ -19,19 +17,17 @@ You learn this Dragonmark's Spells at the corresponding Levels.  You can cast th
 | 9th | _Awaken_ |
 
 ###### Free Casting
-
-_1 use each per Long Rest_
+1 use each per Long Rest
+{ .subtitle }
 
 You can cast one of this Dragonmark's Spells without a Spell Slot.
 
 ###### Changing Spells
-
-When you gain a Level, you can replace one of this Dragonmark's Spells with a Druid Spell of the same Level, provided that spell doesn't deal damage.
+Whenever you level up, you can replace one of this Dragonmark's Spells with a Druid Spell of the same Level, provided that Spell doesn't deal damage.
 
 ### Greater Mark of Handling
 
 #### Greater Spellcasting
-
 You have an additional Spell Slot.  The level of this Spell Slot increases at the corresponding Levels.
 
 After you finish a Long Rest, you regain this Spell Slot.
@@ -45,22 +41,25 @@ After you finish a Long Rest, you regain this Spell Slot.
 | 9th | 5th |
 
 #### Monstrous Instincts
-
-Your spells and features can treat Monstrosities as Beasts.
+Your Spells and features can treat Monstrosities as Beasts.
 
 #### Superior Handling
-
-After you hit with an attack while mounted, your mount can use its Reaction to Move or Attack.
+After you hit with an Attack while mounted, your mount can use its Reaction to Move or Attack.
 
 #### Subdue
+Magic Action, Proficiency Bonus uses per Long Rest
+{ .subtitle }
 
-_Magic Action_
-
-_Proficiency Bonus uses per Long Rest_
-
-You can force a Beast within 30 feet to make a Will save.  The target has Disadvantage on this save if you or a companion dealt damage to them since the start of your previous turn.
+One Beast within **30** feet makes a Will Save _(DC = **8 + STR, WIS, or CHA + PB**)_.  The target has Disadvantage on the save if you or a companion dealt damage to it since the start of your previous Turn.
 
 | | |
 |---|---|
-| Fail | You frighten the target for 1 minute.  Before the target's turn ends, it repeats this save. |
+| Fail | You frighten the target for **1** minute. |
+| Success | No effect. |
+
+Before the target's Turn ends, it repeats the save.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
 | Success | This effect ends on the target. |

@@ -1,15 +1,9 @@
 ### Resilient
-
-`Description TBD`
-
 #### Saving Throw Aptitude
-
-You gain Aptitude in Reflex, Fortitude, or Will saves. If you already have Aptitude, you can gain Proficiency instead.
+You have Reflex, Fortitude, or Will Aptitude. If you already have the chosen Aptitude, you instead have Proficiency.
 
 #### Indomitable
-
-_Free Action_
-
-_1 use per Long Rest_
+Free Action, 1 use per Long Rest
+{ .subtitle }
 
 Before you fail a Saving Throw, you can succeed instead.

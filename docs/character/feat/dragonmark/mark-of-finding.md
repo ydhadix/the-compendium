@@ -1,13 +1,11 @@
 ### Mark of Finding
-
-_Prerequisite: No other Dragonmark_
+Prerequisite: No other Dragonmark
+{ .subtitle }
 
 #### Mark Proficiency
-
-You have Proficiency in one of Perception or Survival.
+You have Perception or Survival Proficiency.
 
 #### Mark Spells
-
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
 | LV | Spells |
@@ -19,11 +17,10 @@ You learn this Dragonmark's Spells at the corresponding Levels.  You can cast th
 | 9th | _Hold Monster_ |
 
 ###### Free Casting
-
-_1 use each per Long Rest_
+1 use each per Long Rest
+{ .subtitle }
 
 You can cast one of this Dragonmark's Spells without a Spell Slot.
 
 ###### Changing Spells
-
-When you gain a Level, you can replace one of this Dragonmark's Spells with a Druid Spell of the same Level, provided that spell doesn't deal damage.
+Whenever you level up, you can replace one of this Dragonmark's Spells with a Druid Spell of the same Level, provided that Spell doesn't deal damage.
