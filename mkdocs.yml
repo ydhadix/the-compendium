@@ -173,7 +173,7 @@ nav:
         - Class Details:          class/fighter/index.md
         - "Subclasses": "sep:"
         - Eldritch Knight:        class/fighter/eldritch-knight.md
-      - Monk (WIP):
+      - Monk:
         - Class Details:          class/monk/index.md
         # - "Subclasses": "sep:"
       - Paladin (WIP):
