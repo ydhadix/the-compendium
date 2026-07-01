@@ -1,4 +1,3 @@
 # Damage Reduction
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+Damage Reduction reduces the amount of Bludgeoning, Piercing, and Slashing Damage you take by that amount.

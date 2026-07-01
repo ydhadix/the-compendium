@@ -801,7 +801,7 @@ body {
 }
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.2rem 1rem;
+  padding: 0.2rem 0.5rem;
   min-width: 0;
   vertical-align: middle;
   border: 1px solid var(--clr-divider);
