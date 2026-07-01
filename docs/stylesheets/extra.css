@@ -65,7 +65,7 @@
   --md-typeset-a-color:  var(--clr-accent);
 }
 
-/* ----- Layout knobs (PythonMusic chrome; geometry only) ------------------ */
+/* ----- Geometry Layout knobs ------------------ */
 :root {
   --md-text-font-family: "Lato", sans-serif;
 
@@ -147,11 +147,11 @@
 .md-typeset h1 { font-size: 2.2rem; margin-bottom: 0.2em; }
 /* h2 + h3 are primary section headers and look identical (h3 also cards). */
 .md-typeset h2,
-.md-typeset h3 { font-size: 1.6rem; border-bottom: 2px solid var(--clr-divider); margin-bottom: 0; margin-top: 0.5em; }
+.md-typeset h3 { font-size: 1.6rem; border-bottom: 2px solid var(--clr-divider); margin-bottom: 0.3em; margin-top: 0.5em; }
 /* h4 = subheader inside an h3 card. */
 .md-typeset h4 { font-size: 1.25rem; padding-top: 0.2em; }
 /* h5 = secondary section header (subcard). */
-.md-typeset h5 { font-size: 1.25rem; text-transform: none; border-bottom: 2px solid var(--clr-divider); margin-bottom: 0; }
+.md-typeset h5 { font-size: 1.25rem; text-transform: none; border-bottom: 2px solid var(--clr-divider); margin-bottom: 0.3em; }
 /* h6 = subheader inside an h5 card. */
 .md-typeset h6 { font-size: 1.1rem; font-family: "Alegreya Sans SC", sans-serif; color: var(--clr-body-text); padding-top: 0.2em; }
 /* In-card subheaders (h4, h6) hug the content that follows them. */
@@ -790,17 +790,21 @@ body {
 
 .md-typeset table:not([class]) {
   display: table;
-  width: 100%;
+  width: auto;          /* columns shrink to content (+padding)… */
+  min-width: 100%;      /* …but the table still fills its container, expanding cells only to reach the edge */
   font-family: "Alegreya Sans SC", sans-serif;
   font-size: 0.9rem;
+  text-transform: lowercase;
   background-color: var(--clr-table-bg);
   border-collapse: collapse;
   border: 3px solid var(--clr-divider);
 }
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.2rem 0.5rem;
+  padding: 0.2rem 1rem;
+  min-width: 0;
   vertical-align: middle;
+  border: 1px solid var(--clr-divider);
 }
 /* Separator below the header row. */
 .md-typeset table:not([class]) thead tr > * { border-bottom: 2px solid var(--clr-divider); }
@@ -811,20 +815,39 @@ body {
   white-space: nowrap;
   text-align: center;
 }
-/* Column labels bold uppercase; row labels bold lowercase; data cells lowercase. */
+/* Column labels only */
 .md-typeset table:not([class]) th {
   font-weight: 700;
-  text-transform: uppercase;
+  font-family: "Alegreya SC", serif;
   background-color: var(--clr-divider);   /* gold header band */
-  color: var(--clr-accent);               /* crimson label text */
+  color: var(--clr-header-bg);            /* black label text */
+  white-space: wrap;
 }
-.md-typeset table:not([class]) tbody tr > td:first-child { font-weight: 700; text-transform: lowercase; }
-.md-typeset table:not([class]) tbody tr > td:not(:first-child) { text-transform: lowercase; }
+/* Row labels only */
+.md-typeset table:not([class]) tbody tr > td:first-child {
+   font-weight: 700;
+}
+/* Corner cell (top-left): the label for the row-label column. */
+.md-typeset table:not([class]) thead tr > th:first-child {
+   color: var(--clr-accent);
+}
+
+/* Data cells only */
+/* .md-typeset table:not([class]) tbody tr > td:not(:first-child) {
+   
+} */
+
+/* Wide tables (>2 columns, i.e. the header row has a 3rd cell): centre every
+   cell and column header. The row-label column already centres above. */
+.md-typeset table:not([class]):has(thead th:nth-child(3)) th,
+.md-typeset table:not([class]):has(thead th:nth-child(3)) td {
+  text-align: center;
+}
 
 /* Material wraps tables in divs; zero margins so adjacent tables stack flush. */
 .md-typeset__scrollwrap { margin: 0; padding-bottom: 8px; }
-.md-typeset__table { display: block; width: 100%; padding: 0; margin: 0; }
-.md-typeset__table table { width: 100%; table-layout: auto; }
+.md-typeset__table { display: block; width: 100%; padding-top: 0.1em; margin: 0; padding-left: 0; padding-right: 0; }
+.md-typeset__table table { width: auto; min-width: 100%; table-layout: auto; }
 
 /* =========================================================================
    Content elements — subtitle caption + card / subcard containers
@@ -836,7 +859,7 @@ body {
   font-style: italic;
   font-size: 0.875rem;
   opacity: 0.65;
-  margin-top: -0.75em;
+  margin-top: -0.25em;
 }
 
 /* Cards (h2-level sections) and subcards (h5-level entries). */
@@ -848,6 +871,7 @@ body {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   background-color: var(--clr-card-bg);
 }
+/* keep heading close to card top */
 .card > h3:first-child { margin-top: 0; padding-top: 0; }
 
 .subcard {
@@ -858,18 +882,24 @@ body {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
   background-color: var(--clr-page-bg);
 }
+/* keep heading close to card top */
 .subcard > h5:first-child { margin-top: 0; padding-top: 0; }
 
-/* Mobile (< 60em): bleed cards, subcards, and wide tables to the viewport
-   edges, cancelling the content inner's side inset. */
+/* Mobile (< 60em): bleed cards and subcards to the viewport edges. Below 60em
+   the content inset equals --pm-pad-min (the clamp floors there), so a negative
+   margin of that size reaches the screen edge; an equal padding then restores
+   the card's interior text to the normal body inset. */
 @media screen and (max-width: 59.9375em) {
-  .card {
-    margin-left: -0.8rem; margin-right: -0.8rem;
+  .card,
+  .subcard {
+    margin-left: calc(-1 * var(--pm-pad-min));
+    margin-right: calc(-1 * var(--pm-pad-min));
+    padding-left: var(--pm-pad-min);
+    padding-right: var(--pm-pad-min);
     border-left: none; border-right: none; border-radius: 0;
   }
   .subcard {
-    margin-left: -1rem; margin-right: -1rem;
-    border-left: none; border-right: none; border-radius: 0;
+   margin-bottom: 0;
   }
   .md-typeset__scrollwrap { margin-left: -0.8rem; margin-right: -0.8rem; }
 }

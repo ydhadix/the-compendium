@@ -1,10 +1,155 @@
 # Bard
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+`Description TBD`
 
 
-| Bard | Description |
+## Class Table
+| Level | Features | Bardic Inspiration | Inspiration Die |
+|---|---|---|---|
+|  1 | [Bardic Inspiration](#1-bardic-inspiration),<br>[Magical Secrets](#1-magical-secrets),<br>[Spellcasting](#1-spellcasting) | 2 | d6 |
+|  2 | [Jack of All Trades](#2-jack-of-all-trades) | 2 | d6 |
+|  3 | [Bard Subclass](#3-bard-subclass) | 2 | d6 |
+|  4 | — | 3 | d8 |
+|  5 | [Countercharm](#5-countercharm) | 3 | d8 |
+|  6 | [Subclass Feature](#6-subclass-feature) | 3 | d8 |
+|  7 | — | 4 | d10 |
+|  8 | [Master of One](#8-master-of-one) | 4 | d10 |
+|  9 | [Subclass Feature](#9-subclass-feature) | 4 | d10 |
+| 10 | [Font of Inspiration](#10-font-of-inspiration) | 5 | d12 |
+| 11 | [Words of Creation](#11-words-of-creation) | 5 | d12 |
+
+### Class Details
+| | |
 |---|---|
-| [Class Features](features.md) | `Description TBD` |
-| [Bard Spell List](spells/index.md) | `Description TBD` |
+| Primary Ability | Intelligence or Charisma |
+| Secondary Ability | — |
+| Hit Die | d8 |
+| Starting Equipment | 90 gold<br>or<br>Leather Armor, any Musical Instrument, 2 Daggers, Entertainer's Pack, 19 gold |
+
+##### Primary Proficiencies
+When you choose Bard as your Primary Class, you gain the following proficiencies:
+
+| | |
+|---|---|
+| Save Proficiency | Will |
+| Save Aptitude | Reflex |
+| Armor | Light |
+| Weapons | Simple |
+| Trades | 3 Musical Instruments or Gaming Sets |
+| Skills | Performance and any 3 |
+
+##### Secondary Proficiencies
+When you choose Bard as your Secondary Class, you gain the following proficiencies:
+
+| | |
+|---|---|
+| Armor | Light |
+| Weapons | — |
+| Trades | 1 Musical Instrument |
+| Skills | Performance |
+
+## Bard Features
+
+### 1: Bardic Inspiration
+You can give other creatures Inspiration Dice.  The [Bard Table](#class-table) shows the size of your Inspiration Dice and how many Bardic Inspiration uses you have.
+#### Giving Inspiration
+Bonus Action, 1 Bardic Inspiration use
+{ .subtitle }
+
+You give a creature within 60 feet an Inspiration Die.
+#### Using Inspiration Dice
+Before a creature with an Inspiration Die fails a d20 roll, they can spend the die to add it to their d20 roll, potentially turning the failure into a success. A creature can only have one Inspiration Die at a time.
+###### Regaining Inspiration Dice
+When you finish a Short Rest, any remaining Inspiration Dice you've given vanish, and you regain all uses of Bardic Inspiration.
+
+
+### 1: Magical Secrets
+Choose one of the following Magical Secrets. You can learn cantrips and prepare spells from the chosen Magical Secret's spell lists as Bard spells _(Spells from these spell lists are not Bard spells until you learn or prepare them)_.
+
+| Magical Secret | Spell Lists |
+|---|---|
+| Arcane | Wizard |
+| Primal | Druid |
+| Divine | Cleric |
+
+
+### 1: Spellcasting
+| Level | Cantrips Known | Spells Prepared | 1st | 2nd | 3rd | 4th | 5th | 6th |
+|---|---|---|---|---|---|---|---|---|
+|  1 | 3 |  4 | 2 | - | - | - | - | - |
+|  2 | 3 |  6 | 3 | - | - | - | - | - |
+|  3 | 3 |  8 | 4 | 2 | - | - | - | - |
+|  4 | 4 |  9 | 4 | 3 | - | - | - | - |
+|  5 | 4 | 11 | 4 | 3 | 2 | - | - | - |
+|  6 | 4 | 12 | 4 | 3 | 3 | - | - | - |
+|  7 | 4 | 13 | 4 | 3 | 3 | 1 | - | - |
+|  8 | 4 | 14 | 4 | 3 | 3 | 2 | - | - |
+|  9 | 4 | 16 | 4 | 3 | 3 | 3 | 1 | - |
+| 10 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | - |
+| 11 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 |
+
+#### Spellcasting Ability
+Your Bard Ability is your Spellcasting Ability.
+#### Spellcasting Focus
+Bard spells use a Musical Instrument as a spellcasting focus.
+#### Spells Prepared
+The Spellcasting table shows how many cantrips you know and how many spells you prepare.
+###### Changing Spells
+When you gain a Level, you can replace one of your known cantrips and one of your prepared spells.
+#### Spell Slots
+The Spellcasting table shows how many spell slots you have.
+###### Regaining Spell Slots
+When you finish a Long Rest, you regain all your spell slots.
+
+
+### 2: Jack of All Trades
+#### Expert
+You gain expertise in two of your skill or trade proficiencies.
+#### Generalist
+You have Aptitude with all Ability Checks you make without Proficiency.
+
+
+### 3: Bard Subclass
+Choose a Bard Subclass. Your subclass grants you a feature at this level.
+
+| Subclasses | Description |
+|---|---|
+|  |  |
+
+
+### 5: Countercharm
+Reaction
+{ .subtitle }
+
+Before a creature within 30 feet fails a saving throw to resist Charm or Fear, you can reroll the save with Advantage.
+
+
+### 6: Subclass Feature
+Your subclass grants you an additional feature.
+
+
+### 8: Master of One
+#### Expert
+You gain expertise in one of your skill or trade proficiencies.
+#### Specialist
+Free Action, 1 Bardic Inspiration use
+{ .subtitle }
+
+Before you fail a check using the chosen expertise, you can add an Inspiration Die to the check.
+
+
+### 9: Subclass Feature
+Your subclass grants you an additional feature.
+
+
+### 10: Font of Inspiration
+After you roll Initiative, if you have fewer than two uses of Bardic Inspiration, you regain expended uses until you have two.
+
+
+### 11: Words of Creation
+You learn _Power Word Heal_ and _Power Word Kill_.  Before you cast either spell, you can add an additional target within 10 feet of the first.
+###### Free Casting
+1 use per Long Rest
+{ .subtitle }
+
+You can cast one of this feature's spells without a Spell Slot.

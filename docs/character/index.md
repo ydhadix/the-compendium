@@ -1,7 +1,6 @@
 # Hero Handbook
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+`Description TBD`
 
 
 | Sections | Description |

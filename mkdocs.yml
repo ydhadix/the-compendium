@@ -34,8 +34,8 @@ extra_javascript:
   - javascripts/recent.js
   - javascripts/meganav.js
 
-# exclude_docs: |            # files/folders in docs/ that we don't want compiled
-#   _snippets/*.py
+exclude_docs: |            # files/folders in docs/ that we don't want compiled
+  spell/level/*/*_list.md
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
   character/feat/*/*
@@ -63,7 +63,7 @@ markdown_extensions:
   - attr_list               # image sizing/alignment: ![](img){ width="200" align="right" }
   - md_in_html              # markdown inside HTML, e.g. <figure> + <figcaption> captions
   - toc:
-      toc_depth: 2          # ToC shows h1–h2 only; h3+ (e.g. method sections) are omitted
+      toc_depth: 3          # ToC shows h1–h2 only; h3+ (e.g. method sections) are omitted
 
 nav:
   - The Compendium:
@@ -146,78 +146,63 @@ nav:
         - Dragonmarks:            character/feat/dragonmark/index.md
 
     - Class Codex:
-      - Overview:                 class/index.md
-      - Leveling Up:              class/level.md
-      - "---": "sep:"
+      - Using Classes:            class/index.md
       - Artificer:
-        - Overview:               class/artificer/index.md
-        - Class Features:         class/artificer/features.md
-        - Artificer Spell List:   class/artificer/spells/index.md
-        - "Artificer Subclasses": "sep:"
+        - Class Details:          class/artificer/index.md
+        - Artificer Spell List:   class/artificer/spell-list.md
+        - "Subclasses": "sep:"
         - Armorer:                class/artificer/armorer.md
         - Cartographer:           class/artificer/cartographer.md
-      - Barbarian:
-        - Overview:               class/barbarian/index.md
-        - Class Features:         class/barbarian/features.md
-        # - "Barbarian Subclasses": "sep:"
+      - Barbarian (WIP):
+        - Class Details:          class/barbarian/index.md
+        # - "Subclasses": "sep:"
       - Bard:
-        - Overview:               class/bard/index.md
-        - Class Features:         class/bard/features.md
-        - Bard Spell List:        class/bard/spells/index.md
-        # - "Bard Subclasses": "sep:"
+        - Class Details:          class/bard/index.md
+        - Bard Spell List:        class/bard/spell-list.md
+        # - "Subclasses": "sep:"
       - Cleric:
-        - Overview:               class/cleric/index.md
-        - Class Features:         class/cleric/features.md
-        - Cleric Spell List:      class/cleric/spells/index.md
-        - "Cleric Subclasses": "sep:"
+        - Class Details:          class/cleric/index.md
+        - Cleric Spell List:      class/cleric/spell-list.md
+        - "Subclasses": "sep:"
         - Arcana:                 class/cleric/arcana.md
-      - Druid:
-        - Overview:               class/druid/index.md
-        - Class Features:         class/druid/features.md
-        - Druid Spell List:       class/druid/spells/index.md
-        # - "Druid Subclasses": "sep:"
+      - Druid (WIP):
+        - Class Details:          class/druid/index.md
+        - Druid Spell List:       class/druid/spell-list.md
+        # - "Subclasses": "sep:"
       - Fighter:
-        - Overview:               class/fighter/index.md
-        - Class Features:         class/fighter/features.md
-        - "Fighter Subclasses": "sep:"
+        - Class Details:          class/fighter/index.md
+        - "Subclasses": "sep:"
         - Eldritch Knight:        class/fighter/eldritch-knight.md
-      - Monk:
-        - Overview:               class/monk/index.md
-        - Class Features:         class/monk/features.md
-        # - "Monk Subclasses": "sep:"
-      - Paladin:
-        - Overview:               class/paladin/index.md
-        - Class Features:         class/paladin/features.md
-        - Paladin Spell List:     class/paladin/spells/index.md
-        # - "Paladin Subclasses": "sep:"
+      - Monk (WIP):
+        - Class Details:          class/monk/index.md
+        # - "Subclasses": "sep:"
+      - Paladin (WIP):
+        - Class Details:          class/paladin/index.md
+        - Paladin Spell List:     class/paladin/spell-list.md
+        # - "Subclasses": "sep:"
       - Ranger:
-        - Overview:               class/ranger/index.md
-        - Class Features:         class/ranger/features.md
-        - Ranger Spell List:      class/ranger/spells/index.md
-        - Imprints:               class/ranger/imprint/index.md
-        - "Ranger Subclasses": "sep:"
+        - Class Details:          class/ranger/index.md
+        - Ranger Spell List:      class/ranger/spell-list.md
+        - Primal Imprints:        class/ranger/imprint/index.md
+        - "Subclasses": "sep:"
         - Beast Master:           class/ranger/beast-master.md
-      - Rogue:
-        - Overview:               class/rogue/index.md
-        - Class Features:         class/rogue/features.md
-        # - "Rogue Subclasses": "sep:"
-      - Sorcerer:
-        - Overview:               class/sorcerer/index.md
-        - Class Features:         class/sorcerer/features.md
-        - Sorcerer Spell List:    class/sorcerer/spells/index.md
+      - Rogue (WIP):
+        - Class Details:          class/rogue/index.md
+        # - "Subclasses": "sep:"
+      - Sorcerer (WIP):
+        - Class Details:          class/sorcerer/index.md
+        - Sorcerer Spell List:    class/sorcerer/spell-list.md
         - Metamagics:             class/sorcerer/metamagic/index.md
-        # - "Sorcerer Subclasses": "sep:"
-      - Warlock:
-        - Overview:               class/warlock/index.md
-        - Class Features:         class/warlock/features.md
-        - Warlock Spell List:     class/warlock/spells/index.md
-        - Invocations:            class/warlock/invocation/index.md
-        # - "Warlock Subclasses": "sep:"
-      - Wizard:
-        - Overview:               class/wizard/index.md
-        - Class Features:         class/wizard/features.md
-        - Wizard Spell List:      class/wizard/spells/index.md
-        # - "Wizard Subclasses": "sep:"
+        # - "Subclasses": "sep:"
+      - Warlock (WIP):
+        - Class Details:          class/warlock/index.md
+        - Warlock Spell List:     class/warlock/spell-list.md
+        - Eldritch Invocations:   class/warlock/invocation/index.md
+        # - "Subclasses": "sep:"
+      - Wizard (WIP):
+        - Class Details:          class/wizard/index.md
+        - Wizard Spell List:      class/wizard/spell-list.md
+        # - "Subclasses": "sep:"
 
     - Item Index:
       - Overview:                 item/index.md
