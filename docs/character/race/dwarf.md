@@ -2,28 +2,25 @@
 
 `Description TBD`
 
+## Dwarf Traits
+
 | | |
 |---|---|
-| Abilities | Constitution and one of your choice |
+| Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid |
 | Size Category | Medium |
 | Speed | 30 ft. |
 | Reach | 5 ft. |
 | Hit Points | 10 |
 | Resistances | Poison |
-| Protections | Poisoned, Prone |
+| Protections | Sickness, Prone |
 | Senses | Darkvision (120 ft.), Tremorsense (30 ft.) |
 
-## Features
-
 ### Dwarven Toughness
-
-Whenever you level up, add **1** to your Hit Point Maximum.
+Whenever you level up, your Hit Point Maximum increases by **1**.
 
 ### Treasure Sense
-
-_Bonus Action_
-
-_Proficiency Bonus uses per Long Rest_
+Bonus Action, Proficiency Bonus uses per Long Rest
+{ .subtitle }
 
 You can sense the location of precious metals, minerals, and gems worth at least **50** gold within **30** feet, even through walls and obstacles, for **10** minutes. You can identify the general category of material but not its specific type.
