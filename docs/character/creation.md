@@ -3,7 +3,7 @@
 This section walks you through building a character step by step, from choosing your abilities and race to purchasing equipment and finishing your character sheet.
 
 ### 1. Choose Abilities
-Your Abilities start at **0**, the aptitude of a typical human.  When you create your character, increase **4** Abilities by **1** each.
+Your Abilities start at **0**, the baseline for a typical person. When you create your character, choose **4** Abilities to increase by **1** each.
 
 ### 2. Choose a Race
 Your Race outlines your physical characteristics and grants you a set of Traits and Features.  Each race includes:

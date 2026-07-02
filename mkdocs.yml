@@ -103,9 +103,9 @@ nav:
         - Saving Throws:          rules/dice/save.md
         - Damage Rolls:           rules/dice/damage.md
         - "---": "sep:"
-        - Advantage / Disadvantage: rules/d20/advantage.md
-        - Rerolls:                rules/d20/reroll.md
-        - Critical Hits:          rules/d20/critical.md
+        - Advantage / Disadvantage: rules/dice/advantage.md
+        - Rerolls:                rules/dice/reroll.md
+        - Critical Hits:          rules/dice/critical.md
       - Defenses:
         - Overview:               rules/trait/defense/index.md
         - Armor Class:            rules/trait/defense/armor-class.md
