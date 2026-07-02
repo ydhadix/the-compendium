@@ -1,6 +1,6 @@
 # Eldritch Knight Fighter
 
-`Description TBD`
+Eldritch Knights temper martial mastery with arcane study, weaving Wizard spells into the rhythm of battle. They bond weapons to their will and strike with blade and spell as a single art.
 
 
 ## Eldritch Knight Table

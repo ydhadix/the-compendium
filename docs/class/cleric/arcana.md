@@ -1,6 +1,6 @@
 # Arcana Cleric
 
-`Description TBD`
+Arcana Clerics serve gods of magic and mystery, blending divine devotion with wizardly lore. They wield arcane secrets alongside their prayers, unraveling spells and turning back the creatures of other planes.
 
 
 ## Arcana Table

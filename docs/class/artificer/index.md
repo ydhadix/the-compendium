@@ -1,6 +1,6 @@
 # Artificer
 
-`Description TBD`
+Artificers are inventors who treat magic as a craft, channeling spells through tinker's tools and the strange devices they build. They infuse ordinary gear with magical power, coax an animated assistant to life, and turn any workshop into an arsenal.
 
 
 ## Class Table
@@ -175,8 +175,8 @@ Choose an Artificer Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Armorer](armorer.md) | `Description TBD` |
-| [Cartographer](cartographer.md) | `Description TBD` |
+| [Armorer](armorer.md) | Forge a suit of Arcane Armor into a Guardian, Dreadnaught, or Infiltrator built for war. |
+| [Cartographer](cartographer.md) | Master maps and movement, linking allies together through an Adventurer's Atlas. |
 
 
 ### 4: Magic Item Adept

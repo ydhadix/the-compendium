@@ -3,7 +3,7 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-`Description TBD`
+Barbarians are furious warriors who turn raw emotion into unstoppable force. Wrapped in Rage, they weather blows that would fell others and answer with brutal, punishing strikes.
 
 
 ## Class Table

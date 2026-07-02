@@ -1,6 +1,6 @@
 # Armorer Artificer
 
-`Description TBD`
+Armorers pour their craft into a single suit of Arcane Armor, a second skin built for war. They reshape it into a thundering Guardian, a towering Dreadnaught, or a stealthy Infiltrator to suit the battle at hand.
 
 
 ## Armorer Table

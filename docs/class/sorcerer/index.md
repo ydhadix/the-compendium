@@ -3,7 +3,7 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-`Description TBD`
+Sorcerers wield magic that wells up from within, an innate gift woven into their very being. They bend and reshape their spells through Metamagic, spending raw Sorcery to twist their power into new and devastating forms.
 
 
 ## Class Table

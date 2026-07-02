@@ -3,7 +3,7 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-`Description TBD`
+Warlocks draw their power from a pact with an otherworldly patron, trading service for forbidden magic. Their spells return with every brief rest, and eldritch Invocations grant them uncanny gifts no other caster commands.
 
 
 ## Class Table

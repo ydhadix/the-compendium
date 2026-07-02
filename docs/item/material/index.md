@@ -4,7 +4,7 @@ Items made with special Materials may gain additional properties.
 
 | Material | Value | Description |
 |---|---|---|
-| [Adamantine](#adamantine) | 500 gold | Immune to Physical damage from lesser sources; ignores Critical Hits. |
+| [Adamantine](#adamantine) | 500 gold | Black, hardened metal immune to Physical damage from lesser sources. |
 | [Heartwood](#heartwood) | 1,000 gold | Self-mending wood that serves as a Spellcasting Focus. |
 | [Ironwill](#ironwill) | 2,500 gold | A Focus that lets you cast and fight with your Spellcasting Ability. |
 | [Mithral](#mithral) | 500 gold | Lightweight metal that eases Armor and lightens Weapons. |

@@ -1,6 +1,6 @@
 # Cleric
 
-`Description TBD`
+Clerics are the chosen vessels of the divine, channeling their deity's power to mend the wounded and smite the wicked. They call on Channel Divinity to turn back the undead and blaze with holy or unholy might.
 
 
 ## Class Table
@@ -129,6 +129,7 @@ After a Long Rest, you regain all your Spell Slots.
 ### 2: Divine Recovery
 1 use per Long Rest
 { .subtitle }
+
 After a Short Rest, you can regain expended Spell Slots with combined Level up to one-third of your Character Level _(rounded up)_.
 
 
@@ -137,7 +138,7 @@ Choose a Cleric Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Arcana](arcana.md) | `Description TBD` |
+| [Arcana](arcana.md) | Wield Wizard spells and arcane secrets alongside your divine power. |
 
 
 ### 5: Blessed Strikes

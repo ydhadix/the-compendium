@@ -1,6 +1,6 @@
 # Bard
 
-`Description TBD`
+Bards are consummate performers whose artistry is itself a kind of magic, weaving spells drawn from every tradition. With a word or a note they inspire allies to greatness, and their restless talent leaves no skill wholly beyond them.
 
 
 ## Class Table

@@ -3,7 +3,7 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-`Description TBD`
+Druids are keepers of the primal world, drawing magic from wild places and the turning of the seasons. They wield the raw power of nature to nurture, to shape, and to unleash the storm.
 
 
 ## Class Table

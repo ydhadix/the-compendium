@@ -3,7 +3,7 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-`Description TBD`
+Paladins are holy warriors bound by a sacred oath, blending martial prowess with divine magic. They channel their conviction into every blow, standing as a bulwark of faith against the darkness.
 
 
 ## Class Table

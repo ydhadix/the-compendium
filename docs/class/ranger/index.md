@@ -1,6 +1,6 @@
 # Ranger
 
-`Description TBD`
+Rangers are peerless hunters who stalk the wild borderlands, marking their quarry and running it down without mercy. Drawing on primal magic, they take on the very traits of the beasts they study, adapting to any terrain or prey.
 
 
 ## Class Table
@@ -76,12 +76,12 @@ After a Long Rest, you can replace one of your known Imprints.
 
 | Imprints | Description |
 |---|---|
-| [Bioluminescence](imprint/bioluminescence.md) | `Description TBD` |
-| [Camouflage](imprint/camouflage.md) | `Description TBD` |
-| [Hold Breath](imprint/hold-breath.md) | `Description TBD` |
-| [Keen Senses](imprint/keen-senses.md) | `Description TBD` |
-| [Powerful Build](imprint/powerful-build.md) | `Description TBD` |
-| [Sure-Footed](imprint/sure-footed.md) | `Description TBD` |
+| [Bioluminescence](imprint/bioluminescence.md) | Shed light from your own body, glowing bright or dim at will. |
+| [Camouflage](imprint/camouflage.md) | Blend into your surroundings so others struggle to spot you. |
+| [Hold Breath](imprint/hold-breath.md) | Hold your breath for up to an hour. |
+| [Keen Senses](imprint/keen-senses.md) | Sharp eyes and ears grant Advantage on sight- and hearing-based Perception. |
+| [Powerful Build](imprint/powerful-build.md) | Beastly might grants Advantage on Athletics and doubles what you can carry. |
+| [Sure-Footed](imprint/sure-footed.md) | Keep your footing against knockdowns and climb as easily as you walk. |
 
 
 ### 1: Weapon Mastery
@@ -129,7 +129,7 @@ Choose a Ranger Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Beast Master](beast-master.md) | `Description TBD` |
+| [Beast Master](beast-master.md) | Fight alongside a loyal primal companion of land, sea, or sky. |
 
 
 ### 4: Imprinting Adept
@@ -140,14 +140,14 @@ You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
 | Imprints | Description |
 |---|---|
-| [Amphibious](imprint/amphibious.md) | `Description TBD` |
-| [Cold Tolerance](imprint/cold-tolerance.md) | `Description TBD` |
-| [Heat Tolerance](imprint/heat-tolerance.md) | `Description TBD` |
-| [Jumper](imprint/jumper.md) | `Description TBD` |
-| [Mimicry](imprint/mimicry.md) | `Description TBD` |
-| [Nocturnal](imprint/nocturnal.md) | `Description TBD` |
-| [Roving](imprint/roving.md) | `Description TBD` |
-| [Skittish](imprint/skittish.md) | `Description TBD` |
+| [Amphibious](imprint/amphibious.md) | Breathe underwater and swim at your full Speed. |
+| [Cold Tolerance](imprint/cold-tolerance.md) | Shrug off ice, snow, and the bite of extreme cold. |
+| [Heat Tolerance](imprint/heat-tolerance.md) | Cross scorching sand and endure extreme heat and flame. |
+| [Jumper](imprint/jumper.md) | Leap with your Dexterity and climb at your full Speed. |
+| [Mimicry](imprint/mimicry.md) | Imitate simple sounds you've heard to deceive the ear. |
+| [Nocturnal](imprint/nocturnal.md) | See in the dark out to 120 feet. |
+| [Roving](imprint/roving.md) | Move without provoking Opportunity Attacks, and range farther each turn. |
+| [Skittish](imprint/skittish.md) | Dart away or slip out of sight as a Bonus Action. |
 
 
 ### 5: Extra Attack
@@ -166,10 +166,10 @@ You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
 | Imprints | Description |
 |---|---|
-| [Amorphous](imprint/amorphous.md) | `Description TBD` |
-| [Echolocation](imprint/echolocation.md) | `Description TBD` |
-| [Glider](imprint/glider.md) | `Description TBD` |
-| [Web Walker](imprint/web-walker.md) | `Description TBD` |
+| [Amorphous](imprint/amorphous.md) | Slip free of grapples and squeeze through the narrowest gaps. |
+| [Echolocation](imprint/echolocation.md) | Map your surroundings by sound, gaining Blindsight while you can hear. |
+| [Glider](imprint/glider.md) | Ride the air on your turn and fall without harm. |
+| [Web Walker](imprint/web-walker.md) | Ignore clinging webs and climb sheer surfaces with ease. |
 
 
 ### 8: Vanish
@@ -188,8 +188,8 @@ You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
 | Imprints | Description |
 |---|---|
-| [Burrower](imprint/burrower.md) | `Description TBD` |
-| [Pack Tactics](imprint/pack-tactics.md) | `Description TBD` |
+| [Burrower](imprint/burrower.md) | Dig through earth, leaving a tunnel in your wake. |
+| [Pack Tactics](imprint/pack-tactics.md) | Strike with Advantage when a foe is caught beside an ally. |
 
 
 ### 11: Foe Slayer
