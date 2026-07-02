@@ -1,5 +1,5 @@
 ### Basic Poison
-100 gold
+Poison (Injury), Consumable, 100 gold
 { .subtitle }
 
 Basic Poison comes in a Vial.

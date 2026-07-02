@@ -1,15 +1,15 @@
 # Spellcasting Focuses
 
-`Description TBD`
+Foci and components that channel spells.
 
 
 | Item | Value | Description |
 |---|---|---|
-| [Arcane Focus](#arcane-focus) | Varies | `Description TBD` |
-| [Component Pouch](#component-pouch) | 25 gold | `Description TBD` |
-| [Druidic Focus](#druidic-focus) | Varies | `Description TBD` |
-| [Holy Symbol](#holy-symbol) | Varies | `Description TBD` |
-| [Spell Scroll](#spell-scroll) | 50 gold | `Description TBD` |
+| [Arcane Focus](#arcane-focus) | Varies | A Spellcasting Focus for Sorcerers, Warlocks, and Wizards. |
+| [Component Pouch](#component-pouch) | 25 gold | A pouch holding the material components for your spells. |
+| [Druidic Focus](#druidic-focus) | Varies | A Spellcasting Focus for Druids and Rangers. |
+| [Holy Symbol](#holy-symbol) | Varies | A Spellcasting Focus for Clerics and Paladins. |
+| [Spell Scroll](#spell-scroll) | 50 gold | A scroll bearing a single spell you can cast once. |
 
 --8<-- "item/gear/spell-focus/arcane-focus.md"
 

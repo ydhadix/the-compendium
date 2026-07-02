@@ -1,5 +1,5 @@
 ### Iron Spikes
-1 gold
+Tool, 1 gold
 { .subtitle }
 
 Iron Spikes come in bundles of **10**.

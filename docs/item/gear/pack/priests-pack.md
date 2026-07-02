@@ -1,5 +1,5 @@
 ### Priest's Pack
-19 gold
+Other, 19 gold
 { .subtitle }
 
 - Backpack

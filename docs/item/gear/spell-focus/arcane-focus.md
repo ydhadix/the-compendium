@@ -1,5 +1,5 @@
 ### Arcane Focus
-Varies
+Spellcasting Focus (Arcane Focus), Value varies
 { .subtitle }
 
 A Sorcerer, Warlock, or Wizard can use an Arcane Focus as a Spellcasting Focus.

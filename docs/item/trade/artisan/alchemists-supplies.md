@@ -1,5 +1,5 @@
 ### Alchemist's Supplies
-50 gold
+Tool, 50 gold
 { .subtitle }
 
 | | |

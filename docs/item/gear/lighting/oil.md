@@ -1,5 +1,5 @@
 ### Oil
-1 silver
+Potion, Consumable, 1 silver
 { .subtitle }
 
 Oil comes in a Flask and serves as fuel for Lamps and Lanterns.

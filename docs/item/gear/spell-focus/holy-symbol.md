@@ -1,5 +1,5 @@
 ### Holy Symbol
-Varies
+Spellcasting Focus (Holy Symbol), Value varies
 { .subtitle }
 
 A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.

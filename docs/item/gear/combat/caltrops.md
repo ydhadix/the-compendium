@@ -1,6 +1,8 @@
 ### Caltrops
-1 gold
+Other, 1 gold
 { .subtitle }
+
+Caltrops come in a Pouch.
 
 ###### Scatter
 Utilize Action

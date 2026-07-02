@@ -1,5 +1,5 @@
 ### Light Shield
-5 gold
+Shield, 5 gold
 { .subtitle }
 
 A Light Shield leaves your hand free.

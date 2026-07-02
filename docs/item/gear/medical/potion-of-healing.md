@@ -1,8 +1,6 @@
 ### Potion of Healing
-50 gold
+Potion, Consumable, 50 gold
 { .subtitle }
-
-A Potion of Healing is a Common Magic Item.
 
 ###### Heal
 Bonus Action

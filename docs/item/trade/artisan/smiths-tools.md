@@ -1,5 +1,5 @@
 ### Smith's Tools
-20 gold
+Tool, 20 gold
 { .subtitle }
 
 | | |

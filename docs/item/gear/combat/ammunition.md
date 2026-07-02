@@ -1,5 +1,5 @@
 ### Ammunition
-Varies
+Ammunition, Value varies
 { .subtitle }
 
 Weapons with the Ammunition property require ammunition to make an attack and specify which type in their description. Each type requires different storage, which must be bought separately.

@@ -1,5 +1,5 @@
 ### Glassblower's Tools
-30 gold
+Tool, 30 gold
 { .subtitle }
 
 | | |

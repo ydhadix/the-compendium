@@ -1,5 +1,5 @@
 ### Signal Whistle
-5 copper
+Tool, 5 copper
 { .subtitle }
 
 ###### Signal

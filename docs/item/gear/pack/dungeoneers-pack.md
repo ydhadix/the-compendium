@@ -1,5 +1,5 @@
 ### Dungeoneer's Pack
-12 gold
+Other, 12 gold
 { .subtitle }
 
 - Backpack

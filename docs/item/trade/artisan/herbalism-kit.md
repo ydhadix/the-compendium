@@ -1,5 +1,5 @@
 ### Herbalism Kit
-5 gold
+Tool, 5 gold
 { .subtitle }
 
 | | |

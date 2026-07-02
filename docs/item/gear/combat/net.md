@@ -1,5 +1,5 @@
 ### Net
-1 gold
+Other, 1 gold
 { .subtitle }
 
 ###### Ensnare

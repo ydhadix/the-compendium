@@ -1,5 +1,5 @@
 ### Pole
-5 copper
+Tool, 5 copper
 { .subtitle }
 
 A Pole is **10** feet long and can be used to touch things at a distance.

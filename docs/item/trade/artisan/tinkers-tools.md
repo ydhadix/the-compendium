@@ -1,5 +1,5 @@
 ### Tinker's Tools
-50 gold
+Tool, 50 gold
 { .subtitle }
 
 | | |

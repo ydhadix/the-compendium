@@ -1,5 +1,5 @@
 ### Druidic Focus
-Varies
+Spellcasting Focus (Druidic Focus), Value varies
 { .subtitle }
 
 A Druid or Ranger can use a Druidic Focus as a Spellcasting Focus.

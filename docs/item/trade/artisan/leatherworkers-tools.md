@@ -1,5 +1,5 @@
 ### Leatherworker's Tools
-5 gold
+Tool, 5 gold
 { .subtitle }
 
 | | |

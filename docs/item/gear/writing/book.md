@@ -1,5 +1,5 @@
 ### Book
-25 gold
+Other, 25 gold
 { .subtitle }
 
 A Book contains fiction or nonfiction.

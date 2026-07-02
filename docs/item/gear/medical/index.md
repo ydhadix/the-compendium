@@ -1,13 +1,13 @@
 # Medical
 
-`Description TBD`
+Antidotes and kits for treating the wounded.
 
 
 | Item | Value | Description |
 |---|---|---|
-| [Antitoxin](#antitoxin) | 50 gold | `Description TBD` |
-| [Healer's Kit](#healers-kit) | 5 gold | `Description TBD` |
-| [Potion of Healing](#potion-of-healing) | 50 gold | `Description TBD` |
+| [Antitoxin](#antitoxin) | 50 gold | A vial of tonic that wards off poison. |
+| [Healer's Kit](#healers-kit) | 5 gold | A kit of bandages and salves for stabilizing the dying. |
+| [Potion of Healing](#potion-of-healing) | 50 gold | A potion that restores hit points when drunk. |
 
 --8<-- "item/gear/medical/antitoxin.md"
 

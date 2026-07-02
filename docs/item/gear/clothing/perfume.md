@@ -1,5 +1,5 @@
 ### Perfume
-5 gold
+Clothing, Consumable, 5 gold
 { .subtitle }
 
 Perfume comes in a Vial.

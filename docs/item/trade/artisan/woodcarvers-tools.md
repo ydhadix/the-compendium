@@ -1,5 +1,5 @@
 ### Woodcarver's Tools
-1 gold
+Tool, 1 gold
 { .subtitle }
 
 | | |

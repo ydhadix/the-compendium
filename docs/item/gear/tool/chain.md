@@ -1,5 +1,5 @@
 ### Chain
-5 gold
+Tool, 5 gold
 { .subtitle }
 
 ###### Bind

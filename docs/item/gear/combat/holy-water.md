@@ -1,5 +1,5 @@
 ### Holy Water
-25 gold
+Potion, Consumable, 25 gold
 { .subtitle }
 
 Holy Water comes in a Flask.

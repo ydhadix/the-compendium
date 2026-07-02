@@ -1,5 +1,5 @@
 ### Grappling Hook
-2 gold
+Tool, 2 gold
 { .subtitle }
 
 ###### Hook

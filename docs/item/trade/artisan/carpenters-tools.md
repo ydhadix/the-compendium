@@ -1,5 +1,5 @@
 ### Carpenter's Tools
-8 gold
+Tool, 8 gold
 { .subtitle }
 
 | | |

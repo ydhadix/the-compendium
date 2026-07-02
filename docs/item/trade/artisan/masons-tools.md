@@ -1,5 +1,5 @@
 ### Mason's Tools
-10 gold
+Tool, 10 gold
 { .subtitle }
 
 | | |

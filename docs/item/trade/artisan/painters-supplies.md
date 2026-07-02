@@ -1,5 +1,5 @@
 ### Painter's Supplies
-10 gold
+Tool, 10 gold
 { .subtitle }
 
 | | |

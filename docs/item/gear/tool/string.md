@@ -1,5 +1,5 @@
 ### String
-1 silver
+Tool, 1 silver
 { .subtitle }
 
 String is **10** feet long.

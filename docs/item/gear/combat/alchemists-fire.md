@@ -1,5 +1,5 @@
 ### Alchemist's Fire
-50 gold
+Potion, Consumable, 50 gold
 { .subtitle }
 
 Alchemist's Fire comes in a Vial.

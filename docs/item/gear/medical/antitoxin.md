@@ -1,5 +1,5 @@
 ### Antitoxin
-50 gold
+Potion, Consumable, 50 gold
 { .subtitle }
 
 Antitoxin comes in a Vial.

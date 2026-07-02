@@ -1,5 +1,5 @@
 ### Spell Scroll
-50 gold
+Scroll, Consumable, 50 gold
 { .subtitle }
 
 A Spell Scroll is a Common Magic Item. A Spell Scroll contains a single 1st-Level Spell.

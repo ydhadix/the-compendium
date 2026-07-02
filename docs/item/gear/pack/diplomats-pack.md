@@ -1,5 +1,5 @@
 ### Diplomat's Pack
-39 gold
+Other, 39 gold
 { .subtitle }
 
 - Chest

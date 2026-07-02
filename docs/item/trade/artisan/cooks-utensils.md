@@ -1,5 +1,5 @@
 ### Cook's Utensils
-1 gold
+Tool, 1 gold
 { .subtitle }
 
 | | |

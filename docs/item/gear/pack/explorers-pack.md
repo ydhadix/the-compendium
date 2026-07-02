@@ -1,5 +1,5 @@
 ### Explorer's Pack
-10 gold
+Other, 10 gold
 { .subtitle }
 
 - Backpack

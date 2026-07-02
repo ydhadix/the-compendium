@@ -1,5 +1,5 @@
 ### Climber's Kit
-25 gold
+Tool, 25 gold
 { .subtitle }
 
 A Climber's Kit includes boot tips, gloves, pitons, and a harness.

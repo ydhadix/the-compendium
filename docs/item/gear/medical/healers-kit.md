@@ -1,5 +1,5 @@
 ### Healer's Kit
-5 gold
+Other, Consumable, 5 gold
 { .subtitle }
 
 ###### Stabilize

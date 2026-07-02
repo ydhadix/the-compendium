@@ -1,5 +1,5 @@
 ### Burglar's Pack
-16 gold
+Other, 16 gold
 { .subtitle }
 
 - Backpack

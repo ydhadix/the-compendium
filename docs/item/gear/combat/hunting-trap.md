@@ -1,5 +1,5 @@
 ### Hunting Trap
-2 gold
+Other, 2 gold
 { .subtitle }
 
 ###### Set

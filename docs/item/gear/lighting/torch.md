@@ -1,5 +1,5 @@
 ### Torch
-1 copper
+Other, Consumable, 1 copper
 { .subtitle }
 
 While lit, a Torch burns for **1** hour and emits **20** feet of Bright Light and Dim Light **20** feet further.

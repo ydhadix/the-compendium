@@ -1,5 +1,5 @@
 ### Map
-1 gold
+Other, 1 gold
 { .subtitle }
 
 A Map represents the terrain for a location.

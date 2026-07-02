@@ -1,5 +1,5 @@
 ### Acid
-25 gold
+Potion, Consumable, 25 gold
 { .subtitle }
 
 Acid comes in a Vial.

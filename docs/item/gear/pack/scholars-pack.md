@@ -1,5 +1,5 @@
 ### Scholar's Pack
-40 gold
+Other, 40 gold
 { .subtitle }
 
 - Backpack

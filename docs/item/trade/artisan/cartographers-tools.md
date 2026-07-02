@@ -1,5 +1,5 @@
 ### Cartographer's Tools
-15 gold
+Tool, 15 gold
 { .subtitle }
 
 | | |

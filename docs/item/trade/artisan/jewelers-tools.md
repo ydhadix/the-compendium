@@ -1,5 +1,5 @@
 ### Jeweler's Tools
-25 gold
+Tool, 25 gold
 { .subtitle }
 
 | | |

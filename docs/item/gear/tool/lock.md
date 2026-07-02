@@ -1,5 +1,5 @@
 ### Lock
-10 gold
+Tool, 10 gold
 { .subtitle }
 
 A Lock comes with a key used to lock or unlock it.
