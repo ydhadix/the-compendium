@@ -1,7 +1,6 @@
 # Character Creation
 
-`Description TBD`
-
+This section walks you through building a character step by step, from choosing your abilities and race to purchasing equipment and finishing your character sheet.
 
 ### 1. Choose Abilities
 Your Abilities start at **0**, the aptitude of a typical human.  When you create your character, increase **4** Abilities by **1** each.

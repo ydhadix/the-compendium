@@ -1,6 +1,6 @@
 # Halfling
 
-`Description TBD`
+Halflings are a small, nimble, and irrepressibly lucky people. They dart between larger creatures, slip out of sight with ease, and rarely give in to fear.
 
 ## Halfling Traits
 
@@ -13,6 +13,8 @@
 | Reach | 5 ft. |
 | Hit Points | 8 |
 | Protections | Fear |
+
+## Halfling Features
 
 ### Naturally Stealth
 You can Hide even when you are obscured only by a creature that is at least one size larger than you.

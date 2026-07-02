@@ -1,6 +1,6 @@
 # Elf
 
-`Description TBD`
+Elves are a graceful, long-lived people, quick of foot and hard to charm. They rest in a waking trance rather than sleep, and each elven lineage carries its own innate magic.
 
 ## Elf Traits
 
@@ -14,6 +14,8 @@
 | Hit Points | 6 |
 | Protections | Charm |
 | Senses | Darkvision (60 ft.) |
+
+## Elf Features
 
 ### Keen Senses
 You have Insight, Perception, or Survival Proficiency.

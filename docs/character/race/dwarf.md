@@ -1,6 +1,6 @@
 # Dwarf
 
-`Description TBD`
+Dwarves are a hardy mountain folk, resistant to poison and hard to knock from their feet, with an innate sense for stone and the precious metals hidden within it.
 
 ## Dwarf Traits
 
@@ -15,6 +15,8 @@
 | Resistances | Poison |
 | Protections | Sickness, Prone |
 | Senses | Darkvision (120 ft.), Tremorsense (30 ft.) |
+
+## Dwarf Features
 
 ### Dwarven Toughness
 Whenever you level up, your Hit Point Maximum increases by **1**.

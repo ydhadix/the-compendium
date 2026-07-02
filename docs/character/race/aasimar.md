@@ -1,6 +1,6 @@
 # Aasimar
 
-`Description TBD`
+Aasimar are mortals touched by celestial power, resistant to necrotic and radiant harm alike. In moments of need they call up a divine revelation, sprouting wings, blazing with holy light, or striking terror into their foes.
 
 ## Aasimar Traits
 
@@ -14,6 +14,8 @@
 | Hit Points | 8 |
 | Resistances | Necrotic and Radiant |
 | Senses | Darkvision (60 ft.) |
+
+## Aasimar Features
 
 ### Divine Revelation
 Bonus Action, 1 use per Long Rest

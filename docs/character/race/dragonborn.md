@@ -1,6 +1,6 @@
 # Dragonborn
 
-`Description TBD`
+Dragonborn carry the blood of dragons, channeling the element of their draconic ancestry and exhaling it as a devastating breath weapon. Some can even take to the air on draconic wings.
 
 ## Dragonborn Traits
 
@@ -14,6 +14,8 @@
 | Hit Points | 10 |
 | Resistances | your Draconic Ancestry Damage |
 | Senses | Darkvision (60 ft.) |
+
+## Dragonborn Features
 
 ### Breath Weapon
 Attack Action, Proficiency Bonus uses per Long Rest

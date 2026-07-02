@@ -1,6 +1,6 @@
 # Orc
 
-`Description TBD`
+Orcs are powerfully built and famously hard to put down, clinging to life when others would fall. A surge of adrenaline lets them charge into the fray with renewed vigor.
 
 ## Orc Traits
 
@@ -14,6 +14,8 @@
 | Hit Points | 12 |
 | Protections | Death |
 | Senses | Darkvision (120 ft.) |
+
+## Orc Features
 
 ### Powerful Build
 Your carry capacity is doubled.

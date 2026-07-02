@@ -1,6 +1,6 @@
 # Tiefling
 
-`Description TBD`
+Tieflings bear the mark of a fiendish bloodline, resistant to their heritage's element and difficult to charm. A silver tongue and inborn fiendish magic come naturally to them.
 
 ## Tiefling Traits
 
@@ -15,6 +15,8 @@
 | Resistances | the chosen Damage Type |
 | Protections | Charm |
 | Senses | Darkvision (60 ft.) |
+
+## Tiefling Features
 
 ### Silver-Tongued
 You have Deception, Intimidation, or Persuasion Proficiency.

@@ -1,6 +1,6 @@
 # Goliath
 
-`Description TBD`
+Goliaths are towering descendants of giants, unnaturally strong and able to briefly grow to giant size. Each giant ancestry grants a different elemental resistance and power.
 
 ## Goliath Traits
 
@@ -14,6 +14,8 @@
 | Hit Points | 10 |
 | Resistances | the chosen Damage Type |
 | Protections | Grapple |
+
+## Goliath Features
 
 ### Powerful Build
 Your carry capacity is doubled.

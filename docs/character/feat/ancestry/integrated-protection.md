@@ -2,8 +2,6 @@
 Prerequisite: Synth
 { .subtitle }
 
-`Description TBD`
-
 #### Integrated Armor
 After a Short Rest, you can don a suit of Armor you have Proficiency with. Until you doff the Armor, it has the following benefits:
 

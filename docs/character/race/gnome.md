@@ -1,6 +1,6 @@
 # Gnome
 
-`Description TBD`
+Gnomes are small, clever folk with resilient minds that shrug off spells. They slip easily out of sight and carry a spark of innate magic.
 
 ## Gnome Traits
 
@@ -14,6 +14,8 @@
 | Hit Points | 6 |
 | Protections | Will Saves |
 | Senses | Darkvision (60 ft.) |
+
+## Gnome Features
 
 ### Naturally Stealth
 You can Hide even when you are obscured only by a creature that is at least one size larger than you.

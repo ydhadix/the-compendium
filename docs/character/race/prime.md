@@ -1,6 +1,6 @@
 # Prime
 
-`Description TBD`
+Primes are what other worlds would simply call humans — ordinary folk with no supernatural gifts, defined instead by their adaptability. Resourceful and quick to learn, they bend fate in their favor and can turn their hand to nearly any pursuit.
 
 ## Prime Traits
 
@@ -12,6 +12,8 @@
 | Speed | 30 ft. |
 | Reach | 5 ft. |
 | Hit Points | 8 |
+
+## Prime Features
 
 ### Resourceful
 Free Action, 1 use per Long Rest
