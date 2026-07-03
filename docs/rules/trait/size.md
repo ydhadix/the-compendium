@@ -1,6 +1,8 @@
 # Size
+Every creature has a Size Category, which determines the space it occupies.
+{ .subtitle }
 
-Every creature has a Size Category, which determines the space it occupies. Your space is the area you control and need to fight and move effectively. Your race sets your Size Category, though Spells and other effects can make you larger or smaller.
+Your space is the area you control and need to fight and move effectively. Your race sets your Size Category, though Spells and other effects can make you larger or smaller.
 
 | Size Category | Space (feet) | Space (squares) |
 |---|---|---|

@@ -48,6 +48,10 @@ exclude_docs: |            # files/folders in docs/ that we don't want compiled
   !item/trade/artisan/index.md
   item/material/*.md
   !item/material/index.md
+  rules/condition/*.md
+  !rules/condition/index.md
+  rules/encounter/action/*.md
+  !rules/encounter/action/index.md
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
   character/feat/*/*
@@ -55,9 +59,9 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   class/*/*/*
   item/*/*/*
   magic-item/infusion/*/*
-  rules/action/normal/*
+  rules/encounter/action/*
   rules/condition/*
-  rules/environment/hazard/*
+  rules/adventure/hazard/*
   spelljammer/*/*/*
   spell/level/*/*
   archive/*/*
@@ -107,37 +111,39 @@ nav:
         - Rerolls:                rules/dice/reroll.md
         - Critical Hits:          rules/dice/critical.md
       - Defenses:
-        - Overview:               rules/trait/defense/index.md
-        - Armor Class:            rules/trait/defense/armor-class.md
-        - Hit Points:             rules/trait/defense/hit-point.md
-        - Protection:             rules/trait/defense/protection.md
-        - Evasion:                rules/trait/defense/evasion.md
-        - Damage Resistance:      rules/trait/defense/resistance.md
-        - Damage Reduction:       rules/trait/defense/reduction.md
-        - Damage Threshold:       rules/trait/defense/threshold.md
+        - Overview:               rules/defense/index.md
+        - Armor Class:            rules/defense/armor-class.md
+        - Hit Points:             rules/defense/hit-point.md
+        - Protection:             rules/defense/protection.md
+        - Immunity:               rules/defense/immunity.md
+        - Evasion:                rules/defense/evasion.md
+        - Resistance:             rules/defense/resistance.md
+        - Vulnerability:          rules/defense/vulnerability.md
+        - Damage Reduction:       rules/defense/reduction.md
+        - Damage Threshold:       rules/defense/threshold.md
       - Encounters:
         - Overview:               rules/encounter/index.md
         - Initiative:             rules/encounter/initiative.md
         - Rounds and Turns:       rules/encounter/round.md
         - Actions:                rules/encounter/action/index.md
         - Combat:                 rules/encounter/combat.md
-        - Surprise:               rules/encounter/surprise.md
-      - Adventuring:
+        - Surprise (WIP):               rules/encounter/surprise.md
+      - Adventuring (WIP):
         - Overview:               rules/adventure/index.md
-        - Socializing:            rules/adventure/social.md
+        - Socializing (WIP):            rules/adventure/social.md
         - Movement:               rules/adventure/movement.md
         - Visibility:             rules/adventure/lighting.md
         - Cover:                  rules/adventure/cover.md
         - Air Quality:            rules/adventure/air.md
-        - Hazards:                rules/adventure/hazard/index.md
+        - Hazards (WIP):                rules/adventure/hazard/index.md
       - Resting:
         - Overview:               rules/rest/index.md
         - Short Rest:             rules/rest/short.md
         - Travel Rest:            rules/rest/travel.md
         - Long Rest:              rules/rest/long.md
-        - Downtime:               rules/rest/downtime.md
+        - Downtime (WIP):               rules/rest/downtime.md
         - "---": "sep:"
-        - Bastions:               rules/rest/bastion/index.md
+        - Bastions (WIP):               rules/rest/bastion/index.md
       - Conditions:               rules/condition/index.md
 
     - Hero Handbook:

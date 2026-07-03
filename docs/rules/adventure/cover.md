@@ -1,6 +1,6 @@
 # Cover
-
 Cover makes you more difficult to harm if the harmful effect comes from the opposite side of the Cover.
+{ .subtitle }
 
 There are three levels of Cover. If you are behind multiple sources of Cover, only the strongest applies.
 

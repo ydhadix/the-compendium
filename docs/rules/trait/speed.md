@@ -1,10 +1,11 @@
 # Speeds
-
-Your Speed is the maximum distance you can Move on your Turn. Unless noted otherwise, "Speed" refers to your Walk Speed.
-
-A special Speed lets you ignore the normal restrictions on a certain kind of movement. If you have more than one Speed, you can switch between them as you Move. The distance you travel using each Speed can't exceed that Speed's maximum, and your total distance in a Turn can't exceed the largest Speed you used that Turn.
+Your Speed is the maximum distance you can move on your Turn.
+{ .subtitle }
 
 ## Special Speeds
+A Special Speed lets you ignore normal movement restrictions.
+
+If you have more than one Speed, you can switch between them as you Move. The distance you travel using each Speed can't exceed that Speed's maximum, and your total distance in a Turn can't exceed the largest Speed you used that Turn.
 
 ### Climb
 You can traverse vertical surfaces without spending the extra movement that climbing normally costs.

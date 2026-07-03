@@ -1,8 +1,10 @@
 # Dice Rolls
+The three main dice rolls are the Ability Check, the Attack Roll, and the Saving Throw — collectively the D20 Test.
+{ .subtitle }
 
-The three main rolls are the Ability Check, the Attack Roll, and the Saving Throw — collectively the D20 Test. An effect that applies to D20 Tests applies to all three. Whenever you make a D20 Test, you can choose to fail before you roll.
+An effect that applies to D20 Tests applies to all three. Most D20 Tests add an Ability and a Proficiency to the d20 to determine the total; the situation sets which Ability and Proficiency apply.
 
-Most D20 Tests add an Ability and a Proficiency to the d20 to determine the total; the situation sets which Ability and Proficiency apply.
+Whenever you make a D20 Test, you can choose to fail before you roll.
 
 | Dice Rolls | Description |
 |---|---|
@@ -12,10 +14,9 @@ Most D20 Tests add an Ability and a Proficiency to the d20 to determine the tota
 | [Damage Rolls](damage.md) | Rolling the damage an effect deals. |
 | [Advantage / Disadvantage](advantage.md) | Rolling twice and taking the higher or lower result. |
 | [Rerolls](reroll.md) | Replacing a die when an effect lets you reroll. |
-| [Critical Hits](critical.md) | `Description TBD` |
+| [Critical Hits](critical.md) | Rolling a **20** to hit, and its extra effects. |
 
 ## Rolling a 20 or a 1
-
 If you roll a **20** on the d20, the Test succeeds automatically. If you roll a **1**, it fails automatically.
 
 Ability Checks are an exception: some you can never fail, and others you can never succeed, regardless of your bonus.
@@ -27,7 +28,6 @@ Ability Checks are an exception: some you can never fail, and others you can nev
 | Saving Throw | success | fail |
 
 ## Ties Go to the Player
-
 A D20 Test's total is compared to the target's Armor Class or Difficulty Class. On an exact tie, the defender wins — except that a player always wins a tie against the DM. The defender is the creature or effect being attacked or resisting the Test.
 
 | Participants | Winner |

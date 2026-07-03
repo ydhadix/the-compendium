@@ -1,8 +1,8 @@
 # Ability Checks
+When you attempt something with a chance of failure other than an attack, you make an Ability Check to determine the outcome.
+{ .subtitle }
 
-When you attempt something with a chance of failure other than an attack, you make an Ability Check against a Difficulty Class to determine the outcome. To succeed, your total must equal or exceed the DC.
-
-The DM sets the Difficulty Class, or it comes from a contested Ability Check.
+To succeed, your total must equal or exceed the Difficulty Class.  The DM sets the DC, or it comes from a contested Ability Check.
 
 ## Skills
 Most Ability Checks involve a [Skills](../trait/skill.md) — an area of training with a default Ability.  You add your Proficiency Bonus to a Skill Check when you have Proficiency in that Skill.

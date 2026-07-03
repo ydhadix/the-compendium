@@ -1,8 +1,9 @@
 # Senses
-
-A Sense lets you perceive your surroundings in conditions that would otherwise hinder you. Most Senses have a range, in feet; anything beyond that range is unaffected by the Sense.
+A Sense lets you perceive your surroundings in conditions that would otherwise hinder you.
+{ .subtitle }
 
 ## Senses
+Most Senses have a range, in feet; anything beyond that range is unaffected by the Sense.
 
 ### Blindsight
 You can perceive your surroundings without relying on sight. You ignore the Blinded and Invisible conditions, and you ignore Half Cover and Three-Quarters Cover.

@@ -1,6 +1,6 @@
 # Alignment
-
-Your Alignment broadly describes your ethical attitudes and ideals.
+A creature's Alignment broadly describes its ethical attitudes and ideals.
+{ .subtitle }
 
 | | Lawful | Neutral | Chaotic |
 |---|---|---|---|

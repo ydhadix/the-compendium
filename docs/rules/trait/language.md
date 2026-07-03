@@ -1,10 +1,9 @@
 # Languages
-
-Standard Languages are widespread on the Material Plane. Exotic Languages are less common on the Material Plane but more common on the Outer Planes. Other Languages exist, but knowledge of them is rare outside their native speakers; your background or experiences during an adventure may let you learn them.
-
 Knowing a Language means you can speak, read, and write it.
+{ .subtitle }
 
 ## Standard Languages
+Standard Languages are widespread on the Material Plane.
 
 | Language | Typical Speakers |
 |---|---|
@@ -19,6 +18,7 @@ Knowing a Language means you can speak, read, and write it.
 | Orc | Orcs |
 
 ## Exotic Languages
+Exotic Languages are less common on the Material Plane but more common on the Outer Planes.
 
 | Language | Typical Speakers |
 |---|---|
@@ -32,3 +32,6 @@ Knowing a Language means you can speak, read, and write it.
 | Sylvan | Fey |
 | Thieves' Cant | Rogues |
 | Undercommon | Underdark citizens |
+
+## Other Languages
+Other Languages exist, but knowledge of them is rare outside their native speakers.  Your background or experiences during an adventure may let you learn them.

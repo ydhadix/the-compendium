@@ -153,7 +153,7 @@ After you make a Reflex Save to avoid taking damage, you take half damage if you
 ### 8: Self-Restoration
 Forgoing food and drink no longer exhausts you.
 
-After you end your Turn, you can end one of the Charmed, Frightened, or Sickened conditions affecting you.
+After your Turn ends, you can end one of the Charmed, Frightened, or Sickened conditions affecting you.
 
 
 ### 9: Subclass Feature

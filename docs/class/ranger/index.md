@@ -193,6 +193,6 @@ You gain additional options for your [Primal Imprint](#1-primal-imprint).
 
 
 ### 11: Foe Slayer
-After you start your Turn, you can move your Hunter's Mark to a new creature within range.
+After your Turn begins, you can move your Hunter's Mark to a new creature within range.
 
 Before you deal damage to a creature Marked by you, you can end your Hunter's Mark to give the target Vulnerability to that damage _(If the damage was from an Attack, you still add the bonus damage before applying Vulnerability)_.

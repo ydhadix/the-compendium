@@ -1,4 +1,5 @@
 # Reach
+Your Reach is the distance at which you can affect other creatures with Melee Attacks, Items, and some Spells.
+{ .subtitle }
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+Your Reach usually doesn't change, though some Weapons and magical effects can extend it temporarily.

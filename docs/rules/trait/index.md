@@ -1,8 +1,8 @@
 # Character Traits
+Traits are the quantifiable and categorical facts that define a creature — the numbers and keywords on its character sheet.
+{ .subtitle }
 
-Traits are the quantifiable and categorical facts that define a creature — the numbers and keywords on its character sheet. This section covers the Traits shared by every creature.
-
-| Character Traits | Description |
+| Traits | Description |
 |---|---|
 | [Abilities](ability.md) | The six core Abilities and what each governs. |
 | [Proficiency](proficiency.md) | Proficiency tiers and the Proficiency Bonus. |
@@ -13,4 +13,4 @@ Traits are the quantifiable and categorical facts that define a creature — the
 | [Creature Type](creature-type.md) | The broad categories every creature belongs to. |
 | [Alignment](alignment.md) | The nine Alignments of ethical outlook. |
 | [Size](size.md) | Size Categories and the space a creature occupies. |
-| [Reach](reach.md) | `Description TBD` |
+| [Reach](reach.md) | The distance you can affect creatures with Melee Attacks. |

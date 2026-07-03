@@ -1,12 +1,12 @@
 # Proficiency
-
-Proficiency measures your training with a Skill, Trade, Weapon, Armor, or Saving Throw. Each Proficiency has a tier that determines how much of your Proficiency Bonus applies to it.
+Proficiency measures your training with a Skill, Trade, Weapon, Armor, or Saving Throw.
+{ .subtitle }
 
 ## Proficiency Bonus
 Your Proficiency Bonus is based on your [Character Level](../../class/index.md#character-levels).
 
 ## Degrees of Proficiency
-There are three tiers of Proficiency.
+Each Proficiency has a tier that determines how much of your Proficiency Bonus applies to it.
 
 | Tier | Proficiency Bonus |
 |---|---|
