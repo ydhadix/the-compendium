@@ -121,6 +121,7 @@
 --8<-- "spell/level/3/flame-arrows_list.md"
 --8<-- "spell/level/3/fly_list.md"
 --8<-- "spell/level/3/haste_list.md"
+--8<-- "spell/level/3/intellect-fortress_list.md"
 --8<-- "spell/level/3/protection-from-energy_list.md"
 --8<-- "spell/level/3/remove-curse_list.md"
 --8<-- "spell/level/3/revivify_list.md"

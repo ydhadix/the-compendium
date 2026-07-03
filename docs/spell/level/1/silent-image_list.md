@@ -1,0 +1,1 @@
+| [Silent Image](/spell/level/1/silent-image.md) | Illusion | V, S, M | Normal Action | 60 ft. | — | 10 minutes (C) |

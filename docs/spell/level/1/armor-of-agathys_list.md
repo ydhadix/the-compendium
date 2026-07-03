@@ -1,0 +1,1 @@
+| [Armor of Agathys](/spell/level/1/armor-of-agathys.md) | Abjuration | V, S, M | Bonus Action | — | Self | 1 hour |

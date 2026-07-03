@@ -1,0 +1,1 @@
+| [Air Bubble](/spell/level/1/air-bubble.md) | Conjuration | S | Normal Action | 60 ft. | One creature | 24 hours |

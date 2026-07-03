@@ -1,0 +1,1 @@
+| [Rope Trick](/spell/level/2/rope-trick.md) | Transmutation | V, S, M ($) | Normal Action | Reach | — | 1 hour |

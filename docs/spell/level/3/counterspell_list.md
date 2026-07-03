@@ -1,0 +1,1 @@
+| [Counterspell](/spell/level/3/counterspell.md) | Abjuration | S | Reaction | 60 ft. | The casting creature | — |

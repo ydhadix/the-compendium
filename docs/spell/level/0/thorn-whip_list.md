@@ -1,0 +1,1 @@
+| [Thorn Whip](/spell/level/0/thorn-whip.md) | Transmutation | V, S, M | Normal Action | Reach + 25 ft. | One thing | — |

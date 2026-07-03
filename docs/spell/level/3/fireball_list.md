@@ -1,0 +1,1 @@
+| [Fireball](/spell/level/3/fireball.md) | Evocation | V, S, M | Normal Action | 150 ft. | Each creature in a 20-ft. radius Sphere | — |

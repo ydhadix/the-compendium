@@ -1,0 +1,1 @@
+| [Grease](/spell/level/1/grease.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Each creature in a 10-ft. Square on the ground | 1 minute |

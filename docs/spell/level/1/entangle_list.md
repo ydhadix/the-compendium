@@ -1,0 +1,1 @@
+| [Entangle](/spell/level/1/entangle.md) | Conjuration | V, S | Normal Action | 90 ft. | Each creature in a 20-ft. Square on the ground | 1 minute (C) |

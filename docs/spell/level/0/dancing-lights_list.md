@@ -1,0 +1,1 @@
+| [Dancing Lights](/spell/level/0/dancing-lights.md) | Illusion | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |

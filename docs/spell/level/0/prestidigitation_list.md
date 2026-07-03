@@ -1,0 +1,1 @@
+| [Prestidigitation](/spell/level/0/prestidigitation.md) | Transmutation | V, S | Normal Action | 10 ft. | Special | 1 hour |

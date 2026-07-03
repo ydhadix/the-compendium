@@ -1,0 +1,1 @@
+| [Zephyr Strike](/spell/level/1/zephyr-strike.md) | Transmutation | V | Bonus Action | — | Self | 1 minute (C) |

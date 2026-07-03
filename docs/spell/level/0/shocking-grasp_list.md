@@ -1,0 +1,1 @@
+| [Shocking Grasp](/spell/level/0/shocking-grasp.md) | Evocation | V, S | Normal Action | Reach | One thing | Until the end of the target's next Turn |

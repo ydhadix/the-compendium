@@ -1,0 +1,1 @@
+| [Caustic Brew](/spell/level/1/caustic-brew.md) | Evocation | V, S, M | Normal Action | — | Each creature in a 5-ft. × 30-ft. Line | 1 minute (C) |

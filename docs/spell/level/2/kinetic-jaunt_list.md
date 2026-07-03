@@ -1,0 +1,1 @@
+| [Kinetic Jaunt](/spell/level/2/kinetic-jaunt.md) | Transmutation | S | Bonus Action | — | Self | 1 minute (C) |

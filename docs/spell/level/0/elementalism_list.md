@@ -1,0 +1,1 @@
+| [Elementalism](/spell/level/0/elementalism.md) | Transmutation | V, S | Normal Action | 30 ft. | Special | 1 hour |

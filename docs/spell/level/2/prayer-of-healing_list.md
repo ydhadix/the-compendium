@@ -1,0 +1,1 @@
+| [Prayer of Healing](/spell/level/2/prayer-of-healing.md) | Abjuration | V | 10 minutes | 30 ft. | 5 creatures | — |

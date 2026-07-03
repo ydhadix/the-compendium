@@ -1,0 +1,1 @@
+| [Barkskin](/spell/level/2/barkskin.md) | Transmutation | V, S | Bonus Action | Reach | One creature | 1 hour |

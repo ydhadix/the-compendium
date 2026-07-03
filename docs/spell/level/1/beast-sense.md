@@ -1,0 +1,14 @@
+### Beast Sense
+1st-Level Divination
+{ .subtitle }
+
+| | |
+|---|---|
+| Classes | Druid, Ranger |
+| Components | S |
+| Casting Time | Normal Action, or Ritual |
+| Range | Reach |
+| Target | One willing Beast |
+| Duration | 1 hour (Concentration) |
+
+You can see and hear through the target's senses in addition to your own.

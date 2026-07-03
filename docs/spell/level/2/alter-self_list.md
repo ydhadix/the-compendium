@@ -1,0 +1,1 @@
+| [Alter Self](/spell/level/2/alter-self.md) | Transmutation | V, S | Normal Action | — | Self | 1 hour (C) |

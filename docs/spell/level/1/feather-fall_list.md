@@ -1,0 +1,1 @@
+| [Feather Fall](/spell/level/1/feather-fall.md) | Transmutation | V, M | Reaction | 60 ft. | Up to 5 falling creatures | 1 minute |

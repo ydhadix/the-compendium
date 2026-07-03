@@ -1,0 +1,1 @@
+| [Burning Hands](/spell/level/1/burning-hands.md) | Evocation | V, S | Normal Action | Reach | Each creature in a 15-ft. Cone | — |

@@ -1,0 +1,1 @@
+| [Levitate](/spell/level/2/levitate.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One thing | 10 minutes (C) |

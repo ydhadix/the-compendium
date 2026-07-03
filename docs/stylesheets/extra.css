@@ -801,7 +801,7 @@ body {
 }
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.2rem 0.5rem;
+  padding: 0.2rem 0.4rem;
   min-width: 0;
   vertical-align: middle;
   border: 1px solid var(--clr-divider);
@@ -826,6 +826,7 @@ body {
 /* Row labels only */
 .md-typeset table:not([class]) tbody tr > td:first-child {
    font-weight: 700;
+   /* white-space: wrap; */
 }
 /* Corner cell (top-left): the label for the row-label column. */
 .md-typeset table:not([class]) thead tr > th:first-child {

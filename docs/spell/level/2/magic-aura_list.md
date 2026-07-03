@@ -1,0 +1,1 @@
+| [Magic Aura](/spell/level/2/magic-aura.md) | Illusion | V, S, M | Normal Action | Reach | One creature or object | 24 hours |

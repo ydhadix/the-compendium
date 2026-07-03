@@ -1,0 +1,1 @@
+| [Compelled Duel](/spell/level/1/compelled-duel.md) | Enchantment | V | Bonus Action | 30 ft. | One creature | 1 minute (C) |

@@ -1,0 +1,1 @@
+| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Normal Action | — | Each creature in a 10-ft. Aura | 10 minutes (C) |

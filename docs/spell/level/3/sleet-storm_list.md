@@ -1,0 +1,1 @@
+| [Sleet Storm](/spell/level/3/sleet-storm.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Each creature in a 20-ft. radius, 40-ft. Cylinder | 1 minute (C) |

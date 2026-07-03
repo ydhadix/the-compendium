@@ -1,0 +1,1 @@
+| [Spare the Dying](/spell/level/0/spare-the-dying.md) | Necromancy | V, S | Normal Action | 15 ft. | One Downed creature | — |

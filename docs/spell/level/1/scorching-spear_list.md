@@ -1,0 +1,1 @@
+| [Scorching Spear](/spell/level/1/scorching-spear.md) | Evocation | V, S, M | Normal Action | Reach | Each creature in a 5-ft. × 30-ft. Line | — |

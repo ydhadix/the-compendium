@@ -1,0 +1,1 @@
+| [Sapping Sting](/spell/level/0/sapping-sting.md) | Necromancy | V, S | Normal Action | 30 ft. | One thing | — |

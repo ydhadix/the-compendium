@@ -1,0 +1,1 @@
+| [Detect Portal](/spell/level/1/detect-portal.md) | Divination | V, S, M | Normal Action | 30 ft. | Self | 10 minutes (C) |

@@ -1,0 +1,1 @@
+| [Suggestion](/spell/level/2/suggestion.md) | Enchantment | V, M | Normal Action | 30 ft. | One creature who understands you | 8 hours (C) |

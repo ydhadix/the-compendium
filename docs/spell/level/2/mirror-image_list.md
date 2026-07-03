@@ -1,0 +1,1 @@
+| [Mirror Image](/spell/level/2/mirror-image.md) | Illusion | V, S | Normal Action | — | Self | 1 minute |

@@ -1,0 +1,1 @@
+| [False Life](/spell/level/1/false-life.md) | Necromancy | V, S, M | Normal Action | — | Self | — |

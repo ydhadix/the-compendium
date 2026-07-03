@@ -1,0 +1,1 @@
+| [Mass Healing Word](/spell/level/3/mass-healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | Up to six creatures | — |

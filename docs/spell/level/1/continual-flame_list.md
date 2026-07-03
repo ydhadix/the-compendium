@@ -1,0 +1,1 @@
+| [Continual Flame](/spell/level/1/continual-flame.md) | Evocation | V, S, M ($C) | Normal Action | Reach | One object | Until dispelled |

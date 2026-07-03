@@ -1,0 +1,1 @@
+| [Floating Disk](/spell/level/1/floating-disk.md) | Conjuration | V, S, M | Normal Action | 30 ft. | — | 1 hour |

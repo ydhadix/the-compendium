@@ -1,0 +1,1 @@
+| [Divine Smite](/spell/level/1/divine-smite.md) | Evocation | V | Free Action | — | The target of the attack | — |

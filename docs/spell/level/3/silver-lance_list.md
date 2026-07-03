@@ -1,0 +1,1 @@
+| [Silver Lance](/spell/level/3/silver-lance.md) | Evocation | V, S, M ($) | Normal Action | — | Each creature in a 5-ft. × 120-ft. Line | — |

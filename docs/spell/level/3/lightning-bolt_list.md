@@ -1,0 +1,1 @@
+| [Lightning Bolt](/spell/level/3/lightning-bolt.md) | Evocation | V, S, M | Normal Action | Reach | Each creature in a 5-ft. × 100-ft. Line | — |

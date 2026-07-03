@@ -1,0 +1,1 @@
+| [Fire Bolt](/spell/level/0/fire-bolt.md) | Evocation | V, S, M | Normal Action | 120 ft. | One thing | 1 minute |

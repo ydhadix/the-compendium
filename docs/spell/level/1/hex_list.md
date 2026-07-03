@@ -1,0 +1,1 @@
+| [Hex](/spell/level/1/hex.md) | Enchantment | V | Bonus Action | 90 ft. | One creature | 1 hour (C) |

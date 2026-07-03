@@ -1,0 +1,1 @@
+| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Each creature in a 15-ft. radius Sphere | 10 minutes (C) |

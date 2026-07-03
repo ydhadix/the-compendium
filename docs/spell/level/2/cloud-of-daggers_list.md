@@ -1,0 +1,1 @@
+| [Cloud of Daggers](/spell/level/2/cloud-of-daggers.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Each creature in a 5-ft. Cube | 1 minute (C) |

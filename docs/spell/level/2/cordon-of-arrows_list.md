@@ -1,0 +1,1 @@
+| [Cordon of Arrows](/spell/level/2/cordon-of-arrows.md) | Transmutation | V, S, M | Normal Action | Reach | Each creature in a 30-ft. radius Sphere | 8 hours |

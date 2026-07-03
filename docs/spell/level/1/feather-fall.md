@@ -1,0 +1,18 @@
+### Feather Fall
+1st-Level Transmutation
+{ .subtitle }
+
+| | |
+|---|---|
+| Classes | Artificer, Bard, Sorcerer, Wizard |
+| Components | V, M |
+| Casting Time | Reaction, when a creature falls |
+| Range | 60 ft. |
+| Target | Up to 5 falling creatures |
+| Duration | 1 minute |
+
+The target's descent slows to **60** feet. When the target lands, it takes no damage from the fall and this Spell ends on it.
+
+##### At Higher Levels
+
+Add **1** target per additional Spell Level.

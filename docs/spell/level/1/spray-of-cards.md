@@ -1,0 +1,23 @@
+### Spray of Cards
+1st-Level Conjuration
+{ .subtitle }
+
+| | |
+|---|---|
+| Classes | Artificer, Bard, Sorcerer, Wizard |
+| Components | V, S, M |
+| Casting Time | Normal Action |
+| Range | Reach |
+| Target | Each creature in a 15-ft. Cone |
+| Duration | Until the end of your next Turn |
+
+Each creature in a **15**-foot Cone makes a Reflex Save.
+
+| | |
+|---|---|
+| Fail | You deal **2d10** Force Damage. |
+| Success | You deal half as much damage. |
+
+##### At Higher Levels
+
+Add **1d10** Force Damage and **15** feet of Cone size per additional Spell Level.

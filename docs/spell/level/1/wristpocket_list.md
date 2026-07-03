@@ -1,0 +1,1 @@
+| [Wristpocket](/spell/level/1/wristpocket.md) | Conjuration | S | Normal Action | Reach | One object that weighs 5 pounds or less | 1 hour (C) |

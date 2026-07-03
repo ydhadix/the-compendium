@@ -1,0 +1,1 @@
+| [Wall of Sand](/spell/level/3/wall-of-sand.md) | Evocation | V, S, M | Normal Action | 90 ft. | — | 10 minutes (C) |

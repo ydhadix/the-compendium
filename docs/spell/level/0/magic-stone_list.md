@@ -1,0 +1,1 @@
+| [Magic Stone](/spell/level/0/magic-stone.md) | Transmutation | V, S | Bonus Action | Reach | Up to three pebbles | 1 minute |

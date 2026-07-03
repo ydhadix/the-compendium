@@ -1,0 +1,1 @@
+| [Spray of Cards](/spell/level/1/spray-of-cards.md) | Conjuration | V, S, M | Normal Action | Reach | Each creature in a 15-ft. Cone | Until the end of your next Turn |

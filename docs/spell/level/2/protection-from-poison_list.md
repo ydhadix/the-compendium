@@ -1,0 +1,1 @@
+| [Protection from Poison](/spell/level/2/protection-from-poison.md) | Abjuration | V, S | Normal Action | Reach | One creature | 1 hour |

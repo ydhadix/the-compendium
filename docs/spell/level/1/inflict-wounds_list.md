@@ -1,0 +1,1 @@
+| [Inflict Wounds](/spell/level/1/inflict-wounds.md) | Necromancy | V, S | Normal Action | Reach | One thing | — |

@@ -1,0 +1,1 @@
+| [Arcane Vigor](/spell/level/1/arcane-vigor.md) | Abjuration | V, S | Bonus Action | — | Self | — |

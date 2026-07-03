@@ -1,0 +1,1 @@
+| [Animate Dead](/spell/level/3/animate-dead.md) | Necromancy | V, S, M | 1 minute | 10 ft. | One humanoid corpse, or up to 4 Undead | 24 hours |

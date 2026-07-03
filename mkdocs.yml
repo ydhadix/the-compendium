@@ -67,6 +67,10 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   archive/*/*
   archive/*
 
+validation:
+  links:
+    absolute_links: relative_to_docs   # resolve /spell/... links in _list snippets per host page
+
 hooks:
   - overrides/navtools.py     # nav rules for the mega-menu + left ToC (shared)
 
@@ -274,11 +278,11 @@ nav:
         - Artifacts:              magic-item/infusion/artifact/index.md
         - Unique:                 magic-item/infusion/unique/index.md
 
-    - Spell Selection (WIP):
+    - Spell Selection:
       - Overview:                 spell/index.md
-      - Preparing Spells:         spell/preparing.md
-      - Casting Spells:           spell/casting.md
-      - Parts of a Spell:
+      - Preparing Spells (WIP):         spell/preparing.md
+      - Casting Spells (WIP):           spell/casting.md
+      - Parts of a Spell (WIP):
         - Overview:               spell/part/index.md
         - Spell Level:            spell/part/spell-level.md
         - Class List:             spell/part/spell-list.md
@@ -295,10 +299,10 @@ nav:
         - Cantrips:               spell/level/0/index.md
         - 1st-Level:              spell/level/1/index.md
         - 2nd-Level:              spell/level/2/index.md
-        - 3rd-Level:              spell/level/3/index.md
-        - 4th-Level:              spell/level/4/index.md
-        - 5th-Level:              spell/level/5/index.md
-        - 6th-Level:              spell/level/6/index.md
+        - 3rd-Level (WIP):              spell/level/3/index.md
+        - 4th-Level (WIP):              spell/level/4/index.md
+        - 5th-Level (WIP):              spell/level/5/index.md
+        - 6th-Level (WIP):              spell/level/6/index.md
 
     - Spelljammer Schematic (WIP):
       - Overview:                 spelljammer/index.md

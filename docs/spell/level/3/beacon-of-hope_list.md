@@ -1,0 +1,1 @@
+| [Beacon of Hope](/spell/level/3/beacon-of-hope.md) | Abjuration | V, S | Normal Action | 30 ft. | Any creatures | 1 minute (C) |

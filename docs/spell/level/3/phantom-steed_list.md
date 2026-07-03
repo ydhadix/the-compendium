@@ -1,0 +1,1 @@
+| [Phantom Steed](/spell/level/3/phantom-steed.md) | Illusion | V, S | 1 minute | 30 ft. | — | 1 hour |

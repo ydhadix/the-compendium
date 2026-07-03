@@ -1,0 +1,1 @@
+| [Blur](/spell/level/2/blur.md) | Illusion | V | Normal Action | — | Self | 1 minute (C) |

@@ -1,0 +1,1 @@
+| [Plant Growth](/spell/level/3/plant-growth.md) | Transmutation | V, S | Normal Action | 150 ft. | Special | — |

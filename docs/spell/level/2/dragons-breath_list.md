@@ -1,0 +1,1 @@
+| [Dragon's Breath](/spell/level/2/dragons-breath.md) | Transmutation | V, S, M | Bonus Action | Reach | One creature | 1 minute (C) |

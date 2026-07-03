@@ -1,0 +1,1 @@
+| [Detect Traps](/spell/level/1/detect-traps.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes |

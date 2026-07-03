@@ -1,0 +1,1 @@
+| [Friends](/spell/level/0/friends.md) | Enchantment | S, M | Normal Action | 10 ft. | One humanoid | 1 minute (C) |

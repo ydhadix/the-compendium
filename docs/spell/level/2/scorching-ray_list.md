@@ -1,0 +1,1 @@
+| [Scorching Ray](/spell/level/2/scorching-ray.md) | Evocation | V, S | Normal Action | 120 ft. | Up to 3 creatures or objects | — |

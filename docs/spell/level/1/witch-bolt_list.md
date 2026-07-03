@@ -1,0 +1,1 @@
+| [Witch Bolt](/spell/level/1/witch-bolt.md) | Evocation | V, S, M | Normal Action | 60 ft. | One thing | 1 minute (C) |

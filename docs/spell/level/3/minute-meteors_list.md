@@ -1,0 +1,1 @@
+| [Minute Meteors](/spell/level/3/minute-meteors.md) | Evocation | V, S, M | Normal Action | 120 ft. | Self | 10 minutes (C) |

@@ -1,0 +1,1 @@
+| [Color Spray](/spell/level/1/color-spray.md) | Illusion | V, S, M | Normal Action | Reach | Each creature in a 15-ft. Cone | Until the end of your next Turn |

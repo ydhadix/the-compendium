@@ -1,0 +1,1 @@
+| [Sword Burst](/spell/level/0/sword-burst.md) | Conjuration | V, S | Normal Action | — | Each creature in a 5-ft. Aura | — |

@@ -1,0 +1,1 @@
+| [Gentle Repose](/spell/level/2/gentle-repose.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One corpse | 10 days |

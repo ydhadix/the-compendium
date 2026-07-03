@@ -1,0 +1,1 @@
+| [Magnify Gravity](/spell/level/1/magnify-gravity.md) | Transmutation | V, S | Normal Action | 60 ft. | Each creature in a 10-ft. radius Sphere | Until the end of your next Turn |

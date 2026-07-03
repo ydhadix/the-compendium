@@ -1,0 +1,1 @@
+| [Arms of Hadar](/spell/level/1/arms-of-hadar.md) | Conjuration | V, S | Normal Action | — | Each creature in a 10-ft. Aura | Until the end of the target's next Turn |

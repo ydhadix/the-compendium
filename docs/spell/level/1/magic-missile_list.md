@@ -1,0 +1,1 @@
+| [Magic Missile](/spell/level/1/magic-missile.md) | Evocation | V, S | Normal Action | 120 ft. | Up to 3 creatures or objects | — |

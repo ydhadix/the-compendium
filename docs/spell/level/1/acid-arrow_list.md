@@ -1,0 +1,1 @@
+| [Acid Arrow](/spell/level/1/acid-arrow.md) | Evocation | V, S, M | Normal Action | 90 ft. | One thing | — |

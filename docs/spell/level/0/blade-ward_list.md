@@ -1,0 +1,1 @@
+| [Blade Ward](/spell/level/0/blade-ward.md) | Abjuration | V, S | Normal Action | — | Self | 1 minute (C) |

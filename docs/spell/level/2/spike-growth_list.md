@@ -1,0 +1,1 @@
+| [Spike Growth](/spell/level/2/spike-growth.md) | Transmutation | V, S, M | Normal Action | 150 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |

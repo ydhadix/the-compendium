@@ -1,0 +1,27 @@
+### Detect Thoughts
+2nd-Level Divination
+{ .subtitle }
+
+| | |
+|---|---|
+| Classes | Bard, Sorcerer, Wizard |
+| Components | V, S, M |
+| Casting Time | Normal Action |
+| Range | 30 ft. |
+| Target | Self |
+| Duration | 1 minute (Concentration) |
+
+You sense the presence of any creatures that understand a language.
+
+This Spell is blocked by **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
+
+As a Magic Action, you mentally target a creature that understands a language and learn what is most on its mind right now.
+
+As a Magic Action, you mentally target a creature that understands a language. It makes a Will Save.
+
+| | |
+|---|---|
+| Fail | You learn the target's reasoning, emotional state, and something that looms large in its mind. |
+| Success | This Spell ends. |
+
+Before the target's Turn ends, it repeats this Save, ending this Spell on a success.

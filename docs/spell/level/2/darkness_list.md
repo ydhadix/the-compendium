@@ -1,0 +1,1 @@
+| [Darkness](/spell/level/2/darkness.md) | Evocation | V, M | Normal Action | 60 ft. | A 15-ft. radius Sphere, or one object | 10 minutes (C) |

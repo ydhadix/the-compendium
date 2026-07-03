@@ -1,0 +1,1 @@
+| [Magic Weapon](/spell/level/2/magic-weapon.md) | Transmutation | V, S | Bonus Action | Reach | One weapon | 1 hour |

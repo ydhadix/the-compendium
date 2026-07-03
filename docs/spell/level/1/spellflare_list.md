@@ -1,0 +1,1 @@
+| [Spellflare](/spell/level/1/spellflare.md) | Evocation | V, S | Normal Action | 60 ft. | One thing | — |

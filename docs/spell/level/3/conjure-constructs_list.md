@@ -1,0 +1,1 @@
+| [Conjure Constructs](/spell/level/3/conjure-constructs.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Each creature in a 5-ft. radius Sphere | 10 minutes (C) |

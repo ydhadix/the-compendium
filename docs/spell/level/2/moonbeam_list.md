@@ -1,0 +1,1 @@
+| [Moonbeam](/spell/level/2/moonbeam.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Each creature in a 5-ft. radius, 40-ft. Cylinder | 1 minute (C) |

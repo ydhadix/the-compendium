@@ -1,0 +1,1 @@
+| [Vicious Mockery](/spell/level/0/vicious-mockery.md) | Enchantment | V | Normal Action | 60 ft. | One thing | Until the end of your next Turn |

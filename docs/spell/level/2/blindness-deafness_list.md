@@ -1,0 +1,1 @@
+| [Blindness/Deafness](/spell/level/2/blindness-deafness.md) | Transmutation | V | Normal Action | 120 ft. | One creature | 1 minute |

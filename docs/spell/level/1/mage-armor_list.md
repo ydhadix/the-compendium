@@ -1,0 +1,1 @@
+| [Mage Armor](/spell/level/1/mage-armor.md) | Abjuration | V, S, M | Normal Action | Reach | One creature | 8 hours |

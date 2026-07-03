@@ -6,9 +6,6 @@
 | [1st-Level](#1st-level) |
 | [2nd-Level](#2nd-level) |
 | [3rd-Level](#3rd-level) |
-| [4th-Level](#4th-level) |
-| [5th-Level](#5th-level) |
-| [6th-Level](#6th-level) |
 
 - Components with `($)` require valuable components. Components with `($C)` consume those components.
 - Cast Times with `(R)` can be cast as a Ritual.
@@ -18,33 +15,151 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
+--8<-- "spell/level/0/acid-splash_list.md"
+--8<-- "spell/level/0/blade-ward_list.md"
+--8<-- "spell/level/0/booming-blade_list.md"
+--8<-- "spell/level/0/chill-touch_list.md"
+--8<-- "spell/level/0/dancing-lights_list.md"
+--8<-- "spell/level/0/elementalism_list.md"
+--8<-- "spell/level/0/fire-bolt_list.md"
+--8<-- "spell/level/0/friends_list.md"
+--8<-- "spell/level/0/frostbite_list.md"
+--8<-- "spell/level/0/greenflame-blade_list.md"
+--8<-- "spell/level/0/light_list.md"
+--8<-- "spell/level/0/lightning-lure_list.md"
+--8<-- "spell/level/0/mage-hand_list.md"
+--8<-- "spell/level/0/mending_list.md"
+--8<-- "spell/level/0/message_list.md"
+--8<-- "spell/level/0/mind-sliver_list.md"
+--8<-- "spell/level/0/minor-illusion_list.md"
+--8<-- "spell/level/0/poison-spray_list.md"
+--8<-- "spell/level/0/prestidigitation_list.md"
+--8<-- "spell/level/0/produce-flame_list.md"
+--8<-- "spell/level/0/ray-of-frost_list.md"
+--8<-- "spell/level/0/sapping-sting_list.md"
+--8<-- "spell/level/0/shocking-grasp_list.md"
+--8<-- "spell/level/0/sorcerous-burst_list.md"
+--8<-- "spell/level/0/sword-burst_list.md"
+--8<-- "spell/level/0/thunderclap_list.md"
+--8<-- "spell/level/0/true-strike_list.md"
 
 ## 1st-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
+--8<-- "spell/level/1/absorb-elements_list.md"
+--8<-- "spell/level/1/air-bubble_list.md"
+--8<-- "spell/level/1/arcane-vigor_list.md"
+--8<-- "spell/level/1/binding-ice_list.md"
+--8<-- "spell/level/1/burning-hands_list.md"
+--8<-- "spell/level/1/catapult_list.md"
+--8<-- "spell/level/1/charm-person_list.md"
+--8<-- "spell/level/1/chromatic-orb_list.md"
+--8<-- "spell/level/1/color-spray_list.md"
+--8<-- "spell/level/1/comprehend-languages_list.md"
+--8<-- "spell/level/1/darkvision_list.md"
+--8<-- "spell/level/1/detect-magic_list.md"
+--8<-- "spell/level/1/disguise-self_list.md"
+--8<-- "spell/level/1/earth-tremor_list.md"
+--8<-- "spell/level/1/earthbind_list.md"
+--8<-- "spell/level/1/expeditious-retreat_list.md"
+--8<-- "spell/level/1/false-life_list.md"
+--8<-- "spell/level/1/feather-fall_list.md"
+--8<-- "spell/level/1/fog-cloud_list.md"
+--8<-- "spell/level/1/grease_list.md"
+--8<-- "spell/level/1/ice-knife_list.md"
+--8<-- "spell/level/1/jump_list.md"
+--8<-- "spell/level/1/mage-armor_list.md"
+--8<-- "spell/level/1/magic-missile_list.md"
+--8<-- "spell/level/1/magnify-gravity_list.md"
+--8<-- "spell/level/1/ray-of-sickness_list.md"
+--8<-- "spell/level/1/scorching-spear_list.md"
+--8<-- "spell/level/1/shield_list.md"
+--8<-- "spell/level/1/silent-image_list.md"
+--8<-- "spell/level/1/sleep_list.md"
+--8<-- "spell/level/1/spellflare_list.md"
+--8<-- "spell/level/1/spray-of-cards_list.md"
+--8<-- "spell/level/1/thunderwave_list.md"
+--8<-- "spell/level/1/witch-bolt_list.md"
 
 ## 2nd-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
+--8<-- "spell/level/2/alter-self_list.md"
+--8<-- "spell/level/2/blindness-deafness_list.md"
+--8<-- "spell/level/2/blur_list.md"
+--8<-- "spell/level/2/cloud-of-daggers_list.md"
+--8<-- "spell/level/2/crown-of-madness_list.md"
+--8<-- "spell/level/2/darkness_list.md"
+--8<-- "spell/level/2/death-armor_list.md"
+--8<-- "spell/level/2/detect-thoughts_list.md"
+--8<-- "spell/level/2/dragons-breath_list.md"
+--8<-- "spell/level/2/dust-devil_list.md"
+--8<-- "spell/level/2/earthen-grasp_list.md"
+--8<-- "spell/level/2/enhance-ability_list.md"
+--8<-- "spell/level/2/enlarge-reduce_list.md"
+--8<-- "spell/level/2/flame-blade_list.md"
+--8<-- "spell/level/2/flaming-sphere_list.md"
+--8<-- "spell/level/2/fortunes-favor_list.md"
+--8<-- "spell/level/2/gust-of-wind_list.md"
+--8<-- "spell/level/2/hold-person_list.md"
+--8<-- "spell/level/2/kinetic-jaunt_list.md"
+--8<-- "spell/level/2/knock_list.md"
+--8<-- "spell/level/2/lesser-invisibility_list.md"
+--8<-- "spell/level/2/levitate_list.md"
+--8<-- "spell/level/2/magic-weapon_list.md"
+--8<-- "spell/level/2/mind-spike_list.md"
+--8<-- "spell/level/2/mind-whip_list.md"
+--8<-- "spell/level/2/mirror-image_list.md"
+--8<-- "spell/level/2/misty-step_list.md"
+--8<-- "spell/level/2/phantasmal-force_list.md"
+--8<-- "spell/level/2/pyrotechnics_list.md"
+--8<-- "spell/level/2/scorching-ray_list.md"
+--8<-- "spell/level/2/see-invisibility_list.md"
+--8<-- "spell/level/2/shadow-blade_list.md"
+--8<-- "spell/level/2/shatter_list.md"
+--8<-- "spell/level/2/snowball-swarm_list.md"
+--8<-- "spell/level/2/spider-climb_list.md"
+--8<-- "spell/level/2/suggestion_list.md"
+--8<-- "spell/level/2/vortex-warp_list.md"
+--8<-- "spell/level/2/warding-wind_list.md"
+--8<-- "spell/level/2/web_list.md"
 
 ## 3rd-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-
-## 4th-Level
-
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-
-## 5th-Level
-
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-
-## 6th-Level
-
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+--8<-- "spell/level/3/antagonize_list.md"
+--8<-- "spell/level/3/blink_list.md"
+--8<-- "spell/level/3/cacophonic-shield_list.md"
+--8<-- "spell/level/3/clairvoyance_list.md"
+--8<-- "spell/level/3/counterspell_list.md"
+--8<-- "spell/level/3/daylight_list.md"
+--8<-- "spell/level/3/dispel-magic_list.md"
+--8<-- "spell/level/3/enemies-abound_list.md"
+--8<-- "spell/level/3/erupting-earth_list.md"
+--8<-- "spell/level/3/fear_list.md"
+--8<-- "spell/level/3/fireball_list.md"
+--8<-- "spell/level/3/flame-arrows_list.md"
+--8<-- "spell/level/3/fly_list.md"
+--8<-- "spell/level/3/gaseous-form_list.md"
+--8<-- "spell/level/3/haste_list.md"
+--8<-- "spell/level/3/hypnotic-pattern_list.md"
+--8<-- "spell/level/3/intellect-fortress_list.md"
+--8<-- "spell/level/3/lightning-bolt_list.md"
+--8<-- "spell/level/3/major-image_list.md"
+--8<-- "spell/level/3/minute-meteors_list.md"
+--8<-- "spell/level/3/protection-from-energy_list.md"
+--8<-- "spell/level/3/scorching-stride_list.md"
+--8<-- "spell/level/3/silver-lance_list.md"
+--8<-- "spell/level/3/sleet-storm_list.md"
+--8<-- "spell/level/3/slow_list.md"
+--8<-- "spell/level/3/stinking-cloud_list.md"
+--8<-- "spell/level/3/thunder-step_list.md"
+--8<-- "spell/level/3/tidal-wave_list.md"
+--8<-- "spell/level/3/tongues_list.md"
+--8<-- "spell/level/3/vampiric-touch_list.md"
+--8<-- "spell/level/3/wall-of-water_list.md"
+--8<-- "spell/level/3/water-breathing_list.md"
+--8<-- "spell/level/3/water-walk_list.md"

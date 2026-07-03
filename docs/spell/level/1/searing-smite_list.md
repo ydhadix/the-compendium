@@ -1,0 +1,1 @@
+| [Searing Smite](/spell/level/1/searing-smite.md) | Evocation | V | Bonus Action | — | The target of the attack | 1 minute |

@@ -1,0 +1,1 @@
+| [Mending](/spell/level/0/mending.md) | Transmutation | V, S, M | 1 minute | Reach | One broken object | — |

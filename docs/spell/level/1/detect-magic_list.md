@@ -1,0 +1,1 @@
+| [Detect Magic](/spell/level/1/detect-magic.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes (C) |

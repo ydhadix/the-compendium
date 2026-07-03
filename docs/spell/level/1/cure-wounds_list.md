@@ -1,0 +1,1 @@
+| [Cure Wounds](/spell/level/1/cure-wounds.md) | Abjuration | V, S | Normal Action | Reach | One creature | — |

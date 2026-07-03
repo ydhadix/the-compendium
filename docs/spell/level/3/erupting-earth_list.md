@@ -1,0 +1,1 @@
+| [Erupting Earth](/spell/level/3/erupting-earth.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Each creature in a 20-ft. Cube | — |

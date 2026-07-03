@@ -1,0 +1,1 @@
+| [Absorb Elements](/spell/level/1/absorb-elements.md) | Abjuration | S | Reaction | — | Self | Until the end of your next Turn |

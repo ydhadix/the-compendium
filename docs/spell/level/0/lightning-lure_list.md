@@ -1,0 +1,1 @@
+| [Lightning Lure](/spell/level/0/lightning-lure.md) | Evocation | V | Normal Action | 30 ft. | One thing | — |

@@ -1,0 +1,1 @@
+| [Shield](/spell/level/1/shield.md) | Abjuration | V, S | Reaction | — | Self | Until the end of your next Turn |

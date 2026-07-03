@@ -1,0 +1,1 @@
+| [Ensnaring Strike](/spell/level/1/ensnaring-strike.md) | Conjuration | V | Bonus Action | — | The target of the attack | 1 minute (C) |

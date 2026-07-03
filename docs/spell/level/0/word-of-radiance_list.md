@@ -1,0 +1,1 @@
+| [Word of Radiance](/spell/level/0/word-of-radiance.md) | Evocation | V, M | Normal Action | — | Each creature in a 5-ft. Aura | — |

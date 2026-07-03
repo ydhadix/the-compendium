@@ -1,0 +1,1 @@
+| [Speak with Animals](/spell/level/1/speak-with-animals.md) | Divination | V, S | Normal Action | — | Self | 10 minutes |

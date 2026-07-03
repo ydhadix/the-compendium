@@ -1,0 +1,1 @@
+| [Misty Step](/spell/level/2/misty-step.md) | Conjuration | V | Bonus Action | 30 ft. | Self | — |

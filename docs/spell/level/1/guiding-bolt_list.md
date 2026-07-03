@@ -1,0 +1,1 @@
+| [Guiding Bolt](/spell/level/1/guiding-bolt.md) | Evocation | V, S | Normal Action | 120 ft. | One thing | Until the end of your next Turn |

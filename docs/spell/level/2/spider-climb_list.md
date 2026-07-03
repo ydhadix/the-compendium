@@ -1,0 +1,1 @@
+| [Spider Climb](/spell/level/2/spider-climb.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour (C) |

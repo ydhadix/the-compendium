@@ -1,0 +1,1 @@
+| [Darkvision](/spell/level/1/darkvision.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 8 hours |

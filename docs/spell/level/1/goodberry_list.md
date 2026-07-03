@@ -1,0 +1,1 @@
+| [Goodberry](/spell/level/1/goodberry.md) | Conjuration | V, S, M | Normal Action | — | — | 24 hours |

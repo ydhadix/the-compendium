@@ -1,0 +1,1 @@
+| [Greenflame Blade](/spell/level/0/greenflame-blade.md) | Evocation | S, M | Normal Action | The material component's Reach | One thing | — |

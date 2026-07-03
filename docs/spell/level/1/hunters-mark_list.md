@@ -1,0 +1,1 @@
+| [Hunter's Mark](/spell/level/1/hunters-mark.md) | Divination | V | Bonus Action | 90 ft. | One creature | 1 hour (C) |

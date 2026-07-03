@@ -1,0 +1,1 @@
+| [Catapult](/spell/level/1/catapult.md) | Transmutation | S | Normal Action | 60 ft. | One thing that weighs 5 pounds or less and isn't worn or carried | — |

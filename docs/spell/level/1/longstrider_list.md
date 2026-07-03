@@ -1,0 +1,1 @@
+| [Longstrider](/spell/level/1/longstrider.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour |

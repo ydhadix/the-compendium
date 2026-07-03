@@ -1,0 +1,1 @@
+| [Cause Fear](/spell/level/1/cause-fear.md) | Enchantment | V | Normal Action | 60 ft. | One creature | 1 minute (C) |

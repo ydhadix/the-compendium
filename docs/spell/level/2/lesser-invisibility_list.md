@@ -1,0 +1,1 @@
+| [Lesser Invisibility](/spell/level/2/lesser-invisibility.md) | Illusion | V, S, M | Normal Action | Reach | One thing | 1 hour (C) |
