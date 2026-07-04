@@ -34,18 +34,42 @@
 
 {#- Banner across the very top of the page: a single full-width image, linked home.
     A page can pin its banner with `banner: <file>` in its front matter (a file in
-    images/banners/); otherwise banner.js picks one at random from data-banners on
-    load. The src here is the chosen/fallback image, shown if JS is off. -#}
+    images/banners/); otherwise one is chosen at random per page load. The choice is
+    made synchronously as the page parses (inline script below), so the chosen image
+    is the only banner the browser fetches — no fallback flash. odyssey is shown only
+    on error or with JS disabled (<noscript>). -#}
 {% block announce %}
   {%- set banner_base = 'images/banners/' -%}
   {%- set page_banner = page.meta.banner if page and page.meta else none -%}
   <a class="pm-banner-link" href="{{ '.' | url }}" aria-label="{{ config.site_name }} — home">
+    {%- if page_banner %}
     <img class="pm-banner-img"
-         src="{{ (banner_base ~ (page_banner or config.extra.banner_fallback)) | url }}"
-         alt="{{ config.site_name }}"
-         data-banner-base="{{ banner_base | url }}"
-         data-banner-fallback="{{ config.extra.banner_fallback }}"
-         {% if not page_banner %}data-banners='{{ config.extra.banners | tojson }}'{% endif %}>
+         src="{{ (banner_base ~ page_banner) | url }}"
+         alt="{{ config.site_name }}">
+    {%- else %}
+    <img class="pm-banner-img" alt="{{ config.site_name }}">
+    <script>
+      (function () {
+        var img = document.currentScript.previousElementSibling;
+        var base = {{ (banner_base | url) | tojson }};
+        var fallback = {{ config.extra.banner_fallback | tojson }};
+        var list = {{ config.extra.banners | tojson }};
+        var choice = (list && list.length)
+          ? list[Math.floor(Math.random() * list.length)]
+          : fallback;
+        img.addEventListener("error", function onError() {
+          img.removeEventListener("error", onError);
+          img.src = base + fallback;
+        });
+        img.src = base + choice;
+      })();
+    </script>
+    <noscript>
+      <img class="pm-banner-img"
+           src="{{ (banner_base ~ config.extra.banner_fallback) | url }}"
+           alt="{{ config.site_name }}">
+    </noscript>
+    {%- endif %}
   </a>
 {% endblock %}
 

@@ -28,7 +28,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/banner.js
   - javascripts/cards.js
   - javascripts/tables.js
   - javascripts/recent.js
