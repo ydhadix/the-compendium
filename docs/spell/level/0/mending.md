@@ -11,4 +11,5 @@ Transmutation Cantrip
 | Target | One broken object |
 | Duration | — |
 
+##### Spell Effect
 You repair a single break or tear in the target, no larger than **1** foot in any dimension, leaving no trace of the former damage.

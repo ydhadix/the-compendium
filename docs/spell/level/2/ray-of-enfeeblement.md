@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target makes a Fortitude Save.
 
 | | |
@@ -21,5 +22,4 @@ The target makes a Fortitude Save.
 Before the target's Turn ends, it repeats this Save, ending this Spell on a success.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

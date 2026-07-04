@@ -11,6 +11,7 @@
 | Target | The target of the attack |
 | Duration | 1 minute |
 
+##### Spell Effect
 You deal **1d6** Fire Damage.
 
 After the target's Turn begins, you deal **1d6** Fire Damage and it makes a Fortitude Save.
@@ -21,5 +22,4 @@ After the target's Turn begins, you deal **1d6** Fire Damage and it makes a Fort
 | Success | This Spell ends on the target. |
 
 ##### At Higher Levels
-
 Add **1d6** Fire Damage per additional Spell Level.

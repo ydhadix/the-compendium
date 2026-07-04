@@ -11,5 +11,6 @@
 | Target | One creature |
 | Duration | — |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

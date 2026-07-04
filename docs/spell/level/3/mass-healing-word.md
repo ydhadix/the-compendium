@@ -11,8 +11,8 @@
 | Target | Up to six creatures |
 | Duration | — |
 
+##### Spell Effect
 You heal each target by **2d4 + Spellcasting Ability**.
 
 ##### At Higher Levels
-
 Add **1d4** to the healing per additional Spell Level.

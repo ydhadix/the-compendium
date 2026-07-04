@@ -11,6 +11,7 @@ Transmutation Cantrip
 | Target | Special |
 | Duration | 1 minute |
 
+##### Spell Effect
 Choose one of the following effects. If you cast this Spell multiple times, you can have up to **3** of its effects active at once:
 
 - **Altered Eyes.** You change the appearance of your eyes.

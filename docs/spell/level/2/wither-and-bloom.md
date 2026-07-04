@@ -11,6 +11,7 @@
 | Target | Each creature in a 10-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 One target can expend and roll up to **1** Hit Die, then heals by the total rolled plus your Spellcasting Ability.
 
 Each other target makes a Fortitude Save.
@@ -21,5 +22,4 @@ Each other target makes a Fortitude Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add up to **1** Hit Die, **1d6** Necrotic Damage, and **10** feet to the radius per additional Spell Level.

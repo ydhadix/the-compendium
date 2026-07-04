@@ -11,6 +11,7 @@
 | Target | Each creature in a 10-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 If there is loose sand, dust, dirt, or gravel in the area, the area becomes Heavily Obscured.
 
 As a Bonus Action, you move the area up to **30** feet.
@@ -23,5 +24,4 @@ A creature that enters the area (including when this Spell is cast or the area m
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d6** damage per additional Spell Level.

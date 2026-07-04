@@ -11,4 +11,5 @@ Abjuration Cantrip
 | Target | Self |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 Before you are attacked, you subtract **1d4** from the Attack Roll.

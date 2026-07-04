@@ -11,4 +11,5 @@
 | Target | The succeeding creature |
 | Duration | — |
 
+##### Spell Effect
 The target rerolls the d20 and uses the lower roll.

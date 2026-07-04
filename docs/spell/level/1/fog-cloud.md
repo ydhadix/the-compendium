@@ -11,8 +11,8 @@
 | Target | A 20-ft. radius Sphere |
 | Duration | 1 hour (Concentration) |
 
+##### Spell Effect
 The area is filled with fog and Heavily Obscured. This Spell ends if the fog is dispersed.
 
 ##### At Higher Levels
-
 Add **20** feet to the radius per additional Spell Level.

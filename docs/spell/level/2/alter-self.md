@@ -11,6 +11,7 @@
 | Target | Self |
 | Duration | 1 hour (Concentration) |
 
+##### Spell Effect
 Choose one of the following transformations:
 
 - **Aquatic Adaptation.** You can breathe underwater and gain a Swim Speed equal to your Speed.

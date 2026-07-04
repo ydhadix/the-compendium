@@ -11,6 +11,7 @@ Enchantment Cantrip
 | Target | One humanoid |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target makes a Will Save. If you've damaged the target or cast this Spell on it within the last **24** hours, the target succeeds automatically.
 
 | | |

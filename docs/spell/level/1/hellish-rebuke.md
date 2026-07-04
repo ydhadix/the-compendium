@@ -11,6 +11,7 @@
 | Target | The source of the damage |
 | Duration | — |
 
+##### Spell Effect
 The target makes a Reflex Save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d10** Fire Damage per additional Spell Level.

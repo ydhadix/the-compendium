@@ -11,6 +11,7 @@
 | Target | Special |
 | Duration | 8 hours |
 
+##### Spell Effect
 The material component surrounds a **5**-foot radius circle on the ground and becomes Invisible. A creature that can see the area can Search, making a Perception Check against your Spell Save DC.
 
 | | |

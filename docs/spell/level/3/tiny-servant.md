@@ -11,5 +11,6 @@
 | Target | One Tiny object |
 | Duration | 8 hours |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

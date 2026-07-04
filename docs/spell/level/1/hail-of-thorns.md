@@ -11,6 +11,7 @@
 | Target | The target of the attack and each creature in a 5-ft. radius Sphere |
 | Duration | — |
 
+##### Spell Effect
 The target of the attack and each creature in a **5**-foot radius Sphere around it make a Reflex Save.
 
 | | |
@@ -19,5 +20,4 @@ The target of the attack and each creature in a **5**-foot radius Sphere around 
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d10** Piercing Damage and **5** feet to the radius per additional Spell Level.

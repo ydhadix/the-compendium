@@ -11,4 +11,5 @@
 | Target | Self |
 | Duration | 1 hour |
 
+##### Spell Effect
 Choose a Skill. You have Proficiency in the chosen Skill.

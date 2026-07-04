@@ -11,6 +11,7 @@
 | Target | One thing |
 | Duration | — |
 
+##### Spell Effect
 You make a Ranged Spell Attack against the target, ignoring Half Cover and Three-Quarters Cover.
 
 | | |
@@ -18,5 +19,4 @@ You make a Ranged Spell Attack against the target, ignoring Half Cover and Three
 | Hit | You deal **2d10** Radiant Damage. |
 
 ##### At Higher Levels
-
 Make **1** additional attack per additional Spell Level. Each attack can have the same or a different target.

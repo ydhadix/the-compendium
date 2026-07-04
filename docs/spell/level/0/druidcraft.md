@@ -11,6 +11,7 @@ Transmutation Cantrip
 | Target | — |
 | Duration | — |
 
+##### Spell Effect
 Choose one of the following effects:
 
 - **Fire Play.** You light or snuff out a candle, torch, or small campfire.

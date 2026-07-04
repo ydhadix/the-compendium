@@ -8,10 +8,11 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | Each creature in a 5-ft. × 100-ft. Line |
+| Target | Everything in a 5-ft. × 100-ft. Line |
 | Duration | — |
 
-Each creature in a **5**-foot × **100**-foot Line makes a Reflex Save.
+##### Spell Effect
+Each target makes a Reflex Save.
 
 | | |
 |---|---|
@@ -19,5 +20,4 @@ Each creature in a **5**-foot × **100**-foot Line makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d6** Lightning Damage and **10** feet to the length per additional Spell Level.

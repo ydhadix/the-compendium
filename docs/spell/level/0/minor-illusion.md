@@ -11,6 +11,7 @@ Illusion Cantrip
 | Target | — |
 | Duration | 1 minute |
 
+##### Spell Effect
 You create an illusion of a still image or a sound that lasts for the Duration. This Spell ends if you cast it again.
 
 - **Image.** The image must be no larger than a **5**-foot Cube and can't create sound, light, smell, or any other sensory effect.

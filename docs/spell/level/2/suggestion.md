@@ -11,6 +11,7 @@
 | Target | One creature who understands you |
 | Duration | 8 hours (Concentration) |
 
+##### Spell Effect
 You suggest a course of activity to the target, then it makes a Will Save.
 
 | | |
@@ -19,5 +20,4 @@ You suggest a course of activity to the target, then it makes a Will Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

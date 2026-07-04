@@ -11,6 +11,7 @@
 | Target | Each creature in a 20-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 You create a burst of flames, then immediately extinguish any fire in the area. Choose one of the following effects.
 
 **Fireworks.** Each creature in a **20**-foot radius Sphere makes a Fortitude Save.
@@ -23,5 +24,4 @@ You create a burst of flames, then immediately extinguish any fire in the area. 
 **Smoke.** The area is filled with smoke and Heavily Obscured. This Spell ends if the smoke is dispersed.
 
 ##### At Higher Levels
-
 Add **1d6** Fire Damage and **10** feet to the radius per additional Spell Level.

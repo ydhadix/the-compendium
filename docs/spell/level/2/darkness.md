@@ -11,6 +11,7 @@
 | Target | A 15-ft. radius Sphere, or one object |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 If the target is an object, the area is a **15**-foot Aura centered on the target, which can be covered or hidden.
 
 The area is filled with Darkness. Darkvision can't see through it, and nonmagical light can't illuminate it.

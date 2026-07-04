@@ -11,6 +11,7 @@
 | Target | One thing |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 You create a Medium, earthen hand.
 
 As a Magic Action, the hand releases all Restrained targets, then you move it up to **30** feet and can choose a target within **5** feet of it. The target makes a Fortitude Save.
@@ -21,5 +22,4 @@ As a Magic Action, the hand releases all Restrained targets, then you move it up
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d6** damage per additional Spell Level.

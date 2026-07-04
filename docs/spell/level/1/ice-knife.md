@@ -11,6 +11,7 @@
 | Target | One thing and each creature in a 5-ft. radius Sphere around it |
 | Duration | — |
 
+##### Spell Effect
 You make a Ranged Spell Attack against the first target.
 
 | | |
@@ -25,5 +26,4 @@ Then, each creature in a **5**-foot radius Sphere around the target makes a Refl
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d6** Cold Damage and **5** feet to the radius per additional Spell Level.

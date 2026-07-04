@@ -11,5 +11,6 @@
 | Target | Self |
 | Duration | 1 minute |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

@@ -11,8 +11,8 @@
 | Target | One creature |
 | Duration | — |
 
+##### Spell Effect
 Choose one of the following conditions: Blinded, Deafened, Paralyzed, or Sickened. That condition ends on the target.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

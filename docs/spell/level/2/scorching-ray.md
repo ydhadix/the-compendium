@@ -11,6 +11,7 @@
 | Target | Up to 3 creatures or objects |
 | Duration | — |
 
+##### Spell Effect
 You make a Ranged Spell Attack against each target.
 
 | | |
@@ -18,5 +19,4 @@ You make a Ranged Spell Attack against each target.
 | Hit | You deal **2d6** Fire Damage. A flammable object starts Burning (**1d4**). |
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

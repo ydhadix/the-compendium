@@ -11,5 +11,6 @@
 | Target | Each creature in a 10-ft. Aura |
 | Duration | — |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

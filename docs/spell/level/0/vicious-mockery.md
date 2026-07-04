@@ -11,6 +11,7 @@ Enchantment Cantrip
 | Target | One thing |
 | Duration | Until the end of your next Turn |
 
+##### Spell Effect
 The target makes a Will Save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Will Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d6** to the damage at Level 5, Level 11, and Level 17.

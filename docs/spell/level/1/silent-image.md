@@ -11,6 +11,7 @@
 | Target | — |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 You create the image of an object, creature, or other visible phenomenon, no larger than a **15**-foot Cube. It can't create sound, light, smell, or any other sensory effect.
 
 As a Magic Action, you move the image to another location; as it moves, you can alter its appearance so its movements appear natural.

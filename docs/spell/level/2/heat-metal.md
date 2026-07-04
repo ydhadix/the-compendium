@@ -11,6 +11,7 @@
 | Target | One metal object |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 You make the target glow red-hot.
 
 As a Bonus Action, you deal **2d8** Fire Damage to everything touching the target, and a creature that takes this damage makes a Fortitude Save.
@@ -21,5 +22,4 @@ As a Bonus Action, you deal **2d8** Fire Damage to everything touching the targe
 | Success | No additional effect. |
 
 ##### At Higher Levels
-
 Add **1d8** Fire Damage per additional Spell Level.

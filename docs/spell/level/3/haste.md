@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target gains the following benefits:
 
 - Its Speed is doubled.
@@ -21,5 +22,4 @@ The target gains the following benefits:
 After this Spell ends, the target is Incapacitated and its Speed is **0** until the end of its next Turn.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

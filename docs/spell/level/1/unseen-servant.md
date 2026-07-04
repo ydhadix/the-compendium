@@ -11,6 +11,7 @@
 | Target | — |
 | Duration | 1 hour |
 
+##### Spell Effect
 You create an invisible, mindless, shapeless, Medium force that performs simple tasks at your command. The servant has AC **10**, **1** Hit Point, Strength -5, and can't attack.
 
 This Spell ends if the servant has **0** Hit Points or you command it to move outside this Spell's range.

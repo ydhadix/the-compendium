@@ -11,5 +11,6 @@
 | Target | One thing |
 | Duration | 8 hours |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

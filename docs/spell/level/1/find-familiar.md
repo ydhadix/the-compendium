@@ -11,6 +11,7 @@
 | Target | — |
 | Duration | — |
 
+##### Spell Effect
 Choose a CR 0 Beast and a Creature Type: Celestial, Fey, or Fiend. Your familiar is a companion spirit that takes the chosen form and is the chosen Creature Type instead of a Beast, using the chosen Beast's statistics. If you already have a familiar from this Spell, it adopts the new form and Creature Type instead.
 
 As a Free Action, you can command your familiar.

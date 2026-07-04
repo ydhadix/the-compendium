@@ -8,12 +8,17 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Each creature in a 10-ft. Aura |
+| Target | Everything you choose in a 10-ft. Aura |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 You have Resistance to Thunder Damage, and Ranged Attacks have Disadvantage if they pass through the area.
 
-A creature you choose that enters the area (including when this Spell is cast or the area moves) or ends its Turn there makes a Fortitude Save, no more than once per Turn.
+After a target enters the area (including when this Spell is cast or the area moves), it makes a Fortitude Save.
+
+After your Turn starts, each target makes a Fortitude Save.
+
+A target only makes this Saving Throw once until the start of your next turn.
 
 | | |
 |---|---|
@@ -21,5 +26,4 @@ A creature you choose that enters the area (including when this Spell is cast or
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d6** damage per additional Spell Level.

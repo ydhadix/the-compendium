@@ -11,6 +11,7 @@ Transmutation Cantrip
 | Target | Special |
 | Duration | 1 hour |
 
+##### Spell Effect
 Choose one of the following effects. If you cast this Spell multiple times, you can have up to **3** of its effects active at once:
 
 - **Arcane Effect.** You create a harmless sensory effect, such as a shower of sparks, a puff of wind, faint music, or an odd odor.

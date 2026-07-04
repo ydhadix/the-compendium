@@ -11,6 +11,7 @@
 | Target | Each creature in a 15-ft. Cube |
 | Duration | — |
 
+##### Spell Effect
 Each creature in a **15**-foot Cube makes a Fortitude Save.
 
 | | |
@@ -21,5 +22,4 @@ Each creature in a **15**-foot Cube makes a Fortitude Save.
 This Spell's thunder is audible out to **300** feet.
 
 ##### At Higher Levels
-
 Add **1d8** Thunder Damage and **5** feet to the Cube per additional Spell Level.

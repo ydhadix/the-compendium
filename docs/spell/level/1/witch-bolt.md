@@ -11,6 +11,7 @@
 | Target | One thing |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 You make a Ranged Spell Attack against the target.
 
 | | |
@@ -21,5 +22,4 @@ You make a Ranged Spell Attack against the target.
 As a Bonus Action, you deal **1d12** Lightning Damage to the target.
 
 ##### At Higher Levels
-
 Add **1d12** Lightning Damage and **15** feet to the Range per additional Spell Level.

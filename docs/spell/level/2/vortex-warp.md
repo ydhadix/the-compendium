@@ -11,6 +11,7 @@
 | Target | One other creature or object |
 | Duration | — |
 
+##### Spell Effect
 The target makes a Fortitude Save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Fortitude Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **30** feet of Range per additional Spell Level.

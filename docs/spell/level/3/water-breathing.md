@@ -11,5 +11,6 @@
 | Target | Up to ten creatures |
 | Duration | 24 hours |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

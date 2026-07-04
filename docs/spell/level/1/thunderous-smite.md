@@ -11,6 +11,7 @@
 | Target | The target of the attack |
 | Duration | — |
 
+##### Spell Effect
 You deal **2d6** Thunder Damage, and the target makes a Fortitude Save.
 
 | | |
@@ -21,5 +22,4 @@ You deal **2d6** Thunder Damage, and the target makes a Fortitude Save.
 This Spell's thunder is audible out to **300** feet.
 
 ##### At Higher Levels
-
 Add **1d6** Thunder Damage per additional Spell Level.

@@ -11,4 +11,5 @@ Divination Cantrip
 | Target | One creature |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 Choose a Skill or Trade. Whenever the target makes a Check using the chosen Proficiency, you add **1d4** to the check.

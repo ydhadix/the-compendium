@@ -11,4 +11,5 @@
 | Target | Self |
 | Duration | — |
 
+##### Spell Effect
 You teleport to an unoccupied space within range.

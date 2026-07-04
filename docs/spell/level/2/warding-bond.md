@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 hour |
 
+##### Spell Effect
 While you and the target each wear one of the material components and the target is within **60** feet of you, the target has a **+1** bonus to Armor Class and Saves, and Resistance to all damage.
 
 After the target takes damage, you take the same amount.

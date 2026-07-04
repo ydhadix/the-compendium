@@ -11,6 +11,7 @@
 | Target | One humanoid |
 | Duration | 1 hour |
 
+##### Spell Effect
 The target makes a Will Save. If you've damaged the target within the last **24** hours, it has Advantage on the save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Will Save. If you've damaged the target within the last **24*
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

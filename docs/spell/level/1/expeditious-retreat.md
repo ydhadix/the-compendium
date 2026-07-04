@@ -11,6 +11,7 @@
 | Target | Self |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 You Dash.
 
 As a Bonus Action, you can Dash.

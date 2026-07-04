@@ -11,6 +11,7 @@ Conjuration Cantrip
 | Target | One thing |
 | Duration | — |
 
+##### Spell Effect
 The target makes a Fortitude Save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Fortitude Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d6** to the damage at Level 5, Level 11, and Level 17.

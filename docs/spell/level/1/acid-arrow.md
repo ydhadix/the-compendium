@@ -11,6 +11,7 @@
 | Target | One thing |
 | Duration | — |
 
+##### Spell Effect
 You make a Ranged Spell Attack against the target.
 
 | | |
@@ -19,5 +20,4 @@ You make a Ranged Spell Attack against the target.
 | Miss | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d4** Acid Damage to the attack and effect per additional Spell Level.

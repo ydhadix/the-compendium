@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | Until the end of the target's next Turn |
 
+##### Spell Effect
 The target makes a Will Save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Will Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

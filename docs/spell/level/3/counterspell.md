@@ -11,5 +11,6 @@
 | Target | The casting creature |
 | Duration | — |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

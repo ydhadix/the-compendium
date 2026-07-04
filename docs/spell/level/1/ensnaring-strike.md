@@ -11,6 +11,7 @@
 | Target | The target of the attack |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target makes a Fortitude Save. A creature larger than you has Advantage.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Fortitude Save. A creature larger than you has Advantage.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d6** Piercing Damage per additional Spell Level.

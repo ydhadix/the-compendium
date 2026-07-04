@@ -11,6 +11,7 @@
 | Target | Each creature in a 10-ft. Square on the ground |
 | Duration | 1 minute |
 
+##### Spell Effect
 The area is Difficult Terrain. Each creature that enters the area, ends its Turn there, or is in the area when this Spell is cast makes a Reflex Save.
 
 | | |

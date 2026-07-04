@@ -11,6 +11,7 @@
 | Target | One CR 0 Beast |
 | Duration | 24 hours |
 
+##### Spell Effect
 You speak a short message aloud, then describe a recipient and a location. The target makes a Will Save.
 
 | | |
@@ -19,5 +20,4 @@ You speak a short message aloud, then describe a recipient and a location. The t
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **48** hours per additional Spell Level.

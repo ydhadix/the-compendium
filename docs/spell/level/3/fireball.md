@@ -8,10 +8,11 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | 150 ft. |
-| Target | Each creature in a 20-ft. radius Sphere |
+| Target | Everything in a 20-ft. radius Sphere |
 | Duration | — |
 
-Each creature in a **20**-foot radius Sphere makes a Reflex Save.
+##### Spell Effect
+Each target makes a Reflex Save.
 
 | | |
 |---|---|
@@ -19,5 +20,4 @@ Each creature in a **20**-foot radius Sphere makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d6** Fire Damage and **5** feet to the radius per additional Spell Level.

@@ -11,6 +11,7 @@
 | Target | Each creature in a 20-ft. Cube |
 | Duration | 1 hour (Concentration) |
 
+##### Spell Effect
 You create sticky webbing in the area, which is Difficult Terrain and Lightly Obscured.
 
 The webs are flammable. Any **5**-foot Cube of webs exposed to fire burns away in **1** round, dealing **2d4** Fire Damage to everything that starts its Turn in the fire.

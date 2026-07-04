@@ -11,6 +11,7 @@ Evocation Cantrip
 | Target | One thing |
 | Duration | — |
 
+##### Spell Effect
 The target makes a Reflex Save and gains no benefit from Half Cover or Three-Quarters Cover.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Reflex Save and gains no benefit from Half Cover or Three-Qua
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d8** to the damage at Level 5, Level 11, and Level 17.

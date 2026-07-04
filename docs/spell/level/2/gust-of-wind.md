@@ -11,6 +11,7 @@
 | Target | Each creature in a 10-ft. × 60-ft. Line |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The area blasts strong wind away from you and moves with you. A creature in the area that moves closer to you spends **1** extra foot of movement for each foot moved.
 
 As a Bonus Action, you change the area's rotation around you.

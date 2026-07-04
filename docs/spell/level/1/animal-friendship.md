@@ -11,6 +11,7 @@
 | Target | One Beast |
 | Duration | 24 hours |
 
+##### Spell Effect
 The target makes a Will Save.
 
 | | |

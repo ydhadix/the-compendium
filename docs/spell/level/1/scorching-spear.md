@@ -11,6 +11,7 @@
 | Target | Each creature in a 5-ft. × 30-ft. Line |
 | Duration | — |
 
+##### Spell Effect
 Each creature in a **5**-foot × **30**-foot Line makes a Reflex Save.
 
 | | |
@@ -19,5 +20,4 @@ Each creature in a **5**-foot × **30**-foot Line makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d8** Fire Damage and **15** feet to the Line per additional Spell Level.

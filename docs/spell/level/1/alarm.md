@@ -11,6 +11,7 @@
 | Target | A 20-ft. Cube, one door, or one window |
 | Duration | 8 hours |
 
+##### Spell Effect
 Choose an audible or mental alarm. After a creature touches the target or enters its area, the alarm triggers. You can designate creatures that don't trigger it.
 
 - **Audible.** The alarm emits the sound of a bell out to **60** feet for **10** seconds.

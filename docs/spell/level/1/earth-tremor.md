@@ -11,6 +11,7 @@
 | Target | Each creature on the ground in a 10-ft. Aura |
 | Duration | — |
 
+##### Spell Effect
 Loose earth or stone in the area becomes nonmagical Difficult Terrain. Each creature on the ground in a **10**-foot Aura makes a Fortitude Save.
 
 | | |
@@ -19,5 +20,4 @@ Loose earth or stone in the area becomes nonmagical Difficult Terrain. Each crea
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d6** Bludgeoning Damage and **5** feet to the Aura per additional Spell Level.

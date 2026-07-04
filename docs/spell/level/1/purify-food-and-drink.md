@@ -11,4 +11,5 @@
 | Target | All food and drink in a 5-ft. radius Sphere |
 | Duration | — |
 
+##### Spell Effect
 You remove nonmagical poison and rot from the target.

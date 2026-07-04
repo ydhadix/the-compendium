@@ -11,6 +11,7 @@
 | Target | Self |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 You sense the presence of any creatures that understand a language.
 
 This Spell is blocked by **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.

@@ -11,6 +11,7 @@
 | Target | The target of the attack |
 | Duration | 1 minute |
 
+##### Spell Effect
 You deal **1d6** Necrotic Damage, and the target makes a Will Save.
 
 | | |
@@ -26,5 +27,4 @@ Before the target's Turn ends, it repeats this Save.
 | Success | This effect ends on the target. |
 
 ##### At Higher Levels
-
 Add **1d6** Necrotic Damage per additional Spell Level.

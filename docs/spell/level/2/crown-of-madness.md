@@ -11,6 +11,7 @@
 | Target | One humanoid |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target makes a Will Save.
 
 | | |

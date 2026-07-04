@@ -11,6 +11,7 @@
 | Target | Each creature in a 10-ft. radius Sphere |
 | Duration | — |
 
+##### Spell Effect
 Each creature in a **10**-foot radius Sphere makes a Reflex Save.
 
 | | |
@@ -19,5 +20,4 @@ Each creature in a **10**-foot radius Sphere makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d6** Cold Damage and **30** feet to the Range per additional Spell Level.

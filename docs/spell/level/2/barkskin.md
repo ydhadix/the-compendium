@@ -11,4 +11,5 @@
 | Target | One creature |
 | Duration | 1 hour |
 
+##### Spell Effect
 The target's Armor Class becomes **15 + PB**, unless it is already higher.

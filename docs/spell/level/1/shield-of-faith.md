@@ -11,4 +11,5 @@
 | Target | One creature |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 The target's Armor Class increases by **2**.

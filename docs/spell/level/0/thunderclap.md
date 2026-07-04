@@ -11,6 +11,7 @@ Evocation Cantrip
 | Target | Each creature in a 5-ft. Aura |
 | Duration | — |
 
+##### Spell Effect
 Each creature in a **5**-foot Aura makes a Fortitude Save.
 
 | | |
@@ -21,5 +22,4 @@ Each creature in a **5**-foot Aura makes a Fortitude Save.
 This Spell's thunder is audible out to **100** feet.
 
 ##### At Higher Levels
-
 Add **1d6** to the damage at Level 5, Level 11, and Level 17.

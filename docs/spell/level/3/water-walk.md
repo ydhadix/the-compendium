@@ -11,6 +11,13 @@
 | Target | Up to ten creatures |
 | Duration | 1 hour |
 
-Each target can move across any liquid surface as if it were solid ground; heat or cold from the surface can still deal damage. Each target can also use the following action.
+##### Spell Effect
+Each target moves across any liquid surface as if it were solid ground; heat or cold from the surface can still deal damage the target.
 
-As a Bonus Action, the target passes through the liquid's surface, entering or leaving the liquid.
+Each target can also use the following action.
+
+###### Cross Boundary
+Bonus Action
+{ .subtitle }
+
+The target passes through the liquid's surface, entering or leaving the liquid.

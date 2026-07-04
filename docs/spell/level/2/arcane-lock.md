@@ -11,6 +11,7 @@
 | Target | One closed door, window, container, or other opening |
 | Duration | Until dispelled |
 
+##### Spell Effect
 The target can't be unlocked or opened by nonmagical means.
 
 You can designate creatures that ignore this effect.

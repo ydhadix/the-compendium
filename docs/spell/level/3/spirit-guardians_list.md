@@ -1,1 +1,1 @@
-| [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Normal Action | — | Each creature in a 15-ft. Aura | 10 minutes (C) |
+| [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Normal Action | — | Each creature you choose in a 15-ft. Aura | 10 minutes (C) |

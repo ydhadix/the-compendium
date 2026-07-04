@@ -11,6 +11,7 @@
 | Target | One thing |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 The target makes a Fortitude Save.
 
 | | |

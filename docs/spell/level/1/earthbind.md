@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target makes a Fortitude Save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Fortitude Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

@@ -11,5 +11,6 @@
 | Target | Each creature in a 20-ft. Cube |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

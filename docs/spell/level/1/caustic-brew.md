@@ -11,6 +11,7 @@
 | Target | Each creature in a 5-ft. × 30-ft. Line |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 Each creature in a **5**-foot × **30**-foot Line makes a Reflex Save.
 
 | | |
@@ -19,5 +20,4 @@ Each creature in a **5**-foot × **30**-foot Line makes a Reflex Save.
 | Success | This Spell ends on the target. |
 
 ##### At Higher Levels
-
 Add **2d4** Acid Damage and **2d4** Corrosion damage per additional Spell Level.

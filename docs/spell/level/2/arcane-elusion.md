@@ -11,6 +11,7 @@
 | Target | Self |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 You have Resistance to magic.
 
 Whenever you make a Save against magic to avoid taking damage, you take half damage if you fail and no damage if you succeed.

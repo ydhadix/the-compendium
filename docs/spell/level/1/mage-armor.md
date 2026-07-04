@@ -11,4 +11,5 @@
 | Target | One creature |
 | Duration | 8 hours |
 
+##### Spell Effect
 The target's base Armor Class becomes **11 + DEX + PB**.

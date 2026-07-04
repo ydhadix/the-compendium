@@ -11,4 +11,5 @@
 | Target | Each creature in a 30-ft. Aura |
 | Duration | 1 minute (Concentration) |
 
-You can heal one target by **2d6** when you cast this Spell and at the start of each of your Turns.
+##### Spell Effect
+After you cast this spell and after each of your Turns starts, you can heal one target by **2d6**.

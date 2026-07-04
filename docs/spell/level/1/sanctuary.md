@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 minute |
 
+##### Spell Effect
 The target is protected from attacks and targeting Spells. This Spell ends if the target attacks, deals damage, or forces another creature to make a Save.
 
 A creature that attacks the target or targets it with a damaging Spell that has no area makes a Will Save.

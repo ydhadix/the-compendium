@@ -11,4 +11,5 @@
 | Target | Self |
 | Duration | Until the end of your next Turn |
 
+##### Spell Effect
 Your Armor Class increases by **5**.

@@ -11,6 +11,7 @@
 | Target | Each creature in a 20-ft. radius Sphere |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 The area is Difficult Terrain and camouflaged to look natural.
 
 A creature that can see the area can Search, making a Perception or Survival Check against your Spell Save DC.

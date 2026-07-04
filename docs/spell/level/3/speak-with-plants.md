@@ -11,4 +11,5 @@
 | Target | Each plant in a 30-ft. Aura |
 | Duration | 10 minutes |
 
+##### Spell Effect
 You can comprehend and verbally communicate with plants in the area. A plant can tell you about nearby creatures and events it sensed within the past day, and answers your questions to the best of its ability.

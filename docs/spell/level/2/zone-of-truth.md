@@ -11,6 +11,7 @@
 | Target | Each creature in a 15-ft. radius Sphere |
 | Duration | 10 minutes |
 
+##### Spell Effect
 A creature that enters the area (including when this Spell is cast) or ends its Turn there makes a Will Save. You know whether each target succeeds or fails.
 
 | | |

@@ -11,5 +11,6 @@
 | Target | Each creature in a 10-ft. × 30-ft. Line |
 | Duration | — |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

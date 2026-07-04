@@ -11,6 +11,7 @@
 | Target | One corpse |
 | Duration | 10 days |
 
+##### Spell Effect
 The target doesn't decay and can't become Undead.
 
 This Spell's Duration doesn't count against the time limit of resurrection Spells.

@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 minute |
 
+##### Spell Effect
 Choose Blindness or Deafness. The target makes a Fortitude Save.
 
 | | |
@@ -26,5 +27,4 @@ Before the target's Turn ends, it repeats this Save.
 | Success | This effect ends on the target. |
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

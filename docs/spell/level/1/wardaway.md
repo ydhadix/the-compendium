@@ -11,6 +11,7 @@
 | Target | One non-Construct, non-Undead creature |
 | Duration | Until the end of your next Turn |
 
+##### Spell Effect
 The target makes a Fortitude Save.
 
 | | |
@@ -19,5 +20,4 @@ The target makes a Fortitude Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **2d4** Force Damage per additional Spell Level.

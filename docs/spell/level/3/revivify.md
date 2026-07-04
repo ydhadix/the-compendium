@@ -11,4 +11,5 @@
 | Target | One creature that died within the past minute |
 | Duration | — |
 
+##### Spell Effect
 The target is revived with **1** Hit Point. This Spell can't restore missing body parts or reverse the effects of old age.

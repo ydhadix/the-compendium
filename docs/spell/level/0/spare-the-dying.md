@@ -11,8 +11,8 @@ Necromancy Cantrip
 | Target | One Downed creature |
 | Duration | — |
 
+##### Spell Effect
 You stabilize the target.
 
 ##### At Higher Levels
-
 Double the Range at Level 5, Level 11, and Level 17.

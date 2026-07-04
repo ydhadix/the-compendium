@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target makes a Will Save.
 
 | | |
@@ -21,5 +22,4 @@ The target makes a Will Save.
 As a Free Action, if the target is within **5** feet of the phantasm, you deal **2d8** Psychic Damage to it; the target perceives the damage as a type appropriate to the phantasm.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

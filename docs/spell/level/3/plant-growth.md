@@ -11,8 +11,17 @@
 | Target | Special |
 | Duration | — |
 
+##### Spell Effect
 This Spell's effect depends on its Casting Time.
 
-**Normal Action — Overgrowth.** Choose a **100**-foot radius Sphere. You can exclude one or more areas of any size. All normal plants in the area become thick and overgrown, and each foot of movement in the area costs **3** additional feet.
+###### Overgrowth
+Normal Action
+{ .subtitle }
 
-**8 Hours — Enrichment.** Choose a half-mile radius Sphere. All plants in the area yield twice the food when harvested for the next year.
+Choose a **100**-foot radius Sphere. You can exclude one or more areas of any size. All normal plants in the area become thick and overgrown, and each foot of movement in the area costs **3** additional feet.
+
+###### Enrichment
+8 Hours
+{ .subtitle }
+
+Choose a half-mile radius Sphere. All plants in the area yield twice the food when harvested for the next year.

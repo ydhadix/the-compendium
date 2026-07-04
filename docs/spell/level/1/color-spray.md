@@ -11,6 +11,7 @@
 | Target | Each creature in a 15-ft. Cone |
 | Duration | Until the end of your next Turn |
 
+##### Spell Effect
 Each creature in a **15**-foot Cone makes a Fortitude Save.
 
 | | |
@@ -19,5 +20,4 @@ Each creature in a **15**-foot Cone makes a Fortitude Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **15** feet of Cone size per additional Spell Level.

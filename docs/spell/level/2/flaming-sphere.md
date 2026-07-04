@@ -11,6 +11,7 @@
 | Target | Each creature in a 5-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 You create a sphere of flames in the area, which emits Bright Light out to **20** feet and Dim Light for an additional **20** feet.
 
 A creature that enters the area (including when this Spell is cast or the area moves) or ends its Turn there makes a Reflex Save, no more than once per Turn.
@@ -23,5 +24,4 @@ A creature that enters the area (including when this Spell is cast or the area m
 As a Bonus Action, you move the area up to **30** feet.
 
 ##### At Higher Levels
-
 Add **1d6** Fire Damage per additional Spell Level.

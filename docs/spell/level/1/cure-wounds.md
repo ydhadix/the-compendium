@@ -11,8 +11,8 @@
 | Target | One creature |
 | Duration | — |
 
+##### Spell Effect
 You heal the target by **2d8 + Spellcasting Ability**.
 
 ##### At Higher Levels
-
 Add **2d8** to the healing per additional Spell Level.

@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | Until the end of the target's next Turn |
 
+##### Spell Effect
 Choose one of the following commands, then the target makes a Will Save.
 
 | | |
@@ -25,5 +26,4 @@ Choose one of the following commands, then the target makes a Will Save.
 - **Halt.** The target doesn't move or take actions.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

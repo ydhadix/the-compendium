@@ -11,8 +11,8 @@
 | Target | One creature |
 | Duration | 1 hour (Concentration) |
 
+##### Spell Effect
 Choose an Ability. The target has Advantage on Checks using the chosen Ability.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

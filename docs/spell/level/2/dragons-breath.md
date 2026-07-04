@@ -11,6 +11,7 @@
 | Target | One creature |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 Choose an Elemental Damage Type. The target gains the following action:
 
 **Breath Weapon.**  **Magic Action:**  Each creature in a **15**-foot Cone makes a Reflex Save.
@@ -21,5 +22,4 @@ Choose an Elemental Damage Type. The target gains the following action:
 | Success | The target takes half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d6** damage per additional Spell Level.

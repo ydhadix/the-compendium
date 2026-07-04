@@ -11,10 +11,10 @@
 | Target | One creature |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 The target has Immunity to being Frightened.
 
 After the target's Turn begins, it gains **Spellcasting Ability** Temporary Hit Points.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

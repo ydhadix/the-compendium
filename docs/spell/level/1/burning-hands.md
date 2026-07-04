@@ -11,6 +11,7 @@
 | Target | Each creature in a 15-ft. Cone |
 | Duration | — |
 
+##### Spell Effect
 Each creature in a **15**-foot Cone makes a Reflex Save.
 
 | | |
@@ -19,5 +20,4 @@ Each creature in a **15**-foot Cone makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **2d6** Fire Damage and **15** feet of Cone size per additional Spell Level.

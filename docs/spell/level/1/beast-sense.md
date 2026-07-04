@@ -11,4 +11,5 @@
 | Target | One willing Beast |
 | Duration | 1 hour (Concentration) |
 
+##### Spell Effect
 You can see and hear through the target's senses in addition to your own.

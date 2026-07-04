@@ -11,6 +11,7 @@
 | Target | Each creature in a 5-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 Each creature in a **5**-foot radius Sphere makes a Will Save.
 
 | | |
@@ -28,5 +29,4 @@ Before the target's Turn ends, it repeats this Save.
 This effect also ends on a target if it takes damage or a creature within Reach of it Utilizes to shake it awake.
 
 ##### At Higher Levels
-
 Add **5** feet to the radius per additional Spell Level.

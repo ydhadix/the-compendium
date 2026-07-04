@@ -11,5 +11,6 @@
 | Target | — |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 !!! note "In progress"
     This spell's effect is still being written.

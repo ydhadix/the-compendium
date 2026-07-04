@@ -11,6 +11,7 @@ Conjuration Cantrip
 | Target | Special |
 | Duration | 10 minutes |
 
+##### Spell Effect
 You create a flame in your hand that is harmless to you and emits Bright Light out to **20** feet and Dim Light for an additional **20** feet. This Spell ends if you cast it again.
 
 As a Bonus Action, you can target one creature within range. The target makes a Reflex Save, then this Spell ends.
@@ -21,5 +22,4 @@ As a Bonus Action, you can target one creature within range. The target makes a 
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1d8** to the damage at Level 5, Level 11, and Level 17.

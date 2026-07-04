@@ -8,12 +8,19 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 120 ft. |
-| Target | Each creature in a 10-ft. radius, 60-ft. Cylinder |
+| Target | Everything in a 10-ft. radius, 60-ft. Cylinder |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 If you're outdoors in a storm when you cast this Spell, the storm and the area beneath it become this Spell's area instead.
 
-As a Magic Action, each creature in a **5**-foot radius Sphere makes a Reflex Save.
+After you cast this Spell, you can take the following Action _(no action required)_.
+
+###### Lightning Strike
+Magic Action
+{ .subtitle }
+
+Each creature in a **5**-foot radius Sphere makes a Reflex Save.
 
 | | |
 |---|---|
@@ -21,5 +28,4 @@ As a Magic Action, each creature in a **5**-foot radius Sphere makes a Reflex Sa
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-
 Add **1d10** damage per additional Spell Level.

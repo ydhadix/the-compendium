@@ -11,6 +11,7 @@
 | Target | Up to 3 creatures |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 Each target makes a Will Save.
 
 | | |
@@ -19,5 +20,4 @@ Each target makes a Will Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

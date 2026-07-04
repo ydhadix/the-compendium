@@ -11,4 +11,5 @@
 | Target | Self |
 | Duration | 1 minute (Concentration) |
 
+##### Spell Effect
 Your Speed increases by **10** feet, your movement doesn't provoke Opportunity Attacks, and you can move freely through other creatures' spaces.

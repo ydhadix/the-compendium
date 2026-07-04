@@ -11,8 +11,8 @@
 | Target | One creature |
 | Duration | 10 minutes (Concentration) |
 
-The target gains a **60**-foot Fly Speed and can hover.
+##### Spell Effect
+The target gains a **60**-foot Hover Speed.
 
 ##### At Higher Levels
-
 Add **1** target per additional Spell Level.

@@ -11,6 +11,7 @@ Evocation Cantrip
 | Target | Each creature in a 5-ft. radius Sphere |
 | Duration | — |
 
+##### Spell Effect
 Each creature in a **5**-foot radius Sphere makes a Reflex Save.
 
 | | |

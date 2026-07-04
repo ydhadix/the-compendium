@@ -11,6 +11,7 @@
 | Target | Each creature in a 10-ft. Aura |
 | Duration | 10 minutes (Concentration) |
 
+##### Spell Effect
 You create strong wind in the area. The area has the following effects:
 
 - Vapor, fog, and gas are dispersed.
