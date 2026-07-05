@@ -1,1 +1,1 @@
-| [Silence](/spell/level/2/silence.md) | Illusion | V, S | Normal Action | 120 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |
+| [Silence](/spell/level/2/silence.md) | Illusion | V, S | Normal Action | 120 ft. | 20-ft. radius Sphere | 10 minutes (C) |

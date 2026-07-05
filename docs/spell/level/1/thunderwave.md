@@ -8,11 +8,11 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | Each creature in a 15-ft. Cube |
+| Target | Everything in a 15-ft. Cube |
 | Duration | — |
 
 ##### Spell Effect
-Each creature in a **15**-foot Cube makes a Fortitude Save.
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|

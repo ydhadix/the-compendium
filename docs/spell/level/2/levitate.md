@@ -19,4 +19,8 @@ The target makes a Fortitude Save.
 | Fail | The target rises **20** feet and remains suspended, able to move only by climbing along a surface or fixed object within reach. When this Spell ends, the target lands and takes no damage from the fall. |
 | Success | No effect. |
 
-As a Magic Action, you move the target vertically up to **20** feet. If you are the target, you can instead do this as part of your movement.
+###### Move
+Magic Action
+{ .subtitle }
+
+You move the target vertically up to **20** feet. If you are the target, you can instead do this as part of your movement.

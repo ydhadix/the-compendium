@@ -16,4 +16,8 @@ You sense the location of any magical effects and have Advantage on Checks to id
 
 This Spell is blocked by **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
 
-As a Magic Action, you see a faint aura around any visible creature or object that bears magic until the end of your next Turn; if the magic is from a Spell, you learn its School of Magic.
+###### Enhance
+Magic Action
+{ .subtitle }
+
+You see a faint aura around any visible creature or object that bears magic until the end of your next Turn; if the magic is from a Spell, you learn its School of Magic.

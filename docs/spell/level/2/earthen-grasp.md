@@ -12,9 +12,13 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-You create a Medium, earthen hand.
+You create a Medium, earthen hand.  After you cast this spell, you can take the following action _(no additional action required)_.
 
-As a Magic Action, the hand releases all Restrained targets, then you move it up to **30** feet and can choose a target within **5** feet of it. The target makes a Fortitude Save.
+###### Grasp
+Magic Action
+{ .subtitle }
+
+The hand releases all Restrained targets, then you move it up to **30** feet and can choose a target within **5** feet of it. The target makes a Fortitude Save.
 
 | | |
 |---|---|

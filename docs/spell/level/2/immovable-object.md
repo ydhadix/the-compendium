@@ -12,11 +12,19 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-The target becomes fixed in place and can't move or be moved, even defying gravity. You can designate creatures that ignore this effect. You can also set a verbal password that suppresses this effect for **1** minute.
+You anchor the target, even defying gravity. You can designate creatures that ignore this effect. You can also set a verbal password that suppresses this effect for **1** minute.
 
 This Spell ends if more than **8,000** pounds of weight is held by the target; less weight than that doesn't affect it.
 
-A creature within Reach of the target can Utilize to make an Athletics Check against your Spell Save DC; on a success, it can move the target up to **10** feet, ignoring any weight the target holds.
+###### Overpower
+Utilize Action
+{ .subtitle }
+
+A creature within Reach of the target can make an Athletics Check against your Spell Save DC.
+
+| | |
+|---|---|
+| Success | It can move the target up to **10** feet, ignoring any weight the target holds. |
 
 ##### At Higher Levels
 When Upcast to 3rd-Level, the weight limit is **10,000** pounds and the Duration is 8 hours.

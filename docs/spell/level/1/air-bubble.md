@@ -12,7 +12,7 @@
 | Duration | 24 hours |
 
 ##### Spell Effect
-The target can breathe normally for the Duration.
+The target can breathe normally.
 
 ##### At Higher Levels
 Add **2** targets per additional Spell Level.

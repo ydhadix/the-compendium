@@ -1,1 +1,1 @@
-| [Dust Devil](/spell/level/2/dust-devil.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Each creature in a 10-ft. radius Sphere | 1 minute (C) |
+| [Dust Devil](/spell/level/2/dust-devil.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 10-ft. radius Sphere | 1 minute (C) |

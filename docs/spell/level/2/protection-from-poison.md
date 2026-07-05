@@ -14,7 +14,7 @@
 ##### Spell Effect
 The Sickness condition ends on the target.
 
-The target has Resistance to Poison Damage and Advantage on Saves against being Sickened.
+The target has Poison Resistance and Sickness Protection.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

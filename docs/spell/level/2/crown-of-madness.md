@@ -26,4 +26,8 @@ Before the target's Turn ends, it repeats this Save.
 | Fail | No additional effect. |
 | Success | This effect ends on the target. |
 
-As a Magic Action, you mentally choose a creature. On its next Turn, the target moves toward that creature and uses its action to make a Melee Attack against it, then takes the rest of its Turn normally after attacking once or if it can't reach the creature.
+###### Command
+Magic Action
+{ .subtitle }
+
+You mentally choose a creature. On its next Turn, the target moves toward that creature and uses its action to make a Melee Attack against it, then takes the rest of its Turn normally after attacking once or if it can't reach the creature.

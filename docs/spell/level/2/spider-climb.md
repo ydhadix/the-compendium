@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-The target gains a Climb Speed equal to its Speed and can move along vertical surfaces and ceilings with its hands free.
+The target gains a Spider Climb Speed equal to its Speed.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

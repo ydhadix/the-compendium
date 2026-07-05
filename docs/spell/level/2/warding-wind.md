@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Each creature in a 10-ft. Aura |
+| Target | 10-ft. Aura |
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect

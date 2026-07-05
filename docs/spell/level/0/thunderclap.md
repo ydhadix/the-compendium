@@ -8,11 +8,11 @@ Evocation Cantrip
 | Components | S |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Each creature in a 5-ft. Aura |
+| Target | Everything in a 5-ft. Aura |
 | Duration | — |
 
 ##### Spell Effect
-Each creature in a **5**-foot Aura makes a Fortitude Save.
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|

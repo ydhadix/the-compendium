@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 30 ft. |
-| Target | Any creatures |
+| Target | Any creatures you choose |
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect

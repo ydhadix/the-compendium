@@ -16,9 +16,17 @@ You sense the presence of any creatures that understand a language.
 
 This Spell is blocked by **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
 
-As a Magic Action, you mentally target a creature that understands a language and learn what is most on its mind right now.
+###### Read Mind
+Magic Action
+{ .subtitle }
 
-As a Magic Action, you mentally target a creature that understands a language. It makes a Will Save.
+You mentally target a creature that understands a language and learn what is most on its mind right now.
+
+###### Probe
+Magic Action
+{ .subtitle }
+
+You mentally target a creature that understands a language. It makes a Will Save.
 
 | | |
 |---|---|

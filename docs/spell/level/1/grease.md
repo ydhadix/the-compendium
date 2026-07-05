@@ -8,11 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | Each creature in a 10-ft. Square on the ground |
+| Target | Everything in a 10-ft. Square on the ground |
 | Duration | 1 minute |
 
 ##### Spell Effect
-The area is Difficult Terrain. Each creature that enters the area, ends its Turn there, or is in the area when this Spell is cast makes a Reflex Save.
+The area is Difficult Terrain.
+
+After your Turn starts, each target makes a Reflex Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next turn.
 
 | | |
 |---|---|

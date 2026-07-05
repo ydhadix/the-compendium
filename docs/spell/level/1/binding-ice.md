@@ -8,11 +8,11 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | Each creature in a 15-ft. Cone |
+| Target | Everything in a 15-ft. Cone |
 | Duration | — |
 
 ##### Spell Effect
-Nonmagical liquid in the area freezes. Each creature in a **15**-foot Cone makes a Fortitude Save.
+Nonmagical liquid in the area freezes. Each target makes a Fortitude Save.
 
 | | |
 |---|---|

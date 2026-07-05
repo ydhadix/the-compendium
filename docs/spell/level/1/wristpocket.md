@@ -14,4 +14,8 @@
 ##### Spell Effect
 You dismiss the target to a pocket dimension.
 
-As a Magic Action, you can cause the target to appear in your hand or return it to the pocket dimension.
+###### Resummon
+Magic Action
+{ .subtitle }
+
+You can cause the target to appear in your hand or return it to the pocket dimension.

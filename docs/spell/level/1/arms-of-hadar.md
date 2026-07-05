@@ -8,11 +8,11 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Each creature in a 10-ft. Aura |
+| Target | Everything in a 10-ft. Aura |
 | Duration | Until the end of the target's next Turn |
 
 ##### Spell Effect
-Each creature in a **10**-foot Aura makes a Fortitude Save.
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|

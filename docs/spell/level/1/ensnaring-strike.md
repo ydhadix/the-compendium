@@ -16,7 +16,7 @@ The target makes a Fortitude Save. A creature larger than you has Advantage.
 
 | | |
 |---|---|
-| Fail | You restrain the target. When the target's Turn starts, you deal **1d6** Piercing Damage. A creature within Reach of the target can Utilize to make an Athletics Check against your Spell Save DC; on a success, this Spell ends on the target. |
+| Fail | You restrain the target. After the target's Turn starts, you deal **1d6** Piercing Damage.<br>**Break Free.** A creature within Reach of the target can Utilize to make an Athletics Check against your Spell Save DC; on a success, this Spell ends on the target. |
 | Success | No effect. |
 
 ##### At Higher Levels

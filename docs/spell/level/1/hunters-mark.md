@@ -12,9 +12,16 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You have Advantage on Perception and Survival Checks to find the target.
+You mark the target.
 
-Before you deal damage to the target with an Attack, you add **1d6** Force Damage.
+You gain the following benefits against marked targets:
+
+- You have Advantage on Perception and Survival Checks to find the target.
+- Before you deal damage to the target with an Attack, you add **1d6** Force Damage.
+
+###### Mark
+Bonus Action
+{ .subtitle }
 
 As a Bonus Action, if the target has **0** Hit Points, you can move the mark to a new target.
 

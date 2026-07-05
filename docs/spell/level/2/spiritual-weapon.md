@@ -12,9 +12,13 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-You create a floating, spectral force resembling a weapon.
+You create a floating, spectral force resembling a weapon.  While the weapon shares your space, it moves with you.
 
-As a Bonus Action, you move the weapon up to your Speed, then can make a Melee Attack against a target within **5** feet of it.
+###### Attack
+Bonus Action
+{ .subtitle }
+
+You move the weapon up to your Speed, then can make a Melee Attack against a target within **5** feet of it.
 
 | | |
 |---|---|

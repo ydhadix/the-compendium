@@ -8,11 +8,11 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | Each creature in a 5-ft. × 30-ft. Line |
+| Target | Everything in a 5-ft. × 30-ft. Line |
 | Duration | — |
 
 ##### Spell Effect
-Each creature in a **5**-foot × **30**-foot Line makes a Reflex Save.
+Each target makes a Reflex Save.
 
 | | |
 |---|---|

@@ -12,7 +12,9 @@
 | Duration | 10 minutes |
 
 ##### Spell Effect
-A creature that enters the area (including when this Spell is cast) or ends its Turn there makes a Will Save. You know whether each target succeeds or fails.
+After your Turn starts, each target makes a Will Save.  After a target enters the area (including when this Spell is cast), it also makes this save.  A target only makes this Saving Throw once until the start of your next turn.
+
+You know whether each target succeeds or fails.
 
 | | |
 |---|---|

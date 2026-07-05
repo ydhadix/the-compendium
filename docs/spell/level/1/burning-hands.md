@@ -8,11 +8,11 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | Each creature in a 15-ft. Cone |
+| Target | Everything in a 15-ft. Cone |
 | Duration | — |
 
 ##### Spell Effect
-Each creature in a **15**-foot Cone makes a Reflex Save.
+Each target makes a Reflex Save.
 
 | | |
 |---|---|

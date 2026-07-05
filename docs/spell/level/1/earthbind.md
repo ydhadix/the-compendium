@@ -16,7 +16,7 @@ The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | The target's Fly Speed becomes **0** feet. If the target falls, its descent slows to **60** feet, and it takes no damage from the fall when it lands. |
+| Fail | The target's Fly Speed becomes **0** feet. If the target falls, its descent slows to **60** feet, and it takes no damage from the fall. |
 | Success | No effect. |
 
 ##### At Higher Levels

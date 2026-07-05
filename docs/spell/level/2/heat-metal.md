@@ -12,9 +12,13 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-You make the target glow red-hot.
+You make the target glow red-hot.  After you cast this spell, you can take the following action _(no additional action required)_.
 
-As a Bonus Action, you deal **2d8** Fire Damage to everything touching the target, and a creature that takes this damage makes a Fortitude Save.
+###### Sear
+Bonus Action
+{ .subtitle }
+
+You deal **2d8** Fire Damage to everything touching the target, and a creature that takes this damage makes a Fortitude Save.
 
 | | |
 |---|---|

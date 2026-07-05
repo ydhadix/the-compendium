@@ -14,12 +14,16 @@
 ##### Spell Effect
 You plant up to **4** arrows in the ground at the center of the area.
 
-A creature that enters the area (including when this Spell is cast) or ends its Turn there causes an arrow to strike it, no more than once per Turn, and makes a Reflex Save. You can designate creatures that don't trigger this effect.
+You can designate creatures that don't trigger this effect.
+
+After your Turn starts, each target makes a Reflex Save.  After a target enters the area (including when this Spell is cast), it also makes this save.  A target only makes this Saving Throw once until the start of your next turn.
 
 | | |
 |---|---|
 | Fail | You deal **2d4** Piercing Damage. |
 | Success | No effect. |
+
+Each time a target makes this Saving Throw, one of the arrows flies up to strike it.  The spell ends when all arrows are used.
 
 ##### At Higher Levels
 Add **2** arrows per additional Spell Level.

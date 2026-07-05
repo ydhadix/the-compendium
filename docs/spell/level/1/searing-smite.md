@@ -14,7 +14,7 @@
 ##### Spell Effect
 You deal **1d6** Fire Damage.
 
-After the target's Turn begins, you deal **1d6** Fire Damage and it makes a Fortitude Save.
+After the target's Turn starts, you deal **1d6** Fire Damage and it makes a Fortitude Save.
 
 | | |
 |---|---|

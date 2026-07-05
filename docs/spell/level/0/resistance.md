@@ -12,4 +12,4 @@ Abjuration Cantrip
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-Choose a Damage Type other than Psychic or Force. Whenever the target takes damage of the chosen type, you reduce that damage by **1d4**.
+Choose a Damage Type other than Psychic or Force. Before the target takes damage of the chosen type, you reduce that damage by **1d4**.

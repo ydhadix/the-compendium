@@ -1,1 +1,1 @@
-| [Pyrotechnics](/spell/level/2/pyrotechnics.md) | Transmutation | V, S | Normal Action | 60 ft. | Each creature in a 20-ft. radius Sphere | 1 minute (C) |
+| [Pyrotechnics](/spell/level/2/pyrotechnics.md) | Transmutation | V, S | Normal Action | 60 ft. | Everything in a 20-ft. radius Sphere | 1 minute (C) |

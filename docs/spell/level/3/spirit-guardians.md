@@ -16,11 +16,7 @@ Choose Radiant or Necrotic.
 
 Targets have their Speed halved while in the area.
 
-After a target enters the area (including when this Spell is cast or the area moves), it makes a Will Save.
-
-After your Turn starts, each target makes a Will Save.
-
-A target only makes this Saving Throw once until the start of your next turn.
+After your Turn starts, each target makes a Will Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next turn.
 
 | | |
 |---|---|

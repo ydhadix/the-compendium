@@ -8,11 +8,11 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | Each creature in a 10-ft. radius Sphere |
+| Target | Everything in a 10-ft. radius Sphere |
 | Duration | — |
 
 ##### Spell Effect
-Each creature in a **10**-foot radius Sphere makes a Fortitude Save.
+Everything in a **10**-foot radius Sphere makes a Fortitude Save.
 
 | | |
 |---|---|

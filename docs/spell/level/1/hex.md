@@ -12,9 +12,16 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-Choose an Ability. The target has Disadvantage on Checks using the chosen Ability.
+You mark the target. Choose an Ability. 
 
-Before you deal damage to the target with an Attack, you add **1d6** Necrotic Damage.
+You gain the following benefits against marked targets:
+
+- The target has Disadvantage on Checks using the chosen Ability.
+- Before you deal damage to the target with an Attack, you add **1d6** Necrotic Damage.
+
+###### Mark
+Bonus Action
+{ .subtitle }
 
 As a Bonus Action, if the target has **0** Hit Points, you can move the mark to a new target _(you don't choose a different Ability)_.
 

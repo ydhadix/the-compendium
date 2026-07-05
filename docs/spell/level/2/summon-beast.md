@@ -12,11 +12,15 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon a bestial spirit companion. Choose an air, land, or water environment, and a kind of animal the companion resembles.
-
-As a Free Action, you command your companion to move and take any action available to it.
+You summon a Bestial Spirit Companion. Choose Land, Water, or Air.
 
 This Spell ends if the companion has **0** Hit Points.
+
+###### Command
+Free Action
+{ .subtitle }
+
+You command your companion to move and take any Action available to it.
 
 ##### At Higher Levels
 The Spell's Level determines your companion's Armor Class, Hit Points, and attack damage.

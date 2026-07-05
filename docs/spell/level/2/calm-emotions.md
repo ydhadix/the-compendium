@@ -12,7 +12,7 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-Each humanoid and Beast in a **20**-foot radius Sphere makes a Will Save.
+Each target makes a Will Save.
 
 | | |
 |---|---|

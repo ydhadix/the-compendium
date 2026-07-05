@@ -12,7 +12,7 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-The target is treated as a magic weapon and gains a **+1** bonus to Weapon Attack and Damage Rolls, unless it already has an equivalent or greater bonus.
+The target becomes a magic weapon and gains a **+1** bonus to Weapon Attack and Damage Rolls, unless it already has an equivalent or greater Masterwork bonus.
 
 ##### At Higher Levels
 When Upcast to 3rd- or 4th-Level, the bonus increases to **+2**.

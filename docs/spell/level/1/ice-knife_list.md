@@ -1,1 +1,1 @@
-| [Ice Knife](/spell/level/1/ice-knife.md) | Conjuration | S, M | Normal Action | 60 ft. | One thing and each creature in a 5-ft. radius Sphere around it | — |
+| [Ice Knife](/spell/level/1/ice-knife.md) | Conjuration | S, M | Normal Action | 60 ft. | One thing and everything in a 5-ft. radius Sphere around it | — |

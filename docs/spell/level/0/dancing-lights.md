@@ -14,4 +14,8 @@ Illusion Cantrip
 ##### Spell Effect
 You create up to **4** hovering lights. Each light emits Dim Light out to **10** feet and vanishes if it moves out of range or isn't within **20** feet of another light.
 
-As a Bonus Action, you can move the lights up to **60** feet. You can combine the lights into **1** Medium, vaguely humanoid form or separate them.
+###### Move
+Bonus Action
+{ .subtitle }
+
+You can move the lights up to **60** feet. You can combine the lights into **1** Medium, vaguely humanoid form or separate them.

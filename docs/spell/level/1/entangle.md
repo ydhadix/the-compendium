@@ -8,11 +8,13 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 90 ft. |
-| Target | Each creature in a 20-ft. Square on the ground |
+| Target | Everything in a 20-ft. Square on the ground |
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-The area is Difficult Terrain. Each creature in a **20**-foot Square makes a Fortitude Save.
+The area is Difficult Terrain.
+
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|

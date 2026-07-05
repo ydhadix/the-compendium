@@ -1,1 +1,1 @@
-| [Thunderwave](/spell/level/1/thunderwave.md) | Evocation | V, S | Normal Action | Reach | Each creature in a 15-ft. Cube | — |
+| [Thunderwave](/spell/level/1/thunderwave.md) | Evocation | V, S | Normal Action | Reach | Everything in a 15-ft. Cube | — |

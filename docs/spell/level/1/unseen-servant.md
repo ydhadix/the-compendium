@@ -16,4 +16,8 @@ You create an invisible, mindless, shapeless, Medium force that performs simple 
 
 This Spell ends if the servant has **0** Hit Points or you command it to move outside this Spell's range.
 
-As a Bonus Action, you can command the servant to move up to **15** feet and interact with an object. It performs the task to the best of its ability until complete, then awaits your next command.
+###### Command
+Bonus Action
+{ .subtitle }
+
+You can command the servant to move up to **15** feet and interact with an object. It performs the task to the best of its ability until complete, then awaits your next command.

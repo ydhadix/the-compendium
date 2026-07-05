@@ -8,11 +8,11 @@
 | Components | V |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | Each creature in a 20-ft. Cube |
+| Target | Everything in a 20-ft. Cube |
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-Each creature in a **20**-foot Cube makes a Reflex Save.
+Each target makes a Reflex Save.
 
 | | |
 |---|---|

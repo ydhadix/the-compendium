@@ -14,7 +14,11 @@
 ##### Spell Effect
 Choose an Elemental Damage Type. The target gains the following action:
 
-**Breath Weapon.**  **Magic Action:**  Each creature in a **15**-foot Cone makes a Reflex Save.
+###### Breath Weapon
+Magic Action
+{ .subtitle }
+
+Everything in a **15**-foot Cone makes a Reflex Save.
 
 | | |
 |---|---|

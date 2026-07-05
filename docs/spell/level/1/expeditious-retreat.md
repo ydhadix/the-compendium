@@ -12,6 +12,4 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-You Dash.
-
-As a Bonus Action, you can Dash.
+You can Dash as a Bonus Action.  After you cast this spell, you can Dash _(no additional action required)_.

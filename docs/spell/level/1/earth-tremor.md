@@ -8,11 +8,13 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Each creature on the ground in a 10-ft. Aura |
+| Target | Everything on the ground in a 10-ft. Aura |
 | Duration | — |
 
 ##### Spell Effect
-Loose earth or stone in the area becomes nonmagical Difficult Terrain. Each creature on the ground in a **10**-foot Aura makes a Fortitude Save.
+Loose earth or stone in the area becomes nonmagical Difficult Terrain.
+
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|

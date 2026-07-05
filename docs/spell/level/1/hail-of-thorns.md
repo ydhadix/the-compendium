@@ -8,11 +8,11 @@
 | Components | V |
 | Casting Time | Bonus Action, when you hit with a Ranged Weapon Attack |
 | Range | — |
-| Target | The target of the attack and each creature in a 5-ft. radius Sphere |
+| Target | Everything in a 5-ft. radius Sphere around the target of the attack |
 | Duration | — |
 
 ##### Spell Effect
-The target of the attack and each creature in a **5**-foot radius Sphere around it make a Reflex Save.
+Each target makes a Reflex Save.
 
 | | |
 |---|---|

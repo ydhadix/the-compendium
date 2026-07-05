@@ -1,1 +1,1 @@
-| [Acid Splash](/spell/level/0/acid-splash.md) | Evocation | V, S | Normal Action | 60 ft. | Each creature in a 5-ft. radius Sphere | — |
+| [Acid Splash](/spell/level/0/acid-splash.md) | Evocation | V, S | Normal Action | 60 ft. | Everything in a 5-ft. radius Sphere | — |

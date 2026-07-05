@@ -12,7 +12,9 @@
 | Duration | 1 minute |
 
 ##### Spell Effect
-The target's descent slows to **60** feet. When the target lands, it takes no damage from the fall and this Spell ends on it.
+The target's descent slows to **60** feet. The target takes no damage from the fall.
+
+After the target lands, this Spell ends on it.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

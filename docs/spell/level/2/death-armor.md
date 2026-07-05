@@ -12,7 +12,7 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-The target has Resistance to death.
+The target has Resistance to Death.
 
 After the target is hit by a Melee Attack, the attacker takes **2d4** Necrotic Damage.
 

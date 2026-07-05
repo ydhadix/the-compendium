@@ -8,11 +8,11 @@ Evocation Cantrip
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | Each creature in a 5-ft. radius Sphere |
+| Target | Everything in a 5-ft. radius Sphere |
 | Duration | — |
 
 ##### Spell Effect
-Each creature in a **5**-foot radius Sphere makes a Reflex Save.
+Each target makes a Reflex Save.
 
 | | |
 |---|---|

@@ -16,7 +16,7 @@ You make a Ranged Spell Attack against the target.
 
 | | |
 |---|---|
-| Hit | You deal **4d4** Acid Damage. At the end of the target's next Turn, you deal **2d4** Acid Damage. |
+| Hit | You deal **4d4** Acid Damage. Before the end of the target's next Turn, you deal **2d4** Acid Damage. |
 | Miss | You deal half as much damage. |
 
 ##### At Higher Levels
