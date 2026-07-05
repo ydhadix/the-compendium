@@ -598,9 +598,23 @@ body {
 .pm-localnav__link:hover { color: var(--clr-divider); }            /* gold on hover */
 .pm-localnav__link--active { color: var(--clr-divider); font-weight: 700; text-transform: uppercase; }
 
-/* Separators are hidden in the left nav (bar + any label) — they live in the
-   mega menu instead, where they're more useful. */
-.pm-localnav__sep { display: none; }
+/* Separators (sentinel "sep:" nav entries; see navtools.py): a thin gold rule
+   matching the nested-list guide bar — same tan at 0.65 opacity and 3px weight —
+   with an optional grouped subheading below. Space sits above the rule. */
+.pm-localnav__sep {
+  list-style: none;
+  margin: 0.35rem 0.6rem 0.1rem;
+  border-top: 3px solid rgba(185, 159, 113, 0.65);   /* = --clr-divider @ 0.65, like the guide line */
+}
+.pm-localnav__sep--labeled {
+  margin: 0.35rem 0 0.1rem;
+  padding: 0.3rem 0.6rem 0;
+}
+.pm-localnav__sep-label {
+  font-family: "Alegreya Sans SC", sans-serif;   /* match table column labels */
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--clr-divider);   /* gold, like the parent section headers */
+}
 
 /* Recent Items — collapsible block at the bottom of the left nav (filled by
    recent.js; hidden until it has entries). A tan rule divides it from the tree
