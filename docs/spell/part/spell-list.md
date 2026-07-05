@@ -1,4 +1,7 @@
 # Class List
+A Spell's Class List names every class that can prepare it.
+{ .subtitle }
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+Each class with a Spellcasting feature has its own Spell List, and a Spell belongs to every class whose List includes it. You can prepare a Spell from a class only if the Spell is on that class's Spell List.
+
+A Spell you Learn from a class feature is treated as though it were on that class's Spell List, even if it isn't listed there.

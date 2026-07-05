@@ -279,9 +279,9 @@ nav:
 
     - Spell Selection:
       - Overview:                 spell/index.md
-      - Preparing Spells (WIP):         spell/preparing.md
-      - Casting Spells (WIP):           spell/casting.md
-      - Parts of a Spell (WIP):
+      - Preparing Spells:         spell/preparing.md
+      - Casting Spells:           spell/casting.md
+      - Parts of a Spell:
         - Overview:               spell/part/index.md
         - Spell Level:            spell/part/spell-level.md
         - Class List:             spell/part/spell-list.md
