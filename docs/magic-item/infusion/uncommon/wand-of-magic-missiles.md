@@ -5,7 +5,7 @@ Uncommon Spellcasting Focus (Arcane Focus)
 **7** Charges (regain **1d6 + 1** per Day)
 { .subtitle }
 
-##### Cast
+###### Cast
 Magic Action, 1 or more Charges
 { .subtitle }
 

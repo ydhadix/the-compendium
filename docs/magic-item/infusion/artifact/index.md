@@ -1,8 +1,7 @@
 # Artifacts
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
+Singular items of immense power and history.
 
-
-| Artifacts | Description |
-|---|---|
+| Item | Type | Description |
+|---|---|---|
+| [Orrery of the Wanderer](orrery-of-the-wanderer.md) | Artifact | A modular clockwork relic of planar travel, assembled from powerful components. |

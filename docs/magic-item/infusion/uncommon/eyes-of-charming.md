@@ -5,7 +5,7 @@ Uncommon Clothing (Jewelry), Attunement
 **3** Charges (regain **1d3** per Day)
 { .subtitle }
 
-##### Cast
+###### Cast
 Magic Action, 1 or more Charges
 { .subtitle }
 
