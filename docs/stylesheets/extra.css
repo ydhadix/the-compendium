@@ -180,7 +180,18 @@ body {
 }
 .md-content {
   background-color: var(--clr-page-bg);   /* parchment panel */
-  padding-inline: var(--pm-pad);          /* scaling interior inset (border-box) */
+  /* Scaling interior inset (border-box). Inlined with 100vw instead of
+     `padding-inline: var(--pm-pad)`: Safari mis-resolves the % inside the
+     custom-property clamp when it feeds padding, collapsing the inset to 0 (which
+     shrinks the panel on empty pages and lets cards run to the edge) — even though
+     the same var resolves correctly for the bands' width. 100vw ≈ .md-main__inner's
+     width (what the old 100% resolved against), so the ramp is unchanged elsewhere. */
+  padding-left:  clamp(var(--pm-pad-min),
+                       calc(var(--pm-pad-min) + (100vw - 60rem) * 0.2427),
+                       var(--pm-pad-max));
+  padding-right: clamp(var(--pm-pad-min),
+                       calc(var(--pm-pad-min) + (100vw - 60rem) * 0.2427),
+                       var(--pm-pad-max));
 }
 [data-md-color-scheme="default"] .md-content {
   background-image: url("../images/textures/paper.png");
@@ -897,7 +908,6 @@ body {
     margin-right: calc(-1 * var(--pm-pad-min));
     padding-left: var(--pm-pad-min);
     padding-right: var(--pm-pad-min);
-    border-left: none; border-right: none; border-radius: 0;
   }
   .subcard {
    margin-bottom: 0;
