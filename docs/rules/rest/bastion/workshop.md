@@ -3,11 +3,11 @@
 | | |
 |---|---|
 | Prerequisite | — |
-| Size | Cramped |
 | Hirelings | 1 |
 | Tools | Three from the list below |
+| Skills | — | 
 
-When you create this facility, choose three of the following:
+When you create this facility, choose three of the following Artisan's Tools:
 
 - Carpenter's Tools
 - Cobbler's Tools
@@ -23,10 +23,10 @@ When you create this facility, choose three of the following:
 - Woodcarver's Tools
 
 #### Collaborative Crafting
-This facility's Hirelings can help craft Items using the facility's Tools, even without meeting the Item's other requirements. You must still meet the Item's requirements yourself.
+This facility's Hirelings can help craft Items using the facility's Tools, even without meeting the Item's other requirements.
 
 #### Upgrading
-| Upgrade | Cost | Effect |
+| Upgrade | Size | Effect |
 |---|---|---|
-| Foundry | 2,000 gold | The facility's Size becomes Roomy, and it gains two Hirelings and three Tools from the Workshop's tool list. |
-| Factory | 7,000 gold | The facility's Size becomes Vast, and it gains two Hirelings and three Tools from the Workshop's tool list. |
+| Foundry | Roomy | The facility gains two Hirelings and three Tools from the Workshop's tool list. |
+| Factory | Vast | The facility gains two Hirelings and three Tools from the Workshop's tool list. |

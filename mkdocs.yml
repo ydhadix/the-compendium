@@ -51,8 +51,6 @@ exclude_docs: |            # files/folders in docs/ that we don't want compiled
   !rules/condition/index.md
   rules/encounter/action/*.md
   !rules/encounter/action/index.md
-  rules/rest/bastion/*.md
-  !rules/rest/bastion/index.md
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
   character/feat/*/*
@@ -63,6 +61,7 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   rules/encounter/action/*
   rules/condition/*
   rules/adventure/hazard/*
+  rules/rest/bastion/*
   spelljammer/*/*/*
   spell/level/*/*
   archive/*/*
