@@ -51,6 +51,8 @@ exclude_docs: |            # files/folders in docs/ that we don't want compiled
   !rules/condition/index.md
   rules/encounter/action/*.md
   !rules/encounter/action/index.md
+  rules/rest/bastion/*.md
+  !rules/rest/bastion/index.md
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
   character/feat/*/*
@@ -146,7 +148,7 @@ nav:
         - Long Rest:              rules/rest/long.md
         - Downtime (WIP):               rules/rest/downtime.md
         - "---": "sep:"
-        - Bastions (WIP):               rules/rest/bastion/index.md
+        - Bastions:               rules/rest/bastion/index.md
       - Conditions:               rules/condition/index.md
 
     - Hero Handbook:
