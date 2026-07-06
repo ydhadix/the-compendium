@@ -3,8 +3,8 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Sorcerers wield magic that wells up from within, an innate gift woven into their very being. They bend and reshape their spells through Metamagic, spending raw Sorcery to twist their power into new and devastating forms.
-
+Sorcerers wield magic that wells up from within, an innate gift woven into their very being. They can bend and reshape their spells through Metamagic, spending raw Sorcery to twist their power into new and devastating forms.
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Sorcery Points | Metamagics Known | Cantrips Known | Spells Prepared |
@@ -21,7 +21,7 @@ Sorcerers wield magic that wells up from within, an innate gift woven into their
 | 10 | <level 10 feature> | 74 | 5 | 6 | 15 |
 | 11 | <level 11 feature> | 84 | 5 | 6 | 16 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Wisdom or Charisma |
@@ -29,7 +29,7 @@ Sorcerers wield magic that wells up from within, an innate gift woven into their
 | Hit Die | d6 |
 | Starting Equipment | 50 gold<br>or<br>Spear, 2 Daggers, Arcane Focus, Dungeoneer's Pack, and 28 gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Sorcerer as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -41,7 +41,7 @@ When you choose Sorcerer as your Primary Class, you gain the following proficien
 | Trades | — |
 | Skills | Arcana and 2 from Deception, Insight, Intimidation, Persuasion, or Religion |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Sorcerer as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -51,7 +51,7 @@ When you choose Sorcerer as your Secondary Class, you gain the following profici
 | Trades | — |
 | Skills | Arcana |
 
-## Sorcerer Features
+## Class Features
 
 ### 1: Spellcasting (Sorcery)
 | Level | Cantrips Known | Spells Prepared | Sorcery Points | 

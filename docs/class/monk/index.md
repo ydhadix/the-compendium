@@ -1,7 +1,6 @@
 # Monk
-
 Monks are disciplined martial artists who channel an inner energy called Ki into feats beyond the body's limits. Fighting unarmored and unarmed, they flow across the battlefield with dazzling speed and strike with stunning precision.
-
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Martial Arts Die | Unarmored Movement |
@@ -18,7 +17,7 @@ Monks are disciplined martial artists who channel an inner energy called Ki into
 | 10 | [Perfect Discipline](#10-perfect-discipline) | d12 | +25 ft. |
 | 11 | [One With Everything](#11-one-with-everything) | d12 | +30 ft. |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Dexterity |
@@ -26,7 +25,7 @@ Monks are disciplined martial artists who channel an inner energy called Ki into
 | Hit Die | d10 |
 | Starting Equipment | 50 gold<br>or<br>Spear, 5 Daggers, 1 Trade item, Explorer's Pack, and 11 gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Monk as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -38,7 +37,7 @@ When you choose Monk as your Primary Class, you gain the following proficiencies
 | Trades | 1 Artisan's Tool or Musical Instrument |
 | Skills | Acrobatics and 2 from Athletics, History, Insight, Religion, or Stealth |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Monk as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -48,7 +47,7 @@ When you choose Monk as your Secondary Class, you gain the following proficienci
 | Trades | — |
 | Skills | Acrobatics |
 
-## Monk Features
+## Class Features
 
 ### 1: Unarmored Stance
 While you are Unarmored and don't have a Shield donned, you gain the following benefits:

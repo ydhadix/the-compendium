@@ -1,7 +1,6 @@
 # Fighter
-
-Fighters are master combatants who have honed weapons and tactics to a razor's edge. They read a battlefield at a glance, surge into sudden bursts of action, and stand unbroken when lesser warriors would fall.
-
+Fighters are master combatants who have honed weapons and tactics to a razor's edge. They can read a battlefield at a glance, surge into sudden bursts of action, and stand unbroken when lesser warriors would fall.
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Situational Awareness | Weapon Mastery | Action Surge | Indomitable |
@@ -18,7 +17,7 @@ Fighters are master combatants who have honed weapons and tactics to a razor's e
 | 10 | [Ability Increase](#10-ability-increase) | 5 | 7 | 2 | 3 |
 | 11 | [Extra Attack](#11-extra-attack) | 5 | 7 | 2 | 3 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Strength or Dexterity |
@@ -26,7 +25,7 @@ Fighters are master combatants who have honed weapons and tactics to a razor's e
 | Hit Die | d10 |
 | Starting Equipment | 155 gold<br>or<br>Heavy Chain, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 gold<br>or<br>Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Fighter as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -38,7 +37,7 @@ When you choose Fighter as your Primary Class, you gain the following proficienc
 | Trades | — |
 | Skills | Athletics and 2 from Acrobatics, History, Insight, Intimidation, Perception, Persuasion, or Survival |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Fighter as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -48,7 +47,7 @@ When you choose Fighter as your Secondary Class, you gain the following proficie
 | Trades | — |
 | Skills | Athletics |
 
-## Fighter Features
+## Class Features
 
 ### 1: Situational Awareness
 You can use the following Situational Awareness effects. [The Fighter Table](#class-table) shows how many Situational Awareness uses you have.

@@ -3,7 +3,8 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Rogues are cunning opportunists who rely on skill, stealth, and precision over brute force. They slip past danger unnoticed and end fights with a single, perfectly placed strike.
+Rogues are cunning opportunists who rely on skill, stealth, and precision over brute force. They can slip past danger unnoticed and end fights with a single, perfectly placed strike.
+{ .subtitle }
 
 
 ## Class Table
@@ -21,7 +22,7 @@ Rogues are cunning opportunists who rely on skill, stealth, and precision over b
 | 10 | <level 10 feature> | 5d6 |
 | 11 | <level 11 feature> | 6d6 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Dexterity |
@@ -29,7 +30,7 @@ Rogues are cunning opportunists who rely on skill, stealth, and precision over b
 | Hit Die | d8 |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Rogue as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -41,7 +42,7 @@ When you choose Rogue as your Primary Class, you gain the following proficiencie
 | Trades | — |
 | Skills | Nature and X from [] |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Rogue as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -51,7 +52,7 @@ When you choose Rogue as your Secondary Class, you gain the following proficienc
 | Trades | — |
 | Skills | Nature |
 
-## Rogue Features
+## Class Features
 
 ### 1: Weapon Mastery
 You learn **2** Weapon Masteries.

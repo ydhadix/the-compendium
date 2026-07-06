@@ -3,7 +3,8 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Barbarians are furious warriors who turn raw emotion into unstoppable force. Wrapped in Rage, they weather blows that would fell others and answer with brutal, punishing strikes.
+Barbarians are furious warriors who turn raw emotion into unstoppable force. Wrapped in Rage, they can weather blows that would fell others and answer with brutal, punishing strikes.
+{ .subtitle }
 
 
 ## Class Table
@@ -21,7 +22,7 @@ Barbarians are furious warriors who turn raw emotion into unstoppable force. Wra
 | 10 | <level 10 feature> | 5 | +4 | 4 |
 | 11 | <level 11 feature> | 5 | +4 | 4 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Strength |
@@ -29,7 +30,7 @@ Barbarians are furious warriors who turn raw emotion into unstoppable force. Wra
 | Hit Die | d12 |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Barbarian as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -41,7 +42,7 @@ When you choose Barbarian as your Primary Class, you gain the following proficie
 | Trades |  |
 | Skills | Athletics and X from [] |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Barbarian as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -51,7 +52,7 @@ When you choose Barbarian as your Secondary Class, you gain the following profic
 | Trades |  |
 | Skills | Athletics |
 
-## Barbarian Features
+## Class Features
 
 ### 1: Weapon Mastery
 You learn Weapon Masteries. The [Barbarian Table](#class-table) shows how many Weapon Masteries you know.

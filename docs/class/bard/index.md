@@ -1,7 +1,6 @@
 # Bard
-
-Bards are consummate performers whose artistry is itself a kind of magic, weaving spells drawn from every tradition. With a word or a note they inspire allies to greatness, and their restless talent leaves no skill wholly beyond them.
-
+Bards are consummate performers whose artistry is itself a kind of magic, weaving spells drawn from every tradition. With a word or a note they can inspire allies to greatness, and their restless talent leaves no skill wholly beyond them.
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Bardic Inspiration | Inspiration Die |
@@ -18,7 +17,7 @@ Bards are consummate performers whose artistry is itself a kind of magic, weavin
 | 10 | [Font of Inspiration](#10-font-of-inspiration) | 5 | d12 |
 | 11 | [Words of Creation](#11-words-of-creation) | 5 | d12 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Intelligence or Charisma |
@@ -26,7 +25,7 @@ Bards are consummate performers whose artistry is itself a kind of magic, weavin
 | Hit Die | d8 |
 | Starting Equipment | 90 gold<br>or<br>Leather Armor, any Musical Instrument, 2 Daggers, Entertainer's Pack, 19 gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Bard as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -38,7 +37,7 @@ When you choose Bard as your Primary Class, you gain the following proficiencies
 | Trades | 3 Musical Instruments or Gaming Sets |
 | Skills | Performance and any 3 |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Bard as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -48,7 +47,7 @@ When you choose Bard as your Secondary Class, you gain the following proficienci
 | Trades | 1 Musical Instrument |
 | Skills | Performance |
 
-## Bard Features
+## Class Features
 
 ### 1: Bardic Inspiration
 You can give other creatures Inspiration Dice.  The [Bard Table](#class-table) shows the size of your Inspiration Dice and how many Bardic Inspiration uses you have.

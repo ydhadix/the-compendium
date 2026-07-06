@@ -4,7 +4,7 @@
     This page is a stub. Content is still being written.
 
 Paladins are holy warriors bound by a sacred oath, blending martial prowess with divine magic. They channel their conviction into every blow, standing as a bulwark of faith against the darkness.
-
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Channel Divinity |
@@ -21,7 +21,7 @@ Paladins are holy warriors bound by a sacred oath, blending martial prowess with
 | 10 | <level 10 feature> | 2 |
 | 11 | <level 11 feature> | 2 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Strength |
@@ -29,7 +29,7 @@ Paladins are holy warriors bound by a sacred oath, blending martial prowess with
 | Hit Die | d10 |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Paladin as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -41,7 +41,7 @@ When you choose Paladin as your Primary Class, you gain the following proficienc
 | Trades | — |
 | Skills | Persuasion and X from [] |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Paladin as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -51,7 +51,7 @@ When you choose Paladin as your Secondary Class, you gain the following proficie
 | Trades | — |
 | Skills | Persuasion |
 
-## Paladin Features
+## Class Features
 
 ### 1: Weapon Mastery
 You learn **2** Weapon Masteries.

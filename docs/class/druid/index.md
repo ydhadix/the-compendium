@@ -3,8 +3,8 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Druids are keepers of the primal world, drawing magic from wild places and the turning of the seasons. They wield the raw power of nature to nurture, to shape, and to unleash the storm.
-
+Druids are keepers of the primal world, drawing magic from wild places and the turning of the seasons. They can wield the raw energy of nature to nurture, to shape, and to unleash its fury.
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Channel Nature |
@@ -21,7 +21,7 @@ Druids are keepers of the primal world, drawing magic from wild places and the t
 | 10 | <level 10 feature> | 5 |
 | 11 | <level 11 feature> | 5 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Intelligence or Wisdom |
@@ -29,7 +29,7 @@ Druids are keepers of the primal world, drawing magic from wild places and the t
 | Hit Die | d8 |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Druid as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -41,7 +41,7 @@ When you choose Druid as your Primary Class, you gain the following proficiencie
 | Trades | — |
 | Skills | Nature and X from [] |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Druid as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -51,7 +51,7 @@ When you choose Druid as your Secondary Class, you gain the following proficienc
 | Trades | — |
 | Skills | Nature |
 
-## Druid Features
+## Class Features
 
 ### 1: Spellcasting
 

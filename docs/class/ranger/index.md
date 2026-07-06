@@ -1,6 +1,6 @@
 # Ranger
-
-Rangers are peerless hunters who stalk the wild borderlands, marking their quarry and running it down without mercy. Drawing on primal magic, they take on the very traits of the beasts they study, adapting to any terrain or prey.
+Rangers are peerless hunters who stalk the wild borderlands, marking their quarry and running it down without mercy. Drawing on primal magic, they can take on the very traits of the beasts they hunt, adapting to any terrain or prey.
+{ .subtitle }
 
 
 ## Class Table
@@ -18,7 +18,7 @@ Rangers are peerless hunters who stalk the wild borderlands, marking their quarr
 | 10 | [Imprinting Master](#10-imprinting-master) | 5 | 1d12 | 5 |
 | 11 | [Foe Slayer](#11-foe-slayer) | 5 | 1d12 | 5 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Strength or Dexterity |
@@ -26,7 +26,7 @@ Rangers are peerless hunters who stalk the wild borderlands, marking their quarr
 | Hit Die | d10 |
 | Starting Equipment | 150 gold<br>or<br>Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus, Explorer's Pack and 7 gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Ranger as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -38,7 +38,7 @@ When you choose Ranger as your Primary Class, you gain the following proficienci
 | Trades | — |
 | Skills | Survival and 3 from Acrobatics, Athletics, Insight, Nature, Perception, or Stealth |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Ranger as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -48,7 +48,7 @@ When you choose Ranger as your Secondary Class, you gain the following proficien
 | Trades | — |
 | Skills | Survival and one Ranger skill |
 
-## Ranger Features
+## Class Features
 
 ### 1: Marked Target
 You learn _Hunter's Mark_ and can cast it using this feature. The [Ranger Table](#class-table) shows how many Marked Target uses you have.

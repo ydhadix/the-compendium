@@ -1,7 +1,6 @@
 # Cleric
-
-Clerics are the chosen vessels of the divine, channeling their deity's power to mend the wounded and smite the wicked. They call on Channel Divinity to turn back the undead and blaze with holy or unholy might.
-
+Clerics are the chosen vessels of the divine, channeling their deity's power to mend the wounded and smite the wicked. They can call on divine might to turn back the undead and blaze with holy or unholy might.
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Channel Divinity |
@@ -18,7 +17,7 @@ Clerics are the chosen vessels of the divine, channeling their deity's power to 
 | 10 | [Improved Blessed Strikes](#10-improved-blessed-strikes) | 5 |
 | 11 | [Divine Intervention](#11-divine-intervention) | 5 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Intelligence, Wisdom, or Charisma |
@@ -26,7 +25,7 @@ Clerics are the chosen vessels of the divine, channeling their deity's power to 
 | Hit Die | d8 |
 | Starting Equipment | 110 gold<br>or<br>Chain Shirt, Medium Shield, Mace, Holy Symbol, Priest's Pack, 7 gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Cleric as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -38,7 +37,7 @@ When you choose Cleric as your Primary Class, you gain the following proficienci
 | Trades | — |
 | Skills | Religion and 2 from History, Insight, Medicine, or Persuasion |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Cleric as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -48,7 +47,7 @@ When you choose Cleric as your Secondary Class, you gain the following proficien
 | Trades | — |
 | Skills | Religion |
 
-## Cleric Features
+## Class Features
 
 ### 1: Channel Divinity
 You can use the following Channel Divinity effects. The [Cleric Table](#class-table) shows how many Channel Divinity uses you have.

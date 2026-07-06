@@ -3,8 +3,8 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Wizards are scholars of the arcane who master magic through relentless study, recording each spell in a hard-won repertoire. With the broadest reach of any caster, they bend reality itself to a well-prepared mind.
-
+Wizards are scholars of the arcane who master magic through relentless study, recording each spell in a hard-won repertoire. With the broadest reach of any caster, they can bend reality itself to a well-prepared mind.
+{ .subtitle }
 
 ## Class Table
 | Level | Features |
@@ -21,7 +21,7 @@ Wizards are scholars of the arcane who master magic through relentless study, re
 | 10 | <level 10 feature> |
 | 11 | <level 11 feature> |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Intelligence |
@@ -29,7 +29,7 @@ Wizards are scholars of the arcane who master magic through relentless study, re
 | Hit Die | d6 |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Wizard as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -41,7 +41,7 @@ When you choose Wizard as your Primary Class, you gain the following proficienci
 | Trades | — |
 | Skills | Nature and X from [] |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Wizard as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -51,7 +51,7 @@ When you choose Wizard as your Secondary Class, you gain the following proficien
 | Trades | — |
 | Skills | Nature |
 
-## Wizard Features
+## Class Features
 
 ### 1: Spellcasting
 | Level | Cantrips Known | Spells Prepared | 1st | 2nd | 3rd | 4th | 5th | 6th |

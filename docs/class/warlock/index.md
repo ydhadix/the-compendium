@@ -3,8 +3,8 @@
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Warlocks draw their power from a pact with an otherworldly patron, trading service for forbidden magic. Their spells return with every brief rest, and eldritch Invocations grant them uncanny gifts no other caster commands.
-
+Warlocks draw their power from a pact with an otherworldly patron, trading service for forbidden magic. Their spells return with every brief rest, and Eldritch Invocations grant them uncanny gifts no other caster commands.
+{ .subtitle }
 
 ## Class Table
 | Level | Features | Invocations Known |
@@ -21,7 +21,7 @@ Warlocks draw their power from a pact with an otherworldly patron, trading servi
 | 10 | <level 10 feature> |  9 |
 | 11 | <level 11 feature> | 10 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Intelligence or Wisdom |
@@ -29,7 +29,7 @@ Warlocks draw their power from a pact with an otherworldly patron, trading servi
 | Hit Die | d8 |
 | Starting Equipment | 100 gold<br>or<br>Leather Armor, Sickle, 2 Daggers, Arcane Focus, Book, Scholar's Pack, and 15 gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Warlock as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -41,7 +41,7 @@ When you choose Warlock as your Primary Class, you gain the following proficienc
 | Trades | — |
 | Skills | Persuasion and 2 from Arcana, Deception, History, Intimidation, Nature, Perception, Religion |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Warlock as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -51,7 +51,7 @@ When you choose Warlock as your Secondary Class, you gain the following proficie
 | Trades | — |
 | Skills | Persuasion |
 
-## Warlock Features
+## Class Features
 
 ### 1: Spellcasting (Pact Magic)
 | Level | Cantrips Known | Spells Prepared | Spell Slots | Slot Level |

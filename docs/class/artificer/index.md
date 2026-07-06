@@ -1,6 +1,6 @@
 # Artificer
-
-Artificers are inventors who treat magic as a craft, channeling spells through tinker's tools and the strange devices they build. They infuse ordinary gear with magical power, coax an animated assistant to life, and turn any workshop into an arsenal.
+Artificers are inventors who treat magic as a craft, channeling spells through tinker's tools and the strange devices they build. They can infuse ordinary gear with magical power, coax an animated assistant to life, and turn any workshop into an arsenal.
+{ .subtitle }
 
 
 ## Class Table
@@ -18,7 +18,7 @@ Artificers are inventors who treat magic as a craft, channeling spells through t
 | 10 | [Magic Item Master](#10-magic-item-master) | 6 | 6 |
 | 11 | [Soul of Artifice](#11-soul-of-artifice) | 6 | 6 |
 
-### Class Details
+## Class Details
 | | |
 |---|---|
 | Primary Ability | Intelligence |
@@ -26,7 +26,7 @@ Artificers are inventors who treat magic as a craft, channeling spells through t
 | Hit Die | d8 |
 | Starting Equipment | 150 gold<br>or<br>chain shirt, tinker's tools, dagger, dungeoneer's pack, and 34 gold |
 
-##### Primary Proficiencies
+### Primary Proficiencies
 When you choose Artificer as your Primary Class, you gain the following proficiencies:
 
 | | |
@@ -38,7 +38,7 @@ When you choose Artificer as your Primary Class, you gain the following proficie
 | Trades | Tinker's Tools and 1 Artisan's Tool |
 | Skills | Arcana and 3 from History, Medicine, Nature, Perception, Persuasion, or Precision |
 
-##### Secondary Proficiencies
+### Secondary Proficiencies
 When you choose Artificer as your Secondary Class, you gain the following proficiencies:
 
 | | |
@@ -48,7 +48,7 @@ When you choose Artificer as your Secondary Class, you gain the following profic
 | Trades | Tinker's Tools |
 | Skills | Arcana |
 
-## Artificer Features
+## Class Features
 
 ### 1: Spellcasting
 | Level | Cantrips Known | Spells Prepared | 1st | 2nd | 3rd |
