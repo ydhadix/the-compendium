@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Sorcerer, Wizard |
 | Components | V, S |
-| Casting Time | Reaction, when you are hit with an Attack |
+| Casting Time | Reaction, before you are hit with an Attack |
 | Range | — |
 | Target | Self |
 | Duration | Until the end of your next Turn |

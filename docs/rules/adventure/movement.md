@@ -24,7 +24,7 @@ Climbing lets you traverse vertical surfaces. You need both hands, and each foot
 ### Falling
 If you are airborne with no way to stay aloft, you immediately fall up to **500** feet. After each of your Turns begins, you fall another **500** feet, until you land or gain a way to stay aloft.
 
-At the end of the fall, you take **1d6** Bludgeoning Damage for every **10** feet you fell and land Prone.
+After the fall, you take **1d6** Bludgeoning Damage for every **10** feet you fell and land Prone.
 
 ### Jumping
 Jumping lets you ignore terrain effects while moving horizontally or vertically. Your Strength sets how far or high you can jump, and each foot you jump costs **1** foot of movement. If you don't Move at least **10** feet in a straight line right before a jump, the distance you can cover is halved.

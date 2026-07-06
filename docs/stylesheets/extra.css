@@ -875,6 +875,43 @@ body {
 .md-typeset__table { display: block; width: 100%; padding-top: 0.1em; margin: 0; padding-left: 0; padding-right: 0; }
 .md-typeset__table table { width: auto; min-width: 100%; table-layout: auto; }
 
+/* Scroll shadows — tables.js wraps each scroller in .pm-tablewrap (non-scrolling)
+   and toggles --left / --right when that edge still has hidden content. The
+   overlays float above the opaque cells: a divider-gold border (matching the
+   table's own 3px frame, which is scrolled off at a cut edge) plus a soft shadow
+   fading inward, so a partly-scrolled table still reads as framed with "more here". */
+.pm-tablewrap { position: relative; }
+.pm-tablewrap::before,
+.pm-tablewrap::after {
+  content: "";
+  position: absolute;
+  top: 0.1em;                        /* clear .md-typeset__table's padding-top */
+  bottom: 8px;                       /* clear the scroller's padding-bottom / scrollbar */
+  width: 1.5rem;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 2;
+  /* Full gold frame on the scrolling edge plus top and bottom, matching the
+     table's own 3px border. background-clip keeps the shadow inside the padding
+     box so it never bleeds under the border — the frame reads as sitting above
+     the shadow, and the top/bottom segments cap the corners the shadow touches. */
+  border: 3px solid var(--clr-divider);
+  background-clip: padding-box;
+}
+.pm-tablewrap::before {
+  left: 0;
+  border-right: 0;                   /* open toward the table interior */
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0));
+}
+.pm-tablewrap::after {
+  right: 0;
+  border-left: 0;                    /* open toward the table interior */
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0));
+}
+.pm-tablewrap--left::before { opacity: 1; }
+.pm-tablewrap--right::after { opacity: 1; }
+
 /* =========================================================================
    Content elements — subtitle caption + card / subcard containers
    ========================================================================= */
@@ -926,7 +963,13 @@ body {
   .subcard {
    margin-bottom: 0;
   }
+  /* Bleed wide tables to the viewport edges. When tables.js has wrapped the
+     scroller the bleed lives on .pm-tablewrap (so the scroll-shadow overlays,
+     positioned against it, land on the true edges); the scroller then sits flush
+     inside. The bare-scrollwrap rule is the fallback before/without that JS. */
   .md-typeset__scrollwrap { margin-left: -0.8rem; margin-right: -0.8rem; }
+  .pm-tablewrap { margin-left: -0.8rem; margin-right: -0.8rem; }
+  .pm-tablewrap > .md-typeset__scrollwrap { margin-left: 0; margin-right: 0; }
 }
 
 /* =========================================================================

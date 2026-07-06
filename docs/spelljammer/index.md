@@ -1,14 +1,12 @@
 # Spelljammer Schematic
-
-!!! note "In progress"
-    This page is a stub. Content is still being written.
-
+Spelljamming Ships sail the astral sea and fight at massive scale.
+{ .subtitle }
 
 | Sections | Description |
 |---|---|
-| [Creating a Ship](creation.md) | `Description TBD` |
-| [Ship Components](component/index.md) | `Description TBD` |
-| [Officers](officer/index.md) | `Description TBD` |
-| [Ship Combat](combat/index.md) | `Description TBD` |
-| [Leviathans](leviathan.md) | `Description TBD` |
-| [Example Ships](example/index.md) | `Description TBD` |
+| [Ship Encounters](encounter.md) | How Initiative, Time, Distance, and Damage work at ship scale. |
+| [Ship Officers](officer/index.md) | The three roles that crew a Ship and the Actions they command. |
+| [Ship Components](component/index.md) | The Officers' equipment that shapes a Ship. |
+| [Leviathans](leviathan.md) | Creatures so vast they fight as Ships. |
+| [Creating a Ship](creation.md) | A Ship's stat block and the Components that outfit it. |
+| [Example Ships](example/index.md) | Ready-to-use Ship profiles for play. |
