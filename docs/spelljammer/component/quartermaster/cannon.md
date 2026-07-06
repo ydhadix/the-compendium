@@ -1,4 +1,4 @@
-### Cannon
+##### Cannon
 Quartermaster Weapon
 { .subtitle }
 

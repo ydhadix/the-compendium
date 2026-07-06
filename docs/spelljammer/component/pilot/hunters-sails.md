@@ -1,4 +1,4 @@
-### Hunter's Sails
+##### Hunter's Sails
 Pilot Component
 { .subtitle }
 

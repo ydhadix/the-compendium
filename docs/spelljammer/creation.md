@@ -9,7 +9,7 @@ A Ship's stats are build from a base stat block and Components its Officers inst
 | [Defenses](#defenses) | How to measure a Ship's hull integrity. |
 | [Ship Components](#ship-components) | The different options a Ship has available to its Officers. |
 
-See [Example Ships](example/index.md) for complete profiles.
+See [Ship Types](type/index.md) for base ship stat blocks.
 
 ## Ship Size
 A Ship's size is measured by its length and width, in feet.  For every 30 feet of the Ship's longest dimension (rounded up), its Size Class increases by **1**.

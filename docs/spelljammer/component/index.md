@@ -16,4 +16,5 @@ Some Components can be attacked. A targetable Component has its own Armor Class,
 #### Disabling Components
 When a Component's Hull Points reach **0**, it is Disabled. A Disabled Component offers no benefits, can't be used, and can't be readily repaired in combat.
 
+#### Destroying Components
 When a Component's Keel Points reach **0**, it is destroyed. A destroyed Component is irreparably damaged and must be replaced outside of combat.

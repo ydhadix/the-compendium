@@ -1,9 +1,5 @@
 # Rules Rolodex
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
-
-
 | Sections | Description |
 |---|---|
 | [Character Traits](trait/index.md) | The mechanical facts on your character sheet — Abilities, Proficiencies, Speeds, and more. |

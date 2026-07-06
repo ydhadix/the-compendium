@@ -66,6 +66,7 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   rules/adventure/hazard/*
   rules/rest/bastion/*
   spelljammer/*/*/*
+  spelljammer/*/*
   spell/level/*/*
   archive/*/*
   archive/*
@@ -92,7 +93,7 @@ nav:
   - The Compendium:
     - Overview:                   index.md
 
-    - Rules Rolodex (WIP):
+    - Rules Rolodex:
       - Overview:                 rules/index.md
       - Character Traits:
         - Overview:               rules/trait/index.md
@@ -292,15 +293,14 @@ nav:
         - Area of Effect:         spell/part/area.md
         - Duration:               spell/part/duration.md
         - Concentration:          spell/part/concentration.md
-      - "---": "sep:"
-      - Spells by Level:
-        - Cantrips:               spell/level/0/index.md
-        - 1st-Level:              spell/level/1/index.md
-        - 2nd-Level:              spell/level/2/index.md
-        - 3rd-Level (WIP):              spell/level/3/index.md
-        - 4th-Level (WIP):              spell/level/4/index.md
-        - 5th-Level (WIP):              spell/level/5/index.md
-        - 6th-Level (WIP):              spell/level/6/index.md
+      - "Spells by Level": "sep:"
+      - Cantrips:                 spell/level/0/index.md
+      - 1st-Level:                spell/level/1/index.md
+      - 2nd-Level:                spell/level/2/index.md
+      - 3rd-Level (WIP):          spell/level/3/index.md
+      - 4th-Level (WIP):          spell/level/4/index.md
+      - 5th-Level (WIP):          spell/level/5/index.md
+      - 6th-Level (WIP):          spell/level/6/index.md
 
     - Spelljammer Schematic:
       - Overview:                 spelljammer/index.md
@@ -310,15 +310,14 @@ nav:
         - Pilot:                  spelljammer/officer/pilot/index.md
         - Quartermaster:          spelljammer/officer/quartermaster.md
         - Spelljammer:            spelljammer/officer/spelljammer/index.md
+      - Creating a Ship:          spelljammer/creation.md
+      - Ship Types:               spelljammer/type/index.md
       - Ship Components:
         - Overview:               spelljammer/component/index.md
         - Pilot Components:       spelljammer/component/pilot/index.md
         - Quartermaster Components: spelljammer/component/quartermaster/index.md
         - Spelljammer Helms:      spelljammer/component/spelljammer/index.md
       - Leviathans:               spelljammer/leviathan.md
-      - "---": "sep:"
-      - Creating a Ship:          spelljammer/creation.md
-      - Example Ships:            spelljammer/example/index.md
 
   # - The Archives:
   #   - Overview:                   archive/index.md

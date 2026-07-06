@@ -1,4 +1,4 @@
-### Living Hull
+##### Living Hull
 Quartermaster Component
 { .subtitle }
 

@@ -1,4 +1,4 @@
-### Righteous Helm
+##### Righteous Helm
 Spelljammer Helm
 { .subtitle }
 
