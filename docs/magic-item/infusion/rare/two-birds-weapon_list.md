@@ -1,0 +1,1 @@
+| [Two-Birds Weapon](/magic-item/infusion/rare/two-birds-weapon.md) | Rare | Weapon (Sling or Thrown) | No |

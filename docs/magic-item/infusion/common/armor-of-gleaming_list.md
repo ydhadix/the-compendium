@@ -1,0 +1,1 @@
+| [Armor of Gleaming](/magic-item/infusion/common/armor-of-gleaming.md) | Common | Armor (Any) | No |

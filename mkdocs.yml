@@ -265,21 +265,17 @@ nav:
         - Armor Types:            item/armor/type.md
         - Shields:                item/armor/shield/index.md
 
-    - Magic Item Manual (WIP):
+    - Magic Item Manual:
       - Overview:                 magic-item/infusion/index.md
       - Infusing Items:           magic-item/infusion/infusing.md
-      - Attunement:               magic-item/infusion/attunement.md
-      - Charges:                  magic-item/infusion/charge.md
-      - "---": "sep:"
-      - Infusions:
-        - Overview:               magic-item/infusion/index.md
-        - Common:                 magic-item/infusion/common/index.md
-        - Uncommon:               magic-item/infusion/uncommon/index.md
-        - Rare:                   magic-item/infusion/rare/index.md
-        - Very Rare:              magic-item/infusion/very-rare/index.md
-        - Legendary:              magic-item/infusion/legendary/index.md
-        - Artifacts:              magic-item/infusion/artifact/index.md
-        - Unique:                 magic-item/infusion/unique/index.md
+      - "Infusions by Rarity": "sep:"
+      - Common:                 magic-item/infusion/common/index.md
+      - Uncommon:               magic-item/infusion/uncommon/index.md
+      - Rare:                   magic-item/infusion/rare/index.md
+      - Very Rare:              magic-item/infusion/very-rare/index.md
+      - Legendary:              magic-item/infusion/legendary/index.md
+      - Artifacts:              magic-item/infusion/artifact/index.md
+      - Unique:                 magic-item/infusion/unique/index.md
 
     - Spell Selection:
       - Overview:                 spell/index.md
@@ -297,8 +293,7 @@ nav:
         - Duration:               spell/part/duration.md
         - Concentration:          spell/part/concentration.md
       - "---": "sep:"
-      - Spell Levels:
-        - Overview:               spell/level/index.md
+      - Spells by Level:
         - Cantrips:               spell/level/0/index.md
         - 1st-Level:              spell/level/1/index.md
         - 2nd-Level:              spell/level/2/index.md

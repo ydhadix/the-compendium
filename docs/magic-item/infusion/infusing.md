@@ -1,16 +1,11 @@
 # Infusing Items
-
 You can spend time and money to add Infusions to your equipment.
 { .subtitle }
 
-An item can have up to **2** Infusions at a time, and only **1** of them can require Attunement.
-
 ## Requirements
-
 You can infuse a Magic Item, provided you have Proficiency in Arcana. If the Infusion casts or replicates any Spells, you must know them each day you spend infusing the item.
 
 ## Time and Cost
-
 The Cost of infusing an item is paid in raw materials and time based on the Infusion's Rarity. Consumable items require half as much time and gold.
 
 | Rarity | Time | Cost |
@@ -26,7 +21,6 @@ Every day of infusing requires **8** hours of work, but the total hours and days
 You can work with others to shorten the infusing time, provided each contributor has the appropriate Proficiencies and Spells. Each contributor reduces the total time as though they were working independently.
 
 ### Spell Scrolls
-
 The time and cost to craft a Spell Scroll is based on the Spell Level of the Spell it contains, instead of the Rarity of the scroll.
 
 | Spell Level | Time | Cost |
@@ -43,9 +37,7 @@ The time and cost to craft a Spell Scroll is based on the Spell Level of the Spe
 | 9th | **120** days | **50,000** gold |
 
 ## Removing Infusions
-
 You can permanently remove an Infusion from a Magic Item with **8** hours of work, provided you have Proficiency in Arcana and know _Dispel Magic_. Cursed and Artifact Infusions can't be removed without special methods unique to the item.
 
 ## Transferring Infusions
-
 You can transfer an Infusion from a Magic Item to another appropriate item, provided you have Proficiency in Arcana. Doing so costs no gold and takes half the time a new Infusion of the same Rarity would take.

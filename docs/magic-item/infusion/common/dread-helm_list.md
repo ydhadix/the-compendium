@@ -1,0 +1,1 @@
+| [Dread Helm](/magic-item/infusion/common/dread-helm.md) | Common | Clothing (Hat) | No |

@@ -1,0 +1,1 @@
+| [Manifold Tool](/magic-item/infusion/common/manifold-tool.md) | Common | Wondrous Item | Yes (Artificer) |

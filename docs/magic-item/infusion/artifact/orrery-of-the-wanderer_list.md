@@ -1,0 +1,1 @@
+| [Orrery of the Wanderer](/magic-item/infusion/artifact/orrery-of-the-wanderer.md) | Artifact | Wondrous Item | Yes |

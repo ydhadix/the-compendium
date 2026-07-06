@@ -1,8 +1,6 @@
 # Legendary
+The most powerful craftable Infusions.
+{ .subtitle }
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
-
-
-| Legendary | Description |
-|---|---|
+| Item | Rarity | Type | Attunement |
+|---|---|---|---|

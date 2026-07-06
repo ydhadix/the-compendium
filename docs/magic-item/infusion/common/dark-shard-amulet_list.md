@@ -1,0 +1,1 @@
+| [Dark Shard Amulet](/magic-item/infusion/common/dark-shard-amulet.md) | Common | Spellcasting Focus (Arcane Focus) | Yes (Warlock) |

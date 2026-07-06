@@ -1,0 +1,1 @@
+| [Wand of Web](/magic-item/infusion/uncommon/wand-of-web.md) | Uncommon | Spellcasting Focus (Arcane Focus) | Yes (Spellcaster) |

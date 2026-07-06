@@ -1,0 +1,1 @@
+| [Ring of Swimming](/magic-item/infusion/uncommon/ring-of-swimming.md) | Uncommon | Clothing (Jewelry) | No |

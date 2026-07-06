@@ -1,0 +1,1 @@
+| [Wand of the War Mage](/magic-item/infusion/common/wand-of-the-war-mage.md) | Common | Spellcasting Focus (Arcane Focus) | Yes (Spellcaster) |

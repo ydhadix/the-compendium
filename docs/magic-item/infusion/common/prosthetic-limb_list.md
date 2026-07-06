@@ -1,0 +1,1 @@
+| [Prosthetic Limb](/magic-item/infusion/common/prosthetic-limb.md) | Common | Wondrous Item | No |

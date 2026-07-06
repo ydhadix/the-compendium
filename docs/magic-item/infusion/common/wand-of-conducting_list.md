@@ -1,0 +1,1 @@
+| [Wand of Conducting](/magic-item/infusion/common/wand-of-conducting.md) | Common | Spellcasting Focus (Arcane Focus) | No |

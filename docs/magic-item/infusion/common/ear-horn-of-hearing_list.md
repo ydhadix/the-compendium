@@ -1,0 +1,1 @@
+| [Ear Horn of Hearing](/magic-item/infusion/common/ear-horn-of-hearing.md) | Common | Wondrous Item | No |

@@ -1,0 +1,1 @@
+| [Perfume of Bewitching](/magic-item/infusion/common/perfume-of-bewitching.md) | Common | Potion | No |

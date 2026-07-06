@@ -1,0 +1,1 @@
+| [Talking Doll](/magic-item/infusion/common/talking-doll.md) | Common | Wondrous Item | Yes |

@@ -599,12 +599,12 @@ body {
 .pm-localnav__link--active { color: var(--clr-divider); font-weight: 700; text-transform: uppercase; }
 
 /* Separators (sentinel "sep:" nav entries; see navtools.py): a thin gold rule
-   matching the nested-list guide bar — same tan at 0.65 opacity and 3px weight —
+   matching the nested-list guide bar — same tan at 0.65 opacity —
    with an optional grouped subheading below. Space sits above the rule. */
 .pm-localnav__sep {
   list-style: none;
   margin: 0.35rem 0.6rem 0.1rem;
-  border-top: 3px solid rgba(185, 159, 113, 0.65);   /* = --clr-divider @ 0.65, like the guide line */
+  border-top: 2px solid rgba(185, 159, 113, 0.65);   /* = --clr-divider @ 0.65, like the guide line */
 }
 .pm-localnav__sep--labeled {
   margin: 0.35rem 0 0.1rem;

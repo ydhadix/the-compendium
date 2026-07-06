@@ -1,0 +1,1 @@
+| [Lantern of Revealing](/magic-item/infusion/uncommon/lantern-of-revealing.md) | Uncommon | Wondrous Item (Hooded or Bullseye Lantern) | No |

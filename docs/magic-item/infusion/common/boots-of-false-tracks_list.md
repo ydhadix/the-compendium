@@ -1,0 +1,1 @@
+| [Boots of False Tracks](/magic-item/infusion/common/boots-of-false-tracks.md) | Common | Clothing (Boots) | Yes |

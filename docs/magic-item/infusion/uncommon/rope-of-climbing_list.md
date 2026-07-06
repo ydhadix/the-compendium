@@ -1,0 +1,1 @@
+| [Rope of Climbing](/magic-item/infusion/uncommon/rope-of-climbing.md) | Uncommon | Wondrous Item | No |

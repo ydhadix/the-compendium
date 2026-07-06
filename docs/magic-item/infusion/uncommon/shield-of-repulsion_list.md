@@ -1,0 +1,1 @@
+| [Shield of Repulsion](/magic-item/infusion/uncommon/shield-of-repulsion.md) | Uncommon | Shield (Any) | No |

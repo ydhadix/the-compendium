@@ -1,0 +1,1 @@
+| [Boots of Spider Climb](/magic-item/infusion/uncommon/boots-of-spider-climb.md) | Uncommon | Clothing (Boots) | Yes |

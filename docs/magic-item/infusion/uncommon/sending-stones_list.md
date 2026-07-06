@@ -1,0 +1,1 @@
+| [Sending Stones](/magic-item/infusion/uncommon/sending-stones.md) | Uncommon | Wondrous Item | No |

@@ -1,0 +1,1 @@
+| [Bag of Holding](/magic-item/infusion/uncommon/bag-of-holding.md) | Uncommon | Wondrous Item | No |

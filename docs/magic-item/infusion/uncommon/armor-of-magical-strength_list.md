@@ -1,0 +1,1 @@
+| [Armor of Magical Strength](/magic-item/infusion/uncommon/armor-of-magical-strength.md) | Uncommon | Armor (Any) | Yes (Spellcaster) |

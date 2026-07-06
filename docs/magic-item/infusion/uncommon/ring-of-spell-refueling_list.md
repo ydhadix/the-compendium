@@ -1,0 +1,1 @@
+| [Ring of Spell Refueling](/magic-item/infusion/uncommon/ring-of-spell-refueling.md) | Uncommon | Clothing (Jewelry) | Yes (Spellcaster) |

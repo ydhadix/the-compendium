@@ -1,0 +1,1 @@
+| [Boots of the Stormsailor](/magic-item/infusion/rare/boots-of-the-stormsailor.md) | Rare | Clothing (Boots) | No |

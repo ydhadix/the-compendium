@@ -133,17 +133,19 @@ After you infuse an item, you can Attune to it immediately.
 
 The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end.
 
-| Infusion | Rarity | Attunement |
-|---|---|---|
-| Alchemy Jug | Uncommon | No |
-| Cap of Water Breathing | Uncommon | No |
-| Helm of Awareness | Uncommon | No |
-| Ring of Mind Sharpening | Uncommon | Yes |
-| Sending Stones | Uncommon | No |
-| Wand of Secrets | Uncommon | No |
-| Weapon of Returning | Uncommon | No |
-| Any Artisan's Tool | - | - |
-| +1 Weapon, Shield, or Focus | - | - |
+| Item | Rarity | Type | Attunement |
+|---|---|---|---|
+--8<-- "magic-item/infusion/uncommon/alchemy-jug_list.md"
+--8<-- "magic-item/infusion/uncommon/cap-of-water-breathing_list.md"
+--8<-- "magic-item/infusion/uncommon/helm-of-awareness_list.md"
+--8<-- "magic-item/infusion/uncommon/ring-of-mind-sharpening_list.md"
+--8<-- "magic-item/infusion/uncommon/sending-stones_list.md"
+--8<-- "magic-item/infusion/uncommon/wand-of-secrets_list.md"
+--8<-- "magic-item/infusion/uncommon/weapon-of-returning_list.md"
+| Any [Artisan's Tool](../../item/trade/artisan/index.md) | - | Tool(Artisan's Tool) | - |
+| [+1 Weapon](../../item/weapon/index.md) | - | Weapon (Any) | - |
+| [+1 Focus](../../item/gear/spell-focus/index.md) | - | Spellcasting Focus (Any) | - |
+| [+1 Shield](../../item/armor/shield/index.md) | - | Armor (Any Shield) | - |
 
 
 ### 2: Fighting Style
@@ -185,19 +187,19 @@ You gain an additional Attunement slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Infusion | Rarity | Attunement |
-|---|---|---|
-| Armor of Magical Strength | Uncommon | Yes |
-| Boots of the Winding Path | Uncommon | Yes |
-| Cloak of the Manta Ray | Uncommon | No |
-| Eyes of Minute Seeing | Uncommon | No |
-| Lantern of Revealing | Uncommon | No |
-| Pipes of Haunting | Uncommon | Yes |
-| Ring of Swimming | Uncommon | No |
-| Shield of Repulsion | Uncommon | No |
-| Wand of Magic Missiles | Uncommon | No |
-| Weapon of Radiance | Uncommon | Yes |
-| +1 Armor | - | - |
+| Item | Rarity | Type | Attunement |
+|---|---|---|---|
+--8<-- "magic-item/infusion/uncommon/armor-of-magical-strength_list.md"
+--8<-- "magic-item/infusion/uncommon/boots-of-the-winding-path_list.md"
+--8<-- "magic-item/infusion/uncommon/cloak-of-the-manta-ray_list.md"
+--8<-- "magic-item/infusion/uncommon/eyes-of-minute-seeing_list.md"
+--8<-- "magic-item/infusion/uncommon/lantern-of-revealing_list.md"
+--8<-- "magic-item/infusion/uncommon/pipes-of-haunting_list.md"
+--8<-- "magic-item/infusion/uncommon/ring-of-swimming_list.md"
+--8<-- "magic-item/infusion/uncommon/shield-of-repulsion_list.md"
+--8<-- "magic-item/infusion/uncommon/wand-of-magic-missiles_list.md"
+--8<-- "magic-item/infusion/uncommon/weapon-of-radiance_list.md"
+| [+1 Armor](../../item/armor/index.md) | - | Armor (Any) | - |
 
 
 ### 5: Extra Attack
@@ -216,13 +218,12 @@ You ignore all Class, Race, Spell, and Level requirements to use or Attune to Ma
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Infusion | Rarity | Attunement |
-|---|---|---|
-| Dagger of Venom | Rare | Yes |
-| Item of Resistance | Rare | No |
-| Ring of Jumping | Rare | Yes |
-| Any Uncommon Infusion | Uncommon | - |
-| +2 Weapon, Shield, or Focus | - | - |
+| Item | Rarity | Type | Attunement |
+|---|---|---|---|
+| [Any Uncommon Infusion](../../magic-item/infusion/uncommon/index.md) | Uncommon | Varies | Varies |
+| [+2 Weapon](../../item/weapon/index.md) | - | Weapon (Any) | - |
+| [+2 Focus](../../item/gear/spell-focus/index.md) | - | Spellcasting Focus (Any) | - |
+| [+2 Shield](../../item/armor/shield/index.md) | - | Armor (Any Shield) | - |
 
 
 ### 8: Spell-Storing Item
@@ -244,12 +245,12 @@ You gain an additional Attunement slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Infusion | Rarity | Attunement |
-|---|---|---|
-| Arrow-Catching Shield | Rare | Yes |
-| Ring of Free Action | Rare | Yes |
-| Ring of the Ram | Rare | Yes |
-| +2 Armor | - | - |
+| Item | Rarity | Type | Attunement |
+|---|---|---|---|
+--8<-- "magic-item/infusion/rare/arrow-catching-shield_list.md"
+--8<-- "magic-item/infusion/rare/ring-of-free-action_list.md"
+--8<-- "magic-item/infusion/rare/ring-of-the-ram_list.md"
+| [+1 Armor](../../item/armor/index.md) | - | Armor (Any) | - |
 
 
 ### 11: Soul of Artifice

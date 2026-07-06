@@ -1,0 +1,1 @@
+| [Handy Spice Pouch](/magic-item/infusion/common/handy-spice-pouch.md) | Common | Wondrous Item | No |

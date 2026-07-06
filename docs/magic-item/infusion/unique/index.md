@@ -1,8 +1,6 @@
 # Unique
+One-of-a-kind items with custom properties.
+{ .subtitle }
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
-
-
-| Unique | Description |
-|---|---|
+| Item | Rarity | Type | Attunement |
+|---|---|---|---|

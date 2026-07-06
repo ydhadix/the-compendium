@@ -1,7 +1,7 @@
 # Artifacts
-
 Singular items of immense power and history.
+{ .subtitle }
 
-| Item | Type | Description |
-|---|---|---|
-| [Orrery of the Wanderer](orrery-of-the-wanderer.md) | Artifact | A modular clockwork relic of planar travel, assembled from powerful components. |
+| Item | Rarity | Type | Attunement |
+|---|---|---|---|
+--8<-- "magic-item/infusion/artifact/orrery-of-the-wanderer_list.md"

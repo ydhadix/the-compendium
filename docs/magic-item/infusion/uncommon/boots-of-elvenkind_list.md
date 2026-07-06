@@ -1,0 +1,1 @@
+| [Boots of Elvenkind](/magic-item/infusion/uncommon/boots-of-elvenkind.md) | Uncommon | Clothing (Boots) | No |

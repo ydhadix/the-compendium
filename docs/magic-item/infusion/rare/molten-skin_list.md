@@ -1,0 +1,1 @@
+| [Molten Skin](/magic-item/infusion/rare/molten-skin.md) | Rare | Armor (Medium or Heavy) | No |

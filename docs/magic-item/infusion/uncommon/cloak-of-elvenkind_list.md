@@ -1,0 +1,1 @@
+| [Cloak of Elvenkind](/magic-item/infusion/uncommon/cloak-of-elvenkind.md) | Uncommon | Clothing (Cloak) | Yes |

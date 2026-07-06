@@ -1,0 +1,1 @@
+| [Docent](/magic-item/infusion/rare/docent.md) | Rare | Wondrous Item | Yes (Construct Companion) |
