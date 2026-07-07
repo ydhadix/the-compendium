@@ -1,4 +1,4 @@
-# Metamagics
+# Metamagic
 
 A Sorcerer bends their Spells with Metamagic, spending Sorcery Points to reshape a Spell as they cast it. Only one Metamagic can be applied to a Spell, unless a Metamagic says otherwise.
 

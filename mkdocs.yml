@@ -220,7 +220,7 @@ nav:
       - Sorcerer (WIP):
         - Class Details:          class/sorcerer/index.md
         - Sorcerer Spell List:    class/sorcerer/spell-list.md
-        - Metamagics:             class/sorcerer/metamagic/index.md
+        - Metamagic:              class/sorcerer/metamagic/index.md
         # - "Subclasses": "sep:"
       - Warlock (WIP):
         - Class Details:          class/warlock/index.md
