@@ -4,3 +4,4 @@ site/
 *.pyc
 __pycache__/
 .claude/*
+5etools-src/
