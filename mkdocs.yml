@@ -53,6 +53,8 @@ exclude_docs: |            # files/folders in docs/ that we don't want compiled
   !rules/encounter/action/index.md
   spelljammer/component/*/*.md
   !spelljammer/component/*/index.md
+  class/sorcerer/metamagic/*.md
+  !class/sorcerer/metamagic/index.md
 
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
