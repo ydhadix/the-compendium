@@ -1,5 +1,5 @@
 ---
-hide-localnav: true
+hide_localnav: true
 banner: campaign/odyssey.png
 ---
 

@@ -1,9 +1,9 @@
 # Senses
-A Sense lets you perceive your surroundings in conditions that would otherwise hinder you.
+`Description TBD`
 { .subtitle }
 
-## Senses
-Most Senses have a range, in feet; anything beyond that range is unaffected by the Sense.
+## Range
+Most Senses have a range, in feet; anything beyond that range is unaffected by the Sense.  If you gain the same Sense from more than one effect, add their ranges together.
 
 ### Blindsight
 You can perceive your surroundings without relying on sight. You ignore the Blinded and Invisible conditions, and you ignore Half Cover and Three-Quarters Cover.
@@ -25,6 +25,3 @@ Within its range, you:
 - see visual illusions as translucent, and automatically succeed on Saving Throws against them.
 - see the true form of any creature or object transformed by magic.
 - can see into the Ethereal Plane.
-
-## Adding Senses
-If you gain the same Sense from more than one effect, add their ranges together.

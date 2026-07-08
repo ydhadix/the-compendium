@@ -258,6 +258,19 @@ body {
 /* Desktop: breathing room left of the mega-menu and right of search. */
 @media screen and (min-width: 60em) {
   .md-header__inner { padding-left: 2rem; padding-right: 2rem; }
+
+  /* Nav pages: the header overhangs the left nav (its left edge sits at the nav's
+     left edge, --pm-nav-foot to the left of the content panel). Drop the inner's
+     left padding and give the site icon a slot exactly the nav's width, centring
+     the icon above the nav, so the mega-menu's first item begins flush with the
+     content panel's left edge instead of hanging over the nav. */
+  body:has(.pm-localnav) .md-header__inner { padding-left: 0; }
+  body:has(.pm-localnav) .md-header__button.md-logo {
+    flex: 0 0 var(--pm-nav-foot);
+    width: var(--pm-nav-foot);
+    margin: 0;
+    justify-content: center;
+  }
 }
 
 /* ----- Search box. Resting/hover = grey (#666) with light text;

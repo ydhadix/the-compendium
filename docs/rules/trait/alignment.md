@@ -1,5 +1,5 @@
 # Alignment
-A creature's Alignment broadly describes its ethical attitudes and ideals.
+`Description TBD`
 { .subtitle }
 
 | | Lawful | Neutral | Chaotic |

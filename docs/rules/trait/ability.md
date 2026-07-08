@@ -1,10 +1,10 @@
 # Abilities
-Every creature has six Abilities that measure its raw capabilities.
+`Description TBD`
 { .subtitle }
 
+### The Six Abilities
 Each Ability is a modifier you add to the D20 Tests and other rolls and traits it governs.
 
-## The Six Abilities
 | Ability | Description | Uses |
 |---|---|---|
 | Strength | physical might | Melee Attacks, Heavy Armor, Damage Reduction, Carry Capacity |
@@ -14,7 +14,7 @@ Each Ability is a modifier you add to the D20 Tests and other rolls and traits i
 | Wisdom | awareness, empathy, and mental fortitude | Spellcasting, Will Saves |
 | Charisma | confidence, poise, and charm | Spellcasting |
 
-## Intelligence Proficiencies
+### Intelligence Proficiencies
 You learn additional Proficiencies and Languages based on your Intelligence. If your Intelligence decreases, you don't lose any learned Proficiencies, but you don't learn more until your Intelligence exceeds the highest Intelligence you've gained a Proficiency from.
 
 If you would gain Proficiency in a Skill, you can instead gain Proficiency with a Trade or learn a Language.

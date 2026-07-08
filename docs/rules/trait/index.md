@@ -1,16 +1,17 @@
 # Character Traits
-Traits are the quantifiable and categorical facts that define a creature — the numbers and keywords on its character sheet.
+`Description TBD`
 { .subtitle }
 
 | Traits | Description |
 |---|---|
-| [Abilities](ability.md) | The six core Abilities and what each governs. |
-| [Proficiency](proficiency.md) | Proficiency tiers and the Proficiency Bonus. |
-| [Skills](skill.md) | The Skills and their default Abilities. |
-| [Languages](language.md) | The Standard and Exotic Languages. |
-| [Speeds](speed.md) | Walk Speed and the special Speeds. |
-| [Senses](sense.md) | Senses that let you perceive in poor conditions. |
-| [Creature Type](creature-type.md) | The broad categories every creature belongs to. |
-| [Alignment](alignment.md) | The nine Alignments of ethical outlook. |
-| [Size](size.md) | Size Categories and the space a creature occupies. |
-| [Reach](reach.md) | The distance you can affect creatures with Melee Attacks. |
+| [Abilities](ability.md) | `Description TBD` |
+| [Defenses](defense.md) | `Description TBD` |
+| [Proficiency](proficiency.md) | `Description TBD` |
+| [Skills](skill.md) | `Description TBD` |
+| [Languages](language.md) | `Description TBD` |
+| [Speeds](speed.md) | `Description TBD` |
+| [Senses](sense.md) | `Description TBD` |
+| [Creature Type](creature-type.md) | `Description TBD` |
+| [Alignment](alignment.md) | `Description TBD` |
+| [Size](size.md) | `Description TBD` |
+| [Reach](reach.md) | `Description TBD` |

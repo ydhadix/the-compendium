@@ -1,14 +1,15 @@
 # Adventuring
-
-!!! note "In progress"
-    This page is a stub. Content is still being written.
-
+`Description TBD`
+{ .subtitle }
 
 | Adventuring | Description |
 |---|---|
-| [Socializing](social.md) | Companions, dispositions, familiars, and summons. |
-| [Movement](movement.md) | How you Move, and the terrain and modes that change it. |
-| [Visibility](lighting.md) | How Obscurement and Lighting affect what you can see. |
-| [Cover](cover.md) | How obstacles protect you from Attacks and Spells. |
-| [Air Quality](air.md) | How breathable an area's air is — Fresh, Foul, or Deadly. |
-| [Hazards](hazard/index.md) | Environmental dangers such as suffocation and extreme temperatures. |
+| [Actions](action.md) | The Actions every creature can take, and the Action types. |
+| [Movement](movement.md) | `Description TBD` |
+| [Visibility](lighting.md) | `Description TBD` |
+| [Cover](cover.md) | `Description TBD` |
+| [Conditions](condition.md) | Temporary states that change what a creature can do. |
+| [Non-Player Characters](npc.md) | `Description TBD` |
+| [Encounters](encounter.md) | How to structure play in Initiative order. |
+| [Resting](rest.md) | How you recover Hit Points and expended features. |
+| [Hazards](hazard.md) | `Description TBD` |

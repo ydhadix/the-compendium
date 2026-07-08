@@ -1,6 +1,8 @@
 # Speeds
-Your Speed is the maximum distance you can move on your Turn.
+`Description TBD`
 { .subtitle }
+
+Your Speed is the maximum distance you can move on a turn.
 
 ## Special Speeds
 A Special Speed lets you ignore normal movement restrictions.
