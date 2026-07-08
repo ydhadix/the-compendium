@@ -1,0 +1,1 @@
+| [Lock of Trickery](/item/magic/infusion/common/lock-of-trickery.md) | Common | Wondrous Item | No |

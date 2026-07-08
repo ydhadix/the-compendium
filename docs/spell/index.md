@@ -9,18 +9,8 @@ To cast a Spell, you must have it Prepared, Learned, or made available by an Ite
 | [Preparing Spells](preparing.md) | How you gain access to Spells and change the ones you have ready. |
 | [Casting Spells](casting.md) | How you spend Spell Slots and other resources to cast a Spell. |
 | [Parts of a Spell](part/index.md) | The anatomy shared by every Spell, from its School to its Duration. |
-
-## Spells by Level
-
-| Spell Level |
-|---|
-| [Cantrips](level/0/index.md) |
-| [1st-Level](level/1/index.md) |
-| [2nd-Level](level/2/index.md) |
-| [3rd-Level](level/3/index.md) |
-| [4th-Level](level/4/index.md) |
-| [5th-Level](level/5/index.md) |
-| [6th-Level](level/6/index.md) |
+| [Spells by Level](level/index.md) | An index of every spell, organized by Spell Level. |
+| [Spells by Class](class/index.md) | An index of every spell, organized by the Classes that cast them. |
 
 ## Overlapping Spells
 The effects of the same Spell cast more than once don't combine. Instead, the most potent effect from those castings applies while their Durations overlap.

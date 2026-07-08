@@ -1,1 +1,0 @@
-| [Horn of Blasting](/magic-item/infusion/common/horn-of-blasting.md) | Common | Wondrous Item | No |

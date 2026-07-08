@@ -1,1 +1,0 @@
-| [Alchemy Jug](/magic-item/infusion/uncommon/alchemy-jug.md) | Uncommon | Wondrous Item | No |

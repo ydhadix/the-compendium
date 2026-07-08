@@ -1,1 +1,0 @@
-| [Ring of Free Action](/magic-item/infusion/rare/ring-of-free-action.md) | Rare | Clothing (Jewelry) | Yes |

@@ -1,0 +1,1 @@
+| [Potion of Comprehension](/item/magic/infusion/common/potion-of-comprehension.md) | Common | Potion | No |

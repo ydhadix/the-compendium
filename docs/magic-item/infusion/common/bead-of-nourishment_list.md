@@ -1,1 +1,0 @@
-| [Bead of Nourishment](/magic-item/infusion/common/bead-of-nourishment.md) | Common | Potion | No |

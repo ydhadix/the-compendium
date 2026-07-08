@@ -1,0 +1,1 @@
+| [Cloak of Billowing](/item/magic/infusion/common/cloak-of-billowing.md) | Common | Clothing (Cloak) | No |

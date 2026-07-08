@@ -1,1 +1,0 @@
-| [Potion of Climbing](/magic-item/infusion/common/potion-of-climbing.md) | Common | Potion | No |

@@ -1,1 +1,0 @@
-| [Shield of Sentinels](/magic-item/infusion/uncommon/shield-of-sentinels.md) | Uncommon | Shield (Any) | No |

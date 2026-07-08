@@ -1,0 +1,1 @@
+| [Staff of Adornment](/item/magic/infusion/common/staff-of-adornment.md) | Common | Weapon (Staff) | No |

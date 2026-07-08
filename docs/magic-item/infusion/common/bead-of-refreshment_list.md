@@ -1,1 +1,0 @@
-| [Bead of Refreshment](/magic-item/infusion/common/bead-of-refreshment.md) | Common | Potion | No |

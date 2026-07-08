@@ -1,1 +1,0 @@
-| [Cast-Off Armor](/magic-item/infusion/common/cast-off-armor.md) | Common | Armor (Any) | No |

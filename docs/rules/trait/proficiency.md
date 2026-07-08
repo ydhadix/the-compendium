@@ -3,7 +3,7 @@
 { .subtitle }
 
 ### Proficiency Bonus
-Your Proficiency Bonus is based on your [Character Level](../../class/index.md#character-levels).
+Your Proficiency Bonus is based on your Character Level.
 
 #### Degrees of Proficiency
 Each Proficiency has a tier that determines how much of your Proficiency Bonus applies to it.

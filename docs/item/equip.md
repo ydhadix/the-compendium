@@ -30,18 +30,18 @@ Benefiting from equipment usually requires wearing or wielding them properly. An
 | Hat | On head | One | Leatherworker's Tools or Weaver's Tools |
 | Jewelry | Varies | — | Glassblower's Tools, Jeweler's Tools, or Tinker's Tools |
 
-## Consumables
+### Consumables
 Consumable items are destroyed after being used a set number of times.
 
-### Ammunition
+##### Ammunition
 Individual pieces of ammunition are consumable.  Collections of ammunition, such as a Quiver of Arrows, are considered non-consumable.  Ammunition is usually crafted in batches _(see the [Ammunition Table](gear/combat/index.md#ammunition))_.
 
-### Potions
+##### Potions
 A Potion is consumed by you or administered to a creature within Reach as a Bonus Action.
 
 If you instead consume a Potion using the Utilize Action, any dice it rolls to determine its effect are maximized.
 
-### Poisons
+##### Poisons
 A Poison inflicts Poison Damage, the Sickened condition, or both, and sometimes additional damage or conditions.
 
 | Type | Usage |

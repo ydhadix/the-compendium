@@ -1,1 +1,0 @@
-| [Weapon of Warning](/magic-item/infusion/uncommon/weapon-of-warning.md) | Uncommon | Weapon (Any) | Yes |

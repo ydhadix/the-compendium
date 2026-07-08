@@ -1,0 +1,1 @@
+| [Armor of Weightlessness](/item/magic/infusion/uncommon/armor-of-weightlessness.md) | Uncommon | Armor (Any) | Yes |

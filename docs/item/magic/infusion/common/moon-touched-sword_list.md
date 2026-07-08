@@ -1,0 +1,1 @@
+| [Moon-Touched Sword](/item/magic/infusion/common/moon-touched-sword.md) | Common | Weapon (Blade or Fence) | No |

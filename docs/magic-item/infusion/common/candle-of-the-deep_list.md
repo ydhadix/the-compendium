@@ -1,1 +1,0 @@
-| [Candle of the Deep](/magic-item/infusion/common/candle-of-the-deep.md) | Common | Wondrous Item | No |

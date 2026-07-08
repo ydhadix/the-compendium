@@ -22,4 +22,4 @@ Some Spells can be cast without expending a Spell Slot:
 - **Cantrips.** A Cantrip never expends a Spell Slot.
 - **Rituals.** A Spell with a Ritual [Casting Time](part/casting-time.md) can be cast as a Ritual, expending no Spell Slot.
 - **Features.** A feature that grants a Spell sometimes lets you cast it without a Spell Slot.
-- **Items.** An Item that casts a Spell expends no Spell Slot; many instead expend [Charges](../magic-item/infusion/index.md#charges).
+- **Items.** An Item that casts a Spell expends no Spell Slot; many instead expend Charges.

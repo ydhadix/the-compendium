@@ -1,0 +1,1 @@
+| [Pipe of Smoke Monsters](/item/magic/infusion/common/pipe-of-smoke-monsters.md) | Common | Wondrous Item | No |

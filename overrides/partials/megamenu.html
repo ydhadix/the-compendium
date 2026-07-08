@@ -1,14 +1,20 @@
 {#-
-  Global hover mega-menu, unrestricted depth:
+  Global hover mega-menu:
 
-    L1  top nav items, rendered horizontally
+    L1  top nav items, rendered horizontally (depth = 1)
     L2+ every section that has children (beyond its own index page) shows them,
-        recursively — no depth cap.
+        recursively, until the depth cap is reached.
+
+  Depth cap: config.extra.megamenu_max_depth (default: unlimited) is the deepest
+  level rendered as an expandable flyout, counting the horizontal top row as 1.
+  A section at the cap renders as a plain link to its own index page instead of
+  opening another flyout, so its contents stay reachable via that index.
 
   A section's title links to its own index page (section.index_page, set by
   navtools.py); that index is not repeated as a child.
 -#}
-{% macro megamenu(items) %}
+{% macro megamenu(items, depth=1) %}
+  {%- set max_depth = config.extra.megamenu_max_depth | default(0, true) -%}
   <ul class="pm-megamenu__list">
     {% for item in items %}
       {% if item.is_separator %}
@@ -17,14 +23,14 @@
         </li>
       {% elif item.is_section %}
         {%- set children = item.children | reject("equalto", item.index_page) | list -%}
-        {% if children %}
+        {% if children and (not max_depth or depth < max_depth) %}
           <li class="pm-megamenu__item pm-megamenu__item--has-children">
             {% if item.index_page %}
               <a class="pm-megamenu__label {% if item.active %}pm-megamenu__link--active{% endif %}" href="{{ item.index_page.url | url }}">{{ item.title }}</a>
             {% else %}
               <span class="pm-megamenu__label">{{ item.title }}</span>
             {% endif %}
-            {{ megamenu(children) }}
+            {{ megamenu(children, depth + 1) }}
           </li>
         {% else %}
           {#- a section with no children to show: a plain link to its index -#}

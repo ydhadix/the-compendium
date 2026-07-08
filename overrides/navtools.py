@@ -15,14 +15,19 @@ harmless external-link value that passes a --strict build, e.g.
     item.separator_label    None for a divider whose title is only dashes (a plain
                             rule); otherwise the title text, for a labelled divider
 
-on_page_context exposes, for pages kept out of the nav (the per-method pages):
-    localnav_host           the owning nav page (the class index), or None
+on_page_context exposes, for the left ToC:
+    localnav_host           the hub nav page whose out-of-nav leaves to list, or
+                            None. On an out-of-nav leaf this is its owning nav
+                            page (one dir up); on a hub's own index page it is
+                            that hub itself.
     localnav_chain          [host, host.parent, ... top-level section], or []
-    localnav_siblings       the host's out-of-nav leaf pages (this page + its
-                            siblings), sorted by title, or []
-so the left ToC can list a leaf page alongside its siblings under their shared
-hub, with the current leaf highlighted. The siblings appear only while we are
-on one of them — viewing the hub's own index page shows nothing below it.
+                            (set only for out-of-nav leaves; nav pages get the
+                            active path from mkdocs)
+    localnav_siblings       the host's out-of-nav leaf pages, sorted by title,
+                            or []
+so the left ToC can list a hub's out-of-nav leaves one level below it. On a
+leaf page the current leaf is highlighted alongside its siblings; on the hub's
+own index page all of its leaves are listed (the hub link itself stays active).
 """
 
 
@@ -135,8 +140,19 @@ def on_page_context(context, page, config, nav):
     context["localnav_siblings"] = []
 
     nav_pages = {p.url: p for p in nav.pages}
+    leaf_children = config.get("_leaf_children", {})
+
     if page.url in nav_pages:
-        return context  # already in the nav; mkdocs marks the active path
+        # Already in the nav; mkdocs marks the active path. But if this page is
+        # itself a hub for out-of-nav leaf pages, expose them so the left ToC
+        # lists its children one level down — the same way a section's index
+        # page shows its children. The hub link stays highlighted via mkdocs'
+        # active flag, so no leaf here is the current page.
+        children = leaf_children.get(page.url)
+        if children:
+            context["localnav_host"] = nav_pages[page.url]
+            context["localnav_siblings"] = children
+        return context
 
     parent_url = _parent_url(page.url)
     host = nav_pages.get(parent_url) if parent_url else None
@@ -151,5 +167,5 @@ def on_page_context(context, page, config, nav):
 
     context["localnav_host"] = host
     context["localnav_chain"] = chain
-    context["localnav_siblings"] = config.get("_leaf_children", {}).get(parent_url, [])
+    context["localnav_siblings"] = leaf_children.get(parent_url, [])
     return context

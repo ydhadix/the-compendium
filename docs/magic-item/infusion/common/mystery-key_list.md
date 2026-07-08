@@ -1,1 +1,0 @@
-| [Mystery Key](/magic-item/infusion/common/mystery-key.md) | Common | Wondrous Item | No |

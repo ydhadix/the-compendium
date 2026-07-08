@@ -24,6 +24,9 @@ theme:
     # - search.highlight
     # - content.tabs.link
 
+extra:
+  megamenu_max_depth: 4   # deepest mega-menu flyout level (top row = 1); 0 = unlimited
+
 extra_css:
   - stylesheets/extra.css
 
@@ -34,8 +37,8 @@ extra_javascript:
   - javascripts/meganav.js
 
 exclude_docs: |            # files/folders in docs/ that we don't want compiled
-  spell/level/*/*_list.md
-  magic-item/*/*_list.md
+  character/feat/fighting-style/*/*.md
+  !character/feat/fighting-style/*/index.md
   item/weapon/property/*.md
   !item/weapon/property/index.md
   item/weapon/mastery/*.md
@@ -48,27 +51,21 @@ exclude_docs: |            # files/folders in docs/ that we don't want compiled
   !item/trade/artisan/index.md
   item/material/*.md
   !item/material/index.md
+  item/magic/*/*_list.md
+  spell/level/*/*_list.md
   spelljammer/component/*/*.md
   !spelljammer/component/*/index.md
-  class/sorcerer/metamagic/*.md
-  !class/sorcerer/metamagic/index.md
-  class/warlock/invocation/*.md
-  !class/warlock/invocation/index.md
-  character/feat/fighting-style/*/*.md
-  !character/feat/fighting-style/*/index.md
 
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
+  character/race/*
   character/feat/*/*
   character/feat/*/*/*
-  character/race/*
-  class/*/*/*
   item/*/*/*
-  magic-item/infusion/*/*
+  spell/level/*/*
   bastion/*
   spelljammer/*/*/*
   spelljammer/*/*
-  spell/level/*/*
   archive/*/*
   archive/*
 
@@ -88,7 +85,7 @@ markdown_extensions:
   - attr_list               # image sizing/alignment: ![](img){ width="200" align="right" }
   - md_in_html              # markdown inside HTML, e.g. <figure> + <figcaption> captions
   - toc:
-      toc_depth: 3          # ToC shows h1–h2 only; h3+ (e.g. method sections) are omitted
+      toc_depth: 3
 
 nav:
   - The Compendium:
@@ -139,6 +136,45 @@ nav:
       - "Character Options": "sep:"
       - Backgrounds:                character/background.md
       - Races:                      character/race/index.md
+      - Classes:
+        - Class Overview:           character/class/index.md
+        - Artificer:
+          - Class Overview:         character/class/artificer/index.md
+          - Armorer:                character/class/artificer/armorer.md
+          - Cartographer:           character/class/artificer/cartographer.md
+        - Barbarian (WIP):
+          - Class Overview:         character/class/barbarian/index.md
+        - Bard:
+          - Class Overview:         character/class/bard/index.md
+        - Cleric:
+          - Class Overview:         character/class/cleric/index.md
+          - Arcana:                 character/class/cleric/arcana.md
+        - Druid (WIP):
+          - Class Overview:         character/class/druid/index.md
+        - Fighter:
+          - Class Overview:         character/class/fighter/index.md
+          - Eldritch Knight:        character/class/fighter/eldritch-knight.md
+        - Monk:
+          - Class Overview:         character/class/monk/index.md
+        - Paladin (WIP):
+          - Class Overview:         character/class/paladin/index.md
+        - Ranger:
+          - Class Overview:         character/class/ranger/index.md
+          - Primal Imprints:        character/class/ranger/imprint.md
+          - "---": "sep:"
+          - Beast Master:           character/class/ranger/beast-master.md
+        - Rogue (WIP):
+          - Class Overview:         character/class/rogue/index.md
+        - Sorcerer (WIP):
+          - Class Overview:         character/class/sorcerer/index.md
+          - Metamagic:              character/class/sorcerer/metamagic.md
+          - "---": "sep:"
+        - Warlock (WIP):
+          - Class Overview:         character/class/warlock/index.md
+          - Eldritch Invocations:   character/class/warlock/invocation.md
+          - "---": "sep:"
+        - Wizard (WIP):
+          - Class Overview:         character/class/wizard/index.md
       - Feats:
         - Feats Overview:           character/feat/index.md
         - Origin Feats:             character/feat/origin/index.md
@@ -148,65 +184,6 @@ nav:
         - "---": "sep:"
         - Epic Boons (WIP):         character/feat/epic/index.md
         - Dragonmarks:              character/feat/dragonmark/index.md
-
-    - Class Codex:
-      - Class Overview:             class/index.md
-      - Artificer:
-        - Class Details:            class/artificer/index.md
-        - Artificer Spell List:     class/artificer/spell-list.md
-        - "Subclasses": "sep:"
-        - Armorer:                  class/artificer/armorer.md
-        - Cartographer:             class/artificer/cartographer.md
-      - Barbarian (WIP):
-        - Class Details:            class/barbarian/index.md
-        # - "Subclasses": "sep:"
-      - Bard:
-        - Class Details:            class/bard/index.md
-        - Bard Spell List:          class/bard/spell-list.md
-        # - "Subclasses": "sep:"
-      - Cleric:
-        - Class Details:            class/cleric/index.md
-        - Cleric Spell List:        class/cleric/spell-list.md
-        - "Subclasses": "sep:"
-        - Arcana:                   class/cleric/arcana.md
-      - Druid (WIP):
-        - Class Details:            class/druid/index.md
-        - Druid Spell List:         class/druid/spell-list.md
-        # - "Subclasses": "sep:"
-      - Fighter:
-        - Class Details:            class/fighter/index.md
-        - "Subclasses": "sep:"
-        - Eldritch Knight:          class/fighter/eldritch-knight.md
-      - Monk:
-        - Class Details:            class/monk/index.md
-        # - "Subclasses": "sep:"
-      - Paladin (WIP):
-        - Class Details:            class/paladin/index.md
-        - Paladin Spell List:       class/paladin/spell-list.md
-        # - "Subclasses": "sep:"
-      - Ranger:
-        - Class Details:            class/ranger/index.md
-        - Ranger Spell List:        class/ranger/spell-list.md
-        - Primal Imprints:          class/ranger/imprint/index.md
-        - "Subclasses": "sep:"
-        - Beast Master:             class/ranger/beast-master.md
-      - Rogue (WIP):
-        - Class Details:            class/rogue/index.md
-        # - "Subclasses": "sep:"
-      - Sorcerer (WIP):
-        - Class Details:            class/sorcerer/index.md
-        - Sorcerer Spell List:      class/sorcerer/spell-list.md
-        - Metamagic:                class/sorcerer/metamagic/index.md
-        # - "Subclasses": "sep:"
-      - Warlock (WIP):
-        - Class Details:            class/warlock/index.md
-        - Warlock Spell List:       class/warlock/spell-list.md
-        - Eldritch Invocations:     class/warlock/invocation/index.md
-        # - "Subclasses": "sep:"
-      - Wizard (WIP):
-        - Class Details:            class/wizard/index.md
-        - Wizard Spell List:        class/wizard/spell-list.md
-        # - "Subclasses": "sep:"
 
     - Item Index:
       - Item Overview:              item/index.md
@@ -243,18 +220,19 @@ nav:
         - Armor Overview:           item/armor/index.md
         - Armor Types:              item/armor/type.md
         - Shields:                  item/armor/shield/index.md
-
-    - Magic Item Manual:
-      - Infusion Overview:          magic-item/infusion/index.md
-      - Infusing Items:             magic-item/infusion/infusing.md
-      - "Infusions by Rarity": "sep:"
-      - Common:                     magic-item/infusion/common/index.md
-      - Uncommon:                   magic-item/infusion/uncommon/index.md
-      - Rare:                       magic-item/infusion/rare/index.md
-      - Very Rare:                  magic-item/infusion/very-rare/index.md
-      - Legendary:                  magic-item/infusion/legendary/index.md
-      - Artifacts:                  magic-item/infusion/artifact/index.md
-      - Unique:                     magic-item/infusion/unique/index.md
+      - Magic Items:
+        - Infusion Overview:        item/magic/index.md
+        - Infusing Items:           item/magic/infusing.md
+        - "---": "sep:"
+        - Infusions by Rarity:
+          - Overview:               item/magic/index.md
+          - Common:                 item/magic/infusion/common/index.md
+          - Uncommon:               item/magic/infusion/uncommon/index.md
+          - Rare:                   item/magic/infusion/rare/index.md
+          - Very Rare:              item/magic/infusion/very-rare/index.md
+          - Legendary:              item/magic/infusion/legendary/index.md
+          - Artifacts:              item/magic/infusion/artifact/index.md
+          - Unique:                 item/magic/infusion/unique/index.md
 
     - Spell Selection:
       - Spell Overview:             spell/index.md
@@ -271,14 +249,27 @@ nav:
         - Area of Effect:           spell/part/area.md
         - Duration:                 spell/part/duration.md
         - Concentration:            spell/part/concentration.md
-      - "Spells by Level": "sep:"
-      - Cantrips:                   spell/level/0/index.md
-      - 1st-Level:                  spell/level/1/index.md
-      - 2nd-Level:                  spell/level/2/index.md
-      - 3rd-Level (WIP):            spell/level/3/index.md
-      - 4th-Level (WIP):            spell/level/4/index.md
-      - 5th-Level (WIP):            spell/level/5/index.md
-      - 6th-Level (WIP):            spell/level/6/index.md
+      - "---": "sep:"
+      - Spells by Level:
+        - Overview:                 spell/level/index.md
+        - Cantrips:                 spell/level/0/index.md
+        - 1st-Level:                spell/level/1/index.md
+        - 2nd-Level:                spell/level/2/index.md
+        - 3rd-Level (WIP):                spell/level/3/index.md
+        - 4th-Level (WIP):                spell/level/4/index.md
+        - 5th-Level (WIP):                spell/level/5/index.md
+        - 6th-Level (WIP):                spell/level/6/index.md
+      - Spells by Class:
+        - Overview:                 spell/class/index.md
+        - Artificer:                spell/class/artificer.md
+        - Bard:                     spell/class/bard.md
+        - Cleric:                   spell/class/cleric.md
+        - Druid:                    spell/class/druid.md
+        - Paladin:                  spell/class/paladin.md
+        - Ranger:                   spell/class/ranger.md
+        - Sorcerer:                 spell/class/sorcerer.md
+        - Warlock:                  spell/class/warlock.md
+        - Wizard:                   spell/class/wizard.md
 
     - Bastion Blueprints:           bastion/index.md
 

@@ -1,0 +1,1 @@
+| [Wand of Pyrotechnics](/item/magic/infusion/common/wand-of-pyrotechnics.md) | Common | Spellcasting Focus (Arcane Focus) | No |

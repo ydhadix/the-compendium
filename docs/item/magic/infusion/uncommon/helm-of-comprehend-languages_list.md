@@ -1,0 +1,1 @@
+| [Helm of Comprehend Languages](/item/magic/infusion/uncommon/helm-of-comprehend-languages.md) | Uncommon | Clothing (Hat) | No |

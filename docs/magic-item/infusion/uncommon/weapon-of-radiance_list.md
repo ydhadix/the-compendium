@@ -1,1 +1,0 @@
-| [Weapon of Radiance](/magic-item/infusion/uncommon/weapon-of-radiance.md) | Uncommon | Weapon (Any) | Yes |

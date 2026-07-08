@@ -1,1 +1,0 @@
-| [Veteran's Cane](/magic-item/infusion/common/veterans-cane.md) | Common | Weapon (Blade) | No |

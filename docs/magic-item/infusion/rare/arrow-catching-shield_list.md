@@ -1,1 +1,0 @@
-| [Arrow-Catching Shield](/magic-item/infusion/rare/arrow-catching-shield.md) | Rare | Shield (Any) | Yes |

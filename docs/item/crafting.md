@@ -20,4 +20,4 @@ You must acquire a special [Material](material/index.md) before you can craft an
 Crafting a [Masterwork](masterwork.md) item costs half as much as purchasing one, but requires Expertise in the corresponding Artisan's Tools and a minimum Character Level based on the item's bonus _(see the [Masterwork Value Table](masterwork.md#masterwork-value))_.
 
 #### Magic Items
-Adding magical properties to an item instead follows the rules for [Infusing Items](../magic-item/infusion/infusing.md).
+Adding magical properties to an item instead follows the rules for Infusing Items.

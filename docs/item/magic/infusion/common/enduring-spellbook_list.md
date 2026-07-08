@@ -1,0 +1,1 @@
+| [Enduring Spellbook](/item/magic/infusion/common/enduring-spellbook.md) | Common | Wondrous Item | No |

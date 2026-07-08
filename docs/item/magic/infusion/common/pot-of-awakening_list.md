@@ -1,0 +1,1 @@
+| [Pot of Awakening](/item/magic/infusion/common/pot-of-awakening.md) | Common | Wondrous Item | No |

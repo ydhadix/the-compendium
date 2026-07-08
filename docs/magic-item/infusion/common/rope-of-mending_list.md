@@ -1,1 +1,0 @@
-| [Rope of Mending](/magic-item/infusion/common/rope-of-mending.md) | Common | Wondrous Item | No |

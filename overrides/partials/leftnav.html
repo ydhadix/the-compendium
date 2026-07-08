@@ -8,10 +8,10 @@
 
   Active path = mkdocs `item.active` for pages in the nav; for pages kept out of
   the nav (leaf pages) it is `localnav_chain` / `localnav_host` from navtools.py.
-  A leaf page is listed alongside its siblings (`localnav_siblings`) under their
-  shared hub, with the current leaf highlighted. Those siblings appear only while
-  we are on one of them — the hub's own index page shows nothing below it, so the
-  same depth rule used for sections holds for leaf collections too.
+  A hub's out-of-nav leaves (`localnav_siblings`) are listed one level below it,
+  the same way a section index shows its children. On one of those leaf pages the
+  current leaf is highlighted among its siblings; on the hub's own index page all
+  of its leaves are listed while the hub link stays active.
 
   A section's title links to its own index (`section.index_page`, set by
   navtools.py); that index is never listed as a child (it drops out of the list).
