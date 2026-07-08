@@ -1,5 +1,5 @@
 # Cartographer
-Cartographers chart the world and bend distance to their will, guiding allies along the safest paths. Their Adventurer's Atlas binds a party together across miles, letting them slip through space to one another's side.
+`Description TBD`
 { .subtitle }
 
 ## Cartographer Table

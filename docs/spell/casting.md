@@ -1,5 +1,5 @@
 # Casting Spells
-Casting a Spell spends magical energy — usually a Spell Slot — to produce the Spell's effect.
+`Description TBD`
 { .subtitle }
 
 ## Spellcasting Ability

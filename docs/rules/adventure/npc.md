@@ -12,9 +12,9 @@
 ### Disposition
 An NPC's Disposition describes its attitude toward you.  Relationships with other creatures are determined by a wide array of roleplaying factors, but can be widely categorized to three Dispositions:
 
-| Disposition | Description |
+| Disposition | Behavior |
 |---|---|
-| Ally | On your side.   |
+| Ally | Willing to help and possibly put themselves at risk for your sake. |
 | Indifferent | No desire to help or harm you.  Most creatures are Indifferent by default. |
 | Hostile | Actively antagonistic.  Combat begins when a Hostile creature becomes aware of you. |
 

@@ -1,5 +1,5 @@
 # School of Magic
-Every Spell belongs to a School of Magic that describes the kind of effect it produces.
+`Description TBD`
 { .subtitle }
 
 A School groups Spells by what they tend to do and lets other rules reference them together, but the Schools have no rules of their own. Most Spells belong to a single School, though some belong to more than one.

@@ -1,5 +1,5 @@
 # Officers
-Three Officer roles crew a Ship: the Pilot, the Quartermaster, and the Spelljammer.  Each Officer controls different parts of the Ship and has access to distinct Officer Actions.
+`Description TBD`
 { .subtitle }
 
 | Officer | Role |

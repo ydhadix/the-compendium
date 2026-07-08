@@ -1,9 +1,8 @@
 # Orc
-
-Orcs are powerfully built and famously hard to put down, clinging to life when others would fall. A surge of adrenaline lets them charge into the fray with renewed vigor.
+`Description TBD`
+{ .subtitle }
 
 ## Orc Traits
-
 | | |
 |---|---|
 | Abilities | Strength and choose **1** |
@@ -16,7 +15,6 @@ Orcs are powerfully built and famously hard to put down, clinging to life when o
 | Senses | Darkvision (120 ft.) |
 
 ## Orc Features
-
 ### Powerful Build
 Your carry capacity is doubled.
 

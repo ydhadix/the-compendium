@@ -1,5 +1,5 @@
 # Common
-Minor Infusions with modest, often utilitarian effects.
+`Description TBD`
 { .subtitle }
 
 | Item | Rarity | Type | Attunement |

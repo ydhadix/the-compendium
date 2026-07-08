@@ -1,9 +1,11 @@
 # Dual-Wielding Fighting Styles
+`Description TBD`
+{ .subtitle }
 
 | Fighting Styles | Description |
 |---|---|
-| [Two-Weapon Fighting](#two-weapon-fighting) | Train wielding a Light weapon in both hands. |
-| [Dual Wielding](#dual-wielding) | Master wielding heavier weapons in both hands. |
+| [Two-Weapon Fighting](#two-weapon-fighting) | `Description TBD` |
+| [Dual Wielding](#dual-wielding) | `Description TBD` |
 
 ## Basic Fighting Styles
 

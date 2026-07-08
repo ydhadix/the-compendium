@@ -1,11 +1,13 @@
 # Reaction Fighting Styles
+`Description TBD`
+{ .subtitle }
 
 | Fighting Styles | Description |
 |---|---|
-| [Opportunist](#opportunist) | Train striking creatures that leave your Reach. |
-| [Marking](#marking) | Master striking foes with your Reaction. |
-| [Sentinel](#sentinel) | Master preventing foes from escaping your Reach. | 
-| [War Casting](#war-casting) | Master quickly casting spells in combat. |
+| [Opportunist](#opportunist) | `Description TBD` |
+| [Marking](#marking) | `Description TBD` |
+| [Sentinel](#sentinel) | `Description TBD` |
+| [War Casting](#war-casting) | `Description TBD` |
 
 ## Basic Fighting Styles
 

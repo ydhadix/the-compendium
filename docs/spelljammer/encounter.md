@@ -1,5 +1,5 @@
 # Ship Encounters
-Ships move at a scale where timing and coordination are more impactful than moment-to-moment reactions.
+`Description TBD`
 { .subtitle }
 
 ## Ship Initiative

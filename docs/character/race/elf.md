@@ -1,9 +1,8 @@
 # Elf
-
-Elves are a graceful, long-lived people, quick of foot and hard to charm. They rest in a waking trance rather than sleep, and each elven lineage carries its own innate magic.
+`Description TBD`
+{ .subtitle }
 
 ## Elf Traits
-
 | | |
 |---|---|
 | Abilities | Dexterity and choose **1** |
@@ -16,7 +15,6 @@ Elves are a graceful, long-lived people, quick of foot and hard to charm. They r
 | Senses | Darkvision (60 ft.) |
 
 ## Elf Features
-
 ### Keen Senses
 You have Insight, Perception, or Survival Proficiency.
 
@@ -27,10 +25,8 @@ You can finish a Long Rest in **4** hours if you spend those hours in a tranceli
 
 ### Elven Ancestry
 Choose an ancestry. Each ancestry has different spells and benefits.
-
 ###### Learned Spells
 You learn this ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
-
 ###### Free Casting
 1 use each per Long Rest
 { .subtitle }
@@ -39,9 +35,7 @@ You can cast one of this ancestry's Spells without a Spell Slot.
 
 ##### Dark Elf
 Your Darkvision increases by **60** feet.
-
 ###### Dark Elf Spells
-
 | LV | Spells |
 |---|---|
 | 1st | _Dancing Lights_ |
@@ -50,9 +44,7 @@ Your Darkvision increases by **60** feet.
 
 ##### High Elf
 After a Long Rest, you can replace one of this ancestry's Spells with another Wizard Spell of the same Level.
-
 ###### High Elf Spells
-
 | LV | Spells |
 |---|---|
 | 1st | _Prestidigitation_ |
@@ -61,9 +53,7 @@ After a Long Rest, you can replace one of this ancestry's Spells with another Wi
 
 ##### Wood Elf
 Your Speed increases by **5** feet.
-
 ###### Wood Elf Spells
-
 | LV | Spells |
 |---|---|
 | 1st | _Druidcraft_ |

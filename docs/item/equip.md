@@ -1,4 +1,6 @@
 # Using Items
+`Description TBD`
+{ .subtitle }
 
 ## Worn Equipment
 Benefiting from equipment usually requires wearing or wielding them properly. An item's type determines how it should be worn, and how many items of the same type a typical Humanoid can wear at the same time.

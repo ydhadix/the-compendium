@@ -1,5 +1,5 @@
 # Spelljammer
-The Spelljammer powers and augments the Ship with their magic.
+`Description TBD`
 { .subtitle }
 
 While seated in the Ship's spelljamming Helm, the Spelljammer can expend Spell Slots to use Jamming Protocols — spell-like effects amplified for Ship Combat.
@@ -17,15 +17,15 @@ While Concentrating on a Jamming Protocol, whenever the Ship's hull takes damage
 
 | Protocol | Level | Base Spell | Description |
 |---|---|---|
-| [Eldritch Blaster](eldritch-blaster.md) | Cantrip | _Fire Bolt_ | Fire a bolt of condensed energy at an enemy. |
-| [Targeting System](targeting-system.md) | Cantrip | _True Strike_ | Lock onto an enemy, making them easier to hit. |
-| [Warding Field](warding-field.md) | Cantrip | _Blade Ward_ | Conjure efficient barriers to protect the Ship.  |
-| [Emergency Repairs](emergency-repairs.md) | 1 | _Mending_ | Restore a damaged part of the ship to working order. |
-| [Air Envelope](air-envelope.md) | 2 | _Air Bubble_ | Generate breathable air around your Ship. |
-| [Shields Up](shields-up.md) | 2 | _Shield_ | Quickly manifest a large, invisible barrier around your Ship. |
-| [Blackout](blackout.md) | 3 | _Darkness_ | Shroud your Ship from view in a cloud of darkness. |
-| [Deep Scan](deep-scan.md) | 3 | _See Invisibility_ | Detect hidden threats nearby. |
-| [Distress Signal](distress-signal.md) | 3 | _Sending_ | Broadcast a desperate message, heedless of who receives it. |
-| [Phase Drive](phase-drive.md) | 3 | _Blink_ | Momentarily phase your Ship into the ethereal plane. |
-| [Cloaking Device](cloaking-device.md) | 4 | _Lesser Invisibility_ | Shift light around your Ship, blending into the void. |
-| [Aether Cannon](aether-cannon.md) | 5 | _Fireball_ | Launch concentrated arcane energy that sears space itself. |
+| [Eldritch Blaster](eldritch-blaster.md) | Cantrip | _Fire Bolt_ | `Description TBD` |
+| [Targeting System](targeting-system.md) | Cantrip | _True Strike_ | `Description TBD` |
+| [Warding Field](warding-field.md) | Cantrip | _Blade Ward_ | `Description TBD` |
+| [Emergency Repairs](emergency-repairs.md) | 1 | _Mending_ | `Description TBD` |
+| [Air Envelope](air-envelope.md) | 2 | _Air Bubble_ | `Description TBD` |
+| [Shields Up](shields-up.md) | 2 | _Shield_ | `Description TBD` |
+| [Blackout](blackout.md) | 3 | _Darkness_ | `Description TBD` |
+| [Deep Scan](deep-scan.md) | 3 | _See Invisibility_ | `Description TBD` |
+| [Distress Signal](distress-signal.md) | 3 | _Sending_ | `Description TBD` |
+| [Phase Drive](phase-drive.md) | 3 | _Blink_ | `Description TBD` |
+| [Cloaking Device](cloaking-device.md) | 4 | _Lesser Invisibility_ | `Description TBD` |
+| [Aether Cannon](aether-cannon.md) | 5 | _Fireball_ | `Description TBD` |

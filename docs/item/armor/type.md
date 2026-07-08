@@ -1,6 +1,6 @@
 # Armor Types
-
-Armor is sorted into four categories by how much it protects and encumbers you.
+`Description TBD`
+{ .subtitle }
 
 | |
 |---|

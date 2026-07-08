@@ -1,17 +1,16 @@
 # Light Sources
-
-Candles, lanterns, and torches for seeing in the dark.
-
+`Description TBD`
+{ .subtitle }
 
 | Item | Value | Description |
 |---|---|---|
-| [Bullseye Lantern](#bullseye-lantern) | 10 gold | An oil lantern that casts its light in a cone. |
-| [Candle](#candle) | 1 copper | A small candle that sheds a little light. |
-| [Hooded Lantern](#hooded-lantern) | 5 gold | An oil lantern with a hood to dim its light. |
-| [Lamp](#lamp) | 5 silver | An oil lamp that lights a room. |
-| [Oil](#oil) | 1 silver | A flask of oil to fuel lamps and lanterns. |
-| [Tinderbox](#tinderbox) | 5 silver | A kit of flint and steel for starting fires. |
-| [Torch](#torch) | 1 copper | A wooden brand that burns to light your way. |
+| [Bullseye Lantern](#bullseye-lantern) | 10 gold | `Description TBD` |
+| [Candle](#candle) | 1 copper | `Description TBD` |
+| [Hooded Lantern](#hooded-lantern) | 5 gold | `Description TBD` |
+| [Lamp](#lamp) | 5 silver | `Description TBD` |
+| [Oil](#oil) | 1 silver | `Description TBD` |
+| [Tinderbox](#tinderbox) | 5 silver | `Description TBD` |
+| [Torch](#torch) | 1 copper | `Description TBD` |
 
 --8<-- "item/gear/lighting/bullseye-lantern.md"
 

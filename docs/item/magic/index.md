@@ -1,5 +1,5 @@
 # Magic Items
-Magic Items are items that carry Infusions; magical properties added to Weapons, Armor, Adventuring Gear, and other items.
+`Description TBD`
 { .subtitle }
 
 ## Infusions
@@ -8,13 +8,13 @@ A Magic Item can have up to **2** Infusions at a time, and only **1** of them ca
 ### Infusions by Rarity
 | Rarity | Description |
 |---|---|
-| [Common](infusion/common/index.md) | Minor Infusions with modest, often utilitarian effects. |
-| [Uncommon](infusion/uncommon/index.md) | Broadly useful Infusions for exploration and combat. |
-| [Rare](infusion/rare/index.md) | Potent Infusions with significant magical effects. |
-| [Very Rare](infusion/very-rare/index.md) | Powerful Infusions that channel high-level magic. |
-| [Legendary](infusion/legendary/index.md) | The most powerful craftable Infusions. |
-| [Artifacts](infusion/artifact/index.md) | Singular items of immense power and history. |
-| [Unique](infusion/unique/index.md) | One-of-a-kind items with custom properties. |
+| [Common](infusion/common/index.md) | `Description TBD` |
+| [Uncommon](infusion/uncommon/index.md) | `Description TBD` |
+| [Rare](infusion/rare/index.md) | `Description TBD` |
+| [Very Rare](infusion/very-rare/index.md) | `Description TBD` |
+| [Legendary](infusion/legendary/index.md) | `Description TBD` |
+| [Artifacts](infusion/artifact/index.md) | `Description TBD` |
+| [Unique](infusion/unique/index.md) | `Description TBD` |
 
 ### Using Magic Items
 Magic Items usually require wearing or wielding them properly, just like normal items. Magic Items that don't fit the standard [Item Types](/item/equip.md#item-types) are called Wondrous Items, and their usage varies.

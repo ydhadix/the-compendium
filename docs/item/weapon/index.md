@@ -1,12 +1,12 @@
 # Weapons
-
-Weapons let you deal damage in combat, each category balancing damage, range, and special properties against its Value.
+`Description TBD`
+{ .subtitle }
 
 | Weapons | Description |
 |---|---|
-| [Weapon Types](type.md) | The weapon categories, their stat tables, and weapon families. |
-| [Weapon Properties](property/index.md) | Properties that shape how a weapon is used beyond dealing damage. |
-| [Weapon Mastery](mastery/index.md) | Mastery options unlocked by features that grant them. |
+| [Weapon Types](type.md) | `Description TBD` |
+| [Weapon Properties](property/index.md) | `Description TBD` |
+| [Weapon Mastery](mastery/index.md) | `Description TBD` |
 
 ## Wielding Weapons
 

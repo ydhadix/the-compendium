@@ -1,17 +1,16 @@
 # Primal Imprints
-
-Primal Imprints are traits a ranger copies from the beasts they study, learning to survive by watching how the wild around them adapts. Each Imprint mirrors a creature's natural gift — keen senses, a burrower's claws, a glider's wings, or the lungs to breathe underwater.
-
+`Description TBD`
+{ .subtitle }
 
 ### Level 1
 | Imprints | Description |
 |---|---|
-| [Bioluminescence](#bioluminescence) | Shed light from your own body, glowing bright or dim at will. |
-| [Camouflage](#camouflage) | Blend into your surroundings so others struggle to spot you. |
-| [Hold Breath](#hold-breath) | Hold your breath for up to an hour. |
-| [Keen Senses](#keen-senses) | Sharp eyes and ears grant Advantage on sight- and hearing-based Perception. |
-| [Powerful Build](#powerful-build) | Beastly might grants Advantage on Athletics and doubles what you can carry. |
-| [Sure-Footed](#sure-footed) | Keep your footing against knockdowns and climb as easily as you walk. |
+| [Bioluminescence](#bioluminescence) | `Description TBD` |
+| [Camouflage](#camouflage) | `Description TBD` |
+| [Hold Breath](#hold-breath) | `Description TBD` |
+| [Keen Senses](#keen-senses) | `Description TBD` |
+| [Powerful Build](#powerful-build) | `Description TBD` |
+| [Sure-Footed](#sure-footed) | `Description TBD` |
 
 ##### Bioluminescence
 Magic Action
@@ -37,14 +36,14 @@ You have Prone Protection, and you gain a Climb Speed equal to your Speed.
 ### Level 4
 | Imprints | Description |
 |---|---|
-| [Amphibious](#amphibious) | Breathe underwater and swim at your full Speed. |
-| [Cold Tolerance](#cold-tolerance) | Shrug off ice, snow, and the bite of extreme cold. |
-| [Heat Tolerance](#heat-tolerance) | Cross scorching sand and endure extreme heat and flame. |
-| [Jumper](#jumper) | Leap with your Dexterity and climb at your full Speed. |
-| [Mimicry](#mimicry) | Imitate simple sounds you've heard to deceive the ear. |
-| [Nocturnal](#nocturnal) | See in the dark out to 120 feet. |
-| [Roving](#roving) | Move without provoking Opportunity Attacks, and range farther each turn. |
-| [Skittish](#skittish) | Dart away or slip out of sight as a Bonus Action. |
+| [Amphibious](#amphibious) | `Description TBD` |
+| [Cold Tolerance](#cold-tolerance) | `Description TBD` |
+| [Heat Tolerance](#heat-tolerance) | `Description TBD` |
+| [Jumper](#jumper) | `Description TBD` |
+| [Mimicry](#mimicry) | `Description TBD` |
+| [Nocturnal](#nocturnal) | `Description TBD` |
+| [Roving](#roving) | `Description TBD` |
+| [Skittish](#skittish) | `Description TBD` |
 
 ##### Amphibious
 Ranger Level 4
@@ -100,10 +99,10 @@ You can Disengage or Hide.
 ### Level 7
 | Imprints | Description |
 |---|---|
-| [Amorphous](#amorphous) | Slip free of grapples and squeeze through the narrowest gaps. |
-| [Echolocation](#echolocation) | Map your surroundings by sound, gaining Blindsight while you can hear. |
-| [Glider](#glider) | Ride the air on your turn and fall without harm. |
-| [Web Walker](#web-walker) | Ignore clinging webs and climb sheer surfaces with ease. |
+| [Amorphous](#amorphous) | `Description TBD` |
+| [Echolocation](#echolocation) | `Description TBD` |
+| [Glider](#glider) | `Description TBD` |
+| [Web Walker](#web-walker) | `Description TBD` |
 
 ##### Amorphous
 Ranger Level 7
@@ -132,8 +131,8 @@ You ignore movement penalties caused by webs, and you gain a Spider Climb Speed 
 ### Level 10
 | Imprints | Description |
 |---|---|
-| [Burrower](#burrower) | Dig through earth, leaving a tunnel in your wake. |
-| [Pack Tactics](#pack-tactics) | Strike with Advantage when a foe is caught beside an ally. |
+| [Burrower](#burrower) | `Description TBD` |
+| [Pack Tactics](#pack-tactics) | `Description TBD` |
 
 ##### Burrower
 Ranger Level 10

@@ -1,5 +1,5 @@
 # Bastions
-A Bastion is a location or structure you own, such as a stronghold or a sailing ship, that offers refuge from the dangers of adventuring and a place to conduct research, craft Items, and more.
+`Description TBD`
 { .subtitle }
 
 ## Gaining a Bastion
@@ -68,13 +68,13 @@ Every Special Facility comes with at least one Hireling who works in and maintai
 #### Special Facility List
 | Facility | Prerequisite | Description |
 |---|---|---|
-| [Arcanum](arcanum.md) | Spellcasting with an Arcane Focus | A warded sanctum for arcane study and experimentation. |
-| [Armory](armory.md) | — | A martial shop stocked with weapons and armor. |
-| [Garden](garden.md) | Spellcasting with a Druidic Focus | A cultivated plot of herbs and restorative growth. |
-| [Infirmary](infirmary.md) | — | A ward where the sick and wounded recover. |
-| [Kitchen](kitchen.md) | — | A working hearth that keeps the household fed. |
-| [Shrine](shrine.md) | Spellcasting with a Holy Symbol | A consecrated place of worship and blessing. |
-| [Storehouse](storehouse.md) | — | A stocked store of everyday adventuring supplies. |
-| [Study](study.md) | — | A scholar's retreat for research and fine copying. |
-| [Training Yard](training-yard.md) | Fighting Style, Unarmored Stance, or Weapon Mastery | Grounds for drilling martial skill and form. |
-| [Workshop](workshop.md) | — | An artisan's hall fit for crafts of every kind. |
+| [Arcanum](arcanum.md) | Spellcasting with an Arcane Focus | `Description TBD` |
+| [Armory](armory.md) | — | `Description TBD` |
+| [Garden](garden.md) | Spellcasting with a Druidic Focus | `Description TBD` |
+| [Infirmary](infirmary.md) | — | `Description TBD` |
+| [Kitchen](kitchen.md) | — | `Description TBD` |
+| [Shrine](shrine.md) | Spellcasting with a Holy Symbol | `Description TBD` |
+| [Storehouse](storehouse.md) | — | `Description TBD` |
+| [Study](study.md) | — | `Description TBD` |
+| [Training Yard](training-yard.md) | Fighting Style, Unarmored Stance, or Weapon Mastery | `Description TBD` |
+| [Workshop](workshop.md) | — | `Description TBD` |

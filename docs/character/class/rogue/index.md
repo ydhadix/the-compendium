@@ -1,10 +1,10 @@
 # Rogue
+`Description TBD`
+{ .subtitle }
 
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Rogues are cunning opportunists who rely on skill, stealth, and precision over brute force. They can slip past danger unnoticed and end fights with a single, perfectly placed strike.
-{ .subtitle }
 
 
 ## Class Table

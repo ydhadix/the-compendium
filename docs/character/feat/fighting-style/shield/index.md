@@ -1,11 +1,13 @@
 # Shield Fighting Styles
+`Description TBD`
+{ .subtitle }
 
 | Fighting Styles | Description |
 |---|---|
-| [Shield Defense](#shield-defense) | Train wielding Shields to defend your allies. |
-| [Shield Fighting](#shield-fighting) | Train wielding Shields to attack your enemies. |
-| [Shield Throwing](#shield-throwing) | Master throwing Shields as a weapon. |
-| [Shield Warrior](#shield-warrior) | Master wielding Heavy Shields as a weapon. |
+| [Shield Defense](#shield-defense) | `Description TBD` |
+| [Shield Fighting](#shield-fighting) | `Description TBD` |
+| [Shield Throwing](#shield-throwing) | `Description TBD` |
+| [Shield Warrior](#shield-warrior) | `Description TBD` |
 
 ## Basic Fighting Styles
 

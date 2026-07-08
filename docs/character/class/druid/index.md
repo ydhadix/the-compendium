@@ -1,10 +1,10 @@
 # Druid
+`Description TBD`
+{ .subtitle }
 
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Druids are keepers of the primal world, drawing magic from wild places and the turning of the seasons. They can wield the raw energy of nature to nurture, to shape, and to unleash its fury.
-{ .subtitle }
 
 ## Class Table
 | Level | Features | Channel Nature |

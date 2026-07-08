@@ -1,17 +1,16 @@
 # Gear Packs
-
-Ready-made bundles of gear for common professions.
-
+`Description TBD`
+{ .subtitle }
 
 | Pack | Value | Description |
 |---|---|---|
-| [Burglar's Pack](#burglars-pack) | 16 gold | A ready-made kit of gear for breaking and entering. |
-| [Diplomat's Pack](#diplomats-pack) | 39 gold | A ready-made kit of gear for courtly business. |
-| [Dungeoneer's Pack](#dungeoneers-pack) | 12 gold | A ready-made kit of gear for delving dungeons. |
-| [Entertainer's Pack](#entertainers-pack) | 40 gold | A ready-made kit of gear for performing. |
-| [Explorer's Pack](#explorers-pack) | 10 gold | A ready-made kit of gear for wilderness travel. |
-| [Priest's Pack](#priests-pack) | 19 gold | A ready-made kit of gear for religious duties. |
-| [Scholar's Pack](#scholars-pack) | 40 gold | A ready-made kit of gear for study and research. |
+| [Burglar's Pack](#burglars-pack) | 16 gold | `Description TBD` |
+| [Diplomat's Pack](#diplomats-pack) | 39 gold | `Description TBD` |
+| [Dungeoneer's Pack](#dungeoneers-pack) | 12 gold | `Description TBD` |
+| [Entertainer's Pack](#entertainers-pack) | 40 gold | `Description TBD` |
+| [Explorer's Pack](#explorers-pack) | 10 gold | `Description TBD` |
+| [Priest's Pack](#priests-pack) | 19 gold | `Description TBD` |
+| [Scholar's Pack](#scholars-pack) | 40 gold | `Description TBD` |
 
 --8<-- "item/gear/pack/burglars-pack.md"
 

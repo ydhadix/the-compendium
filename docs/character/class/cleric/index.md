@@ -1,5 +1,5 @@
 # Cleric
-Clerics are the chosen vessels of the divine, channeling their deity's power to mend the wounded and smite the wicked. They can call on divine might to turn back the undead and blaze with holy or unholy might.
+`Description TBD`
 { .subtitle }
 
 ## Class Table
@@ -137,7 +137,7 @@ Choose a Cleric Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Arcana](arcana.md) | Wield Wizard spells and arcane secrets alongside your divine power. |
+| [Arcana](arcana.md) | `Description TBD` |
 
 
 ### 5: Blessed Strikes

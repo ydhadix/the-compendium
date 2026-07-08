@@ -1,5 +1,5 @@
 # Spell Level
-Every Spell has a Level from **0** to **6**, shown on its card.
+`Description TBD`
 { .subtitle }
 
 A Level **0** Spell is a Cantrip. Cantrips are always ready and never expend a [Spell Slot](../casting.md#spell-slots).

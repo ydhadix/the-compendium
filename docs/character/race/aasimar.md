@@ -1,9 +1,8 @@
 # Aasimar
-
-Aasimar are mortals touched by celestial power, resistant to necrotic and radiant harm alike. In moments of need they call up a divine revelation, sprouting wings, blazing with holy light, or striking terror into their foes.
+`Description TBD`
+{ .subtitle }
 
 ## Aasimar Traits
-
 | | |
 |---|---|
 | Abilities | Constitution and choose **1** |
@@ -16,7 +15,6 @@ Aasimar are mortals touched by celestial power, resistant to necrotic and radian
 | Senses | Darkvision (60 ft.) |
 
 ## Aasimar Features
-
 ### Divine Revelation
 Bonus Action, 1 use per Long Rest
 { .subtitle }
@@ -27,13 +25,10 @@ You gain the following benefits for **1** minute or until you end this effect _(
 
 - You have the revelation's effects.
 - Before you deal damage, you can add **PB** Necrotic or Radiant Damage.
-
 ##### Winged
 You have a Fly Speed equal to your Speed.
-
 ##### Chosen
 You emit Bright Light to **10** feet and Dim Light **10** feet further. Before your Turn ends, you deal **PB** Radiant Damage to each other creature within a **10**-foot Aura.
-
 ##### Fallen
 Each creature within **10** feet makes a Will Save _(DC = **8 + CON + PB**)_.
 

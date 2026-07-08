@@ -1,11 +1,11 @@
 # Armor
-
-Armor protects you in combat, raising your Armor Class and, for heavier sets, reducing the damage you take.
+`Description TBD`
+{ .subtitle }
 
 | Armor | Description |
 |---|---|
-| [Armor Types](type.md) | The four armor categories, their stat tables, and armor families. |
-| [Shields](shield/index.md) | Light, Medium, and Heavy shields and their benefits. |
+| [Armor Types](type.md) | `Description TBD` |
+| [Shields](shield/index.md) | `Description TBD` |
 
 ## Wearing Armor
 Your armor's weight determines how quickly you can don and doff it.

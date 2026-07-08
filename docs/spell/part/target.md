@@ -1,5 +1,5 @@
 # Targets
-Most Spells require you to choose one or more Targets to affect. A Target is usually a creature or object.
+`Description TBD`
 { .subtitle }
 
 ## Range

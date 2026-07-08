@@ -1,15 +1,17 @@
 # Ranged Fighting Styles
+`Description TBD`
+{ .subtitle }
 
 | Fighting Styles | Description |
 |---|---|
-| [Sharpshooting](#sharpshooting) | Train wielding Ranged weapons accurately. |
-| [Throwing](#throwing) | Train wielding Thrown weapons effectively. |
-| [Distance Shooting](#distance-shooting) | Master sniping at range and through cover with Ranged weapons. |
-| [Melee Shooting](#melee-shooting) | Master firing Ranged weapons in close quarters. |
-| [Sling Expert](#sling-expert) | Master devastating, ranged shots with Slings. |
-| [Crossbow Expert](#crossbow-expert) | Master rapid, armor piercing shots with Crossbows. |
-| [Bow Expert](#bow-expert) | Master rapid, long ranged shots with Bows. |
-| [Firearm Expert](#firearm-expert) | Master rapid, consistent shots with Firearms. |
+| [Sharpshooting](#sharpshooting) | `Description TBD` |
+| [Throwing](#throwing) | `Description TBD` |
+| [Distance Shooting](#distance-shooting) | `Description TBD` |
+| [Melee Shooting](#melee-shooting) | `Description TBD` |
+| [Sling Expert](#sling-expert) | `Description TBD` |
+| [Crossbow Expert](#crossbow-expert) | `Description TBD` |
+| [Bow Expert](#bow-expert) | `Description TBD` |
+| [Firearm Expert](#firearm-expert) | `Description TBD` |
 
 ## Basic Fighting Styles
 

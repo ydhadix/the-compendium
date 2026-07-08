@@ -1,5 +1,5 @@
 # Uncommon
-Broadly useful Infusions for exploration and combat.
+`Description TBD`
 { .subtitle }
 
 | Item | Rarity | Type | Attunement |

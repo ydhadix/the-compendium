@@ -1,6 +1,6 @@
 # Shields
-
-Shields are extra armor that is easily donned or doffed.
+`Description TBD`
+{ .subtitle }
 
 | Name | Armor Class | Strength Requirement | Stealth Penalty | Value |
 |---|---|---|---|---|

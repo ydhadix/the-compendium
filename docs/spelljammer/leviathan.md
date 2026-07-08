@@ -1,5 +1,5 @@
 # Leviathans
-Some creatures grow so vast they rival Spelljamming Ships, and fight as Ships do.
+`Description TBD`
 { .subtitle }
 
 A Leviathan follows the same rules as a Ship and is treated as one.

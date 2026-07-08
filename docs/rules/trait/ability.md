@@ -7,12 +7,12 @@ Each Ability is a modifier you add to the D20 Tests and other rolls and traits i
 
 | Ability | Description | Uses |
 |---|---|---|
-| Strength | physical might | Melee Attacks, Heavy Armor, Damage Reduction, Carry Capacity |
-| Dexterity | accuracy, agility, and balance | Ranged Attacks, Light Armor, Initiative, Reflex Saves |
-| Constitution | health and stamina | Hit Points, Fortitude Saves |
-| Intelligence | reasoning, learning, and memory | Spellcasting, additional Proficiencies |
-| Wisdom | awareness, empathy, and mental fortitude | Spellcasting, Will Saves |
-| Charisma | confidence, poise, and charm | Spellcasting |
+| Strength | Physical might | Melee Attacks, Heavy Armor, Damage Reduction, Carry Capacity, Jump Distance |
+| Dexterity | Accuracy, agility, and balance | Ranged Attacks, Light Armor, Initiative, Reflex Saves |
+| Constitution | Health and stamina | Hit Points, Fortitude Saves, Concentration |
+| Intelligence | Reasoning, learning, and memory | Spellcasting, Studying, additional Proficiencies |
+| Wisdom | Awareness, empathy, and mental resilience | Spellcasting, Will Saves, Searching |
+| Charisma | Confidence, poise, and charm | Spellcasting, Socializing |
 
 ### Intelligence Proficiencies
 You learn additional Proficiencies and Languages based on your Intelligence. If your Intelligence decreases, you don't lose any learned Proficiencies, but you don't learn more until your Intelligence exceeds the highest Intelligence you've gained a Proficiency from.

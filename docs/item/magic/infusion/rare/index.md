@@ -1,5 +1,5 @@
 # Rare
-Potent Infusions with significant magical effects.
+`Description TBD`
 { .subtitle }
 
 | Item | Rarity | Type | Attunement |

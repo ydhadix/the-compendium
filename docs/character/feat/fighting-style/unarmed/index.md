@@ -1,11 +1,13 @@
 # Unarmed Fighting Styles
+`Description TBD`
+{ .subtitle }
 
 | Fighting Styles | Description |
 |---|---|
-| [Brawling](#brawling) | Train throwing heavier strikes and grapples. |
-| [Striking](#striking) | Train launching precise strikes and grapples. |
-| [Breaking](#breaking) | Train breaking Improvised weapons for stronger hits. |
-| [Grappling](#grappling) | Master grappling and striking in a single motion. |
+| [Brawling](#brawling) | `Description TBD` |
+| [Striking](#striking) | `Description TBD` |
+| [Breaking](#breaking) | `Description TBD` |
+| [Grappling](#grappling) | `Description TBD` |
 
 ## Basic Fighting Styles
 

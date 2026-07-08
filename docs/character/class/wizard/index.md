@@ -1,10 +1,10 @@
 # Wizard
+`Description TBD`
+{ .subtitle }
 
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-Wizards are scholars of the arcane who master magic through relentless study, recording each spell in a hard-won repertoire. With the broadest reach of any caster, they can bend reality itself to a well-prepared mind.
-{ .subtitle }
 
 ## Class Table
 | Level | Features |

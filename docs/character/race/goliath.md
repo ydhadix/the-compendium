@@ -1,9 +1,8 @@
 # Goliath
-
-Goliaths are towering descendants of giants, unnaturally strong and able to briefly grow to giant size. Each giant ancestry grants a different elemental resistance and power.
+`Description TBD`
+{ .subtitle }
 
 ## Goliath Traits
-
 | | |
 |---|---|
 | Abilities | Strength and choose **1** |
@@ -16,7 +15,6 @@ Goliaths are towering descendants of giants, unnaturally strong and able to brie
 | Protections | Grapple |
 
 ## Goliath Features
-
 ### Powerful Build
 Your carry capacity is doubled.
 
@@ -31,7 +29,6 @@ Choose an ancestry. Each ancestry determines the type of your Resistance and giv
 
 ##### Cloud Goliath
 You have Thunder Resistance.
-
 ###### Cloud Jaunt
 Bonus Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -40,7 +37,6 @@ You can teleport up to **30** feet.
 
 ##### Fire Goliath
 You have Fire Resistance.
-
 ###### Fire Smite
 Free Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -49,7 +45,6 @@ Before you deal damage, you can add **1d10** Fire Damage.
 
 ##### Frost Goliath
 You have Cold Resistance.
-
 ###### Frost Smite
 Free Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -58,7 +53,6 @@ Before you deal damage, you can add **1d6** Cold Damage. After you deal that dam
 
 ##### Hill Goliath
 You have Poison Resistance.
-
 ###### Hill Quake
 Free Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -67,7 +61,6 @@ After you damage a creature, you can knock the target Prone.
 
 ##### Stone Goliath
 You have Poison Resistance.
-
 ###### Stone Endurance
 Reaction, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -76,7 +69,6 @@ Before you take damage, you can reduce that damage by **1d12 + CON**.
 
 ##### Storm Goliath
 You have Lightning Resistance.
-
 ###### Storm Rebuke
 Reaction, Proficiency Bonus uses per Long Rest
 { .subtitle }

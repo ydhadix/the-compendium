@@ -1,9 +1,8 @@
 # Synth
-
-Synths are humanoids built for a purpose, free of the frailties of flesh — they neither eat, drink, nor breathe, and rest without truly sleeping. Warforged are made for combat, Reploids to pass as flesh-and-blood folk, and Androids for whatever task their makers required.
+`Description TBD`
+{ .subtitle }
 
 ## Synth Traits
-
 | | |
 |---|---|
 | Abilities | Constitution and choose **1** |
@@ -17,7 +16,6 @@ Synths are humanoids built for a purpose, free of the frailties of flesh — the
 | Immunities | Sickness |
 
 ## Synth Features
-
 ### Constructed Nature
 You don't need to eat, drink, or breathe.
 

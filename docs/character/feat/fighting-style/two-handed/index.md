@@ -1,10 +1,12 @@
 # Two-Handed Fighting Styles
+`Description TBD`
+{ .subtitle }
 
 | Fighting Styles | Description |
 |---|---|
-| [Great Weapon Fighting](#great-weapon-fighting) | Train wielding Two-Handed weapons reliably. |
-| [Great Weapon Expert](#great-weapon-expert) | Master making repeated, devastating blows with Two-Handed weapons. |
-| [Polearm Expert](#polearm-expert) | Master making quick, reactive strikes with Reach weapons. |
+| [Great Weapon Fighting](#great-weapon-fighting) | `Description TBD` |
+| [Great Weapon Expert](#great-weapon-expert) | `Description TBD` |
+| [Polearm Expert](#polearm-expert) | `Description TBD` |
 
 ## Basic Fighting Styles
 

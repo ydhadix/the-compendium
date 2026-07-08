@@ -1,5 +1,5 @@
 # Preparing Spells
-To cast a Spell, you must have it Prepared, Learned, or made available by an Item.
+`Description TBD`
 { .subtitle }
 
 The way you gain access to a Spell determines how you cast it and whether you can change it later.

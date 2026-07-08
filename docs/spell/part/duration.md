@@ -1,5 +1,5 @@
 # Duration
-A Spell's Duration is how long its effect lasts after the Spell is cast.
+`Description TBD`
 { .subtitle }
 
 A Duration usually takes one of these forms:

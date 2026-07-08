@@ -1,5 +1,5 @@
 # Monk
-Monks are disciplined martial artists who channel an inner energy called Ki into feats beyond the body's limits. Fighting unarmored and unarmed, they flow across the battlefield with dazzling speed and strike with stunning precision.
+`Description TBD`
 { .subtitle }
 
 ## Class Table

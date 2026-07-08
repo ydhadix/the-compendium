@@ -1,9 +1,8 @@
 # Gnome
-
-Gnomes are small, clever folk with resilient minds that shrug off spells. They slip easily out of sight and carry a spark of innate magic.
+`Description TBD`
+{ .subtitle }
 
 ## Gnome Traits
-
 | | |
 |---|---|
 | Abilities | Dexterity and choose **1** |
@@ -16,23 +15,18 @@ Gnomes are small, clever folk with resilient minds that shrug off spells. They s
 | Senses | Darkvision (60 ft.) |
 
 ## Gnome Features
-
 ### Naturally Stealth
 You can Hide even when you are obscured only by a creature that is at least one size larger than you.
 
 ### Gnomish Ancestry
-
 ###### Learned Spells
 You learn this ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
-
 ###### Free Casting
 1 use each per Long Rest
 { .subtitle }
 
 You can cast one of this ancestry's Spells without a Spell Slot.
-
 ###### Ancestry Spells
-
 | LV | Spells |
 |---|---|
 | 1st | _Prestidigitation_, _Mage Hand_ |

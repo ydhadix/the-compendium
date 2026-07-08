@@ -1,6 +1,6 @@
 # Crafting Items
-
-You can craft your own equipment using tools, time, and raw materials.
+`Description TBD`
+{ .subtitle }
 
 ## Requirements
 You can craft Weapons, Armor, and Adventuring Gear, provided you have Proficiency with the Artisan's Tool associated with the item and the tool is appropriate to the material used _(see the [Item Types Table](equip.md#item-types))_.

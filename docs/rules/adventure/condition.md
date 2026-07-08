@@ -1,35 +1,35 @@
 # Conditions
-A Condition is a temporary state that changes what a creature can do.
+`Description TBD`
 { .subtitle }
 
 | Condition | Description |
 |---|---|
-| [Anchoring](#anchoring) | Immobile and can't be moved; fails Reflex Saves. |
-| [Bleeding](#bleeding) | Recurring Slashing Damage each Turn. |
-| [Blindness](#blindness) | Can't see; your Attacks have Disadvantage, Attacks against you have Advantage. |
-| [Burn](#burn) | Recurring Fire Damage each Turn. |
-| [Charm](#charm) | Can't harm the source, which influences you more easily. |
-| [Corrosion](#corrosion) | Recurring Acid Damage each Turn. |
-| [Daze](#daze) | Move or act, not both; no Reactions. |
-| [Deafness](#deafness) | Can't hear. |
-| [Down](#down) | Dying and Prone; make Death Saves each Turn. |
-| [Drifting](#drifting) | Pushed a set distance each Turn until reduced to **0**. |
-| [Exhaustion](#exhaustion) | Accumulating penalties to D20 Tests and Speed. |
-| [Fear](#fear) | Disadvantage while you see the source; can't approach it. |
-| [Grapple](#grapple) | Immobile and held by the grappler. |
-| [Hidden](#hidden) | Unseen and hard to locate. |
-| [Immobile](#immobile) | Speed **0**; Disadvantage on Reflex Saves. |
-| [Incapacitation](#incapacitation) | Can't act or Concentrate. |
-| [Invisible](#invisible) | Can't be seen. |
-| [Marked](#marked) | Tracks a creature for another effect; no effect on its own. |
-| [Paralysis](#paralysis) | Incapacitated and Restrained; nearby hits are Critical. |
-| [Petrification](#petrification) | Turned to solid substance; Resistant to all damage. |
-| [Prone](#prone) | Lying down; slowed and easier to hit up close. |
-| [Restraint](#restraint) | Immobile and fails Reflex Saves. |
-| [Sickness](#sickness) | Disadvantage on Attacks and Ability Checks. |
-| [Stable](#stable) | No longer dying, but fragile. |
-| [Stun](#stun) | Incapacitated and Restrained. |
-| [Unconscious](#unconscious) | Incapacitated, Prone, and unaware. |
+| [Anchoring](#anchoring) | `Description TBD` |
+| [Bleeding](#bleeding) | `Description TBD` |
+| [Blindness](#blindness) | `Description TBD` |
+| [Burn](#burn) | `Description TBD` |
+| [Charm](#charm) | `Description TBD` |
+| [Corrosion](#corrosion) | `Description TBD` |
+| [Daze](#daze) | `Description TBD` |
+| [Deafness](#deafness) | `Description TBD` |
+| [Down](#down) | `Description TBD` |
+| [Drifting](#drifting) | `Description TBD` |
+| [Exhaustion](#exhaustion) | `Description TBD` |
+| [Fear](#fear) | `Description TBD` |
+| [Grapple](#grapple) | `Description TBD` |
+| [Hidden](#hidden) | `Description TBD` |
+| [Immobile](#immobile) | `Description TBD` |
+| [Incapacitation](#incapacitation) | `Description TBD` |
+| [Invisible](#invisible) | `Description TBD` |
+| [Marked](#marked) | `Description TBD` |
+| [Paralysis](#paralysis) | `Description TBD` |
+| [Petrification](#petrification) | `Description TBD` |
+| [Prone](#prone) | `Description TBD` |
+| [Restraint](#restraint) | `Description TBD` |
+| [Sickness](#sickness) | `Description TBD` |
+| [Stable](#stable) | `Description TBD` |
+| [Stun](#stun) | `Description TBD` |
+| [Unconscious](#unconscious) | `Description TBD` |
 
 #### Stacking Conditions
 The same Condition can be applied by several sources at once.

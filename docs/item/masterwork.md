@@ -1,6 +1,6 @@
 # Masterwork
-
-Items of superior quality are more effective than their normal versions. There are different types of Masterwork bonuses, and each bonus is added to an item individually.
+`Description TBD`
+{ .subtitle }
 
 ## Masterwork Value
 The Value of a Masterwork item is determined by each of the item's Masterwork bonuses, in addition to the item's base Value. For Armor Class bonuses on a set of Armor _(not a Shield)_, use the Armor column instead.

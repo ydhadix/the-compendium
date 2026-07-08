@@ -1,5 +1,5 @@
 # Beast Master
-Beast Masters forge an unbreakable bond with a primal companion, fighting side by side as a single hunting pair. Whether it prowls the land, glides through the sky, or hunts beneath the waves, their beast strikes at their command.
+`Description TBD`
 { .subtitle }
 
 ## Beast Master Table

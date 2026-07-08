@@ -1,9 +1,8 @@
 # Dragonborn
-
-Dragonborn carry the blood of dragons, channeling the element of their draconic ancestry and exhaling it as a devastating breath weapon. Some can even take to the air on draconic wings.
+`Description TBD`
+{ .subtitle }
 
 ## Dragonborn Traits
-
 | | |
 |---|---|
 | Abilities | Strength and choose **1** |
@@ -16,7 +15,6 @@ Dragonborn carry the blood of dragons, channeling the element of their draconic 
 | Senses | Darkvision (60 ft.) |
 
 ## Dragonborn Features
-
 ### Breath Weapon
 Attack Action, Proficiency Bonus uses per Long Rest
 { .subtitle }

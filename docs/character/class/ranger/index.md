@@ -1,7 +1,6 @@
 # Ranger
-Rangers are peerless hunters who stalk the wild borderlands, marking their quarry and running it down without mercy. Drawing on primal magic, they can take on the very traits of the beasts they hunt, adapting to any terrain or prey.
+`Description TBD`
 { .subtitle }
-
 
 ## Class Table
 | Level | Features | Marked Target | Mark Damage | Primal Imprint |
@@ -120,7 +119,7 @@ Choose a Ranger Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Beast Master](beast-master.md) | Fight alongside a loyal primal companion of land, sea, or sky. |
+| [Beast Master](beast-master.md) | `Description TBD` |
 
 
 ### 4: Imprinting Adept

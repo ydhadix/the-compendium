@@ -3,6 +3,8 @@ banner: campaign/icewind-dale.png
 ---
 
 # Icewind Dale
+`Description TBD`
+{ .subtitle }
 
 !!! note "In progress"
     This page is a stub. Content is still being written.

@@ -1,18 +1,18 @@
 # Weapon Properties
-
-Most weapons have properties that determine how they're used beyond dealing damage.
+`Description TBD`
+{ .subtitle }
 
 | Property | Description |
 |---|---|
-| [Ammunition](#ammunition) | Requires and expends Ammunition to make a Ranged Attack. |
-| [Finesse](#finesse) | Uses Strength or Dexterity for attacks. |
-| [Heavy](#heavy) | Requires Strength to attack without Disadvantage. |
-| [Light](#light) | Lets you attack with a second Light weapon as a Bonus Action. |
-| [Loading](#loading) | Fires only one piece of Ammunition per Attack Action. |
-| [Reach](#reach) | Extends your Reach by **5** feet. |
-| [Thrown](#thrown) | Can be thrown using your Melee ability modifier. |
-| [Two-Handed](#two-handed) | Requires two hands to attack. |
-| [Versatile](#versatile) | Can be wielded in one or two hands, using larger Damage Dice in two. |
+| [Ammunition](#ammunition) | `Description TBD` |
+| [Finesse](#finesse) | `Description TBD` |
+| [Heavy](#heavy) | `Description TBD` |
+| [Light](#light) | `Description TBD` |
+| [Loading](#loading) | `Description TBD` |
+| [Reach](#reach) | `Description TBD` |
+| [Thrown](#thrown) | `Description TBD` |
+| [Two-Handed](#two-handed) | `Description TBD` |
+| [Versatile](#versatile) | `Description TBD` |
 
 --8<-- "item/weapon/property/ammunition.md"
 

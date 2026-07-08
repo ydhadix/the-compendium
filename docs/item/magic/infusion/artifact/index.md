@@ -1,5 +1,5 @@
 # Artifacts
-Singular items of immense power and history.
+`Description TBD`
 { .subtitle }
 
 | Item | Rarity | Type | Attunement |

@@ -1,13 +1,15 @@
 # Spells by Class
+`Description TBD`
+{ .subtitle }
 
-| Class |
-|---|
-| [Artificer](artificer.md) |
-| [Bard](bard.md) |
-| [Cleric](cleric.md) |
-| [Druid](druid.md) |
-| [Paladin](paladin.md) |
-| [Ranger](ranger.md) |
-| [Sorcerer](sorcerer.md) |
-| [Warlock](warlock.md) |
-| [Wizard](wizard.md) |
+| Class | Description |
+|---|---|
+| [Artificer](artificer.md) | `Description TBD` |
+| [Bard](bard.md) | `Description TBD` |
+| [Cleric](cleric.md) | `Description TBD` |
+| [Druid](druid.md) | `Description TBD` |
+| [Paladin](paladin.md) | `Description TBD` |
+| [Ranger](ranger.md) | `Description TBD` |
+| [Sorcerer](sorcerer.md) | `Description TBD` |
+| [Warlock](warlock.md) | `Description TBD` |
+| [Wizard](wizard.md) | `Description TBD` |

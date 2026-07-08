@@ -1,6 +1,6 @@
 # Weapon Types
-
-Every weapon belongs to a category that sets its damage, weight, properties, Mastery options, and Value. A category covers a broad family of weapons — its specific form is up to you.
+`Description TBD`
+{ .subtitle }
 
 | |
 |---|

@@ -4,14 +4,14 @@
 
 | D20 Tests | Description |
 |---|---|
-| [D20 Tests](#d20-tests) | The three types of d20 rolls. |
-| [Ability Checks](check.md) | A d20 roll to resolve a willing Action. |
-| [Attack Rolls](attack.md) | A d20 roll to hit with an Attack. |
-| [Saving Throws](save.md) | A d20 roll to avoid a harmful effect. |
-| [Damage Rolls](damage.md) | Rolling the damage an effect deals. |
-| [Critical Hits](critical.md) | Rolling a **20** on an attack, and its extra effects. |
-| [Advantage / Disadvantage](#advantage-disadvantage) | Rolling in optimal or suboptimal conditions. |
-| [Rerolls](#rerolls) | Making another attempt at a dice roll. |
+| [D20 Tests](#d20-tests) | `Description TBD` |
+| [Ability Checks](check.md) | `Description TBD` |
+| [Attack Rolls](attack.md) | `Description TBD` |
+| [Saving Throws](save.md) | `Description TBD` |
+| [Damage Rolls](damage.md) | `Description TBD` |
+| [Critical Hits](critical.md) | `Description TBD` |
+| [Advantage / Disadvantage](#advantage-disadvantage) | `Description TBD` |
+| [Rerolls](#rerolls) | `Description TBD` |
 
 ### D20 Tests
 The three main dice rolls are the Ability Check, the Attack Roll, and the Saving Throw — collectively the D20 Test.  Most D20 Tests add an Ability and a Proficiency to the d20 to determine the total; the situation determines which Ability and Proficiency apply.

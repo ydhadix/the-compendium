@@ -1,9 +1,8 @@
 # Halfling
-
-Halflings are a small, nimble, and irrepressibly lucky people. They dart between larger creatures, slip out of sight with ease, and rarely give in to fear.
+`Description TBD`
+{ .subtitle }
 
 ## Halfling Traits
-
 | | |
 |---|---|
 | Abilities | Dexterity and choose **1** |
@@ -15,7 +14,6 @@ Halflings are a small, nimble, and irrepressibly lucky people. They dart between
 | Protections | Fear |
 
 ## Halfling Features
-
 ### Naturally Stealth
 You can Hide even when you are obscured only by a creature that is at least one size larger than you.
 

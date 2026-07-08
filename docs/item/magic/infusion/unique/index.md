@@ -1,5 +1,5 @@
 # Unique
-One-of-a-kind items with custom properties.
+`Description TBD`
 { .subtitle }
 
 | Item | Rarity | Type | Attunement |

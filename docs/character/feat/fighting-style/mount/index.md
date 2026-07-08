@@ -1,9 +1,11 @@
 # Mounted Fighting Styles
+`Description TBD`
+{ .subtitle }
 
 | Fighting Styles | Description |
 |---|---|
-| [Mounted](#mounted) | Train commanding your mount. |
-| [Mounted Expert](#mounted-expert) | Master riding mounted on the battlefield. |
+| [Mounted](#mounted) | `Description TBD` |
+| [Mounted Expert](#mounted-expert) | `Description TBD` |
 
 ## Basic Fighting Styles
 

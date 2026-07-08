@@ -1,4 +1,7 @@
 # Orrery of the Wanderer
+`Description TBD`
+{ .subtitle }
+
 Artifact
 { .subtitle }
 

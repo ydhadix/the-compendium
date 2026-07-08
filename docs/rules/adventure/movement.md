@@ -1,5 +1,5 @@
 # Movement
-Movement through dangerous terrains often involves more than simply walking.
+`Description TBD`
 { .subtitle }
 
 | Movement | Description |

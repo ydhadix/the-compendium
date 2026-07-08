@@ -1,18 +1,18 @@
 # Weapon Mastery
-
-A weapon's Mastery property can only be used if you have a feature that specifically allows it. Only one Mastery property can be applied to each Attack Roll.
+`Description TBD`
+{ .subtitle }
 
 | Mastery | Description |
 |---|---|
-| [Cleave](#cleave) | Strike a second target near the first. |
-| [Graze](#graze) | Deal your ability modifier as damage on a miss. |
-| [Nick](#nick) | Make the extra Light Attack without a Bonus Action. |
-| [Pierce](#pierce) | Strike a second target behind the first. |
-| [Push](#push) | Push the target up to **10** feet. |
-| [Sap](#sap) | Give the target Disadvantage on its next Attack Roll. |
-| [Slow](#slow) | Reduce the target's Speed by **10** feet. |
-| [Topple](#topple) | Knock the target Prone. |
-| [Vex](#vex) | Gain Advantage on your next Attack Roll against the target. |
+| [Cleave](#cleave) | `Description TBD` |
+| [Graze](#graze) | `Description TBD` |
+| [Nick](#nick) | `Description TBD` |
+| [Pierce](#pierce) | `Description TBD` |
+| [Push](#push) | `Description TBD` |
+| [Sap](#sap) | `Description TBD` |
+| [Slow](#slow) | `Description TBD` |
+| [Topple](#topple) | `Description TBD` |
+| [Vex](#vex) | `Description TBD` |
 
 --8<-- "item/weapon/mastery/cleave.md"
 

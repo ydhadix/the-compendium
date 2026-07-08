@@ -1,32 +1,32 @@
 # Class Codex
-
-Your class reflects your specialized training and defines how you interact with the world as an adventurer.  Each class also has subclasses that further enhance your capabilities.
+`Description TBD`
+{ .subtitle }
 
 ## Class Rules
 | Sections | Description |
 |---|---|
-| [Leveling Up](#leveling-up) | How gaining a level advances one of your classes. |
-| [Primary Classes](#primary-classes) | The class you begin with and the benefits it grants at Level 1. |
-| [Multiclassing](#multiclassing) | Taking levels in a second class as you advance. |
-| [Multiclass Spellcasting](#multiclass-spellcasting) | How Spell Slots work when both your classes cast spells. |
-| [Character Levels](#character-levels) | What your combined level across both classes determines. |
+| [Leveling Up](#leveling-up) | `Description TBD` |
+| [Primary Classes](#primary-classes) | `Description TBD` |
+| [Multiclassing](#multiclassing) | `Description TBD` |
+| [Multiclass Spellcasting](#multiclass-spellcasting) | `Description TBD` |
+| [Character Levels](#character-levels) | `Description TBD` |
 
 ## Classes
 | Sections | Description |
 |---|---|
-| [Artificer](artificer/index.md) | Inventors who cast through their tools, infusing gear with magic and building wondrous devices. |
-| [Barbarian](barbarian/index.md) | Furious warriors who channel Rage into savage resilience and unstoppable blows. |
-| [Bard](bard/index.md) | Inspiring performers who borrow magic from every tradition and turn their hand to any skill. |
-| [Cleric](cleric/index.md) | Divine champions who wield their deity's power to heal allies and strike down the unholy. |
-| [Druid](druid/index.md) | Keepers of the wild who wield primal magic drawn from nature itself. |
-| [Fighter](fighter/index.md) | Master combatants who wield every weapon with skill, surging into action and refusing to fall. |
-| [Monk](monk/index.md) | Disciplined martial artists who channel Ki into blinding speed and stunning unarmed strikes. |
-| [Paladin](paladin/index.md) | Oath-bound holy warriors who fuse martial skill with divine magic. |
-| [Ranger](ranger/index.md) | Wilderness hunters who mark their prey and take on the traits of the beasts they study. |
-| [Rogue](rogue/index.md) | Cunning skirmishers who trade brute force for stealth, guile, and a deadly Sneak Attack. |
-| [Sorcerer](sorcerer/index.md) | Innate spellcasters who reshape their magic with Metamagic and raw Sorcery. |
-| [Warlock](warlock/index.md) | Pact-bound casters who wield a patron's forbidden magic and uncanny eldritch Invocations. |
-| [Wizard](wizard/index.md) | Arcane scholars who master an unmatched breadth of spells through study and preparation. |
+| [Artificer](artificer/index.md) | `Description TBD` |
+| [Barbarian](barbarian/index.md) | `Description TBD` |
+| [Bard](bard/index.md) | `Description TBD` |
+| [Cleric](cleric/index.md) | `Description TBD` |
+| [Druid](druid/index.md) | `Description TBD` |
+| [Fighter](fighter/index.md) | `Description TBD` |
+| [Monk](monk/index.md) | `Description TBD` |
+| [Paladin](paladin/index.md) | `Description TBD` |
+| [Ranger](ranger/index.md) | `Description TBD` |
+| [Rogue](rogue/index.md) | `Description TBD` |
+| [Sorcerer](sorcerer/index.md) | `Description TBD` |
+| [Warlock](warlock/index.md) | `Description TBD` |
+| [Wizard](wizard/index.md) | `Description TBD` |
 
 ## Using Classes
 ### Leveling Up

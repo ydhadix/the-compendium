@@ -1,6 +1,6 @@
 # Currency
-
-Wealth is measured in coins. Most values are listed in gold, the standard unit of trade.
+`Description TBD`
+{ .subtitle }
 
 ## Denominations
 

@@ -133,7 +133,7 @@ nav:
     - Hero Handbook:
       - Character Overview:         character/index.md
       - Character Creation:         character/creation.md
-      - "Character Options": "sep:"
+      - "---": "sep:"
       - Backgrounds:                character/background.md
       - Races:                      character/race/index.md
       - Classes:

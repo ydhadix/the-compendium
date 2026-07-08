@@ -1,16 +1,16 @@
 # Spell Selection
-Spells are set effects you can produce by expending magical energy, each described by its own Spell card.
+`Description TBD`
 { .subtitle }
 
 To cast a Spell, you must have it Prepared, Learned, or made available by an Item, and you must be able to pay its costs. Every Spell shares the same anatomy, described across the sections below.
 
 | Sections | Description |
 |---|---|
-| [Preparing Spells](preparing.md) | How you gain access to Spells and change the ones you have ready. |
-| [Casting Spells](casting.md) | How you spend Spell Slots and other resources to cast a Spell. |
-| [Parts of a Spell](part/index.md) | The anatomy shared by every Spell, from its School to its Duration. |
-| [Spells by Level](level/index.md) | An index of every spell, organized by Spell Level. |
-| [Spells by Class](class/index.md) | An index of every spell, organized by the Classes that cast them. |
+| [Preparing Spells](preparing.md) | `Description TBD` |
+| [Casting Spells](casting.md) | `Description TBD` |
+| [Parts of a Spell](part/index.md) | `Description TBD` |
+| [Spells by Level](level/index.md) | `Description TBD` |
+| [Spells by Class](class/index.md) | `Description TBD` |
 
 ## Overlapping Spells
 The effects of the same Spell cast more than once don't combine. Instead, the most potent effect from those castings applies while their Durations overlap.

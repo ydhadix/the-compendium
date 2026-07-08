@@ -1,10 +1,10 @@
 # Hero Handbook
-Everything you need to start building a character.
+`Description TBD`
 { .subtitle }
 
 | Sections | Description |
 |---|---|
-| [Character Creation](creation.md) | Building a character step by step, from choosing abilities to buying equipment. |
-| [Backgrounds](background.md) | Formative origins for your character before they became an adventurer. |
-| [Races](race/index.md) | Playable heritages and the Traits and Features each one grants. |
-| [Feats](feat/index.md) | Special talents that customize your character beyond race and class. |
+| [Character Creation](creation.md) | `Description TBD` |
+| [Backgrounds](background.md) | `Description TBD` |
+| [Races](race/index.md) | `Description TBD` |
+| [Feats](feat/index.md) | `Description TBD` |

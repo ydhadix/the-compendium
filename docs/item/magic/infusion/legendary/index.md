@@ -1,5 +1,5 @@
 # Legendary
-The most powerful craftable Infusions.
+`Description TBD`
 { .subtitle }
 
 | Item | Rarity | Type | Attunement |

@@ -1,5 +1,5 @@
 # Pilot
-The Pilot controls the Ship's movement and position.
+`Description TBD`
 { .subtitle }
 
 Pilots have three Pilot Actions, plus Pilot Maneuvers that enhance those Actions by expending Maneuver Dice. A Pilot begins each combat with **2 × Proficiency Bonus** **d6** Maneuver Dice.
@@ -44,26 +44,26 @@ Whenever a Pilot Maneuver refers to a Ship's AC, or to Attacks made against a Sh
 
 | Maneuver | Description | Artificer | Barbarian | Fighter | Monk | Paladin | Ranger | Rogue |
 |---|---|---|---|---|---|---|---|---|
-| [Barrel Roll](barrel-roll.md) | Snap into a tight roll, kicking clear of an approaching enemy. | | | ✓ | ✓ | | | ✓ |
-| [Parting Shot](parting-shot.md) | Take advantage of a retreating turn for a clean hit. | | | ✓ | | ✓ | ✓ | ✓ |
-| [Punch It](punch-it.md) | Throttle the ship wide open to seize an opening advantage. | ✓ | ✓ | | | | | |
-| [Ride the Current](ride-the-current.md) | Catch a rising current and let it launch you forward. | | | | ✓ | | ✓ | ✓ |
-| [Rolling Scissors](rolling-scissors.md) | Twist into a tight spiral, dodging incoming fire. | ✓ | ✓ | ✓ | | ✓ | | |
+| [Barrel Roll](barrel-roll.md) | `Description TBD` |  |  | ✓ | ✓ |  |  | ✓ |
+| [Parting Shot](parting-shot.md) | `Description TBD` |  |  | ✓ |  | ✓ | ✓ | ✓ |
+| [Punch It](punch-it.md) | `Description TBD` | ✓ | ✓ |  |  |  |  |  |
+| [Ride the Current](ride-the-current.md) | `Description TBD` |  |  |  | ✓ |  | ✓ | ✓ |
+| [Rolling Scissors](rolling-scissors.md) | `Description TBD` | ✓ | ✓ | ✓ |  | ✓ |  |  |
 
 ## Level 5 Maneuvers
 
 | Maneuver | Description | Artificer | Barbarian | Fighter | Monk | Paladin | Ranger | Rogue |
 |---|---|---|---|---|---|---|---|---|
-| [Collision Course](collision-course.md) | Exploit the enemy's charge, weaponizing their momentum. | | ✓ | ✓ | | ✓ | | ✓ |
-| [High Loop](high-loop.md) | Pull the ship into a loop, swinging into a punishing descent. | ✓ | | | ✓ | | ✓ | ✓ |
-| [Ironclad](ironclad.md) | Lock down the ship, turning it into an immovable fortress. | ✓ | ✓ | ✓ | | ✓ | | |
-| [Serpentine](serpentine.md) | Veer unpredictably, cutting an erratic path around the enemy. | | | ✓ | ✓ | | ✓ | ✓ |
+| [Collision Course](collision-course.md) | `Description TBD` |  | ✓ | ✓ |  | ✓ |  | ✓ |
+| [High Loop](high-loop.md) | `Description TBD` | ✓ |  |  | ✓ |  | ✓ | ✓ |
+| [Ironclad](ironclad.md) | `Description TBD` | ✓ | ✓ | ✓ |  | ✓ |  |  |
+| [Serpentine](serpentine.md) | `Description TBD` |  |  | ✓ | ✓ |  | ✓ | ✓ |
 
 ## Level 9 Maneuvers
 
 | Maneuver | Description | Artificer | Barbarian | Fighter | Monk | Paladin | Ranger | Rogue |
 |---|---|---|---|---|---|---|---|---|
-| [Bombing Run](bombing-run.md) | Dive in low, opening the window for a devastating volley. | ✓ | ✓ | ✓ | | ✓ | | ✓ |
-| [Evasive Maneuvers](evasive-maneuvers.md) | Pull clear of an incoming strike with sharp, sudden turns. | | | ✓ | ✓ | | ✓ | ✓ |
-| [Locked On](locked-on.md) | Bear down hard, holding the enemy in your sights. | ✓ | | | ✓ | | ✓ | ✓ |
-| [Ramming Speed](ramming-speed.md) | Push the engines to their limit and commit to a crushing blow. | | ✓ | ✓ | | ✓ | | |
+| [Bombing Run](bombing-run.md) | `Description TBD` | ✓ | ✓ | ✓ |  | ✓ |  | ✓ |
+| [Evasive Maneuvers](evasive-maneuvers.md) | `Description TBD` |  |  | ✓ | ✓ |  | ✓ | ✓ |
+| [Locked On](locked-on.md) | `Description TBD` | ✓ |  |  | ✓ |  | ✓ | ✓ |
+| [Ramming Speed](ramming-speed.md) | `Description TBD` |  | ✓ | ✓ |  | ✓ |  |  |

@@ -1,5 +1,5 @@
 # Fighter
-Fighters are master combatants who have honed weapons and tactics to a razor's edge. They can read a battlefield at a glance, surge into sudden bursts of action, and stand unbroken when lesser warriors would fall.
+`Description TBD`
 { .subtitle }
 
 ## Class Table
@@ -106,7 +106,7 @@ Choose a Fighter Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Eldritch Knight](eldritch-knight.md) | Blend Wizard spells and bonded Pact Weapons into your martial technique. |
+| [Eldritch Knight](eldritch-knight.md) | `Description TBD` |
 
 
 ### 4: Ability Increase

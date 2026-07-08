@@ -1,15 +1,14 @@
 # Clothing
-
-Garments for disguise, ceremony, and travel.
-
+`Description TBD`
+{ .subtitle }
 
 | Item | Value | Description |
 |---|---|---|
-| [Costume](#costume) | 5 gold | An outfit for disguising yourself as someone else. |
-| [Fine Clothes](#fine-clothes) | 15 gold | Expensive attire for high society and formal events. |
-| [Perfume](#perfume) | 5 gold | A vial of scent that charms those nearby. |
-| [Robe](#robe) | 1 gold | A robe marking a vocation or ceremonial role. |
-| [Traveler's Clothes](#travelers-clothes) | 2 gold | Rugged clothing made for life on the road. |
+| [Costume](#costume) | 5 gold | `Description TBD` |
+| [Fine Clothes](#fine-clothes) | 15 gold | `Description TBD` |
+| [Perfume](#perfume) | 5 gold | `Description TBD` |
+| [Robe](#robe) | 1 gold | `Description TBD` |
+| [Traveler's Clothes](#travelers-clothes) | 2 gold | `Description TBD` |
 
 --8<-- "item/gear/clothing/costume.md"
 

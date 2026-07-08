@@ -1,5 +1,5 @@
 # Very Rare
-Powerful Infusions that channel high-level magic.
+`Description TBD`
 { .subtitle }
 
 | Item | Rarity | Type | Attunement |

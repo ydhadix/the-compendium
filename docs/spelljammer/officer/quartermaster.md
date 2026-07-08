@@ -1,5 +1,5 @@
 # Quartermaster
-The Quartermaster directs the crew and manages the Ship's active systems by giving orders.
+`Description TBD`
 { .subtitle }
 
 As the Quartermaster, you can use your Ship Action to issue a number of Crew Orders up to your Proficiency Bonus. Each Order targets a specific part of the Ship, and you can issue the same Order more than once.

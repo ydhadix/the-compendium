@@ -1,9 +1,8 @@
 # Backgrounds
-
-Your background represents the place and occupation that was most formative before you became an adventurer.
+`Description TBD`
+{ .subtitle }
 
 ## Choosing a Background
-
 You can create your own background, or you can modify one of the backgrounds below to suit your character.  Each background includes the following parts:
 
 - **3** abilities, which each increase by **1**
@@ -16,9 +15,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 - **50** gold to spend on equipment
 
 ## Example Backgrounds
-
-### Acolyte
-
+##### Acolyte
 | | |
 |---|---|
 | Abilities | Intelligence, Wisdom, Charisma |
@@ -29,8 +26,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Calligrapher's Supplies, Robe, Holy Symbol, Book of Prayers, 10 sheets of Parchment, 8 gold |
 
-### Artisan
-
+##### Artisan
 | | |
 |---|---|
 | Abilities | Strength, Dexterity, Intelligence |
@@ -41,8 +37,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | the chosen tool, Traveler's Clothes, 2 Pouches, 32 gold |
 
-### Charlatan
-
+##### Charlatan
 | | |
 |---|---|
 | Abilities | Dexterity, Constitution, Charisma |
@@ -53,8 +48,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Calligrapher's Supplies, Fine Clothes, Costume, 20 gold |
 
-### Criminal
-
+##### Criminal
 | | |
 |---|---|
 | Abilities | Dexterity, Constitution, Intelligence |
@@ -65,8 +59,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | the chosen Gaming Set, Traveler's Clothes, 2 Daggers, Crowbar, Lockpick, 2 Pouches, 15 gold |
 
-### Entertainer
-
+##### Entertainer
 | | |
 |---|---|
 | Abilities | Strength, Dexterity, Charisma |
@@ -77,8 +70,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | the chosen instrument, Traveler's Clothes, 2 Costumes, Mirror, Perfume, 11 gold |
 
-### Farmer
-
+##### Farmer
 | | |
 |---|---|
 | Abilities | Strength, Constitution, Wisdom |
@@ -89,8 +81,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Carpenter's Tools, Traveler's Clothes, Sickle, Healer's Kit, Iron Pot, Shovel, 30 gold |
 
-### Guard
-
+##### Guard
 | | |
 |---|---|
 | Abilities | Strength, Intelligence, Wisdom |
@@ -101,8 +92,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | the chosen Gaming Set, Traveler's Clothes, Light Crossbow, Spear, 20 Bolts, Bolt Case, Hooded Lantern, Manacles, 12 gold |
 
-### Guide
-
+##### Guide
 | | |
 |---|---|
 | Abilities | Dexterity, Constitution, Wisdom |
@@ -113,8 +103,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Cartographer's Tools, Traveler's Clothes, Shortbow, Dagger, 20 Arrows, Quiver, Bedroll, Tent, 1 gold |
 
-### Hermit
-
+##### Hermit
 | | |
 |---|---|
 | Abilities | Constitution, Wisdom, Charisma |
@@ -125,8 +114,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Herbalism Kit, Traveler's Clothes, Quarterstaff, Book of Philosophy, Lamp, 3 Flasks of Oil, Bedroll, 16 gold |
 
-### Merchant
-
+##### Merchant
 | | |
 |---|---|
 | Abilities | Constitution, Intelligence, Charisma |
@@ -137,8 +125,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Jeweler's Tools, Traveler's Clothes, 2 Pouches, 22 gold |
 
-### Noble
-
+##### Noble
 | | |
 |---|---|
 | Abilities | Strength, Intelligence, Charisma |
@@ -149,8 +136,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | the chosen Gaming Set, Fine Clothes, Perfume, 29 gold |
 
-### Sage
-
+##### Sage
 | | |
 |---|---|
 | Abilities | Constitution, Intelligence, Wisdom |
@@ -161,8 +147,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Calligrapher's Supplies, Robe, Quarterstaff, Book of History, 8 sheets of Parchment, 8 gold |
 
-### Sailor
-
+##### Sailor
 | | |
 |---|---|
 | Abilities | Strength, Dexterity, Wisdom |
@@ -173,8 +158,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Cartographer's Tools, Traveler's Clothes, Dagger, Rope, 30 gold |
 
-### Scribe
-
+##### Scribe
 | | |
 |---|---|
 | Abilities | Dexterity, Intelligence, Wisdom |
@@ -185,8 +169,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | Calligrapher's Supplies, Fine Clothes, Lamp, 3 Flasks of Oil, 12 sheets of Parchment, 23 gold |
 
-### Soldier
-
+##### Soldier
 | | |
 |---|---|
 | Abilities | Strength, Dexterity, Constitution |
@@ -197,8 +180,7 @@ You can create your own background, or you can modify one of the backgrounds bel
 | Languages | Common, one Standard, one Exotic |
 | Equipment | the chosen Gaming Set, Traveler's Clothes, Shortbow, Spear, 20 Arrows, Quiver, Healer's Kit, 14 gold |
 
-### Wayfarer
-
+##### Wayfarer
 | | |
 |---|---|
 | Abilities | Dexterity, Wisdom, Charisma |

@@ -1,5 +1,5 @@
 # Components
-A Spell's Components are the physical requirements to cast it.
+`Description TBD`
 { .subtitle }
 
 If you can't provide one or more of a Spell's Components, you can't cast it.

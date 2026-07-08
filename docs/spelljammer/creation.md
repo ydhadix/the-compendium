@@ -1,13 +1,13 @@
 # Creating a Ship
-A Ship's stats are build from a base stat block and Components its Officers install.
+`Description TBD`
 { .subtitle }
 
 | Parts of a Ship | Description |
 |---|---|
-| [Ship Size](#ship-size) | The Ship's dimensions determine how difficult it is to Pilot. |
-| [Hull Material](#hull-material) | The material a Ship's Hull is built from can alter its stats. |
-| [Defenses](#defenses) | How to measure a Ship's hull integrity. |
-| [Ship Components](#ship-components) | The different options a Ship has available to its Officers. |
+| [Ship Size](#ship-size) | `Description TBD` |
+| [Hull Material](#hull-material) | `Description TBD` |
+| [Defenses](#defenses) | `Description TBD` |
+| [Ship Components](#ship-components) | `Description TBD` |
 
 See [Ship Types](type/index.md) for base ship stat blocks.
 

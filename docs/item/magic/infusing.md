@@ -1,5 +1,5 @@
 # Infusing Items
-You can spend time and money to add Infusions to your equipment.
+`Description TBD`
 { .subtitle }
 
 ## Requirements

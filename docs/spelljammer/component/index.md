@@ -1,14 +1,14 @@
 # Ship Components
-A Ship's Components define its physical capabilities.
+`Description TBD`
 { .subtitle }
 
 Each Component belongs to one of the Ship's Officers — the Pilot, Quartermaster, or Spelljammer — and enhances that Officer's control of the Ship.
 
 | Ship Components | Description |
 |---|---|
-| [Pilot Components](pilot/index.md) | Sails, rams, and thrusters that shape how a Ship moves. |
-| [Quartermaster Components](quartermaster/index.md) | Weapons and hull systems the crew operates. |
-| [Spelljammer Helms](spelljammer/index.md) | Helms that arm a Ship with Jamming Protocols. |
+| [Pilot Components](pilot/index.md) | `Description TBD` |
+| [Quartermaster Components](quartermaster/index.md) | `Description TBD` |
+| [Spelljammer Helms](spelljammer/index.md) | `Description TBD` |
 
 ## Components in Combat
 Some Components can be attacked. A targetable Component has its own Armor Class, Damage Threshold, Hull Points, and Keel Points, just as the Ship's hull does. A Component without combat statistics can't be attacked.

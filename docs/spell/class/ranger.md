@@ -1,4 +1,6 @@
 # Ranger Spell List
+`Description TBD`
+{ .subtitle }
 
 | Spell Level |
 |---|
