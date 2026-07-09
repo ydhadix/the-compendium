@@ -1,0 +1,1 @@
+| [Air Envelope](/spelljammer/officer/spelljammer/air-envelope.md) | 2 | _Air Bubble_ | Ship Action | — | Self | **24** Hours |

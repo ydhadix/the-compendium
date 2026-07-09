@@ -2,14 +2,15 @@
 
     python3 scripts/genAll.py
 
-Runs all six section generators (magic items, spells, feats, subfeatures, items, components).
-Each is idempotent and self-pruning, so this is safe to run any time sources change.
+Runs all seven section generators (magic items, spells, feats, subfeatures, items, components,
+protocols). Each is idempotent and self-pruning, so this is safe to run any time sources change.
 """
 
 import genComponentSnippet
 import genFeatSnippet
 import genItemSnippet
 import genMagicItemSnippet
+import genProtocolSnippet
 import genSpellSnippet
 import genSubfeatureSnippet
 
@@ -20,6 +21,7 @@ GENERATORS = (
     genSubfeatureSnippet,
     genItemSnippet,
     genComponentSnippet,
+    genProtocolSnippet,
 )
 
 

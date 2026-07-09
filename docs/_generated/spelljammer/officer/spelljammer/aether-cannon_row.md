@@ -1,0 +1,1 @@
+| [Aether Cannon](/spelljammer/officer/spelljammer/aether-cannon.md) | 5 | _Fireball_ | Ship Action | Close or Long | A Ship | — |

@@ -1,0 +1,1 @@
+| [Cloaking Device](/spelljammer/officer/spelljammer/cloaking-device.md) | 4 | _Lesser Invisibility_ | Ship Action | — | Self | **1** Hour (C) |

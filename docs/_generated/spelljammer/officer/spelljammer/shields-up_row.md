@@ -1,0 +1,1 @@
+| [Shields Up](/spelljammer/officer/spelljammer/shields-up.md) | 2 | _Shield_ | Reaction | — | Self | Until the end of your next Turn |

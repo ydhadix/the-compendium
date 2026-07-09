@@ -1,0 +1,1 @@
+| [Eldritch Blaster](/spelljammer/officer/spelljammer/eldritch-blaster.md) | Cantrip | _Fire Bolt_ | Ship Action | Close or Long | A Ship | — |

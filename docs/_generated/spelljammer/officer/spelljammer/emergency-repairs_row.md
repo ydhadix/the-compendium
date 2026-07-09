@@ -1,0 +1,1 @@
+| [Emergency Repairs](/spelljammer/officer/spelljammer/emergency-repairs.md) | 1 | _Mending_ | Ship Action | — | Self | — |

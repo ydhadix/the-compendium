@@ -1,0 +1,1 @@
+| [Distress Signal](/spelljammer/officer/spelljammer/distress-signal.md) | 3 | _Sending_ | Ship Action | — | — | **8** Hours |

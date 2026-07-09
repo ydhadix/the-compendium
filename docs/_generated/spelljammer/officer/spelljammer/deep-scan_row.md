@@ -1,0 +1,1 @@
+| [Deep Scan](/spelljammer/officer/spelljammer/deep-scan.md) | 3 | _See Invisibility_ | Ship Action | Close | — | **1** Hour (C) |

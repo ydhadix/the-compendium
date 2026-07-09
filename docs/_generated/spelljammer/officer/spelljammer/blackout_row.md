@@ -1,0 +1,1 @@
+| [Blackout](/spelljammer/officer/spelljammer/blackout.md) | 3 | _Darkness_ | Ship Action | — | Self | **1** Hour (C) |

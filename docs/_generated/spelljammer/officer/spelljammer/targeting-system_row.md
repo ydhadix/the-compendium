@@ -1,0 +1,1 @@
+| [Targeting System](/spelljammer/officer/spelljammer/targeting-system.md) | Cantrip | _True Strike_ | Ship Action | Close | Self | Until the end of your next Turn |

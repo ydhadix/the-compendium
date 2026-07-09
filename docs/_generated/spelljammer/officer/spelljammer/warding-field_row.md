@@ -1,0 +1,1 @@
+| [Warding Field](/spelljammer/officer/spelljammer/warding-field.md) | Cantrip | _Blade Ward_ | Ship Action | — | Self | Until the end of your next Turn (C) |
