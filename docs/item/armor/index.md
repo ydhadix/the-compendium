@@ -1,11 +1,11 @@
 # Armor
-`Description TBD`
+Armor is the protective gear a character dons to turn aside blows, trading weight and mobility for a higher Armor Class.
 { .subtitle }
 
 | Armor | Description |
 |---|---|
-| [Armor Types](type.md) | `Description TBD` |
-| [Shields](shield/index.md) | `Description TBD` |
+| [Armor Types](type.md) | The grades of armor, from light to heavy. |
+| [Shields](shield/index.md) | Handheld protection for extra defense. |
 
 ## Wearing Armor
 Your armor's weight determines how quickly you can don and doff it.

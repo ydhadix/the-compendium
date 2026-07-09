@@ -1,5 +1,5 @@
 # Wizard
-`Description TBD`
+Wizards are scholars of the arcane who master magic through relentless study, filling their spellbooks with practiced knowledge.
 { .subtitle }
 
 !!! note "In progress"

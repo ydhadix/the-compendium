@@ -1,5 +1,5 @@
 # Casting Time
-`Description TBD`
+A Spell's Casting Time is how long it takes to cast.
 { .subtitle }
 
 Casting a Spell usually takes the Magic Action, but some Spells take a Bonus Action, a Reaction, or longer.

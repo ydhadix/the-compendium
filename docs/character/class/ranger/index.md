@@ -1,5 +1,5 @@
 # Ranger
-`Description TBD`
+Rangers are hunters and trackers at home in the wilds, blending martial skill, primal magic, and knowledge of their quarry.
 { .subtitle }
 
 ## Class Table
@@ -119,7 +119,7 @@ Choose a Ranger Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Beast Master](beast-master.md) | `Description TBD` |
+| [Beast Master](beast-master.md) | Fights alongside a bonded primal companion. |
 
 
 ### 4: Imprinting Adept

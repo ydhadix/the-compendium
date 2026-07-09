@@ -1,5 +1,5 @@
 # Keyword Index
-`Description TBD`
+Every keyword in the Compendium, gathered into a single alphabetical index.
 { .subtitle }
 
 !!! note "In progress"

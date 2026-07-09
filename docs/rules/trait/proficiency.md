@@ -1,5 +1,5 @@
 # Proficiency
-`Description TBD`
+Proficiency measures how much a creature's training improves a roll. The deeper the training, the more of its Proficiency Bonus applies.
 { .subtitle }
 
 ### Proficiency Bonus

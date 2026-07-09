@@ -1,5 +1,5 @@
 # Wizard Spell List
-`Description TBD`
+Wizard spells are arcane magic mastered through relentless study and a well-kept spellbook.
 { .subtitle }
 
 | Spell Level |

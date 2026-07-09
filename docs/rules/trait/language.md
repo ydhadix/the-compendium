@@ -1,5 +1,5 @@
 # Languages
-`Description TBD`
+Languages are the tongues a creature can speak, read, and understand, from the Common speech of the Material Plane to the exotic languages of distant worlds.
 { .subtitle }
 
 ### Standard Languages

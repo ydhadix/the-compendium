@@ -1,5 +1,5 @@
 # Armorer
-`Description TBD`
+Armorers forge arcane armor into an extension of themselves, reshaping it for defense or assault as the fight demands.
 { .subtitle }
 
 ## Armorer Table

@@ -1,32 +1,32 @@
 # Class Codex
-`Description TBD`
+A character's Class is their chosen calling and craft, the source of their signature powers. These pages hold every class, along with the rules for leveling up and multiclassing.
 { .subtitle }
 
 ## Class Rules
 | Sections | Description |
 |---|---|
-| [Leveling Up](#leveling-up) | `Description TBD` |
-| [Primary Classes](#primary-classes) | `Description TBD` |
-| [Multiclassing](#multiclassing) | `Description TBD` |
-| [Multiclass Spellcasting](#multiclass-spellcasting) | `Description TBD` |
-| [Character Levels](#character-levels) | `Description TBD` |
+| [Leveling Up](#leveling-up) | Gain new powers as a character advances. |
+| [Primary Classes](#primary-classes) | The class a character starts with at Level 1. |
+| [Multiclassing](#multiclassing) | Training two classes alongside each other. |
+| [Multiclass Spellcasting](#multiclass-spellcasting) | How Spell Slots work across two Spellcasting classes. |
+| [Character Levels](#character-levels) | What each Character Level grants. |
 
 ## Classes
 | Sections | Description |
 |---|---|
-| [Artificer](artificer/index.md) | `Description TBD` |
-| [Barbarian](barbarian/index.md) | `Description TBD` |
-| [Bard](bard/index.md) | `Description TBD` |
-| [Cleric](cleric/index.md) | `Description TBD` |
-| [Druid](druid/index.md) | `Description TBD` |
-| [Fighter](fighter/index.md) | `Description TBD` |
-| [Monk](monk/index.md) | `Description TBD` |
-| [Paladin](paladin/index.md) | `Description TBD` |
-| [Ranger](ranger/index.md) | `Description TBD` |
-| [Rogue](rogue/index.md) | `Description TBD` |
-| [Sorcerer](sorcerer/index.md) | `Description TBD` |
-| [Warlock](warlock/index.md) | `Description TBD` |
-| [Wizard](wizard/index.md) | `Description TBD` |
+| [Artificer](artificer/index.md) | An inventor who works magic through tools and devices. |
+| [Barbarian](barbarian/index.md) | A ferocious warrior fueled by primal rage. |
+| [Bard](bard/index.md) | A versatile performer who weaves magic from art and lore. |
+| [Cleric](cleric/index.md) | A divine champion granted power by a deity. |
+| [Druid](druid/index.md) | A guardian of nature wielding primal magic. |
+| [Fighter](fighter/index.md) | A master of weapons, armor, and battlefield tactics. |
+| [Monk](monk/index.md) | A martial artist channeling mystical energy. |
+| [Paladin](paladin/index.md) | A holy warrior bound by a sacred oath. |
+| [Ranger](ranger/index.md) | A hunter and tracker at home in the wilds. |
+| [Rogue](rogue/index.md) | A stealthy expert who strikes at the perfect moment. |
+| [Sorcerer](sorcerer/index.md) | A caster born with innate, surging magic. |
+| [Warlock](warlock/index.md) | A caster empowered by an otherworldly patron. |
+| [Wizard](wizard/index.md) | A scholar of arcane magic mastered through study. |
 
 ## Using Classes
 ### Leveling Up

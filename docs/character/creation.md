@@ -1,5 +1,5 @@
 # Character Creation
-`Description TBD`
+Character Creation walks a player through building a hero from scratch, choosing the abilities, race, background, and class that define who they are.
 { .subtitle }
 
 ### 1. Choose Abilities

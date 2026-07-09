@@ -1,5 +1,5 @@
 # Barbarian
-`Description TBD`
+Barbarians are ferocious warriors who draw on primal rage, trading caution for raw strength and staggering endurance.
 { .subtitle }
 
 !!! note "In progress"

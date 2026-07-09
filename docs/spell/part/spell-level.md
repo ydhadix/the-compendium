@@ -1,5 +1,5 @@
 # Spell Level
-`Description TBD`
+A Spell's Level marks its rank and power.
 { .subtitle }
 
 A Level **0** Spell is a Cantrip. Cantrips are always ready and never expend a [Spell Slot](../casting.md#spell-slots).

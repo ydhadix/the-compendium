@@ -1,1 +1,0 @@
-| [Warden's Helm](/spelljammer/component/spelljammer/wardens-helm.md) |

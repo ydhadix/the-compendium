@@ -1,5 +1,5 @@
 # Orrery of the Wanderer
-`Description TBD`
+A masterwork clockwork orrery that charts the planes and bends travel across them. Its power is split among six relic components, each a potent artifact in its own right.
 { .subtitle }
 
 Artifact

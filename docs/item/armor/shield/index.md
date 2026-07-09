@@ -1,5 +1,5 @@
 # Shields
-`Description TBD`
+A Shield is carried in one hand to ward off blows, adding to a character's Armor Class at the cost of a free hand.
 { .subtitle }
 
 | Name | Armor Class | Strength Requirement | Stealth Penalty | Value |

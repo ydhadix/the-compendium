@@ -1,5 +1,5 @@
 # Ability Checks
-`Description TBD`
+An Ability Check tests whether a creature succeeds at a task with a real chance of failure, measuring its effort against a Difficulty Class.
 { .subtitle }
 
 When you attempt something with a chance of failure _(other than an attack)_, you make an Ability Check to determine the outcome.  To succeed, your total must equal or exceed a Difficulty Class set by the DM, the effect that required the Ability Check, or from another creature's contested Ability Check.

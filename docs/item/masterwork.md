@@ -1,5 +1,5 @@
 # Masterwork
-`Description TBD`
+Masterwork items are the products of exceptional craftsmanship, carrying a bonus to attacks, defenses, or spellcasting that ordinary gear can't match.
 { .subtitle }
 
 ## Masterwork Value

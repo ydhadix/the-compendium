@@ -1,5 +1,5 @@
 # Synth
-`Description TBD`
+Synths are Humanoids constructed for a purpose: Warforged built for battle; Androids made for specialized tasks; and Reploids that pass for flesh and blood.
 { .subtitle }
 
 ## Synth Traits

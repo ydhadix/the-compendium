@@ -1,19 +1,19 @@
 # Movement
-`Description TBD`
+Movement covers how a creature gets from place to place and the terrain that gets in its way. Speed sets the distance, and the situation sets the cost.
 { .subtitle }
 
 | Movement | Description |
 |---|---|
-| [Crawling](#crawling) | `Description TBD` |
-| [Climbing](#climbing) | `Description TBD` |
-| [Swimming](#swimming) | `Description TBD` |
-| [Flying](#flying) | `Description TBD` |
-| [Jumping](#jumping) | `Description TBD` |
-| [Difficult Terrain](#difficult-terrain) | `Description TBD` |
-| [Squeezing](#squeezing) | `Description TBD` |
-| [Moving Through Creatures](#moving-through-creatures) | `Description TBD` |
-| [Propelled](#propelled) | `Description TBD` |
-| [Falling](#falling) | `Description TBD` |
+| [Crawling](#crawling) | Move while Prone, at extra cost. |
+| [Climbing](#climbing) | Move up a vertical surface, at extra cost. |
+| [Swimming](#swimming) | Move through liquid, at extra cost. |
+| [Flying](#flying) | Move through the air while aloft. |
+| [Jumping](#jumping) | Leap over or across an obstacle. |
+| [Difficult Terrain](#difficult-terrain) | Ground that costs extra to cross. |
+| [Squeezing](#squeezing) | Force through a space too small. |
+| [Moving Through Creatures](#moving-through-creatures) | Pass through a space another creature holds. |
+| [Propelled](#propelled) | Movement forced on a creature from outside. |
+| [Falling](#falling) | Drop when nothing keeps a creature aloft. |
 
 #### Splitting Movement
 You can Move before and after any Action on your Turn. However you break it up, your total movement can't exceed your Speed.

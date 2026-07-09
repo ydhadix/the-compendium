@@ -1,5 +1,5 @@
 # Tiefling
-`Description TBD`
+Tieflings are mortals marked by a fiendish bloodline, carrying its resistances, its magic, and the wariness of others it invites.
 { .subtitle }
 
 ## Tiefling Traits

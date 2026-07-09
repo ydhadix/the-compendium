@@ -1,5 +1,5 @@
 # Rogue
-`Description TBD`
+Rogues are experts who rely on cunning and precision, striking the moment a foe is caught off guard.
 { .subtitle }
 
 !!! note "In progress"

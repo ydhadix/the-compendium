@@ -1,5 +1,5 @@
 # Currency
-`Description TBD`
+Currency is the coin a character earns and spends, four metals of rising worth that set the price of everything from a night's lodging to a suit of plate.
 { .subtitle }
 
 ## Denominations

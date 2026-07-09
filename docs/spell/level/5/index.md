@@ -1,5 +1,5 @@
 # 5th-Level
-`Description TBD`
+5th-Level Spells are commanding magic of great reach and force.
 { .subtitle }
 
 --8<-- "_generated/spell/level/5/_index_table.md"

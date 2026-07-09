@@ -1,35 +1,35 @@
 # Conditions
-`Description TBD`
+Conditions are named states a creature can take on, like Blinded, Frightened, or Invisible. Each one bundles a set of effects that change what a creature can do until the condition ends.
 { .subtitle }
 
 | Condition | Description |
 |---|---|
-| [Anchoring](#anchoring) | `Description TBD` |
-| [Bleeding](#bleeding) | `Description TBD` |
-| [Blindness](#blindness) | `Description TBD` |
-| [Burn](#burn) | `Description TBD` |
-| [Charm](#charm) | `Description TBD` |
-| [Corrosion](#corrosion) | `Description TBD` |
-| [Daze](#daze) | `Description TBD` |
-| [Deafness](#deafness) | `Description TBD` |
-| [Down](#down) | `Description TBD` |
-| [Drifting](#drifting) | `Description TBD` |
-| [Exhaustion](#exhaustion) | `Description TBD` |
-| [Fear](#fear) | `Description TBD` |
-| [Grapple](#grapple) | `Description TBD` |
-| [Hidden](#hidden) | `Description TBD` |
-| [Immobile](#immobile) | `Description TBD` |
-| [Incapacitation](#incapacitation) | `Description TBD` |
-| [Invisible](#invisible) | `Description TBD` |
-| [Marked](#marked) | `Description TBD` |
-| [Paralysis](#paralysis) | `Description TBD` |
-| [Petrification](#petrification) | `Description TBD` |
-| [Prone](#prone) | `Description TBD` |
-| [Restraint](#restraint) | `Description TBD` |
-| [Sickness](#sickness) | `Description TBD` |
-| [Stable](#stable) | `Description TBD` |
-| [Stun](#stun) | `Description TBD` |
-| [Unconscious](#unconscious) | `Description TBD` |
+| [Anchoring](#anchoring) | Anchored in place, impossible to move. |
+| [Bleeding](#bleeding) | Bleeding freely and progressively weakening. |
+| [Blindness](#blindness) | Unable to see. |
+| [Burn](#burn) | Caught in spreading flames. |
+| [Charm](#charm) | Manipulated into trusting another creature. |
+| [Corrosion](#corrosion) | Eaten away by acid. |
+| [Daze](#daze) | Rattled and slow to react. |
+| [Deafness](#deafness) | Unable to hear. |
+| [Down](#down) | Fallen and fighting for life. |
+| [Drifting](#drifting) | Caught in uncontrolled, ongoing movement. |
+| [Exhaustion](#exhaustion) | Worn down by mounting fatigue. |
+| [Fear](#fear) | Frightened of a specific threat. |
+| [Grapple](#grapple) | Caught in another creature's grip. |
+| [Hidden](#hidden) | Concealed from notice. |
+| [Immobile](#immobile) | Unable to move. |
+| [Incapacitation](#incapacitation) | Unable to act or react. |
+| [Invisible](#invisible) | Impossible to see, even in plain sight. |
+| [Marked](#marked) | Singled out by a lingering effect. |
+| [Paralysis](#paralysis) | Frozen and helpless. |
+| [Petrification](#petrification) | Transformed into lifeless stone. |
+| [Prone](#prone) | Knocked to the ground. |
+| [Restraint](#restraint) | Bound and held in place. |
+| [Sickness](#sickness) | Wracked by illness or toxin. |
+| [Stable](#stable) | Stabilized and slowly recovering. |
+| [Stun](#stun) | Reeling and defenseless. |
+| [Unconscious](#unconscious) | Knocked out and unaware. |
 
 #### Stacking Conditions
 The same Condition can be applied by several sources at once.

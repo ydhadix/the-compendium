@@ -1,5 +1,5 @@
 # Paladin
-`Description TBD`
+Paladins are holy warriors bound by a sacred oath, blending martial might with divine magic to protect allies and to smite foes.
 { .subtitle }
 
 !!! note "In progress"

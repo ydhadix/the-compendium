@@ -1,5 +1,5 @@
 # Senses
-`Description TBD`
+Senses are the ways a creature perceives its surroundings beyond ordinary sight, revealing what darkness, distance, or illusion would otherwise hide.
 { .subtitle }
 
 ## Range

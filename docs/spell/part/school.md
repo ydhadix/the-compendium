@@ -1,5 +1,5 @@
 # School of Magic
-`Description TBD`
+A Spell's School groups it with others that create similar effects. Schools shape how other rules refer to Spells, but carry no rules of their own.
 { .subtitle }
 
 A School groups Spells by what they tend to do and lets other rules reference them together, but the Schools have no rules of their own. Most Spells belong to a single School, though some belong to more than one.

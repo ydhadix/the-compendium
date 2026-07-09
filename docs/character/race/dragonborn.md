@@ -1,5 +1,5 @@
 # Dragonborn
-`Description TBD`
+Dragonborn are the proud descendants of dragons, bearing draconic scales, a devastating breath weapon, and the resilience of their ancestry.
 { .subtitle }
 
 ## Dragonborn Traits

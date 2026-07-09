@@ -1,5 +1,5 @@
 # Fighter
-`Description TBD`
+Fighters are experienced combatants, deftly wielding weapons and tactics. They can read and adjust to a battlefield at a glance, and stand unbroken when lesser warriors would fall.
 { .subtitle }
 
 ## Class Table
@@ -106,7 +106,7 @@ Choose a Fighter Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Eldritch Knight](eldritch-knight.md) | `Description TBD` |
+| [Eldritch Knight](eldritch-knight.md) | Fuses martial skill with arcane spellcasting. |
 
 
 ### 4: Ability Increase

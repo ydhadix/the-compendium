@@ -1,5 +1,5 @@
 # Components
-`Description TBD`
+Components are what a caster must supply to shape a Spell: the spoken words, gestures, and materials that set its magic in motion.
 { .subtitle }
 
 If you can't provide one or more of a Spell's Components, you can't cast it.

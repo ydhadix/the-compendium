@@ -1,5 +1,5 @@
 # Alignment
-`Description TBD`
+Alignment is a shorthand for a creature's moral and ethical outlook. It pairs a creature's regard for others with its respect for order.
 { .subtitle }
 
 | | Lawful | Neutral | Chaotic |

@@ -1,5 +1,5 @@
 # Druid Spell List
-`Description TBD`
+Druid spells are primal magics drawn from the natural world and its wild forces.
 { .subtitle }
 
 | Spell Level |

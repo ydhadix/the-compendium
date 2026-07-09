@@ -1,17 +1,17 @@
 # Dice Rolls
-`Description TBD`
+Nearly every uncertain moment in the game is settled by a roll of the dice. These are the rolls that decide success, failure, and the toll of a hit.
 { .subtitle }
 
 | D20 Tests | Description |
 |---|---|
-| [D20 Tests](#d20-tests) | `Description TBD` |
-| [Ability Checks](check.md) | `Description TBD` |
-| [Attack Rolls](attack.md) | `Description TBD` |
-| [Saving Throws](save.md) | `Description TBD` |
-| [Damage Rolls](damage.md) | `Description TBD` |
-| [Critical Hits](critical.md) | `Description TBD` |
-| [Advantage / Disadvantage](#advantage-disadvantage) | `Description TBD` |
-| [Rerolls](#rerolls) | `Description TBD` |
+| [D20 Tests](#d20-tests) | The three core rolls most outcomes rely on. |
+| [Ability Checks](check.md) | Roll to overcome a task that might fail. |
+| [Attack Rolls](attack.md) | Roll to land a Weapon or Spell attack. |
+| [Saving Throws](save.md) | Roll to resist a harmful effect. |
+| [Damage Rolls](damage.md) | Roll how much harm a hit deals. |
+| [Critical Hits](critical.md) | A natural 20 that turns a hit especially deadly. |
+| [Advantage / Disadvantage](#advantage-disadvantage) | Roll twice, taking the better or worse result. |
+| [Rerolls](#rerolls) | Roll a die again for a new result. |
 
 ### D20 Tests
 The three main dice rolls are the Ability Check, the Attack Roll, and the Saving Throw — collectively the D20 Test.  Most D20 Tests add an Ability and a Proficiency to the d20 to determine the total; the situation determines which Ability and Proficiency apply.

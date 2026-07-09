@@ -1,5 +1,5 @@
 # Size
-`Description TBD`
+A creature's Size Category sets the space it occupies and the room it needs to move and fight.
 { .subtitle }
 
 Every creature and object has a Size Category that describes the space it occupies.

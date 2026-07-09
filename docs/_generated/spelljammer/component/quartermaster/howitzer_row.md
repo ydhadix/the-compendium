@@ -1,1 +1,0 @@
-| [Howitzer](/spelljammer/component/quartermaster/howitzer.md) |

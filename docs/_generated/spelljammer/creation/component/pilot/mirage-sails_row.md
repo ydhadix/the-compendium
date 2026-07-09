@@ -1,0 +1,1 @@
+| [Mirage Sails](/spelljammer/creation/component/pilot/mirage-sails.md) |

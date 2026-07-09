@@ -1,5 +1,5 @@
 # Abilities
-`Description TBD`
+The six Abilities measure a creature's raw physical and mental capabilities. Nearly every roll in the game draws on one of them.
 { .subtitle }
 
 ### The Six Abilities

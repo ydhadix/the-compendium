@@ -1,16 +1,16 @@
 # Spell Selection
-`Description TBD`
+Magic is usually cast through Spells, each a defined effect a character can call upon. These pages cover how Spells are gained, how they're cast, and the parts that make up every spell.
 { .subtitle }
 
 To cast a Spell, you must have it Prepared, Learned, or made available by an Item, and you must be able to pay its costs. Every Spell shares the same anatomy, described across the sections below.
 
 | Sections | Description |
 |---|---|
-| [Preparing Spells](preparing.md) | `Description TBD` |
-| [Casting Spells](casting.md) | `Description TBD` |
-| [Parts of a Spell](part/index.md) | `Description TBD` |
-| [Spells by Level](level/index.md) | `Description TBD` |
-| [Spells by Class](class/index.md) | `Description TBD` |
+| [Preparing Spells](preparing.md) | How a character gains access to a Spell. |
+| [Casting Spells](casting.md) | How a Spell is paid for and cast. |
+| [Parts of a Spell](part/index.md) | The anatomy shared by every Spell. |
+| [Spells by Level](level/index.md) | Every Spell, sorted by Spell Level. |
+| [Spells by Class](class/index.md) | Every Spell, sorted by the classes that cast it. |
 
 ## Overlapping Spells
 The effects of the same Spell cast more than once don't combine. Instead, the most potent effect from those castings applies while their Durations overlap.

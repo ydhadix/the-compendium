@@ -76,6 +76,12 @@
   --pm-gutter:         1rem;      /* min window-edge gutter */
   --pm-nav-w:          10.5rem;   /* left-nav width (a touch roomier) */
   --pm-nav-gap:        0rem;      /* nav panel sits flush against the content panel */
+  /* THE single knob for the nav's horizontal position: the content's inset from
+     the panel's left/right edges. Turn these to shift the whole tree uniformly —
+     per-item padding stays fixed and tight, so it never multiplies down the
+     levels. Left is larger so the content clears the panel's soft left gradient. */
+  --pm-nav-pad-l:      0.4rem;
+  --pm-nav-pad-r:      0.4rem;
   --pm-content-pad-top: 3.5rem;   /* text inset from the panel top */
 
   /* Derived: inset ramps pad-min -> pad-max across 60em..80.6em (slope ~0.2427). */
@@ -527,7 +533,7 @@ body {
     max-height: 100%;                        /* …but never past the track (the footer) */
     overflow-y: auto;
     overscroll-behavior: contain;
-    padding: 0.8rem 0.2rem 1.4rem 0.2rem;
+    padding: 0.8rem var(--pm-nav-pad-r) 1.4rem var(--pm-nav-pad-l);   /* horizontal inset = the one nav knob */
     background-color: #8c1911;               /* red fabric bookmark */
     background-image: url("../images/textures/fabric.png");
     background-repeat: repeat;
@@ -579,21 +585,53 @@ body {
   }
 }
 
-.pm-localnav__list { list-style: none; margin: 0; padding: 0; }
+.pm-localnav__list {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
 
-/* Indent each nested level, with a faint tan guide line. */
-.pm-localnav__list .pm-localnav__list {
-  margin: 0.1rem 0 0.25rem 0.55rem;
-  padding-left: 0.1rem;                              /* keep children close to the guide line */
+/* A section's children: hidden until its toggle is checked, then revealed.
+   Indented one level with a faint tan guide line. The whole tree is always in
+   the DOM — this only shows or hides each branch. */
+.pm-localnav__children {
+  display: none;
+  margin: 0.1rem 0 0.25rem 0.25rem;                  /* 0.25rem = the per-level indent step */
+  padding-left: 0;                                   /* items' own left pad is the gap off the guide line */
   border-left: 3px solid rgba(185, 159, 113, 0.65);  /* gold guide line */
 }
+.pm-localnav__toggle:checked ~ .pm-localnav__children { display: block; }
+
+/* The togglers are driven by their caret label; keep the checkbox itself out of
+   sight (the :checked sibling selectors still work). */
+.pm-localnav__toggle { display: none; }
+
+/* Title + dropdown caret share a row; the caret sits flush right. */
+.pm-localnav__row { display: flex; align-items: center; }
+.pm-localnav__row .pm-localnav__link,
+.pm-localnav__row .pm-localnav__section { flex: 1 1 auto; min-width: 0; }
+
+/* Right-hand caret, rotating a quarter-turn when its branch is open — the same
+   look as the Recent block's summary caret. */
+.pm-localnav__caret {
+  flex: 0 0 auto;
+  margin: 0 0.1rem 0 0.1rem;             /* right gap matches the link's, so rows end level */
+  width: 0; height: 0;
+  border-left: 0.3rem solid var(--clr-divider);      /* gold, pointing right when closed */
+  border-top: 0.25rem solid transparent;
+  border-bottom: 0.25rem solid transparent;
+  opacity: 0.7;
+  cursor: pointer;
+  transition: transform 120ms;
+}
+.pm-localnav__toggle:checked ~ .pm-localnav__row .pm-localnav__caret { transform: rotate(90deg); }
 
 /* Bookmark look: white lettering on the red fabric, with gold section headers,
    hover, and active state. A soft dark shadow lifts the text off the weave. */
 .pm-localnav__link,
 .pm-localnav__section {
   display: block;
-  padding: 0.25rem 0.6rem;
+  padding: 0.25rem 0.3rem;                     /* tight, fixed gap off the edge / guide line */
   font-family: "Alegreya Sans SC", sans-serif;
   text-transform: lowercase;
   font-size: 0.9rem;
@@ -609,19 +647,25 @@ body {
   color: var(--clr-divider);                   /* gold accent */
 }
 .pm-localnav__link:hover { color: var(--clr-divider); }            /* gold on hover */
-.pm-localnav__link--active { color: var(--clr-divider); font-weight: 700; text-transform: uppercase; }
+.pm-localnav__link--active {
+   color: var(--clr-divider);
+   font-size: 0.8rem;
+   font-weight: 700;
+   text-transform: uppercase; }
 
 /* Separators (sentinel "sep:" nav entries; see navtools.py): a thin gold rule
    matching the nested-list guide bar — same tan at 0.65 opacity —
    with an optional grouped subheading below. Space sits above the rule. */
 .pm-localnav__sep {
   list-style: none;
-  margin: 0.35rem 0.6rem 0.1rem;
+  /* Span from this level's left border across to the nav's right edge (flush with
+     the content pane): left margin 0, right margin pulls out past the panel pad. */
+  margin: 0.35rem var(--pm-nav-pad-r) 0.1rem var(--pm-nav-pad-l);
   border-top: 2px solid rgba(185, 159, 113, 0.65);   /* = --clr-divider @ 0.65, like the guide line */
 }
 .pm-localnav__sep--labeled {
-  margin: 0.35rem 0 0.1rem;
-  padding: 0.3rem 0.6rem 0;
+  margin: 0.35rem calc(-1 * var(--pm-nav-pad-r)) 0.1rem 0;
+  padding: 0.3rem 0.3rem 0;                          /* label aligns with the items above */
 }
 .pm-localnav__sep-label {
   font-family: "Alegreya Sans SC", sans-serif;   /* match table column labels */
@@ -634,8 +678,10 @@ body {
    above. The summary reuses .pm-localnav__section for its crimson heading look;
    links reuse .pm-localnav__link. */
 .pm-recent {
-  margin: 0.4rem 0 0;
-  padding-top: 0.4rem;
+  /* The dividing rule spans the whole panel — edge to edge, its left running under
+     the gradient — by pulling out past both insets; padding re-insets the content. */
+  margin: 0.4rem calc(-1 * var(--pm-nav-pad-r)) 0 calc(-1 * var(--pm-nav-pad-l));
+  padding: 0.4rem var(--pm-nav-pad-r) 0 var(--pm-nav-pad-l);
   border-top: 2px solid var(--clr-divider);
 }
 .pm-recent__summary {

@@ -1,5 +1,5 @@
 # Duration
-`Description TBD`
+A Spell's Duration is how long its magic lingers.
 { .subtitle }
 
 A Duration usually takes one of these forms:

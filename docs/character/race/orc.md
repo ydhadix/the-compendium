@@ -1,5 +1,5 @@
 # Orc
-`Description TBD`
+Orcs are fierce and enduring warriors who press on where others fall, refusing to yield even at death's door.
 { .subtitle }
 
 ## Orc Traits

@@ -1,13 +1,13 @@
 # Non-Player Characters
-`Description TBD`
+Non-Player Characters are the other creatures a party meets in the world, from steadfast allies to sworn enemies. These rules cover how they regard a party and how some come to fight at its side.
 { .subtitle }
 
 | Section | Description |
 |---|---|
-| [Disposition](#disposition) | `Description TBD` |
-| [Companions](#companions) | `Description TBD` |
-| [Familiars](#familiars) | `Description TBD` |
-| [Mounts](#mounts) | `Description TBD` |
+| [Disposition](#disposition) | How a creature regards a party: friend, neutral, or foe. |
+| [Companions](#companions) | Allied creatures that fight and travel alongside a character. |
+| [Familiars](#familiars) | A special Companion whose senses a character can share. |
+| [Mounts](#mounts) | A creature a character rides into and out of battle. |
 
 ### Disposition
 An NPC's Disposition describes its attitude toward you.  Relationships with other creatures are determined by a wide array of roleplaying factors, but can be widely categorized to three Dispositions:

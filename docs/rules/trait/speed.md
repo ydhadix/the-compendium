@@ -1,5 +1,5 @@
 # Speeds
-`Description TBD`
+Speed is how far a creature can move on its Turn. Special Speeds let it climb, swim, fly, or burrow without the usual cost.
 { .subtitle }
 
 Your Speed is the maximum distance you can move on a turn.

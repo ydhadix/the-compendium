@@ -1,16 +1,16 @@
 # Parts of a Spell
-`Description TBD`
+Every Spell is built from the same set of parts, the details that define what it does, how it's cast, and how far and how long its magic reaches.
 { .subtitle }
 
 | Parts of a Spell | Description |
 |---|---|
-| [Spell Level](spell-level.md) | `Description TBD` |
-| [Class List](spell-list.md) | `Description TBD` |
-| [School of Magic](school.md) | `Description TBD` |
-| [Casting Time](casting-time.md) | `Description TBD` |
-| [Components](component.md) | `Description TBD` |
-| [Range](target.md#range) | `Description TBD` |
-| [Targets](target.md) | `Description TBD` |
-| [Area of Effect](area.md) | `Description TBD` |
-| [Duration](duration.md) | `Description TBD` |
-| [Concentration](concentration.md) | `Description TBD` |
+| [Spell Level](spell-level.md) | The Spell's rank, and the Slot it takes to cast. |
+| [Class List](spell-list.md) | The classes that can prepare the Spell. |
+| [School of Magic](school.md) | The family of magic the Spell belongs to. |
+| [Casting Time](casting-time.md) | How long the Spell takes to cast. |
+| [Components](component.md) | What a caster must supply to cast it. |
+| [Range](target.md#range) | How far the Spell's effect can reach. |
+| [Targets](target.md) | What the Spell can be cast upon. |
+| [Area of Effect](area.md) | The shape of space the Spell fills. |
+| [Duration](duration.md) | How long the Spell's effect lasts. |
+| [Concentration](concentration.md) | Focus a caster must hold to sustain a Spell. |

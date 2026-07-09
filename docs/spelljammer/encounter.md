@@ -1,5 +1,5 @@
 # Ship Encounters
-`Description TBD`
+Combat between ships is fought Turn by Turn as each crew's Officers steer, fire, and work their magic in Initiative order.
 { .subtitle }
 
 ## Ship Initiative

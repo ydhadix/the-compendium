@@ -1,1 +1,0 @@
-| [Hunter's Sails](/spelljammer/component/pilot/hunters-sails.md) |

@@ -1,5 +1,5 @@
 # Weapon Types
-`Description TBD`
+Weapon Types sort every weapon by the training it takes to wield, from improvised makeshifts to the martial arms of trained warriors.
 { .subtitle }
 
 | |

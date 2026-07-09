@@ -1,5 +1,5 @@
 # Gnome
-`Description TBD`
+Gnomes are small and clever folk driven by restless curiosity, quick to hide and quicker of mind.
 { .subtitle }
 
 ## Gnome Traits

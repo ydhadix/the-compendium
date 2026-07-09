@@ -1,5 +1,5 @@
 # Prime
-`Description TBD`
+Primes are ordinary folk with no supernatural gifts. Their strength lies in sheer adaptability, ready to turn their hand to whatever task an adventure demands.
 { .subtitle }
 
 ## Prime Traits

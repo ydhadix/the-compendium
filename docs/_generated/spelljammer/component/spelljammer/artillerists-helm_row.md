@@ -1,1 +1,0 @@
-| [Artillerist's Helm](/spelljammer/component/spelljammer/artillerists-helm.md) |

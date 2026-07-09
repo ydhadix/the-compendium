@@ -1,5 +1,5 @@
 # Saving Throws
-`Description TBD`
+A Saving Throw is a creature's attempt to resist a harmful effect, measuring its resilience against the effect's Difficulty Class.
 { .subtitle }
 
 A Saving Throw represents your attempt to resist a Spell, trap, poison, or other harmful effect.  To succeed, your total must equal or exceed the DC set by that effect.

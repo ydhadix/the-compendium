@@ -1,5 +1,5 @@
 # Infusing Items
-`Description TBD`
+Infusing is how a character weaves magic into an item, spending time, materials, and known Spells to create or transfer an Infusion.
 { .subtitle }
 
 ## Requirements

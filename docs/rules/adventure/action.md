@@ -1,5 +1,5 @@
 # Actions
-`Description TBD`
+Actions are what a creature does with its Turn. Each Turn grants a limited budget of them, and how a creature spends that budget shapes its role in a fight.
 { .subtitle }
 
 On each of your Turns you can take **1** [Normal Action](#normal-actions), **1** [Bonus Action](#bonus-actions), **1** [Object Action](#object-action), and **1** [Reaction](#reactions).  You can take any number of Free Actions on your turn.

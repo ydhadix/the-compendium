@@ -1,5 +1,5 @@
 # Halfling
-`Description TBD`
+Halflings are a small and nimble people blessed with uncanny luck, slipping through danger where larger folk would be obstructed.
 { .subtitle }
 
 ## Halfling Traits

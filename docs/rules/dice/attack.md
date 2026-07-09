@@ -1,5 +1,5 @@
 # Attack Rolls
-`Description TBD`
+An Attack Roll decides whether a strike finds its mark, measuring a creature's aim against the target's Armor Class.
 { .subtitle }
 
 When you Attack, an Attack Roll determines whether the Attack hits.  To hit, your total must equal or exceed the target's Armor Class.

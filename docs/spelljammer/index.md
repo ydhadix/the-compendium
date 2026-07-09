@@ -1,15 +1,13 @@
 # Spelljammer Schematic
-`Description TBD`
+Spelljamming is the art of sailing magical ships across the void between worlds. These pages cover the ships, their crews, and the battles fought throughout the Astral Sea.
 { .subtitle }
 
 | Sections | Description |
 |---|---|
-| [Ship Encounters](encounter.md) | `Description TBD` |
-| [Ship Officers](officer/index.md) | `Description TBD` |
-| [Creating a Ship](creation.md) | `Description TBD` |
-| [Ship Types](type/index.md) | `Description TBD` |
-| [Ship Components](component/index.md) | `Description TBD` |
-| [Leviathans](leviathan.md) | `Description TBD` |
+| [Ship Encounters](encounter.md) | How ships fight, in Initiative order. |
+| [Ship Officers](officer/index.md) | The crew roles that command a ship in battle. |
+| [Creating a Ship](creation/index.md) | Build a ship from size, hull, and components. |
+| [Leviathans](leviathan.md) | Colossal creatures that exist only in the Astral Sea. |
 
 ## Gravity
 There are three types of Gravity:

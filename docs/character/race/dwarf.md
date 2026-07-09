@@ -1,5 +1,5 @@
 # Dwarf
-`Description TBD`
+Dwarves are a hardy, steadfast people at home in stone and deep places, gifted with keen senses for the earth and its buried treasures.
 { .subtitle }
 
 ## Dwarf Traits

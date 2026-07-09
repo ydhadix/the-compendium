@@ -1,5 +1,5 @@
 # Cleric Spell List
-`Description TBD`
+Cleric spells are divine magics granted by a deity for healing, protection, and holy war.
 { .subtitle }
 
 | Spell Level |

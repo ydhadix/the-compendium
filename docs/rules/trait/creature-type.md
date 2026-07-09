@@ -1,5 +1,5 @@
 # Creature Type
-`Description TBD`
+Creature Type is the broad family a creature belongs to, from Beasts and Dragons to Undead and Fiends. Many Spells and features single out one type.
 { .subtitle }
 
 | Creature Type |

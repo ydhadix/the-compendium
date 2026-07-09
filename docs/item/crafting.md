@@ -1,5 +1,5 @@
 # Crafting Items
-`Description TBD`
+Crafting is how a character makes weapons, armor, and gear from raw materials, trading time and Proficiency for the finished item.
 { .subtitle }
 
 ## Requirements

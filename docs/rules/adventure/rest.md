@@ -1,5 +1,5 @@
 # Resting
-`Description TBD`
+Resting is the downtime a creature takes to recover, trading hours of rest for restored Hit Points and renewed abilities. The longer the rest, the more it restores.
 { .subtitle }
 
 A Rest is a period of downtime in which you heal Hit Points and regain expended features.  You must begin a Rest with at least **1** Hit Point and do nothing more strenuous than eating, drinking, reading, dozing, or standing watch. After you finish a Rest, you must wait at least twice its duration before starting another Rest of the same kind.

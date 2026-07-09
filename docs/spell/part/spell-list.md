@@ -1,5 +1,5 @@
 # Class List
-`Description TBD`
+Every Spell belongs to the classes whose Spell Lists include it. A Spell's Class List names which classes can prepare and cast it.
 { .subtitle }
 
 Each class with a Spellcasting feature has its own Spell List, and a Spell belongs to every class whose List includes it. You can prepare a Spell from a class only if the Spell is on that class's Spell List.

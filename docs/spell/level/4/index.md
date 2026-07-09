@@ -1,5 +1,5 @@
 # 4th-Level
-`Description TBD`
+4th-Level Spells are formidable magic wielded by seasoned casters.
 { .subtitle }
 
 --8<-- "_generated/spell/level/4/_index_table.md"

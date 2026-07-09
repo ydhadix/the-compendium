@@ -1,5 +1,5 @@
 # Druid
-`Description TBD`
+Druids are guardians of the natural world, wielding primal magic drawn from the wilderness they protect.
 { .subtitle }
 
 !!! note "In progress"

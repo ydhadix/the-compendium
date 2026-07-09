@@ -1,5 +1,5 @@
 # Cover
-`Description TBD`
+Cover is the protection a creature gains by putting an obstacle between itself and an attack.
 { .subtitle }
 
 There are three levels of Cover. If you are behind multiple sources of Cover, only the strongest applies.

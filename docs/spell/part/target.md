@@ -1,5 +1,5 @@
 # Targets
-`Description TBD`
+A Spell's Targets are what it's magic affects, and its Range is how far that reach extends from the caster.
 { .subtitle }
 
 ## Range

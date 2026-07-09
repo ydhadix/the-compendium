@@ -1,5 +1,5 @@
 # Monk
-`Description TBD`
+Monks are martial artists who channel a wellspring of inner energy, striking with speed and precision beyond their physical limitations.
 { .subtitle }
 
 ## Class Table

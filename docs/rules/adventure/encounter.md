@@ -1,5 +1,5 @@
 # Encounters
-`Description TBD`
+An Encounter is any structured scene where timing matters, resolved Turn by Turn in Initiative order.
 { .subtitle }
 
 An Encounter is any structured scene run in Initiative order where timing matters.  An Encounter's participants act in Rounds and Turns until it resolves.

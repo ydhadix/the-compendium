@@ -1,5 +1,5 @@
 # Using Items
-`Description TBD`
+Most equipment only helps a character while it's worn or wielded the right way. This covers how items are equipped, how many of each a creature can use at once, and how consumables are spent.
 { .subtitle }
 
 ## Worn Equipment

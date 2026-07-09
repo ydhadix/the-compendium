@@ -1,12 +1,12 @@
 # Weapons
-`Description TBD`
+Weapons are the arms a character wields to deal damage, each defined by how it's used, the training it demands, and the tricks a master can pull from it.
 { .subtitle }
 
 | Weapons | Description |
 |---|---|
-| [Weapon Types](type.md) | `Description TBD` |
-| [Weapon Properties](property/index.md) | `Description TBD` |
-| [Weapon Mastery](mastery/index.md) | `Description TBD` |
+| [Weapon Types](type.md) | The families of weapons a character can wield. |
+| [Weapon Properties](property/index.md) | Traits that shape how a weapon is used. |
+| [Weapon Mastery](mastery/index.md) | Special techniques a trained wielder unlocks. |
 
 ## Wielding Weapons
 

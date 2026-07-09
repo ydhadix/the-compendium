@@ -1,5 +1,5 @@
 # Paladin Spell List
-`Description TBD`
+Paladin spells are sacred magics empowered by a solemn oath.
 { .subtitle }
 
 | Spell Level |

@@ -53,8 +53,7 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   bastion/*
   spelljammer/*/*/*
   spelljammer/*/*
-  archive/*/*
-  archive/*
+  archive/*/*/*
 
 validation:
   links:
@@ -272,22 +271,25 @@ nav:
         - Pilot:                    spelljammer/officer/pilot/index.md
         - Quartermaster:            spelljammer/officer/quartermaster.md
         - Spelljammer:              spelljammer/officer/spelljammer/index.md
-      - Creating a Ship:            spelljammer/creation.md
-      - Ship Types:                 spelljammer/type/index.md
-      - Ship Components:
-        - Components Overview:      spelljammer/component/index.md
-        - Pilot Components:         spelljammer/component/pilot/index.md
-        - Quartermaster Components: spelljammer/component/quartermaster/index.md
-        - Spelljammer Helms:        spelljammer/component/spelljammer/index.md
+      - Creating a Ship:
+        - Ship Overview:            spelljammer/creation/index.md
+        - Ship Bases:               spelljammer/creation/base/index.md
+        - Ship Components:          spelljammer/creation/component/index.md
       - Leviathans:                 spelljammer/leviathan.md
 
-  # - The Archives:
-  #   - Overview:                     archive/index.md
-  #   - Dragon Heist:                 archive/dragon-heist/index.md
-  #   - Icewind Dale:                 archive/icewind-dale/index.md
-  #   - Tomb of Annihilation:         archive/tomb-of-annihilation/index.md
-  #   - Dungeon of the Mad Mage:      archive/mad-mage/index.md
-  #   - Hyperion:
-  #     - Overview:                   archive/hyperion/index.md
-  #     - "Part 1: Exodus":           archive/hyperion/1/index.md
-  #     - "Part 2: Odyssey":          archive/hyperion/2/index.md
+  - The Archive:
+    - Overview:                            archive/index.md
+    - WEEP:
+      - Overview:                          archive/weep/index.md
+      - Player Characters:                 archive/weep/characters/index.md
+      - "---": "sep:"
+      - "Part 1: Dragon Heist":            archive/weep/dragon-heist/index.md
+      - "Part 2: Icewind Dale":            archive/weep/icewind-dale/index.md
+      - "Part 2.5: Tomb of Annihilation":  archive/weep/tomb-of-annihilation/index.md
+      - "Part 3: Dungeon of the Mad Mage": archive/weep/mad-mage/index.md
+    - HYPE:
+      - Overview:                          archive/hype/index.md
+      - Player Characters:                 archive/hype/characters/index.md
+      - "---": "sep:"
+      - "Part 1: Exodus":                  archive/hype/exodus/index.md
+      - "Part 2: Odyssey":                 archive/hype/odyssey/index.md

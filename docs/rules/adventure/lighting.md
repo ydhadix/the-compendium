@@ -1,5 +1,5 @@
 # Visibility
-`Description TBD`
+Visibility is how well a creature can see through its surroundings. Light and obstacles decide how much of a scene is clear, dim, or hidden entirely.
 { .subtitle }
 
 ### Obscurement

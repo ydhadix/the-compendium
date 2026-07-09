@@ -1,5 +1,5 @@
 # Warlock
-`Description TBD`
+Warlocks are casters empowered by a pact with an otherworldly patron, trading their service for eldritch might.
 { .subtitle }
 
 !!! note "In progress"

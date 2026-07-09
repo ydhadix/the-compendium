@@ -1,15 +1,15 @@
 # Hazards
-`Description TBD`
+Hazards are the dangers of the environment itself, the slow threats that wear a creature down over time.
 { .subtitle }
 
 | Hazard | Description |
 |---|---|
-| [Air Quality](#air-quality) | `Description TBD` |
-| [Starvation](#starvation) | `Description TBD` |
-| [Dehydration](#dehydration) | `Description TBD` |
-| [Suffocation](#suffocation) | `Description TBD` |
-| [Extreme Cold](#extreme-cold) | `Description TBD` |
-| [Extreme Heat](#extreme-heat) | `Description TBD` |
+| [Air Quality](#air-quality) | Air too foul or deadly to breathe safely. |
+| [Starvation](#starvation) | The toll of too little food. |
+| [Dehydration](#dehydration) | The toll of too little water. |
+| [Suffocation](#suffocation) | Running out of air to breathe. |
+| [Extreme Cold](#extreme-cold) | Punishing cold that wears a creature down. |
+| [Extreme Heat](#extreme-heat) | Punishing heat that wears a creature down. |
 
 ### Air Quality
 There are three levels of Air Quality.

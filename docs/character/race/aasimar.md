@@ -1,5 +1,5 @@
 # Aasimar
-`Description TBD`
+Aasimar are mortals touched by the divine, carrying a spark of celestial power that can blaze forth in moments of need.
 { .subtitle }
 
 ## Aasimar Traits

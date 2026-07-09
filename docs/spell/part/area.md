@@ -1,5 +1,5 @@
 # Area of Effect
-`Description TBD`
+An Area of Effect is the shape of space a Spell fills, spreading from an Origin point.
 { .subtitle }
 
 Every Area has an Origin — the point its effect erupts from in straight lines. If a straight line from the Origin to a location in the Area is blocked by [Full Cover](../../rules/adventure/cover.md), that location is excluded from the Area.

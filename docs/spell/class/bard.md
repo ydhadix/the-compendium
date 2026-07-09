@@ -1,5 +1,5 @@
 # Bard Spell List
-`Description TBD`
+Bard spells are versatile magics woven from natural resonance, usually in the form of words and music.
 { .subtitle }
 
 | Spell Level |

@@ -1,20 +1,23 @@
 {#-
   Contextual left ToC.
 
-  Renders the current top-level section's tree, starting at the 2nd nav level (no
-  top-level header), expanded along the active path down to the current page, with
-  ALL siblings shown at each level on that path. The current page is highlighted.
-  Only nav levels appear — page headings are not listed.
+  Renders the ENTIRE nav tree, top-level sections included, with every section
+  collapsible behind a dropdown caret (a pure-CSS checkbox toggle, styled to
+  match the "Recent" block below). The whole tree is always in the DOM; the
+  caret only shows or hides each branch.
 
-  Active path = mkdocs `item.active` for pages in the nav; for pages kept out of
-  the nav (leaf pages) it is `localnav_chain` / `localnav_host` from navtools.py.
-  A hub's out-of-nav leaves (`localnav_siblings`) are listed one level below it,
-  the same way a section index shows its children. On one of those leaf pages the
-  current leaf is highlighted among its siblings; on the hub's own index page all
-  of its leaves are listed while the hub link stays active.
+  Expansion state: the current page and its ancestors render already expanded;
+  every other section — including the current page's own children — is collapsed
+  by default. "On the active path" = mkdocs `item.active` for pages in the nav;
+  for pages kept out of the nav (leaf pages) it is `localnav_chain` /
+  `localnav_host` from navtools.py. A hub's out-of-nav leaves
+  (`localnav_siblings`) hang one level below it, the same way a section index
+  shows its children; on such a leaf page the current leaf is highlighted among
+  its siblings.
 
   A section's title links to its own index (`section.index_page`, set by
   navtools.py); that index is never listed as a child (it drops out of the list).
+  Page headings are not listed — only nav levels appear.
 -#}
 
 {#- The out-of-nav leaf pages sharing a hub, the current one highlighted. -#}
@@ -31,8 +34,8 @@
   </ul>
 {% endmacro %}
 
-{#- One level of the contextual tree (children already have the section index removed). -#}
-{% macro tree(items) %}
+{#- One level of the tree. `path` seeds unique checkbox ids for the togglers. -#}
+{% macro tree(items, path) %}
   <ul class="pm-localnav__list">
     {% for item in items %}
       {% if item.is_separator %}
@@ -40,59 +43,72 @@
         {% if item.separator_label %}<span class="pm-localnav__sep-label">{{ item.separator_label }}</span>{% endif %}
       </li>
       {% else %}
-      <li class="pm-localnav__item">
-        {% if item.is_section %}
-          {%- set on_path = item.active or (localnav_chain is defined and item in localnav_chain) -%}
-          {% if item.index_page %}
+      {%- set id = path ~ "_" ~ loop.index -%}
+      {%- set on_path = item.active or (localnav_chain is defined and item in localnav_chain) -%}
+      {% if item.is_section %}
+        {%- set kids = item.children | reject("equalto", item.index_page) | list -%}
+        {#- A hub can also be a section's own index page (absorbed into the title
+            link); hang its leaves off the section so they still appear. -#}
+        {%- set hosts_leaves = localnav_host is defined and item.index_page and item.index_page == localnav_host and localnav_siblings -%}
+        {%- set expandable = kids or hosts_leaves -%}
+        <li class="pm-localnav__item{% if expandable %} pm-localnav__item--nested{% endif %}">
+          {% if expandable %}
+          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path %}checked{% endif %}>
+          {% endif %}
+          <div class="pm-localnav__row">
+            {% if item.index_page %}
+              <a
+                href="{{ item.index_page.url | url }}"
+                class="pm-localnav__link {% if item.index_page == page %}pm-localnav__link--active{% endif %}"
+              >{{ item.title }}</a>
+            {% elif expandable %}
+              <label class="pm-localnav__section" for="{{ id }}">{{ item.title }}</label>
+            {% else %}
+              <span class="pm-localnav__section">{{ item.title }}</span>
+            {% endif %}
+            {% if expandable %}<label class="pm-localnav__caret" for="{{ id }}" aria-hidden="true"></label>{% endif %}
+          </div>
+          {% if expandable %}
+          <div class="pm-localnav__children">
+            {% if kids %}{{ tree(kids, id) }}{% endif %}
+            {% if hosts_leaves %}{{ leaves(localnav_siblings) }}{% endif %}
+          </div>
+          {% endif %}
+        </li>
+      {% else %}
+        {#- A plain nav page that is the hub for the leaf we're on: list its
+            leaves one level below, behind the same caret toggle. -#}
+        {%- set hosts_leaves = localnav_host is defined and localnav_host and item == localnav_host and localnav_siblings -%}
+        <li class="pm-localnav__item{% if hosts_leaves %} pm-localnav__item--nested{% endif %}">
+          {% if hosts_leaves %}
+          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path %}checked{% endif %}>
+          {% endif %}
+          <div class="pm-localnav__row">
             <a
-              href="{{ item.index_page.url | url }}"
-              class="pm-localnav__link {% if item.index_page == page %}pm-localnav__link--active{% endif %}"
+              href="{{ item.url | url }}"
+              class="pm-localnav__link {% if item == page %}pm-localnav__link--active{% endif %}"
             >{{ item.title }}</a>
-          {% else %}
-            <span class="pm-localnav__section">{{ item.title }}</span>
+            {% if hosts_leaves %}<label class="pm-localnav__caret" for="{{ id }}" aria-hidden="true"></label>{% endif %}
+          </div>
+          {% if hosts_leaves %}
+          <div class="pm-localnav__children">{{ leaves(localnav_siblings) }}</div>
           {% endif %}
-          {#- Expand a section's children whenever it's on the active path —
-              including when we're on the section's own index page, so the index's
-              children show in the nav. -#}
-          {% if on_path %}
-            {{ tree(item.children | reject("equalto", item.index_page) | list) }}
-          {% endif %}
-          {#- A hub can also be a section's own index page, which
-              is absorbed into the title link above; hang its leaves off the
-              section so they still appear. -#}
-          {% if localnav_host is defined and item.index_page and item.index_page == localnav_host and localnav_siblings %}
-            {{ leaves(localnav_siblings) }}
-          {% endif %}
-        {% else %}
-          <a
-            href="{{ item.url | url }}"
-            class="pm-localnav__link {% if item == page %}pm-localnav__link--active{% endif %}"
-          >{{ item.title }}</a>
-          {#- This nav page is the hub for the leaf we're on: list its leaves. -#}
-          {% if localnav_host is defined and localnav_host and item == localnav_host and localnav_siblings %}
-            {{ leaves(localnav_siblings) }}
-          {% endif %}
-        {% endif %}
-      </li>
+        </li>
+      {% endif %}
       {% endif %}
     {% endfor %}
   </ul>
 {% endmacro %}
 
-{#- Entry point: the active top-level section's contents (2nd level down). -#}
+{#- Entry point: the whole nav tree, every branch collapsible. -#}
 {% macro localnav(nav) %}
-  {%- set top = nav | selectattr("active") | list | first -%}
-  {%- if not top and localnav_chain is defined and localnav_chain -%}
-    {%- set top = localnav_chain | last -%}
-  {%- endif -%}
-  {#- Only sections have nav levels to show; a top-level leaf page has none. -#}
-  {% if top and top.is_section %}
+  {% if nav.items %}
     <div class="pm-localnav">
       {#- __inner is a full-height track (spans to the footer base); __panel is the
           sticky parchment that pins under the header and scrolls internally. -#}
       <div class="pm-localnav__inner">
         <div class="pm-localnav__panel">
-          {{ tree(top.children | reject("equalto", top.index_page) | list) }}
+          {{ tree(nav.items, "pmln") }}
           {#- Recently visited pages, filled by recent.js; hidden until it has
               entries. Open by default; its tan rule divides it from the tree. -#}
           <details class="pm-recent" open hidden>

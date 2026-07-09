@@ -1,5 +1,5 @@
 # Casting Spells
-`Description TBD`
+Casting is how a character turns a known Spell into a real effect.
 { .subtitle }
 
 ## Spellcasting Ability

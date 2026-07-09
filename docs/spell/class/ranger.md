@@ -1,5 +1,5 @@
 # Ranger Spell List
-`Description TBD`
+Ranger spells are wilderness magics tuned to tracking, survival, and the hunt.
 { .subtitle }
 
 | Spell Level |

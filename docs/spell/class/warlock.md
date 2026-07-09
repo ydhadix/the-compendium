@@ -1,5 +1,5 @@
 # Warlock Spell List
-`Description TBD`
+Warlock spells are eldritch magic bargained from an otherworldly patron.
 { .subtitle }
 
 | Spell Level |

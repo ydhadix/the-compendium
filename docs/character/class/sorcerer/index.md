@@ -1,5 +1,5 @@
 # Sorcerer
-`Description TBD`
+Sorcerers are casters born with innate magic, shaping raw power that surges from their own lifeblood.
 { .subtitle }
 
 !!! note "In progress"

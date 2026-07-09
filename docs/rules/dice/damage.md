@@ -1,5 +1,5 @@
 # Damage Rolls
-`Description TBD`
+A Damage Roll measures the harm an attack or effect deals. Its Damage Type decides which defenses can protect against it.
 { .subtitle }
 
 When an effect deals damage, you make a Damage Roll using the Damage Dice its source describes.

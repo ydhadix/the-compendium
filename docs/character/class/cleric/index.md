@@ -1,5 +1,5 @@
 # Cleric
-`Description TBD`
+Clerics are divine champions who wield the power of a deity, mending allies and smiting the wicked in their name.
 { .subtitle }
 
 ## Class Table
@@ -137,7 +137,7 @@ Choose a Cleric Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Arcana](arcana.md) | `Description TBD` |
+| [Arcana](arcana.md) | Blends divine faith with wizardly arcane magic. |
 
 
 ### 5: Blessed Strikes

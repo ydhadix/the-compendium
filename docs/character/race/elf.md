@@ -1,5 +1,5 @@
 # Elf
-`Description TBD`
+Elves are a graceful, long-lived people of keen senses and quiet resilience, each connected to a source of natural magic.
 { .subtitle }
 
 ## Elf Traits

@@ -1,18 +1,18 @@
 # Defenses
-`Description TBD`
+Defenses are everything that determines how well a creature endures and avoids harm. They set how hard it is to hit, how much damage it can take, and which blows it can shrug off.
 { .subtitle }
 
 | Defense | Description |
 |---|---|
-| [Armor Class](#armor-class) | `Description TBD` |
-| [Hit Points](#hit-points) | `Description TBD` |
-| [Damage Reduction](#damage-reduction) | `Description TBD` |
-| [Damage Threshold](#damage-threshold) | `Description TBD` |
-| [Evasion](#evasion) | `Description TBD` |
-| [Immunity](#immunity) | `Description TBD` |
-| [Protection](#protection) | `Description TBD` |
-| [Resistance](#resistance) | `Description TBD` |
-| [Vulnerability](#vulnerability) | `Description TBD` |
+| [Armor Class](#armor-class) | How hard a creature is to hit. |
+| [Hit Points](#hit-points) | How much damage a creature can endure. |
+| [Damage Reduction](#damage-reduction) | A flat reduction to physical damage. |
+| [Damage Threshold](#damage-threshold) | Ignore any hit that doesn't cross a set amount. |
+| [Evasion](#evasion) | Reduce save damage from a given source. |
+| [Immunity](#immunity) | No damage or effects from a given source. |
+| [Protection](#protection) | Advantage on saves against a given source. |
+| [Resistance](#resistance) | Half the damage from a given source. |
+| [Vulnerability](#vulnerability) | Double the damage from a given source. |
 
 ### Armor Class
 The Armor you wear usually determines your Armor Class, though many effects grant other ways to calculate it; if you have more than one, you can use only one at a time.

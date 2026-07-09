@@ -1,5 +1,5 @@
 # Leviathans
-`Description TBD`
+Leviathans are colossal creatures of the void so vast they're treated as ships, fighting with their own Actions rather than a crew.
 { .subtitle }
 
 A Leviathan follows the same rules as a Ship and is treated as one.

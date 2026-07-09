@@ -1,5 +1,5 @@
 # Artificer Spell List
-`Description TBD`
+Artificer spells are inventive, supporting magic channeled through tools, devices, and clever contraptions.
 { .subtitle }
 
 | Spell Level |

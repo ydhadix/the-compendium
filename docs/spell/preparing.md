@@ -1,5 +1,5 @@
 # Preparing Spells
-`Description TBD`
+Preparing is how a character gains access to a Spell, whether readied fresh each day from a class's list or Learned for good from a Race, Class, or Feat.
 { .subtitle }
 
 The way you gain access to a Spell determines how you cast it and whether you can change it later.

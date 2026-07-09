@@ -1,5 +1,5 @@
 # Beast Master
-`Description TBD`
+Beast Masters fight alongside a primal companion, a loyal beast bonded to them as a partner in battle.
 { .subtitle }
 
 ## Beast Master Table

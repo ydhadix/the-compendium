@@ -1,5 +1,5 @@
 # Goliath
-`Description TBD`
+Goliaths are towering giant-kin of tremendous strength, able to call on the power of their giant ancestry and grow to an even greater size.
 { .subtitle }
 
 ## Goliath Traits

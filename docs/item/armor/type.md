@@ -1,5 +1,5 @@
 # Armor Types
-`Description TBD`
+Armor Types range from light leathers that keep a character nimble to heavy plate that trades speed for the sturdiest protection.
 { .subtitle }
 
 | |

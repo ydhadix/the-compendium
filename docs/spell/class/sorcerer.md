@@ -1,5 +1,5 @@
 # Sorcerer Spell List
-`Description TBD`
+Sorcerer spells are innate magic that surges from a caster's own lifeblood.
 { .subtitle }
 
 | Spell Level |

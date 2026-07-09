@@ -1,5 +1,5 @@
 # Backgrounds
-`Description TBD`
+A character's Background is the life they led before adventuring, the place and calling that shaped them and granted their first skills and talents.
 { .subtitle }
 
 ## Choosing a Background

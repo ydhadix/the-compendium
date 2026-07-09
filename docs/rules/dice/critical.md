@@ -1,5 +1,5 @@
 # Critical Hits
-`Description TBD`
+A Critical Hit is a devastating blow that lands on a natural 20. For heroes and notable foes it can escalate well beyond ordinary damage.
 { .subtitle }
 
 You score a Critical Hit when you roll a **20** on the d20 for an Attack Roll.

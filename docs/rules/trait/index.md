@@ -1,17 +1,17 @@
 # Character Traits
-`Description TBD`
+Traits are the measurable facts that define a creature. Together they fill out a character sheet, from raw Abilities to the languages a character speaks and the space it occupies.
 { .subtitle }
 
 | Traits | Description |
 |---|---|
-| [Abilities](ability.md) | `Description TBD` |
-| [Defenses](defense.md) | `Description TBD` |
-| [Proficiency](proficiency.md) | `Description TBD` |
-| [Skills](skill.md) | `Description TBD` |
-| [Languages](language.md) | `Description TBD` |
-| [Speeds](speed.md) | `Description TBD` |
-| [Senses](sense.md) | `Description TBD` |
-| [Creature Type](creature-type.md) | `Description TBD` |
-| [Alignment](alignment.md) | `Description TBD` |
-| [Size](size.md) | `Description TBD` |
-| [Reach](reach.md) | `Description TBD` |
+| [Abilities](ability.md) | The six core measures of body and mind. |
+| [Defenses](defense.md) | How well a creature avoids and withstands harm. |
+| [Proficiency](proficiency.md) | How much training sharpens a creature's rolls. |
+| [Skills](skill.md) | Areas of training that shape Ability Checks. |
+| [Languages](language.md) | The tongues a creature speaks and understands. |
+| [Speeds](speed.md) | How far a creature moves, and by what means. |
+| [Senses](sense.md) | How a creature perceives the world around it. |
+| [Creature Type](creature-type.md) | The broad family a creature belongs to. |
+| [Alignment](alignment.md) | A creature's moral and ethical outlook. |
+| [Size](size.md) | The space a creature occupies. |
+| [Reach](reach.md) | How far a creature can touch, grab, or strike. |

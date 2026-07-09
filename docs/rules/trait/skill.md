@@ -1,5 +1,5 @@
 # Skills
-`Description TBD`
+Skills are areas of training that apply to Ability Checks. A creature Proficient in a Skill brings that training to bear whenever the Skill fits the task.
 { .subtitle }
 
 ## Skill Proficiency

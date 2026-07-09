@@ -1,5 +1,5 @@
 # Bard
-`Description TBD`
+Bards are versatile performers who weave magic from music, words, and lore, inspiring allies and confounding foes.
 { .subtitle }
 
 ## Class Table

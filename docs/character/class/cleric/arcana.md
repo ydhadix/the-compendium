@@ -1,5 +1,5 @@
 # Arcana
-`Description TBD`
+Clerics of the Arcana domain bridge divine and arcane magic, wielding wizardly Spells alongside the gifts of their deity.
 { .subtitle }
 
 ## Arcana Table

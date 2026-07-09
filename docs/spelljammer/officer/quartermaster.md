@@ -1,8 +1,8 @@
 # Quartermaster
-`Description TBD`
+The Quartermaster directs the crew, calling out orders that ready the ship's hull, weapons, and systems for the fight.
 { .subtitle }
 
-As the Quartermaster, you can use your Ship Action to issue a number of Crew Orders up to your Proficiency Bonus. Each Order targets a specific part of the Ship, and you can issue the same Order more than once.
+The Quartermaster can use their Ship Action to issue a number of orders up to their Proficiency Bonus. Each order targets a specific part of the Ship, and you can issue the same order more than once.
 
 ### Hull Orders
 ##### Brace for Impact!

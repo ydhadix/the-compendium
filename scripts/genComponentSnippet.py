@@ -9,8 +9,8 @@ import genSnippetCommon as C
 
 HEADER = ("Component",)
 OFFICERS = ("pilot", "quartermaster", "spelljammer")
-COMPONENT_ROOT = C.DOCS / "spelljammer/component"
-MIRROR_ROOT = C.MIRROR / "spelljammer/component"
+COMPONENT_ROOT = C.DOCS / "spelljammer/creation/component"
+MIRROR_ROOT = C.MIRROR / "spelljammer/creation/component"
 
 
 def ComponentType(subtitle):

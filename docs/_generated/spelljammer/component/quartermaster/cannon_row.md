@@ -1,1 +1,0 @@
-| [Cannon](/spelljammer/component/quartermaster/cannon.md) |

@@ -1,5 +1,5 @@
 # Eldritch Knight
-`Description TBD`
+Eldritch Knights temper martial skill with arcane magic, binding weapon and Spell into a single deadly art.
 { .subtitle }
 
 ## Eldritch Knight Table
