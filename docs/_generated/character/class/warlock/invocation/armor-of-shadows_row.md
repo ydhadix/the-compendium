@@ -1,0 +1,1 @@
+| [Armor of Shadows](/character/class/warlock/invocation/armor-of-shadows.md) | — | Warlock 1 |

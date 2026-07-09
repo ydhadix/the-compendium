@@ -1,0 +1,1 @@
+| [Sentinel](/character/feat/fighting-style/advanced/sentinel.md) | Opportunist | — |

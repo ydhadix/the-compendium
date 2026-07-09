@@ -1,0 +1,1 @@
+| [Polearm Expert](/character/feat/fighting-style/advanced/polearm-expert.md) | Dueling or Great Weapon Fighting | — |

@@ -1,0 +1,1 @@
+| [Devil's Sight](/character/class/warlock/invocation/devils-sight.md) | — | Warlock 2 |

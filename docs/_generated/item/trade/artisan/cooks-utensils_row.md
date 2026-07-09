@@ -1,0 +1,1 @@
+| [Cook's Utensils](/item/trade/artisan/cooks-utensils.md) | Tool | 1 gold |

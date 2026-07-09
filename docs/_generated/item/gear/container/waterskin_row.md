@@ -1,0 +1,1 @@
+| [Waterskin](/item/gear/container/waterskin.md) | Container | 2 silver |

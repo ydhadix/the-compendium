@@ -1,0 +1,1 @@
+| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One willing Beast | 1 hour (C) |

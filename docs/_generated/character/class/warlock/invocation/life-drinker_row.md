@@ -1,0 +1,1 @@
+| [Life Drinker](/character/class/warlock/invocation/life-drinker.md) | Pact of the Blade | Warlock 7 |

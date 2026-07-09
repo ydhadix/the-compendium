@@ -1,0 +1,1 @@
+| [Transmuted Spell](/character/class/sorcerer/metamagic/transmuted-spell.md) | — | — |

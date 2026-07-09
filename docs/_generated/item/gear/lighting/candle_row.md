@@ -1,0 +1,1 @@
+| [Candle](/item/gear/lighting/candle.md) | Other | 1 copper |

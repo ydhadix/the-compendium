@@ -1,0 +1,1 @@
+| [Sling Expert](/character/feat/fighting-style/advanced/sling-expert.md) | Sharpshooting | — |

@@ -1,0 +1,1 @@
+| [Jug](/item/gear/container/jug.md) | Container | 2 copper |

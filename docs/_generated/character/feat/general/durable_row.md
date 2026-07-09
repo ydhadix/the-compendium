@@ -1,0 +1,1 @@
+| [Durable](/character/feat/general/durable.md) | — | — |

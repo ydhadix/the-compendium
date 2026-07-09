@@ -1,0 +1,1 @@
+| [Flask](/item/gear/container/flask.md) | Container | 2 copper |

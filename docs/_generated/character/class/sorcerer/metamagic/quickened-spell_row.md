@@ -1,0 +1,1 @@
+| [Quickened Spell](/character/class/sorcerer/metamagic/quickened-spell.md) | — | — |

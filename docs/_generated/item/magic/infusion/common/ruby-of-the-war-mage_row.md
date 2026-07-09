@@ -1,0 +1,1 @@
+| [Ruby of the War Mage](/item/magic/infusion/common/ruby-of-the-war-mage.md) | Spellcasting Focus (Any) | Common | Yes (Spellcaster) |

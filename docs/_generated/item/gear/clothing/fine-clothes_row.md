@@ -1,0 +1,1 @@
+| [Fine Clothes](/item/gear/clothing/fine-clothes.md) | Clothing (Clothes) | 15 gold |

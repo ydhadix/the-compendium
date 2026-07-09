@@ -1,0 +1,1 @@
+| [Eldritch Spear](/character/class/warlock/invocation/eldritch-spear.md) | a Warlock Cantrip with a Range | Warlock 2 |

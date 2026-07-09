@@ -2,5 +2,4 @@
 `Description TBD`
 { .subtitle }
 
-| Item | Rarity | Type | Attunement |
-|---|---|---|---|
+--8<-- "_generated/item/magic/infusion/legendary/_index_table.md"

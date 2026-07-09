@@ -1,0 +1,1 @@
+| [Scion of Righteousness](/character/feat/general/scion-of-righteousness.md) | Good alignment, no Scion Feat | — |

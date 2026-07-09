@@ -1,1 +1,0 @@
-| [Alarm](/spell/level/1/alarm.md) | Abjuration | V, S, M | 1 minute | 30 ft. | A 20-ft. Cube, one door, or one window | 8 hours |

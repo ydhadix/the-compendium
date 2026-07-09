@@ -1,0 +1,1 @@
+| [Cold Tolerance](/character/class/ranger/imprint/cold-tolerance.md) | — | Ranger 4 |

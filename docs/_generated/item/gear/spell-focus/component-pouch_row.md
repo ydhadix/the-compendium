@@ -1,0 +1,1 @@
+| [Component Pouch](/item/gear/spell-focus/component-pouch.md) | Container | 25 gold |

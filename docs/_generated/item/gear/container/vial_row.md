@@ -1,0 +1,1 @@
+| [Vial](/item/gear/container/vial.md) | Container | 1 gold |

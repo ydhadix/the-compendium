@@ -1,0 +1,1 @@
+| [Chest](/item/gear/container/chest.md) | Container | 5 gold |

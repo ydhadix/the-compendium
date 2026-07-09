@@ -1,1 +1,0 @@
-| [Tiny Hut](/spell/level/3/tiny-hut.md) | Evocation | V, S, M | 1 minute | Reach | Each creature in a 10-ft. radius Sphere | 8 hours |

@@ -1,0 +1,1 @@
+| [Book](/item/gear/writing/book.md) | Other | 25 gold |

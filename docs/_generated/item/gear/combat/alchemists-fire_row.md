@@ -1,0 +1,1 @@
+| [Alchemist's Fire](/item/gear/combat/alchemists-fire.md) | Potion | 50 gold |

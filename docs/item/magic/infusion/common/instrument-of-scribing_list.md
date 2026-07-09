@@ -1,1 +1,0 @@
-| [Instrument of Scribing](/item/magic/infusion/common/instrument-of-scribing.md) | Common | Wondrous Item | No |

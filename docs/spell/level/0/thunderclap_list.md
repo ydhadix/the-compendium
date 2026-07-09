@@ -1,1 +1,0 @@
-| [Thunderclap](/spell/level/0/thunderclap.md) | Evocation | S | Normal Action | — | Each creature in a 5-ft. Aura | — |

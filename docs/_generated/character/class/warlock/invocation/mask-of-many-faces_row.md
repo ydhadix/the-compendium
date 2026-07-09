@@ -1,0 +1,1 @@
+| [Mask of Many Faces](/character/class/warlock/invocation/mask-of-many-faces.md) | — | Warlock 2 |

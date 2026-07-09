@@ -1,0 +1,1 @@
+| [Tough](/character/feat/origin/tough.md) | — | — |

@@ -1,0 +1,1 @@
+| [Roving](/character/class/ranger/imprint/roving.md) | — | Ranger 4 |

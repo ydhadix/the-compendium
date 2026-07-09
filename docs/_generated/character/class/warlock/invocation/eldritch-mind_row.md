@@ -1,0 +1,1 @@
+| [Eldritch Mind](/character/class/warlock/invocation/eldritch-mind.md) | — | Warlock 1 |

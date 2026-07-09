@@ -1,0 +1,1 @@
+| [Whispers of the Grave](/character/class/warlock/invocation/whispers-of-the-grave.md) | — | Warlock 7 |

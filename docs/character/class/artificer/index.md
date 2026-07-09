@@ -132,19 +132,19 @@ After you infuse an item, you can Attune to it immediately.
 
 The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end.
 
-| Item | Rarity | Type | Attunement |
+| Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "item/magic/infusion/uncommon/alchemy-jug_list.md"
---8<-- "item/magic/infusion/uncommon/cap-of-water-breathing_list.md"
---8<-- "item/magic/infusion/uncommon/helm-of-awareness_list.md"
---8<-- "item/magic/infusion/uncommon/ring-of-mind-sharpening_list.md"
---8<-- "item/magic/infusion/uncommon/sending-stones_list.md"
---8<-- "item/magic/infusion/uncommon/wand-of-secrets_list.md"
---8<-- "item/magic/infusion/uncommon/weapon-of-returning_list.md"
-| Any [Artisan's Tool](/item/trade/artisan/index.md) | - | Tool(Artisan's Tool) | - |
-| [+1 Weapon](/item/weapon/index.md) | - | Weapon (Any) | - |
-| [+1 Focus](/item/gear/spell-focus/index.md) | - | Spellcasting Focus (Any) | - |
-| [+1 Shield](/item/armor/shield/index.md) | - | Armor (Any Shield) | - |
+--8<-- "_generated/item/magic/infusion/uncommon/alchemy-jug_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/cap-of-water-breathing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/helm-of-awareness_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-mind-sharpening_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/sending-stones_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/wand-of-secrets_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-returning_row.md"
+| Any [Artisan's Tool](/item/trade/artisan/index.md) | Tool (Artisan's Tool) | — | — |
+| [+1 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
+| [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
+| [+1 Shield](/item/armor/shield/index.md) | Armor (Any Shield) | — | — |
 
 
 ### 2: Fighting Style
@@ -186,19 +186,19 @@ You gain an additional Attunement slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Item | Rarity | Type | Attunement |
+| Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "item/magic/infusion/uncommon/armor-of-magical-strength_list.md"
---8<-- "item/magic/infusion/uncommon/boots-of-the-winding-path_list.md"
---8<-- "item/magic/infusion/uncommon/cloak-of-the-manta-ray_list.md"
---8<-- "item/magic/infusion/uncommon/eyes-of-minute-seeing_list.md"
---8<-- "item/magic/infusion/uncommon/lantern-of-revealing_list.md"
---8<-- "item/magic/infusion/uncommon/pipes-of-haunting_list.md"
---8<-- "item/magic/infusion/uncommon/ring-of-swimming_list.md"
---8<-- "item/magic/infusion/uncommon/shield-of-repulsion_list.md"
---8<-- "item/magic/infusion/uncommon/wand-of-magic-missiles_list.md"
---8<-- "item/magic/infusion/uncommon/weapon-of-radiance_list.md"
-| [+1 Armor](/item/armor/index.md) | - | Armor (Any) | - |
+--8<-- "_generated/item/magic/infusion/uncommon/armor-of-magical-strength_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/boots-of-the-winding-path_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/cloak-of-the-manta-ray_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/eyes-of-minute-seeing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/lantern-of-revealing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/pipes-of-haunting_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-swimming_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/shield-of-repulsion_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/wand-of-magic-missiles_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-radiance_row.md"
+| [+1 Armor](/item/armor/index.md) | Armor (Any) | — | — |
 
 
 ### 5: Extra Attack
@@ -217,12 +217,12 @@ You ignore all Class, Race, Spell, and Level requirements to use or Attune to Ma
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Item | Rarity | Type | Attunement |
+| Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Any Uncommon Infusion](/item/magic/infusion/uncommon/index.md) | Uncommon | Varies | Varies |
-| [+2 Weapon](/item/weapon/index.md) | - | Weapon (Any) | - |
-| [+2 Focus](/item/gear/spell-focus/index.md) | - | Spellcasting Focus (Any) | - |
-| [+2 Shield](/item/armor/shield/index.md) | - | Armor (Any Shield) | - |
+| [Any Uncommon Infusion](/item/magic/infusion/uncommon/index.md) | Varies | Uncommon | Varies |
+| [+2 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
+| [+2 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
+| [+2 Shield](/item/armor/shield/index.md) | Armor (Any Shield) | — | — |
 
 
 ### 8: Spell-Storing Item
@@ -244,12 +244,12 @@ You gain an additional Attunement slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
-| Item | Rarity | Type | Attunement |
+| Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "item/magic/infusion/rare/arrow-catching-shield_list.md"
---8<-- "item/magic/infusion/rare/ring-of-free-action_list.md"
---8<-- "item/magic/infusion/rare/ring-of-the-ram_list.md"
-| [+1 Armor](/item/armor/index.md) | - | Armor (Any) | - |
+--8<-- "_generated/item/magic/infusion/rare/arrow-catching-shield_row.md"
+--8<-- "_generated/item/magic/infusion/rare/ring-of-free-action_row.md"
+--8<-- "_generated/item/magic/infusion/rare/ring-of-the-ram_row.md"
+| [+1 Armor](/item/armor/index.md) | Armor (Any) | — | — |
 
 
 ### 11: Soul of Artifice

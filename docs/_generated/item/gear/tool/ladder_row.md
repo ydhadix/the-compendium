@@ -1,0 +1,1 @@
+| [Ladder](/item/gear/tool/ladder.md) | Tool | 1 silver |

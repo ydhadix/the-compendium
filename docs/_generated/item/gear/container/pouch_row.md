@@ -1,0 +1,1 @@
+| [Pouch](/item/gear/container/pouch.md) | Container | 5 silver |

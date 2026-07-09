@@ -1,0 +1,1 @@
+| [Skittish](/character/class/ranger/imprint/skittish.md) | — | Ranger 4 |

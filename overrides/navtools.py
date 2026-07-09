@@ -32,6 +32,38 @@ own index page all of its leaves are listed (the hub link itself stays active).
 
 
 import os
+import re
+
+# First heading of any level in a page's rendered HTML — used as the browser-tab
+# title fallback for pages that have no h1 (see on_page_content).
+_HEADING_RE = re.compile(r"<h[1-6][^>]*>(.*?)</h[1-6]>", re.IGNORECASE | re.DOTALL)
+
+# First heading of any level in raw markdown — the same fallback, but resolved at
+# nav-build time for out-of-nav leaf pages (which aren't rendered yet, so the
+# render-time page.first_heading isn't available). See _first_markdown_heading.
+_ATX_RE = re.compile(r"^[ \t]*#{1,6}[ \t]+(.*?)[ \t]*#*[ \t]*$")
+_FENCE_RE = re.compile(r"^[ \t]*(?:```+|~~~+)")
+
+
+def _first_markdown_heading(markdown_text):
+    """Text of the first ATX heading (# … ######) in raw markdown, skipping
+    fenced code blocks, with any trailing attr_list `{ … }` and inline
+    emphasis/code markers stripped. None if the source has no heading."""
+    if not markdown_text:
+        return None
+    in_fence = False
+    for line in markdown_text.splitlines():
+        if _FENCE_RE.match(line):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        match = _ATX_RE.match(line)
+        if match:
+            text = re.sub(r"\s*\{[^}]*\}\s*$", "", match.group(1))  # attr_list
+            text = re.sub(r"[*_`]", "", text)                       # emphasis/code
+            return text.strip() or None
+    return None
 
 SEPARATOR_URL = "sep:"      # nav sentinel target marking a divider (see mkdocs.yml)
 _DASHES = set("-—–─")       # a title of only these is a plain rule, with no label
@@ -88,15 +120,20 @@ def _annotate_separators(items):
 
 
 def _leaf_title(page, config):
-    """Title for an out-of-nav page. Out-of-nav pages aren't read during nav
-    building, so populate the title ourselves (MkDocs' own logic: front-matter
-    `title:`, else the first H1, else a humanised filename). Cached on the page,
-    so the later page build reuses it."""
-    if page.title is None:
+    """Title for an out-of-nav page, matching the browser-tab logic: front-matter
+    `title:`, else the page's first heading of any level (h1–h6), else a humanised
+    filename. Out-of-nav pages aren't read during nav building, so read the source
+    ourselves; the parsed markdown is reused by the later page build."""
+    if page.markdown is None:
         try:
             page.read_source(config)
         except OSError:
             pass
+    if page.meta and page.meta.get("title"):
+        return page.meta["title"]
+    heading = _first_markdown_heading(page.markdown)
+    if heading:
+        return heading
     return page.title or page.file.name.replace("-", " ").title()
 
 
@@ -116,7 +153,11 @@ def _index_leaf_children(nav, config, files):
         if hub_url:
             hubs.setdefault(hub_url, []).append(page)
     for pages in hubs.values():
-        pages.sort(key=lambda p: _leaf_title(p, config).lower())
+        for page in pages:
+            # Compute once here and stash it so the localnav template renders the
+            # same title it's sorted by (leaf.title alone would miss non-h1 leads).
+            page.localnav_title = _leaf_title(page, config)
+        pages.sort(key=lambda p: p.localnav_title.lower())
     config["_leaf_children"] = hubs
 
 
@@ -132,6 +173,17 @@ def _parent_url(url):
     if "/" not in trimmed:
         return None
     return trimmed.rsplit("/", 1)[0] + "/"
+
+
+def on_page_content(html, page, config, files):
+    """Stash the page's first heading (h1–h6) as page.first_heading, so the
+    template can use it for the browser-tab title. A page that leads with an h1
+    already gets that h1 as page.title; this simply extends the same courtesy to
+    pages whose first heading is lower (h2–h6), which MkDocs would otherwise
+    title from a humanised filename. None when the page has no heading at all."""
+    match = _HEADING_RE.search(html)
+    page.first_heading = match.group(1).strip() if match else None
+    return html
 
 
 def on_page_context(context, page, config, nav):

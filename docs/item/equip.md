@@ -36,7 +36,7 @@ Benefiting from equipment usually requires wearing or wielding them properly. An
 Consumable items are destroyed after being used a set number of times.
 
 ##### Ammunition
-Individual pieces of ammunition are consumable.  Collections of ammunition, such as a Quiver of Arrows, are considered non-consumable.  Ammunition is usually crafted in batches _(see the [Ammunition Table](gear/combat/index.md#ammunition))_.
+Individual pieces of ammunition are consumable.  Collections of ammunition, such as a Quiver of Arrows, are considered non-consumable.  Ammunition is usually crafted in batches _(see the Ammunition Table)_.
 
 ##### Potions
 A Potion is consumed by you or administered to a creature within Reach as a Bonus Action.

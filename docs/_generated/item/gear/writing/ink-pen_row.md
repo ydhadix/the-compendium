@@ -1,0 +1,1 @@
+| [Ink Pen](/item/gear/writing/ink-pen.md) | Other | 2 copper |

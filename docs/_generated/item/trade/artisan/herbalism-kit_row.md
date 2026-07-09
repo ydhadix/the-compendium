@@ -1,0 +1,1 @@
+| [Herbalism Kit](/item/trade/artisan/herbalism-kit.md) | Tool | 5 gold |

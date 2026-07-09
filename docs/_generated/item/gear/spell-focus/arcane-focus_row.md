@@ -1,0 +1,1 @@
+| [Arcane Focus](/item/gear/spell-focus/arcane-focus.md) | Spellcasting Focus (Arcane Focus) | Value varies |

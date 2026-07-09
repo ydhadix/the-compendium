@@ -1,0 +1,1 @@
+| [Grappling Hook](/item/gear/tool/grappling-hook.md) | Tool | 2 gold |

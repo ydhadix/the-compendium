@@ -1,0 +1,1 @@
+| [Torch](/item/gear/lighting/torch.md) | Other | 1 copper |

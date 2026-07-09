@@ -1,0 +1,1 @@
+| [Slasher](/character/feat/general/slasher.md) | — | — |

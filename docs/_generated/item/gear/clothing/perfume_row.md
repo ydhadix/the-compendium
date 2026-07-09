@@ -1,0 +1,1 @@
+| [Perfume](/item/gear/clothing/perfume.md) | Clothing | 5 gold |

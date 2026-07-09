@@ -1,0 +1,1 @@
+| [Smith's Tools](/item/trade/artisan/smiths-tools.md) | Tool | 20 gold |

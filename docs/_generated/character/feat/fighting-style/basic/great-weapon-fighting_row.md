@@ -1,0 +1,1 @@
+| [Great Weapon Fighting](/character/feat/fighting-style/basic/great-weapon-fighting.md) | — | — |

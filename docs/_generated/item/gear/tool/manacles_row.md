@@ -1,0 +1,1 @@
+| [Manacles](/item/gear/tool/manacles.md) | Tool | 2 gold |

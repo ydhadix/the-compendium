@@ -37,31 +37,18 @@ extra_javascript:
   - javascripts/meganav.js
 
 exclude_docs: |            # files/folders in docs/ that we don't want compiled
-  character/feat/fighting-style/*/*.md
-  !character/feat/fighting-style/*/index.md
+  _generated
   item/weapon/property/*.md
   !item/weapon/property/index.md
   item/weapon/mastery/*.md
   !item/weapon/mastery/index.md
-  item/armor/shield/*.md
-  !item/armor/shield/index.md
-  item/gear/*/*.md
-  !item/gear/*/index.md
-  item/trade/artisan/*.md
-  !item/trade/artisan/index.md
-  item/material/*.md
-  !item/material/index.md
-  item/magic/*/*_list.md
-  spell/level/*/*_list.md
-  spelljammer/component/*/*.md
-  !spelljammer/component/*/index.md
-
 
 not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
+  character/class/*/*/*
   character/race/*
   character/feat/*/*
-  character/feat/*/*/*
   item/*/*/*
+  item/*/*
   spell/level/*/*
   bastion/*
   spelljammer/*/*/*
@@ -160,18 +147,18 @@ nav:
           - Class Overview:         character/class/paladin/index.md
         - Ranger:
           - Class Overview:         character/class/ranger/index.md
-          - Primal Imprints:        character/class/ranger/imprint.md
+          - Primal Imprints:        character/class/ranger/imprint/index.md
           - "---": "sep:"
           - Beast Master:           character/class/ranger/beast-master.md
         - Rogue (WIP):
           - Class Overview:         character/class/rogue/index.md
         - Sorcerer (WIP):
           - Class Overview:         character/class/sorcerer/index.md
-          - Metamagic:              character/class/sorcerer/metamagic.md
+          - Metamagic:              character/class/sorcerer/metamagic/index.md
           - "---": "sep:"
         - Warlock (WIP):
           - Class Overview:         character/class/warlock/index.md
-          - Eldritch Invocations:   character/class/warlock/invocation.md
+          - Eldritch Invocations:   character/class/warlock/invocation/index.md
           - "---": "sep:"
         - Wizard (WIP):
           - Class Overview:         character/class/wizard/index.md
@@ -179,7 +166,10 @@ nav:
         - Feats Overview:           character/feat/index.md
         - Origin Feats:             character/feat/origin/index.md
         - General Feats:            character/feat/general/index.md
-        - Fighting Styles:          character/feat/fighting-style/index.md
+        - Fighting Styles:
+          - Fighting Style Overview: character/feat/fighting-style/index.md
+          - Basic:                  character/feat/fighting-style/basic/index.md
+          - Advanced:               character/feat/fighting-style/advanced/index.md
         - Ancestry Feats (WIP):     character/feat/ancestry/index.md
         - "---": "sep:"
         - Epic Boons (WIP):         character/feat/epic/index.md

@@ -1,0 +1,1 @@
+| [Shovel](/item/gear/tool/shovel.md) | Tool | 2 gold |

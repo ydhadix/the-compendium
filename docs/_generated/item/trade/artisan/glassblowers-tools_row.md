@@ -1,0 +1,1 @@
+| [Glassblower's Tools](/item/trade/artisan/glassblowers-tools.md) | Tool | 30 gold |

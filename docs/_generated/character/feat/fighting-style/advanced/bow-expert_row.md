@@ -1,0 +1,1 @@
+| [Bow Expert](/character/feat/fighting-style/advanced/bow-expert.md) | Sharpshooting | — |

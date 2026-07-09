@@ -1,0 +1,1 @@
+| [Tinderbox](/item/gear/lighting/tinderbox.md) | Other | 5 silver |

@@ -1,1 +1,0 @@
-| [Pegasus Quill](/item/magic/infusion/uncommon/pegasus-quill.md) | Uncommon | Tool (Calligrapher's Supplies) | No |

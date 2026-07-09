@@ -1,0 +1,1 @@
+| [Alchemist's Supplies](/item/trade/artisan/alchemists-supplies.md) | Tool | 50 gold |

@@ -1,0 +1,1 @@
+| [Blanket](/item/gear/survival/blanket.md) | Other | 5 silver |

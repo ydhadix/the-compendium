@@ -1,1 +1,0 @@
-| [Tankard of Sobriety](/item/magic/infusion/common/tankard-of-sobriety.md) | Common | Wondrous Item | No |

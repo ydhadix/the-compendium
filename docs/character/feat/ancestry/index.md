@@ -2,6 +2,4 @@
 `Description TBD`
 { .subtitle }
 
-| Ancestry Feats | Description |
-|---|---|
-| [Integrated Protection](integrated-protection.md) | `Description TBD` |
+--8<-- "_generated/character/feat/ancestry/_index_table.md"

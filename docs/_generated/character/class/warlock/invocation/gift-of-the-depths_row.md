@@ -1,0 +1,1 @@
+| [Gift of the Depths](/character/class/warlock/invocation/gift-of-the-depths.md) | — | Warlock 5 |

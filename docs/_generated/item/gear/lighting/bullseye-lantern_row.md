@@ -1,0 +1,1 @@
+| [Bullseye Lantern](/item/gear/lighting/bullseye-lantern.md) | Other | 10 gold |

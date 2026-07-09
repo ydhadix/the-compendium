@@ -1,0 +1,1 @@
+| [Purify Food & Drink](/spell/level/1/purify-food-and-drink.md) | Transmutation | V, S | Normal Action (R) | 10 ft. | All food and drink in a 5-ft. radius Sphere | — |

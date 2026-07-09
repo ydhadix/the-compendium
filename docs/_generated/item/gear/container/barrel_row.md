@@ -1,0 +1,1 @@
+| [Barrel](/item/gear/container/barrel.md) | Container | 2 gold |

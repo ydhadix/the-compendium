@@ -1,0 +1,1 @@
+| [Net](/item/gear/combat/net.md) | Other | 1 gold |

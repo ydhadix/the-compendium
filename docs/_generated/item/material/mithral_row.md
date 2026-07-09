@@ -1,0 +1,1 @@
+| [Mithral](/item/material/mithral.md) | Material | 500 gold |

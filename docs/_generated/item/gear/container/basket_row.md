@@ -1,0 +1,1 @@
+| [Basket](/item/gear/container/basket.md) | Container | 4 silver |

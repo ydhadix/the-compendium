@@ -1,0 +1,1 @@
+| [Chain](/item/gear/tool/chain.md) | Tool | 5 gold |

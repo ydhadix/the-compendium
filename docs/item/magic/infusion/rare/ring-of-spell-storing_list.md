@@ -1,1 +1,0 @@
-| [Ring of Spell Storing](/item/magic/infusion/rare/ring-of-spell-storing.md) | Rare | Clothing (Jewelry) | Yes (Spellcaster) |

@@ -1,0 +1,1 @@
+| [Animal Messenger](/spell/level/2/animal-messenger.md) | Enchantment | V, S, M | Normal Action (R) | 30 ft. | One CR 0 Beast | 24 hours |

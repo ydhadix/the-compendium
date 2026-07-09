@@ -1,1 +1,0 @@
-| [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 10 minutes (C) |

@@ -1,1 +1,0 @@
-| [Locate Animals or Plants](/spell/level/2/locate-animals-or-plants.md) | Divination | V, S, M | Normal Action | 5 miles | Special | 10 minutes (C) |

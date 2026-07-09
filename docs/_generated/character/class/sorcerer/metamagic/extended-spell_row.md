@@ -1,0 +1,1 @@
+| [Extended Spell](/character/class/sorcerer/metamagic/extended-spell.md) | — | — |

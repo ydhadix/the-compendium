@@ -1,0 +1,1 @@
+| [Ersatz Eye](/item/magic/infusion/common/ersatz-eye.md) | Wondrous Item | Common | No |

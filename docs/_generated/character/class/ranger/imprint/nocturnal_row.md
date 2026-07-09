@@ -1,0 +1,1 @@
+| [Nocturnal](/character/class/ranger/imprint/nocturnal.md) | — | Ranger 4 |

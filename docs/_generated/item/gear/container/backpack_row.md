@@ -1,0 +1,1 @@
+| [Backpack](/item/gear/container/backpack.md) | Container | 2 gold |

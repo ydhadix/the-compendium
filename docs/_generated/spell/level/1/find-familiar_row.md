@@ -1,0 +1,1 @@
+| [Find Familiar](/spell/level/1/find-familiar.md) | Conjuration | V, S, M ($C) | 1 hour (R) | 10 ft. | — | — |

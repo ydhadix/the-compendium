@@ -1,1 +1,0 @@
-| [Ring of Mind Sharpening](/item/magic/infusion/uncommon/ring-of-mind-sharpening.md) | Uncommon | Clothing (Jewelry) | Yes |

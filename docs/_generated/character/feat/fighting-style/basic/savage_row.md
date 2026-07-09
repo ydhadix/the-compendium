@@ -1,0 +1,1 @@
+| [Savage](/character/feat/fighting-style/basic/savage.md) | — | — |

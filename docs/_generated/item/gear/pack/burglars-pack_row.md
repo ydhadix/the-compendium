@@ -1,0 +1,1 @@
+| [Burglar's Pack](/item/gear/pack/burglars-pack.md) | Other | 16 gold |

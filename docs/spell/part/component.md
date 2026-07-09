@@ -15,6 +15,6 @@ A Material Component is an item used in the casting. You must have a free hand t
 
 If a Material Component is named, you must provide that specific item. The Spell states whether a named Component is consumed when the Spell is cast.
 
-If a Material Component isn't named, you can use a [Component Pouch](../../item/gear/spell-focus/index.md#component-pouch). If you have the Spellcasting feature from a class the Spell belongs to, you can instead use the [Spellcasting Focus](../../item/gear/spell-focus/index.md) described in that feature.
+If a Material Component isn't named, you can use a Component Pouch. If you have the Spellcasting feature from a class the Spell belongs to, you can instead use the Spellcasting Focus described in that feature.
 
 When you cast a Spell from an Item, the Item serves as the Spell's Material Component — even one that names a Component — and isn't consumed unless its description says otherwise.

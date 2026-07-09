@@ -1,0 +1,1 @@
+| [Thirsting Blade](/character/class/warlock/invocation/thirsting-blade.md) | Pact of the Blade | Warlock 5 |

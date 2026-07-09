@@ -1,0 +1,1 @@
+| [Ammunition](/item/gear/combat/ammunition.md) | Ammunition | Value varies |

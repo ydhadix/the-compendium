@@ -1,0 +1,13 @@
+{#-
+  Overrides Material's partials/content.html. The only change from the stock
+  partial: we drop Material's fallback that injects `<h1>{{ page.title }}</h1>`
+  when the rendered content has no <h1>. On our pages that intentionally lack an
+  h1, that fallback synthesised a heading from the filename — we want those pages
+  to simply have no h1. Pages that supply their own h1 are unaffected.
+-#}
+{% include "partials/tags.html" %}
+{% include "partials/actions.html" %}
+{{ page.content }}
+{% include "partials/source-file.html" %}
+{% include "partials/feedback.html" %}
+{% include "partials/comments.html" %}

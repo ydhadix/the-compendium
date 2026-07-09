@@ -1,0 +1,1 @@
+| [Ascendant Step](/character/class/warlock/invocation/ascendant-step.md) | — | Warlock 5 |

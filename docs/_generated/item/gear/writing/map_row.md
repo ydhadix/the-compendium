@@ -1,0 +1,1 @@
+| [Map](/item/gear/writing/map.md) | Other | 1 gold |

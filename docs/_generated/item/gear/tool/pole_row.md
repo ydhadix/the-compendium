@@ -1,0 +1,1 @@
+| [Pole](/item/gear/tool/pole.md) | Tool | 5 copper |

@@ -1,4 +1,4 @@
-##### Ballista
+### Ballista
 Quartermaster Weapon
 { .subtitle }
 

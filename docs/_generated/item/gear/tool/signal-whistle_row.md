@@ -1,0 +1,1 @@
+| [Signal Whistle](/item/gear/tool/signal-whistle.md) | Tool | 5 copper |

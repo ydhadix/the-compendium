@@ -1,0 +1,1 @@
+| [Quiver](/item/gear/container/quiver.md) | Container | 1 gold |

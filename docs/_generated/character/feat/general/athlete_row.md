@@ -1,0 +1,1 @@
+| [Athlete](/character/feat/general/athlete.md) | 2 Strength or Dexterity | — |

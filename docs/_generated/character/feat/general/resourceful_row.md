@@ -1,0 +1,1 @@
+| [Resourceful](/character/feat/general/resourceful.md) | 2 Dexterity | — |

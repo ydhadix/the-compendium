@@ -1,0 +1,1 @@
+| [Magnifying Glass](/item/gear/tool/magnifying-glass.md) | Tool | 100 gold |

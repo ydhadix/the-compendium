@@ -1,0 +1,1 @@
+| [Unseen Servant](/spell/level/1/unseen-servant.md) | Conjuration | V, S, M | Normal Action (R) | 60 ft. | — | 1 hour |

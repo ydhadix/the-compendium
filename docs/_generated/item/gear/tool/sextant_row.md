@@ -1,0 +1,1 @@
+| [Sextant](/item/gear/tool/sextant.md) | Tool | 25 gold |

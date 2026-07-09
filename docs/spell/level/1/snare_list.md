@@ -1,1 +1,0 @@
-| [Snare](/spell/level/1/snare.md) | Abjuration | S, M ($C) | Normal Action | Reach | Special | 8 hours |

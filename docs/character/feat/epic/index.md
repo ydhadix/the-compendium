@@ -6,6 +6,4 @@
     This page is a stub. Content is still being written.
 
 
-| Epic Boons | Description |
-|---|---|
-|  |  |
+--8<-- "_generated/character/feat/fighting-style/epic/index_table.md"

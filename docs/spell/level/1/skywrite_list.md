@@ -1,1 +1,0 @@
-| [Skywrite](/spell/level/1/skywrite.md) | Transmutation | V, S | Normal Action | Line of sight | — | 1 hour (C) |

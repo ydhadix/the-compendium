@@ -1,4 +1,4 @@
-##### Harpoon
+### Harpoon
 Quartermaster Weapon
 { .subtitle }
 

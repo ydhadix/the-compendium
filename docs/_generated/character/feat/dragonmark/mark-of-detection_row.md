@@ -1,0 +1,1 @@
+| [Mark of Detection](/character/feat/dragonmark/mark-of-detection.md) | No other Dragonmark | — |

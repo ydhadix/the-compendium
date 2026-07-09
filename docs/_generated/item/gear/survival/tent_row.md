@@ -1,0 +1,1 @@
+| [Tent](/item/gear/survival/tent.md) | Other | 2 gold |

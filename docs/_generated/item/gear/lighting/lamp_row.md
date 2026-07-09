@@ -1,0 +1,1 @@
+| [Lamp](/item/gear/lighting/lamp.md) | Other | 5 silver |

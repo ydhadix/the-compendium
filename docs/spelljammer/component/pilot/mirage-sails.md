@@ -1,4 +1,4 @@
-##### Mirage Sails
+### Mirage Sails
 Pilot Component
 { .subtitle }
 

@@ -1,0 +1,1 @@
+| [Jeweler's Tools](/item/trade/artisan/jewelers-tools.md) | Tool | 25 gold |

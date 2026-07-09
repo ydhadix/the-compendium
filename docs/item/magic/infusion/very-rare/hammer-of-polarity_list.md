@@ -1,1 +1,0 @@
-| [Hammer of Polarity](/item/magic/infusion/very-rare/hammer-of-polarity.md) | Very Rare | Weapon (Hammer) | Yes (Spellcaster) |

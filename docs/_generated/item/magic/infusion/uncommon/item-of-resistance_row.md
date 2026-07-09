@@ -1,0 +1,1 @@
+| [Item of Resistance](/item/magic/infusion/uncommon/item-of-resistance.md) | Wondrous Item | Uncommon | Yes |

@@ -1,0 +1,6 @@
+| Item | Type | Value |
+|---|---|---|
+| [Bedroll](/item/gear/survival/bedroll.md) | Other | 1 gold |
+| [Blanket](/item/gear/survival/blanket.md) | Other | 5 silver |
+| [Rations](/item/gear/survival/rations.md) | Other | 5 silver |
+| [Tent](/item/gear/survival/tent.md) | Other | 2 gold |

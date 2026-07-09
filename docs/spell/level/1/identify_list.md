@@ -1,1 +1,0 @@
-| [Identify](/spell/level/1/identify.md) | Divination | V, S, M ($) | 1 minute | Reach | One thing | — |

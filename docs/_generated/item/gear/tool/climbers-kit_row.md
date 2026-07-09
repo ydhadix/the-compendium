@@ -1,0 +1,1 @@
+| [Climber's Kit](/item/gear/tool/climbers-kit.md) | Tool | 25 gold |

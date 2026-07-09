@@ -527,7 +527,7 @@ body {
     max-height: 100%;                        /* …but never past the track (the footer) */
     overflow-y: auto;
     overscroll-behavior: contain;
-    padding: 1.4rem 0.2rem 1.4rem 0.2rem;
+    padding: 0.8rem 0.2rem 1.4rem 0.2rem;
     background-color: #8c1911;               /* red fabric bookmark */
     background-image: url("../images/textures/fabric.png");
     background-repeat: repeat;

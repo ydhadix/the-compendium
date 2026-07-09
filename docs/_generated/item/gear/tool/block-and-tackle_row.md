@@ -1,0 +1,1 @@
+| [Block and Tackle](/item/gear/tool/block-and-tackle.md) | Tool | 1 gold |

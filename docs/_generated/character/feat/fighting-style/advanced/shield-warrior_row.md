@@ -1,0 +1,1 @@
+| [Shield Warrior](/character/feat/fighting-style/advanced/shield-warrior.md) | Shield Defense or Shield Fighting | — |

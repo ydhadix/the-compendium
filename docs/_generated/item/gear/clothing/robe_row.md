@@ -1,0 +1,1 @@
+| [Robe](/item/gear/clothing/robe.md) | Clothing (Clothes) | 1 gold |

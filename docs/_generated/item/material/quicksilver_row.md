@@ -1,0 +1,1 @@
+| [Quicksilver](/item/material/quicksilver.md) | Material | 500 gold |

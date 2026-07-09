@@ -1,0 +1,1 @@
+| [Potion of Healing](/item/gear/medical/potion-of-healing.md) | Potion | 50 gold |

@@ -1,0 +1,1 @@
+| [Spell Scroll](/item/gear/spell-focus/spell-scroll.md) | Scroll | 50 gold |

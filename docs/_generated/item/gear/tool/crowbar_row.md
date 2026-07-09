@@ -1,0 +1,1 @@
+| [Crowbar](/item/gear/tool/crowbar.md) | Tool | 2 gold |

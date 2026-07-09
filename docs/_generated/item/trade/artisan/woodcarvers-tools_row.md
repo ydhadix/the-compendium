@@ -1,0 +1,1 @@
+| [Woodcarver's Tools](/item/trade/artisan/woodcarvers-tools.md) | Tool | 1 gold |

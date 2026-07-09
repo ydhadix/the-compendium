@@ -1,0 +1,1 @@
+| [Shield Throwing](/character/feat/fighting-style/advanced/shield-throwing.md) | Shield Defense or Shield Fighting | — |

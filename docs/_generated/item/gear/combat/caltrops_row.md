@@ -1,0 +1,1 @@
+| [Caltrops](/item/gear/combat/caltrops.md) | Other | 1 gold |

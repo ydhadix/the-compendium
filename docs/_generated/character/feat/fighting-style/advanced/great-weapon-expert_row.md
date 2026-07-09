@@ -1,0 +1,1 @@
+| [Great Weapon Expert](/character/feat/fighting-style/advanced/great-weapon-expert.md) | Great Weapon Fighting | — |

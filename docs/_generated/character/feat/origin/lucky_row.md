@@ -1,0 +1,1 @@
+| [Lucky](/character/feat/origin/lucky.md) | — | — |

@@ -1,0 +1,1 @@
+| [Rope](/item/gear/tool/rope.md) | Tool | 1 gold |

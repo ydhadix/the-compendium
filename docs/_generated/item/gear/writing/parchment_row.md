@@ -1,0 +1,1 @@
+| [Parchment](/item/gear/writing/parchment.md) | Other | 1 silver |

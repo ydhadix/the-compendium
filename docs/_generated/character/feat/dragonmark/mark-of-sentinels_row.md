@@ -1,0 +1,1 @@
+| [Mark of Sentinels](/character/feat/dragonmark/mark-of-sentinels.md) | No other Dragonmark | — |

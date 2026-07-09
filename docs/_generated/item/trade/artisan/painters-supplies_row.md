@@ -1,0 +1,1 @@
+| [Painter's Supplies](/item/trade/artisan/painters-supplies.md) | Tool | 10 gold |

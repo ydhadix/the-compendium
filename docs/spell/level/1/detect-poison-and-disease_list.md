@@ -1,1 +1,0 @@
-| [Detect Poison & Disease](/spell/level/1/detect-poison-and-disease.md) | Divination | V, S, M | Normal Action | 30 ft. | Self | 10 minutes (C) |

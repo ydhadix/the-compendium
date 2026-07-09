@@ -1,0 +1,1 @@
+| [Leatherworker's Tools](/item/trade/artisan/leatherworkers-tools.md) | Tool | 5 gold |

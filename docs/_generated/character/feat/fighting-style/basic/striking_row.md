@@ -1,0 +1,1 @@
+| [Striking](/character/feat/fighting-style/basic/striking.md) | — | — |

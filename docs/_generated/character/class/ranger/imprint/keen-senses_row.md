@@ -1,0 +1,1 @@
+| [Keen Senses](/character/class/ranger/imprint/keen-senses.md) | — | Ranger 1 |

@@ -1,0 +1,1 @@
+| [Paper](/item/gear/writing/paper.md) | Other | 2 silver |

@@ -1,0 +1,1 @@
+| [Shield of Expression](/item/magic/infusion/common/shield-of-expression.md) | Shield (Any) | Common | No |

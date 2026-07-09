@@ -1,0 +1,1 @@
+| [Gloves of Thievery](/item/magic/infusion/uncommon/gloves-of-thievery.md) | Clothing (Gloves) | Uncommon | No |

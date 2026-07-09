@@ -1,0 +1,1 @@
+| [Bedroll](/item/gear/survival/bedroll.md) | Other | 1 gold |

@@ -1,0 +1,1 @@
+| [Mason's Tools](/item/trade/artisan/masons-tools.md) | Tool | 10 gold |

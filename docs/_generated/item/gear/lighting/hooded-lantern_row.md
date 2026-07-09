@@ -1,0 +1,1 @@
+| [Hooded Lantern](/item/gear/lighting/hooded-lantern.md) | Other | 5 gold |

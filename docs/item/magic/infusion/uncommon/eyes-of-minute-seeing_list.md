@@ -1,1 +1,0 @@
-| [Eyes of Minute Seeing](/item/magic/infusion/uncommon/eyes-of-minute-seeing.md) | Uncommon | Clothing (Jewelry) | No |

@@ -1,4 +1,4 @@
-##### Naval Ram
+### Naval Ram
 Pilot Component
 { .subtitle }
 

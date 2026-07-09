@@ -1,0 +1,1 @@
+| [Glider](/character/class/ranger/imprint/glider.md) | — | Ranger 7 |

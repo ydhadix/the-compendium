@@ -1,0 +1,1 @@
+| [Potter's Tools](/item/trade/artisan/potters-tools.md) | Tool | 10 gold |

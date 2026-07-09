@@ -1,0 +1,1 @@
+| [War Magus](/character/feat/general/war-magus.md) | Spellcasting | — |

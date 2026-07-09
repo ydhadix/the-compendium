@@ -1,0 +1,1 @@
+| [Mirror](/item/gear/tool/mirror.md) | Tool | 5 gold |

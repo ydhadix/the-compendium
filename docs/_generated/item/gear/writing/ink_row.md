@@ -1,0 +1,1 @@
+| [Ink](/item/gear/writing/ink.md) | Other | 10 gold |

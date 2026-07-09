@@ -1,0 +1,1 @@
+| [Lock](/item/gear/tool/lock.md) | Tool | 10 gold |

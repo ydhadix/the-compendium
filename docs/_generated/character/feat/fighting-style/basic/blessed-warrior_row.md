@@ -1,0 +1,1 @@
+| [Blessed Warrior](/character/feat/fighting-style/basic/blessed-warrior.md) | — | Paladin |

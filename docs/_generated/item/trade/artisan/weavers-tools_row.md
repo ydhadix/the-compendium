@@ -1,0 +1,1 @@
+| [Weaver's Tools](/item/trade/artisan/weavers-tools.md) | Tool | 1 gold |

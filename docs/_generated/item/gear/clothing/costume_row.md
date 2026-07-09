@@ -1,0 +1,1 @@
+| [Costume](/item/gear/clothing/costume.md) | Clothing (Clothes) | 5 gold |

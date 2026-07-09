@@ -1,0 +1,1 @@
+| [Medium Armor Master](/character/feat/general/medium-armor-master.md) | Medium Armor Proficiency | — |

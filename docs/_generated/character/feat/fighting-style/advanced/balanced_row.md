@@ -1,0 +1,1 @@
+| [Balanced](/character/feat/fighting-style/advanced/balanced.md) | Dueling | — |

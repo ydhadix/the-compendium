@@ -1,0 +1,1 @@
+| [String](/item/gear/tool/string.md) | Tool | 1 silver |

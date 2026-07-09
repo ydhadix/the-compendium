@@ -2,9 +2,4 @@
 `Description TBD`
 { .subtitle }
 
-!!! note "In progress"
-    This page is a stub. Content is still being written.
-
-
-| 4th-Level | Description |
-|---|---|
+--8<-- "_generated/spell/level/4/_index_table.md"

@@ -1,0 +1,1 @@
+| [Iron Pot](/item/gear/container/iron-pot.md) | Container | 2 gold |

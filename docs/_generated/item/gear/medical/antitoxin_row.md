@@ -1,0 +1,1 @@
+| [Antitoxin](/item/gear/medical/antitoxin.md) | Potion | 50 gold |

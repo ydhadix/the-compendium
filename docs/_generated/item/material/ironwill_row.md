@@ -1,0 +1,1 @@
+| [Ironwill](/item/material/ironwill.md) | Material | 2,500 gold |

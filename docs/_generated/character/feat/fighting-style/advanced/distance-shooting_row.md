@@ -1,0 +1,1 @@
+| [Distance Shooting](/character/feat/fighting-style/advanced/distance-shooting.md) | Sharpshooting | — |

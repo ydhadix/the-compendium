@@ -1,0 +1,1 @@
+| [Cobbler's Tools](/item/trade/artisan/cobblers-tools.md) | Tool | 5 gold |

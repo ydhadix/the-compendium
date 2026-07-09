@@ -1,1 +1,0 @@
-| [Staff of Flowers](/item/magic/infusion/common/staff-of-flowers.md) | Common | Weapon (Staff) | No |

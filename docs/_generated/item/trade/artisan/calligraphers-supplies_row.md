@@ -1,0 +1,1 @@
+| [Calligrapher's Supplies](/item/trade/artisan/calligraphers-supplies.md) | Tool | 10 gold |

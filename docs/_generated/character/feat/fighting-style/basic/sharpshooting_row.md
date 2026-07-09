@@ -1,0 +1,1 @@
+| [Sharpshooting](/character/feat/fighting-style/basic/sharpshooting.md) | — | — |

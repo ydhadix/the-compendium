@@ -1,0 +1,1 @@
+| [Traveler's Clothes](/item/gear/clothing/travelers-clothes.md) | Clothing (Clothes) | 2 gold |

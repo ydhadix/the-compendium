@@ -1,0 +1,1 @@
+| [Glass Bottle](/item/gear/container/glass-bottle.md) | Container | 2 gold |

@@ -1,0 +1,1 @@
+| [Jumper](/character/class/ranger/imprint/jumper.md) | — | Ranger 4 |

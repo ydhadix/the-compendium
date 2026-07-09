@@ -1,0 +1,1 @@
+| [Scholar's Pack](/item/gear/pack/scholars-pack.md) | Other | 40 gold |

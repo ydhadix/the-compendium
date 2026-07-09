@@ -1,0 +1,1 @@
+| [Hunting Trap](/item/gear/combat/hunting-trap.md) | Other | 2 gold |

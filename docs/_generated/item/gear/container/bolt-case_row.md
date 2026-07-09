@@ -1,0 +1,1 @@
+| [Bolt Case](/item/gear/container/bolt-case.md) | Container | 1 gold |

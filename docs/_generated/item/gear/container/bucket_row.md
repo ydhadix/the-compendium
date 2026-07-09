@@ -1,0 +1,1 @@
+| [Bucket](/item/gear/container/bucket.md) | Container | 5 copper |

@@ -1,0 +1,1 @@
+| [Bell](/item/gear/tool/bell.md) | Tool | 1 gold |

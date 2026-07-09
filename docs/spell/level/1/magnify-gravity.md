@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | Everythingin a 10-ft. radius Sphere |
+| Target | Everything in a 10-ft. radius Sphere |
 | Duration | Until the end of your next Turn |
 
 ##### Spell Effect

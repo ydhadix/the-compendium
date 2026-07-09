@@ -1,1 +1,0 @@
-| [Ring of Water Walking](/item/magic/infusion/uncommon/ring-of-water-walking.md) | Uncommon | Clothing (Jewelry) | No |

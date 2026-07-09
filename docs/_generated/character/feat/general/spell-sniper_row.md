@@ -1,0 +1,1 @@
+| [Spell Sniper](/character/feat/general/spell-sniper.md) | Spellcasting | — |

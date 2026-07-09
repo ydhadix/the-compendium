@@ -1,0 +1,1 @@
+| [Lockpick](/item/gear/tool/lockpick.md) | Tool | 25 gold |

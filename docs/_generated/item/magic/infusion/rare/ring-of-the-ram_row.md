@@ -1,0 +1,1 @@
+| [Ring of the Ram](/item/magic/infusion/rare/ring-of-the-ram.md) | Clothing (Jewelry) | Rare | Yes |

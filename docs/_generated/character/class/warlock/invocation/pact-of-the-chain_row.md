@@ -1,0 +1,1 @@
+| [Pact of the Chain](/character/class/warlock/invocation/pact-of-the-chain.md) | — | Warlock 1 |

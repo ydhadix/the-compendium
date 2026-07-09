@@ -1,0 +1,1 @@
+| [Holy Symbol](/item/gear/spell-focus/holy-symbol.md) | Spellcasting Focus (Holy Symbol) | Value varies |

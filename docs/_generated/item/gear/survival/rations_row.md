@@ -1,0 +1,1 @@
+| [Rations](/item/gear/survival/rations.md) | Other | 5 silver |

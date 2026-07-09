@@ -1,13 +1,16 @@
 {% extends "base.html" %}
 
-{% import "partials/leftnav.html" as ln with context %}
+{% import "partials/localnav.html" as ln with context %}
 
 {#- Display title: front-matter title if set, else the parent section's title for
     a section landing page (the page is its parent's index_page), else the page's
-    own title. Shared by the tab title and the recent-items label. -#}
+    first heading (h1–h6, set by navtools.on_page_content), else — for a page with
+    no headings at all — the page's own (filename-derived) title. Shared by the
+    tab title and the recent-items label. -#}
 {% macro display_title(page) -%}
   {%- if page.meta and page.meta.title -%}{{ page.meta.title | striptags }}
   {%- elif page.parent and page.parent.index_page == page and page.parent.title -%}{{ page.parent.title | striptags }}
+  {%- elif page.first_heading -%}{{ page.first_heading | striptags }}
   {%- else -%}{{ page.title | striptags }}
   {%- endif -%}
 {%- endmacro %}
@@ -78,12 +81,12 @@
   super() keeps Material's primary sidebar (the MOBILE drawer / full tree).
   On desktop, CSS hides it and shows the contextual column below instead — the
   current top-level section, expanded along the active path to the current page
-  (see partials/leftnav.html).
+  (see partials/localnav.html).
 -#}
 {% block site_nav %}
   {{ super() }}
   {#- Pages can opt out of the contextual left column with `hide_localnav: true`
       in their front matter (home, download, faq). Not rendering it lets the
       content box centre (see the :has(.pm-localnav) rule in extra.css). -#}
-  {% if nav and not (page and page.meta.hide_localnav) %}{{ ln.leftnav(nav) }}{% endif %}
+  {% if nav and not (page and page.meta.hide_localnav) %}{{ ln.localnav(nav) }}{% endif %}
 {% endblock %}

@@ -1,0 +1,1 @@
+| [Firearm Expert](/character/feat/fighting-style/advanced/firearm-expert.md) | Sharpshooting | — |

@@ -1,0 +1,1 @@
+| [Ball Bearings](/item/gear/combat/ball-bearings.md) | Other | 1 gold |

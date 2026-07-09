@@ -1,0 +1,1 @@
+| [Afterburners](/spelljammer/component/pilot/afterburners.md) |

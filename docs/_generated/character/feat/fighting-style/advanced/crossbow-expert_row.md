@@ -1,0 +1,1 @@
+| [Crossbow Expert](/character/feat/fighting-style/advanced/crossbow-expert.md) | Sharpshooting | — |

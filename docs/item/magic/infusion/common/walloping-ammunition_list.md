@@ -1,1 +1,0 @@
-| [Walloping Ammunition](/item/magic/infusion/common/walloping-ammunition.md) | Common | Weapon (Ammunition) | No |

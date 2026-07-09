@@ -1,0 +1,1 @@
+| [Iron Spikes](/item/gear/tool/iron-spikes.md) | Tool | 1 gold |

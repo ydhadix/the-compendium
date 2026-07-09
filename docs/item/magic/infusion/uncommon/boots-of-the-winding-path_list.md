@@ -1,1 +1,0 @@
-| [Boots of the Winding Path](/item/magic/infusion/uncommon/boots-of-the-winding-path.md) | Uncommon | Clothing (Boots) | Yes |

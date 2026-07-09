@@ -4,7 +4,7 @@
   tagged is_separator / separator_label by overrides/navtools.py) and emits a
   styled divider instead of falling through to a broken `<a href="sep:">---</a>`.
   This is the collapsed/mobile drawer's nav tree — the megamenu (top nav) and
-  leftnav (sidebar) partials handle the same separators for the desktop views.
+  localnav (sidebar) partials handle the same separators for the desktop views.
 
   Keep in sync with Material on upgrade: re-copy the upstream file and re-add the
   `nav_item.is_separator` branch at the top of render(). Separator styling lives

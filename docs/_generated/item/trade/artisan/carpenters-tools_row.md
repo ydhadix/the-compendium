@@ -1,0 +1,1 @@
+| [Carpenter's Tools](/item/trade/artisan/carpenters-tools.md) | Tool | 8 gold |

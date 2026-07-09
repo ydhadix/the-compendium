@@ -1,0 +1,1 @@
+| [Heat Tolerance](/character/class/ranger/imprint/heat-tolerance.md) | — | Ranger 4 |

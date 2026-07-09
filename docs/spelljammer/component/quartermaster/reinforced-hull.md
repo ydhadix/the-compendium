@@ -1,4 +1,4 @@
-##### Reinforced Hull
+### Reinforced Hull
 Quartermaster Component
 { .subtitle }
 
