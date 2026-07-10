@@ -14,7 +14,7 @@
 ##### Spell Effect
 You sense the presence of any creatures that understand a language.
 
-This Spell is blocked by **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
+This Spell can't sense through **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
 
 ###### Read Mind
 Magic Action

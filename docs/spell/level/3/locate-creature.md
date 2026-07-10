@@ -16,7 +16,7 @@ Choose a general type of creature, or a specific creature you've seen within **3
 
 You sense the direction to the nearest chosen target. If it is moving, you know the direction of its movement.
 
-This Spell is blocked by any amount of lead and can't locate a target that has been transformed into a different form.
+Any amount of lead blocks this Spell. It can't locate a target that has been transformed into a different form.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

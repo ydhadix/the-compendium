@@ -23,7 +23,7 @@ Free Action
 You command your companion to move and take any Action available to it.
 
 ##### At Higher Levels
-The Spell's Level determines your companion's Armor Class, Hit Points, and attack damage.
+The Spell Level determines your companion's Armor Class, Hit Points, and attack damage.
 
 ##### Bestial Spirit: Land
 Small Beast, Neutral
@@ -61,7 +61,7 @@ Small Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | +your Spell Attack to hit |
-| Damage | 1d8 + STR + Spell Level Bludgeoning, Piercing, or Slashing damage |
+| Damage | 1d8 + STR + Spell Level Bludgeoning, Piercing, or Slashing Damage |
 
 ##### Bestial Spirit: Sea
 Small Beast, Neutral
@@ -100,7 +100,7 @@ Small Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | +your Spell Attack to hit |
-| Damage | 1d8 + STR + Spell Level Bludgeoning, Piercing, or Slashing damage |
+| Damage | 1d8 + STR + Spell Level Bludgeoning, Piercing, or Slashing Damage |
 
 
 ##### Bestial Spirit: Sky
@@ -139,4 +139,4 @@ Small Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | +your Spell Attack to hit |
-| Damage | 1d8 + STR + Spell Level Bludgeoning, Piercing, or Slashing damage |
+| Damage | 1d8 + STR + Spell Level Bludgeoning, Piercing, or Slashing Damage |

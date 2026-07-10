@@ -14,4 +14,4 @@
 ##### Spell Effect
 You sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead in the area. You also sense whether the _Hallow_ Spell is active there and, if so, where.
 
-This Spell is blocked by **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
+This Spell can't sense through **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.

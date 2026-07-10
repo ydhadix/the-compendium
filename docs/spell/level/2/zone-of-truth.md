@@ -12,11 +12,11 @@
 | Duration | 10 minutes |
 
 ##### Spell Effect
-After your Turn starts, each target makes a Will Save.  After a target enters the area (including when this Spell is cast), it also makes this save.  A target only makes this Saving Throw once until the start of your next turn.
+After your Turn starts, each target makes a Will Save.  After a target enters the area (including when this Spell is cast), it also makes this save.  A target only makes this Saving Throw once until the start of your next Turn.
 
 You know whether each target succeeds or fails.
 
 | | |
 |---|---|
-| Fail | The target can't speak a deliberate lie while in the area. It is aware of this effect and isn't forced to speak. |
+| Fail | The target can't speak a deliberate lie while in the area. It is aware of this effect and can remain silent. |
 | Success | No effect. |

@@ -12,7 +12,7 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-You make yourself and anything you're wearing or carrying look different. You can seem up to **1** foot shorter or taller and must keep the same basic arrangement of limbs; otherwise, the extent of the illusion is up to you.
+You make yourself and anything you're wearing or carrying look different. You can seem up to **1** foot shorter or taller but can't change the basic arrangement of your limbs; otherwise, the extent of the illusion is up to you.
 
 ###### Search
 Search Action

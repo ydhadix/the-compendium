@@ -14,7 +14,7 @@
 ##### Spell Effect
 You create a sphere of flames in the area, which emits Bright Light out to **20** feet and Dim Light for an additional **20** feet.
 
-After your Turn starts, each target makes a Reflex Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next turn.
+After your Turn starts, each target makes a Reflex Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

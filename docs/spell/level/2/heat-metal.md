@@ -12,7 +12,7 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-You make the target glow red-hot.  After you cast this spell, you can take the following action _(no additional action required)_.
+You make the target glow red-hot.  After you cast this Spell, you can take the following Action _(no action required)_.
 
 ###### Sear
 Bonus Action

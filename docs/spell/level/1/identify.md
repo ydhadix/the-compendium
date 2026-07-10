@@ -14,6 +14,6 @@
 ##### Spell Effect
 You learn the names of any ongoing Spells affecting the target.
 
-If the target was created by a Spell, you learn that Spell's name.
+If a Spell created the target, you learn that Spell's name.
 
 If the target is a Magic Item or other magical object, you learn its properties, how to use them, whether it requires Attunement, and how many Charges it has.

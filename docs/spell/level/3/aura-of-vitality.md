@@ -12,4 +12,4 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-After you cast this spell and after each of your Turns starts, you can heal one target by **2d6**.
+After you cast this Spell and after your Turn starts, you can heal one target by **2d6**.

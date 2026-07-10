@@ -16,7 +16,7 @@ You deal **2d6** Thunder Damage, and the target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You push the target **10** feet away from you and knock it Prone. |
+| Fail | You propel the target **10** feet away from you and knock it Prone. |
 | Success | No effect. |
 
 This Spell's thunder is audible out to **300** feet.

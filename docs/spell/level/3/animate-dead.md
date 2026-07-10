@@ -14,7 +14,7 @@
 ##### Spell Effect
 The target becomes an Undead creature: a Skeleton if it is just bones, or a Zombie otherwise. The creature obeys your commands. If you don't issue a command, it Dodges and moves to avoid danger.
 
-When this Spell ends on a creature, it remains animated but stops obeying you. You can cast this Spell to regain control of up to **4** creatures you created with it, instead of animating a new one.
+After this Spell ends on a creature, it remains animated but stops obeying you. You can cast this Spell to regain control of up to **4** creatures you created with it, instead of animating a new one.
 
 ###### Command
 Bonus Action

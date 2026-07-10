@@ -23,7 +23,7 @@ Free Action
 You command the Spirit to move and take any Action available to it.
 
 ##### At Higher Levels
-The Spell's Level determines the Spirit's Armor Class, Hit Points, and attack damage.
+The Spell Level determines the Spirit's Armor Class, Hit Points, and attack damage.
 
 ##### Fey Spirit
 !!! note "In progress"

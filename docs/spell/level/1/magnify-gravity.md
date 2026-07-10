@@ -16,7 +16,7 @@ Each target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You deal **2d8** Force Damage, and the target's Speed is halved. |
+| Fail | You deal **2d8** Force Damage, and the target's Speed becomes halved. |
 | Success | You deal half as much damage. |
 
 Objects in the area that aren't worn or carried can't be moved or picked up.

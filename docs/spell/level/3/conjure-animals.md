@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | Everything you choose in a 15-ft. radius Sphere |
+| Target | Anything you choose in a 15-ft. radius Sphere |
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
 You have Advantage on Fortitude Saves while in the area.
 
-After your Turn starts, each target makes a Reflex Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next turn.
+After your Turn starts, each target makes a Reflex Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

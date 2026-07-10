@@ -12,7 +12,7 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-If you're outdoors in a storm when you cast this Spell, the storm and the area beneath it become this Spell's area instead.
+If you cast this Spell while outdoors in a storm, the storm and the area beneath it become this Spell's area instead.
 
 After you cast this Spell, you can take the following Action _(no action required)_.
 

@@ -16,7 +16,7 @@ Choose a specific kind of Beast, plant creature, or plant.
 
 You sense the direction to the nearest chosen target. If it is moving, you know the direction of its movement.
 
-This Spell is blocked by any amount of lead.
+Any amount of lead blocks this Spell.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

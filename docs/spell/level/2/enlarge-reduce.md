@@ -16,7 +16,7 @@ Choose one of the following effects. The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | The target is affected by the chosen effect. If it is a creature, everything it is wearing or carrying is affected too. |
+| Fail | The chosen effect affects the target. If the target is a creature, the effect also affects everything the target is wearing or carrying. |
 | Success | No effect. |
 
 | | |

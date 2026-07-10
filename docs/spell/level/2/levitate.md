@@ -16,7 +16,7 @@ The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | The target rises **20** feet and remains suspended, able to move only by climbing along a surface or fixed object within reach. When this Spell ends, the target lands and takes no damage from the fall. |
+| Fail | The target rises **20** feet and remains suspended, able to move only by climbing along a surface or fixed object within Reach. After this Spell ends, the target lands and takes no damage from the fall. |
 | Success | No effect. |
 
 ###### Move

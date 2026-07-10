@@ -8,11 +8,11 @@
 | Components | V, S |
 | Casting Time | 1 minute |
 | Range | Reach |
-| Target | One Tiny object |
+| Target | One Tiny, nonmagical object |
 | Duration | 8 hours |
 
 ##### Spell Effect
-The target must be nonmagical and not attached to another object or surface. It animates as a Servant under your control. This Spell ends on the Servant if it has **0** Hit Points, and it then reverts to an object, taking any excess damage with it.
+The target animates as a Servant under your control. This Spell ends on the Servant if it has **0** Hit Points, and it then reverts to an object, taking any excess damage with it.
 
 ###### Command
 Bonus Action

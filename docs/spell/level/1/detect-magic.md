@@ -14,7 +14,7 @@
 ##### Spell Effect
 You sense the location of any magical effects and have Advantage on Checks to identify Spells.
 
-This Spell is blocked by **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
+This Spell can't sense through **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
 
 ###### Enhance
 Magic Action

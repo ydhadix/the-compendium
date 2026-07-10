@@ -12,6 +12,6 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-You understand the literal meaning of any language you hear or see signed. You also understand any written language you touch, though you must be touching the surface the words are written on.
+You understand the literal meaning of any language you hear or see signed. You also understand any written language while you touch the surface it is written on.
 
 This Spell doesn't decode symbols or secret messages.
