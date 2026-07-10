@@ -110,7 +110,7 @@ Choose a Barbarian Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-|  |  |
+| [Path of the Wild Heart](wild-heart.md) | Beast-kin who speak with animals and take on wild aspects when they Rage. |
 
 
 ### 4: Brutal Strike

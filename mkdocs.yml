@@ -130,6 +130,7 @@ nav:
           - Cartographer:           character/class/artificer/cartographer.md
         - Barbarian:
           - Barbarian Overview:     character/class/barbarian/index.md
+          - Path of the Wild Heart: character/class/barbarian/wild-heart.md
         - Bard:
           - Bard Overview:          character/class/bard/index.md
           - College of Eloquence:   character/class/bard/eloquence.md
