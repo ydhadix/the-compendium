@@ -96,7 +96,7 @@
 |---|---|---|---|---|---|---|
 | [Antagonize](/spell/level/3/antagonize.md) | Enchantment | V, S, M | Normal Action | 30 ft. | One creature | — |
 | [Bestow Curse](/spell/level/3/bestow-curse.md) | Necromancy | V, S | Normal Action | Reach | One creature | 1 minute (C) |
-| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Normal Action | — | Everything you choose in a 10-ft. Aura | 10 minutes (C) |
+| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Normal Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |
 | [Clairvoyance](/spell/level/3/clairvoyance.md) | Divination | V, S, M ($) | 10 minutes | 1 mile | — | 10 minutes (C) |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Enemies Abound](/spell/level/3/enemies-abound.md) | Enchantment | V, S | Normal Action | 120 ft. | One creature | 1 minute (C) |
@@ -107,7 +107,7 @@
 | [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
 | [Major Image](/spell/level/3/major-image.md) | Illusion | V, S, M | Normal Action | 120 ft. | Each creature in a 20-ft. Cube | 10 minutes (C) |
 | [Mass Healing Word](/spell/level/3/mass-healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | Up to six creatures | — |
-| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One thing | 8 hours |
+| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature, place, or object no larger than **10** feet | 8 hours |
 | [Plant Growth](/spell/level/3/plant-growth.md) | Transmutation | V, S | Normal Action | 150 ft. | Special | — |
 | [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Normal Action | Unlimited | One creature | — |
 | [Slow](/spell/level/3/slow.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Up to six creatures | 1 minute (C) |

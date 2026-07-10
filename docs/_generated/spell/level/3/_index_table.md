@@ -7,13 +7,13 @@
 | [Animate Dead](/spell/level/3/animate-dead.md) | Necromancy | V, S, M | 1 minute | 10 ft. | One humanoid corpse, or up to 4 Undead | 24 hours |
 | [Antagonize](/spell/level/3/antagonize.md) | Enchantment | V, S, M | Normal Action | 30 ft. | One creature | — |
 | [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Normal Action | — | Each creature in a 30-ft. Aura | 1 minute (C) |
-| [Beacon of Hope](/spell/level/3/beacon-of-hope.md) | Abjuration | V, S | Normal Action | 30 ft. | Any creatures you choose | 1 minute (C) |
+| [Beacon of Hope](/spell/level/3/beacon-of-hope.md) | Abjuration | V, S | Normal Action | 30 ft. | Each creature you choose | 1 minute (C) |
 | [Bestow Curse](/spell/level/3/bestow-curse.md) | Necromancy | V, S | Normal Action | Reach | One creature | 1 minute (C) |
 | [Blink](/spell/level/3/blink.md) | Transmutation | V, S | Normal Action | — | Self | 1 minute |
-| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Normal Action | — | Everything you choose in a 10-ft. Aura | 10 minutes (C) |
+| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Normal Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |
 | [Call Lightning](/spell/level/3/call-lightning.md) | Conjuration | V, S | Normal Action | 120 ft. | Everything in a 10-ft. radius, 60-ft. Cylinder | 10 minutes (C) |
 | [Clairvoyance](/spell/level/3/clairvoyance.md) | Divination | V, S, M ($) | 10 minutes | 1 mile | — | 10 minutes (C) |
-| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Everything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
+| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Anything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
 | [Conjure Constructs](/spell/level/3/conjure-constructs.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 5-ft. radius Sphere | 10 minutes (C) |
 | [Counterspell](/spell/level/3/counterspell.md) | Abjuration | S | Reaction | 60 ft. | The casting creature | — |
 | [Create Food and Water](/spell/level/3/create-food-and-water.md) | Conjuration | V, S | Normal Action | 30 ft. | — | — |
@@ -38,7 +38,7 @@
 | [Mass Healing Word](/spell/level/3/mass-healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | Up to six creatures | — |
 | [Meld into Stone](/spell/level/3/meld-into-stone.md) | Transmutation | V, S | Normal Action (R) | Reach | A stone object or surface large enough to contain your body | 8 hours |
 | [Minute Meteors](/spell/level/3/minute-meteors.md) | Evocation | V, S, M | Normal Action | 120 ft. | Self | 10 minutes (C) |
-| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One thing | 8 hours |
+| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature, place, or object no larger than **10** feet | 8 hours |
 | [Phantom Steed](/spell/level/3/phantom-steed.md) | Illusion | V, S | 1 minute (R) | 30 ft. | — | 1 hour |
 | [Plant Growth](/spell/level/3/plant-growth.md) | Transmutation | V, S | Normal Action | 150 ft. | Special | — |
 | [Protection from Energy](/spell/level/3/protection-from-energy.md) | Abjuration | V, S | Normal Action | Reach | One thing | 1 hour (C) |
@@ -52,7 +52,7 @@
 | [Slow](/spell/level/3/slow.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Up to six creatures | 1 minute (C) |
 | [Speak with Dead](/spell/level/3/speak-with-dead.md) | Necromancy | V, S, M | Normal Action | 10 ft. | One corpse with a mouth | 10 minutes |
 | [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Normal Action | — | Each plant in a 30-ft. Aura | 10 minutes |
-| [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Normal Action | — | Each creature you choose in a 15-ft. Aura | 10 minutes (C) |
+| [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Normal Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
 | [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | Each creature in a 10-ft. Aura | 1 minute (C) |
 | [Stinking Cloud](/spell/level/3/stinking-cloud.md) | Conjuration | V, S, M | Normal Action | 90 ft. | Each creature in a 20-ft. radius Sphere | 1 minute (C) |
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
@@ -60,7 +60,7 @@
 | [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Normal Action | 90 ft. | Each creature in a 10-ft. Aura | — |
 | [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Each creature in a 10-ft. × 30-ft. Line | — |
 | [Tiny Hut](/spell/level/3/tiny-hut.md) | Evocation | V, S, M | 1 minute (R) | Reach | Each creature in a 10-ft. radius Sphere | 8 hours |
-| [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny object | 8 hours |
+| [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny, nonmagical object | 8 hours |
 | [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Normal Action | Reach | One creature | 1 hour |
 | [Vampiric Touch](/spell/level/3/vampiric-touch.md) | Necromancy | V, S | Normal Action | — | Self | 1 minute (C) |
 | [Wall of Sand](/spell/level/3/wall-of-sand.md) | Evocation | V, S, M | Normal Action | 90 ft. | — | 10 minutes (C) |

@@ -56,14 +56,14 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Everything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
+| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Anything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |
 | [Flame Arrows](/spell/level/3/flame-arrows.md) | Transmutation | V, S | Normal Action | Reach | One quiver | 1 hour (C) |
 | [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
 | [Meld into Stone](/spell/level/3/meld-into-stone.md) | Transmutation | V, S | Normal Action (R) | Reach | A stone object or surface large enough to contain your body | 8 hours |
-| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One thing | 8 hours |
+| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature, place, or object no larger than **10** feet | 8 hours |
 | [Plant Growth](/spell/level/3/plant-growth.md) | Transmutation | V, S | Normal Action | 150 ft. | Special | — |
 | [Protection from Energy](/spell/level/3/protection-from-energy.md) | Abjuration | V, S | Normal Action | Reach | One thing | 1 hour (C) |
 | [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature that died within the past minute | — |

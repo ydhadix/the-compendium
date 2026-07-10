@@ -119,6 +119,6 @@
 | [Scorching Stride](/spell/level/3/scorching-stride.md) | Transmutation | V, S | Bonus Action | — | Self | 1 minute (C) |
 | [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Normal Action | Unlimited | One creature | — |
 | [Slow](/spell/level/3/slow.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Up to six creatures | 1 minute (C) |
-| [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny object | 8 hours |
+| [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny, nonmagical object | 8 hours |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |

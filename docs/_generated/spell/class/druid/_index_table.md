@@ -93,7 +93,7 @@
 |---|---|---|---|---|---|---|
 | [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Normal Action | — | Each creature in a 30-ft. Aura | 1 minute (C) |
 | [Call Lightning](/spell/level/3/call-lightning.md) | Conjuration | V, S | Normal Action | 120 ft. | Everything in a 10-ft. radius, 60-ft. Cylinder | 10 minutes (C) |
-| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Everything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
+| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Anything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |

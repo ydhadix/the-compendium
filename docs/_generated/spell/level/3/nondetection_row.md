@@ -1,1 +1,1 @@
-| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One thing | 8 hours |
+| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature, place, or object no larger than **10** feet | 8 hours |
