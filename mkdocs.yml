@@ -132,6 +132,7 @@ nav:
           - Class Overview:         character/class/barbarian/index.md
         - Bard:
           - Class Overview:         character/class/bard/index.md
+          - College of Eloquence:   character/class/bard/eloquence.md
           - College of Lore:        character/class/bard/lore.md
         - Cleric:
           - Class Overview:         character/class/cleric/index.md
