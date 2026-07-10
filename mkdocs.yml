@@ -125,45 +125,45 @@ nav:
       - Classes:
         - Class Overview:           character/class/index.md
         - Artificer:
-          - Class Overview:         character/class/artificer/index.md
+          - Artificer Overview:     character/class/artificer/index.md
           - Armorer:                character/class/artificer/armorer.md
           - Cartographer:           character/class/artificer/cartographer.md
-        - Barbarian (WIP):
-          - Class Overview:         character/class/barbarian/index.md
+        - Barbarian:
+          - Barbarian Overview:     character/class/barbarian/index.md
         - Bard:
-          - Class Overview:         character/class/bard/index.md
+          - Bard Overview:          character/class/bard/index.md
           - College of Eloquence:   character/class/bard/eloquence.md
           - College of Lore:        character/class/bard/lore.md
           - College of Swords:      character/class/bard/swords.md
         - Cleric:
-          - Class Overview:         character/class/cleric/index.md
+          - Cleric Overview:        character/class/cleric/index.md
           - Arcana Domain:          character/class/cleric/arcana.md
         - Druid (WIP):
-          - Class Overview:         character/class/druid/index.md
+          - Druid Overview:         character/class/druid/index.md
         - Fighter:
-          - Class Overview:         character/class/fighter/index.md
+          - Fighter Overview:       character/class/fighter/index.md
           - Eldritch Knight:        character/class/fighter/eldritch-knight.md
         - Monk:
-          - Class Overview:         character/class/monk/index.md
+          - Monk Overview:          character/class/monk/index.md
         - Paladin (WIP):
-          - Class Overview:         character/class/paladin/index.md
+          - Paladin Overview:       character/class/paladin/index.md
         - Ranger:
-          - Class Overview:         character/class/ranger/index.md
+          - Ranger Overview:        character/class/ranger/index.md
           - Primal Imprints:        character/class/ranger/imprint/index.md
           - "---": "sep:"
           - Beast Master:           character/class/ranger/beast-master.md
         - Rogue (WIP):
-          - Class Overview:         character/class/rogue/index.md
+          - Rogue Overview:         character/class/rogue/index.md
         - Sorcerer (WIP):
-          - Class Overview:         character/class/sorcerer/index.md
+          - Sorcerer Overview:      character/class/sorcerer/index.md
           - Metamagic:              character/class/sorcerer/metamagic/index.md
           - "---": "sep:"
         - Warlock (WIP):
-          - Class Overview:         character/class/warlock/index.md
+          - Warlock Overview:       character/class/warlock/index.md
           - Eldritch Invocations:   character/class/warlock/invocation/index.md
           - "---": "sep:"
         - Wizard (WIP):
-          - Class Overview:         character/class/wizard/index.md
+          - Wizard Overview:        character/class/wizard/index.md
       - Feats:
         - Feats Overview:           character/feat/index.md
         - Origin Feats:             character/feat/origin/index.md

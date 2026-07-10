@@ -5,7 +5,7 @@ Monks are martial artists who channel a wellspring of inner energy, striking wit
 ## Class Table
 | Level | Features | Martial Arts Die | Unarmored Movement |
 |---|---|---|---|
-|  1 | [Unarmored Stance](#1-unarmored-stance),<br>[Ki](#1-ki),<br>[Martial Arts](#1-martial-arts) | d6 | +10 ft. |
+|  1 | [Ki](#1-ki),<br>[Unarmored Stance](#1-unarmored-stance),<br>[Martial Arts](#1-martial-arts) | d6 | +10 ft. |
 |  2 | [Deflecting Palm](#2-deflecting-palm),<br>[Slow Fall](#2-slow-fall) | d6 | +10 ft. |
 |  3 | [Monk Subclass](#3-monk-subclass) | d6 | +10 ft. |
 |  4 | [Stunning Strike](#4-stunning-strike) | d8 | +15 ft. |
@@ -49,15 +49,6 @@ When you choose Monk as your Secondary Class, you gain the following proficienci
 
 ## Class Features
 
-### 1: Unarmored Stance
-While you are Unarmored and don't have a Shield donned, you gain the following benefits:
-#### Unarmored Defense
-Your base Armor Class becomes **8 + Monk Ability + Secondary Ability + PB**.
-#### Unarmored Movement
-Your Speed increases, and you can move along vertical surfaces and across liquids without falling during your movement. The [Monk Table](#class-table) shows your bonus Speed, and when this bonus increases.
-#### Unarmored Grapple
-You can use your Monk Ability to Grapple or Shove.
-
 ### 1: Ki
 You can spend Ki to use Monk Features. You have Ki equal to **LV**. If an effect requires a save, its DC is **8 + Secondary Ability + PB**.
 ###### Regaining Ki
@@ -67,6 +58,17 @@ After a Short Rest, you regain all uses of Ki.
 { .subtitle }
 
 Before you roll Initiative, you can regain all uses of Ki.
+
+
+### 1: Unarmored Stance
+While you are Unarmored and don't have a Shield donned, you gain the following benefits:
+#### Unarmored Defense
+Your base Armor Class becomes **8 + Dexterity + Secondary Ability + PB**.
+#### Unarmored Movement
+Your Speed increases, and you can move along vertical surfaces and across liquids without falling during your movement. The [Monk Table](#class-table) shows your bonus Speed, and when this bonus increases.
+#### Unarmored Grapple
+You can use your Monk Ability to Grapple or Shove.
+
 
 ### 1: Martial Arts
 Your Attacks with Monk Weapons can use your Monk Ability, and you can use your Martial Arts Die instead of the Attack's normal Damage Dice.

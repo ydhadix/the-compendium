@@ -10,7 +10,7 @@ Paladins are holy warriors bound by a sacred oath, blending martial might with d
 | Level | Features | Channel Divinity |
 |---|---|---|
 |  1 | [Weapon Mastery](#1-weapon-mastery) | 1 |
-|  2 | [Fighting Style](#2-fighting-style),<br>[Spellcasting](#2-spellcasting) | 1 |
+|  2 | [Spellcasting](#2-spellcasting),<br>[Fighting Style](#2-fighting-style) | 1 |
 |  3 | [Paladin Subclass](#3-paladin-subclass) | 1 |
 |  4 | <level 4 feature> | 1 |
 |  5 | [Extra Attack](#5-extra-attack) | 1 |
@@ -59,12 +59,6 @@ You learn **2** Weapon Masteries.
 After a Long Rest, you can replace one of your Weapon Masteries.
 
 
-### 2: Fighting Style
-You gain a Fighting Style feat.
-###### Changing Fighting Styles
-Whenever you level up, you can change your Fighting Style feat.
-
-
 ### 2: Spellcasting
 | Level | Spells Prepared | 1st | 2nd | 3rd |
 |---|---|---|---|---|
@@ -91,6 +85,12 @@ After a Long Rest, you can replace one of your Prepared Spells.
 The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
 After a Long Rest, you regain all your Spell Slots.
+
+
+### 2: Fighting Style
+You gain a Fighting Style feat.
+###### Changing Fighting Styles
+Whenever you level up, you can change your Fighting Style feat.
 
 
 ### 3: Paladin Subclass

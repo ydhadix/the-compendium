@@ -3,10 +3,10 @@ Artificers are inventors who channel magic through tools, devices, and infused c
 { .subtitle }
 
 ## Class Table
-| Level | Features | Improvise | Infused Items |
+| Level | Features | Infused Items | Improvise |
 |---|---|---|---|
-|  1 | [Spellcasting](#1-spellcasting),<br>[Tradesman](#1-tradesman),<br>[Infuse Items](#1-infuse-items) | - | 2 |
-|  2 | [Fighting Style](#2-fighting-style),<br>[Improvise](#2-improvise) | 3 | 3 |
+|  1 | [Infuse Items](#1-infuse-items),<br>[Tradesman](#1-tradesman),<br>[Spellcasting](#1-spellcasting) | - | 2 |
+|  2 | [Improvise](#2-improvise),<br>[Fighting Style](#2-fighting-style) | 3 | 3 |
 |  3 | [Artificer Subclass](#3-artificer-subclass) | 3 | 3 |
 |  4 | [Magic Item Adept](#4-magic-item-adept) | 4 | 4 |
 |  5 | [Extra Attack](#5-extra-attack) | 4 | 4 |
@@ -49,33 +49,26 @@ When you choose Artificer as your Secondary Class, you gain the following profic
 
 ## Class Features
 
-### 1: Spellcasting
-| Level | Cantrips Known | Spells Prepared | 1st | 2nd | 3rd |
-|---|---|---|---|---|---|
-|  1 | 2 |  2 | 2 | - | - |
-|  2 | 2 |  3 | 2 | - | - |
-|  3 | 2 |  4 | 3 | - | - |
-|  4 | 3 |  5 | 3 | - | - |
-|  5 | 3 |  6 | 4 | 2 | - |
-|  6 | 3 |  6 | 4 | 2 | - |
-|  7 | 3 |  7 | 4 | 3 | - |
-|  8 | 3 |  7 | 4 | 3 | - |
-|  9 | 3 |  9 | 4 | 3 | 2 |
-| 10 | 4 |  9 | 4 | 3 | 2 |
-| 11 | 4 | 10 | 4 | 3 | 3 |
+### 1: Infuse Items
+After a Long Rest, you can infuse Magic Item effects into appropriate nearby items, creating temporary items as needed. Temporary items have no Value and vanish once their Infusions end.
 
-#### Spellcasting Ability
-Your Artificer Ability is your Spellcasting Ability.
-#### Spellcasting Focus
-Artificer Spells use any Artisan's Tool or Infused Item as a Spellcasting Focus.
-#### Spells Prepared
-The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
-###### Changing Spells
-After a Long Rest, you can replace one of your known Cantrips and one of your Prepared Spells.
-#### Spell Slots
-The Spellcasting table shows how many Spell Slots you have.
-###### Regaining Spell Slots
-After a Long Rest, you regain all your Spell Slots.
+After you infuse an item, you can Attune to it immediately.
+
+The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end.
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/infusion/uncommon/alchemy-jug_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/cap-of-water-breathing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/helm-of-awareness_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-mind-sharpening_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/sending-stones_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/wand-of-secrets_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-returning_row.md"
+| Any [Artisan's Tool](/item/trade/artisan/index.md) | Tool (Artisan's Tool) | — | — |
+| [+1 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
+| [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
+| [+1 Shield](/item/armor/shield/index.md) | Armor (Any Shield) | — | — |
 
 
 ### 1: Tradesman
@@ -125,32 +118,33 @@ Tiny Construct, Neutral
 | Damage | 1d6 + DEX Force Damage |
 
 
-### 1: Infuse Items
-After a Long Rest, you can infuse Magic Item effects into appropriate nearby items, creating temporary items as needed. Temporary items have no Value and vanish once their Infusions end.
+### 1: Spellcasting
+| Level | Cantrips Known | Spells Prepared | 1st | 2nd | 3rd |
+|---|---|---|---|---|---|
+|  1 | 2 |  2 | 2 | - | - |
+|  2 | 2 |  3 | 2 | - | - |
+|  3 | 2 |  4 | 3 | - | - |
+|  4 | 3 |  5 | 3 | - | - |
+|  5 | 3 |  6 | 4 | 2 | - |
+|  6 | 3 |  6 | 4 | 2 | - |
+|  7 | 3 |  7 | 4 | 3 | - |
+|  8 | 3 |  7 | 4 | 3 | - |
+|  9 | 3 |  9 | 4 | 3 | 2 |
+| 10 | 4 |  9 | 4 | 3 | 2 |
+| 11 | 4 | 10 | 4 | 3 | 3 |
 
-After you infuse an item, you can Attune to it immediately.
-
-The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end.
-
-| Item | Type | Rarity | Attunement |
-|---|---|---|---|
---8<-- "_generated/item/magic/infusion/uncommon/alchemy-jug_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/cap-of-water-breathing_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/helm-of-awareness_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/ring-of-mind-sharpening_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/sending-stones_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/wand-of-secrets_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/weapon-of-returning_row.md"
-| Any [Artisan's Tool](/item/trade/artisan/index.md) | Tool (Artisan's Tool) | — | — |
-| [+1 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
-| [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
-| [+1 Shield](/item/armor/shield/index.md) | Armor (Any Shield) | — | — |
-
-
-### 2: Fighting Style
-You gain a Fighting Style feat.
-###### Changing Fighting Styles
-Whenever you level up, you can change your Fighting Style feat.
+#### Spellcasting Ability
+Your Artificer Ability is your Spellcasting Ability.
+#### Spellcasting Focus
+Artificer Spells use any Artisan's Tool or Infused Item as a Spellcasting Focus.
+#### Spells Prepared
+The Spellcasting table shows how many Cantrips you know and how many Spells you prepare.
+###### Changing Spells
+After a Long Rest, you can replace one of your known Cantrips and one of your Prepared Spells.
+#### Spell Slots
+The Spellcasting table shows how many Spell Slots you have.
+###### Regaining Spell Slots
+After a Long Rest, you regain all your Spell Slots.
 
 
 ### 2: Improvise
@@ -169,6 +163,12 @@ Reaction, 1 Improvise use
 { .subtitle }
 
 Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Artificer Ability** to that check or save.
+
+
+### 2: Fighting Style
+You gain a Fighting Style feat.
+###### Changing Fighting Styles
+Whenever you level up, you can change your Fighting Style feat.
 
 
 ### 3: Artificer Subclass

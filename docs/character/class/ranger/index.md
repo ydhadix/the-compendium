@@ -6,7 +6,7 @@ Rangers are hunters and trackers at home in the wilds, blending martial skill, p
 | Level | Features | Marked Target | Mark Damage | Primal Imprint |
 |---|---|---|---|---|
 |  1 | [Marked Target](#1-marked-target),<br>[Primal Imprint](#1-primal-imprint),<br>[Weapon Mastery](#1-weapon-mastery) | 2 | 1d6 | 2 |
-|  2 | [Fighting Style](#2-fighting-style),<br>[Spellcasting](#2-spellcasting) | 2 | 1d6 | 2 |
+|  2 | [Spellcasting](#2-spellcasting),<br>[Fighting Style](#2-fighting-style) | 2 | 1d6 | 2 |
 |  3 | [Ranger Subclass](#3-ranger-subclass) | 2 | 1d6 | 2 |
 |  4 | [Imprinting Adept](#4-imprinting-adept) | 3 | 1d8 | 3 |
 |  5 | [Extra Attack](#5-extra-attack) | 3 | 1d8 | 3 |
@@ -80,12 +80,6 @@ You learn **2** Weapon Masteries.
 After a Long Rest, you can replace one of your Weapon Masteries.
 
 
-### 2: Fighting Style
-You gain a Fighting Style feat.
-###### Changing Fighting Styles
-Whenever you level up, you can change your Fighting Style feat.
-
-
 ### 2: Spellcasting
 | Level | Spells Prepared | 1st | 2nd | 3rd |
 |---|---|---|---|---|
@@ -112,6 +106,12 @@ After a Long Rest, you can replace one of your Prepared Spells.
 The Spellcasting table shows how many Spell Slots you have.
 ###### Regaining Spell Slots
 After a Long Rest, you regain all your Spell Slots.
+
+
+### 2: Fighting Style
+You gain a Fighting Style feat.
+###### Changing Fighting Styles
+Whenever you level up, you can change your Fighting Style feat.
 
 
 ### 3: Ranger Subclass
