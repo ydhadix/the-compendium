@@ -1,5 +1,5 @@
 ### Thirsting Blade
-Prerequisite: Warlock 5, Pact of the Blade
+Prerequisite: Level 5 Warlock, Pact of the Blade
 { .subtitle }
 
-When you take the Attack Action and Attack with your Pact Weapon, you can make one additional Attack as part of that Action.
+Before you Attack with your Pact Weapon, you can make one additional Attack with it.

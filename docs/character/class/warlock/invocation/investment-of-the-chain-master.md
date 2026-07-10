@@ -1,14 +1,14 @@
 ### Investment of the Chain Master
-Prerequisite: Warlock 5, Pact of the Chain
+Prerequisite: Level 5 Warlock, Pact of the Chain
 { .subtitle }
 
-When you cast _Find Familiar_, your familiar gains the following benefits:
+After you cast _Find Familiar_, your familiar gains the following benefits:
 
-- Your familiar gains a **40**-foot Fly or Swim Speed (your choice).
-- Whenever your familiar deals Physical Damage, you can change it to Necrotic or Radiant Damage.
-- When your familiar forces a Saving Throw, it uses your Spell Save DC.
+- Your familiar gains a **40**-foot Fly or Swim Speed.
+- Before your familiar deals Physical Damage, you can replace it with Necrotic or Radiant Damage.
+- Your familiar uses your Spell Save DC.
 ###### Resilient Familiar
 Reaction
 { .subtitle }
 
-Before your familiar takes damage, you can give it Resistance to that damage.
+Before your familiar takes damage, it can gain Resistance to that damage.

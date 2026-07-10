@@ -1,5 +1,5 @@
 ### Gift of the Depths
-Prerequisite: Warlock 5
+Prerequisite: Level 5 Warlock
 { .subtitle }
 
 You can breathe underwater and gain a Swim Speed equal to your Speed. You also learn _Water Breathing_.

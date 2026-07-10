@@ -1,5 +1,5 @@
 ### Witch Sight
-Prerequisite: Warlock 10
+Prerequisite: Level 10 Warlock
 { .subtitle }
 
 You gain **30** feet of Truesight.

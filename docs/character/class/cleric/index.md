@@ -168,7 +168,7 @@ The benefit you chose for Blessed Strikes improves.
 ##### Divine Strike
 The extra damage becomes **2d8**.
 ##### Potent Spellcasting
-Before you deal damage with a Cleric Cantrip, you can give one creature within **60** feet **Cleric Ability × 2** Temporary Hit Points.
+Before you deal damage with a Cleric Cantrip, one creature within **60** feet gains **Cleric Ability × 2** Temporary Hit Points.
 
 
 ### 11: Divine Intervention

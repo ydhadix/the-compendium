@@ -1,5 +1,5 @@
 ### Fiendish Vigor
-Prerequisite: Warlock 2
+Prerequisite: Level 2 Warlock
 { .subtitle }
 
-You learn _False Life_ and can cast it on yourself without a Spell Slot. When you cast it this way, you always gain the maximum Temporary Hit Points.
+You learn _False Life_ and can cast it on yourself without a Spell Slot. After you cast it this way, you gain the maximum Temporary Hit Points.

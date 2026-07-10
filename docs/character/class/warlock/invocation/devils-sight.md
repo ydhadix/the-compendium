@@ -1,5 +1,5 @@
 ### Devil's Sight
-Prerequisite: Warlock 2
+Prerequisite: Level 2 Warlock
 { .subtitle }
 
 You gain **120** feet of Devil's Sight.

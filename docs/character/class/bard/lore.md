@@ -17,7 +17,7 @@ You have Proficiency in any **3** Skills.
 Reaction, 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use
 { .subtitle }
 
-Before a creature within 60 feet makes a Damage Roll or succeeds on an Ability Check or Attack Roll, you can reduce the total by **your Inspiration Die**.
+Before a creature within 60 feet makes a Damage Roll or succeeds on an Ability Check or Attack Roll, you can reduce the total by **Inspiration Die**.
 
 ### 6: Magical Discovery
 You learn **2** Cleric, Druid, or Wizard Spells as Bard Spells.
@@ -28,4 +28,4 @@ Whenever you gain a Level, you can replace one of these Spells.
 Free Action, 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use
 { .subtitle }
 
-Before you fail an Ability Check or Attack Roll, you can add **your Inspiration Die** to the total.  If the roll still fails, you don't expend a use of Bardic Inspiration.
+Before you fail an Ability Check or Attack Roll, you can add **Inspiration Die** to the total.  If the Check or Attack Roll still fails, you don't expend a use of Bardic Inspiration.

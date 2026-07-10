@@ -1,5 +1,5 @@
 ### Heat Tolerance
-Ranger Level 4
+Level 4 Ranger
 { .subtitle }
 
-You ignore Difficult Terrain caused by sand, and you gain Protection from Extreme Heat and Fire Damage.
+You have Fire Resistance and ignore Difficult Terrain caused by sand.

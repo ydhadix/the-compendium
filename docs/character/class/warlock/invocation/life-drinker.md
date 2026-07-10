@@ -1,10 +1,10 @@
 ### Life Drinker
-Prerequisite: Warlock 7, Pact of the Blade
+Prerequisite: Level 7 Warlock, Pact of the Blade
 { .subtitle }
 
 1 use per Turn
 { .subtitle }
 
-Before you damage a creature with your Pact Weapon, you can expend and roll **1** Hit Die and add your Warlock Ability. You deal that much extra Necrotic, Psychic, or Radiant Damage (your choice) to the target and regain that many Hit Points.
+Before you deal damage with your Pact Weapon, you can expend **1** Hit Die and add **HD + Warlock Ability** Necrotic, Psychic, or Radiant Damage, and heal by the damage dealt.
 
-If you don't expend a Hit Die, you instead deal **1d6** Necrotic, Psychic, or Radiant Damage.
+If you don't expend a Hit Die, you instead add **1d6** Necrotic, Psychic, or Radiant Damage.
