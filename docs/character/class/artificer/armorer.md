@@ -24,38 +24,31 @@ Your specialization grants you additional Spells. You learn these Spells at the 
 You have Proficiency with Heavy Armor.
 
 You have Proficiency and Expertise with Smith's Tools.
-
 #### Fast Crafting
 You craft Armor in half the time.
 
-### 3: Arcane Armor
 
+### 3: Arcane Armor
 After a Short Rest, you can turn a suit of Armor within your Reach into Arcane Armor. You can only have **1** Arcane Armor at a time.
 
 Arcane Armor has the following benefits:
-
 ###### Second Skin
-
 While the Armor is donned, it can't be removed against your will, and you ignore its Strength requirements.
-
 ###### Modular Design
-
 The Armor counts as **4** separate items for the purpose of Magic Items and Infusions: a chest piece, boots, helm, and weapon.
-
 ###### Quick Equip
 Utilize Action
 { .subtitle }
 
 You can don or doff the Armor.
 
+
 ### 3: Armor Model
 Choose one of the following Armor Models for your Arcane Armor.
 
 Each Armor Model has a special Weapon. Attacks with this Weapon can use your Artificer Ability.
-
 ###### Changing Armor Model
 After a Short Rest, you can change your Armor Model.
-
 ###### Quick Changing Armor Model
 Bonus Action, 1 [Improvise](index.md#2-improvise) use
 { .subtitle }
@@ -88,6 +81,7 @@ Your Speed increases by **5** feet.
 ###### Dampening Field
 You have Advantage on Stealth Checks.
 
+
 ### 6: Armor Modifications
 You can have **2** additional [Infused Items](index.md#1-infuse-items). These Infused Items are part of your Arcane Armor.
 
@@ -98,12 +92,10 @@ Your Arcane Armor Weapons gain an additional Damage Die.
 Your Armor Models gain additional benefits:
 
 ##### Armor Model: Dreadnaught
-
 ###### Giant Stature
 Before you use Giant Stature, you can become Large or Huge, your Reach increases by an additional **5** feet, and you have Advantage on Strength Checks and Fortitude Saves.
 
 ##### Armor Model: Guardian
-
 ###### Offensive Field
 Reaction, Artificer Ability uses per Long Rest
 { .subtitle }
@@ -116,10 +108,8 @@ After a Huge or smaller creature ends its Turn within **30** feet, you can force
 | Success | No effect. |
 
 ##### Armor Model: Infiltrator
-
 ###### Lightning Launcher
 After you damage a creature with your Lightning Launcher, it emits Bright Light out to **5** feet and Dim Light for an additional **5** feet, and has Disadvantage on Attack Rolls against you until the start of your next Turn.
-
 ###### Aerial Dash
 Bonus Action, Artificer Ability uses per Long Rest
 { .subtitle }

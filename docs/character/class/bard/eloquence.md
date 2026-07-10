@@ -1,5 +1,5 @@
 # College of Eloquence Bard
-`Description TBD`
+Bards of the College of Eloquence master the art of oratory, wielding a well-reasoned argument as deftly as any blade. They blend logic and theatrical wordplay to win over skeptics and stir the hearts of any audience.
 { .subtitle }
 
 

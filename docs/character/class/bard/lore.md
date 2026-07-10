@@ -1,5 +1,5 @@
 # College of Lore Bard
-`Description TBD`
+Bards of the College of Lore gather knowledge from every source, from scholarly tomes to peasant tales. They hold audiences spellbound, then leave them questioning all they once held true, loyal to nothing but beauty and truth.
 { .subtitle }
 
 
