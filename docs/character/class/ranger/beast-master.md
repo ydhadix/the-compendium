@@ -2,7 +2,7 @@
 Beast Masters fight alongside a primal companion, a loyal beast bonded to them as a partner in battle.
 { .subtitle }
 
-## Beast Master Table
+
 | Level | Features |
 |---|---|
 | 3 | [Beast Master Spells](#3-beast-master-spells),<br>[Primal Companion](#3-primal-companion) |
@@ -15,7 +15,7 @@ Beast Masters fight alongside a primal companion, a loyal beast bonded to them a
 | [Sea](#primal-companion-sea) |
 | [Sky](#primal-companion-sky) |
 
-## Beast Master Features
+## Subclass Features
 ### 3: Beast Master Spells
 Your specialization grants you additional Spells. You learn these Spells at the corresponding Ranger Levels.
 

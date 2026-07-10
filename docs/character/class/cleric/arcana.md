@@ -1,15 +1,15 @@
-# Arcana
+# Arcana Domain
 Clerics of the Arcana domain bridge divine and arcane magic, wielding wizardly Spells alongside the gifts of their deity.
 { .subtitle }
 
-## Arcana Table
+
 | Level | Features |
 |---|---|
-| 3 | [Arcana Spells](#3-arcana-spells),<br>[Arcane Initiate](#3-arcane-initiate),<br>[Turn Arcane](#3-turn-arcane) |
+| 3 | [Arcana Spells](#3-arcana-spells), [Arcane Initiate](#3-arcane-initiate), [Turn Arcane](#3-turn-arcane) |
 | 6 | [Spell Breaker](#6-spell-breaker) |
 | 9 | [Arcane Mastery](#9-arcane-mastery) |
 
-## Arcana Features
+## Subclass Features
 ### 3: Arcana Spells
 Your specialization grants you additional Spells. You learn these Spells at the corresponding Cleric Levels.
 

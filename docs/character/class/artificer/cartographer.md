@@ -2,10 +2,10 @@
 Cartographers chart the world and bend distance to their will, guiding their allies along the safest paths. Their Adventurer's Atlas connects a party, letting them slip through space to one another's side.
 { .subtitle }
 
-## Cartographer Table
+
 | Level | Features |
 |---|---|
-| 3 | [Cartographer Spells](#3-cartographer-spells),<br>[Tools of the Trade](#3-tools-of-the-trade),<br>[Surveyor's Assistant](#3-surveyors-assistant),<br>[Adventurer's Atlas](#3-adventurers-atlas) |
+| 3 | [Cartographer Spells](#3-cartographer-spells), [Tools of the Trade](#3-tools-of-the-trade), [Surveyor's Assistant](#3-surveyors-assistant), [Adventurer's Atlas](#3-adventurers-atlas) |
 | 6 | [Ingenious Movement](#6-ingenious-movement) |
 | 9 | [Superior Surveyor](#9-superior-surveyor) |
 

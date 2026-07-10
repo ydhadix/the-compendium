@@ -2,10 +2,10 @@
 Armorers forge arcane armor into an extension of themselves, reshaping it for defense or assault as the fight demands.
 { .subtitle }
 
-## Armorer Table
+
 | Level | Features |
 |---|---|
-| 3 | [Armorer Spells](#3-armorer-spells),<br>[Tools of the Trade](#3-tools-of-the-trade),<br>[Arcane Armor](#3-arcane-armor),<br>[Armor Model](#3-armor-model) |
+| 3 | [Armorer Spells](#3-armorer-spells), [Tools of the Trade](#3-tools-of-the-trade), [Arcane Armor](#3-arcane-armor), [Armor Model](#3-armor-model) |
 | 6 | [Armor Modifications](#6-armor-modifications) |
 | 9 | [Perfected Armor](#9-perfected-armor) |
 
@@ -51,7 +51,7 @@ You can don or doff the Armor.
 ### 3: Armor Model
 Choose one of the following Armor Models for your Arcane Armor.
 
-Each Armor Model has a special Weapon. Attacks with this Weapon can use **Artificer Ability**.
+Each Armor Model has a special Weapon. Attacks with this Weapon can use your Artificer Ability.
 
 ###### Changing Armor Model
 After a Short Rest, you can change your Armor Model.

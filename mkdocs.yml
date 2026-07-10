@@ -132,9 +132,10 @@ nav:
           - Class Overview:         character/class/barbarian/index.md
         - Bard:
           - Class Overview:         character/class/bard/index.md
+          - College of Lore:        character/class/bard/lore.md
         - Cleric:
           - Class Overview:         character/class/cleric/index.md
-          - Arcana:                 character/class/cleric/arcana.md
+          - Arcana Domain:          character/class/cleric/arcana.md
         - Druid (WIP):
           - Class Overview:         character/class/druid/index.md
         - Fighter:

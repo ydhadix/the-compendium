@@ -113,7 +113,7 @@ Choose a Bard Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-|  |  |
+| [College of Lore](lore.md) | `Description TBD` |
 
 
 ### 5: Countercharm

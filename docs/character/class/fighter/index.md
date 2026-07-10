@@ -61,10 +61,10 @@ Bonus Action, 1 Situational Awareness use
 
 You heal by **1d10 + LV**, then move up to half your Speed without provoking Opportunity Attacks.
 ##### Situational Awareness: Tactical Mind
-1 Situational Awareness use
+1 use of Situational Awareness
 { .subtitle }
 
-Before you fail a check, you can add **1d10** to the check. If the check still fails, you don't expend a use of Situational Awareness.
+Before you fail an Ability Check, you can add **1d10** to the total.  If the roll still fails, you don't expend a use of Situational Awareness.
 
 
 ### 1: Fighting Style

@@ -2,7 +2,7 @@
 Eldritch Knights temper martial skill with arcane magic, binding weapon and Spell into a single deadly art.
 { .subtitle }
 
-## Eldritch Knight Table
+
 | Level | Features |
 |---|---|
 | 3 | [Spellcasting](#3-spellcasting),<br>[War Pact](#3-war-pact),<br>[Arcane Charge](#3-arcane-charge) |
@@ -13,9 +13,7 @@ Eldritch Knights temper martial skill with arcane magic, binding weapon and Spel
 |---|---|
 | Secondary Ability | Intelligence |
 
-
-## Eldritch Knight Features
-
+## Subclass Features
 ### 3: Spellcasting
 | Level | Cantrips Known | Spells Prepared | 1st | 2nd |
 |---|---|---|---|---|
