@@ -139,6 +139,10 @@
   position: absolute;
   left: -1.25em;
   color: var(--clr-accent);
+  /* Pin the glyph's font so ◆ renders at a consistent size everywhere. Inside a
+     table cell the list would otherwise inherit the cell's "Alegreya Sans SC",
+     which draws this diamond far smaller than the system body font. */
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
   /* Shrink with scale (not font-size) so the glyph stays vertically centered on
      the first line — a smaller font-size shortens its line box and rides high. */
   transform: scale(0.55);

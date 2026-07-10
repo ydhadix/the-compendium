@@ -12,5 +12,4 @@
 | Duration | — |
 
 ##### Spell Effect
-!!! note "In progress"
-    This spell's effect is still being written.
+The Spell the target is casting fails if its Level is this Spell's Level or less. For a Spell of a higher Level, make a Check using your Spellcasting Ability against a DC of **10** plus that Spell's Level; on a success, that Spell fails.

@@ -12,5 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-!!! note "In progress"
-    This spell's effect is still being written.
+The target has Psychic Resistance and Will Protection.
+
+##### At Higher Levels
+Add **1** target per additional Spell Level.

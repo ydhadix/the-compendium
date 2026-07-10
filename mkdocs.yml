@@ -262,7 +262,6 @@ nav:
 
     - Bastion Blueprints:           bastion/index.md
 
-    - "---": "sep:"
     - Spelljammer Schematic:
       - Spelljammer Overview:       spelljammer/index.md
       - Ship Encounters:            spelljammer/encounter.md

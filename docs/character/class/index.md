@@ -1,4 +1,4 @@
-# Class Codex
+# Classes
 A character's Class is their chosen calling and craft, the source of their signature powers. These pages hold every class, along with the rules for leveling up and multiclassing.
 { .subtitle }
 

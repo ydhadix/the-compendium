@@ -12,5 +12,4 @@
 | Duration | 24 hours |
 
 ##### Spell Effect
-!!! note "In progress"
-    This spell's effect is still being written.
+Each target can breathe underwater.

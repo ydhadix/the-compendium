@@ -12,5 +12,11 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-!!! note "In progress"
-    This spell's effect is still being written.
+The area is Heavily Obscured.
+
+After a target's Turn begins, it makes a Fortitude Save.
+
+| | |
+|---|---|
+| Fail | You sicken the target until the end of its Turn. While Sickened, it can't take an Action or a Bonus Action. |
+| Success | No effect. |

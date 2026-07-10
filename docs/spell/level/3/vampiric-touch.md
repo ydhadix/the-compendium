@@ -12,5 +12,17 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-!!! note "In progress"
-    This spell's effect is still being written.
+You make a Melee Spell Attack against one creature within Reach.
+
+| | |
+|---|---|
+| Hit | You deal **3d6** Necrotic Damage and heal by half the Necrotic Damage dealt. |
+
+###### Touch
+Magic Action
+{ .subtitle }
+
+You repeat the Attack against a creature within Reach.
+
+##### At Higher Levels
+Add **1d6** Necrotic Damage per additional Spell Level.

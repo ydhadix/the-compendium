@@ -12,5 +12,19 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
+You summon a Fey Spirit. Choose Fuming, Mirthful, or Tricksy.
+
+This Spell ends if the Spirit has **0** Hit Points.
+
+###### Command
+Free Action
+{ .subtitle }
+
+You command the Spirit to move and take any Action available to it.
+
+##### At Higher Levels
+The Spell's Level determines the Spirit's Armor Class, Hit Points, and attack damage.
+
+##### Fey Spirit
 !!! note "In progress"
-    This spell's effect is still being written.
+    This summon's stat block is still being written.

@@ -12,5 +12,10 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
+A Large, horselike Phantom Steed appears in an unoccupied space within Range, equipped with a saddle, bit, and bridle. You or another creature can ride it. Any of this equipment vanishes if it is carried more than **10** feet from the Steed.
+
+This Spell ends if the Steed takes any damage. After this Spell ends, the Steed fades over **1** minute, giving its rider time to dismount.
+
+##### Phantom Steed
 !!! note "In progress"
-    This spell's effect is still being written.
+    This summon's stat block is still being written.

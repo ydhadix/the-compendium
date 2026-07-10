@@ -12,5 +12,9 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-!!! note "In progress"
-    This spell's effect is still being written.
+Your Speed increases by **20** feet, and your movement doesn't provoke Opportunity Attacks.
+
+After you move within **5** feet of a creature or an object that isn't being worn or carried, you deal **1d6** Fire Damage to it. A creature or object can take this damage only once per Turn.
+
+##### At Higher Levels
+Add **5** feet of Speed and **1d6** Fire Damage per additional Spell Level.

@@ -12,5 +12,11 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-!!! note "In progress"
-    This spell's effect is still being written.
+Each target makes a Will Save.
+
+| | |
+|---|---|
+| Fail | You charm the target. While Charmed by you, it is Incapacitated and its Speed becomes **0** feet. |
+| Success | No effect. |
+
+This effect ends on a target if it takes damage or a creature within Reach of it Utilizes to shake it awake.
