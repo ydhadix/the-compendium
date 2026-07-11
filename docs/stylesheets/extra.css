@@ -933,6 +933,33 @@ body {
   text-align: center;
 }
 
+/* Playlist tables — a page wraps its per-section tables in
+   <div class="playlist" markdown>. The base skin above already supplies the
+   parchment/border look and hides the empty "| | |" header row; the only thing
+   these need on top is a FIXED column layout so every section's columns line up
+   into one continuous grid down the page (the default table-layout:auto sizes
+   each table to its own content, which is what makes separate tables misalign). */
+.playlist table:not([class]) { table-layout: fixed; }
+.playlist table:not([class]) tr > :nth-child(1) {
+  width: 30%;
+  white-space: normal;   /* cancel the row-label nowrap so long names can wrap */
+}
+.playlist table:not([class]) tr > :nth-child(2) { width: 40%; }
+.playlist table:not([class]) tr > :nth-child(3) { width: 30%; }
+.playlist table:not([class]) td:nth-child(3) { font-style: italic; }
+
+/* The sections are separate markdown tables but should read as ONE: frame the
+   whole set once, drop each table's own 3px frame and the runtime wrappers'
+   inter-table spacing, so every section banner butts directly onto the rows
+   above it with no seam or gap. */
+.playlist { border: 3px solid var(--clr-divider); }
+.playlist table:not([class]) { margin: 0; border: none; }
+.playlist table:not([class]) tr > :first-child { border-left: none; }
+.playlist table:not([class]) tr > :last-child { border-right: none; }
+.playlist .md-typeset__scrollwrap { padding-bottom: 0; }
+.playlist .md-typeset__table { padding-top: 0; }
+.playlist .pm-tablewrap { margin-left: 0; margin-right: 0; }   /* no mobile bleed past the frame */
+
 /* Material wraps tables in divs; zero margins so adjacent tables stack flush. */
 .md-typeset__scrollwrap { margin: 0; padding-bottom: 8px; }
 .md-typeset__table { display: block; width: 100%; padding-top: 0.1em; margin: 0; padding-left: 0; padding-right: 0; }

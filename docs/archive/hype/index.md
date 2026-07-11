@@ -7,7 +7,7 @@ banner: campaign/astral_sea.png
 !!! note "In progress"
     This page is a stub. Content is still being written.
 
-| Campaign | Description |
-|---|---|
-| [Hyperion: Exodus](exodus/index.md) | The party explores Hyperion, a floating city in the void of the Astral Sea. |
-| [Hyperion: Odyssey](odyssey/index.md) | The party sets sail deeper into the Astral Sea, towards the Astral Elven borders. |
+| Campaign | Playlist | Description |
+|---|---|---|
+| [Hyperion: Exodus](exodus/index.md) | [Playlist](exodus/playlist.md) | The party explores Hyperion, a floating city in the void of the Astral Sea. |
+| [Hyperion: Odyssey](odyssey/index.md) | [Playlist](odyssey/playlist.md) | The party sets sail deeper into the Astral Sea, towards the Astral Elven borders. |

@@ -286,13 +286,28 @@ nav:
       - Overview:                          archive/weep/index.md
       - Player Characters:                 archive/weep/characters/index.md
       - "---": "sep:"
-      - "Part 1: Dragon Heist":            archive/weep/dragon-heist/index.md
-      - "Part 2: Icewind Dale":            archive/weep/icewind-dale/index.md
-      - "Part 2.5: Tomb of Annihilation":  archive/weep/tomb-of-annihilation/index.md
-      - "Part 3: Dungeon of the Mad Mage": archive/weep/mad-mage/index.md
+      - "Part 1: Dragon Heist":
+        - Campaign Overview:               archive/weep/dragon-heist/index.md
+        - Playlist:                        archive/weep/dragon-heist/playlist.md
+      - "Part 2: Icewind Dale":
+        - Campaign Overview:               archive/weep/icewind-dale/index.md
+        - Playlist:                        archive/weep/icewind-dale/playlist.md
+      - "Part 1.5: Tomb of Annihilation":
+        - Campaign Overview:               archive/weep/tomb-of-annihilation/index.md
+        - Playlist:                        archive/weep/tomb-of-annihilation/playlist.md
+      - "Part 3: Dungeon of the Mad Mage":
+        - Campaign Overview:               archive/weep/mad-mage/index.md
+        - Playlist:                        archive/weep/mad-mage/playlist.md
+      - "Epilogue":
+        - Epilogue Overview:               archive/weep/epilogue/index.md
+        - Playlist:                        archive/weep/epilogue/playlist.md
     - HYPE:
       - Overview:                          archive/hype/index.md
       - Player Characters:                 archive/hype/characters/index.md
       - "---": "sep:"
-      - "Part 1: Exodus":                  archive/hype/exodus/index.md
-      - "Part 2: Odyssey":                 archive/hype/odyssey/index.md
+      - "Part 1: Exodus":
+        - Campaign Overview:               archive/hype/exodus/index.md
+        - Playlist:                        archive/hype/exodus/playlist.md
+      - "Part 2: Odyssey":
+        - Campaign Overview:               archive/hype/odyssey/index.md
+        - Playlist:                        archive/hype/odyssey/playlist.md
