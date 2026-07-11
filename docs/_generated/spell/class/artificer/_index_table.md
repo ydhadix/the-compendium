@@ -122,3 +122,9 @@
 | [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny, nonmagical object | 8 hours |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
+
+## 4th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Private Sanctum](/spell/level/4/private-sanctum.md) | Abjuration | V, S, M | 10 minutes | 120 ft. | A 5- to 100-ft. Cube | 24 hours |

@@ -194,3 +194,10 @@
 | [Wall of Sand](/spell/level/3/wall-of-sand.md) | Evocation | V, S, M | Normal Action | 90 ft. | — | 10 minutes (C) |
 | [Wall of Water](/spell/level/3/wall-of-water.md) | Evocation | V, S, M | Normal Action | 60 ft. | — | 10 minutes (C) |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
+
+## 4th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Conjure Minor Elementals](/spell/level/4/conjure-minor-elementals.md) | Conjuration | V, S | Normal Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
+| [Private Sanctum](/spell/level/4/private-sanctum.md) | Abjuration | V, S, M | 10 minutes | 120 ft. | A 5- to 100-ft. Cube | 24 hours |

@@ -113,3 +113,10 @@
 | [Wall of Water](/spell/level/3/wall-of-water.md) | Evocation | V, S, M | Normal Action | 60 ft. | — | 10 minutes (C) |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
+
+## 4th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Conjure Minor Elementals](/spell/level/4/conjure-minor-elementals.md) | Conjuration | V, S | Normal Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
+| [Dominate Beast](/spell/level/4/dominate-beast.md) | Enchantment | V, S | Normal Action | 60 ft. | One Beast | 1 minute (C) |
