@@ -16,7 +16,7 @@ You mark the target. Choose an Ability.
 
 You gain the following benefits against marked targets:
 
-- The target has Disadvantage on Checks using the chosen Ability.
+- The target gains Disadvantage on Checks using the chosen Ability.
 - Before you deal damage to the target with an Attack, you add **1d6** Necrotic Damage.
 
 ###### Mark

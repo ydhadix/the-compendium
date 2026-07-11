@@ -11,7 +11,7 @@ Bards of the College of Swords are warriors whose weapon prowess is itself a per
 
 ## Subclass Features
 ### 3: Bonus Proficiencies
-You have Proficiency with Medium Armor, Fences, and Blades.
+You gain Proficiency with Medium Armor, Fences, and Blades.
 
 You can use any Weapon you have Proficiency with as a Spellcasting Focus for Bard Spells.
 

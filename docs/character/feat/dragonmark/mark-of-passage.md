@@ -3,7 +3,7 @@ Prerequisite: No other Dragonmark
 { .subtitle }
 
 #### Mark Proficiency
-You have Acrobatics or Survival Proficiency.
+You gain Acrobatics or Survival Proficiency.
 
 #### Mark Spells
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -41,7 +41,7 @@ After you finish a Long Rest, you regain this Spell Slot.
 | 9th | 5th |
 
 #### Fleet-Footed
-You have a Climb Speed and a Swim Speed equal to your Speed.  Your movement is unaffected by Difficult Terrain.
+You gain a Climb Speed and a Swim Speed equal to your Speed.  Your movement is unaffected by Difficult Terrain.
 
 #### Slippery
 You can expend **5** feet of movement to automatically escape from a nonmagical restraint.

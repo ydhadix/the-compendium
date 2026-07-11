@@ -16,7 +16,7 @@ You make a Ranged Spell Attack against the target.
 
 | | |
 |---|---|
-| Hit | You deal **4d6** Radiant Damage, and the next Attack Roll against the target has Advantage, then this Spell ends. |
+| Hit | You deal **4d6** Radiant Damage, and the next Attack Roll against the target gains Advantage, then this Spell ends. |
 
 ##### At Higher Levels
 Add **1d6** Radiant Damage per additional Spell Level.

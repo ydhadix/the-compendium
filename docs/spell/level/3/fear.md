@@ -19,7 +19,7 @@ Each target makes a Will Save.
 | Fail | The target drops whatever it is holding, and you frighten it. While Frightened by you, the target Dashes and moves away from you by the safest route on each of its Turns. |
 | Success | No effect. |
 
-Before a target's Turn ends, it repeats this Save.
+Before a target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

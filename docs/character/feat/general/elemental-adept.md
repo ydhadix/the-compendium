@@ -8,7 +8,7 @@ Free Action
 Before you roll a **1** on a Damage Die of the chosen Damage Type, you can treat the die as a **2**.
 
 #### Energy Resistance
-You have Resistance to the chosen Damage Type.
+You gain Resistance to the chosen Damage Type.
 
 #### Irresistible Energy
 Damage you deal of the chosen Damage Type ignores Resistance.

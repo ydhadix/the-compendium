@@ -3,7 +3,7 @@ Prerequisite: No other Dragonmark
 { .subtitle }
 
 #### Mark Proficiency
-You have Proficiency with one of Arcana or any Artisan's Tool.
+You gain Proficiency with one of Arcana or any Artisan's Tool.
 
 #### Mark Spells
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

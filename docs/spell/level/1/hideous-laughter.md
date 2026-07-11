@@ -19,7 +19,7 @@ The target makes a Will Save.
 | Fail | You incapacitate the target and knock it Prone, and it can't stand up. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Save. After the target takes damage, it also repeats this Save with Advantage.
+Before the target's Turn ends, it repeats this Saving Throw. After the target takes damage, it also repeats this Saving Throw with Advantage.
 
 | | |
 |---|---|

@@ -19,7 +19,7 @@ Choose Blindness or Deafness. The target makes a Fortitude Save.
 | Fail | You apply the chosen condition to the target. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Save.
+Before the target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

@@ -12,4 +12,4 @@
 | Duration | — |
 
 ##### Spell Effect
-The Spell the target is casting fails if its Level is no higher than this Spell's. For a Spell of a higher Level, make a Check using your Spellcasting Ability against a DC of **10** plus that Level; on a success, that Spell fails.
+The Spell the target is casting fails if its Level is no higher than this Spell's. For a Spell of a higher Level, make an Ability Check using your Spellcasting Ability against a DC of **10** plus that Level; on a success, that Spell fails.

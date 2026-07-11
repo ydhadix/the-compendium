@@ -21,8 +21,8 @@ Choose one of the following effects. The target makes a Will Save.
 
 | | |
 |---|---|
-| Sloth | Choose an Ability. The target has Disadvantage on Checks and Saves using that Ability. |
-| Weakness | The target has Disadvantage on Attack Rolls. |
+| Sloth | Choose an Ability. The target gains Disadvantage on Checks and Saves using that Ability. |
+| Weakness | The target gains Disadvantage on Attack Rolls. |
 | Cowardice | After the target's Turn begins, it makes a Will Save; on a failure, it Dodges on its Turn. |
 | Rot | After the target takes damage, you deal an additional **1d8** Necrotic Damage. |
 

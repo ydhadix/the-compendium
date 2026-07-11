@@ -1,8 +1,8 @@
 """Generate class-subfeature table-row snippets + example tables (invocations, imprints, metamagic).
 
 Row schema: | <Type> | Other Prerequisite | Class+Level Prerequisite |
-Invocations parse a `Prerequisite: Warlock N, ...` subtitle (level-1 entries default to Warlock 1);
-imprints read a `Ranger Level N` subtitle (level-1 default to Ranger 1); metamagic carries neither.
+Invocations and imprints share one `Prerequisite: Level N <Class>[, ...]` subtitle format (an entry
+with no `Prerequisite:` line defaults to <Class> 1); metamagic carries neither.
 Invocation and imprint example tables are grouped by level to mirror their real indexes.
 """
 
@@ -18,19 +18,14 @@ def LevelFromClass(classLevel):
     return int(last) if last.isdigit() else 1
 
 
-def InvocationRow(card):
-    """(row, level) for an invocation; no prerequisite means a Warlock 1 baseline."""
+def PrereqRow(card, defaultClass):
+    """(row, level) for a prerequisite-gated subfeature; no `Prerequisite:` means a <Class> 1 baseline."""
     hasPrereq = card.subtitle is not None and card.subtitle.startswith(PREREQ_TAG)
     body = card.subtitle[len(PREREQ_TAG):].strip() if hasPrereq else ""
-    classLevel, other = C.SplitPrereq(body) if body != "" else ("Warlock 1", "")
+    classLevel, other = C.SplitPrereq(body) if body != "" else ("", "")
+    if classLevel == "":
+        classLevel = f"{defaultClass} 1"
     return (C.RenderRow([C.Link(card), other, classLevel]), LevelFromClass(classLevel))
-
-
-def ImprintRow(card):
-    """(row, level) for an imprint; the 'Ranger Level N' subtitle sets the level (default 1)."""
-    subtitle = card.subtitle or ""
-    classLevel = "Ranger " + subtitle.split()[-1] if subtitle.startswith("Ranger Level") else "Ranger 1"
-    return (C.RenderRow([C.Link(card), "", classLevel]), LevelFromClass(classLevel))
 
 
 def MetamagicRow(card):
@@ -39,8 +34,8 @@ def MetamagicRow(card):
 
 
 SUBFEATURES = (
-    ("character/class/warlock/invocation", "Invocation", InvocationRow, True),
-    ("character/class/ranger/imprint", "Imprint", ImprintRow, True),
+    ("character/class/warlock/invocation", "Invocation", lambda card: PrereqRow(card, "Warlock"), True),
+    ("character/class/ranger/imprint", "Imprint", lambda card: PrereqRow(card, "Ranger"), True),
     ("character/class/sorcerer/metamagic", "Metamagic", MetamagicRow, False),
 )
 

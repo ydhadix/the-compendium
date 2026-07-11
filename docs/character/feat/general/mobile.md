@@ -9,4 +9,4 @@ Your Speed increases by **10** feet.
 Before you Dash, Difficult Terrain doesn't cost you extra movement until the end of the Turn.
 
 #### Agile Movement
-Opportunity Attacks have Disadvantage against you.
+Opportunity Attacks gain Disadvantage against you.

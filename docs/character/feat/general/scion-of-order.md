@@ -3,7 +3,7 @@ Prerequisite: Lawful alignment, no Scion Feat
 { .subtitle }
 
 #### Damage Resistance
-You have Force Resistance.
+You gain Force Resistance.
 
 #### Minor Magic
 You learn the _Guidance_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

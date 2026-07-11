@@ -3,7 +3,7 @@ Prerequisite: No other Dragonmark
 { .subtitle }
 
 #### Mark Proficiency
-You have Intimidation or Precision Proficiency.
+You gain Intimidation or Precision Proficiency.
 
 #### Mark Spells
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

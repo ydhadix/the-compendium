@@ -10,4 +10,4 @@ Quartermaster Weapon
 |---|---|---|---|
 | | Close | +5 to hit | 2d10 Piercing |
 
-This Weapon Grapples its target and can't be fired again until the target is freed. Attacks against a Grappled Ship have Advantage. If a Grappled Ship retreats successfully, it doesn't move and the Grapple ends.
+This Weapon Grapples its target and can't be fired again until the target is freed. Attacks against a Grappled Ship gain Advantage. If a Grappled Ship retreats successfully, it doesn't move and the Grapple ends.

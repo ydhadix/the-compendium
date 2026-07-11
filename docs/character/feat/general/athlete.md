@@ -3,7 +3,7 @@ Prerequisite: 2 Strength or Dexterity
 { .subtitle }
 
 #### Climb Speed
-You have a Climb Speed equal to your Speed.
+You gain a Climb Speed equal to your Speed.
 
 #### Hop Up
 Standing up from Prone only costs **5** feet of movement and doesn't provoke Opportunity Attacks.

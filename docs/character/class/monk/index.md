@@ -50,7 +50,7 @@ When you choose Monk as your Secondary Class, you gain the following proficienci
 ## Class Features
 
 ### 1: Ki
-You can spend Ki to use Monk Features. You have Ki equal to **LV**. If an effect requires a save, its DC is **8 + Secondary Ability + PB**.
+You can spend Ki to use Monk Features. You have Ki equal to **LV**. If an effect requires a Saving Throw, its DC is **8 + Secondary Ability + PB**.
 ###### Regaining Ki
 After a Short Rest, you regain all uses of Ki.
 ###### Quick Focus
@@ -176,9 +176,9 @@ You can move a willing creature within Reach with you until the end of your Turn
 
 ### 11: One With Everything
 #### Enlightened
-You have Proficiency in Saving Throws.
+You gain Proficiency in Saving Throws.
 #### Inevitable
 1 Ki use
 { .subtitle }
 
-Before you fail a save, you can reroll it. The second time you use this feature on the same save, you succeed instead.
+Before you fail a Saving Throw, you can reroll it. The second time you use this feature on the same Saving Throw, you succeed instead.

@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Bonus Action, when you hit with a Ranged Weapon Attack |
 | Range | — |
-| Target | Everything in a 5-ft. radius Sphere around the target of the attack |
+| Target | Everything in a 5-ft. radius Sphere around the target of the Attack |
 | Duration | — |
 
 ##### Spell Effect

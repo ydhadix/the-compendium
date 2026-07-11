@@ -1,2 +1,2 @@
 ### Camouflage
-Other creatures have Disadvantage on Perception Checks to see you.
+Other creatures gain Disadvantage on Perception Checks to see you.

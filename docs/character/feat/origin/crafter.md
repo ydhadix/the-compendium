@@ -1,7 +1,7 @@
 ### Crafter
 
 #### Tool Proficiency
-You have Proficiency with **3** of the following Artisan's Tools.
+You gain Proficiency with **3** of the following Artisan's Tools.
 
 - Carpenter's Tools
 - Leatherworker's Tools

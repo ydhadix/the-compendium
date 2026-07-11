@@ -3,4 +3,4 @@ Prerequisite: Light Armor Proficiency
 { .subtitle }
 
 #### Armor Training
-You have Proficiency with Medium Armor.
+You gain Proficiency with Medium Armor.

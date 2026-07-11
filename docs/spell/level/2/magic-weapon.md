@@ -15,6 +15,6 @@
 The target becomes a magic weapon and gains a **+1** bonus to Weapon Attack and Damage Rolls, unless it already has an equivalent or greater Masterwork bonus.
 
 ##### At Higher Levels
-When Upcast to 3rd- or 4th-Level, the bonus increases to **+2**.
+When Upcast to 3rd- or 4th-Level, the bonus becomes **+2**.
 
-When Upcast to 5th-Level or higher, the bonus increases to **+3**.
+When Upcast to 5th-Level or higher, the bonus becomes **+3**.

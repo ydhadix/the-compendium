@@ -16,7 +16,7 @@ You gain the following benefits:
 
 - You merge with the target.
 - You can't be perceived without magic.
-- You are Blinded and have Disadvantage on Perception Checks to hear beyond the target, though you can cast Spells targeting only yourself without Verbal or Somatic components.
+- You are Blinded and gain Disadvantage on Perception Checks to hear beyond the target, though you can cast Spells targeting only yourself without Verbal or Somatic components.
 - You can spend **5** feet of movement to leave the stone and end this Spell.
 
 Minor damage to the target doesn't harm you.

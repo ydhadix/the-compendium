@@ -16,7 +16,7 @@ Elves are a graceful, long-lived people of keen senses and quiet resilience, eac
 
 ## Elf Features
 ### Keen Senses
-You have Insight, Perception, or Survival Proficiency.
+You gain Insight, Perception, or Survival Proficiency.
 
 ### Trance
 You don't need to sleep, and magic can't put you to sleep.

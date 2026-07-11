@@ -16,23 +16,23 @@ You learn _Beast Sense_ and _Speak with Animals_ and can cast them as Rituals.
 ### 3: Rage of the Wilds
 After Raging, you can choose one of the following effects:
 ##### Bear
-While Raging, you have Elemental Resistance.
+While Raging, you gain Elemental Resistance.
 ##### Eagle
 Bonus Action
 { .subtitle }
 
 You can Disengage and Dash.
 ##### Wolf
-While Raging, your allies have Advantage on Attack Rolls against creatures within your Reach.
+While Raging, your allies gain Advantage on Attack Rolls against creatures within your Reach.
 
 ### 6: Aspect of the Wilds
 You gain one of the following effects:
 ##### Owl
 You gain **60** feet of Darkvision.
 ##### Panther
-You have a Climb Speed equal to your Speed.
+You gain a Climb Speed equal to your Speed.
 ##### Salmon
-You have a Swim Speed equal to your Speed.
+You gain a Swim Speed equal to your Speed.
 #### Changing Aspects
 After a Long Rest, you can replace your chosen Aspect.
 
@@ -42,8 +42,8 @@ You learn _Commune with Nature_ and can cast it as a Ritual.
 
 After Raging, you can choose one of the following effects:
 ##### Falcon
-While Raging and in Unarmored Stance, you have a Fly Speed equal to your Speed.
+While Raging and in Unarmored Stance, you gain a Fly Speed equal to your Speed.
 ##### Lion
-While Raging, enemies within Reach have Disadvantage on Attack Rolls against other creatures.
+While Raging, enemies within Reach gain Disadvantage on Attack Rolls against other creatures.
 ##### Ram
 After you damage a target up to one size larger than you with a Melee Attack while Raging, you can knock the target Prone.

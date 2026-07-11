@@ -1,3 +1,3 @@
 ### Martial Weapon Training
 #### Weapon Proficiency
-You have Proficiency with Martial Weapons.
+You gain Proficiency with Martial Weapons.

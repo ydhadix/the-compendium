@@ -3,7 +3,7 @@ Prerequisite: Evil alignment, no Scion Feat
 { .subtitle }
 
 #### Damage Resistance
-You have Necrotic Resistance.
+You gain Necrotic Resistance.
 
 #### Minor Magic
 You learn the _Chill Touch_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

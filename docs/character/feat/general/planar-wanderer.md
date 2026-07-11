@@ -1,6 +1,6 @@
 ### Planar Wanderer
 #### Damage Resistance
-After a Long Rest, choose Acid, Cold, or Fire Damage. Until your next Long Rest, you have Resistance to the chosen Damage Type.
+After a Long Rest, choose Acid, Cold, or Fire Damage. Until your next Long Rest, you gain Resistance to the chosen Damage Type.
 
 #### Portal Cracker
 Magic Action
@@ -21,7 +21,7 @@ A creature holding the portal's key can make a DC **20** Arcana Check to end thi
 | | |
 |---|---|
 | Success | This effect ends. |
-| Fail | You deal **3d8** Psychic Damage. The target can't attempt this check on the same portal again until it finishes a Long Rest. |
+| Fail | You deal **3d8** Psychic Damage. The target can't attempt this Ability Check on the same portal again until it finishes a Long Rest. |
 
 #### Portal Sense
 You learn the _Detect Portal_ Spell. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

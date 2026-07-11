@@ -11,7 +11,7 @@ For an unnamed NPC, a Critical Hit maximizes the attack's Damage Roll: each Dama
 For a named NPC or a player character, a Critical Hit can be more devastating, amplified by the Damage Type used and the enemy's Armor and Creature Type.
 
 ### Critical Hit Table
-After you roll a Critical Hit, choose one of the Damage Types the attack would deal and roll an additional d20.  If the Damage Type is effective against the target, you have Advantage on this roll.  The Critical Hit Table shows the additional effect and how to apply damage based on the result.
+After you roll a Critical Hit, choose one of the Damage Types the attack would deal and roll an additional d20.  If the Damage Type is effective against the target, you gain Advantage on this roll.  The Critical Hit Table shows the additional effect and how to apply damage based on the result.
 
 | Damage Type | 1 | 2-10 | 11-15 | 16-17 | 18-19 | 20 |
 |---|---|---|---|---|---|---|

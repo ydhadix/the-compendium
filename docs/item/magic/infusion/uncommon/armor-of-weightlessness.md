@@ -5,7 +5,7 @@ Uncommon Armor (Any), Attunement
 **5** Charges (regain **1d4 + 1** per Day)
 { .subtitle }
 
-You have Immunity to Falling Damage.
+You gain Falling Immunity.
 
 ###### Cast
 You can cast the following spells:

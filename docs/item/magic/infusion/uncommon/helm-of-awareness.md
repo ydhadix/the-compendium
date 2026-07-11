@@ -2,4 +2,4 @@
 Uncommon Clothing (Hat)
 { .subtitle }
 
-You have Advantage on Initiative Checks.
+You gain Advantage on Initiative Checks.

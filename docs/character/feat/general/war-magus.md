@@ -3,7 +3,7 @@ Prerequisite: Spellcasting
 { .subtitle }
 
 #### Concentration
-You have Concentration Protection.
+You gain Concentration Protection.
 
 #### Indomitable Reflex
 Free Action, 1 use per Short Rest

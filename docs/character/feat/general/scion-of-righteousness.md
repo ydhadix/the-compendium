@@ -3,7 +3,7 @@ Prerequisite: Good alignment, no Scion Feat
 { .subtitle }
 
 #### Damage Resistance
-You have Radiant Resistance.
+You gain Radiant Resistance.
 
 #### Minor Magic
 You learn the _Sacred Flame_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

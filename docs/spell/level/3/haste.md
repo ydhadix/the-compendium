@@ -16,7 +16,7 @@ The target gains the following benefits:
 
 - Its Speed becomes doubled.
 - It has a **+2** bonus to Armor Class.
-- It has Advantage on Reflex Saves.
+- It gains Advantage on Reflex Saves.
 - It can take an additional action on its Turns, used only to Attack (one attack only), Dash, Disengage, Hide, or Utilize.
 
 After this Spell ends, the target is Incapacitated and its Speed becomes **0** feet until the end of its next Turn.

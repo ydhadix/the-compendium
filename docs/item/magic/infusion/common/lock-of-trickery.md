@@ -2,4 +2,4 @@
 Common Wondrous Item
 { .subtitle }
 
-Precision Checks made to pick this lock have Disadvantage.
+Precision Checks made to pick this lock gain Disadvantage.

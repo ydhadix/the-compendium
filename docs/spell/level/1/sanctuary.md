@@ -16,7 +16,7 @@ A creature that attacks the target or targets it with a harmful Spell that has n
 
 | | |
 |---|---|
-| Fail | The creature chooses a new target or loses the attack or Spell. |
+| Fail | The creature chooses a new target or loses the Attack or Spell. |
 | Success | No effect. |
 
-This Spell ends if the target attacks, deals damage, or forces another creature to make a Save.
+This Spell ends if the target attacks, deals damage, or forces another creature to make a Saving Throw.

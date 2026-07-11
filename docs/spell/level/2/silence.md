@@ -14,4 +14,4 @@
 ##### Spell Effect
 Sound can't be created or heard in the area.
 
-Each target is Deafened, has Immunity to Thunder Damage, and can't cast Spells with Verbal components.
+Each target is Deafened, gains Thunder Immunity, and can't cast Spells with Verbal components.

@@ -21,9 +21,9 @@ Your specialization grants you additional Spells. You learn these Spells at the 
 
 ### 3: Tools of the Trade
 #### Specialized Training
-You have Proficiency with Heavy Armor.
+You gain Proficiency with Heavy Armor.
 
-You have Proficiency and Expertise with Smith's Tools.
+You gain Proficiency and Expertise with Smith's Tools.
 #### Fast Crafting
 You craft Armor in half the time.
 
@@ -66,7 +66,7 @@ For **1** minute, you are Large and your Reach increases by **5** feet.
 
 ##### Armor Model: Guardian
 ###### Thunder Gauntlets
-Your gauntlets are Simple Melee Weapons with the Light property that deal **1d8** Thunder Damage. After you damage a creature with these Weapons, it has Disadvantage on Attack Rolls that don't target you until the start of your next Turn.
+Your gauntlets are Simple Melee Weapons with the Light property that deal **1d8** Thunder Damage. After you damage a creature with these Weapons, it gains Disadvantage on Attack Rolls that don't target you until the start of your next Turn.
 ###### Defensive Field
 Bonus Action
 { .subtitle }
@@ -79,7 +79,7 @@ Your gauntlets are Simple Ranged Weapons with a range of **100**/**400** feet th
 ###### Powered Steps
 Your Speed increases by **5** feet.
 ###### Dampening Field
-You have Advantage on Stealth Checks.
+You gain Advantage on Stealth Checks.
 
 
 ### 6: Armor Modifications
@@ -93,7 +93,7 @@ Your Armor Models gain additional benefits:
 
 ##### Armor Model: Dreadnaught
 ###### Giant Stature
-Before you use Giant Stature, you can become Large or Huge, your Reach increases by an additional **5** feet, and you have Advantage on Strength Checks and Fortitude Saves.
+Before you use Giant Stature, you can become Large or Huge, your Reach increases by an additional **5** feet, and you gain Advantage on Strength Checks and Fortitude Saves.
 
 ##### Armor Model: Guardian
 ###### Offensive Field
@@ -109,7 +109,7 @@ After a Huge or smaller creature ends its Turn within **30** feet, you can force
 
 ##### Armor Model: Infiltrator
 ###### Lightning Launcher
-After you damage a creature with your Lightning Launcher, it emits Bright Light out to **5** feet and Dim Light for an additional **5** feet, and has Disadvantage on Attack Rolls against you until the start of your next Turn.
+After you damage a creature with your Lightning Launcher, it emits Bright Light out to **5** feet and Dim Light for an additional **5** feet, and gains Disadvantage on Attack Rolls against you until the start of your next Turn.
 ###### Aerial Dash
 Bonus Action, Artificer Ability uses per Long Rest
 { .subtitle }

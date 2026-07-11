@@ -3,7 +3,7 @@ Prerequisite: No other Dragonmark
 { .subtitle }
 
 #### Mark Proficiency
-You have Nature or Survival Proficiency.
+You gain Nature or Survival Proficiency.
 
 #### Mark Spells
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -50,14 +50,14 @@ After you hit with an Attack while mounted, your mount can use its Reaction to M
 Magic Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
 
-One Beast within **30** feet makes a Will Save _(DC = **8 + STR, WIS, or CHA + PB**)_.  The target has Disadvantage on the save if you or a companion dealt damage to it since the start of your previous Turn.
+One Beast within **30** feet makes a Will Save _(DC = **8 + STR, WIS, or CHA + PB**)_.  The target gains Disadvantage on the Saving Throw if you or a companion dealt damage to it since the start of your previous Turn.
 
 | | |
 |---|---|
 | Fail | You frighten the target for **1** minute. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats the save.
+Before the target's Turn ends, it repeats the Saving Throw.
 
 | | |
 |---|---|

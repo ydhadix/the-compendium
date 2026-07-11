@@ -49,7 +49,7 @@ This precision timepiece uses the position of celestial bodies to pinpoint your 
 This component adds **+1** to your Armor Class, and you always know which way is north.
 
 ###### Dimensional Anchor
-You have Planar Travel Protection.
+You gain Planar Travel Protection.
 
 ###### Dimensional Smite
 Free Action, 1 Charge

@@ -16,5 +16,5 @@ The target makes a Will Save. If you've damaged the target or cast this Spell on
 
 | | |
 |---|---|
-| Fail | You charm the target. This Spell ends if the target takes damage, or if you attack, deal damage, or force another creature to make a Save. |
+| Fail | You charm the target. This Spell ends if the target takes damage, or if you attack, deal damage, or force another creature to make a Saving Throw. |
 | Success | No effect. |

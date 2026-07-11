@@ -64,7 +64,7 @@ You heal by **1d10 + LV**, then move up to half your Speed without provoking Opp
 1 use of Situational Awareness
 { .subtitle }
 
-Before you fail an Ability Check, you can add **1d10** to the total.  If the check still fails, you don't expend a use of Situational Awareness.
+Before you fail an Ability Check, you can add **1d10** to the total.  If the Ability Check still fails, you don't expend a use of Situational Awareness.
 
 
 ### 1: Fighting Style
@@ -98,7 +98,7 @@ After a Long Rest, you regain all uses of Indomitable.
 1 Indomitable use
 { .subtitle }
 
-Before you fail a save, you can reroll it and add **LV** to the save.
+Before you fail a Saving Throw, you can reroll it and add **LV** to the Saving Throw.
 
 
 ### 3: Fighter Subclass

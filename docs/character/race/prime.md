@@ -20,7 +20,7 @@ Free Action, 1 use per Long Rest
 Before you roll a d20, you can roll an additional d20 and choose which d20 to use.
 
 ### Skillful
-You have Proficiency in one Skill.
+You gain Proficiency in one Skill.
 
 ### Versatile
 You gain an Origin Feat.

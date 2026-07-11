@@ -21,7 +21,7 @@ Add **5** if you have Advantage on the Check, or subtract **5** if you have Disa
 Most Ability Checks involve a Skill — an area of training with a default Ability.  When you have Proficiency in that Skill, you add your Proficiency Bonus to the Ability Check.
 
 #### Trades
-If an Ability Check uses both a Skill and a Trade you're Proficient with, you also have Advantage on the Check.
+If an Ability Check uses both a Skill and a Trade you're Proficient with, you also gain Advantage on the Check.
 
 ### Initiative
 When several creatures act at once, an Initiative Check sets the order.

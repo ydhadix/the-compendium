@@ -19,7 +19,7 @@ There are three types of Gravity:
 | Microgravity | Naturally occuring gravity produced by Small and larger creatures and objects.  Microgravity has a miniscule effect that keeps objects within your space from floating away. |
 
 #### Moving in Zero-Gravity
-In areas outside of a Gravity or Gravity Plane, creatures can't move unless they have a Fly Speed, climb or push off of a surface, or are propelled.
+In areas outside of a Gravity or Gravity Plane, creatures can't move unless they gain a Fly Speed, climb or push off of a surface, or are propelled.
 
 After anything without a Hover Speed moves in zero-gravity, it starts Drifting the same distance and direction _(This is effectively half speed unless you're moving in a straight line, since Drifting costs movement to change direction)_.
 

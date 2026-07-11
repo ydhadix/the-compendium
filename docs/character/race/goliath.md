@@ -22,13 +22,13 @@ Your carry capacity is doubled.
 Bonus Action, 1 use per Long Rest
 { .subtitle }
 
-For **10** minutes or until you end this effect _(no action required)_, you are Large, you have Advantage on Strength Checks, and your Speed increases by **10** feet.
+For **10** minutes or until you end this effect _(no action required)_, you are Large, you gain Advantage on Strength Checks, and your Speed increases by **10** feet.
 
 ### Giant Ancestry
 Choose an ancestry. Each ancestry determines the type of your Resistance and gives you a different effect.
 
 ##### Cloud Goliath
-You have Thunder Resistance.
+You gain Thunder Resistance.
 ###### Cloud Jaunt
 Bonus Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -36,7 +36,7 @@ Bonus Action, Proficiency Bonus uses per Long Rest
 You can teleport up to **30** feet.
 
 ##### Fire Goliath
-You have Fire Resistance.
+You gain Fire Resistance.
 ###### Fire Smite
 Free Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -44,7 +44,7 @@ Free Action, Proficiency Bonus uses per Long Rest
 Before you deal damage, you can add **1d10** Fire Damage.
 
 ##### Frost Goliath
-You have Cold Resistance.
+You gain Cold Resistance.
 ###### Frost Smite
 Free Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -52,7 +52,7 @@ Free Action, Proficiency Bonus uses per Long Rest
 Before you deal damage, you can add **1d6** Cold Damage. After you deal that damage, the target's Speed decreases by **10** feet until the start of your next Turn.
 
 ##### Hill Goliath
-You have Poison Resistance.
+You gain Poison Resistance.
 ###### Hill Quake
 Free Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -60,7 +60,7 @@ Free Action, Proficiency Bonus uses per Long Rest
 After you damage a creature, you can knock the target Prone.
 
 ##### Stone Goliath
-You have Poison Resistance.
+You gain Poison Resistance.
 ###### Stone Endurance
 Reaction, Proficiency Bonus uses per Long Rest
 { .subtitle }
@@ -68,7 +68,7 @@ Reaction, Proficiency Bonus uses per Long Rest
 Before you take damage, you can reduce that damage by **1d12 + CON**.
 
 ##### Storm Goliath
-You have Lightning Resistance.
+You gain Lightning Resistance.
 ###### Storm Rebuke
 Reaction, Proficiency Bonus uses per Long Rest
 { .subtitle }

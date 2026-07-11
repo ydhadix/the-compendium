@@ -16,8 +16,8 @@ Boon
 
 This gift grants one of the following benefits:
 
-- You have Proficiency in one of this Facility's Skills.
-- You have Proficiency with a Martial weapon category.
+- You gain Proficiency in one of this Facility's Skills.
+- You gain Proficiency with a Martial weapon category.
 - You learn a Weapon Mastery.
 
 #### Upgrading

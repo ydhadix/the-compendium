@@ -1,5 +1,5 @@
 ### Heat Tolerance
-Level 4 Ranger
+Prerequisite: Level 4 Ranger
 { .subtitle }
 
-You have Fire Resistance and ignore Difficult Terrain caused by sand.
+You gain Fire Resistance and ignore Difficult Terrain caused by sand.

@@ -17,7 +17,7 @@ Tieflings are mortals marked by a fiendish bloodline, carrying its resistances, 
 
 ## Tiefling Features
 ### Silver-Tongued
-You have Deception, Intimidation, or Persuasion Proficiency.
+You gain Deception, Intimidation, or Persuasion Proficiency.
 
 ### Fiendish Ancestry
 Choose an ancestry. Each ancestry has different spells and determines the type of your Resistance.
@@ -30,7 +30,7 @@ You learn this ancestry's Spells at the corresponding Levels. You can cast those
 You can cast one of this ancestry's Spells without a Spell Slot.
 
 ##### Abyssal Tiefling
-You have Poison Resistance.
+You gain Poison Resistance.
 ###### Abyssal Spells
 | LV | Spells |
 |---|---|
@@ -39,7 +39,7 @@ You have Poison Resistance.
 | 5th | _Hold Person_ |
 
 ##### Chthonic Tiefling
-You have Necrotic Resistance.
+You gain Necrotic Resistance.
 ###### Chthonic Spells
 | LV | Spells |
 |---|---|
@@ -48,7 +48,7 @@ You have Necrotic Resistance.
 | 5th | _Ray of Enfeeblement_ |
 
 ##### Infernal Tiefling
-You have Fire Resistance.
+You gain Fire Resistance.
 ###### Infernal Spells
 | LV | Spells |
 |---|---|

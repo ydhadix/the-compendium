@@ -8,7 +8,7 @@ Fog, foliage, and other visual obstacles create levels of Obscurement. When you 
 | Obscurement | Effect |
 |---|---|
 | Clear | You can see normally. |
-| Light | You have Disadvantage on Perception Checks that rely on sight. |
+| Light | You gain Disadvantage on Perception Checks that rely on sight. |
 | Heavy | You are Blinded while trying to see into or through the area. |
 
 ### Lighting

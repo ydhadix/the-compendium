@@ -12,7 +12,7 @@ You can choose a Small or Medium Grappled, Incapacitated, or Restrained creature
 
 | | |
 |---|---|
-| **Success** | You bind the target's hands. While bound, the target has Disadvantage on Attack Rolls, can't provide Somatic Components, and is Restrained if the Manacles are attached to a Chain or hook that is fixed in place. |
+| **Success** | You bind the target's hands. While bound, the target gains Disadvantage on Attack Rolls, can't provide Somatic Components, and is Restrained if the Manacles are attached to a Chain or hook that is fixed in place. |
 
 ###### Escape
 Utilize Action

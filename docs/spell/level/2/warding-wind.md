@@ -18,4 +18,4 @@ You create strong wind in the area. The area has the following effects:
 - Unprotected flames are extinguished.
 - Each target is Deafened.
 - The area is Difficult Terrain for creatures other than you.
-- Ranged Weapon Attacks have Disadvantage if they pass through the area.
+- Ranged Weapon Attacks gain Disadvantage if they pass through the area.

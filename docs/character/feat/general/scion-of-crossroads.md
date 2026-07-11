@@ -3,7 +3,7 @@ Prerequisite: Neutral alignment, no Scion Feat
 { .subtitle }
 
 #### Damage Resistance
-You have Psychic Resistance.
+You gain Psychic Resistance.
 
 #### Minor Magic
 You learn the _Mage Hand_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

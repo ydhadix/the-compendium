@@ -16,11 +16,11 @@ The target and everything it's wearing and carrying takes a gaseous form. This S
 
 While in this form, the target:
 
-- has a **10**-foot Fly Speed, can hover, and has no other Speed.
+- gains a **10**-foot Fly Speed, can hover, and has no other Speed.
 - can enter and occupy another creature's space and pass through narrow openings, but treats liquids as solid surfaces.
-- has Bludgeoning, Piercing, and Slashing Resistance.
-- has Prone Immunity.
-- has Fortitude and Reflex Protection.
+- gains Bludgeoning, Piercing, and Slashing Resistance.
+- gains Prone Immunity.
+- gains Fortitude and Reflex Protection.
 - can't talk, attack, cast Spells, or interact with objects.
 
 ##### At Higher Levels

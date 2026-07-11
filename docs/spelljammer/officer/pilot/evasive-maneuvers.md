@@ -8,4 +8,4 @@
 
 You make a Piloting check, adding a Maneuver Die to it.  The total is your Ship's AC against the triggering Attack.
 
-Until your next Turn, your Ship has Resistance to all damage.
+Until your next Turn, your Ship gains Resistance to all damage.

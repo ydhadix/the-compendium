@@ -14,8 +14,8 @@
 ##### Spell Effect
 The target is warded against Aberrations, Celestials, Elementals, Fey, Fiends, and Undead.  These creatures:
 
-- have Disadvantage on Attack Rolls against the target.
-- can't possess, Charm, or Frighten the target.  The target has Protection from those conditions if already affected.
+- gain Disadvantage on Attack Rolls against the target.
+- can't possess, Charm, or Frighten the target.  The target gains Protection from those conditions if already affected.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

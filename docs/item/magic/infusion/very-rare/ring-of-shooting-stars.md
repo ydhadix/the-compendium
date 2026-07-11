@@ -36,7 +36,7 @@ After each Long Rest, you choose one of the following effects:
 | Effect | Benefit |
 |---|---|
 | Sun | Before you cast a Spell that deals Fire Damage, you can change it to Radiant Damage, or vice versa. |
-| Moon | After you use magic to heal another creature, you can gain Temporary Hit Points equal to your Spellcasting Ability. While you have these Temporary Hit Points, you have Fear Immunity. |
+| Moon | After you use magic to heal another creature, you can gain Temporary Hit Points equal to your Spellcasting Ability. While you have these Temporary Hit Points, you gain Fear Immunity. |
 | Meteor | After you use Shooting Stars, you can teleport to a space in any of the chosen Areas. |
 
 ###### Change Sign

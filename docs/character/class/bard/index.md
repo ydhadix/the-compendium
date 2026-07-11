@@ -105,7 +105,7 @@ After a Long Rest, you regain all your Spell Slots.
 #### Expert
 You gain Expertise in **2** of your Skill or Trade Proficiencies.
 #### Generalist
-You have Aptitude in all Ability Checks you make without Proficiency.
+You gain Aptitude in all Ability Checks you make without Proficiency.
 
 
 ### 3: Bard Subclass
@@ -122,7 +122,7 @@ Choose a Bard Subclass. Your subclass grants you a feature at this level.
 Reaction
 { .subtitle }
 
-Before a creature within **30** feet fails a Saving Throw to resist Charm or Fear, you can reroll the save with Advantage.
+Before a creature within **30** feet fails a Saving Throw to resist Charm or Fear, you can reroll the Saving Throw with Advantage.
 
 
 ### 6: Subclass Feature
@@ -136,7 +136,7 @@ You gain Expertise in one of your Skill or Trade Proficiencies.
 Free Action, 1 Bardic Inspiration use
 { .subtitle }
 
-Before you fail a check using the chosen Expertise, you can add an Inspiration Die to the check.
+Before you fail an Ability Check using the chosen Expertise, you can add an Inspiration Die to the Ability Check.
 
 
 ### 9: Subclass Feature

@@ -14,16 +14,16 @@
 | [Detect Magic](/spell/level/1/detect-magic.md) | Divination | V, S | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Detect Poison & Disease](/spell/level/1/detect-poison-and-disease.md) | Divination | V, S, M | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Divine Favor](/spell/level/1/divine-favor.md) | Transmutation | V, S | Bonus Action | — | Self | 1 minute |
-| [Divine Smite](/spell/level/1/divine-smite.md) | Evocation | V | Free Action | — | The target of the attack | — |
+| [Divine Smite](/spell/level/1/divine-smite.md) | Evocation | V | Free Action | — | The target of the Attack | — |
 | [Heroism](/spell/level/1/heroism.md) | Enchantment | V, S | Normal Action | Reach | One creature | 1 minute (C) |
 | [Protection from Good & Evil](/spell/level/1/protection-from-good-and-evil.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | 10 minutes (C) |
 | [Purify Food & Drink](/spell/level/1/purify-food-and-drink.md) | Transmutation | V, S | Normal Action (R) | 10 ft. | All food and drink in a 5-ft. radius Sphere | — |
 | [Sanctuary](/spell/level/1/sanctuary.md) | Abjuration | V, S, M | Bonus Action | 30 ft. | One creature | 1 minute |
-| [Searing Smite](/spell/level/1/searing-smite.md) | Evocation | V | Bonus Action | — | The target of the attack | 1 minute |
+| [Searing Smite](/spell/level/1/searing-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | 1 minute |
 | [Shield of Faith](/spell/level/1/shield-of-faith.md) | Abjuration | V, S, M | Bonus Action | 60 ft. | One creature | 10 minutes (C) |
-| [Thunderous Smite](/spell/level/1/thunderous-smite.md) | Evocation | V | Bonus Action | — | The target of the attack | — |
+| [Thunderous Smite](/spell/level/1/thunderous-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | — |
 | [Wardaway](/spell/level/1/wardaway.md) | Abjuration | V, S, M | Normal Action | 60 ft. | One non-Construct, non-Undead creature | Until the end of your next Turn |
-| [Wrathful Smite](/spell/level/1/wrathful-smite.md) | Necromancy | V | Bonus Action | — | The target of the attack | 1 minute |
+| [Wrathful Smite](/spell/level/1/wrathful-smite.md) | Necromancy | V | Bonus Action | — | The target of the Attack | 1 minute |
 
 ## 2nd-Level
 

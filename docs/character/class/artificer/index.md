@@ -162,7 +162,7 @@ You change one of your Infused Items.
 Reaction, 1 Improvise use
 { .subtitle }
 
-Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Artificer Ability** to that check or save.
+Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Artificer Ability** to that Ability Check or Saving Throw.
 
 
 ### 2: Fighting Style

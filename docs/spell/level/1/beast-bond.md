@@ -14,4 +14,4 @@
 ##### Spell Effect
 While you and the target are on the same plane, you can communicate telepathically with the target, which understands your messages and can convey simple emotions and concepts.
 
-The target has Advantage on Attack Rolls against creatures within your Reach.
+The target gains Advantage on Attack Rolls against creatures within your Reach.

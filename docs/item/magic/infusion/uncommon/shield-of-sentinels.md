@@ -2,4 +2,4 @@
 Uncommon Shield (Any)
 { .subtitle }
 
-You have Advantage on Initiative and Perception Checks.
+You gain Advantage on Initiative and Perception Checks.

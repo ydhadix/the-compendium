@@ -12,7 +12,7 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-The target makes a Will Save. If you've damaged the target within the last **24** hours, it has Advantage on the save.
+The target makes a Will Save. If you've damaged the target within the last **24** hours, it gains Advantage on the Saving Throw.
 
 | | |
 |---|---|

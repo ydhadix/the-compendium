@@ -19,4 +19,4 @@ A Spell can't target an object being worn or held, such as Armor or a Weapon, ev
 ## Invalid Targets
 If a Target can't be affected by a Spell, nothing happens to it, but you still cast the Spell as normal.
 
-If a Spell normally has no effect on a Target that succeeds on a Saving Throw, an invalid Target appears to have succeeded on that Save, giving no hint that it was an invalid Target.
+If a Spell normally has no effect on a Target that succeeds on a Saving Throw, an invalid Target appears to have succeeded on that Saving Throw, giving no hint that it was an invalid Target.

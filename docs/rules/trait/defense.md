@@ -30,20 +30,20 @@ Before you take Physical Damage, you reduce it by your Damage Reduction _(after 
 Before you take Damage, if that damage doesn't exceed your Damage Threshold _(after all other modifiers have been applied)_, you take no Damage instead.
 
 ### Evasion
-While you have Evasion against something, Saving Throws deal half damage to you when you fail, and no damage when you succeed.
+While you gain Evasion against something, Saving Throws deal half damage to you when you fail, and no damage when you succeed.
 
 ### Immunity
-While you have Immunity to something, you ignore all its effects, including Damage and Conditions.
+While you gain Immunity to something, you ignore all its effects, including Damage and Conditions.
 
 ### Protection
-While you have Protection against something, you have Advantage on Ability Checks and Saving Throws you make to resist its effects.
+While you gain Protection against something, you gain Advantage on Ability Checks and Saving Throws you make to resist its effects.
 
 ### Resistance
-While you have Resistance to something, you take half damage from its effects.
+While you gain Resistance to something, you take half damage from its effects.
 
 Resistance stacks with itself: two overlapping sources reduce the damage to a quarter, and three sources count as Immunity. Further sources have no additional effect.
 
 ### Vulnerability
-While you have Vulnerability to something, you take double damage from its effects.
+While you gain Vulnerability to something, you take double damage from its effects.
 
 Vulnerability stacks additively: each source adds the damage once more, rather than doubling it.

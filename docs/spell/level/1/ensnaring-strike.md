@@ -8,11 +8,11 @@
 | Components | V |
 | Casting Time | Bonus Action, when you hit with a Weapon Attack |
 | Range | — |
-| Target | The target of the attack |
+| Target | The target of the Attack |
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-The target makes a Fortitude Save. A creature larger than you has Advantage.
+The target makes a Fortitude Save. A creature larger than you gains Advantage.
 
 | | |
 |---|---|

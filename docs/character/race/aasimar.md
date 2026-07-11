@@ -26,7 +26,7 @@ You gain the following benefits for **1** minute or until you end this effect _(
 - You have the revelation's effects.
 - Before you deal damage, you can add **PB** Necrotic or Radiant Damage.
 ##### Winged
-You have a Fly Speed equal to your Speed.
+You gain a Fly Speed equal to your Speed.
 ##### Chosen
 You emit Bright Light to **10** feet and Dim Light **10** feet further. Before your Turn ends, you deal **PB** Radiant Damage to each other creature within a **10**-foot Aura.
 ##### Fallen

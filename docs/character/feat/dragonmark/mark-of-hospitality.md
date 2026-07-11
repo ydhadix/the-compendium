@@ -3,7 +3,7 @@ Prerequisite: No other Dragonmark
 { .subtitle }
 
 #### Mark Proficiency
-You have Insight or Persuasion Proficiency.
+You gain Insight or Persuasion Proficiency.
 
 #### Mark Spells
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

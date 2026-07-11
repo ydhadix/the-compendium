@@ -11,7 +11,7 @@ Bards of the College of Lore gather knowledge from every source, from scholarly 
 
 ## Subclass Features
 ### 3: Bonus Proficiencies
-You have Proficiency in any **3** Skills.
+You gain Proficiency in any **3** Skills.
 
 ### 3: Cutting Words
 Reaction, 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use
@@ -28,4 +28,4 @@ Whenever you gain a Level, you can replace one of these Spells.
 Free Action, 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use
 { .subtitle }
 
-Before you fail an Ability Check or Attack Roll, you can add **Inspiration Die** to the total.  If the Check or Attack Roll still fails, you don't expend a use of Bardic Inspiration.
+Before you fail an Ability Check or Attack Roll, you can add **Inspiration Die** to the total.  If the Ability Check or Attack Roll still fails, you don't expend a use of Bardic Inspiration.

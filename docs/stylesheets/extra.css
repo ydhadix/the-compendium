@@ -1016,15 +1016,18 @@ body {
    margin of that size reaches the screen edge; an equal padding then restores
    the card's interior text to the normal body inset. */
 @media screen and (max-width: 59.9375em) {
-  .card,
-  .subcard {
-    margin-left: calc(-1 * var(--pm-pad-min));
-    margin-right: calc(-1 * var(--pm-pad-min));
-    padding-left: var(--pm-pad-min);
-    padding-right: var(--pm-pad-min);
+  .card {
+    margin-left: calc(-3/4 * var(--pm-pad-min));
+    margin-right: calc(-3/4 * var(--pm-pad-min));
+    padding-left: calc(3/4 * var(--pm-pad-min));
+    padding-right: calc(3/4 * var(--pm-pad-min));
   }
   .subcard {
-   margin-bottom: 0;
+    margin-bottom: 0;
+    margin-left: calc(-2/4 * var(--pm-pad-min));
+    margin-right: calc(-2/4 * var(--pm-pad-min));
+    padding-left: calc(2/4 * var(--pm-pad-min));
+    padding-right: calc(2/4 * var(--pm-pad-min));
   }
   /* Bleed wide tables to the viewport edges. When tables.js has wrapped the
      scroller the bleed lives on .pm-tablewrap (so the scroll-shadow overlays,

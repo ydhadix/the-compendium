@@ -1,2 +1,2 @@
 ### Eldritch Mind
-You have Concentration Protection.
+You gain Concentration Protection.

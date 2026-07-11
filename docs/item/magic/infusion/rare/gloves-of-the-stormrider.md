@@ -6,7 +6,7 @@ Rare Clothing (Gloves), Attunement
 You know the general direction and distance to any active thunderstorms within **5** miles.
 
 ###### Lightning Resistance
-You have Lightning Resistance.
+You gain Lightning Resistance.
 
 ###### Bolt Rider
 Reaction

@@ -3,7 +3,7 @@
 Poison Damage you deal ignores Resistance.
 
 #### Poisoner's Kit
-You have Poisoner's Kit Proficiency. If you already have Poisoner's Kit Proficiency, you instead have Expertise.
+You gain Poisoner's Kit Proficiency. If you already have Poisoner's Kit Proficiency, you instead gain Expertise.
 
 #### Brew Poison
 After a Short Rest, you can expend **50** gold in materials to craft **PB** doses of Personal Poison.

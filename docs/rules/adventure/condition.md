@@ -55,8 +55,8 @@ This condition ends after you heal, or after a creature Stabilizes you.
 ##### Blindness
 - You can't see.
 - You automatically fail Ability Checks that require sight
-- Your Attack Rolls have Disadvantage.
-- Attack Rolls against you have Advantage.
+- Your Attack Rolls gain Disadvantage.
+- Attack Rolls against you gain Advantage.
 
 ##### Burn
 The effect that causes Burning sets a Burn Die.
@@ -68,7 +68,7 @@ This condition ends after you spend **15** feet of movement while Prone, or afte
 
 ##### Charm
 - You can't target the source of the Charm with harmful Attacks, features, or Spells.
-- The source of the Charm has Advantage on Ability Checks to interact with you socially.
+- The source of the Charm gains Advantage on Ability Checks to interact with you socially.
 
 ##### Corrosion
 The effect that causes Corrosion sets a Caustic Die.
@@ -127,12 +127,12 @@ Exhaustion is tracked in levels.
 This condition ends after you have no Exhaustion levels.
 
 ##### Fear
-- While you can see the source of the Fear, your Attack Rolls and Ability Checks have Disadvantage.
+- While you can see the source of the Fear, your Attack Rolls and Ability Checks gain Disadvantage.
 - You can't willingly Move closer to the source.
 
 ##### Grapple
 - You are Immobile.
-- Your Attack Rolls against any creature other than the grappler have Disadvantage.
+- Your Attack Rolls against any creature other than the grappler gain Disadvantage.
 - The grappler can drag or carry you when it Moves, but each foot of that movement costs it **1** extra foot unless you are Tiny or at least two Size Categories smaller than it.
 
 ###### Ending the Condition
@@ -142,8 +142,8 @@ This condition ends after you leave the grappler's Reach.
 The effect that causes Hidden sets a Hide DC.  A creature whose Passive Perception exceeds your Hide DC ignores this condition.
 
 - Other creatures don't know your location.
-- You have Advantage on Initiative Checks and Attack Rolls.
-- Attack Rolls against you have Disadvantage.
+- You gain Advantage on Initiative Checks and Attack Rolls.
+- Attack Rolls against you gain Disadvantage.
 
 ###### Ending the Condition
 This condition ends after:
@@ -155,7 +155,7 @@ This condition ends after:
 
 ##### Immobile
 - Your Speed is **0** and can't change.
-- Your Reflex Saves have Disadvantage.
+- Your Reflex Saves gain Disadvantage.
 
 ##### Incapacitation
 - You can't take Actions, Bonus Actions, or Reactions.
@@ -164,8 +164,8 @@ This condition ends after:
 
 ##### Invisible
 - You and anything you're wearing or carrying can't be seen.
-- Your Attack Rolls have Advantage.
-- Attack Rolls against you have Disadvantage.
+- Your Attack Rolls gain Advantage.
+- Attack Rolls against you gain Disadvantage.
 
 ##### Marked
 Marked has no effect on its own. It marks a creature as the target of an ongoing effect so that effect can track it; the feature or Spell that applies Marked defines what it does and when it ends.
@@ -177,15 +177,15 @@ Marked has no effect on its own. It marks a creature as the target of an ongoing
 ##### Petrification
 - You are Incapacitated and Restrained.
 - You are Blinded, Deafened, and unaware of your surroundings.
-- You have Resistance to all damage.
+- You gain Resistance to all damage.
 - You and nonmagical objects you are wearing or carrying turn into a solid, inanimate substance, usually stone.
 - Your weight is multiplied by **10**.
 - You stop aging.
 
 ##### Prone
 - Each foot you Move costs **1** extra foot.
-- Your Attack Rolls and Reflex Saves have Disadvantage.
-- An attack against you has Advantage if the attacker is within **5** feet, and Disadvantage otherwise.
+- Your Attack Rolls and Reflex Saves gain Disadvantage.
+- Attack Rolls against you gain Advantage if the attacker is within **5** feet, and Disadvantage otherwise.
 
 ###### Ending the Condition
 This condition ends after you spend half your Speed to stand up; before you stand, each creature within Reach can use a Reaction to make an Opportunity Attack against you _(those creatures don't need special training to make this Opportunity Attack)_.
@@ -193,11 +193,11 @@ This condition ends after you spend half your Speed to stand up; before you stan
 ##### Restraint
 - You are Immobile.
 - You automatically fail Reflex Saves.
-- Your Attack Rolls have Disadvantage.
-- Attack Rolls against you have Advantage.
+- Your Attack Rolls gain Disadvantage.
+- Attack Rolls against you gain Advantage.
 
 ##### Sickness
-- Your Attack Rolls and Ability Checks have Disadvantage.
+- Your Attack Rolls and Ability Checks gain Disadvantage.
 
 ##### Stable
 - You are Dazed.

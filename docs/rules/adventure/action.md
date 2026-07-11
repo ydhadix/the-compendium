@@ -14,12 +14,12 @@ The following Actions are available to every creature, and some features add new
 | [Attack](#attack) | Make an Attack Roll with a Weapon or Unarmed Strike. |
 | [Dash](#dash) | Gain extra movement equal to your Speed. |
 | [Disengage](#disengage) | Your movement doesn't provoke Opportunity Attacks. |
-| [Dodge](#dodge) | Attacks against you have Disadvantage; your Reflex Saves have Advantage. |
+| [Dodge](#dodge) | Attacks against you gain Disadvantage; your Reflex Saves gain Advantage. |
 | [Help](#help) | Aid an Ally's next Check or Attack. |
 | [Hide](#hide) | Make a Stealth Check to become Hidden. |
 | [Magic](#magic) | Cast a Spell or use a magical effect. |
 | [Ready](#ready) | Prepare an Action to trigger as a Reaction. |
-| [Search](#search) | Make a Check to notice something hidden. |
+| [Search](#search) | Make an Ability Check to notice something hidden. |
 | [Stabilize](#stabilize) | Make a Medicine Check to Stabilize a Downed creature. |
 | [Study](#study) | Make an Intelligence Check to recall knowledge. |
 | [Utilize](#utilize) | Interact with a nonmagical object or effect. |
@@ -34,18 +34,18 @@ You gain extra movement equal to your Speed until the end of your Turn.
 Until the end of your Turn, your movement doesn't provoke Opportunity Attacks.
 
 ##### Dodge
-Until the start of your next Turn, Attack Rolls against you have Disadvantage and your Reflex Saves have Advantage. These effects end early if you become Incapacitated or your Speed becomes **0**.
+Until the start of your next Turn, Attack Rolls against you gain Disadvantage and your Reflex Saves gain Advantage. These effects end early if you become Incapacitated or your Speed becomes **0**.
 
 ##### Help
 Choose an Ally or an enemy within your Reach. The effect lasts until the start of your next Turn.
 
 | | |
 |---|---|
-| Ally | Choose one of your Proficiencies; the Ally has Advantage on its next Ability Check that uses it. |
-| Enemy | The next Attack Roll an Ally makes against the enemy has Advantage. |
+| Ally | Choose one of your Proficiencies; the Ally gains Advantage on its next Ability Check that uses it. |
+| Enemy | The next Attack Roll an Ally makes against the enemy gains Advantage. |
 
 ##### Hide
-Make a Stealth Check. You become Hidden, and the Check's total is your Hide DC.
+Make a Stealth Check. You become Hidden, and the Ability Check's total is your Hide DC.
 
 ##### Magic
 You Cast a Spell, or use a feature or Item that produces a magical effect.

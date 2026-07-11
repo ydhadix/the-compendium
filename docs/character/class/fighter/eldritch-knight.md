@@ -67,7 +67,7 @@ Before or after you expend a use of [Action Surge](index.md#2-action-surge), you
 ### 6: War Magic
 You gain the Spellblade feat.
 
-After you hit a creature with a physical Attack, the creature has Disadvantage on the next Saving Throw it makes against a Spell you cast before the end of your next Turn.
+After you hit a creature with a physical Attack, the creature gains Disadvantage on the next Saving Throw it makes against a Spell you cast before the end of your next Turn.
 
 
 ### 9: Improved War Magic

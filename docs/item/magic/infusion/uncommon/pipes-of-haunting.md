@@ -14,9 +14,9 @@ You choose any number of creatures within **30** feet. Each target makes a Will 
 | | |
 |---|---|
 | Fail | The target is Frightened by you for **1** minute. |
-| Success | The target has Immunity to this item's effects for **24** hours. |
+| Success | The target gains Immunity to this item's effects for **24** hours. |
 
-Before a Frightened target's Turn ends, it repeats this Save.
+Before a Frightened target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

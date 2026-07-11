@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Bonus Action, when you hit with a Melee Weapon Attack |
 | Range | — |
-| Target | The target of the attack |
+| Target | The target of the Attack |
 | Duration | 1 minute |
 
 ##### Spell Effect

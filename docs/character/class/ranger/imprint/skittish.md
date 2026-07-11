@@ -1,5 +1,5 @@
 ### Skittish
-Level 4 Ranger
+Prerequisite: Level 4 Ranger
 { .subtitle }
 
 Bonus Action

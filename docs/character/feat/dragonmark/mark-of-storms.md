@@ -3,7 +3,7 @@ Prerequisite: No other Dragonmark
 { .subtitle }
 
 #### Mark Proficiency
-You have Arcana or Precision Proficiency.
+You gain Arcana or Precision Proficiency.
 
 #### Mark Spells
 You learn this Dragonmark's Spells at the corresponding Levels.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
@@ -41,10 +41,10 @@ After you finish a Long Rest, you regain this Spell Slot.
 | 9th | 5th |
 
 #### Heart of the Storm
-You have Lightning and Thunder Resistance.
+You gain Lightning and Thunder Resistance.
 
 #### Feather Soul
-Your weight is reduced by half, and you have Immunity to Falling Damage.
+Your weight is reduced by half, and you gain Falling Immunity.
 
 #### Tempest Magic
 Free Action

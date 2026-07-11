@@ -22,7 +22,7 @@ Your armor's weight determines how quickly you can don and doff it.
 While donning a suit of armor, you can leave off parts of the armor to treat it as an armor in the same family with a lesser Value instead. Leaving off parts of your armor reduces its protection but can also remove Stealth penalties or reduce how long it takes to don.
 
 #### Proficiency
-While you have armor donned that you don't have Proficiency with, you have Disadvantage on D20 Tests using Strength or Dexterity and can't cast Spells.
+While you have armor donned that you don't have Proficiency with, you gain Disadvantage on D20 Tests using Strength or Dexterity and can't cast Spells.
 
 #### Strength Requirements
 If you don't meet your armor's Strength Requirement, your Speed is reduced by **15** feet.

@@ -19,7 +19,7 @@ The target makes a Will Save.
 | Fail | You charm the target, and a spectral crown appears on its head. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Save.
+Before the target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

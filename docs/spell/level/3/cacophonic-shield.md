@@ -12,9 +12,9 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-You have Resistance to Thunder Damage, and Ranged Attacks have Disadvantage if they pass through the area.
+You gain Thunder Resistance, and Ranged Attacks gain Disadvantage if they pass through the area.
 
-After your Turn starts, each target makes a Fortitude Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next Turn.
+After your Turn starts, each target makes a Fortitude Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

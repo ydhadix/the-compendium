@@ -12,4 +12,4 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-The target appears dead to magical effects and physical inspection. It is Blinded and Incapacitated, its Speed becomes **0** feet, and it has Immunity to Poison Damage and Resistance to all damage except Psychic.
+The target appears dead to magical effects and physical inspection. It is Blinded and Incapacitated, its Speed becomes **0** feet, and it gains Poison Immunity and Resistance to all damage except Psychic.

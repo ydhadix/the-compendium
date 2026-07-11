@@ -16,7 +16,7 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | Before the target makes an Attack Roll or a Save, you subtract **1d4** from that roll. |
+| Fail | Before the target makes an Attack Roll or a Saving Throw, you subtract **1d4** from that roll. |
 | Success | No effect. |
 
 ##### At Higher Levels

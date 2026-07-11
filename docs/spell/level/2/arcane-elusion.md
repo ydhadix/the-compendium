@@ -12,4 +12,4 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-You have Magic Resistance and Magic Evasion.
+You gain Magic Resistance and Magic Evasion.

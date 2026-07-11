@@ -62,7 +62,7 @@ Bonus Action, 1 Rage use
 
 You can move up to half your Speed.  Then, you gain the following benefits until the end of your next turn:
 
-- You have Physical Resistance, Fortitude Protection, and Advantage on Strength Checks.
+- You gain Physical Resistance, Fortitude Protection, and Advantage on Strength Checks.
 - Your Strength Attacks add your Rage Bonus to Damage.  The [Barbarian Table](#class-table) shows your Rage Bonus.
 - You can use Strength to make Acrobatics, Intimidation, Perception, Stealth, or Survival Checks.
 - You can't cast Spells or Concentrate.
@@ -83,7 +83,7 @@ Your base Armor Class becomes **8 + Dexterity + Secondary Ability + PB**.
 #### Unarmored Movement
 Your Speed increases by **10** feet.
 #### Unarmored Reflexes
-You have Reflex Protection and Advantage on Initiative Checks.
+You gain Reflex Protection and Advantage on Initiative Checks.
 
 
 ### 1: Weapon Mastery
@@ -95,8 +95,8 @@ After a Long Rest, you can replace one of your Weapon Masteries.
 ### 2: Reckless Attack
 Before you Attack for the first time on your Turn, you can gain the following effects until the start of your next Turn:
 
-- You have Advantage on Strength Attack Rolls.
-- Attack Rolls against you have Advantage.
+- You gain Advantage on Strength Attack Rolls.
+- Attack Rolls against you gain Advantage.
 
 
 ### 2: Fighting Style
@@ -135,7 +135,7 @@ Your subclass grants you an additional feature.
 ### 7: Brutal Strike Improvement
 Your Brutal Strike damage increases to **2d10** and it gains the following effect options:
 ##### Staggering Blow
-After the Attack, the target has Disadvantage on the next Saving Throw it makes and can't take Reactions until the start of your next turn.
+After the Attack, the target gains Disadvantage on the next Saving Throw it makes and can't take Reactions until the start of your next turn.
 ##### Sundering Blow
 After the Attack, you add **5** to the next Attack Roll another creature makes against the target before the start of your next turn.
 

@@ -14,7 +14,7 @@
 ##### Spell Effect
 If there is loose sand, dust, dirt, or gravel in the area, the area becomes Heavily Obscured.
 
-After your Turn starts, each target makes a Fortitude Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this save.  A target only makes this Saving Throw once until the start of your next Turn.
+After your Turn starts, each target makes a Fortitude Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

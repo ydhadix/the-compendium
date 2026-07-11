@@ -19,7 +19,7 @@ Each creature in a **5**-foot radius Sphere makes a Will Save.
 | Fail | You incapacitate the target. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Save.
+Before the target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

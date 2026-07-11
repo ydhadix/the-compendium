@@ -1,6 +1,6 @@
 ### Durable
 #### Defy Death
-You have Death Protection.
+You gain Death Protection.
 
 #### Speedy Recovery
 Bonus Action, 1 Hit Die

@@ -22,7 +22,7 @@ You deal **2d8** Fire Damage to everything touching the target, and a creature t
 
 | | |
 |---|---|
-| Fail | The creature drops the target if it can. If it doesn't, it has Disadvantage on Attack Rolls and Checks until the end of your next Turn. |
+| Fail | The creature drops the target if it can. If it doesn't, it gains Disadvantage on Attack Rolls and Checks until the end of your next Turn. |
 | Success | No additional effect. |
 
 ##### At Higher Levels

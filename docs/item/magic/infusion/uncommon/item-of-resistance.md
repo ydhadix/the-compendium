@@ -4,4 +4,4 @@ Uncommon Wondrous Item, Attunement
 
 Each Item of Resistance has a chosen Damage Type.
 
-You have Resistance to the item's Damage Type.
+You gain Resistance to the item's Damage Type.

@@ -16,7 +16,7 @@ Everything in a **10**-foot radius Sphere makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You deal **3d8** Thunder Damage. Objects and Constructs have Vulnerability to this damage. |
+| Fail | You deal **3d8** Thunder Damage. Objects and Constructs gain Vulnerability to this damage. |
 | Success | You deal half as much damage. |
 
 This Spell's thunder is audible out to **300** feet.

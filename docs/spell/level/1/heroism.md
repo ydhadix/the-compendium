@@ -12,7 +12,7 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-The target has Fear Immunity.
+The target gains Fear Immunity.
 
 After the target's Turn begins, it gains **Spellcasting Ability** Temporary Hit Points.
 

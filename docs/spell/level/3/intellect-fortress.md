@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-The target has Psychic Resistance and Will Protection.
+The target gains Psychic Resistance and Will Protection.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

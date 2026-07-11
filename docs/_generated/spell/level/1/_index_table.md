@@ -39,10 +39,10 @@
 | [Disguise Self](/spell/level/1/disguise-self.md) | Illusion | V, S | Normal Action | — | Self | 1 hour |
 | [Dissonant Whispers](/spell/level/1/dissonant-whispers.md) | Enchantment | V | Normal Action | 60 ft. | One creature | — |
 | [Divine Favor](/spell/level/1/divine-favor.md) | Transmutation | V, S | Bonus Action | — | Self | 1 minute |
-| [Divine Smite](/spell/level/1/divine-smite.md) | Evocation | V | Free Action | — | The target of the attack | — |
+| [Divine Smite](/spell/level/1/divine-smite.md) | Evocation | V | Free Action | — | The target of the Attack | — |
 | [Earth Tremor](/spell/level/1/earth-tremor.md) | Evocation | V, S | Normal Action | — | Everything on the ground in a 10-ft. Aura | — |
 | [Earthbind](/spell/level/1/earthbind.md) | Transmutation | V | Normal Action | 300 ft. | One creature | 1 minute (C) |
-| [Ensnaring Strike](/spell/level/1/ensnaring-strike.md) | Conjuration | V | Bonus Action | — | The target of the attack | 1 minute (C) |
+| [Ensnaring Strike](/spell/level/1/ensnaring-strike.md) | Conjuration | V | Bonus Action | — | The target of the Attack | 1 minute (C) |
 | [Entangle](/spell/level/1/entangle.md) | Conjuration | V, S | Normal Action | 90 ft. | Everything in a 20-ft. Square on the ground | 1 minute (C) |
 | [Expeditious Retreat](/spell/level/1/expeditious-retreat.md) | Transmutation | V, S | Bonus Action | — | Self | 10 minutes (C) |
 | [Faerie Fire](/spell/level/1/faerie-fire.md) | Evocation | V | Normal Action | 60 ft. | Everything in a 20-ft. Cube | 1 minute (C) |
@@ -55,7 +55,7 @@
 | [Goodberry](/spell/level/1/goodberry.md) | Conjuration | V, S, M | Normal Action | — | — | 24 hours |
 | [Grease](/spell/level/1/grease.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 10-ft. Square on the ground | 1 minute |
 | [Guiding Bolt](/spell/level/1/guiding-bolt.md) | Evocation | V, S | Normal Action | 120 ft. | One thing | Until the end of your next Turn |
-| [Hail of Thorns](/spell/level/1/hail-of-thorns.md) | Conjuration | V | Bonus Action | — | Everything in a 5-ft. radius Sphere around the target of the attack | — |
+| [Hail of Thorns](/spell/level/1/hail-of-thorns.md) | Conjuration | V | Bonus Action | — | Everything in a 5-ft. radius Sphere around the target of the Attack | — |
 | [Healing Word](/spell/level/1/healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | One creature | — |
 | [Hellish Rebuke](/spell/level/1/hellish-rebuke.md) | Evocation | V, S, M | Reaction | 60 ft. | The source of the damage | — |
 | [Heroism](/spell/level/1/heroism.md) | Enchantment | V, S | Normal Action | Reach | One creature | 1 minute (C) |
@@ -76,7 +76,7 @@
 | [Ray of Sickness](/spell/level/1/ray-of-sickness.md) | Necromancy | V, S | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
 | [Sanctuary](/spell/level/1/sanctuary.md) | Abjuration | V, S, M | Bonus Action | 30 ft. | One creature | 1 minute |
 | [Scorching Spear](/spell/level/1/scorching-spear.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 5-ft. × 30-ft. Line | — |
-| [Searing Smite](/spell/level/1/searing-smite.md) | Evocation | V | Bonus Action | — | The target of the attack | 1 minute |
+| [Searing Smite](/spell/level/1/searing-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | 1 minute |
 | [Shield](/spell/level/1/shield.md) | Abjuration | V, S | Reaction | — | Self | Until the end of your next Turn |
 | [Shield of Faith](/spell/level/1/shield-of-faith.md) | Abjuration | V, S, M | Bonus Action | 60 ft. | One creature | 10 minutes (C) |
 | [Silent Image](/spell/level/1/silent-image.md) | Illusion | V, S, M | Normal Action | 60 ft. | — | 10 minutes (C) |
@@ -87,11 +87,11 @@
 | [Speak with Animals](/spell/level/1/speak-with-animals.md) | Divination | V, S | Normal Action (R) | — | Self | 10 minutes |
 | [Spellflare](/spell/level/1/spellflare.md) | Evocation | V, S | Normal Action | 60 ft. | One thing | — |
 | [Spray of Cards](/spell/level/1/spray-of-cards.md) | Conjuration | V, S, M | Normal Action | Reach | Everything in a 15-ft. Cone | Until the end of your next Turn |
-| [Thunderous Smite](/spell/level/1/thunderous-smite.md) | Evocation | V | Bonus Action | — | The target of the attack | — |
+| [Thunderous Smite](/spell/level/1/thunderous-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | — |
 | [Thunderwave](/spell/level/1/thunderwave.md) | Evocation | V, S | Normal Action | Reach | Everything in a 15-ft. Cube | — |
 | [Unseen Servant](/spell/level/1/unseen-servant.md) | Conjuration | V, S, M | Normal Action (R) | 60 ft. | — | 1 hour |
 | [Wardaway](/spell/level/1/wardaway.md) | Abjuration | V, S, M | Normal Action | 60 ft. | One non-Construct, non-Undead creature | Until the end of your next Turn |
 | [Witch Bolt](/spell/level/1/witch-bolt.md) | Evocation | V, S, M | Normal Action | 60 ft. | One thing | 1 minute (C) |
-| [Wrathful Smite](/spell/level/1/wrathful-smite.md) | Necromancy | V | Bonus Action | — | The target of the attack | 1 minute |
+| [Wrathful Smite](/spell/level/1/wrathful-smite.md) | Necromancy | V | Bonus Action | — | The target of the Attack | 1 minute |
 | [Wristpocket](/spell/level/1/wristpocket.md) | Conjuration | S | Normal Action (R) | Reach | One object that weighs 5 pounds or less | 1 hour (C) |
 | [Zephyr Strike](/spell/level/1/zephyr-strike.md) | Transmutation | V | Bonus Action | — | Self | 1 minute (C) |

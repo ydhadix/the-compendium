@@ -12,4 +12,4 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-Creatures that rely on sight have Disadvantage on Attack Rolls against you.
+Creatures that rely on sight gain Disadvantage on Attack Rolls against you.

@@ -89,7 +89,7 @@ Choose one of the following benefits.
 ##### Priest
 While you are Unarmored, your base Armor Class becomes **8 + DEX + Cleric Ability + PB**.
 ##### Protector
-You have Proficiency with Heavy Armor and one Martial Weapon category.
+You gain Proficiency with Heavy Armor and one Martial Weapon category.
 ##### Thaumaturge
 You learn **1** additional Cleric Cantrip and gain Religion Expertise.
 

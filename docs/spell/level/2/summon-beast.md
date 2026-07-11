@@ -53,7 +53,7 @@ Small Beast, Neutral
 ###### Features
 | | |
 |---|---|
-| Pack Tactics | The summon's Attack Rolls have Advantage while the target is within an ally's Reach. |
+| Pack Tactics | The summon's Attack Rolls gain Advantage while the target is within an ally's Reach. |
 | Multiattack | The summon makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
 
 ###### Actions
@@ -91,7 +91,7 @@ Small Beast, Neutral
 ###### Features
 | | |
 |---|---|
-| Pack Tactics | The summon's Attack Rolls have Advantage while the target is within an ally's Reach. |
+| Pack Tactics | The summon's Attack Rolls gain Advantage while the target is within an ally's Reach. |
 | Water Breathing | The summon can only breathe underwater.
 | Multiattack | The summon makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
 

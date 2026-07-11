@@ -11,4 +11,4 @@ Divination Cantrip
 | Duration | Until the end of your next Turn |
 
 ##### Protocol Effect
-The next Attack your Ship makes has Advantage.
+The next Attack your Ship makes gains Advantage.

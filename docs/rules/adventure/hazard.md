@@ -35,12 +35,12 @@ You can hold your breath for **1 + CON** minutes (minimum **30** seconds). After
 After each hour you're exposed to temperatures **0** degrees Fahrenheit or lower, you must make a Fortitude Save _(DC **10**)_ or you are exhausted.
 
 - Each time you fail this Saving Throw, the DC increases by **5**.
-- If you have Cold Resistance, you automatically succeed.
+- If you gain Cold Resistance, you automatically succeed.
 
 ### Extreme Heat
 After each hour you're exposed to temperatures **100** degrees Fahrenheit or higher, you must make a Fortitude Save _(DC **15**)_ or you are exhausted.
 
-- Creatures wearing Medium or Heavy armor have Disadvantage.
-- Creatures that drink at least **half** a gallon of water have Advantage.
+- Creatures wearing Medium or Heavy armor gain Disadvantage.
+- Creatures that drink at least **half** a gallon of water gain Advantage.
 - Each time you fail this Saving Throw, the DC increases by **5**.
-- If you have Fire Resistance, you automatically succeed.
+- If you gain Fire Resistance, you automatically succeed.

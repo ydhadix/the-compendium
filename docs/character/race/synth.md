@@ -35,7 +35,7 @@ You gain one of the chosen race's features.
 ##### Android Synth
 Your Armor Class increases by **1**.
 
-You have Proficiency in one Skill and Proficiency with one Trade.
+You gain Proficiency in one Skill and Proficiency with one Trade.
 
 ##### Warforged Synth
 Your Armor Class and Damage Reduction increase by **1**.

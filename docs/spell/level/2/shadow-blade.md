@@ -16,7 +16,7 @@ You create a sword of solidified shadow in your hand.
 
 The sword is a Simple Melee Weapon with Finesse, Light, and Thrown (20/60 ft.). Attacks using it can use your Spellcasting Ability for Attack and Damage Rolls, and its Damage Die is **2d8** Psychic Damage.
 
-While in Dim Light or Darkness, you have Advantage on Attack Rolls with the sword. It vanishes after you drop or throw it.
+While in Dim Light or Darkness, you gain Advantage on Attack Rolls with the sword. It vanishes after you drop or throw it.
 
 ###### Resummon
 Bonus Action

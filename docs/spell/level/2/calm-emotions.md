@@ -16,5 +16,5 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | Choose one effect for the target: it has Immunity to being Charmed and Frightened, suppressing those conditions if already present; or it is no longer Hostile to creatures you choose, until it takes damage or sees an ally take damage. |
+| Fail | Choose one effect for the target: it gains Immunity to being Charmed and Frightened, suppressing those conditions if already present; or it is no longer Hostile to creatures you choose, until it takes damage or sees an ally take damage. |
 | Success | No effect. |

@@ -16,7 +16,7 @@ You mark the target.
 
 You gain the following benefits against marked targets:
 
-- You have Advantage on Perception and Survival Checks to find the target.
+- You gain Advantage on Perception and Survival Checks to find the target.
 - Before you deal damage to the target with an Attack, you add **1d6** Force Damage.
 
 ###### Mark

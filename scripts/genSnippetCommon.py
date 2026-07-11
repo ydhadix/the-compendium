@@ -90,21 +90,26 @@ def Link(card):
 def SplitPrereq(prereqText):
     """Split a 'Prerequisite:' body into (Class+Level, Other) cells.
 
-    The first comma-fragment naming a class becomes the Class+Level cell (a trailing ' Class' word
-    is dropped, a level number is kept, e.g. 'Warlock 5'); every other fragment joins Other.
+    The class-gate comma-fragment becomes the Class+Level cell: 'Level N <Class>' renders as
+    '<Class> N' (e.g. 'Level 5 Warlock' -> 'Warlock 5'), and a bare '<Class> Class' renders as
+    '<Class>'. Every other fragment joins Other.
     """
     classLevel = ""
     otherParts = []
     for fragment in [part.strip() for part in prereqText.split(",")]:
-        head = fragment.split()[0] if fragment != "" else ""
-        isClass = head in CLASS_NAMES and classLevel == ""
-        if isClass and fragment.endswith(" Class"):
-            classLevel = fragment[:-len(" Class")].strip()
-        elif isClass:
-            classLevel = fragment
-        else:
+        words = fragment.split()
+        isLevelClass = (
+            len(words) == 3 and words[0] == "Level"
+            and words[1].isdigit() and words[2] in CLASS_NAMES
+        )
+        isBareClass = len(words) == 2 and words[0] in CLASS_NAMES and words[1] == "Class"
+        if classLevel == "" and isLevelClass:
+            classLevel = f"{words[2]} {words[1]}"
+        elif classLevel == "" and isBareClass:
+            classLevel = words[0]
+        elif fragment != "":
             otherParts.append(fragment)
-    other = ", ".join(part for part in otherParts if part != "")
+    other = ", ".join(otherParts)
     return (classLevel, other)
 
 

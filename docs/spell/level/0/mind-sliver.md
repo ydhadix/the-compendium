@@ -16,7 +16,7 @@ The target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You deal **1d6** Psychic Damage, and the next time the target makes a Save, you subtract **1d4** from the save, then this Spell ends. |
+| Fail | You deal **1d6** Psychic Damage, and the next time the target makes a Saving Throw, you subtract **1d4** from the Saving Throw, then this Spell ends. |
 | Success | No effect. |
 
 ##### At Higher Levels

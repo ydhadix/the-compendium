@@ -18,13 +18,13 @@
 | [Detect Magic](/spell/level/1/detect-magic.md) | Divination | V, S | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Detect Poison & Disease](/spell/level/1/detect-poison-and-disease.md) | Divination | V, S, M | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Detect Traps](/spell/level/1/detect-traps.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes |
-| [Ensnaring Strike](/spell/level/1/ensnaring-strike.md) | Conjuration | V | Bonus Action | — | The target of the attack | 1 minute (C) |
+| [Ensnaring Strike](/spell/level/1/ensnaring-strike.md) | Conjuration | V | Bonus Action | — | The target of the Attack | 1 minute (C) |
 | [Entangle](/spell/level/1/entangle.md) | Conjuration | V, S | Normal Action | 90 ft. | Everything in a 20-ft. Square on the ground | 1 minute (C) |
 | [Expeditious Retreat](/spell/level/1/expeditious-retreat.md) | Transmutation | V, S | Bonus Action | — | Self | 10 minutes (C) |
 | [Fog Cloud](/spell/level/1/fog-cloud.md) | Conjuration | V, S | Normal Action | 120 ft. | A 20-ft. radius Sphere | 1 hour (C) |
 | [Gift of Alacrity](/spell/level/1/gift-of-alacrity.md) | Divination | V, S | 1 minute | Reach | One creature | 8 hours |
 | [Goodberry](/spell/level/1/goodberry.md) | Conjuration | V, S, M | Normal Action | — | — | 24 hours |
-| [Hail of Thorns](/spell/level/1/hail-of-thorns.md) | Conjuration | V | Bonus Action | — | Everything in a 5-ft. radius Sphere around the target of the attack | — |
+| [Hail of Thorns](/spell/level/1/hail-of-thorns.md) | Conjuration | V | Bonus Action | — | Everything in a 5-ft. radius Sphere around the target of the Attack | — |
 | [Hunter's Mark](/spell/level/1/hunters-mark.md) | Divination | V | Bonus Action | 90 ft. | One creature | 1 hour (C) |
 | [Jump](/spell/level/1/jump.md) | Transmutation | V, S, M | Bonus Action | Reach | One creature | 1 minute |
 | [Longstrider](/spell/level/1/longstrider.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour |

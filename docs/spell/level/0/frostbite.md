@@ -16,7 +16,7 @@ The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You deal **1d6** Cold Damage, and the target has Disadvantage on its next Attack Roll, then this Spell ends. |
+| Fail | You deal **1d6** Cold Damage, and the target gains Disadvantage on its next Attack Roll, then this Spell ends. |
 | Success | No effect. |
 
 ##### At Higher Levels

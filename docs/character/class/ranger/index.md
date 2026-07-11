@@ -162,4 +162,4 @@ You gain [additional options](imprint/index.md#level-10) for your [Primal Imprin
 ### 11: Foe Slayer
 After your Turn begins, you can move your Hunter's Mark to a new creature within range.
 
-Before you deal damage to a creature Marked by you, you can end your Hunter's Mark, and the target has Vulnerability to that damage _(If the damage was from an Attack, you still add the bonus damage before applying Vulnerability)_.
+Before you deal damage to a creature Marked by you, you can end your Hunter's Mark, and the target gains Vulnerability to that damage _(If the damage was from an Attack, you still add the bonus damage before applying Vulnerability)_.
