@@ -8,7 +8,7 @@ It's a long, long, long journey that we've been on<br>and it's a long, long, lon
 
 <iframe class="pm-spotify" src="https://open.spotify.com/embed/playlist/6Zlt4RR7Cv6aMNrRpXywrB" height="80"></iframe>
 
-<div class="playlist" markdown>
+<div class="playlist" style="--stripe-color: #cfbddb" markdown>
 
 | Intro | Song | Artist |
 |---|---|---|

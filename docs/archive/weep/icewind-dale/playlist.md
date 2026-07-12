@@ -8,7 +8,7 @@ Fear not this night
 
 <iframe class="pm-spotify" src="https://open.spotify.com/embed/playlist/6NSOTTbls55faSPfK2tp8b" height="80"></iframe>
 
-<div class="playlist" markdown>
+<div class="playlist" style="--stripe-color: #bdcbdb" markdown>
 
 | Intro | Song | Artist |
 |---|---|---|

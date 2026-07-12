@@ -33,14 +33,15 @@
   --clr-accent:      #8c1911;   /* crimson — headings, links, card borders */
   --clr-accent-alt:  #d83731;   /* bright red — link hover/visited */
   --clr-leather-bg:  #362e24;   /* dark brown — page base */
-  --clr-page-bg:     #c8b89a;   /* tan parchment — content panel + subcards */
+  --clr-page-bg:     #dfcdab;   /* tan parchment — content panel + subcards */
   --clr-card-bg:     #e8ddd0;   /* light parchment — cards, dropdowns */
   --clr-table-bg:    #ede8df;   /* lightest parchment — tables, footer band */
+  --clr-table-row:   #d4dbbd;   /* alternating row color */ 
   --clr-body-text:   #1a1a1a;
 
   --md-primary-fg-color: var(--clr-header-bg);
   --md-primary-bg-color: var(--clr-header-text);
-  --md-accent-fg-color:  var(--clr-accent);
+  --md-accent-fg-color:  var(--clr-accent-alt);
   --md-default-bg-color: var(--clr-table-bg);
   --md-default-fg-color: rgba(0, 0, 0, 0.87);
   --md-typeset-color:    var(--clr-body-text);
@@ -54,11 +55,12 @@
   --clr-page-bg:     #1a1a1a;
   --clr-card-bg:     #2e2e2e;
   --clr-table-bg:    #464646;
+    --clr-table-row: #D4DBBD;   /* alternating row color */ 
   --clr-body-text:   rgba(255, 255, 255, 0.87);
 
   --md-primary-fg-color: var(--clr-header-bg);
   --md-primary-bg-color: var(--clr-header-text);
-  --md-accent-fg-color:  var(--clr-accent);
+  --md-accent-fg-color:  var(--clr-accent-alt);
   --md-default-bg-color: var(--clr-table-bg);
   --md-default-fg-color: rgba(255, 255, 255, 0.87);
   --md-typeset-color:    var(--clr-body-text);
@@ -926,6 +928,16 @@ body {
    
 } */
 
+/* Row striping. Every other body row gets a contrasting tint; even
+   rows keep the parchment table base. Default is --clr-card-bg — one step darker
+   than the table bg and scheme-aware, so it reads in both default and slate.
+   Override per table by setting --stripe-color on any ancestor, e.g.
+   <div style="--stripe-color:#E5F0CA" markdown> … | table | … — the property
+   inherits, so this also works inside .playlist and any other wrapper. */
+.md-typeset table:not([class]) tbody tr:nth-child(even) > * {
+  background-color: var(--stripe-color, var(--clr-table-row));
+}
+
 /* Wide tables (>2 columns, i.e. the header row has a 3rd cell): centre every
    cell and column header. The row-label column already centres above. */
 .md-typeset table:not([class]):has(thead th:nth-child(3)) th,
@@ -1100,3 +1112,8 @@ body {
 .pm-footer p { margin: 0; font-size: 0.6rem; line-height: 1.6; }
 .pm-footer a { color: var(--clr-accent); }
 .pm-footer a:hover { color: var(--clr-accent-alt); text-decoration: underline; }
+
+/* Content hyperlinks underline on hover for clearer affordance. */
+.md-typeset a:hover {
+  text-decoration: underline;
+}

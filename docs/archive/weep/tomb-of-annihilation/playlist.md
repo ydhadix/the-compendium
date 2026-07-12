@@ -8,7 +8,7 @@ Shaking hands with the face of death<br>in the amazon
 
 <iframe class="pm-spotify" src="https://open.spotify.com/embed/playlist/0T2ouDkvN81CKs8ffqdeJ5" height="80"></iframe>
 
-<div class="playlist" markdown>
+<div class="playlist" style="--stripe-color: #bddbbd" markdown>
 
 | Intro | Song | Artist |
 |---|---|---|

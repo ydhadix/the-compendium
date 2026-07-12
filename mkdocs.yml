@@ -53,7 +53,7 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   bastion/*
   spelljammer/*/*/*
   spelljammer/*/*
-  archive/*/*/*
+  archive/hype/odyssey/playlist.md
 
 validation:
   links:
@@ -283,7 +283,7 @@ nav:
   - The Archive:
     - Overview:                            archive/index.md
     - WEEP:
-      - Overview:                          archive/weep/index.md
+      - Overview:                          archive/index.md
       - Player Characters:                 archive/weep/characters/index.md
       - "---": "sep:"
       - "Part 1: Dragon Heist":
@@ -302,7 +302,7 @@ nav:
         - Epilogue Overview:               archive/weep/epilogue/index.md
         - Playlist:                        archive/weep/epilogue/playlist.md
     - HYPE:
-      - Overview:                          archive/hype/index.md
+      - Overview:                          archive/index.md
       - Player Characters:                 archive/hype/characters/index.md
       - "---": "sep:"
       - "Part 1: Exodus":
@@ -310,4 +310,4 @@ nav:
         - Playlist:                        archive/hype/exodus/playlist.md
       - "Part 2: Odyssey":
         - Campaign Overview:               archive/hype/odyssey/index.md
-        - Playlist:                        archive/hype/odyssey/playlist.md
+        # - Playlist:                        archive/hype/odyssey/playlist.md

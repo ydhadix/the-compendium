@@ -8,7 +8,7 @@ Now it's time for me to leave<br>I'm glad you built this little world with me
 
 <iframe class="pm-spotify" src="https://open.spotify.com/embed/playlist/1aAYO9UFOAIU2gP4elJRsS" height="80"></iframe>
 
-<div class="playlist" markdown>
+<div class="playlist" style="--stripe-color: #dbccbd" markdown>
 
 | Intro | Song | Artist |
 |---|---|---|
