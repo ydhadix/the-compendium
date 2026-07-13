@@ -26,7 +26,7 @@ Each creature within a **15**-foot Cone or a **30**-foot × **5**-foot Line make
 | Fail | You deal **1d10 + CON** of your Draconic Ancestry Damage. |
 | Success | You deal half as much damage. |
 
-The damage increases by **1d10** at Level **5 _(2d10)_**, **11 _(3d10)_**, and **17 _(4d10)_**.
+The damage increases by **1d10** at Level **5** _(**2d10**)_, **11** _(**3d10**)_, and **17** _(**4d10**)_.
 
 ### Draconic Flight
 Bonus Action, 1 use per Long Rest

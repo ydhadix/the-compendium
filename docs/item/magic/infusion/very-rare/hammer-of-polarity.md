@@ -17,7 +17,7 @@ You can turn this effect on or off.
 This weapon can be used as a Spellcasting Focus. Spells you cast add your Spellcasting Ability to Lightning and Thunder Damage.
 
 ###### Attraction Point
-This weapon has the Thrown (**20**/**60**) property and deals an additional **1d6** Lightning Damage. After a Ranged Attack with this weapon hits or misses, it returns to your hand.
+This weapon has the Thrown _(**20**/**60**)_ property and deals an additional **1d6** Lightning Damage. After a Ranged Attack with this weapon hits or misses, it returns to your hand.
 
 Free Action, 1 use per Turn
 { .subtitle }

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Warlock |
 | Components | V, S, M |
-| Casting Time | Reaction, when you take damage |
+| Casting Time | Reaction, after you take damage |
 | Range | 60 ft. |
 | Target | The source of the damage |
 | Duration | — |

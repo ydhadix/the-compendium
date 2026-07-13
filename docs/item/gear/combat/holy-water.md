@@ -5,7 +5,7 @@ Potion, Consumable, 25 gold
 Holy Water comes in a Flask.
 
 ###### Throw
-A Flask filled with Holy Water can be wielded as a Simple Melee Weapon with Thrown (**20**/**60** feet).
+A Flask filled with Holy Water can be wielded as a Simple Melee Weapon with Thrown _(**20**/**60** feet)_.
 
 | | |
 |---|---|

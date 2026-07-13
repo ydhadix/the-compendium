@@ -12,7 +12,7 @@
 | Duration | — |
 
 ##### Spell Effect
-Choose one of the following conditions: Blinded, Deafened, Paralyzed, or Sickened. That condition ends on the target.
+Choose Blindness, Deafness, Paralysis, or Sickness.  You end the chosen Condition on the target.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

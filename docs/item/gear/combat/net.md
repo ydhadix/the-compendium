@@ -3,7 +3,7 @@ Other, 1 gold
 { .subtitle }
 
 ###### Ensnare
-A Net can be wielded as a Simple Melee Weapon with Thrown (**15** feet).
+A Net can be wielded as a Simple Melee Weapon with Thrown _(**15** feet)_.
 
 | | |
 |---|---|

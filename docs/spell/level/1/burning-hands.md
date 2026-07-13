@@ -16,7 +16,7 @@ Each target makes a Reflex Save.
 
 | | |
 |---|---|
-| Fail | You deal **3d6** Fire Damage. A flammable object starts Burning (**1d4**). |
+| Fail | You deal **3d6** Fire Damage. A flammable object starts Burning _(**1d4**)_. |
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels

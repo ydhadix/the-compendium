@@ -934,7 +934,7 @@ body {
    Override per table by setting --stripe-color on any ancestor, e.g.
    <div style="--stripe-color:#E5F0CA" markdown> … | table | … — the property
    inherits, so this also works inside .playlist and any other wrapper. */
-.md-typeset table:not([class]) tbody tr:nth-child(even) > * {
+.md-typeset table:not([class]) tbody tr:nth-child(odd) > * {
   background-color: var(--stripe-color, var(--clr-table-row));
 }
 

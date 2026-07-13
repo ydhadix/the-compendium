@@ -2,4 +2,4 @@
 Common Spellcasting Focus (Arcane Focus), Attunement (Spellcaster)
 { .subtitle }
 
-Spells cast using this Arcane Focus ignore Half Cover.
+Spells cast using this wand ignore Half Cover.

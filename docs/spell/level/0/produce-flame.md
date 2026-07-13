@@ -22,7 +22,7 @@ You can throw the flame at one creature within range. The target makes a Reflex 
 
 | | |
 |---|---|
-| Fail | You deal **1d8** Fire Damage. A flammable object starts Burning (**1d4**). |
+| Fail | You deal **1d8** Fire Damage. A flammable object starts Burning _(**1d4**)_. |
 | Success | No effect. |
 
 ##### At Higher Levels

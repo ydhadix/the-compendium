@@ -6,4 +6,4 @@ Potion, Consumable, 50 gold
 Bonus Action
 { .subtitle }
 
-You consume the Potion of Healing and heal by **2d4 + 2**.
+You can consume the Potion of Healing and heal by **2d4 + 2**.

@@ -1,5 +1,5 @@
 ### Bag of Holding
-Uncommon Wondrous Item
+Uncommon Container (Backpack)
 { .subtitle }
 
 This bag's interior is larger than its outside dimensions. It can hold up to **500** pounds, not exceeding a volume of **64** cubic feet, in a space roughly **2** feet square and **4** feet deep. The bag holds enough air for **10** minutes of breathing, divided by the number of breathing creatures inside.
