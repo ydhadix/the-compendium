@@ -1,0 +1,1 @@
+| [Ember of the Fire Giant](/character/feat/ancestry/ember-of-the-fire-giant.md) | Goliath (Fire Ancestry) | — |

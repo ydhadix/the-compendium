@@ -1,0 +1,1 @@
+| [Keenness of the Stone Giant](/character/feat/ancestry/keenness-of-the-stone-giant.md) | Goliath (Stone Ancestry) | — |

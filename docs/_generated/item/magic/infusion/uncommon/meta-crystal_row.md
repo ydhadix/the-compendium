@@ -1,0 +1,1 @@
+| [Meta Crystal](/item/magic/infusion/uncommon/meta-crystal.md) | Wondrous Item | Uncommon | No |

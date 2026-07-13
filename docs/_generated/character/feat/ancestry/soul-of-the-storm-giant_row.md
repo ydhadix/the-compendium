@@ -1,0 +1,1 @@
+| [Soul of the Storm Giant](/character/feat/ancestry/soul-of-the-storm-giant.md) | Goliath (Storm Ancestry) | — |

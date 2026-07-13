@@ -1,0 +1,1 @@
+| [Lightning Khopesh](/item/magic/infusion/rare/lightning-khopesh.md) | Weapon (Fence) | Rare | No |

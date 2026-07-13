@@ -1,0 +1,1 @@
+| [Fury of the Frost Giant](/character/feat/ancestry/fury-of-the-frost-giant.md) | Goliath (Frost Ancestry) | — |
