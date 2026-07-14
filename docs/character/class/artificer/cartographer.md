@@ -42,7 +42,7 @@ You can spend **15** feet of movement to teleport up to **10** feet.
 #### Global Positioning
 Creatures in the atlas always know the general location and direction to other creatures in the atlas, and do not need to see to target each other with Spells and magical effects.
 #### Terrain Advantage
-Creatures in the atlas add **1d4** to Initiative Checks.
+The Initiative Checks of creatures in the atlas increase by **1d4**.
 
 ### 6: Ingenious Movement
 Your Speed increases by **10** feet.

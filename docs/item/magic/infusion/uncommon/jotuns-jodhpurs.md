@@ -1,5 +1,5 @@
 ### Jotun's Jodhpurs
-Uncommon Clothing (Pants)
+Uncommon Clothing (Clothes)
 { .subtitle }
 
-You count as one size smaller when riding a non-humanoid creature as a mount.
+While mounting a non-Humanoid creature, you count as one Size smaller.

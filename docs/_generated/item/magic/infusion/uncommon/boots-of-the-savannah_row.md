@@ -1,0 +1,1 @@
+| [Boots of the Savannah](/item/magic/infusion/uncommon/boots-of-the-savannah.md) | Clothing (Boots) | Uncommon | Yes |

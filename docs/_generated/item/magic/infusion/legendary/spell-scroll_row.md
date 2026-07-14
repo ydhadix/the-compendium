@@ -1,0 +1,1 @@
+| [Spell Scroll](/item/magic/infusion/legendary/spell-scroll.md) | Scroll | Legendary | No |

@@ -2,4 +2,4 @@
 Tool, 100 gold
 { .subtitle }
 
-Using a Magnifying Glass adds **+5** to your Intelligence and Wisdom Checks to appraise or inspect a highly detailed item.
+While using a Magnifying Glass, your Intelligence and Wisdom Checks to appraise or inspect a highly detailed item increase by **5**.

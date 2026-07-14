@@ -19,7 +19,7 @@ While Unarmored, your Armor Class is only based on your Dexterity and Proficienc
 | Unarmored | 8 + DEX + PB | — | — | 4 | — | — |
 
 ### Light Armor
-Light Armor keeps your full Dexterity bonus to Armor Class and doesn't impose a Stealth penalty.
+Light Armor keeps your full Dexterity bonus to Armor Class and has no Stealth penalty.
 
 | Name | Armor Class | Strength Requirement | Damage Reduction | Item Capacity | Stealth Penalty | Value |
 |---|---|---|---|---|---|---|

@@ -15,3 +15,7 @@ The Compendium is a collection of Tabletop RPG rules inspired by, but not direct
 | [Bastion Blueprints](bastion/index.md) | Create a character's personal stronghold. |
 | [Spelljammer Schematics](spelljammer/index.md) | Sailing magical ships through the Astral Sea. |
 | [The Archive](archive/index.md) | Records of previous campaigns and the characters that played in them. |
+
+## Changelog
+
+--8<-- "_changelogs/1.7.md"

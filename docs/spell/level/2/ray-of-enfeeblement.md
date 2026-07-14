@@ -16,7 +16,7 @@ The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | The target gains Disadvantage on d20 rolls using Strength and subtracts **1d8** from its Damage Rolls. |
+| Fail | The target gains Disadvantage on d20 rolls using Strength, and its Damage Rolls decrease by **1d8**. |
 | Success | The next Attack Roll the target makes gains Disadvantage, then this Spell ends. |
 
 Before the target's Turn ends, it repeats this Saving Throw, ending this Spell on a success.

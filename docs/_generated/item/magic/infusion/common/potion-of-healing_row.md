@@ -1,0 +1,1 @@
+| [Potion of Healing](/item/magic/infusion/common/potion-of-healing.md) | Potion | Common | No |

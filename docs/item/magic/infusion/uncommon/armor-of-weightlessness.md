@@ -7,8 +7,8 @@ Uncommon Armor (Any), Attunement
 
 You gain Falling Immunity.
 
-###### Cast
-You can cast the following spells:
+#### Cast
+You can cast the following Spells:
 
 | Spell | Action | Charges |
 |---|---|---|

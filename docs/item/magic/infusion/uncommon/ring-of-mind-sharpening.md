@@ -5,7 +5,7 @@ Uncommon Clothing (Jewelry), Attunement
 **4** Charges (regain **1d4** per Day)
 { .subtitle }
 
-###### Sharpen Mind
+#### Sharpen Mind
 Reaction, 1 Charge
 { .subtitle }
 

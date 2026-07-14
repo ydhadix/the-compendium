@@ -2,4 +2,4 @@
 Tool, 25 gold
 { .subtitle }
 
-Using a Sextant adds **+5** to your Survival Checks to navigate at sea.
+While using a Sextant, your Survival Checks to navigate at sea increase by **5**.

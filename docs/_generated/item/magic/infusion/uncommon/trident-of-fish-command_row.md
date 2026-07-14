@@ -1,0 +1,1 @@
+| [Trident of Fish Command](/item/magic/infusion/uncommon/trident-of-fish-command.md) | Weapon (Staff) | Uncommon | Yes |

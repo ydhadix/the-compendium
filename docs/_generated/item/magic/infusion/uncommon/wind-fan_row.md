@@ -1,0 +1,1 @@
+| [Wind Fan](/item/magic/infusion/uncommon/wind-fan.md) | Wondrous Item | Uncommon | No |

@@ -10,7 +10,7 @@ You can jump up to **10** feet vertically without effort and have Falling Immuni
 While dancing, your Charisma Checks gain Advantage.
 
 #### Silver Step
-1 Charge
+Free Action, 1 Charge
 { .subtitle }
 
 Before you make a Charisma Check, you can gain Advantage.

@@ -19,7 +19,7 @@
 | [Handy Spice Pouch](/item/magic/infusion/common/handy-spice-pouch.md) | Wondrous Item | Common | No |
 | [Hat of Vermin](/item/magic/infusion/common/hat-of-vermin.md) | Clothing (Hat) | Common | No |
 | [Hat of Wizardry](/item/magic/infusion/common/hat-of-wizardry.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Wizard) |
-| [Horn of Blasting](/item/magic/infusion/common/horn-of-blasting.md) | Wondrous Item | Common | No |
+| [Horn of Silent Alarm](/item/magic/infusion/common/horn-of-silent-alarm.md) | Wondrous Item | Common | No |
 | [Instrument of Illusions](/item/magic/infusion/common/instrument-of-illusions.md) | Wondrous Item | Common | No |
 | [Instrument of Scribing](/item/magic/infusion/common/instrument-of-scribing.md) | Wondrous Item | Common | No |
 | [Lock of Trickery](/item/magic/infusion/common/lock-of-trickery.md) | Wondrous Item | Common | No |
@@ -35,11 +35,15 @@
 | [Pot of Awakening](/item/magic/infusion/common/pot-of-awakening.md) | Wondrous Item | Common | No |
 | [Potion of Climbing](/item/magic/infusion/common/potion-of-climbing.md) | Potion | Common | No |
 | [Potion of Comprehension](/item/magic/infusion/common/potion-of-comprehension.md) | Potion | Common | No |
+| [Potion of Healing](/item/magic/infusion/common/potion-of-healing.md) | Potion | Common | No |
 | [Prosthetic Limb](/item/magic/infusion/common/prosthetic-limb.md) | Wondrous Item | Common | No |
+| [Rival Coin](/item/magic/infusion/common/rival-coin.md) | Wondrous Item | Common | No |
+| [Rod of the Pact Keeper](/item/magic/infusion/common/rod-of-the-pact-keeper.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Warlock) |
 | [Rope of Mending](/item/magic/infusion/common/rope-of-mending.md) | Wondrous Item | Common | No |
 | [Ruby of the War Mage](/item/magic/infusion/common/ruby-of-the-war-mage.md) | Spellcasting Focus (Any) | Common | Yes (Spellcaster) |
 | [Shield of Expression](/item/magic/infusion/common/shield-of-expression.md) | Shield (Any) | Common | No |
 | [Smoldering Armor](/item/magic/infusion/common/smoldering-armor.md) | Armor (Any) | Common | No |
+| [Spell Scroll](/item/magic/infusion/common/spell-scroll.md) | Scroll | Common | No |
 | [Staff of Adornment](/item/magic/infusion/common/staff-of-adornment.md) | Weapon (Staff) | Common | No |
 | [Staff of Birdcalls](/item/magic/infusion/common/staff-of-birdcalls.md) | Weapon (Staff) | Common | No |
 | [Staff of Flowers](/item/magic/infusion/common/staff-of-flowers.md) | Weapon (Staff) | Common | No |
@@ -51,3 +55,4 @@
 | [Wand of Pyrotechnics](/item/magic/infusion/common/wand-of-pyrotechnics.md) | Spellcasting Focus (Arcane Focus) | Common | No |
 | [Wand of the War Mage](/item/magic/infusion/common/wand-of-the-war-mage.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Spellcaster) |
 | [Wand Sheathe](/item/magic/infusion/common/wand-sheathe.md) | Wondrous Item | Common | Yes (Construct) |
+| [Wraps of Unarmed Power](/item/magic/infusion/common/wraps-of-unarmed-power.md) | Clothing (Gloves) | Common | No |

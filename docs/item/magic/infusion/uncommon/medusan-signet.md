@@ -5,7 +5,7 @@ Uncommon Clothing (Jewelry), Attunement
 **3** uses
 { .subtitle }
 
-#### Stone Armor
+#### Stone Savior
 Free Action, 1 use
 { .subtitle }
 

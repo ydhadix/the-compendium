@@ -2,9 +2,6 @@
 Legendary Clothing (Belt), Attunement (Beast Master Ranger)
 { .subtitle }
 
-**6** Charges (regain **6** per Day)
-{ .subtitle }
-
 This exotic leather belt bears six talon-shaped claws, each gripping a **3**-inch stone-grey ball. Each ball is divided into two hemispheres by a thin seam and hinge with a small button at its center.  Only an attuned creature can attach or remove a ball from the belt.
 
 #### Linking Monsters
@@ -12,7 +9,7 @@ Each ball can house the spirit of a Beast or Monstrosity, which can be summoned 
 
 After you attune to the belt, each of your Primal Companion forms becomes linked to a ball.  While linked, a ball's color and pattern change to reflect the monster bound within it _(you determine its appearance)_.
 
-For each linked ball, reduce the number of Charges this item has by **1**.
+For each linked ball, reduce your daily [Gotcha!](#gotcha) uses by **1**.
 
 Whenever you would summon a Primal Companion or change its form, you can instead choose any monster linked to the belt.
 
@@ -37,7 +34,7 @@ All monsters linked to the belt share the same Hit Points, Attunement Slots, and
 Your summoned monster returns to its ball, along with anything it is wearing.  Anything the monster was carrying falls to the ground in its previous space.
 
 ##### Gotcha!
-1 Charge
+6 uses per Day
 { .subtitle }
 
 You throw an unlinked ball at a Beast or Monstrosity within **30** feet.  The target makes a Capture Save _(DC = **Ranger Spell Save DC**)_.

@@ -58,10 +58,10 @@ All adventurers have Proficiency with Simple weapons, which require minimal trai
 | Sidearm Δ | 1d6 Bludgeoning, Piercing, or Slashing | Light | One | Thrown (20/60) | Nick, Sap, Slow, Vex | 2 gold |
 | Staff | 1d6 Bludgeoning or Piercing | — | Versatile (1d8) | Thrown (20/60) | Sap, Slow, Topple | 1 gold |
 | Staff Δ | 1d6 Bludgeoning or Piercing | — | One | Thrown (30/90) | Sap, Slow, Topple | 2 gold |
-| Sling | 1d4 Bludgeoning | — | One | Ammunition (40/160) | Slow, Topple | 1 gold |
 
 | Ranged | Damage | Weight | Hands | Properties | Mastery | Value |
 |---|---|---|---|---|---|---|
+| Sling | 1d4 Bludgeoning | — | One | Ammunition (40/160) | Slow, Topple | 1 gold |
 | Crossbow | 1d6 Piercing | Light | One | Ammunition (40/160), Loading | Slow, Vex | 25 gold |
 | Crossbow Δ | 1d8 Piercing | — | Two | Ammunition (80/320), Loading | Slow, Vex | 50 gold |
 

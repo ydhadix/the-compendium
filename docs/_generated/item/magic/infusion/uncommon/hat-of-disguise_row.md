@@ -1,0 +1,1 @@
+| [Hat of Disguise](/item/magic/infusion/uncommon/hat-of-disguise.md) | Clothing (Hat) | Uncommon | Yes |

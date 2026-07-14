@@ -1,0 +1,1 @@
+| [Rod of the Pact Keeper](/item/magic/infusion/common/rod-of-the-pact-keeper.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Warlock) |

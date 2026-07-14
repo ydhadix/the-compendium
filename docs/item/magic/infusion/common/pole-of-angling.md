@@ -2,7 +2,7 @@
 Common Wondrous Item
 { .subtitle }
 
-###### Transform
+#### Transform
 Magic Action
 { .subtitle }
 

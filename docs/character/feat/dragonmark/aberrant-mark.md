@@ -3,7 +3,7 @@ Prerequisite: No other Dragonmark
 { .subtitle }
 
 #### Uncanny Fortitude
-You add **1d4** to Fortitude Saves.
+Your Fortitude Saves increase by **1d4**.
 
 #### Aberrant Spells
 You learn one Sorcerer Cantrip and one 1st-Level Sorcerer Spell.  You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.

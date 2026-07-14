@@ -4,4 +4,4 @@ Other, 25 gold
 
 A Book contains fiction or nonfiction.
 
-Consulting an accurate nonfiction Book adds **+5** to your Intelligence Checks about its topic.
+While consulting an accurate nonfiction Book, your Intelligence Checks about its topic increase by **5**.

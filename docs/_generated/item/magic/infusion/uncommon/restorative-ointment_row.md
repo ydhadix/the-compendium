@@ -1,0 +1,1 @@
+| [Restorative Ointment](/item/magic/infusion/uncommon/restorative-ointment.md) | Potion | Uncommon | No |

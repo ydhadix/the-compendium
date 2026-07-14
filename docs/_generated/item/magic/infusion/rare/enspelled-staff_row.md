@@ -1,0 +1,1 @@
+| [Enspelled Staff](/item/magic/infusion/rare/enspelled-staff.md) | Spellcasting Focus (Any) | Rare | Yes (Spellcaster) |

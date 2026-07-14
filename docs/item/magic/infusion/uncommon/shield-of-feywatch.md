@@ -2,4 +2,4 @@
 Uncommon Shield (Any)
 { .subtitle }
 
-You add **5** to Ability Checks and Saving Throws made to see through illusions or resist Charm.
+Your Ability Checks and Saving Throws to see through illusions or resist Charm increase by **5**.

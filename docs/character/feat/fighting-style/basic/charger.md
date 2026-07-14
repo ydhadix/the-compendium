@@ -2,7 +2,7 @@
 Free Action
 { .subtitle }
 
-Before you Dash, you can add **+10** feet to your Speed until the end of the Turn.
+Before you Dash, you can add **10** feet to your Speed until the end of the Turn.
 
 ###### Charge
 Free Action, 1 use per Turn

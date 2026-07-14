@@ -2,7 +2,7 @@
 Prerequisite: Great Weapon Fighting
 { .subtitle }
 
-Your Heavy Melee Weapons add **PB** to Damage Rolls.
+Your Damage Rolls with Heavy Melee Weapons increase by **PB**.
 
 ###### Follow Through
 Free Action, 1 use per Turn

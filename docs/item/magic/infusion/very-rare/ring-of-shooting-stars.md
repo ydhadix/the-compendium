@@ -13,14 +13,14 @@ You can cast the following spells:
 | _Dancing Lights_ | Magic Action | — |
 | _Light_ | Magic Action | — |
 | _Starry Wisp_ | Magic Action | — |
-| _Cure Wounds_ | Magic Action | 1 to 3 Charges |
-| _Faerie Fire_ | Magic Action | 1 to 3 Charges |
-| _Guiding Bolt_ | Magic Action | 1 to 3 Charges |
+| _Cure Wounds_ | Magic Action | 1–3 Charges |
+| _Faerie Fire_ | Magic Action | 1–3 Charges |
+| _Guiding Bolt_ | Magic Action | 1–3 Charges |
 
 Increase the Spell Level by **1** for each additional Charge expended.
 
 ###### Shooting Stars
-Magic Action, 1 to 3 Charges
+Magic Action, 1–3 Charges
 { .subtitle }
 
 For each Charge expended, you choose a **10**-foot radius Sphere within **60** feet. Everything in those Spheres makes a Reflex Save.

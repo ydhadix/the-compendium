@@ -5,11 +5,11 @@ Uncommon Wondrous Item (Musical Instrument)
 **3** Charges (regain **1d3** per Day)
 { .subtitle }
 
-###### Haunt
+#### Haunt
 Magic Action, 1 Charge
 { .subtitle }
 
-You choose any number of creatures within **30** feet. Each target makes a Will Save _(DC = **13**)_.
+Each creature you choose within **30** feet makes a Will Save _(DC = **13**)_.
 
 | | |
 |---|---|

@@ -20,12 +20,12 @@ After you finish a Travel Rest, you gain the effect of a Short Rest and regain u
 ### Long Rest
 A Long Rest takes **8** hours: at least **6** hours of sleep and no more than **2** hours of light activity.
 
-After you finish a Long Rest, you:
+After you finish a Long Rest:
 
-- heal all lost Hit Points.
-- regain all spent Hit Dice.
-- restore any reduced Hit Point Maximum and Abilities.
-- reduce your Exhaustion by **1** level if you are Exhausted.
+- you heal all lost Hit Points.
+- you regain all spent Hit Dice.
+- you restore any reduced Hit Point Maximum and Abilities.
+- your Exhaustion level reduces by **1**.
 
 ## The Day
 A Day is the fundamental recurring time cycle of the setting. Its length and starting moment are set by the DM based on context — typically a **24**-hour cycle beginning at a fixed point such as midnight or dawn, or an equivalent cycle in a non-standard setting such as the Astral Plane or a spelljamming vessel.

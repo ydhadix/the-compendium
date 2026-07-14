@@ -1,7 +1,7 @@
 ### Throwing
-Your non-Light, non-Heavy Thrown weapons add **+2** to Damage Rolls.
+Your Damage Rolls with non-Light, non-Heavy Thrown weapons increase by **2**.
 
-Your Thrown weapons double their Range.
+Your Thrown weapons' Range becomes doubled.
 
 ###### Returning
 After you make a Ranged Attack with a Light Thrown Weapon, it returns to your free hand.

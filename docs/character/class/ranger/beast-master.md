@@ -31,7 +31,7 @@ You summon a [Primal Companion](#primal-companion-forms).
 
 Primal Companions have the following benefits:
 
-- Your companion adds **PB** to its Ability Checks and Saving Throws.
+- Your companion's Ability Checks and Saving Throws increase by **PB**.
 - Before you cast a Spell that targets only you, you can also target your companion if it is within **120** feet.
 
 #### Issuing Commands
@@ -137,7 +137,7 @@ Medium Beast, Neutral
 | Range | Reach |
 | Attack | +your Spell Attack to hit |
 | Damage | 1d6 + STR + your Spell Ability Bludgeoning, Piercing, or Slashing Damage |
-| Effect | After this Attack hits, the companion grapples the target.  The companion adds **Spell Ability** to Checks to prevent the target from escaping. |
+| Effect | After this Attack hits, the companion grapples the target.  The companion's Checks to prevent the target from escaping increase by **Spell Ability**. |
 
 
 ##### Primal Companion: Sky

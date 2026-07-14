@@ -2,4 +2,4 @@
 Prerequisite: Sharpshooting
 { .subtitle }
 
-Your Slings double their Range and add **+1** to their Critical Hit Range.
+Your Slings' Range becomes doubled, and their Critical Hit Range increases by **1**.

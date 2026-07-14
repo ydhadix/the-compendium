@@ -25,7 +25,7 @@ While donning a suit of armor, you can leave off parts of the armor to treat it 
 While you have armor donned that you don't have Proficiency with, you gain Disadvantage on D20 Tests using Strength or Dexterity and can't cast Spells.
 
 #### Strength Requirements
-If you don't meet your armor's Strength Requirement, your Speed is reduced by **15** feet.
+If you don't meet your armor's Strength Requirement, your Speed decreases by **15** feet.
 
 #### Item Capacity
 Each armor has a different capacity for carrying readily accessible items into combat. You can take **1** minute outside of combat to change items.

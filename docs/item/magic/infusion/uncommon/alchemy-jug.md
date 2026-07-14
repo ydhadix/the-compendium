@@ -2,14 +2,11 @@
 Uncommon Wondrous Item
 { .subtitle }
 
-**1** Charge (regain **1** per Day)
+#### Name Liquid
+Magic Action, 1 use per Day
 { .subtitle }
 
-###### Name Liquid
-Magic Action, 1 Charge
-{ .subtitle }
-
-You choose one of the following liquids, and the jug immediately begins producing it.
+You can choose one of the following liquids for this item's Pour property.
 
 | Liquid | Maximum |
 |---|---|
@@ -24,7 +21,7 @@ You choose one of the following liquids, and the jug immediately begins producin
 | Salt Water | 12 gallons |
 | Wine | 1 gallon |
 
-###### Pour
+#### Pour
 Utilize Action
 { .subtitle }
 

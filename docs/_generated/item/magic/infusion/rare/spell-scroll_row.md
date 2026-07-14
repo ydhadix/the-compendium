@@ -1,0 +1,1 @@
+| [Spell Scroll](/item/magic/infusion/rare/spell-scroll.md) | Scroll | Rare | No |

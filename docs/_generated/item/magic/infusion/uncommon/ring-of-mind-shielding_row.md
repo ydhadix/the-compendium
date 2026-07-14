@@ -1,0 +1,1 @@
+| [Ring of Mind Shielding](/item/magic/infusion/uncommon/ring-of-mind-shielding.md) | Clothing (Jewelry) | Uncommon | Yes |

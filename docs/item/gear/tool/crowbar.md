@@ -2,4 +2,4 @@
 Tool, 2 gold
 { .subtitle }
 
-Using a Crowbar adds **+5** to your Strength Checks where its leverage can be applied.
+While using a Crowbar, your Strength Checks where its leverage can be applied increase by **5**.

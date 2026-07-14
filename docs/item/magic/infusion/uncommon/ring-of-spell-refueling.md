@@ -2,11 +2,8 @@
 Uncommon Clothing (Jewelry), Attunement (Spellcaster)
 { .subtitle }
 
-**1** Charge (regain **1** per Day)
+#### Quick Recovery
+Bonus Action, 1 use per Day
 { .subtitle }
 
-###### Refuel
-Bonus Action, 1 Charge
-{ .subtitle }
-
-You can recover **1** expended 3rd-Level or lower Spell Slot.
+You regain one expended 3rd-Level or lower Spell Slot.

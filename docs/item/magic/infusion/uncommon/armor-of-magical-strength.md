@@ -5,14 +5,14 @@ Uncommon Armor (Any), Attunement (Spellcaster)
 **6** Charges (regain **1d6** per Day)
 { .subtitle }
 
-###### Arcane Might
+#### Empower
 Free Action, 1 Charge
 { .subtitle }
 
 Before you make a Strength Check or Fortitude Save, you can add your Spellcasting Ability to the total.
 
-###### Hold Fast
+#### Bulwark
 Reaction, 1 Charge
 { .subtitle }
 
-Before you are knocked Prone, you can prevent it.
+Before you are propelled or knocked Prone, you can become Anchored until the end of the turn or you end this effect _(no action required)_.

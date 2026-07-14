@@ -1,0 +1,1 @@
+| [Potion of Fire Breath](/item/magic/infusion/uncommon/potion-of-fire-breath.md) | Potion | Uncommon | No |

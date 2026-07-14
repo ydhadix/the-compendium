@@ -1,2 +1,2 @@
 ### Dueling
-While you are only holding one weapon, your Melee Attacks with one-handed weapons add **+2** to Damage Rolls.
+While you are only holding one weapon, your Damage Rolls with one-handed Melee weapons increase by **2**.

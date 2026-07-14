@@ -1,0 +1,1 @@
+| [Enspelled Weapon](/item/magic/infusion/very-rare/enspelled-weapon.md) | Weapon (Any) | Very Rare | Yes |

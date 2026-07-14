@@ -15,7 +15,7 @@
 The target gains the following benefits:
 
 - Its Speed becomes doubled.
-- It has a **+2** bonus to Armor Class.
+- Its Armor Class increases by **2**.
 - It gains Advantage on Reflex Saves.
 - It can take an additional action on its Turns, used only to Attack (one attack only), Dash, Disengage, Hide, or Utilize.
 

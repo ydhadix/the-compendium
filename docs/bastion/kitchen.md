@@ -8,7 +8,7 @@
 | Skills | — |
 
 #### Hearty Meals
-When a creature finishes a Long Rest in your Bastion, its Exhaustion is reduced by **1**, in addition to the Long Rest's normal Exhaustion reduction.
+When a creature finishes a Long Rest in your Bastion, its Exhaustion decreases by **1**, in addition to the Long Rest's normal Exhaustion reduction.
 
 #### Upgrading
 | Upgrade | Size | Effect |

@@ -12,4 +12,4 @@ Before you roll a d20, you can gain Advantage on the d20.
 Free Action
 { .subtitle }
 
-Before a creature attacks you, you can impose Disadvantage on the Attack Roll.
+Before a creature attacks you, the Attack Roll can gain Disadvantage.

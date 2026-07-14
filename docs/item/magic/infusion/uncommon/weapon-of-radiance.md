@@ -5,21 +5,19 @@ Uncommon Weapon (Any), Attunement
 **4** Charges (regain **1d4** per Day)
 { .subtitle }
 
-This weapon emits **30** feet of Bright Light and Dim Light **30** feet further.
-
-###### Toggle Light
+#### Illuminate
 Bonus Action
 { .subtitle }
 
-You can extinguish or reignite the light.
+This item sheds light as the _Light_ Spell.
 
-###### Blinding Flash
+#### Flash
 Reaction, 1 Charge
 { .subtitle }
 
-Before a creature attacks you, the attacker makes a Fortitude Save _(DC = **13**)_.
+Before you are attacked, you can make the attacker make a Fortitude Save _(DC = **13**)_.
 
 | | |
 |---|---|
-| Fail | The attacker is Blinded until the end of its next Turn. |
+| Fail | You blind the attacker until the end of its next Turn. |
 | Success | No effect. |

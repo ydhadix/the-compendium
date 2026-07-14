@@ -2,13 +2,10 @@
 Rare Clothing (Jewelry)
 { .subtitle }
 
-**3** Charges (regain **3** per Day)
-{ .subtitle }
-
 This rubber bracelet can be worn around the wrist or ankle.
 
 #### Summon
-Magic Action, 1 Charge
+Magic Action, 3 uses per Day
 { .subtitle }
 
 You summon a windskiff, a sail-powered personal vehicle roughly the shape of a household door with a **10**-foot-tall sail extending from one side.  The vehicle disappears after **1** hour, its hull points drop to **0**, or you dismiss it _(no action required)_.

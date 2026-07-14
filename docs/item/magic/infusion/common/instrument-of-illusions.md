@@ -2,8 +2,8 @@
 Common Wondrous Item
 { .subtitle }
 
-###### Play
+#### Play
 Magic Action
 { .subtitle }
 
-While you are playing this musical instrument, you can create harmless, illusory visual effects within **5** feet of you until you stop playing. If you are a Bard, the range of the illusions increases to **15** feet.
+While you are playing this musical instrument, you can create harmless, illusory visual effects within **5** feet until you stop playing. If you are a Bard, the illusions' range becomes **15** feet.

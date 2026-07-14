@@ -3,7 +3,7 @@ Rare Armor (Medium or Heavy)
 { .subtitle }
 
 ###### Second Skin
-While donned, this armor can't be removed against your will and doesn't impose Disadvantage on Stealth Checks. You also ignore its Strength requirement.
+While donned, this armor can't be removed against your will. You ignore its Stealth penalty and Strength requirement.
 
 ###### Fire Resistance
 You gain Fire Resistance.

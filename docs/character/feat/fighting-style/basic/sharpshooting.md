@@ -1,2 +1,2 @@
 ### Sharpshooting
-Your Ranged Weapons add **+2** to Attack Rolls.
+Your Attack Rolls with Ranged Weapons increase by **2**.

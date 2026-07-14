@@ -2,8 +2,8 @@
 Uncommon Clothing (Jewelry)
 { .subtitle }
 
-###### Exchange
+#### Transmute
 Free Action
 { .subtitle }
 
-Before you cast a Spell that deals Fire Damage, you can change it to Lightning Damage, or vice versa.
+Before you cast a Spell that deals Fire or Lightning Damage, you can replace that Damage Type with the other.

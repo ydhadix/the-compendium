@@ -12,4 +12,4 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-Choose any number of creatures in the area. Each chosen creature has a **+10** bonus to Stealth Checks and leaves no tracks.
+Choose any number of creatures in the area. Each chosen creature's Stealth Checks increase by **10**, and it leaves no tracks.

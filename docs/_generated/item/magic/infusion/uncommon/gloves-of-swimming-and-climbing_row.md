@@ -1,0 +1,1 @@
+| [Gloves of Swimming and Climbing](/item/magic/infusion/uncommon/gloves-of-swimming-and-climbing.md) | Clothing (Gloves) | Uncommon | Yes |

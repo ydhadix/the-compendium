@@ -1,0 +1,1 @@
+| [Dust of Dryness](/item/magic/infusion/uncommon/dust-of-dryness.md) | Wondrous Item | Uncommon | No |

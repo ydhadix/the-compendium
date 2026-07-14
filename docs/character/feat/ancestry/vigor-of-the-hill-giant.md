@@ -8,4 +8,4 @@ After you spend Hit Dice to heal during a Short Rest, you heal by **CON + PB**, 
 Reaction
 { .subtitle }
 
-Before you are propelled or knocked Prone, you can become Anchored until the end of the turn.
+Before you are propelled or knocked Prone, you can become Anchored until the end of the turn or you end this effect _(no action required)_.

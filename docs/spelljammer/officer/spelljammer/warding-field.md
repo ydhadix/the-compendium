@@ -11,4 +11,4 @@ Abjuration Cantrip
 | Duration | Until the end of your next Turn (Concentration) |
 
 ##### Protocol Effect
-You add **your Proficiency Bonus** to your Ship's AC.
+Your Ship's Armor Class increases by **PB**.

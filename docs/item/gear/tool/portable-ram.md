@@ -2,4 +2,4 @@
 Tool, 4 gold
 { .subtitle }
 
-Using a Portable Ram adds **+5** to your Strength Checks to break down doors.
+While using a Portable Ram, your Strength Checks to break down doors increase by **5**.

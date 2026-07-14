@@ -1,0 +1,1 @@
+| [Gem of Brightness](/item/magic/infusion/uncommon/gem-of-brightness.md) | Wondrous Item | Uncommon | No |

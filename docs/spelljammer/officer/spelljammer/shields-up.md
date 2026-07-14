@@ -11,4 +11,4 @@
 | Duration | Until the end of your next Turn |
 
 ##### Protocol Effect
-You add **5** to your Ship's Armor Class.
+Your Ship's Armor Class increases by **5**.

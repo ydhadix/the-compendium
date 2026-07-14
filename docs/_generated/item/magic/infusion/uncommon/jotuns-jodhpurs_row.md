@@ -1,1 +1,1 @@
-| [Jotun's Jodhpurs](/item/magic/infusion/uncommon/jotuns-jodhpurs.md) | Clothing (Pants) | Uncommon | No |
+| [Jotun's Jodhpurs](/item/magic/infusion/uncommon/jotuns-jodhpurs.md) | Clothing (Clothes) | Uncommon | No |

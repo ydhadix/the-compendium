@@ -2,4 +2,4 @@
 Shield, 10 gold
 { .subtitle }
 
-While donned, a Medium Shield adds **+2** to your Armor Class and occupies one hand.
+While donned, a Medium Shield occupies one hand, and your Armor Class increases by **2**.

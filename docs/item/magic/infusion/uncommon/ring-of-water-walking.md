@@ -2,7 +2,7 @@
 Uncommon Clothing (Jewelry)
 { .subtitle }
 
-###### Cast
+#### Cast
 Magic Action
 { .subtitle }
 

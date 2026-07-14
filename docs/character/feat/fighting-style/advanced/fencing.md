@@ -2,7 +2,7 @@
 Prerequisite: Dueling
 { .subtitle }
 
-While holding a Finesse Weapon and no other weapons, you add **+1** to your Armor Class.
+While holding a Finesse Weapon and no other weapons, your Armor Class increases by **1**.
 
 ###### Riposte
 Reaction

@@ -1,5 +1,5 @@
 ### Mounted
-While mounted, you and your mount each add **+1** to Armor Class.
+While mounted, your Armor Class and your mount's Armor Class each increase by **1**.
 
 ###### Command
 Bonus Action

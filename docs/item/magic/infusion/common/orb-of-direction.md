@@ -2,7 +2,7 @@
 Common Spellcasting Focus (Arcane Focus)
 { .subtitle }
 
-###### Find North
+#### Find North
 Magic Action
 { .subtitle }
 

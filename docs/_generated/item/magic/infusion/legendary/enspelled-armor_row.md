@@ -1,0 +1,1 @@
+| [Enspelled Armor](/item/magic/infusion/legendary/enspelled-armor.md) | Armor (Any) | Legendary | Yes |

@@ -6,6 +6,6 @@ There are three levels of Cover. If you are behind multiple sources of Cover, on
 
 | Cover | Effect |
 |---|---|
-| Half Cover | You add **+2** to your Armor Class and Reflex Saves. |
-| Three-Quarters Cover | You add **+5** to your Armor Class and Reflex Saves. |
+| Half Cover | Your Armor Class and Reflex Saves increase by **2**. |
+| Three-Quarters Cover | Your Armor Class and Reflex Saves increase by **5**. |
 | Full Cover | You can't be seen or targeted directly by Attacks or Spells, and you automatically succeed on Reflex Saves. |

@@ -1,0 +1,1 @@
+| [Boots of Striding and Springing](/item/magic/infusion/uncommon/boots-of-striding-and-springing.md) | Clothing (Boots) | Uncommon | Yes |

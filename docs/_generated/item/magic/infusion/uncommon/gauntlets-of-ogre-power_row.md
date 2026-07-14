@@ -1,0 +1,1 @@
+| [Gauntlets of Ogre Power](/item/magic/infusion/uncommon/gauntlets-of-ogre-power.md) | Clothing (Gloves) | Uncommon | Yes |

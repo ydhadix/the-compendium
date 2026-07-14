@@ -2,4 +2,4 @@
 Tool, 25 gold
 { .subtitle }
 
-Using a Lockpick adds **+5** to your Precision Checks to pick a Lock or disarm a trap.
+While using a Lockpick, your Precision Checks to pick a Lock or disarm a trap increase by **5**.

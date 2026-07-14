@@ -6,7 +6,7 @@ The Quartermaster can use their Ship Action to issue a number of orders up to th
 
 ### Hull Orders
 ##### Brace for Impact!
-Until your next Turn, add **5** to your hull's Damage Threshold.
+Until your next Turn, your hull's Damage Threshold increases by **5**.
 
 ##### Damage Control!
 The hull heals **6d6** Hull Points.

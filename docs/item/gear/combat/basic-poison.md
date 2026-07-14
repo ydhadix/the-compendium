@@ -4,11 +4,11 @@ Poison (Injury), Consumable, 100 gold
 
 Basic Poison comes in a Vial.
 
-###### Venom
-A weapon coated in Basic Poison adds **1d4** Poison Damage to any Piercing Damage or Slashing Damage it deals.
-
-###### Coat Weapon
+#### Coat Weapon
 Bonus Action
 { .subtitle }
 
-You can coat one weapon or up to **3** pieces of ammunition. Once applied, the poison retains potency for **1** minute or until its damage is dealt, whichever comes first.
+You can coat **1** weapon or up to **3** pieces of ammunition. Once applied, the poison retains potency for **1** minute or until its Envenom damage is dealt, whichever comes first.
+
+#### Envenom
+Before you deal Piercing or Slashing damage with this weapon, you deal **1d4** Poison Damage.

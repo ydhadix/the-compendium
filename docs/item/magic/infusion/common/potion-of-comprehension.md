@@ -2,8 +2,4 @@
 Common Potion, Consumable
 { .subtitle }
 
-###### Imbibe
-Bonus Action
-{ .subtitle }
-
-You imbibe the Potion of Comprehension and gain the effect of the _Comprehend Languages_ Spell for **1** hour.
+After consuming this potion, you gain the effect of _Comprehend Languages_ for **1** hour.

@@ -2,4 +2,4 @@
 Uncommon Clothing (Hat)
 { .subtitle }
 
-While underwater, you can breathe normally.
+You gain the effect of _Water Breathing_.

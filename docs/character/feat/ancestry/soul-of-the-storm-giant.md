@@ -9,7 +9,7 @@ Bonus Action, Proficiency Bonus uses per Long Rest
 You gain the following effects until the start of your next Turn:
 
 - You gain Lightning and Thunder Resistance.
-- You impose Disadvantage on Attack Rolls against you.
+- Attack Rolls against you gain Disadvantage.
 - After a creature you choose within **10** feet starts its Turn, the target makes a Fortitude Save _(DC = **8 + CON + PB**)_.
 
 | | |

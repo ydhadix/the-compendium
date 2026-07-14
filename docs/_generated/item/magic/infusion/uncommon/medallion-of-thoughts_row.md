@@ -1,0 +1,1 @@
+| [Medallion of Thoughts](/item/magic/infusion/uncommon/medallion-of-thoughts.md) | Clothing (Jewelry) | Uncommon | Yes |

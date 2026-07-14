@@ -2,11 +2,8 @@
 Rare Clothing (Boots)
 { .subtitle }
 
-**1** Charge (regain **1** per Day)
-{ .subtitle }
-
 ###### Stormstride
-Free Action, 1 Charge
+Free Action, 1 use per Day
 { .subtitle }
 
 You gain the following benefits until the end of your Turn:

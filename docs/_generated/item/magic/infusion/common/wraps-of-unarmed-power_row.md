@@ -1,0 +1,1 @@
+| [Wraps of Unarmed Power](/item/magic/infusion/common/wraps-of-unarmed-power.md) | Clothing (Gloves) | Common | No |

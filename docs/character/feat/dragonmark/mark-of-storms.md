@@ -44,7 +44,7 @@ After you finish a Long Rest, you regain this Spell Slot.
 You gain Lightning and Thunder Resistance.
 
 #### Feather Soul
-Your weight is reduced by half, and you gain Falling Immunity.
+Your weight becomes halved, and you gain Falling Immunity.
 
 #### Tempest Magic
 Free Action

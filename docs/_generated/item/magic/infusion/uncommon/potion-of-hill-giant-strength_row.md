@@ -1,0 +1,1 @@
+| [Potion of Hill Giant Strength](/item/magic/infusion/uncommon/potion-of-hill-giant-strength.md) | Potion | Uncommon | No |

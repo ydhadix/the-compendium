@@ -46,7 +46,7 @@ Attunement
 
 This precision timepiece uses the position of celestial bodies to pinpoint your location and heading.
 
-This component adds **+1** to your Armor Class, and you always know which way is north.
+Your Armor Class increases by **1**, and you always know which way is north.
 
 ###### Dimensional Anchor
 You gain Planar Travel Protection.
@@ -71,7 +71,7 @@ Attunement
 
 This ovular, golden loop detects and manipulates interdimensional portals.
 
-This component adds **+1** to your Will Saves, and you can't be surprised.
+Your Will Saves increase by **1**, and you can't be surprised.
 
 ###### Portal Sense
 Magic Action
@@ -99,7 +99,7 @@ Attunement
 
 This set of intricate, platinum gears calculate the shortest path to a destination.
 
-This component adds **+1** to your Attack Rolls, and Difficult Terrain doesn't cost you extra movement.
+Your Attack Rolls increase by **1**, and Difficult Terrain doesn't cost you extra movement.
 
 ###### Fast Traveler
 Magic Action
@@ -122,7 +122,7 @@ Attunement
 
 Shifting runes on this circular disk perpetually record recent dates, times, and coordinates.
 
-This component adds **+1** to your Reflex Saves, and you can accurately recall anything you have perceived within the past **30** days.
+Your Reflex Saves increase by **1**, and you can accurately recall anything you have perceived within the past **30** days.
 
 ###### Rebound Code
 After you become Stabilized with **0** Hit Points, you heal by **CON** and gain **1** stack of Exhaustion.
@@ -148,7 +148,7 @@ Attunement
 
 This set of shimmering brass dials and gears track the passage of time across different planes.
 
-This component adds **+1** to your Spell Save DC, and you always know what hour of the day it is.
+Your Spell Save DC increases by **1**, and you always know what hour of the day it is.
 
 ###### Time Share
 Free Action
@@ -177,7 +177,7 @@ Attunement
 
 This astrolabe is etched with spinning constellations and a single, shifting line.
 
-This component adds **+1** to your Fortitude Saves, and you don't need to eat or drink.
+Your Fortitude Saves increase by **1**, and you don't need to eat or drink.
 
 ###### Certain Fate
 Your Ranged Attack Rolls ignore Half Cover and Three-Quarters Cover.

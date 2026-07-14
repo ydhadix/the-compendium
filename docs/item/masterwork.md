@@ -7,9 +7,9 @@ The Value of a Masterwork item is determined by each of the item's Masterwork bo
 
 | Bonus | Value | Armor | Min. Level |
 |---|---|---|---|
-| **+1** | **+400** gold | **+4,000** gold | **5** |
-| **+2** | **+4,000** gold | **+40,000** gold | **11** |
-| **+3** | **+40,000** gold | **+400,000** gold | **17** |
+| **1** | **+400** gold | **+4,000** gold | **5** |
+| **2** | **+4,000** gold | **+40,000** gold | **11** |
+| **3** | **+40,000** gold | **+400,000** gold | **17** |
 
 ## Bonus Types
 ###### Physical Attack

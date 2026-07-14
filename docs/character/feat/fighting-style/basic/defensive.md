@@ -1,2 +1,2 @@
 ### Defensive
-While wearing Armor, you add **+1** to your Armor Class and Damage Reduction.
+While wearing Armor, your Armor Class and Damage Reduction increase by **1**.

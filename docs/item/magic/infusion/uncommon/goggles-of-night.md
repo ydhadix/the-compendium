@@ -2,4 +2,4 @@
 Uncommon Wondrous Item
 { .subtitle }
 
-You gain **+60** feet of Darkvision.
+You gain **60** feet of Darkvision.

@@ -117,11 +117,11 @@ Choose a Barbarian Subclass. Your subclass grants you a feature at this level.
 Free Action, 1 use per Turn
 { .subtitle }
 
-Before you Attack with Advantage, you can forgo Advantage on the Attack Roll to add **1d10** to the Damage and choose one of the following effects:
+Before you Attack with Advantage, the Attack Roll can lose Advantage.  If it does, you add **1d10** to the Damage and choose one of the following effects:
 ##### Forceful Blow
 After the Attack, you propel the target up to **15** feet away from you, then move up to half your Speed toward the target without provoking Opportunity Attacks.
 ##### Hamstring Blow
-After the Attack, you reduce the target's Speed by **15** feet until the start of your next turn.
+After the Attack, the target's Speed decreases by **15** feet until the start of your next turn.
 
 
 ### 5: Extra Attack
@@ -168,4 +168,4 @@ You can regain all expended uses of Rage.
 
 
 ### 11: Primal Champion
-You add **2** to your Strength and Constitution _(and your maximum for those Abilities)_.
+Your Strength and Constitution _(and your maximum for those Abilities)_ increase by **2**.

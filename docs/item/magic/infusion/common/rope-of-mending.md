@@ -2,7 +2,7 @@
 Common Wondrous Item
 { .subtitle }
 
-###### Mend
+#### Mend
 Magic Action
 { .subtitle }
 

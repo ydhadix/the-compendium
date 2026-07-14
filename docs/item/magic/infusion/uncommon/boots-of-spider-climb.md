@@ -2,4 +2,4 @@
 Uncommon Clothing (Boots), Attunement
 { .subtitle }
 
-You have a Spider Climb Speed equal to your Speed.
+You gain a Spider Climb Speed equal to your Speed.
