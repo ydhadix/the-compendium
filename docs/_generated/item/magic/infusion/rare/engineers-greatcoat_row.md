@@ -1,0 +1,1 @@
+| [Engineer's Greatcoat](/item/magic/infusion/rare/engineers-greatcoat.md) | Clothing (Cloak) | Rare | No |

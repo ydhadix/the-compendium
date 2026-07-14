@@ -1,1 +1,1 @@
-| [Lantern of the Frost Watch](/item/magic/infusion/rare/lantern-of-the-frost-watch.md) | Adventuring Gear (Hooded Lantern) | Rare | No |
+| [Lantern of the Frost Watch](/item/magic/infusion/rare/lantern-of-the-frost-watch.md) | Wondrous Item (Hooded Lantern) | Rare | No |

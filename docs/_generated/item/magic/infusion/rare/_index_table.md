@@ -6,7 +6,7 @@
 | [Boots of Dancing](/item/magic/infusion/rare/boots-of-dancing.md) | Clothing (Boots) | Rare | No |
 | [Boots of the Stormsailor](/item/magic/infusion/rare/boots-of-the-stormsailor.md) | Clothing (Boots) | Rare | No |
 | [Docent](/item/magic/infusion/rare/docent.md) | Wondrous Item | Rare | Yes (Construct Companion) |
-| [Engineer's Greatcloak](/item/magic/infusion/rare/engineers-greatcloak.md) | Clothing (Cloak) | Rare | No |
+| [Engineer's Greatcoat](/item/magic/infusion/rare/engineers-greatcoat.md) | Clothing (Cloak) | Rare | No |
 | [Enspelled Armor](/item/magic/infusion/rare/enspelled-armor.md) | Armor (Any) | Rare | Yes |
 | [Enspelled Staff](/item/magic/infusion/rare/enspelled-staff.md) | Spellcasting Focus (Any) | Rare | Yes (Spellcaster) |
 | [Enspelled Weapon](/item/magic/infusion/rare/enspelled-weapon.md) | Weapon (Any) | Rare | Yes |
@@ -15,7 +15,7 @@
 | [Gloves of the Stormrider](/item/magic/infusion/rare/gloves-of-the-stormrider.md) | Clothing (Gloves) | Rare | Yes |
 | [Healer's Voice](/item/magic/infusion/rare/healers-voice.md) | Clothing (Jewelry) | Rare | No |
 | [Item of Resistance](/item/magic/infusion/rare/item-of-resistance.md) | Wondrous Item | Rare | Yes |
-| [Lantern of the Frost Watch](/item/magic/infusion/rare/lantern-of-the-frost-watch.md) | Adventuring Gear (Hooded Lantern) | Rare | No |
+| [Lantern of the Frost Watch](/item/magic/infusion/rare/lantern-of-the-frost-watch.md) | Wondrous Item (Hooded Lantern) | Rare | No |
 | [Lightning Khopesh](/item/magic/infusion/rare/lightning-khopesh.md) | Weapon (Fence) | Rare | No |
 | [Molten Skin](/item/magic/infusion/rare/molten-skin.md) | Armor (Medium or Heavy) | Rare | No |
 | [Ring of Free Action](/item/magic/infusion/rare/ring-of-free-action.md) | Clothing (Jewelry) | Rare | Yes |

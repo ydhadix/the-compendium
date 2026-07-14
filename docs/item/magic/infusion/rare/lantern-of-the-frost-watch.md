@@ -1,5 +1,5 @@
 ### Lantern of the Frost Watch
-Rare Adventuring Gear (Hooded Lantern)
+Rare Wondrous Item (Hooded Lantern)
 { .subtitle }
 
 #### Command Word
@@ -15,7 +15,7 @@ This lantern's flame is ignited or extinguished.
 1 use per Day
 { .subtitle }
 
-This lantern's flame glows orange for up to **10** minutes.  While glowing, everything within the lantern's Bright Light has Cold Resistance.
+This lantern's flame glows orange for up to **10** minutes.  While glowing, everything within the lantern's Bright Light gains Cold Resistance.
 
 ##### Micare
 1 use per Day

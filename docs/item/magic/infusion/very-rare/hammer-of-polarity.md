@@ -5,33 +5,30 @@ Very Rare Weapon (Hammer), Attunement (Spellcaster)
 **7** Charges (regain **1d4 + 3** per Day)
 { .subtitle }
 
-###### Magnetic Compass
-While you aren't holding this weapon, it hovers within your Reach, remaining upright and leaving your hands free. The weapon moves around you to indicate magnetic north.
+This weapon can be used as a Spellcasting Focus. Spells you cast add your Spellcasting Ability to Lightning and Thunder Damage.
 
+This weapon deals an additional **1d6** Lightning Damage and has Thrown _(**20**/**60**)_. After a Ranged Attack with this weapon hits or misses, it returns to your hand.
+
+#### Magnetic Compass
 Magic Action
 { .subtitle }
 
-You can turn this effect on or off.
+While you aren't holding this weapon, it hovers within your Reach, remaining upright and leaving your hands free. The weapon moves around you to indicate magnetic north.  You can use this Action again to disable this effect.
 
-###### Electromagic Conductor
-This weapon can be used as a Spellcasting Focus. Spells you cast add your Spellcasting Ability to Lightning and Thunder Damage.
-
-###### Attraction Point
-This weapon has the Thrown _(**20**/**60**)_ property and deals an additional **1d6** Lightning Damage. After a Ranged Attack with this weapon hits or misses, it returns to your hand.
-
+#### Attraction Point
 Free Action, 1 use per Turn
 { .subtitle }
 
-After you hit a target up to your Size with this weapon, you can move the target **10** feet closer to you or knock the target Prone.
+After you hit a target up to your Size with this weapon, you can propel the target up to **10** feet closer or knock the target Prone.
 
-###### Shield
+#### Cast
 Reaction, 1 Charge
 { .subtitle }
 
 You can cast _Shield_.
 
-###### Force Barrier
+#### Force Barrier
 Reaction, 4 Charges
 { .subtitle }
 
-Before you or a creature within **5** feet of you is targeted by an Attack or makes a Saving Throw, you can summon an immobile barrier of force in a **5**-foot Aura for **1** minute _(Concentration)_. This barrier blocks all Attacks and effects in both directions _(including the triggering Attack or effect)_.
+Before you or a creature within **5** feet of you takes damage, you can summon an immobile barrier of force in a **5**-foot Aura for **1** minute _(Concentration)_. This barrier blocks all Attacks and effects in both directions _(including the triggering damage)_.

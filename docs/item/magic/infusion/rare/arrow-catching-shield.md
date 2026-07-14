@@ -4,7 +4,7 @@ Rare Shield (Any), Attunement
 
 Your Armor Class increases by **2** against Ranged Attacks.
 
-###### Intercept
+#### Intercept
 Reaction
 { .subtitle }
 

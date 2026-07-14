@@ -5,7 +5,7 @@ Very Rare Clothing (Jewelry), Attunement (Spellcaster)
 **6** Charges (regain **1d6** per Day)
 { .subtitle }
 
-###### Cast
+#### Cast
 You can cast the following spells:
 
 | Spell | Action | Charges |
@@ -19,19 +19,19 @@ You can cast the following spells:
 
 Increase the Spell Level by **1** for each additional Charge expended.
 
-###### Shooting Stars
+#### Shooting Stars
 Magic Action, 1–3 Charges
 { .subtitle }
 
-For each Charge expended, you choose a **10**-foot radius Sphere within **60** feet. Everything in those Spheres makes a Reflex Save.
+For each Charge expended, you can choose a **10**-foot radius Sphere within **60** feet. Everything in those Spheres makes a Reflex Save.
 
 | | |
 |---|---|
 | Fail | The target takes **5d4** Radiant Damage. |
 | Success | The target takes half as much. |
 
-###### Celestial Body
-After each Long Rest, you choose one of the following effects:
+#### Celestial Body
+After each Long Rest, choose one of the following effects:
 
 | Effect | Benefit |
 |---|---|

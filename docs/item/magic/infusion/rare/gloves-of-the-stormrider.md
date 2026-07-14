@@ -2,19 +2,15 @@
 Rare Clothing (Gloves), Attunement
 { .subtitle }
 
-###### Storm Sense
-You know the general direction and distance to any active thunderstorms within **5** miles.
+You gain Lightning Resistance, and you know the general direction and distance to any active thunderstorms within **5** miles.
 
-###### Lightning Resistance
-You gain Lightning Resistance.
-
-###### Bolt Rider
+#### Strike Twice
 Reaction
 { .subtitle }
 
 After any target within **30** feet takes Lightning Damage, you can teleport to a space within **5** feet of that target.
 
-###### Ride the Lightning
+#### Ride the Lightning
 Reaction
 { .subtitle }
 

@@ -5,22 +5,19 @@ Rare Wondrous Item, Attunement (Construct Companion)
 **4** uses
 { .subtitle }
 
-###### Sentience
-Your Companion's Intelligence becomes **+3**, its Wisdom becomes **+2**, and its Charisma becomes **+2**, unless those modifiers are already higher.
+Your Companion gains the following effects:
 
-###### Proficiencies
-Your Companion gains Expertise in two of Arcana, History, Medicine, Nature, or Perception.
+- Its Intelligence becomes **+3**, its Wisdom becomes **+2**, and its Charisma becomes **+2**, unless those Abilities are already higher.
+- It gains Expertise in two of Arcana, History, Medicine, Nature, or Perception.
+- It can speak any language it understands.
 
-###### Universal Translator
-Your Companion can speak any language it understands.
-
-###### Learn Language
+#### Learn Language
 Reaction, 1 use
 { .subtitle }
 
 After your Companion hears or reads a language it doesn't know, it can instantly learn that language.
 
-###### Detect Magic
+#### Cast
 Magic Action
 { .subtitle }
 

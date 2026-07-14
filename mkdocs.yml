@@ -61,6 +61,9 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
 validation:
   links:
     absolute_links: relative_to_docs   # resolve /spell/... links in _list snippets per host page
+    anchors: warn                      # broken #anchors only log at INFO by default; the keyword
+                                       # index is ~400 hand-authored deep links, so a renamed
+                                       # heading has to surface as a warning, not a log line
 
 hooks:
   - overrides/navtools.py     # nav rules for the mega-menu + left ToC (shared)
@@ -83,7 +86,7 @@ nav:
 
     - Rules Rolodex:
       - Rules Overview:             rules/index.md
-      - Keyword Index (WIP):              rules/keyword.md
+      - Keyword Index:              rules/keyword.md
       - "---": "sep:"
       - Character Traits:
         - Traits Overview:          rules/trait/index.md

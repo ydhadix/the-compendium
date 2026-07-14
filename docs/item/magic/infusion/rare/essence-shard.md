@@ -4,6 +4,10 @@ Rare Spellcasting Focus (Arcane Focus), Attunement (Sorcerer)
 
 Each Essence Shard contains the essence of a planar element.  Before you use a Metamagic, you can use this item's effect.
 
+---
+
+#### Variants
+
 | Element | Effect |
 |---|---|
 | Air     | You Fly up to **60** feet without provoking Opportunity Attacks. |

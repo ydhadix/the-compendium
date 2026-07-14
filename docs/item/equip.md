@@ -25,6 +25,7 @@ Benefiting from equipment usually requires wearing or wielding them properly. An
 | Type | Usage | Limit | Crafting Tool |
 |---|---|---|---|
 | Boots | On feet | One pair | Cobbler's Tools |
+| Belt | Around waist | One | Leatherworker's Tools |
 | Bracers | On forearm | One pair | Leatherworker's Tools or Smith's Tools |
 | Cloak | On shoulders | One | Leatherworker's Tools or Weaver's Tools |
 | Clothes | On body | One set | Weaver's Tools |

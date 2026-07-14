@@ -18,7 +18,7 @@ This item sheds light as the _Light_ Spell.
 1 use
 { .subtitle }
 
-One creature that can see you within **60** feet makes a Fortitude Save _(DC = **15**)_.
+One creature that can see you within **60** feet makes a Fortitude Save _(DC = **13**)_.
 
 | | |
 |---|---|

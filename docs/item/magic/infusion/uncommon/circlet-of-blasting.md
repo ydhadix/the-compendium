@@ -6,4 +6,4 @@ Uncommon Clothing (Jewelry)
 Magic Action, 1 use per Day
 { .subtitle }
 
-You can cast _Scorching Ray_ (**+5** to hit).
+You can cast _Scorching Ray_ _(**+5** to hit)_.

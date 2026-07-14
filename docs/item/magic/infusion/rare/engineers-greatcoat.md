@@ -1,4 +1,4 @@
-### Engineer's Greatcloak
+### Engineer's Greatcoat
 Rare Clothing (Cloak)
 { .subtitle }
 

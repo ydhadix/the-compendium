@@ -5,7 +5,7 @@ Rare Clothing (Jewelry), Attunement (Spellcaster)
 **5** Charges (regain **1d4 + 1** per Day)
 { .subtitle }
 
-###### Channel
+#### Channel
 Free Action, 1 or more Charges
 { .subtitle }
 

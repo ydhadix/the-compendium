@@ -33,6 +33,8 @@ While within **120** feet of the illusion, you can move it within **30** feet of
 
 ---
 
+#### Variants
+
 | 1d100 | Illusion |
 |---|---|
 | 01-03 | Adult Red Dragon |

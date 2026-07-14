@@ -2,19 +2,19 @@
 Very Rare Clothing (Jewelry)
 { .subtitle }
 
-###### Bond
+#### Bond
 Magic Action
 { .subtitle }
 
 You can place this collar on a willing Companion within your Reach, or remove it. While attached, the collar can only be removed by the Companion's bonded creature and resizes to fit the Companion.
 
-###### Enlarge
+#### Enlarge
 Bonus Action, 1 use per Day
 { .subtitle }
 
 Your Companion gains the Enlarge effect of _Enlarge/Reduce_ _(without Concentration)_.
 
-###### Enrage
+#### Enrage
 Reaction, 1 use per Day
 { .subtitle }
 

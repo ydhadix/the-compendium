@@ -1029,6 +1029,32 @@ body {
   margin-top: -0.25em;
 }
 
+/* Keyword-index jump bar: the A-Z rail. Lives in the content, not the sidebar,
+   because the desktop mega-menu doesn't surface page headings — so the letters
+   have to travel with the table. Sticks below the header while the table scrolls. */
+.md-typeset .keyword-jump {
+  position: sticky;
+  top: 2.4rem;                        /* .md-header height */
+  z-index: 2;
+  margin: 0 0 1rem;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.8rem;
+  line-height: 1.9;
+  text-align: center;
+  background-color: var(--clr-card-bg);
+  border: 3px solid var(--clr-divider);
+  border-radius: 4px;
+  /* display: inline-block; */
+  min-width: 1.4em;
+  font-weight: 700;
+}
+
+/* .md-typeset .keyword-jump a {
+  display: inline-block;
+  min-width: 1.4em;
+  font-weight: 700;
+} */
+
 /* Cards (h2-level sections) and subcards (h5-level entries). */
 .card {
   border: 2px solid var(--clr-accent);

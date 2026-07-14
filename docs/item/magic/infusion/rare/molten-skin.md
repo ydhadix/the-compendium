@@ -2,8 +2,8 @@
 Rare Armor (Medium or Heavy)
 { .subtitle }
 
-###### Second Skin
-While donned, this armor can't be removed against your will. You ignore its Stealth penalty and Strength requirement.
+While donned, you gain the following benefits:
 
-###### Fire Resistance
-You gain Fire Resistance.
+- This armor can't be removed against your will.
+- You ignore this armor's Stealth penalty and Strength requirement.
+- You gain Fire Resistance.
