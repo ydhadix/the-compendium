@@ -35,9 +35,12 @@ extra_javascript:
   - javascripts/tables.js
   - javascripts/recent.js
   - javascripts/meganav.js
+  - javascripts/localnav.js
 
 exclude_docs: |            # files/folders in docs/ that we don't want compiled
+  _changelogs
   _generated
+  item/magic/infusion/_variant
   item/weapon/property/*.md
   !item/weapon/property/index.md
   item/weapon/mastery/*.md
@@ -72,6 +75,7 @@ markdown_extensions:
   - md_in_html              # markdown inside HTML, e.g. <figure> + <figcaption> captions
   - toc:
       toc_depth: 3
+      permalink: "⚓︎"          # click the # after a heading to copy its link
 
 nav:
   - The Compendium:

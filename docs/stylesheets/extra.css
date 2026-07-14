@@ -169,6 +169,8 @@
 /* In-card subheaders (h4, h6) hug the content that follows them. */
 .md-typeset h4,
 .md-typeset h6 { margin-top: 0.2em; margin-bottom: 0; }
+/* `---` separators match the h2/h3 underline (same weight, colour). */
+.md-typeset hr { border: none; border-bottom: 2px solid var(--clr-divider); }
 .md-typeset h4 + *,
 .md-typeset h6 + * { margin-top: 0; }
 
