@@ -38,6 +38,14 @@ import re
 # title fallback for pages that have no h1 (see on_page_content).
 _HEADING_RE = re.compile(r"<h[1-6][^>]*>(.*?)</h[1-6]>", re.IGNORECASE | re.DOTALL)
 
+# Material appends a permalink anchor inside every heading (an <a class="headerlink">
+# carrying the permalink glyph, e.g. ⚓︎ — see `permalink:` in mkdocs.yml). Strip it
+# from the captured heading so striptags doesn't leave the bare glyph on the title.
+_HEADERLINK_RE = re.compile(
+    r"<a\b[^>]*\bclass=\"[^\"]*\bheaderlink\b[^\"]*\"[^>]*>.*?</a>",
+    re.IGNORECASE | re.DOTALL,
+)
+
 # First heading of any level in raw markdown — the same fallback, but resolved at
 # nav-build time for out-of-nav leaf pages (which aren't rendered yet, so the
 # render-time page.first_heading isn't available). See _first_markdown_heading.
@@ -182,7 +190,8 @@ def on_page_content(html, page, config, files):
     pages whose first heading is lower (h2–h6), which MkDocs would otherwise
     title from a humanised filename. None when the page has no heading at all."""
     match = _HEADING_RE.search(html)
-    page.first_heading = match.group(1).strip() if match else None
+    heading = _HEADERLINK_RE.sub("", match.group(1)).strip() if match else None
+    page.first_heading = heading or None
     return html
 
 
