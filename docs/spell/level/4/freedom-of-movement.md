@@ -8,7 +8,7 @@
 | Components | V, S, M _(a leather strap)_ |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | One willing creature |
+| Target | One Ally |
 | Duration | 1 hour |
 
 ##### Spell Effect

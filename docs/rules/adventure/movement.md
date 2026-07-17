@@ -63,7 +63,7 @@ You can't willingly end your Move in another creature's space. If you end your T
 
 ## Forced Movement
 ### Propelled
-Propelled movement is imposed on you; some outside force, usually an enemy creature, causes you to move against your will.
+Propelled movement is imposed on you; some outside force, usually an Enemy, causes you to move against your will.
 
 While propelled, anything you collide with makes a Reflex Save _(DC **15**)_.
 

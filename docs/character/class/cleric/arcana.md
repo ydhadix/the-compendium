@@ -30,7 +30,7 @@ Before you use Channel Divinity: Turn Undead, choose one of the following Creatu
 
 
 ### 6: Spell Breaker
-Before you heal an ally by expending a Spell Slot or use of Channel Divinity, you can also end one Spell affecting that ally. The Level of the ended Spell can be at most the Level of the expended Spell Slot, or less than **Cleric Ability** if you used Channel Divinity.
+Before you heal an Ally by expending a Spell Slot or use of Channel Divinity, you can also end one Spell affecting that Ally. The Level of the ended Spell can be at most the Level of the expended Spell Slot, or less than **Cleric Ability** if you used Channel Divinity.
 
 
 ### 9: Arcane Mastery

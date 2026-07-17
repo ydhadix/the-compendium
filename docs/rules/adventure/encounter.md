@@ -5,7 +5,7 @@ An Encounter is any structured scene where timing matters, resolved Turn by Turn
 An Encounter is any structured scene run in Initiative order where timing matters.  An Encounter's participants act in Rounds and Turns until it resolves.
 
 ## Combat
-An Encounter always runs in Initiative order, but doesn't always involve fighting.  Combat begins when a Hostile creature becomes aware of you and ends after no Hostile creatures remain in an Encounter.
+An Encounter always runs in Initiative order, but doesn't always involve fighting.  Combat begins when an Enemy becomes aware of you and ends after no Enemies remain in an Encounter.
 
 ### Rounds and Turns
 Each Encounter is organized into Rounds and Turns.  A Round is about **6** seconds, and each participant takes one Turn per Round.  Once every participant has taken a Turn, the Encounter moves to the next Round, and continues Round by Round until the Encounter is finished.

@@ -29,4 +29,4 @@ The first number is the Normal Range; a second number, if any, is the Long Range
 Attacks against a target beyond Normal Range, but within Long Range is made with Disadvantage.
 
 #### Melee Penalty
-While you are within a hostile creature's Reach, your Ranged Attacks gain Disadvantage.
+While you are within an Enemy's Reach, your Ranged Attacks gain Disadvantage.

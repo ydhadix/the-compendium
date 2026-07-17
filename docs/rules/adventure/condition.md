@@ -151,8 +151,8 @@ This condition ends after:
 
 - you make an Attack Roll.
 - you cast a spell with Verbal components.
-- a hostile creature sees you.
-- a hostile creature uses the Search action and its total exceeds your Hide DC.
+- an Enemy sees you.
+- an Enemy uses the Search action and its total exceeds your Hide DC.
 
 ##### Immobile
 - Your Speed is **0** and can't change.

@@ -169,6 +169,6 @@
 | [Greater Invisibility](/spell/level/4/greater-invisibility.md) | Illusion | V, S | Normal Action | Reach | One creature | 1 minute (C) |
 | [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder | — |
 | [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |
-| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One willing creature | 1 hour (C) |
+| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One Ally | 1 hour (C) |
 | [Vitriolic Sphere](/spell/level/4/vitriolic-sphere.md) | Evocation | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | — |
 | [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |

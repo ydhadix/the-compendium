@@ -12,7 +12,7 @@
 | Duration | 1 minute |
 
 ##### Spell Effect
-Each target makes a Will Save.  A creature you or an ally is fighting automatically succeeds.
+Each target makes a Will Save.  A creature you or an Ally is fighting automatically succeeds.
 
 | | |
 |---|---|

@@ -8,7 +8,7 @@
 | Components | S |
 | Casting Time | Normal Action, or Ritual |
 | Range | Reach |
-| Target | One willing Beast |
+| Target | One Allied Beast |
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect

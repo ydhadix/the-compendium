@@ -32,8 +32,8 @@
 | [Absorb Elements](/spell/level/1/absorb-elements.md) | Abjuration | S | Reaction | — | Self | Until the end of your next Turn |
 | [Air Bubble](/spell/level/1/air-bubble.md) | Conjuration | S | Normal Action | 60 ft. | One creature | 24 hours |
 | [Animal Friendship](/spell/level/1/animal-friendship.md) | Enchantment | V, S, M | Normal Action | 30 ft. | One Beast | 24 hours |
-| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Normal Action | Reach | One willing Beast | 10 minutes (C) |
-| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One willing Beast | 1 hour (C) |
+| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Normal Action | Reach | One Allied Beast | 10 minutes (C) |
+| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One Allied Beast | 1 hour (C) |
 | [Binding Ice](/spell/level/1/binding-ice.md) | Evocation | V, S | Normal Action | Reach | Everything in a 15-ft. Cone | — |
 | [Burning Hands](/spell/level/1/burning-hands.md) | Evocation | V, S | Normal Action | Reach | Everything in a 15-ft. Cone | — |
 | [Charm Person](/spell/level/1/charm-person.md) | Enchantment | V, S | Normal Action | 30 ft. | One humanoid | 1 hour |
@@ -129,13 +129,13 @@
 | [Dominate Beast](/spell/level/4/dominate-beast.md) | Enchantment | V, S | Normal Action | 60 ft. | One Beast | 1 minute (C) |
 | [Fire Shield](/spell/level/4/fire-shield.md) | Evocation | V, S, M | Normal Action | — | Self | 10 minutes |
 | [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Normal Action | — | Self | 10 minutes (C) |
-| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One willing creature | 1 hour |
+| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One Ally | 1 hour |
 | [Giant Insect](/spell/level/4/giant-insect.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
 | [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One creature within 30 ft. of the vine | 1 minute (C) |
 | [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
 | [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder | — |
 | [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |
 | [Stone Shape](/spell/level/4/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
-| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One willing creature | 1 hour (C) |
+| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One Ally | 1 hour (C) |
 | [Summon Elemental](/spell/level/4/summon-elemental.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |

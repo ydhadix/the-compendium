@@ -19,7 +19,7 @@
 | [Conjure Constructs](/spell/level/3/conjure-constructs.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 5-ft. radius Sphere | 10 minutes (C) |
 | [Counterspell](/spell/level/3/counterspell.md) | Abjuration | S | Reaction | 60 ft. | The casting creature | — |
 | [Create Food and Water](/spell/level/3/create-food-and-water.md) | Conjuration | V, S | Normal Action | 30 ft. | — | — |
-| [Crusader's Mantle](/spell/level/3/crusaders-mantle.md) | Evocation | V | Normal Action | — | You and each ally in a 30-ft. Aura | 1 minute (C) |
+| [Crusader's Mantle](/spell/level/3/crusaders-mantle.md) | Evocation | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 1 minute (C) |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |

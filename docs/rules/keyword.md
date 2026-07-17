@@ -187,6 +187,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Elvish](trait/language.md#standard-languages) | Languages |
 | [Enchantment](../spell/part/school.md) | Schools of Magic |
 | [Encounter](adventure/encounter.md) | Encounters |
+| [Enemy](adventure/npc.md#disposition) | NPCs |
 | [Epic Boon](../character/feat/index.md) | Feats |
 | [Esoteric](dice/damage.md#esoteric-damage) | Damage Type |
 | [Evasion](trait/defense.md#evasion) | Defenses |
@@ -263,7 +264,6 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Hit Point Maximum](trait/defense.md#hit-points) | Defenses |
 | [Hit Points](trait/defense.md#hit-points) | Defenses |
 | [Holy Symbol](../item/gear/spell-focus/holy-symbol.md) | Spellcasting Focus |
-| [Hostile](adventure/npc.md#disposition) | NPCs |
 | [Hover Speed](trait/speed.md#hover) | Movement |
 | [Huge](trait/size.md) | Size |
 | [Hull Points](../spelljammer/creation/index.md#hull-points) | Spelljammer |
@@ -278,7 +278,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Imprint](../character/class/index.md) | Classes |
 | [Improvised Weapon](../item/weapon/type.md#improvised-weapons) | Weapons |
 | [Incapacitation](adventure/condition.md#incapacitation) | Conditions |
-| [Indifferent](adventure/npc.md#disposition) | NPCs |
+| [Independent](adventure/npc.md#disposition) | NPCs |
 | [Infernal](trait/language.md#exotic-languages) | Languages |
 | [Infusion](../item/magic/index.md#infusions) | Magic Items |
 | [Initiative](adventure/encounter.md#initiative) | Encounters |

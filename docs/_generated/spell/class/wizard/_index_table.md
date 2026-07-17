@@ -224,7 +224,7 @@
 | [Otiluke's Resilient Sphere](/spell/level/4/resilient-sphere.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One Large or smaller creature or object | 1 minute (C) |
 | [Leomund's Secret Chest](/spell/level/4/secret-chest.md) | Conjuration | V, S, M ($) | Normal Action | Reach | — | Until dispelled |
 | [Stone Shape](/spell/level/4/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
-| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One willing creature | 1 hour (C) |
+| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One Ally | 1 hour (C) |
 | [Summon Aberration](/spell/level/4/summon-aberration.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Summon Construct](/spell/level/4/summon-construct.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Summon Elemental](/spell/level/4/summon-elemental.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |

@@ -47,4 +47,4 @@ You gain a Climb Speed and a Swim Speed equal to your Speed.  Your movement is u
 You can expend **5** feet of movement to escape from a nonmagical restraint.
 
 #### Rising Tide
-After an ally enters your Reach for the first time on a Turn or starts its Turn there, the target gains the effect of Fleet-Footed and Slippery until the end of the target's next Turn.
+After an Ally enters your Reach for the first time on a Turn or starts its Turn there, the target gains the effect of Fleet-Footed and Slippery until the end of the target's next Turn.

@@ -12,7 +12,7 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-The target makes a Will Save. If you or an ally is fighting the target, it gains Advantage on the Saving Throw.
+The target makes a Will Save. If you or an Ally is fighting the target, it gains Advantage on the Saving Throw.
 
 | | |
 |---|---|

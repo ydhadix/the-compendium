@@ -8,7 +8,7 @@ You score a Critical Hit when you roll a **20** on the d20 for an Attack Roll.
 For an unnamed NPC, a Critical Hit maximizes the attack's Damage Roll: each Damage Die is treated as rolling its highest value.
 
 ## Player Critical Hits
-For a named NPC or a player character, a Critical Hit can be more devastating, amplified by the Damage Type used and the enemy's Armor and Creature Type.
+For a named NPC or a player character, a Critical Hit can be more devastating, amplified by the Damage Type used and the Enemy's Armor and Creature Type.
 
 ### Critical Hit Table
 After you roll a Critical Hit, choose one of the Damage Types the attack would deal and roll an additional d20.  If the Damage Type is effective against the target, you gain Advantage on this roll.  The Critical Hit Table shows the additional effect and how to apply damage based on the result.

@@ -71,8 +71,8 @@ Your Rage ends early if you become Incapacitated or don Heavy Armor.
 ###### Extending Rage
 You can extend your Rage's duration to the end of your next turn, up to a maximum of **10** minutes, by doing one of the following:
 
-- Attack an enemy.
-- Cause an enemy to make a Saving Throw.
+- Attack an Enemy.
+- Cause an Enemy to make a Saving Throw.
 - Use a Bonus Action to extend your Rage _(no Rage uses required)_.
 
 

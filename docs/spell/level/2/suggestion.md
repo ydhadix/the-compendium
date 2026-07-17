@@ -16,7 +16,7 @@ You suggest a course of activity to the target, then it makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You charm the target. While Charmed, it follows the suggestion to the best of its ability. This Spell ends after the target completes the suggested activity, or after you or an ally deal damage to it. |
+| Fail | You charm the target. While Charmed, it follows the suggestion to the best of its ability. This Spell ends after the target completes the suggested activity, or after you or an Ally damage it. |
 | Success | No effect. |
 
 ##### At Higher Levels

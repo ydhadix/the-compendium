@@ -19,7 +19,7 @@ An unwilling target makes a Reflex Save.
 | Fail | A shimmering sphere encloses the target. |
 | Success | No effect. |
 
-A willing creature or an object is enclosed.
+An Ally or an object is enclosed.
 
 Nothing can pass through the sphere in either direction, though an enclosed creature can breathe inside.  The sphere is Immune to all damage, and neither attacks nor effects can cross the barrier in either direction.
 

@@ -3,7 +3,7 @@ Combat between ships is fought Turn by Turn as each crew's Officers steer, fire,
 { .subtitle }
 
 ## Ship Initiative
-Ship Encounters begins when a Ship becomes aware of a threat, such as a hostile Ship or a Leviathan-sized creature.  When a Ship rolls Initiative, one of its Officers rolls for it using that Officer's Initiative bonus. The result is shared by the Ship's crew and passengers.
+Ship Encounters begins when a Ship becomes aware of a threat, such as an Enemy Ship or a Leviathan-sized creature.  When a Ship rolls Initiative, one of its Officers rolls for it using that Officer's Initiative bonus. The result is shared by the Ship's crew and passengers.
 
 Each Ship in an encounter gets at least one Turn each Round for each Officer aboard it.  Ship Turns are taken in Initiative order, alternating between each Ship and choosing a different Officer to act on the Ship's behalf each Turn.  A Ship with fewer Officers than another still acts when its Initiative comes up, assigning extra Turns to its Officers as needed.
 
@@ -33,7 +33,7 @@ The distance between Ships is tracked in four broad Engagement Ranges: Close, Lo
 | Close | Point-blank engagement. Combat here is risky, since escape isn't always an option. |
 | Long | The distance most Ships prefer to engage at, unless they are built for Close-range combat. |
 | Extreme | Where most encounters open, beyond the effective reach of shipboard Weapons. |
-| Retreat | Beyond Extreme range. At the end of each Round, a Ship at Retreat range from all its enemies escapes the combat. |
+| Retreat | Beyond Extreme range. At the end of each Round, a Ship at Retreat range from all its Enemies escapes the combat. |
 
 An ordinary creature's Attacks rarely reach beyond Close range and matter little until boarding occurs.
 

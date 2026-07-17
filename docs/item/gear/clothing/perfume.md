@@ -8,4 +8,4 @@ Perfume comes in a Vial.
 Utilize Action
 { .subtitle }
 
-You can apply the Perfume to a creature within Reach. That creature gains Advantage on Persuasion Checks against indifferent Humanoids within **5** feet for **1** hour.
+You can apply the Perfume to a creature within Reach. That creature gains Advantage on Persuasion Checks against Independent Humanoids within **5** feet for **1** hour.

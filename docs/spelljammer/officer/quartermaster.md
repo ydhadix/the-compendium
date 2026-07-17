@@ -21,7 +21,7 @@ Until your next Turn, the Spelljammer can reroll one die rolled as part of a Jam
 
 ### Weapon Orders
 ##### Open Fire!
-You attack with the a Weapon, targeting an enemy Ship's hull or one of its Components.
+You attack with the a Weapon, targeting an Enemy Ship's hull or one of its Components.
 
 Whenever you attack with a Ship Weapon, you can use any Ability, provided you can explain how it helps you or your crew hit. Add the chosen Ability and the Weapon's fixed Attack bonus to the Attack Roll. You add nothing to the Damage Roll.
 

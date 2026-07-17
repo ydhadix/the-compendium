@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | You and each ally in a 30-ft. Aura |
+| Target | You and each Ally in a 30-ft. Aura |
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect

@@ -16,7 +16,7 @@ A phantom watchdog appears in an unoccupied space.  Only you can perceive it, an
 
 The hound has Truesight out to **30** feet.  After a Small or larger creature comes within **30** feet of the hound without speaking a password you set, the hound barks loudly.
 
-After your Turn starts, the hound bites one enemy within **5** feet, which makes a Reflex Save.
+After your Turn starts, the hound bites one Enemy within **5** feet, which makes a Reflex Save.
 
 | | |
 |---|---|

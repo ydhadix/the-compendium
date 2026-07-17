@@ -11,8 +11,8 @@
 | [Air Bubble](/spell/level/1/air-bubble.md) | Conjuration | S | Normal Action | 60 ft. | One creature | 24 hours |
 | [Alarm](/spell/level/1/alarm.md) | Abjuration | V, S, M | 1 minute (R) | 30 ft. | A 20-ft. Cube, one door, or one window | 8 hours |
 | [Animal Friendship](/spell/level/1/animal-friendship.md) | Enchantment | V, S, M | Normal Action | 30 ft. | One Beast | 24 hours |
-| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Normal Action | Reach | One willing Beast | 10 minutes (C) |
-| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One willing Beast | 1 hour (C) |
+| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Normal Action | Reach | One Allied Beast | 10 minutes (C) |
+| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One Allied Beast | 1 hour (C) |
 | [Cure Wounds](/spell/level/1/cure-wounds.md) | Abjuration | V, S | Normal Action | Reach | One creature | — |
 | [Darkvision](/spell/level/1/darkvision.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 8 hours |
 | [Detect Magic](/spell/level/1/detect-magic.md) | Divination | V, S | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |

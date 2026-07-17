@@ -97,12 +97,12 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Aura of Life](/spell/level/4/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each ally in a 30-ft. Aura | 10 minutes (C) |
-| [Aura of Purity](/spell/level/4/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each ally in a 30-ft. Aura | 10 minutes (C) |
+| [Aura of Life](/spell/level/4/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
+| [Aura of Purity](/spell/level/4/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
 | [Banishment](/spell/level/4/banishment.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
 | [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Normal Action | 300 ft. | Water in a 100-ft. Cube | 10 minutes (C) |
 | [Death Ward](/spell/level/4/death-ward.md) | Abjuration | V, S | Normal Action | Reach | One creature | 8 hours |
 | [Divination](/spell/level/4/divination.md) | Divination | V, S, M ($C) | Normal Action (R) | Self | Self | — |
-| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One willing creature | 1 hour |
-| [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Normal Action | 30 ft. | Each enemy within 10 ft. of the guardian | 8 hours |
+| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One Ally | 1 hour |
+| [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Normal Action | 30 ft. | Each Enemy within 10 ft. of the guardian | 8 hours |
 | [Stone Shape](/spell/level/4/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |

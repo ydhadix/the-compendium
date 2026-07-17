@@ -4,7 +4,7 @@ Non-Player Characters are the other creatures a party meets in the world, from s
 
 | Section | Description |
 |---|---|
-| [Disposition](#disposition) | How a creature regards a party: friend, neutral, or foe. |
+| [Disposition](#disposition) | How a creature regards a party: Ally, Independent, or Enemy. |
 | [Companions](#companions) | Allied creatures that fight and travel alongside a character. |
 | [Familiars](#familiars) | A special Companion whose senses a character can share. |
 | [Mounts](#mounts) | A creature a character rides into and out of battle. |
@@ -14,16 +14,16 @@ An NPC's Disposition describes its attitude toward you.  Relationships with othe
 
 | Disposition | Behavior |
 |---|---|
-| Ally | Willing to help and possibly put themselves at risk for your sake. |
-| Indifferent | No desire to help or harm you.  Most creatures are Indifferent by default. |
-| Hostile | Actively antagonistic.  Combat begins when a Hostile creature becomes aware of you. |
+| Ally | Fights with or for you, and will put itself at risk for your sake. |
+| Independent | No desire to help or harm you.  Most creatures are Independent by default. |
+| Enemy | Actively antagonistic.  Combat begins when an Enemy becomes aware of you. |
 
-Disposition indicates of how a creature is likely to behave, not their role in the story.  Most creatures, including antagonists, are Indifferent until they are moved to come to your aid, or to do battle against you.
+Disposition indicates how a creature is likely to behave, not its role in the story.  Most creatures, including antagonists, are Independent until they are moved to come to your aid, or to do battle against you.
 
-Ally creatures may still disagree with you, and there's a chance that a Hostile creature is willing to negotiate, depending on the situation and their personal motivations.
+An Ally may still disagree with you, and an Enemy might be talked into negotiating, depending on the situation and its personal motivations.  A creature's Disposition can change over the course of play; the exact process is a roleplay decision the DM adjudicates, though some effects set or require one.
 
 ### Companions
-Some Spells and features grant Companions, Ally creatures you share a magical link with, that travel with you and aid you in combat and exploration.  Companions are typically summoned, but in rare cases it's possible to form this bond with other creatures.
+Some Spells and features grant Companions, Allies you share a magical link with, that travel with you and aid you in combat and exploration.  Companions are typically summoned, but in rare cases it's possible to form this bond with other creatures.
 
 Your Companions share your Turn in Initiative, but have their own Actions and movement.
 
@@ -57,7 +57,7 @@ You can use a Magic Action to temporarily dismiss the familiar to a pocket dimen
 Before you cast a Reach Spell, your familiar can use its Reaction to deliver the Spell through its Reach instead.
 
 ### Mounts
-You can ride any Ally creature that has suitable anatomy and is at least one Size Category larger than you.
+You can ride any Ally that has suitable anatomy and is at least one Size Category larger than you.
 
 While mounted, your mount shares your Turn in Initiative, but has its own Actions and movement.
 
@@ -65,7 +65,7 @@ While mounted, your mount shares your Turn in Initiative, but has its own Action
 You can spend half your movement _(minimum **5** feet)_ to mount or dismount a creature within Reach.
 
 #### Controlling a Mount
-You can control your mount or let it act independently.  An independent mount moves and acts as its wishes, and has no restrictions on its Action.
+You can control your mount or let it act on its own.  An uncontrolled mount moves and acts as it wishes, and has no restrictions on its Action.
 
 An intelligent mount decides whether it allows itself to be controlled, and may refuse commands it disagrees with.
 

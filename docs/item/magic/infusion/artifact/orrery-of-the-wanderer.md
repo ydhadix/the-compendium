@@ -154,7 +154,7 @@ Your Spell Save DC increases by **1**, and you always know what hour of the day 
 Free Action
 { .subtitle }
 
-After you roll Initiative, you can swap your Initiative with one willing ally in the same combat. You can't make this swap if you or the ally are Incapacitated.
+After you roll Initiative, you can swap your Initiative with one Ally in the same combat. You can't make this swap if you or the Ally are Incapacitated.
 
 #### Time Snare
 Reaction, 1 Charge

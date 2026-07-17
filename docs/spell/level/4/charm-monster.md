@@ -12,11 +12,11 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-The target makes a Will Save.  If you or an ally is fighting the target, it gains Advantage on the Saving Throw.
+The target makes a Will Save.  If you or an Ally is fighting the target, it gains Advantage on the Saving Throw.
 
 | | |
 |---|---|
-| Fail | You charm the target and the target becomes an Ally to you.  This effect ends on the target if you or an ally damages it. |
+| Fail | You charm the target and the target becomes an Ally to you.  This effect ends on the target if you or an Ally damages it. |
 | Success | No effect. |
 
 After this Spell ends, the target knows you charmed it.

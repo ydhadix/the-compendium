@@ -6,19 +6,19 @@ Pilots have three Pilot Actions available, plus Pilot Maneuvers that enhance tho
 
 ## Pilot Actions
 #### Piloting Checks
-Some Pilot Actions require a Piloting Check, usually contested by an enemy Ship's Pilot. A Piloting check uses your Precision proficiency with your choice of Strength or Dexterity.
+Some Pilot Actions require a Piloting Check, usually contested by an Enemy Ship's Pilot. A Piloting check uses your Precision proficiency with your choice of Strength or Dexterity.
 
 #### Size Class
 Every Ship has a Size Class that reduces the total of your Piloting Checks and adds damage to your Ram Action.
 
 | Pilot Action | Description |
 |---|---|
-| Advance / Retreat | Maneuver closer to or farther from an enemy Ship. |
+| Advance / Retreat | Maneuver closer to or farther from an Enemy Ship. |
 | Hold Steady | Keep your Ship's path as steady as possible. |
-| Ram | Collide with an enemy Ship. |
+| Ram | Collide with an Enemy Ship. |
 
 ### Advance / Retreat
-You make a Piloting check against an enemy Ship.
+You make a Piloting check against an Enemy Ship.
 
 | | |
 |---|---|
@@ -28,11 +28,11 @@ You make a Piloting check against an enemy Ship.
 Until your next Turn, your Ship gains Advantage on Attacks, but Attacks against your Ship also gain Advantage.
 
 ### Ram
-You make a Piloting check against an enemy Ship within Close range.
+You make a Piloting check against an Enemy Ship within Close range.
 
 | | |
 |---|---|
-| Success | You roll **2 × your Size Class** **d10s** and deal the total as Bludgeoning Damage to the enemy Ship's hull, and half as much to your own hull. |
+| Success | You roll **2 × your Size Class** **d10s** and deal the total as Bludgeoning Damage to the Enemy Ship's hull, and half as much to your own hull. |
 | Failure | Until your next Turn, Attacks against your Ship gain Advantage. |
 
 ## Pilot Maneuvers

@@ -12,7 +12,7 @@
 | Duration | — |
 
 ##### Spell Effect
-You teleport to an unoccupied space, bringing along one willing creature of your Size or smaller within Reach and any objects you're carrying.
+You teleport to an unoccupied space, bringing along one Ally of your Size or smaller within Reach and any objects you're carrying.
 
 Each target in the Aura, centered on the space you arrive at or left, makes a Fortitude Save.
 

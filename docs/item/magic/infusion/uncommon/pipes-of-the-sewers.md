@@ -5,7 +5,7 @@ Uncommon Wondrous Item (Musical Instrument), Attunement
 **3** Charges (regain **1d3** per Day)
 { .subtitle }
 
-Ordinary rats and giant rats are Indifferent to you.
+Rats are never your Enemy unless you harm them.
 
 #### Call Swarm
 Magic Action, 1–3 Charges
@@ -17,5 +17,5 @@ After a Swarm of Rats not under another creature's control comes within **30** f
 
 | | |
 |---|---|
-| Fail | The swarm becomes Friendly to you and your allies and obeys your commands while you keep playing each Round; your control ends if it starts its Turn more than **30** feet from you. |
+| Fail | The swarm becomes an Ally to you and your Allies and obeys your commands while you keep playing each Round; your control ends if it starts its Turn more than **30** feet from you. |
 | Success | The swarm is unaffected and can't be swayed by the pipes for **24** hours. |

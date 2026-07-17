@@ -171,7 +171,7 @@ You can make an additional Unarmed Strike.
 ###### Patient Defense
 You can gain **2** rolls of your Martial Arts Die as Temporary Hit Points.
 ###### Step of the Wind
-You can move a willing creature within Reach with you until the end of your Turn.
+You can move an Ally within Reach with you until the end of your Turn.
 
 
 ### 11: One With Everything

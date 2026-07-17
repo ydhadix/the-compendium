@@ -6,7 +6,7 @@ Very Rare Clothing (Jewelry)
 Magic Action
 { .subtitle }
 
-You can place this collar on a willing Companion within your Reach, or remove it. While attached, the collar can only be removed by the Companion's bonded creature and resizes to fit the Companion.
+You can place this collar on a Companion within your Reach, or remove it. While attached, the collar can only be removed by the Companion's bonded creature and resizes to fit the Companion.
 
 #### Enlarge
 Bonus Action, 1 use per Day

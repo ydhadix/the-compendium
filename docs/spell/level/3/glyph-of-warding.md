@@ -29,7 +29,7 @@ The glyph erupts in a **20**-foot radius Sphere.  Each creature in the area make
 ##### Spell Glyph
 You store a Spell of 3rd-Level or lower in the glyph by casting it as part of the inscription, targeting a single creature or an area.  The stored Spell has no effect until the glyph triggers.
 
-When the glyph triggers, the stored Spell takes effect, targeting the creature that triggered it or centering its area on that creature.  Any Hostile creatures or harmful effects it creates appear as close as possible to that creature and act against it.  A stored Spell requiring Concentration lasts its full Duration.
+When the glyph triggers, the stored Spell takes effect, targeting the creature that triggered it or centering its area on that creature.  Any Enemies or harmful effects it creates appear as close as possible to that creature and act against it.  A stored Spell requiring Concentration lasts its full Duration.
 
 ##### At Higher Levels
 Add **1d8** to the Explosive Rune's damage per additional Spell Level.  A Spell Glyph can store a Spell up to the Level of the Slot used.

@@ -8,7 +8,7 @@
 | Components | V, S, M _(consumes diamond dust worth 100 Gold)_ |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | One willing creature |
+| Target | One Ally |
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect

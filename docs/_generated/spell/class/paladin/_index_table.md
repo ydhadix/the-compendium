@@ -48,7 +48,7 @@
 | [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Normal Action | — | Each creature in a 30-ft. Aura | 1 minute (C) |
 | [Blinding Smite](/spell/level/3/blinding-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | 1 minute |
 | [Create Food and Water](/spell/level/3/create-food-and-water.md) | Conjuration | V, S | Normal Action | 30 ft. | — | — |
-| [Crusader's Mantle](/spell/level/3/crusaders-mantle.md) | Evocation | V | Normal Action | — | You and each ally in a 30-ft. Aura | 1 minute (C) |
+| [Crusader's Mantle](/spell/level/3/crusaders-mantle.md) | Evocation | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 1 minute (C) |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |

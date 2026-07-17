@@ -37,12 +37,12 @@ Until the end of your Turn, your movement doesn't provoke Opportunity Attacks.
 Until the start of your next Turn, Attack Rolls against you gain Disadvantage and your Reflex Saves gain Advantage. These effects end early if you become Incapacitated or your Speed becomes **0**.
 
 ##### Help
-Choose an Ally or an enemy within your Reach. The effect lasts until the start of your next Turn.
+Choose an Ally or an Enemy within your Reach. The effect lasts until the start of your next Turn.
 
 | | |
 |---|---|
 | Ally | Choose one of your Proficiencies; the Ally's next Ability Check that uses it gains Advantage. |
-| Enemy | The next Attack Roll an Ally makes against the enemy gains Advantage. |
+| Enemy | The next Attack Roll an Ally makes against the Enemy gains Advantage. |
 
 ##### Hide
 Make a Stealth Check. You become Hidden, and the Ability Check's total is your Hide DC.

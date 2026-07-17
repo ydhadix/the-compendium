@@ -13,8 +13,8 @@
 | [Armor of Agathys](/spell/level/1/armor-of-agathys.md) | Abjuration | V, S, M | Bonus Action | — | Self | 1 hour |
 | [Arms of Hadar](/spell/level/1/arms-of-hadar.md) | Conjuration | V, S | Normal Action | — | Everything in a 10-ft. Aura | Until the end of the target's next Turn |
 | [Bane](/spell/level/1/bane.md) | Enchantment | V, S, M | Normal Action | 30 ft. | Up to 3 creatures | 1 minute (C) |
-| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Normal Action | Reach | One willing Beast | 10 minutes (C) |
-| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One willing Beast | 1 hour (C) |
+| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Normal Action | Reach | One Allied Beast | 10 minutes (C) |
+| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One Allied Beast | 1 hour (C) |
 | [Binding Ice](/spell/level/1/binding-ice.md) | Evocation | V, S | Normal Action | Reach | Everything in a 15-ft. Cone | — |
 | [Bless](/spell/level/1/bless.md) | Enchantment | V, S, M | Normal Action | 30 ft. | Up to 3 creatures | 1 minute (C) |
 | [Burning Hands](/spell/level/1/burning-hands.md) | Evocation | V, S | Normal Action | Reach | Everything in a 15-ft. Cone | — |
