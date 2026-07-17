@@ -16,8 +16,8 @@ You make a Ranged Spell Attack against the target.
 
 | | |
 |---|---|
-| Hit | You deal **4d4** Acid Damage. Before the end of the target's next Turn, you deal **2d4** Acid Damage. |
+| Hit | You deal **4d4** Acid Damage and corrode _(**1d4**)_ the target. |
 | Miss | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **1d4** Acid Damage to the Attack and effect per additional Spell Level.
+Add **1d4** damage to the Attack and effect per additional Spell Level.

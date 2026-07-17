@@ -1,0 +1,1 @@
+| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One willing creature | 1 hour (C) |

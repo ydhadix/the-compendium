@@ -20,4 +20,4 @@ The target makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **1d10** Fire Damage per additional Spell Level.
+Add **1d10** damage per additional Spell Level.

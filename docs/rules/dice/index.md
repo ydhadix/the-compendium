@@ -19,7 +19,7 @@ The three main dice rolls are the Ability Check, the Attack Roll, and the Saving
 Whenever you make a D20 Test, you can choose to fail before you roll.
 
 #### Rolling a 20 or a 1
-If you roll a **20** on the d20, the Test succeeds automatically. If you roll a **1**, it fails automatically.
+If you roll a **20** on the d20, the Test automatically succeeds. If you roll a **1**, it automatically fails.
 
 Ability Checks are an exception: some you can never fail, and others you can never succeed, regardless of your bonus.
 

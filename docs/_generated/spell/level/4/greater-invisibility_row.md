@@ -1,0 +1,1 @@
+| [Greater Invisibility](/spell/level/4/greater-invisibility.md) | Illusion | V, S | Normal Action | Reach | One creature | 1 minute (C) |

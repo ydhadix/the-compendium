@@ -1,0 +1,1 @@
+| [Compulsion](/spell/level/4/compulsion.md) | Enchantment | V, S | Normal Action | 30 ft. | Each creature you choose within 30 ft. | 1 minute (C) |

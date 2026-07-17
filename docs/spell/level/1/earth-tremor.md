@@ -22,4 +22,4 @@ Each target makes a Fortitude Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-Add **1d6** Bludgeoning Damage and **5** feet to the Aura per additional Spell Level.
+Add **1d6** damage and **5** feet to the Aura per additional Spell Level.

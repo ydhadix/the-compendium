@@ -16,7 +16,7 @@ The target makes a Will Save. If you've damaged the target within the last **24*
 
 | | |
 |---|---|
-| Fail | You charm the target. This Spell ends on the target if you or an ally damage it. |
+| Fail | You charm the target. This effect ends on the target if you or an ally damage it. |
 | Success | No effect. |
 
 ##### At Higher Levels

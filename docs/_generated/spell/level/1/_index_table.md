@@ -31,7 +31,7 @@
 | [Create or Destroy Water](/spell/level/1/create-or-destroy-water.md) | Transmutation | V, S, M | Normal Action | 30 ft. | Special | — |
 | [Cure Wounds](/spell/level/1/cure-wounds.md) | Abjuration | V, S | Normal Action | Reach | One creature | — |
 | [Darkvision](/spell/level/1/darkvision.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 8 hours |
-| [Detect Good & Evil](/spell/level/1/detect-good-and-evil.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes (C) |
+| [Detect Good and Evil](/spell/level/1/detect-good-and-evil.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes (C) |
 | [Detect Magic](/spell/level/1/detect-magic.md) | Divination | V, S | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Detect Poison & Disease](/spell/level/1/detect-poison-and-disease.md) | Divination | V, S, M | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Detect Portal](/spell/level/1/detect-portal.md) | Divination | V, S, M | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |

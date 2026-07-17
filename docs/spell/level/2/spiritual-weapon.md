@@ -18,11 +18,11 @@ You create a floating, spectral force resembling a weapon.  While the weapon sha
 Bonus Action
 { .subtitle }
 
-You move the weapon up to your Speed, then can make a Melee Attack against a target within **5** feet of it.
+You can move the weapon up to your Speed, then make a Melee Attack against a target within **5** feet of it.
 
 | | |
 |---|---|
 | Hit | You deal **1d8 + Spellcasting Ability** Force Damage. |
 
 ##### At Higher Levels
-Add **1d8** Force Damage per additional Spell Level.
+Add **1d8** damage per additional Spell Level.

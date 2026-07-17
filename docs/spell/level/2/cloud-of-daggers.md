@@ -21,4 +21,4 @@ Magic Action
 You move the area up to **30** feet.
 
 ##### At Higher Levels
-Add **2d4** Slashing Damage per additional Spell Level.
+Add **2d4** damage per additional Spell Level.

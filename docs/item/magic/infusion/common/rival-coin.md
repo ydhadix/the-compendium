@@ -12,5 +12,5 @@ You can toss the coin and roll any die. On an even number _(heads)_, one creatur
 
 | | |
 |---|---|
-| Fail | You deal **2d4** Psychic Damage to the target, and the target gains Disadvantage on its next Attack Roll before the end of its next Turn. |
+| Fail | You deal **2d4** Psychic Damage to the target, and the target's next Attack Roll gains Disadvantage before the end of its next Turn. |
 | Success | You deal half as much damage. |

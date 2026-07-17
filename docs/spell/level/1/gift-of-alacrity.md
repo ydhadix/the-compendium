@@ -12,4 +12,4 @@
 | Duration | 8 hours |
 
 ##### Spell Effect
-Before the target makes an Initiative Check, you add **1d8** to the Ability Check.
+The target's Initiative Checks increase by **1d8**.

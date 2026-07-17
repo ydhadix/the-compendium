@@ -1,0 +1,1 @@
+| [Vitriolic Sphere](/spell/level/4/vitriolic-sphere.md) | Evocation | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | — |

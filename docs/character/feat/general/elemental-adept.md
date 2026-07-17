@@ -14,4 +14,4 @@ You gain Resistance to the chosen Damage Type.
 Damage you deal of the chosen Damage Type ignores Resistance.
 
 #### Repeatable
-You can take this feat more than once, but you must choose a different Damage Type each time.
+You can take this feat more than once, provided you choose a different Damage Type each time.

@@ -28,7 +28,7 @@ You gain the following benefits for **1** minute or until you end this effect _(
 ##### Winged
 You gain a Fly Speed equal to your Speed.
 ##### Chosen
-You emit Bright Light to **10** feet and Dim Light **10** feet further. Before your Turn ends, you deal **PB** Radiant Damage to each other creature within a **10**-foot Aura.
+You emit Bright Light out to **10** feet and Dim Light **10** feet further. Before your Turn ends, you deal **PB** Radiant Damage to each other creature within a **10**-foot Aura.
 ##### Fallen
 Each creature within **10** feet makes a Will Save _(DC = **8 + CON + PB**)_.
 

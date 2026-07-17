@@ -12,6 +12,6 @@ Evocation Cantrip
 | Duration | 1 hour |
 
 ##### Spell Effect
-The target emits Bright Light out to **20** feet and Dim Light for an additional **20** feet.
+The target emits Bright Light out to **20** feet and Dim Light **20** feet further.
 
 This Spell ends if you cast it again.

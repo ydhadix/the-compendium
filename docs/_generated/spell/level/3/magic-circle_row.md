@@ -1,0 +1,1 @@
+| [Magic Circle](/spell/level/3/magic-circle.md) | Abjuration | V, S, M ($C) | 1 minute | 10 ft. | A 10-ft. radius, 20-ft. Cylinder | 1 hour |

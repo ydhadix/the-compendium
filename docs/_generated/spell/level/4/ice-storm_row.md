@@ -1,0 +1,1 @@
+| [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder | — |

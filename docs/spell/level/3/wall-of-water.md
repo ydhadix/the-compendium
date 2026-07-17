@@ -12,7 +12,7 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-You create a wall of water on the ground within Range, up to **30** feet long, **10** feet high, and **1** foot thick, or a ring up to **20** feet in diameter, **20** feet high, and **1** foot thick. The wall's space is Difficult Terrain.
+You create a wall of water on the ground, up to **30** feet long, **10** feet high, and **1** foot thick, or a ring up to **20** feet in diameter, **20** feet high, and **1** foot thick. The wall's space is Difficult Terrain.
 
 A Ranged Weapon Attack made through the wall gains Disadvantage, and the wall halves Fire Damage from an effect passing through it.
 

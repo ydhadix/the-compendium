@@ -12,18 +12,18 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon a Bestial Spirit Companion. Choose Land, Water, or Air.
+You summon a companion Bestial Spirit. Choose Land, Water, or Air.
 
-This Spell ends if the companion has **0** Hit Points.
+This Spell ends if the spirit has **0** Hit Points.
 
 ###### Command
 Free Action
 { .subtitle }
 
-You command your companion to move and take any Action available to it.
+You can command the spirit to move and take any Action available to it.
 
 ##### At Higher Levels
-The Spell Level determines your companion's Armor Class, Hit Points, and attack damage.
+The Spell Level determines the spirit's Armor Class, Hit Points, and attack damage.
 
 ##### Bestial Spirit: Land
 Small Beast, Neutral
@@ -33,7 +33,7 @@ Small Beast, Neutral
 |---|---|---|---|---|
 | | **HP** | 25 + (5 × Spell Level) | **Hit Dice** | 1d6 per Spell Level |
 | | **Armor** | Natural | **Resistance** | — | 
-| | **AC** | 11 + PB + Spell Level | **Protection** | — |
+| | **AC** | 10 + PB + DEX + Spell Level | **Protection** | — |
 | | **DR** | 0 | **Immunity** | — |
 
 ###### Abilities
@@ -53,8 +53,8 @@ Small Beast, Neutral
 ###### Features
 | | |
 |---|---|
-| Pack Tactics | The summon's Attack Rolls gain Advantage while the target is within an ally's Reach. |
-| Multiattack | The summon makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
+| Pack Tactics | The spirit's Attack Rolls gain Advantage while the target is within an ally's Reach. |
+| Multiattack | The spirit makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
 
 ###### Actions
 | Beast Strike | Melee Attack |
@@ -71,7 +71,7 @@ Small Beast, Neutral
 |---|---|---|---|---|
 | | **HP** | 25 + (5 × Spell Level) | **Hit Dice** | 1d6 per Spell Level |
 | | **Armor** | Natural | **Resistance** | — | 
-| | **AC** | 11 + PB + Spell Level | **Protection** | — |
+| | **AC** | 10 + PB + DEX + Spell Level | **Protection** | — |
 | | **DR** | 0 | **Immunity** | — |
 
 ###### Abilities
@@ -91,9 +91,9 @@ Small Beast, Neutral
 ###### Features
 | | |
 |---|---|
-| Pack Tactics | The summon's Attack Rolls gain Advantage while the target is within an ally's Reach. |
-| Water Breathing | The summon can only breathe underwater.
-| Multiattack | The summon makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
+| Pack Tactics | The spirit's Attack Rolls gain Advantage while the target is within an ally's Reach. |
+| Water Breathing | The spirit can only breathe underwater.
+| Multiattack | The spirit makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
 
 ###### Actions
 | Beast Strike | Melee Attack |
@@ -111,7 +111,7 @@ Small Beast, Neutral
 |---|---|---|---|---|
 | | **HP** | 15 + (5 × Spell Level) | **Hit Dice** | 1d6 per Spell Level |
 | | **Armor** | Natural | **Resistance** | — | 
-| | **AC** | 11 + PB + Spell Level | **Protection** | — |
+| | **AC** | 10 + PB + DEX + Spell Level | **Protection** | — |
 | | **DR** | 0 | **Immunity** | — |
 
 ###### Abilities
@@ -131,8 +131,8 @@ Small Beast, Neutral
 ###### Features
 | | |
 |---|---|
-| Flyby | The summon's movement doesn't trigger opportunity attacks. |
-| Multiattack | The summon makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
+| Flyby | The spirit's movement doesn't trigger opportunity attacks. |
+| Multiattack | The spirit makes **Spell Level ÷ 2** Beast Strike attacks, rounded down. |
 
 ###### Actions
 | Beast Strike | Melee Attack |

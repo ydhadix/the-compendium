@@ -71,6 +71,7 @@
 | [Detect Thoughts](/spell/level/2/detect-thoughts.md) | Divination | V, S, M | Normal Action | 30 ft. | Self | 1 minute (C) |
 | [Enhance Ability](/spell/level/2/enhance-ability.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour (C) |
 | [Enlarge/Reduce](/spell/level/2/enlarge-reduce.md) | Transmutation | V, S, M | Normal Action | 30 ft. | One thing | 1 minute (C) |
+| [Enthrall](/spell/level/2/enthrall.md) | Enchantment | V, S | Normal Action | 60 ft. | Each creature you choose within 60 ft. | 1 minute |
 | [Fortune's Favor](/spell/level/2/fortunes-favor.md) | Divination | V, S, M ($C) | Normal Action | 60 ft. | One creature | 1 hour |
 | [Heat Metal](/spell/level/2/heat-metal.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One metal object | 1 minute (C) |
 | [Hold Person](/spell/level/2/hold-person.md) | Enchantment | V, S, M | Normal Action | 60 ft. | One humanoid | 1 minute (C) |
@@ -80,6 +81,7 @@
 | [Lesser Restoration](/spell/level/2/lesser-restoration.md) | Abjuration | V, S | Bonus Action | Reach | One creature | — |
 | [Locate Animals or Plants](/spell/level/2/locate-animals-or-plants.md) | Divination | V, S, M | Normal Action (R) | 5 miles | Special | 10 minutes (C) |
 | [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Normal Action (R) | 1,000 ft. | Special | 10 minutes (C) |
+| [Magic Mouth](/spell/level/2/magic-mouth.md) | Illusion | V, S, M ($C) | 1 minute (R) | 30 ft. | One object | Until dispelled |
 | [Mirror Image](/spell/level/2/mirror-image.md) | Illusion | V, S | Normal Action | — | Self | 1 minute |
 | [Phantasmal Force](/spell/level/2/phantasmal-force.md) | Illusion | V, S, M | Normal Action | 60 ft. | One creature | 1 minute (C) |
 | [Pyrotechnics](/spell/level/2/pyrotechnics.md) | Transmutation | V, S | Normal Action | 60 ft. | Everything in a 20-ft. radius Sphere | 1 minute (C) |
@@ -102,6 +104,7 @@
 | [Enemies Abound](/spell/level/3/enemies-abound.md) | Enchantment | V, S | Normal Action | 120 ft. | One creature | 1 minute (C) |
 | [Fear](/spell/level/3/fear.md) | Illusion | V, S, M | Normal Action | — | Each creature in a 30-ft. Cone | 1 minute (C) |
 | [Feign Death](/spell/level/3/feign-death.md) | Necromancy | V, S, M | Normal Action (R) | Reach | One creature | 1 hour |
+| [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | — | Until dispelled or triggered |
 | [Hypnotic Pattern](/spell/level/3/hypnotic-pattern.md) | Illusion | S, M | Normal Action | 120 ft. | Each creature in a 30-ft. Cube | 1 minute (C) |
 | [Intellect Fortress](/spell/level/3/intellect-fortress.md) | Abjuration | V | Normal Action | 30 ft. | One creature | 1 hour (C) |
 | [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
@@ -114,5 +117,20 @@
 | [Speak with Dead](/spell/level/3/speak-with-dead.md) | Necromancy | V, S, M | Normal Action | 10 ft. | One corpse with a mouth | 10 minutes |
 | [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Normal Action | — | Each plant in a 30-ft. Aura | 10 minutes |
 | [Stinking Cloud](/spell/level/3/stinking-cloud.md) | Conjuration | V, S, M | Normal Action | 90 ft. | Each creature in a 20-ft. radius Sphere | 1 minute (C) |
-| [Tiny Hut](/spell/level/3/tiny-hut.md) | Evocation | V, S, M | 1 minute (R) | Reach | Each creature in a 10-ft. radius Sphere | 8 hours |
+| [Tiny Hut](/spell/level/3/tiny-hut.md) | Evocation | V, S, M | 1 minute (R) | Reach | A 10-ft. radius Aura | 8 hours |
 | [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Normal Action | Reach | One creature | 1 hour |
+
+## 4th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Charm Monster](/spell/level/4/charm-monster.md) | Enchantment | V, S | Normal Action | 30 ft. | One creature | 1 hour |
+| [Compulsion](/spell/level/4/compulsion.md) | Enchantment | V, S | Normal Action | 30 ft. | Each creature you choose within 30 ft. | 1 minute (C) |
+| [Confusion](/spell/level/4/confusion.md) | Enchantment | V, S, M | Normal Action | 90 ft. | Everything in a 10-ft. radius Sphere | 1 minute (C) |
+| [Dimension Door](/spell/level/4/dimension-door.md) | Conjuration | V | Normal Action | 500 ft. | Self, and one Allied creature within Reach | — |
+| [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Normal Action | — | Self | 10 minutes (C) |
+| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One willing creature | 1 hour |
+| [Greater Invisibility](/spell/level/4/greater-invisibility.md) | Illusion | V, S | Normal Action | Reach | One creature | 1 minute (C) |
+| [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
+| [Phantasmal Killer](/spell/level/4/phantasmal-killer.md) | Illusion | V, S | Normal Action | 120 ft. | One creature | 1 minute (C) |
+| [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |

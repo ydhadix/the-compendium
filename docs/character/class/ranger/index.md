@@ -58,7 +58,7 @@ After a Long Rest, you regain all uses of Marked Target.
 #### Improved Mark
 Your _Hunter's Mark_ gains the following benefits:
 
-- The extra damage increases as you gain Ranger Levels, as shown in the [Ranger Table](#class-table).
+- The additional damage increases as you gain Ranger Levels, as shown in the [Ranger Table](#class-table).
 - You can move the Mark regardless of the target's Hit Points.
 - You can cast this Spell without Concentration. If you do, the Spell's Duration becomes **1** minute for that casting.
 ###### Free Casting

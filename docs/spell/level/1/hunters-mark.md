@@ -17,13 +17,13 @@ You mark the target.
 You gain the following benefits against marked targets:
 
 - You gain Advantage on Perception and Survival Checks to find the target.
-- Before you deal damage to the target with an Attack, you add **1d6** Force Damage.
+- Your Attacks against the target deal an additional **1d6** Force Damage.
 
 ###### Mark
 Bonus Action
 { .subtitle }
 
-As a Bonus Action, if the target has **0** Hit Points, you can move the mark to a new target.
+If the target has **0** Hit Points, you can move the mark to a new target.
 
 ##### At Higher Levels
 When Upcast to 2nd- or 3rd-Level, the Duration is 8 hours (Concentration).

@@ -18,7 +18,7 @@ You make the target glow red-hot.  After you cast this Spell, you can take the f
 Bonus Action
 { .subtitle }
 
-You deal **2d8** Fire Damage to everything touching the target, and a creature that takes this damage makes a Fortitude Save.
+You can deal **2d8** Fire Damage to everything touching the target, and a creature that takes this damage makes a Fortitude Save.
 
 | | |
 |---|---|
@@ -26,4 +26,4 @@ You deal **2d8** Fire Damage to everything touching the target, and a creature t
 | Success | No additional effect. |
 
 ##### At Higher Levels
-Add **1d8** Fire Damage per additional Spell Level.
+Add **1d8** damage per additional Spell Level.

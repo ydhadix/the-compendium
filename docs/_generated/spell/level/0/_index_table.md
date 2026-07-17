@@ -29,7 +29,7 @@
 | [Poison Spray](/spell/level/0/poison-spray.md) | Necromancy | V, S | Normal Action | 30 ft. | One thing | — |
 | [Prestidigitation](/spell/level/0/prestidigitation.md) | Transmutation | V, S | Normal Action | 10 ft. | Special | 1 hour |
 | [Primal Savagery](/spell/level/0/primal-savagery.md) | Transmutation | S | Normal Action | Reach | One thing | — |
-| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Special | 10 minutes |
+| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Self | 10 minutes |
 | [Ray of Frost](/spell/level/0/ray-of-frost.md) | Evocation | V, S, M | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
 | [Resistance](/spell/level/0/resistance.md) | Abjuration | V, S | Normal Action | Reach | One creature | 1 minute (C) |
 | [Sacred Flame](/spell/level/0/sacred-flame.md) | Evocation | V, S | Normal Action | 60 ft. | One thing | — |

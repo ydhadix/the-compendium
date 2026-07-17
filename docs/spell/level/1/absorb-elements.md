@@ -14,7 +14,7 @@
 ##### Spell Effect
 You gain Resistance to the triggering Damage Type.
 
-Before you deal damage with a Melee Attack, you can add **1d6** damage of the triggering type, then this Spell ends.
+The next time you deal damage with a Melee Attack, you deal an additional **1d6** damage of the triggering type, then this effect ends.
 
 ##### At Higher Levels
 Add **1** Damage Die per additional Spell Level.

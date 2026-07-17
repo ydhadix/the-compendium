@@ -20,4 +20,4 @@ The target flies up to **90** feet in a straight line. Anything it strikes makes
 | Success | The target continues flying until it strikes something else or has moved **90** feet or more. |
 
 ##### At Higher Levels
-Add **1d8** Bludgeoning Damage and **30** feet of Range per additional Spell Level.
+Add **1d8** damage and **30** feet of Range per additional Spell Level.

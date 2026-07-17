@@ -1,0 +1,1 @@
+| [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Normal Action | 30 ft. | Each enemy within 10 ft. of the guardian | 8 hours |

@@ -12,4 +12,4 @@
 | Duration | — |
 
 ##### Spell Effect
-You teleport to an unoccupied space within range.
+You teleport to an unoccupied space.

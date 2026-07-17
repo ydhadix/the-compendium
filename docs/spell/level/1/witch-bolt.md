@@ -17,13 +17,13 @@ You make a Ranged Spell Attack against the target.
 | | |
 |---|---|
 | Hit | You deal **2d12** Lightning Damage. This Spell ends if the target has Full Cover from you or leaves this Spell's range. |
-| Miss | This Spell ends. |
+| Miss | This effect ends. |
 
 ###### Bolt
 Bonus Action
 { .subtitle }
 
-You deal **1d12** Lightning Damage to the target.
+You can deal **1d12** Lightning Damage to the target.
 
 ##### At Higher Levels
-Add **1d12** Lightning Damage and **15** feet to the Range per additional Spell Level.
+Add **1d12** damage and **15** feet to the Range per additional Spell Level.

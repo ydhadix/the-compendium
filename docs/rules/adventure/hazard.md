@@ -26,19 +26,19 @@ A Medium Humanoid needs **1** pound of food per day.  You can go without food fo
 Eating at least half as much food is enough to stave off Starvation temporarily.  Each Day you do, you aren't exhausted, but you still suffer Starvation's other effects and it doesn't reset the number of days without food.
 
 ### Dehydration
-A Medium Humanoid needs **1** gallon of water per day.  Each Day you go without water, you are exhausted.  Each Day you drink half as much water, you must make a Fortitude Save _(DC **15**)_ or you are exhausted.
+A Medium Humanoid needs **1** gallon of water per day.  Each Day you go without water, you are exhausted.  Each Day you drink half as much water, you make a Fortitude Save _(DC **15**)_.  On a failure, you are exhausted.
 
 ### Suffocation
 You can hold your breath for **1 + CON** minutes (minimum **30** seconds). After your air runs out, you can survive for a number of Rounds equal to **CON** (minimum **1** Round). After your next Turn begins, you drop to **0** Hit Points and are Downed, and you can't regain Hit Points or become Stable until you can breathe again.
 
 ### Extreme Cold
-After each hour you're exposed to temperatures **0** degrees Fahrenheit or lower, you must make a Fortitude Save _(DC **10**)_ or you are exhausted.
+After each hour you're exposed to temperatures **0** degrees Fahrenheit or lower, you make a Fortitude Save _(DC **10**)_.  On a failure, you are exhausted.
 
 - Each time you fail this Saving Throw, the DC increases by **5**.
 - If you gain Cold Resistance, you automatically succeed.
 
 ### Extreme Heat
-After each hour you're exposed to temperatures **100** degrees Fahrenheit or higher, you must make a Fortitude Save _(DC **15**)_ or you are exhausted.
+After each hour you're exposed to temperatures **100** degrees Fahrenheit or higher, you make a Fortitude Save _(DC **15**)_.  On a failure, you are exhausted.
 
 - Creatures wearing Medium or Heavy armor gain Disadvantage.
 - Creatures that drink at least **half** a gallon of water gain Advantage.

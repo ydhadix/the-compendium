@@ -22,4 +22,4 @@ Each other target makes a Fortitude Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-Add up to **1** Hit Die, **1d6** Necrotic Damage, and **10** feet to the radius per additional Spell Level.
+Add up to **1** Hit Die, **1d6** damage, and **10** feet to the radius per additional Spell Level.

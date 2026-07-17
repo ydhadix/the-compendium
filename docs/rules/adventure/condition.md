@@ -80,7 +80,7 @@ The effect that causes Corrosion sets a Caustic Die.
 This condition ends after **1** minute, or after you are doused or submerged in clean water or a neutralizing substance.
 
 ##### Daze
-- During your Turn, you can either Move or take an Action, not both.
+- On your Turn, you can either Move or take an Action, not both.
 - You can take a Bonus Action only by spending a Normal Action.
 - You can't take Reactions.
 

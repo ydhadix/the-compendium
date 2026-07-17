@@ -8,5 +8,8 @@ Druid spells are primal magics drawn from the natural world and its wild forces.
 | [1st-Level](#1st-level) |
 | [2nd-Level](#2nd-level) |
 | [3rd-Level](#3rd-level) |
+| [4th-Level](#4th-level) |
+<!-- | [5th-Level](#5th-level) | -->
+<!-- | [6th-Level](#6th-level) | -->
 
 --8<-- "_generated/spell/class/druid/_index_table.md"

@@ -20,8 +20,8 @@ You can designate creatures that don't trigger this effect.
 
 | | |
 |---|---|
-| Fail | You restrain the target and hoist it into the air, hanging upside down **3** feet above the ground. A creature within Reach of the target can Utilize to make an Athletics Check against your Spell Save DC; on a success, this Spell ends on the target. |
-| Success | The rope vanishes without effect and this Spell ends. |
+| Fail | You restrain the target and hoist it into the air, hanging upside down **3** feet above the ground. A creature with the target within its Reach can Utilize to make an Athletics Check against your Spell Save DC; on a success, this effect ends on the target. |
+| Success | The rope vanishes without effect and this effect ends. |
 
 ###### Search
 Search Action

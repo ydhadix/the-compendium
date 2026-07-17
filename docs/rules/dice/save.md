@@ -8,8 +8,8 @@ A Saving Throw represents your attempt to resist a Spell, trap, poison, or other
 You rarely choose to make a Save — an effect calls for one because you are at risk of harm.
 
 1. **Determine modifiers.** Abilities, Proficiency, and other effects can add bonuses, penalties, Advantage, or Disadvantage to the Saving Throw.
-2. **Determine if the save succeeds.** Roll as with any D20 Test. If your total equals or exceeds the Difficulty Class, the save succeeds.
-3. **Resolve the save's effects.** The effect that required the Saving Throw determines what effects succeeding or failing has.
+2. **Determine if the Saving Throw succeeds.** Roll as with any D20 Test. If your total equals or exceeds the Difficulty Class, the Saving Throw succeeds.
+3. **Resolve the Saving Throw's effects.** The effect that required the Saving Throw determines what effects succeeding or failing has.
 
 ### Core Saves
 Most Saves are Fortitude, Reflex, or Will Saves.  When you have Proficiency in that Save, you add your Proficiency Bonus to the Saving Throw.

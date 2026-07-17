@@ -8,13 +8,13 @@
 | Components | V |
 | Casting Time | Normal Action |
 | Range | 90 ft. |
-| Target | Each creature in a 10-ft. Aura |
+| Target | Everything in a 10-ft. Aura |
 | Duration | — |
 
 ##### Spell Effect
-You teleport to an unoccupied space within Range, bringing along one willing creature of your Size or smaller within Reach and any objects you're carrying.
+You teleport to an unoccupied space, bringing along one willing creature of your Size or smaller within Reach and any objects you're carrying.
 
-Each target in the Aura, centered on the space you left or arrive, makes a Fortitude Save.
+Each target in the Aura, centered on the space you arrive at or left, makes a Fortitude Save.
 
 | | |
 |---|---|
@@ -22,4 +22,4 @@ Each target in the Aura, centered on the space you left or arrive, makes a Forti
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **1d10** Thunder Damage per additional Spell Level.
+Add **1d10** damage per additional Spell Level.

@@ -3,7 +3,7 @@ Infusing is how a character weaves magic into an item, spending time, materials,
 { .subtitle }
 
 ## Requirements
-You can infuse a Magic Item, provided you have Proficiency in Arcana. If the Infusion casts or replicates any Spells, you must know them each day you spend infusing the item.
+You can infuse a Magic Item, provided you have Proficiency in Arcana and, if the Infusion casts or replicates any Spells, know them each day you spend infusing the item.
 
 ## Time and Cost
 The Cost of infusing an item is paid in raw materials and time based on the Infusion's Rarity. Consumable items require half as much time and gold.

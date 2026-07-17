@@ -58,4 +58,4 @@ After your attunement to the belt ends:
 - Your normal Primal Companion forms become unlinked from the belt.
 - If your currently summoned monster is not one of your normal Primal Companion forms, it vanishes and is replaced by a Primal Companion of your choice.
 
-If the belt remains unattuned for **24** hours, all linked monsters are automatically released as though by the [Release!](#release) command.
+If the belt remains unattuned for **24** hours, all linked monsters are released as though by the [Release!](#release) command.

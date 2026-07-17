@@ -20,4 +20,4 @@ Each target makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **1d6** Fire Damage and **5** feet to the radius per additional Spell Level.
+Add **1d6** damage and **5** feet to the radius per additional Spell Level.

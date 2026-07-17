@@ -12,16 +12,16 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-The target and everything it's wearing and carrying takes a gaseous form. This Spell ends on the target if it has **0** Hit Points.
+The target and everything it's wearing and carrying takes a gaseous form.  While in this form, the target:
 
-While in this form, the target:
-
-- gains a **10**-foot Fly Speed, can hover, and has no other Speed.
+- gains a **10**-foot Hover Speed and loses all other Speeds.
 - can enter and occupy another creature's space and pass through narrow openings, but treats liquids as solid surfaces.
 - gains Bludgeoning, Piercing, and Slashing Resistance.
 - gains Prone Immunity.
 - gains Fortitude and Reflex Protection.
 - can't talk, attack, cast Spells, or interact with objects.
+
+This effect ends on the target if it has **0** Hit Points.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

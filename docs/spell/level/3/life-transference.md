@@ -15,4 +15,4 @@
 You deal **4d8** Necrotic Damage to yourself, which can't be reduced, and heal the target by twice the Necrotic Damage taken.
 
 ##### At Higher Levels
-Add **1d8** Necrotic Damage per additional Spell Level.
+Add **1d8** damage per additional Spell Level.

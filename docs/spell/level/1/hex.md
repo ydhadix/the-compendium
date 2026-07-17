@@ -17,13 +17,13 @@ You mark the target. Choose an Ability.
 You gain the following benefits against marked targets:
 
 - The target gains Disadvantage on Checks using the chosen Ability.
-- Before you deal damage to the target with an Attack, you add **1d6** Necrotic Damage.
+- Your Attacks against the target deal an additional **1d6** Necrotic Damage.
 
 ###### Mark
 Bonus Action
 { .subtitle }
 
-As a Bonus Action, if the target has **0** Hit Points, you can move the mark to a new target _(you don't choose a different Ability)_.
+If the target has **0** Hit Points, you can move the mark to a new target _(you don't choose a different Ability)_.
 
 ##### At Higher Levels
 When Upcast to 2nd- or 3rd-Level, the Duration is 8 hours (Concentration).

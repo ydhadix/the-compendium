@@ -1,0 +1,1 @@
+| [Staggering Smite](/spell/level/3/staggering-smite.md) | Enchantment | V | Bonus Action | — | The target of the Attack | — |

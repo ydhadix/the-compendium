@@ -25,4 +25,4 @@ Magic Action
 You repeat the Attack against a creature within Reach.
 
 ##### At Higher Levels
-Add **1d6** Necrotic Damage per additional Spell Level.
+Add **1d6** damage per additional Spell Level.

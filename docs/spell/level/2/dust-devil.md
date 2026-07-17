@@ -25,7 +25,7 @@ After your Turn starts, each target makes a Fortitude Save.  After a target ente
 Bonus Action
 { .subtitle }
 
-You move the area up to **30** feet.
+You can move the area up to **30** feet.
 
 ##### At Higher Levels
 Add **1d6** damage per additional Spell Level.

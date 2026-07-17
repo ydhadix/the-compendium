@@ -1,0 +1,1 @@
+| [Divination](/spell/level/4/divination.md) | Divination | V, S, M ($C) | Normal Action (R) | Self | Self | — |

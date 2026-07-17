@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Classes | Artificer, Wizard |
+| Classes | Wizard |
 | Components | V, S, M |
 | Casting Time | 10 minutes |
 | Range | 120 ft. |

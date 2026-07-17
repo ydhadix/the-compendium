@@ -19,4 +19,4 @@ You make a Ranged Spell Attack against thecs target.
 | Miss | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **2d10** Force Damage per additional Spell Level.
+Add **2d10** damage per additional Spell Level.

@@ -1,0 +1,1 @@
+| [Hunger of Hadar](/spell/level/3/hunger-of-hadar.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | 1 minute (C) |

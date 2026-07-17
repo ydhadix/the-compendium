@@ -20,4 +20,4 @@ You create an intangible, Invisible, invulnerable sensor and can perceive using 
 Bonus Action
 { .subtitle }
 
-You switch between seeing and hearing.
+You can switch between seeing and hearing.

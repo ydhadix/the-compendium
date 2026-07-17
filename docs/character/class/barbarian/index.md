@@ -135,7 +135,7 @@ Your subclass grants you an additional feature.
 ### 7: Brutal Strike Improvement
 Your Brutal Strike damage increases to **2d10** and it gains the following effect options:
 ##### Staggering Blow
-After the Attack, the target gains Disadvantage on the next Saving Throw it makes and can't take Reactions until the start of your next turn.
+After the Attack, the next Saving Throw the target makes gains Disadvantage, and the target can't take Reactions until the start of your next turn.
 ##### Sundering Blow
 After the Attack, you add **5** to the next Attack Roll another creature makes against the target before the start of your next turn.
 

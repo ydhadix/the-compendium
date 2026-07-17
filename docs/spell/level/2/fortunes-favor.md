@@ -12,7 +12,7 @@
 | Duration | 1 hour |
 
 ##### Spell Effect
-After the target rolls a d20, it can roll an additional d20 and choose which to use, then this Spell ends.
+After the target rolls a d20, it can roll an additional d20 and choose which to use, then this effect ends.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

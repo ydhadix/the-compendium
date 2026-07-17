@@ -20,4 +20,4 @@ Each target makes a Reflex Save.
 | Success | No effect. |
 
 ##### At Higher Levels
-Add **1d10** Piercing Damage and **5** feet to the radius per additional Spell Level.
+Add **1d10** damage and **5** feet to the radius per additional Spell Level.

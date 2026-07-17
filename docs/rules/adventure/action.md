@@ -41,7 +41,7 @@ Choose an Ally or an enemy within your Reach. The effect lasts until the start o
 
 | | |
 |---|---|
-| Ally | Choose one of your Proficiencies; the Ally gains Advantage on its next Ability Check that uses it. |
+| Ally | Choose one of your Proficiencies; the Ally's next Ability Check that uses it gains Advantage. |
 | Enemy | The next Attack Roll an Ally makes against the enemy gains Advantage. |
 
 ##### Hide
@@ -61,7 +61,7 @@ You can't Ready outside an Encounter; trying to do so starts Initiative first.
 If you Ready a Dash, you can use the extra movement as part of the Reaction.
 
 ###### Readying Magic
-If you Ready a Magic Action, you must Concentrate until you take the readied Action. If your Concentration breaks, you can't take the readied Action, but you don't expend the Spell Slot or the Action's other costs.
+If you Ready a Magic Action, you Concentrate until you take the readied Action. If your Concentration breaks, you can't take the readied Action, but you don't expend the Spell Slot or the Action's other costs.
 
 ##### Search
 Make a Wisdom Check to notice something that isn't obvious. What you're looking for sets the Skill that applies:

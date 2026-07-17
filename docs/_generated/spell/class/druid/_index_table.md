@@ -16,7 +16,7 @@
 | [Message](/spell/level/0/message.md) | Transmutation | S, M | Normal Action | 120 ft. | One creature | — |
 | [Poison Spray](/spell/level/0/poison-spray.md) | Necromancy | V, S | Normal Action | 30 ft. | One thing | — |
 | [Primal Savagery](/spell/level/0/primal-savagery.md) | Transmutation | S | Normal Action | Reach | One thing | — |
-| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Special | 10 minutes |
+| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Self | 10 minutes |
 | [Resistance](/spell/level/0/resistance.md) | Abjuration | V, S | Normal Action | Reach | One creature | 1 minute (C) |
 | [Sapping Sting](/spell/level/0/sapping-sting.md) | Necromancy | V, S | Normal Action | 30 ft. | One thing | — |
 | [Shillelagh](/spell/level/0/shillelagh.md) | Transmutation | V, S | Bonus Action | Reach | A club or quarterstaff | 1 minute |
@@ -109,14 +109,33 @@
 | [Sleet Storm](/spell/level/3/sleet-storm.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Each other creature in a 40-ft. radius, 20-ft. Cylinder | 1 minute (C) |
 | [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Normal Action | — | Each plant in a 30-ft. Aura | 10 minutes |
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
-| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Each creature in a 10-ft. × 30-ft. Line | — |
+| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Everything in a 10-ft. × 30-ft. Line | — |
 | [Wall of Water](/spell/level/3/wall-of-water.md) | Evocation | V, S, M | Normal Action | 60 ft. | — | 10 minutes (C) |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
+| [Wind Wall](/spell/level/3/wind-wall.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
 
 ## 4th-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
+| [Blight](/spell/level/4/blight.md) | Necromancy | V, S | Normal Action | 30 ft. | One creature, or one nonmagical plant | — |
+| [Charm Monster](/spell/level/4/charm-monster.md) | Enchantment | V, S | Normal Action | 30 ft. | One creature | 1 hour |
+| [Confusion](/spell/level/4/confusion.md) | Enchantment | V, S, M | Normal Action | 90 ft. | Everything in a 10-ft. radius Sphere | 1 minute (C) |
 | [Conjure Minor Elementals](/spell/level/4/conjure-minor-elementals.md) | Conjuration | V, S | Normal Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
+| [Conjure Woodland Beings](/spell/level/4/conjure-woodland-beings.md) | Conjuration | V, S | Normal Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |
+| [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Normal Action | 300 ft. | Water in a 100-ft. Cube | 10 minutes (C) |
+| [Divination](/spell/level/4/divination.md) | Divination | V, S, M ($C) | Normal Action (R) | Self | Self | — |
 | [Dominate Beast](/spell/level/4/dominate-beast.md) | Enchantment | V, S | Normal Action | 60 ft. | One Beast | 1 minute (C) |
+| [Fire Shield](/spell/level/4/fire-shield.md) | Evocation | V, S, M | Normal Action | — | Self | 10 minutes |
+| [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Normal Action | — | Self | 10 minutes (C) |
+| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One willing creature | 1 hour |
+| [Giant Insect](/spell/level/4/giant-insect.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
+| [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One creature within 30 ft. of the vine | 1 minute (C) |
+| [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
+| [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder | — |
+| [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |
+| [Stone Shape](/spell/level/4/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
+| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One willing creature | 1 hour (C) |
+| [Summon Elemental](/spell/level/4/summon-elemental.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
+| [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |

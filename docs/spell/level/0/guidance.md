@@ -12,4 +12,4 @@ Divination Cantrip
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-Choose a Skill or Trade. Before the target makes an Ability Check using the chosen Proficiency, you add **1d4** to the Ability Check.
+Choose a Skill or Trade. The target's Ability Checks using the chosen Proficiency increase by **1d4**.

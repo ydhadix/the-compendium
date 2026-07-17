@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Classes | Druid, Ranger, Sorcerer |
+| Classes | Druid, Sorcerer |
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
@@ -19,7 +19,7 @@ The target makes a Will Save. If you or an ally is fighting the target, it gains
 | Fail | You charm the target. |
 | Success | No effect. |
 
-After the target takes damage, it repeats this Saving Throw, ending this Spell on a success.
+After the target takes damage, it repeats this Saving Throw.  On a success, this effect ends on the target.
 
 While the target is Charmed, you share a telepathic link with it while you are on the same plane. On your Turn, you can issue commands to the target through this link, such as "Attack that creature," "Move over there," or "Fetch that object" (no action required). The target does its best to obey. If it completes a command and receives no further direction, it acts to protect itself.
 

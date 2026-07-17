@@ -20,4 +20,4 @@ Each target makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **2d6** Fire Damage and **15** feet of Cone size per additional Spell Level.
+Add **2d6** damage and **15** feet of Cone size per additional Spell Level.

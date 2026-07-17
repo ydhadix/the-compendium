@@ -12,11 +12,16 @@ Fog, foliage, and other visual obstacles create levels of Obscurement. When you 
 | Heavy | You are Blinded while trying to see into or through the area. |
 
 ### Lighting
-The presence or absence of light sets an area's Lighting, which in turn sets its Obscurement.
+The presence or absence of light sets an area's Lighting, which in turn affects its Obscurement.  Lighting can make an area harder to see into, but not easier; an area filled with fog doesn't become easier to see through because the sun is out.
 
 | Lighting | Effect |
 |---|---|
 | Bright Light | The area is Clear. |
 | Dim Light | The area has Light Obscurement. |
 | Darkness | The area has Heavy Obscurement. |
-| Magical Darkness | The area has Heavy Obscurement, and Darkvision doesn't help you see into it. |
+
+#### Sunlight
+Sunlight is a special type of naturally produced Bright Light.  Sunlight doesn't have any special rules of its own, but some effects only work in areas of Sunlight.
+
+#### Magical Darkness
+Magical Darkness is a special type of magically produced Darkness.  Darkvision doesn't help you see through areas of Magical Darkness.

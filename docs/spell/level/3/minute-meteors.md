@@ -18,7 +18,7 @@ You create **6** meteors that orbit you for the Duration.
 Bonus Action
 { .subtitle }
 
-You expend up to **2** meteors, sending each toward a point within Range. Each creature in a **5**-foot radius Sphere around a point makes a Reflex Save.
+You can expend up to **2** meteors, sending each toward a point. Each creature in a **5**-foot radius Sphere around a point makes a Reflex Save.
 
 | | |
 |---|---|

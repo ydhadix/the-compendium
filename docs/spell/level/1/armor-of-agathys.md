@@ -19,4 +19,4 @@ After you are hit by a Melee Attack, the attacker takes **5** Cold Damage.
 This Spell ends if you have no Temporary Hit Points.
 
 ##### At Higher Levels
-Add **5** Temporary Hit Points and **5** Cold Damage per additional Spell Level.
+Add **5** Temporary Hit Points and **5** damage per additional Spell Level.

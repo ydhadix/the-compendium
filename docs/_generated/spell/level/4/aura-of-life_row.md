@@ -1,0 +1,1 @@
+| [Aura of Life](/spell/level/4/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each ally in a 30-ft. Aura | 10 minutes (C) |

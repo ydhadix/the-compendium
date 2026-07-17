@@ -1,0 +1,1 @@
+| [Otiluke's Resilient Sphere](/spell/level/4/resilient-sphere.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One Large or smaller creature or object | 1 minute (C) |

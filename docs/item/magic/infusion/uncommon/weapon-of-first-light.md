@@ -10,4 +10,4 @@ After you roll Initiative, if you are first in the Initiative Order, your Speed 
 Bonus Action
 { .subtitle }
 
-This item sheds light as the _Light_ Spell.  While the weapon is glowing, it can deal Radiant Damage instead of its normal Damage Type.
+This item emits light as the _Light_ Spell.  While the weapon is glowing, it can deal Radiant Damage instead of its normal Damage Type.

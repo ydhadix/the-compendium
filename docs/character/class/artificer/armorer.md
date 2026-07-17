@@ -75,7 +75,7 @@ While Bloodied, you can gain **Character Level** Temporary Hit Points.
 
 ##### Armor Model: Infiltrator
 ###### Lightning Launcher
-Your gauntlets are Simple Ranged Weapons with a range of **100**/**400** feet that deal **1d6** Lightning Damage. Before you deal Lightning Damage with these Weapons, you can add **1d6** Lightning Damage once per Turn.
+Your gauntlets are Simple Ranged Weapons with a range of **100**/**400** feet that deal **1d6** Lightning Damage. Before you deal Lightning Damage with these Weapons, you can add **1d6** damage once per Turn.
 ###### Powered Steps
 Your Speed increases by **5** feet.
 ###### Dampening Field
@@ -87,7 +87,7 @@ You can have **2** additional [Infused Items](index.md#1-infuse-items). These In
 
 
 ### 9: Perfected Armor
-Your Arcane Armor Weapons gain an additional Damage Die.
+Your Arcane Armor Weapons deal **1** additional Damage Die.
 
 Your Armor Models gain additional benefits:
 
@@ -109,7 +109,7 @@ After a Huge or smaller creature ends its Turn within **30** feet, you can force
 
 ##### Armor Model: Infiltrator
 ###### Lightning Launcher
-After you damage a creature with your Lightning Launcher, it emits Bright Light out to **5** feet and Dim Light for an additional **5** feet, and gains Disadvantage on Attack Rolls against you until the start of your next Turn.
+After you damage a creature with your Lightning Launcher, it emits Bright Light out to **5** feet and Dim Light **5** feet further, and gains Disadvantage on Attack Rolls against you until the start of your next Turn.
 ###### Aerial Dash
 Bonus Action, Artificer Ability uses per Long Rest
 { .subtitle }

@@ -8,17 +8,17 @@ Conjuration Cantrip
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | Special |
+| Target | Self |
 | Duration | 10 minutes |
 
 ##### Spell Effect
-You create a flame in your hand that is harmless to you and emits Bright Light out to **20** feet and Dim Light for an additional **20** feet. This Spell ends if you cast it again.
+You create a flame in your hand that is harmless to you and emits Bright Light out to **20** feet and Dim Light **20** feet further. This Spell ends if you cast it again.
 
 ###### Throw
 Bonus Action
 { .subtitle }
 
-You can throw the flame at one creature within range. The target makes a Reflex Save, then this Spell ends.
+You can throw the flame at a creature or object. The target makes a Reflex Save, then this effect ends.
 
 | | |
 |---|---|

@@ -20,4 +20,4 @@ The target makes a Will Save.
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **1d8** Psychic Damage per additional Spell Level.
+Add **1d8** damage per additional Spell Level.

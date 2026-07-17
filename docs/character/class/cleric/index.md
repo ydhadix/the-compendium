@@ -166,7 +166,7 @@ Your subclass grants you an additional feature.
 ### 10: Improved Blessed Strikes
 The benefit you chose for Blessed Strikes improves.
 ##### Divine Strike
-The extra damage becomes **2d8**.
+The additional damage becomes **2d8**.
 ##### Potent Spellcasting
 Before you deal damage with a Cleric Cantrip, one creature within **60** feet gains **Cleric Ability × 2** Temporary Hit Points.
 

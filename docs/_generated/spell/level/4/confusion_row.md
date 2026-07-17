@@ -1,0 +1,1 @@
+| [Confusion](/spell/level/4/confusion.md) | Enchantment | V, S, M | Normal Action | 90 ft. | Everything in a 10-ft. radius Sphere | 1 minute (C) |

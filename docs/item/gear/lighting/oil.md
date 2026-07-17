@@ -23,6 +23,6 @@ A Flask filled with Oil can be wielded as a Simple Melee Weapon with Thrown _(**
 |---|---|
 | **Hit** | The target is covered in Oil for **1** minute. |
 
-A target covered in Oil takes an additional **5** Fire Damage from any Fire Damage dealt to it.
+A target covered in Oil takes an additional **5** damage from any Fire Damage dealt to it.
 
 After the Attack, the Oil is consumed and the Flask is destroyed.

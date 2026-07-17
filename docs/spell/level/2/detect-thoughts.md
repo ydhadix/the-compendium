@@ -31,6 +31,6 @@ You mentally target a creature that understands a language. It makes a Will Save
 | | |
 |---|---|
 | Fail | You learn the target's reasoning, emotional state, and something that looms large in its mind. |
-| Success | This Spell ends. |
+| Success | This effect ends. |
 
-Before the target's Turn ends, it repeats this Saving Throw, ending this Spell on a success.
+Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends.

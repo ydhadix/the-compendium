@@ -24,7 +24,7 @@ Each creature in a **5**-foot radius Sphere makes a Reflex Save.
 
 | | |
 |---|---|
-| Fail | You deal **3d10** Lightning Damage, or an additional **1d10** Lightning Damage if this Spell's area is a storm. |
+| Fail | You deal **3d10** Lightning Damage, or an additional **1d10** if this Spell's area is a storm. |
 | Success | You deal half as much damage. |
 
 ##### At Higher Levels

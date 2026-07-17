@@ -1,0 +1,1 @@
+| [Fire Shield](/spell/level/4/fire-shield.md) | Evocation | V, S, M | Normal Action | — | Self | 10 minutes |

@@ -16,5 +16,5 @@ Each target makes a Reflex Save.
 
 | | |
 |---|---|
-| Fail | The target is outlined in light and emits Dim Light out to **10** feet, can't benefit from being Invisible, and Attack Rolls against it gain Advantage. |
+| Fail | The target is outlined in light and has the following effects:<ul><li>It emits Bright Light out to **5** feet.</li><li>It can't benefit from being Invisible.</li><li>Attack Rolls against it gain Advantage.</li></ul> |
 | Success | No effect. |

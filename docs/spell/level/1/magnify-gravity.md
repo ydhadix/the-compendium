@@ -25,7 +25,7 @@ Objects in the area that aren't worn or carried can't be moved or picked up.
 Free Action
 { .subtitle }
 
-A creature can make an Athletics Check against your Spell Save DC to end this Spell on such an object.
+A creature can make an Athletics Check against your Spell Save DC to end this effect on such an object.
 
 ##### At Higher Levels
-Add **1d8** Force Damage and **5** feet to the radius per additional Spell Level.
+Add **1d8** damage and **5** feet to the radius per additional Spell Level.

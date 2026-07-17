@@ -16,5 +16,5 @@ The target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You charm the target. This Spell ends on the target if you or an ally deal damage to it. |
+| Fail | You charm the target. This effect ends on the target if you or an ally deal damage to it. |
 | Success | No effect. |

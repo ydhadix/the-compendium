@@ -121,6 +121,7 @@
 | [Levitate](/spell/level/2/levitate.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One thing | 10 minutes (C) |
 | [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Normal Action (R) | 1,000 ft. | Special | 10 minutes (C) |
 | [Magic Aura](/spell/level/2/magic-aura.md) | Illusion | V, S, M | Normal Action | Reach | One creature or object | 24 hours |
+| [Magic Mouth](/spell/level/2/magic-mouth.md) | Illusion | V, S, M ($C) | 1 minute (R) | 30 ft. | One object | Until dispelled |
 | [Magic Weapon](/spell/level/2/magic-weapon.md) | Transmutation | V, S | Bonus Action | Reach | One weapon | 1 hour |
 | [Mind Spike](/spell/level/2/mind-spike.md) | Divination | S | Normal Action | 120 ft. | One creature | 1 hour (C) |
 | [Mind Whip](/spell/level/2/mind-whip.md) | Enchantment | V | Normal Action | 90 ft. | One creature | Until the end of the target's next Turn |
@@ -162,12 +163,14 @@
 | [Flame Arrows](/spell/level/3/flame-arrows.md) | Transmutation | V, S | Normal Action | Reach | One quiver | 1 hour (C) |
 | [Fly](/spell/level/3/fly.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 10 minutes (C) |
 | [Gaseous Form](/spell/level/3/gaseous-form.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour (C) |
+| [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | — | Until dispelled or triggered |
 | [Haste](/spell/level/3/haste.md) | Transmutation | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
 | [Hypnotic Pattern](/spell/level/3/hypnotic-pattern.md) | Illusion | S, M | Normal Action | 120 ft. | Each creature in a 30-ft. Cube | 1 minute (C) |
 | [Intellect Fortress](/spell/level/3/intellect-fortress.md) | Abjuration | V | Normal Action | 30 ft. | One creature | 1 hour (C) |
 | [Life Transference](/spell/level/3/life-transference.md) | Necromancy | V, S | Normal Action | 30 ft. | One creature | — |
 | [Lightning Bolt](/spell/level/3/lightning-bolt.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 5-ft. × 100-ft. Line | — |
 | [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
+| [Magic Circle](/spell/level/3/magic-circle.md) | Abjuration | V, S, M ($C) | 1 minute | 10 ft. | A 10-ft. radius, 20-ft. Cylinder | 1 hour |
 | [Major Image](/spell/level/3/major-image.md) | Illusion | V, S, M | Normal Action | 120 ft. | Each creature in a 20-ft. Cube | 10 minutes (C) |
 | [Minute Meteors](/spell/level/3/minute-meteors.md) | Evocation | V, S, M | Normal Action | 120 ft. | Self | 10 minutes (C) |
 | [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature, place, or object no larger than **10** feet | 8 hours |
@@ -185,9 +188,9 @@
 | [Stinking Cloud](/spell/level/3/stinking-cloud.md) | Conjuration | V, S, M | Normal Action | 90 ft. | Each creature in a 20-ft. radius Sphere | 1 minute (C) |
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Summon Undead](/spell/level/3/summon-undead.md) | Necromancy | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
-| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Normal Action | 90 ft. | Each creature in a 10-ft. Aura | — |
-| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Each creature in a 10-ft. × 30-ft. Line | — |
-| [Tiny Hut](/spell/level/3/tiny-hut.md) | Evocation | V, S, M | 1 minute (R) | Reach | Each creature in a 10-ft. radius Sphere | 8 hours |
+| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Normal Action | 90 ft. | Everything in a 10-ft. Aura | — |
+| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Everything in a 10-ft. × 30-ft. Line | — |
+| [Tiny Hut](/spell/level/3/tiny-hut.md) | Evocation | V, S, M | 1 minute (R) | Reach | A 10-ft. radius Aura | 8 hours |
 | [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny, nonmagical object | 8 hours |
 | [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Normal Action | Reach | One creature | 1 hour |
 | [Vampiric Touch](/spell/level/3/vampiric-touch.md) | Necromancy | V, S | Normal Action | — | Self | 1 minute (C) |
@@ -199,5 +202,31 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
+| [Arcane Eye](/spell/level/4/arcane-eye.md) | Divination | V, S, M | Normal Action | 30 ft. | — | 1 hour (C) |
+| [Banishment](/spell/level/4/banishment.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
+| [Evard's Black Tentacles](/spell/level/4/black-tentacles.md) | Conjuration | V, S, M | Normal Action | 90 ft. | Everything in a 20-ft. Square | 1 minute (C) |
+| [Blight](/spell/level/4/blight.md) | Necromancy | V, S | Normal Action | 30 ft. | One creature, or one nonmagical plant | — |
+| [Charm Monster](/spell/level/4/charm-monster.md) | Enchantment | V, S | Normal Action | 30 ft. | One creature | 1 hour |
+| [Confusion](/spell/level/4/confusion.md) | Enchantment | V, S, M | Normal Action | 90 ft. | Everything in a 10-ft. radius Sphere | 1 minute (C) |
 | [Conjure Minor Elementals](/spell/level/4/conjure-minor-elementals.md) | Conjuration | V, S | Normal Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
+| [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Normal Action | 300 ft. | Water in a 100-ft. Cube | 10 minutes (C) |
+| [Dimension Door](/spell/level/4/dimension-door.md) | Conjuration | V | Normal Action | 500 ft. | Self, and one Allied creature within Reach | — |
+| [Divination](/spell/level/4/divination.md) | Divination | V, S, M ($C) | Normal Action (R) | Self | Self | — |
+| [Fabricate](/spell/level/4/fabricate.md) | Transmutation | V, S | 10 minutes | 120 ft. | — | — |
+| [Mordenkainen's Faithful Hound](/spell/level/4/faithful-hound.md) | Conjuration | V, S, M | Normal Action | 30 ft. | — | 8 hours |
+| [Fire Shield](/spell/level/4/fire-shield.md) | Evocation | V, S, M | Normal Action | — | Self | 10 minutes |
+| [Greater Invisibility](/spell/level/4/greater-invisibility.md) | Illusion | V, S | Normal Action | Reach | One creature | 1 minute (C) |
+| [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
+| [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder | — |
+| [Phantasmal Killer](/spell/level/4/phantasmal-killer.md) | Illusion | V, S | Normal Action | 120 ft. | One creature | 1 minute (C) |
+| [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |
 | [Private Sanctum](/spell/level/4/private-sanctum.md) | Abjuration | V, S, M | 10 minutes | 120 ft. | A 5- to 100-ft. Cube | 24 hours |
+| [Otiluke's Resilient Sphere](/spell/level/4/resilient-sphere.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One Large or smaller creature or object | 1 minute (C) |
+| [Leomund's Secret Chest](/spell/level/4/secret-chest.md) | Conjuration | V, S, M ($) | Normal Action | Reach | — | Until dispelled |
+| [Stone Shape](/spell/level/4/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
+| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One willing creature | 1 hour (C) |
+| [Summon Aberration](/spell/level/4/summon-aberration.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
+| [Summon Construct](/spell/level/4/summon-construct.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
+| [Summon Elemental](/spell/level/4/summon-elemental.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
+| [Vitriolic Sphere](/spell/level/4/vitriolic-sphere.md) | Evocation | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | — |
+| [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |

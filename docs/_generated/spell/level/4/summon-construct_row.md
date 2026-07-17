@@ -1,0 +1,1 @@
+| [Summon Construct](/spell/level/4/summon-construct.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |

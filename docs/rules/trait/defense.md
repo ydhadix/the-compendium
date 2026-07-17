@@ -24,7 +24,7 @@ Hit Points represent a creature's physical health, luck, stamina, and resolve.  
 Your Hit Dice are a reserve of latent health. You can't draw on them freely — only certain effects let you spend or restore them, most often Resting.
 
 ### Damage Reduction
-Before you take Physical Damage, you reduce it by your Damage Reduction _(after any Resistance has been applied)_.
+Before you take Physical Damage, you reduce it by your Damage Reduction _(after any Resistance applies)_.
 
 ### Damage Threshold
 Before you take Damage, if that damage doesn't exceed your Damage Threshold _(after all other modifiers have been applied)_, you take no Damage instead.

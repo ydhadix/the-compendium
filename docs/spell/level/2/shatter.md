@@ -22,4 +22,4 @@ Everything in a **10**-foot radius Sphere makes a Fortitude Save.
 This Spell's thunder is audible out to **300** feet.
 
 ##### At Higher Levels
-Add **1d8** Thunder Damage and **5** feet to the radius per additional Spell Level.
+Add **1d8** damage and **5** feet to the radius per additional Spell Level.

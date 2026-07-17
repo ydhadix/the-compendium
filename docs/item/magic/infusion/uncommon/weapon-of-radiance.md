@@ -9,7 +9,7 @@ Uncommon Weapon (Any), Attunement
 Bonus Action
 { .subtitle }
 
-This item sheds light as the _Light_ Spell.
+This item emits light as the _Light_ Spell.
 
 #### Flash
 Reaction, 1 Charge

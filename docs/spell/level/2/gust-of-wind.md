@@ -25,4 +25,4 @@ After your Turn starts, each target makes a Fortitude Save.  After a target ente
 Bonus Action
 { .subtitle }
 
-You rotate the area's direction around you.
+You can rotate the area's direction around you.

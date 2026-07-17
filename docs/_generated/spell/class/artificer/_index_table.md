@@ -22,7 +22,7 @@
 | [Message](/spell/level/0/message.md) | Transmutation | S, M | Normal Action | 120 ft. | One creature | — |
 | [Poison Spray](/spell/level/0/poison-spray.md) | Necromancy | V, S | Normal Action | 30 ft. | One thing | — |
 | [Prestidigitation](/spell/level/0/prestidigitation.md) | Transmutation | V, S | Normal Action | 10 ft. | Special | 1 hour |
-| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Special | 10 minutes |
+| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Self | 10 minutes |
 | [Ray of Frost](/spell/level/0/ray-of-frost.md) | Evocation | V, S, M | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
 | [Resistance](/spell/level/0/resistance.md) | Abjuration | V, S | Normal Action | Reach | One creature | 1 minute (C) |
 | [Shocking Grasp](/spell/level/0/shocking-grasp.md) | Evocation | V, S | Normal Action | Reach | One thing | Until the end of the target's next Turn |
@@ -90,6 +90,7 @@
 | [Levitate](/spell/level/2/levitate.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One thing | 10 minutes (C) |
 | [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Normal Action (R) | 1,000 ft. | Special | 10 minutes (C) |
 | [Magic Aura](/spell/level/2/magic-aura.md) | Illusion | V, S, M | Normal Action | Reach | One creature or object | 24 hours |
+| [Magic Mouth](/spell/level/2/magic-mouth.md) | Illusion | V, S, M ($C) | 1 minute (R) | 30 ft. | One object | Until dispelled |
 | [Magic Weapon](/spell/level/2/magic-weapon.md) | Transmutation | V, S | Bonus Action | Reach | One weapon | 1 hour |
 | [Protection from Poison](/spell/level/2/protection-from-poison.md) | Abjuration | V, S | Normal Action | Reach | One creature | 1 hour |
 | [Pyrotechnics](/spell/level/2/pyrotechnics.md) | Transmutation | V, S | Normal Action | 60 ft. | Everything in a 20-ft. radius Sphere | 1 minute (C) |
@@ -111,6 +112,7 @@
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |
 | [Flame Arrows](/spell/level/3/flame-arrows.md) | Transmutation | V, S | Normal Action | Reach | One quiver | 1 hour (C) |
 | [Fly](/spell/level/3/fly.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 10 minutes (C) |
+| [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | — | Until dispelled or triggered |
 | [Haste](/spell/level/3/haste.md) | Transmutation | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
 | [Intellect Fortress](/spell/level/3/intellect-fortress.md) | Abjuration | V | Normal Action | 30 ft. | One creature | 1 hour (C) |
 | [Protection from Energy](/spell/level/3/protection-from-energy.md) | Abjuration | V, S | Normal Action | Reach | One thing | 1 hour (C) |
@@ -122,9 +124,3 @@
 | [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny, nonmagical object | 8 hours |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
-
-## 4th-Level
-
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| [Private Sanctum](/spell/level/4/private-sanctum.md) | Abjuration | V, S, M | 10 minutes | 120 ft. | A 5- to 100-ft. Cube | 24 hours |

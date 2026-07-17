@@ -18,7 +18,7 @@ You create the image of an object, creature, or other visible phenomenon, no lar
 Magic Action
 { .subtitle }
 
-You move the image to another location within Range; as it moves, you can alter its appearance and the sounds it makes so they seem natural.
+You move the image to another location; as it moves, you can alter its appearance and the sounds it makes so they seem natural.
 
 ###### Search
 Search Action

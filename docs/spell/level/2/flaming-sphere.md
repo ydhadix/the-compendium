@@ -12,7 +12,7 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-You create a sphere of flames in the area, which emits Bright Light out to **20** feet and Dim Light for an additional **20** feet.
+You create a sphere of flames in the area, which emits Bright Light out to **20** feet and Dim Light **20** feet further.
 
 After your Turn starts, each target makes a Reflex Save.  After a target enters the area (including when this Spell is cast or the area moves), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
@@ -25,7 +25,7 @@ After your Turn starts, each target makes a Reflex Save.  After a target enters 
 Bonus Action
 { .subtitle }
 
-You move the area up to **30** feet.
+You can move the area up to **30** feet.
 
 ##### At Higher Levels
-Add **1d6** Fire Damage per additional Spell Level.
+Add **1d6** damage per additional Spell Level.

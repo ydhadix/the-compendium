@@ -36,7 +36,7 @@ You make a Piloting check against an enemy Ship within Close range.
 | Failure | Until your next Turn, Attacks against your Ship gain Advantage. |
 
 ## Pilot Maneuvers
-A Pilot learns Maneuvers based on their Class Levels.  You can use a Maneuver only when its condition is met, and you must expend one of your Maneuver Dice to do so.
+A Pilot learns Maneuvers based on their Class Levels.  You can use a Maneuver only when its condition is met, provided you expend one of your Maneuver Dice to do so.
 
 Whenever a Pilot Maneuver refers to a Ship's AC, or to Attacks made against a Ship, this means the AC of the hull as well as all the Ship's Weapons.
 

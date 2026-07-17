@@ -12,16 +12,11 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-The target makes a Will Save. It succeeds automatically if it has Fear Immunity.
+The target makes a Will Save. It automatically succeeds if it has Fear Immunity.
 
 | | |
 |---|---|
 | Fail | The target chooses the targets of its Attacks, Spells, and other effects at random from among the creatures it can see, and it makes an Opportunity Attack against any creature that provokes one, if able. |
 | Success | No effect. |
 
-After the target takes damage, it repeats this Saving Throw.
-
-| | |
-|---|---|
-| Fail | No additional effect. |
-| Success | This effect ends on the target. |
+After the target takes damage, it repeats this Saving Throw.  On a success, this effect ends on the target.

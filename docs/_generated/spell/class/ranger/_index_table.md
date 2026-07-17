@@ -57,10 +57,12 @@
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
 | [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Anything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
+| [Conjure Barrage](/spell/level/3/conjure-barrage.md) | Conjuration | V, S, M | Normal Action | Reach | Each creature you choose in a 60-ft. Cone | — |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |
 | [Flame Arrows](/spell/level/3/flame-arrows.md) | Transmutation | V, S | Normal Action | Reach | One quiver | 1 hour (C) |
+| [Lightning Arrow](/spell/level/3/lightning-arrow.md) | Transmutation | V, S | Bonus Action | — | The target of the Attack, and everything within 10 ft. of it | — |
 | [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
 | [Meld into Stone](/spell/level/3/meld-into-stone.md) | Transmutation | V, S | Normal Action (R) | Reach | A stone object or surface large enough to contain your body | 8 hours |
 | [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature, place, or object no larger than **10** feet | 8 hours |
@@ -72,9 +74,4 @@
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
-
-## 4th-Level
-
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
-| [Dominate Beast](/spell/level/4/dominate-beast.md) | Enchantment | V, S | Normal Action | 60 ft. | One Beast | 1 minute (C) |
+| [Wind Wall](/spell/level/3/wind-wall.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |

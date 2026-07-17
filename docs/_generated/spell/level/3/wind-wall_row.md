@@ -1,0 +1,1 @@
+| [Wind Wall](/spell/level/3/wind-wall.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |

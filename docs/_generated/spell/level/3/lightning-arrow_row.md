@@ -1,0 +1,1 @@
+| [Lightning Arrow](/spell/level/3/lightning-arrow.md) | Transmutation | V, S | Bonus Action | — | The target of the Attack, and everything within 10 ft. of it | — |

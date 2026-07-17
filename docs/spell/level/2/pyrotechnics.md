@@ -20,4 +20,4 @@ You create a burst of flames, then immediately extinguish any fire in the area. 
 | Smoke | The area is filled with smoke and Heavily Obscured. This Spell ends if the smoke is dispersed. |
 
 ##### At Higher Levels
-Add **1d6** Fire Damage and **10** feet to the radius per additional Spell Level.
+Add **1d6** damage and **10** feet to the radius per additional Spell Level.

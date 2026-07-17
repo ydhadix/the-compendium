@@ -20,7 +20,7 @@ After this Spell ends on a creature, it remains animated but stops obeying you. 
 Bonus Action
 { .subtitle }
 
-You command any creatures within **60** feet that you created with this Spell.
+You can command any creatures within **60** feet that you created with this Spell.
 
 ##### At Higher Levels
 Add **2** targets (animated or controlled) per additional Spell Level.

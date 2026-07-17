@@ -18,5 +18,5 @@ Each target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You restrain the target. A creature within Reach of the target can Utilize to make an Athletics Check against your Spell Save DC; on a success, this Spell ends on the target. |
+| Fail | You restrain the target. A creature with the target within its Reach can Utilize to make an Athletics Check against your Spell Save DC; on a success, this effect ends on the target. |
 | Success | No effect. |

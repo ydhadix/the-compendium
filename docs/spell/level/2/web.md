@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You create sticky webbing in the area, which is Difficult Terrain and Lightly Obscured.
+You summon sticky webbing in the area, which is Difficult Terrain and Lightly Obscured.
 
 The webs are flammable. Any **5**-foot Cube of webs exposed to fire burns away in **1** Round, dealing **2d4** Fire Damage to everything that starts its Turn in the fire.
 
@@ -20,5 +20,5 @@ After your Turn starts, each target makes a Reflex Save.  After a target enters 
 
 | | |
 |---|---|
-| Fail | You restrain the target. A creature within Reach of the target can Utilize to make an Athletics Check against your Spell Save DC; on a success, this Spell ends on the target. |
+| Fail | You restrain the target. A creature with the target within its Reach can Utilize to make an Athletics Check against your Spell Save DC; on a success, this effect ends on the target. |
 | Success | No effect. |

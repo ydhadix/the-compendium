@@ -21,7 +21,7 @@ Choose one of the following effects. The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Enlarge | The target's Size Category increases by one. It gains Advantage on Strength Checks and Fortitude Saves, and its Weapon Attacks deal an additional die of damage. |
+| Enlarge | The target's Size Category increases by one. It gains Advantage on Strength Checks and Fortitude Saves, and its Weapon Attacks deal **1** additional Damage Die. |
 | Reduce | The target's Size Category decreases by one. It gains Disadvantage on Strength Checks and Fortitude Saves, and its Weapon Attacks deal one less die of damage _(minimum **1** damage)_. |
 
 ##### At Higher Levels

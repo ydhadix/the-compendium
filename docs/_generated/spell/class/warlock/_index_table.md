@@ -21,7 +21,7 @@
 | [Minor Illusion](/spell/level/0/minor-illusion.md) | Illusion | S, M | Normal Action | 30 ft. | — | 1 minute |
 | [Poison Spray](/spell/level/0/poison-spray.md) | Necromancy | V, S | Normal Action | 30 ft. | One thing | — |
 | [Prestidigitation](/spell/level/0/prestidigitation.md) | Transmutation | V, S | Normal Action | 10 ft. | Special | 1 hour |
-| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Special | 10 minutes |
+| [Produce Flame](/spell/level/0/produce-flame.md) | Conjuration | V, S | Normal Action | 60 ft. | Self | 10 minutes |
 | [Sapping Sting](/spell/level/0/sapping-sting.md) | Necromancy | V, S | Normal Action | 30 ft. | One thing | — |
 | [Sword Burst](/spell/level/0/sword-burst.md) | Conjuration | V, S | Normal Action | — | Everything in a 5-ft. Aura | — |
 | [Thunderclap](/spell/level/0/thunderclap.md) | Evocation | S | Normal Action | — | Everything in a 5-ft. Aura | — |
@@ -60,6 +60,7 @@
 | [Crown of Madness](/spell/level/2/crown-of-madness.md) | Enchantment | V, S | Normal Action | 120 ft. | One humanoid | 1 minute (C) |
 | [Darkness](/spell/level/2/darkness.md) | Evocation | V, M | Normal Action | 60 ft. | A 15-ft. radius Sphere, or one object | 10 minutes (C) |
 | [Death Armor](/spell/level/2/death-armor.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature | 1 hour |
+| [Enthrall](/spell/level/2/enthrall.md) | Enchantment | V, S | Normal Action | 60 ft. | Each creature you choose within 60 ft. | 1 minute |
 | [Hold Person](/spell/level/2/hold-person.md) | Enchantment | V, S, M | Normal Action | 60 ft. | One humanoid | 1 minute (C) |
 | [Lesser Invisibility](/spell/level/2/lesser-invisibility.md) | Illusion | V, S, M | Normal Action | Reach | One thing | 1 hour (C) |
 | [Mind Spike](/spell/level/2/mind-spike.md) | Divination | S | Normal Action | 120 ft. | One creature | 1 hour (C) |
@@ -82,13 +83,26 @@
 | [Fear](/spell/level/3/fear.md) | Illusion | V, S, M | Normal Action | — | Each creature in a 30-ft. Cone | 1 minute (C) |
 | [Fly](/spell/level/3/fly.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 10 minutes (C) |
 | [Gaseous Form](/spell/level/3/gaseous-form.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour (C) |
+| [Hunger of Hadar](/spell/level/3/hunger-of-hadar.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | 1 minute (C) |
 | [Hypnotic Pattern](/spell/level/3/hypnotic-pattern.md) | Illusion | S, M | Normal Action | 120 ft. | Each creature in a 30-ft. Cube | 1 minute (C) |
 | [Intellect Fortress](/spell/level/3/intellect-fortress.md) | Abjuration | V | Normal Action | 30 ft. | One creature | 1 hour (C) |
+| [Magic Circle](/spell/level/3/magic-circle.md) | Abjuration | V, S, M ($C) | 1 minute | 10 ft. | A 10-ft. radius, 20-ft. Cylinder | 1 hour |
 | [Major Image](/spell/level/3/major-image.md) | Illusion | V, S, M | Normal Action | 120 ft. | Each creature in a 20-ft. Cube | 10 minutes (C) |
 | [Remove Curse](/spell/level/3/remove-curse.md) | Abjuration | V, S | Normal Action | Reach | One thing | — |
 | [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | Each creature in a 10-ft. Aura | 1 minute (C) |
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Summon Undead](/spell/level/3/summon-undead.md) | Necromancy | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
-| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Normal Action | 90 ft. | Each creature in a 10-ft. Aura | — |
+| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Normal Action | 90 ft. | Everything in a 10-ft. Aura | — |
 | [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Normal Action | Reach | One creature | 1 hour |
 | [Vampiric Touch](/spell/level/3/vampiric-touch.md) | Necromancy | V, S | Normal Action | — | Self | 1 minute (C) |
+
+## 4th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Banishment](/spell/level/4/banishment.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
+| [Blight](/spell/level/4/blight.md) | Necromancy | V, S | Normal Action | 30 ft. | One creature, or one nonmagical plant | — |
+| [Charm Monster](/spell/level/4/charm-monster.md) | Enchantment | V, S | Normal Action | 30 ft. | One creature | 1 hour |
+| [Dimension Door](/spell/level/4/dimension-door.md) | Conjuration | V | Normal Action | 500 ft. | Self, and one Allied creature within Reach | — |
+| [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
+| [Summon Aberration](/spell/level/4/summon-aberration.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |

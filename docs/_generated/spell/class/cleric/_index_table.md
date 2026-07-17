@@ -28,7 +28,7 @@
 | [Continual Flame](/spell/level/1/continual-flame.md) | Evocation | V, S, M ($C) | Normal Action | Reach | One object | Until dispelled |
 | [Create or Destroy Water](/spell/level/1/create-or-destroy-water.md) | Transmutation | V, S, M | Normal Action | 30 ft. | Special | — |
 | [Cure Wounds](/spell/level/1/cure-wounds.md) | Abjuration | V, S | Normal Action | Reach | One creature | — |
-| [Detect Good & Evil](/spell/level/1/detect-good-and-evil.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes (C) |
+| [Detect Good and Evil](/spell/level/1/detect-good-and-evil.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes (C) |
 | [Detect Magic](/spell/level/1/detect-magic.md) | Divination | V, S | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Detect Poison & Disease](/spell/level/1/detect-poison-and-disease.md) | Divination | V, S, M | Normal Action (R) | 30 ft. | Self | 10 minutes (C) |
 | [Detect Traps](/spell/level/1/detect-traps.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes |
@@ -76,8 +76,10 @@
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Feign Death](/spell/level/3/feign-death.md) | Necromancy | V, S, M | Normal Action (R) | Reach | One creature | 1 hour |
+| [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | — | Until dispelled or triggered |
 | [Life Transference](/spell/level/3/life-transference.md) | Necromancy | V, S | Normal Action | 30 ft. | One creature | — |
 | [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
+| [Magic Circle](/spell/level/3/magic-circle.md) | Abjuration | V, S, M ($C) | 1 minute | 10 ft. | A 10-ft. radius, 20-ft. Cylinder | 1 hour |
 | [Mass Healing Word](/spell/level/3/mass-healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | Up to six creatures | — |
 | [Meld into Stone](/spell/level/3/meld-into-stone.md) | Transmutation | V, S | Normal Action (R) | Reach | A stone object or surface large enough to contain your body | 8 hours |
 | [Protection from Energy](/spell/level/3/protection-from-energy.md) | Abjuration | V, S | Normal Action | Reach | One thing | 1 hour (C) |
@@ -90,3 +92,17 @@
 | [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | Each creature in a 10-ft. Aura | 1 minute (C) |
 | [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Normal Action | Reach | One creature | 1 hour |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
+
+## 4th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Aura of Life](/spell/level/4/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each ally in a 30-ft. Aura | 10 minutes (C) |
+| [Aura of Purity](/spell/level/4/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each ally in a 30-ft. Aura | 10 minutes (C) |
+| [Banishment](/spell/level/4/banishment.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
+| [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Normal Action | 300 ft. | Water in a 100-ft. Cube | 10 minutes (C) |
+| [Death Ward](/spell/level/4/death-ward.md) | Abjuration | V, S | Normal Action | Reach | One creature | 8 hours |
+| [Divination](/spell/level/4/divination.md) | Divination | V, S, M ($C) | Normal Action (R) | Self | Self | — |
+| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One willing creature | 1 hour |
+| [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Normal Action | 30 ft. | Each enemy within 10 ft. of the guardian | 8 hours |
+| [Stone Shape](/spell/level/4/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |

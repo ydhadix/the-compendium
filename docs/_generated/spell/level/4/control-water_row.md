@@ -1,0 +1,1 @@
+| [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Normal Action | 300 ft. | Water in a 100-ft. Cube | 10 minutes (C) |

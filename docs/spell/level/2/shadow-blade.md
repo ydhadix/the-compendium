@@ -22,7 +22,7 @@ While in Dim Light or Darkness, you gain Advantage on Attack Rolls with the swor
 Bonus Action
 { .subtitle }
 
-You resummon the sword to your hand.
+You can resummon the sword to your hand.
 
 ##### At Higher Levels
-Add **1d8** Psychic Damage per additional Spell Level.
+Add **1d8** damage per additional Spell Level.

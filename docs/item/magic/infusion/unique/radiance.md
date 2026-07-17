@@ -7,7 +7,7 @@ Masterwork: Spell Attack **1**
 
 The spellcasting focus of Sylvarie, Archpriestess of Hanali Celanil.  Given to the party as thanks for ending her petrification curse and restoring her body.
 
-This wand is suffused with Holy Water and emits Dim Light to **5** feet.
+This wand is suffused with Holy Water and emits Dim Light out to **5** feet.
 
 Spells cast using this wand ignore Half Cover.
 

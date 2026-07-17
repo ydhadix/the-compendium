@@ -44,7 +44,7 @@ After you finish a Long Rest, you regain this Spell Slot.
 You gain a Climb Speed and a Swim Speed equal to your Speed.  Your movement is unaffected by Difficult Terrain.
 
 #### Slippery
-You can expend **5** feet of movement to automatically escape from a nonmagical restraint.
+You can expend **5** feet of movement to escape from a nonmagical restraint.
 
 #### Rising Tide
 After an ally enters your Reach for the first time on a Turn or starts its Turn there, the target gains the effect of Fleet-Footed and Slippery until the end of the target's next Turn.

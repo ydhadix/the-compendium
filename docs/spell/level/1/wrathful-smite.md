@@ -19,12 +19,7 @@ You deal **1d6** Necrotic Damage, and the target makes a Will Save.
 | Fail | You frighten the target. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Saving Throw.
-
-| | |
-|---|---|
-| Fail | No additional effect. |
-| Success | This effect ends on the target. |
+Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
 
 ##### At Higher Levels
 Add **1d6** Necrotic Damage per additional Spell Level.

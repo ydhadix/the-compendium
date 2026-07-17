@@ -28,7 +28,7 @@ After your Turn starts, choose one of the following effects for each target.  Af
 Free Action
 { .subtitle }
 
-You move the area up to **30** feet.
+You can move the area up to **30** feet.
 
 ##### At Higher Levels
 Add **1d6** damage and Temporary Hit Points per additional Spell Level.

@@ -12,9 +12,9 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-Choose Radiant, Necrotic, or Cold.
+Choose Radiant, Necrotic, or Cold Damage.
 
-Before you deal damage to a target in the area with an Attack, you add **1d8** damage of the chosen type.
+Your Attacks against a target in the area deal an additional **1d8** damage of the chosen type.
 
 After a creature you choose starts its Turn in the area, its Speed decreases by **10** feet until the start of its next Turn.
 

@@ -2,4 +2,4 @@
 You learn **1** Weapon Mastery.
 
 ###### Repeatable
-You can take this feat more than once, but you must choose a different Weapon Mastery each time.
+You can take this feat more than once, provided you choose a different Weapon Mastery each time.

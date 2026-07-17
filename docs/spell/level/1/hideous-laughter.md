@@ -19,12 +19,7 @@ The target makes a Will Save.
 | Fail | You incapacitate the target and knock it Prone, and it can't stand up. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Saving Throw. After the target takes damage, it also repeats this Saving Throw with Advantage.
-
-| | |
-|---|---|
-| Fail | No additional effect. |
-| Success | This effect ends on the target. |
+Before each of the target's Turns ends, it repeats this Saving Throw. After the target takes damage, it also repeats this Saving Throw with Advantage.  On a success, this effect ends on the target.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

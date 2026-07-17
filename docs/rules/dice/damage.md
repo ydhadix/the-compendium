@@ -35,3 +35,6 @@ Every instance of damage has a Damage Type.  Damage Types have no rules of their
 | Necrotic | life-draining energy |
 | Psychic | mind-rending energy |
 | Radiant | holy energy, searing radiation |
+
+## Additional Damage
+Some effects add damage to another source. If such an effect doesn't state a Damage Type, the additional damage uses the type of the source it adds to. When that source has more than one Damage Type, you choose which of those types the additional damage uses.

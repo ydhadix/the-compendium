@@ -12,4 +12,4 @@
 | Duration | 1 minute |
 
 ##### Spell Effect
-Before you deal damage with a Weapon Attack, you add **1d4** Radiant Damage.
+Your Weapon Attacks deal an additional **1d4** Radiant Damage.

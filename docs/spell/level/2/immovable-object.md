@@ -20,7 +20,7 @@ This Spell ends if more than **8,000** pounds of weight is held by the target; l
 Utilize Action
 { .subtitle }
 
-A creature within Reach of the target can make an Athletics Check against your Spell Save DC.
+A creature with the target within its Reach can make an Athletics Check against your Spell Save DC.
 
 | | |
 |---|---|

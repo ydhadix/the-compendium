@@ -12,7 +12,7 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-Before the target makes an Attack Roll or a Saving Throw, you add **1d4** to that roll.
+The target's Attack Rolls and Saving Throws increase by **1d4**.
 
 ##### At Higher Levels
 Add **1** target per additional Spell Level.

@@ -57,9 +57,4 @@ One Beast within **30** feet makes a Will Save _(DC = **8 + STR, WIS, or CHA + P
 | Fail | You frighten the target for **1** minute. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats the Saving Throw.
-
-| | |
-|---|---|
-| Fail | No additional effect. |
-| Success | This effect ends on the target. |
+Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
