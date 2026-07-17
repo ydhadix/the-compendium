@@ -2,10 +2,11 @@
 Quartermaster Weapon
 { .subtitle }
 
-| | AC | DT | HP | KP |
-|---|---|---|---|---|
-| | 17 | — | 100 | 20 |
-
-| | Range | Attack | Damage |
+| Defenses | | | |
 |---|---|---|---|
-| | Close | +6 to hit | 5d10 Bludgeoning |
+| HP | 100 | **KP** | 20 |
+| AC | 17 | **DT** | — |
+
+| Range | Attack | Damage |
+|---|---|---|
+| Close | +6 to hit | 5d10 Bludgeoning |

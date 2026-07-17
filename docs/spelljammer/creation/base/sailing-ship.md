@@ -1,20 +1,19 @@
 ### Sailing Ship
-#### Defenses
-| | | | | |
-|---|---|---|---|---|
-| | **HP** | 250 | **KP** | 50 |
-| | **AC** | 15 | **Size** | 120 × 20 ft. | 
-| | **Material** | Wood | **Size Penalty** | 4 |
-| | **DT** | 15 | **Ram Damage** | 8d10 |
+
+| Defenses | | | |
+|---|---|---|---|
+| HP | 250 | **KP** | 50 |
+| AC | 15 | **DT** | 15 |
+| Material | Wood | **Ram Damage** | 8d10 |
+| Size | 120 × 20 ft. | **Size Penalty** | 4 |
 
 <!-- 
-#### Features
-| | |
+
+| Features | |
 |---|---|
 -->
 
-#### Components
-| | |
+| Components | |
 |---|---|
 | Pilot | 2 |
 | Quartermaster | 4 |

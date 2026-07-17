@@ -6,6 +6,8 @@
 |---|---|---|---|---|---|---|
 | [Animate Dead](/spell/level/3/animate-dead.md) | Necromancy | V, S, M | 1 minute | 10 ft. | One humanoid corpse, or up to 4 Undead | 24 hours |
 | [Antagonize](/spell/level/3/antagonize.md) | Enchantment | V, S, M | Normal Action | 30 ft. | One creature | — |
+| [Aura of Life](/spell/level/3/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
+| [Aura of Purity](/spell/level/3/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
 | [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Normal Action | — | Each creature in a 30-ft. Aura | 1 minute (C) |
 | [Beacon of Hope](/spell/level/3/beacon-of-hope.md) | Abjuration | V, S | Normal Action | 30 ft. | Each creature you choose | 1 minute (C) |
 | [Bestow Curse](/spell/level/3/bestow-curse.md) | Necromancy | V, S | Normal Action | Reach | One creature | 1 minute (C) |
@@ -25,6 +27,7 @@
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |
 | [Enemies Abound](/spell/level/3/enemies-abound.md) | Enchantment | V, S | Normal Action | 120 ft. | One creature | 1 minute (C) |
 | [Erupting Earth](/spell/level/3/erupting-earth.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Everything in a 20-ft. Cube | — |
+| [Fabricate](/spell/level/3/fabricate.md) | Transmutation | V, S | 10 minutes | 120 ft. | — | — |
 | [Fear](/spell/level/3/fear.md) | Illusion | V, S, M | Normal Action | — | Each creature in a 30-ft. Cone | 1 minute (C) |
 | [Feign Death](/spell/level/3/feign-death.md) | Necromancy | V, S, M | Normal Action (R) | Reach | One creature | 1 hour |
 | [Fireball](/spell/level/3/fireball.md) | Evocation | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | — |
@@ -52,6 +55,7 @@
 | [Remove Curse](/spell/level/3/remove-curse.md) | Abjuration | V, S | Normal Action | Reach | One thing | — |
 | [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature that died within the past minute | — |
 | [Scorching Stride](/spell/level/3/scorching-stride.md) | Transmutation | V, S | Bonus Action | — | Self | 1 minute (C) |
+| [Secret Chest](/spell/level/3/secret-chest.md) | Conjuration | V, S, M ($) | Normal Action | Reach | — | Until dispelled |
 | [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Normal Action | Unlimited | One creature | — |
 | [Silver Lance](/spell/level/3/silver-lance.md) | Evocation | V, S, M ($) | Normal Action | — | Each creature you choose in a 5-ft. × 120-ft. Line | — |
 | [Silver Viper](/spell/level/3/silver-viper.md) | Conjuration | V, S, M | Bonus Action | — | Self | 1 hour |
@@ -63,6 +67,8 @@
 | [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | Each creature in a 10-ft. Aura | 1 minute (C) |
 | [Staggering Smite](/spell/level/3/staggering-smite.md) | Enchantment | V | Bonus Action | — | The target of the Attack | — |
 | [Stinking Cloud](/spell/level/3/stinking-cloud.md) | Conjuration | V, S, M | Normal Action | 90 ft. | Each creature in a 20-ft. radius Sphere | 1 minute (C) |
+| [Stone Shape](/spell/level/3/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
+| [Summon Construct](/spell/level/3/summon-construct.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Summon Undead](/spell/level/3/summon-undead.md) | Necromancy | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Normal Action | 90 ft. | Everything in a 10-ft. Aura | — |

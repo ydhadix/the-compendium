@@ -18,6 +18,12 @@ SOURCE_ROOT = C.DOCS / "character/feat"
 MIRROR_ROOT = C.MIRROR / "character/feat"
 PREREQ_TAG = "Prerequisite:"
 
+# Conscious, category-wide decision: feats are NOT decomposed for nesting. The Dragonmarks and the
+# "learn a spell" feats (fey-touched, planar-wanderer, scion-of-crossroads, shadow-touched,
+# magic-initiate) carry two sub-heading tiers, which can't flatten to a single h6 tier
+# (see genSnippetCommon.IsSafelyDemotable). Revisit only if that structure is normalized.
+DECOMPOSABLE = False
+
 
 def Prereqs(card):
     """(Class+Level, Other) prerequisite cells for a feat card."""

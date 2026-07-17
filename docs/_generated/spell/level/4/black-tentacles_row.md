@@ -1,1 +1,1 @@
-| [Evard's Black Tentacles](/spell/level/4/black-tentacles.md) | Conjuration | V, S, M | Normal Action | 90 ft. | Everything in a 20-ft. Square | 1 minute (C) |
+| [Black Tentacles](/spell/level/4/black-tentacles.md) | Conjuration | V, S, M | Normal Action | 90 ft. | Everything in a 20-ft. Square | 1 minute (C) |

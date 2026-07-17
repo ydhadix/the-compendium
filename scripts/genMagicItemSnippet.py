@@ -17,6 +17,11 @@ MIRROR_ROOT = C.MIRROR / "item/magic/infusion"
 ATTUNE_MARK = ", Attunement"
 CONSUMABLE_MARK = ", Consumable"
 
+# Conscious, category-wide decision: magic items are NOT decomposed for nesting. Many are variant
+# sub-cards with non-h3 titles (h1/h4) or multiple sub-heading tiers, so they can't safely flatten
+# (see genSnippetCommon.IsSafelyDemotable).
+DECOMPOSABLE = False
+
 
 def DisplayRarity(dirName):
     """Subdir name -> display rarity, e.g. 'very-rare' -> 'Very Rare'."""

@@ -2,12 +2,13 @@
 Quartermaster Weapon
 { .subtitle }
 
-| | AC | DT | HP | KP |
-|---|---|---|---|---|
-| | 19 | — | 250 | 50 |
-
-| | Range | Attack | Damage |
+| Defenses | | | |
 |---|---|---|---|
-| | Long | +5 to hit | 16d10 Bludgeoning |
+| HP | 250 | **KP** | 50 |
+| AC | 19 | **DT** | — |
+
+| Range | Attack | Damage |
+|---|---|---|
+| Long | +5 to hit | 16d10 Bludgeoning |
 
 This Weapon requires two orders to fire.

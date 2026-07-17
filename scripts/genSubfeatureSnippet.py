@@ -10,6 +10,10 @@ import genSnippetCommon as C
 
 PREREQ_TAG = "Prerequisite:"
 
+# Conscious, category-wide decision: subfeatures nest inside a class/feature block, so we emit
+# h5-demoted bodies. Enforced all-or-nothing per subfeature type (see genSnippetCommon.IsSafelyDemotable).
+DECOMPOSABLE = True
+
 
 def LevelFromClass(classLevel):
     """Trailing level number of a 'Class N' cell, defaulting to 1."""
@@ -59,29 +63,33 @@ def FlatExample(header, records):
 
 
 def BuildSubfeature(relDir, label, rowFunc, grouped):
-    """Write row snippets + one example table for a single subfeature type."""
+    """Write row snippets + one example table (+ demoted bodies) for a single subfeature type."""
     sourceDir = C.DOCS / relDir
     mirrorDir = C.MIRROR / relDir
     header = (label, "Prerequisite", "Class + Level")
     written = []
+    cards = []
     records = []
     for path in sorted(sourceDir.glob("*.md")):
         if path.name != "index.md":
             card = C.ReadCard(path)
+            cards.append(card)
             row, level = rowFunc(card)
             written.append(C.WriteSnippet(path, row))
             records.append((level, card.title, row))
     records.sort(key=lambda rec: (rec[0], rec[1].lower()))
     example = GroupedExample(header, records) if grouped else FlatExample(header, records)
     C.WriteText(mirrorDir / f"_index_table.md", example)
+    bodies = C.EmitBodies(cards, DECOMPOSABLE, label)
+    prunedBodies = C.PruneBodies(mirrorDir, bodies)
     removed = C.PruneOrphans(mirrorDir, written)
-    return (len(written), removed)
+    return (len(written), len(bodies), removed, prunedBodies)
 
 
 def Main():
     for (relDir, label, rowFunc, grouped) in SUBFEATURES:
-        wrote, removed = BuildSubfeature(relDir, label, rowFunc, grouped)
-        print(f"{label}: wrote {wrote} rows, pruned {removed}.")
+        wrote, bodies, removed, prunedBodies = BuildSubfeature(relDir, label, rowFunc, grouped)
+        print(f"{label}: wrote {wrote} rows, {bodies} bodies, pruned {removed} rows + {prunedBodies} bodies.")
 
 
 if __name__ == "__main__":

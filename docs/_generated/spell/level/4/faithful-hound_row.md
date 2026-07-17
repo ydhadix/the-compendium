@@ -1,1 +1,1 @@
-| [Mordenkainen's Faithful Hound](/spell/level/4/faithful-hound.md) | Conjuration | V, S, M | Normal Action | 30 ft. | — | 8 hours |
+| [Faithful Hound](/spell/level/4/faithful-hound.md) | Conjuration | V, S, M | Normal Action | 30 ft. | — | 8 hours |

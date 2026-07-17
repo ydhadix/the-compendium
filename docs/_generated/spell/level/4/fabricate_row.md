@@ -1,1 +1,0 @@
-| [Fabricate](/spell/level/4/fabricate.md) | Transmutation | V, S | 10 minutes | 120 ft. | — | — |

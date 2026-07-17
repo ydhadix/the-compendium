@@ -68,6 +68,8 @@
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
 | [Animate Dead](/spell/level/3/animate-dead.md) | Necromancy | V, S, M | 1 minute | 10 ft. | One humanoid corpse, or up to 4 Undead | 24 hours |
+| [Aura of Life](/spell/level/3/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
+| [Aura of Purity](/spell/level/3/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
 | [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Normal Action | — | Each creature in a 30-ft. Aura | 1 minute (C) |
 | [Beacon of Hope](/spell/level/3/beacon-of-hope.md) | Abjuration | V, S | Normal Action | 30 ft. | Each creature you choose | 1 minute (C) |
 | [Bestow Curse](/spell/level/3/bestow-curse.md) | Necromancy | V, S | Normal Action | Reach | One creature | 1 minute (C) |
@@ -90,6 +92,7 @@
 | [Speak with Dead](/spell/level/3/speak-with-dead.md) | Necromancy | V, S, M | Normal Action | 10 ft. | One corpse with a mouth | 10 minutes |
 | [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Normal Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
 | [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | Each creature in a 10-ft. Aura | 1 minute (C) |
+| [Stone Shape](/spell/level/3/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
 | [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Normal Action | Reach | One creature | 1 hour |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
 
@@ -97,12 +100,8 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Aura of Life](/spell/level/4/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
-| [Aura of Purity](/spell/level/4/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
 | [Banishment](/spell/level/4/banishment.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
 | [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Normal Action | 300 ft. | Water in a 100-ft. Cube | 10 minutes (C) |
 | [Death Ward](/spell/level/4/death-ward.md) | Abjuration | V, S | Normal Action | Reach | One creature | 8 hours |
-| [Divination](/spell/level/4/divination.md) | Divination | V, S, M ($C) | Normal Action (R) | Self | Self | — |
 | [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One Ally | 1 hour |
 | [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Normal Action | 30 ft. | Each Enemy within 10 ft. of the guardian | 8 hours |
-| [Stone Shape](/spell/level/4/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |

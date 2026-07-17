@@ -1,20 +1,19 @@
 ### Wasp
-#### Defenses
-| | | | | |
-|---|---|---|---|---|
-| | **HP** | 250 | **KP** | 50 |
-| | **AC** | 17 | **Size** | 80 × 20 ft. | 
-| | **Material** | Wood | **Size Penalty** | 2 |
-| | **DT** | 15 | **Ram Damage** | 8d10 |
+
+| Defenses | | | |
+|---|---|---|---|
+| HP | 250 | **KP** | 50 |
+| AC | 17 | **DT** | 15 |
+| Material | Wood | **Ram Damage** | 8d10 |
+| Size | 80 × 20 ft. | **Size Penalty** | 2 |
 
 <!-- 
-#### Features
-| | |
+
+| Features | |
 |---|---|
 -->
 
-#### Components
-| | |
+| Components | |
 |---|---|
 | Pilot | 2 |
 | Quartermaster | 2 |

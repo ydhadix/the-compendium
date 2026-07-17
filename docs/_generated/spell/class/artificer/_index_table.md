@@ -110,6 +110,7 @@
 | [Create Food and Water](/spell/level/3/create-food-and-water.md) | Conjuration | V, S | Normal Action | 30 ft. | — | — |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |
+| [Fabricate](/spell/level/3/fabricate.md) | Transmutation | V, S | 10 minutes | 120 ft. | — | — |
 | [Flame Arrows](/spell/level/3/flame-arrows.md) | Transmutation | V, S | Normal Action | Reach | One quiver | 1 hour (C) |
 | [Fly](/spell/level/3/fly.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 10 minutes (C) |
 | [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | — | Until dispelled or triggered |
@@ -119,8 +120,11 @@
 | [Remove Curse](/spell/level/3/remove-curse.md) | Abjuration | V, S | Normal Action | Reach | One thing | — |
 | [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature that died within the past minute | — |
 | [Scorching Stride](/spell/level/3/scorching-stride.md) | Transmutation | V, S | Bonus Action | — | Self | 1 minute (C) |
+| [Secret Chest](/spell/level/3/secret-chest.md) | Conjuration | V, S, M ($) | Normal Action | Reach | — | Until dispelled |
 | [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Normal Action | Unlimited | One creature | — |
 | [Slow](/spell/level/3/slow.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Up to six creatures | 1 minute (C) |
+| [Stone Shape](/spell/level/3/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
+| [Summon Construct](/spell/level/3/summon-construct.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Tiny Servant](/spell/level/3/tiny-servant.md) | Transmutation | V, S | 1 minute | Reach | One Tiny, nonmagical object | 8 hours |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |

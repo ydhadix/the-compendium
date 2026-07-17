@@ -12,6 +12,10 @@ HEADER = ("Item", "Type", "Value")
 SOURCE_GLOBS = ("item/gear/*/*.md", "item/material/*.md", "item/trade/*.md", "item/trade/artisan/*.md")
 PRUNE_ROOTS = ("item/gear", "item/material", "item/trade")
 
+# Conscious, category-wide decision: items are simple enough to flatten and nest inside a host block,
+# so we emit h5-demoted bodies. Enforced all-or-nothing (see genSnippetCommon.IsSafelyDemotable).
+DECOMPOSABLE = True
+
 
 def ItemType(subtitle):
     """Item type: the first comma-token of the subtitle (cost token discarded)."""
@@ -35,9 +39,11 @@ def ItemCards():
 
 def Main():
     written = []
+    cards = []
     byFolder = {}
     for path in ItemCards():
         card = C.ReadCard(path)
+        cards.append(card)
         row = C.RenderRow([C.Link(card), ItemType(card.subtitle), ItemValue(card.subtitle)])
         written.append(C.WriteSnippet(path, row))
         byFolder.setdefault(path.parent, []).append((card.title, row))
@@ -47,10 +53,13 @@ def Main():
         mirrorFolder = C.MIRROR / folder.relative_to(C.DOCS)
         C.WriteText(mirrorFolder / "_index_table.md", C.TableBlock(HEADER, rows))
 
-    removed = 0
+    bodies = C.EmitBodies(cards, DECOMPOSABLE, "Items")
+    removed = prunedBodies = 0
     for root in PRUNE_ROOTS:
+        prunedBodies = prunedBodies + C.PruneBodies(C.MIRROR / root, bodies)
         removed = removed + C.PruneOrphans(C.MIRROR / root, written)
-    print(f"Items: wrote {len(written)} rows, pruned {removed}.")
+    print(f"Items: wrote {len(written)} rows, {len(bodies)} bodies, "
+          f"pruned {removed} rows + {prunedBodies} bodies.")
 
 
 if __name__ == "__main__":

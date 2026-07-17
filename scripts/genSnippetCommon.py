@@ -29,6 +29,44 @@ def HeadingLevel(line):
     return level
 
 
+def HeadingLevels(text):
+    """Every heading depth in a card, in order (title first); empty when there are none."""
+    return [lvl for lvl in (HeadingLevel(line) for line in text.split("\n")) if lvl >= 1]
+
+
+def IsSafelyDemotable(text):
+    """True when a card can be flattened for nesting inside a larger stat block.
+
+    Demotion maps the h3 title to h5 and every deeper heading to a single h6 tier, so
+    the card is only safe when its title is an h3 and its sub-headings occupy at most one
+    level below it; two distinct sub-levels would collapse into one and lose their structure.
+
+    Whether a category is decomposed at all is a conscious, category-wide decision made in each
+    generator; this predicate is the all-or-nothing validator for that decision, not a per-card gate.
+    """
+    levels = HeadingLevels(text)
+    hasTitle = len(levels) > 0 and levels[0] == 3
+    sub = set(levels[1:])
+    return hasTitle and all(lvl > 3 for lvl in sub) and len(sub) <= 1
+
+
+def DemoteHeadings(text):
+    """Flatten a card one nesting deeper: the h3 title becomes h5, deeper headings become h6.
+
+    Only apply to cards that pass IsSafelyDemotable; the body is otherwise returned verbatim.
+    """
+    out = []
+    for line in text.split("\n"):
+        level = HeadingLevel(line)
+        if level == 3:
+            out.append("#####" + line[level:])
+        elif level >= 4:
+            out.append("######" + line[level:])
+        else:
+            out.append(line)
+    return "\n".join(out)
+
+
 def Slugify(title):
     """Lowercase slug matching MkDocs' toc anchors (apostrophes dropped, spaces -> hyphens)."""
     lowered = title.strip().lower()
@@ -146,6 +184,11 @@ def MirrorRowPath(sourcePath):
     return result
 
 
+def BodySnippetPath(sourcePath):
+    """Mirror-tree full-body snippet path (same relative path and stem as the source)."""
+    return MIRROR / sourcePath.relative_to(DOCS)
+
+
 def WriteText(path, text):
     """Write text to a mirror path, creating parent folders."""
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -157,6 +200,44 @@ def WriteSnippet(sourcePath, rowText):
     target = MirrorRowPath(sourcePath)
     WriteText(target, rowText)
     return target
+
+
+def WriteBodySnippet(sourcePath, text):
+    """Write a full-body snippet mirroring a source card (demote before calling); return its path."""
+    target = BodySnippetPath(sourcePath)
+    WriteText(target, text)
+    return target
+
+
+def EmitBodies(cards, decomposable, label):
+    """Category-wide, all-or-nothing demoted-body emission; returns the written body paths.
+
+    Whether a category is decomposed at all is the caller's conscious decision (`decomposable`);
+    this only enforces the contract behind it: if any card can't be safely demoted, the whole
+    category emits nothing and the offenders are reported so the decision can be revisited.
+    """
+    if not decomposable:
+        return []
+    offenders = sorted(card.path.name for card in cards if not IsSafelyDemotable(card.text))
+    if offenders:
+        print(f"{label}: {', '.join(offenders)} can't be safely demoted; "
+              f"emitting NO bodies (category is all-or-nothing).")
+        return []
+    return [WriteBodySnippet(card.path, DemoteHeadings(card.text)) for card in cards]
+
+
+def PruneBodies(mirrorRoot, keptBodies):
+    """Delete orphaned full-body snippets (any `.md` that isn't a `_row`/`_index_table`) under mirrorRoot."""
+    kept = set(str(p) for p in keptBodies)
+    removed = 0
+    if mirrorRoot.exists():
+        for path in sorted(mirrorRoot.rglob("*.md")):
+            if path.name.endswith("_row.md") or path.name == "_index_table.md":
+                continue
+            if str(path) not in kept:
+                path.unlink()
+                removed = removed + 1
+    return removed
 
 
 def PruneOrphans(mirrorRoot, keptPaths):

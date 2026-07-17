@@ -15,6 +15,10 @@ SOURCE_DIR = C.DOCS / "spelljammer/officer/spelljammer"
 TABLE_DIR = C.MIRROR / "spelljammer/officer/spelljammer"
 LEGEND = "- Durations with `(C)` require Concentration."
 
+# Conscious, category-wide decision: protocols nest inside a helm/officer block, so we emit
+# h5-demoted bodies. Enforced all-or-nothing (see genSnippetCommon.IsSafelyDemotable).
+DECOMPOSABLE = True
+
 
 def LevelNumber(subtitle):
     """Numeric spell level from a subtitle: 0 for a Cantrip, else the '3rd-Level' number."""
@@ -63,9 +67,11 @@ def ProtocolCards():
 
 def Main():
     written = []
+    cards = []
     records = []
     for path in ProtocolCards():
         card = C.ReadCard(path)
+        cards.append(card)
         row = BuildRow(card)
         written.append(C.WriteSnippet(path, row))
         records.append((LevelNumber(card.subtitle), card.title.lower(), row))
@@ -74,8 +80,11 @@ def Main():
     rows = [row for (level, title, row) in records]
     C.WriteText(TABLE_DIR / "_index_table.md", C.TableBlock(HEADER, rows, preamble=LEGEND))
 
+    bodies = C.EmitBodies(cards, DECOMPOSABLE, "Protocols")
+    prunedBodies = C.PruneBodies(TABLE_DIR, bodies)
     removed = C.PruneOrphans(TABLE_DIR, written)
-    print(f"Protocols: wrote {len(written)} rows, pruned {removed}.")
+    print(f"Protocols: wrote {len(written)} rows, {len(bodies)} bodies, "
+          f"pruned {removed} rows + {prunedBodies} bodies.")
 
 
 if __name__ == "__main__":

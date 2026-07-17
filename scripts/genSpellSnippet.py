@@ -22,6 +22,11 @@ LEVEL_TABLE_DIR = C.MIRROR / "spell/level"
 CLASS_TABLE_DIR = C.MIRROR / "spell/class"
 RITUAL_MARK = ", or Ritual"
 
+# Conscious, category-wide decision: spells are NOT decomposed for nesting. Dozens carry two
+# sub-heading tiers (h5 + h6), which can't flatten to a single h6 tier
+# (see genSnippetCommon.IsSafelyDemotable).
+DECOMPOSABLE = False
+
 
 def School(subtitle):
     """School word from a subtitle like 'Evocation Cantrip' or '1st-Level Enchantment'."""

@@ -1,0 +1,1 @@
+| [Secret Chest](/spell/level/3/secret-chest.md) | Conjuration | V, S, M ($) | Normal Action | Reach | — | Until dispelled |

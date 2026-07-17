@@ -1,1 +1,0 @@
-| [Aura of Purity](/spell/level/4/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
