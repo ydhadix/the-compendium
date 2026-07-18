@@ -6,9 +6,10 @@
   match the "Recent" block below). The whole tree is always in the DOM; the
   caret only shows or hides each branch.
 
-  Expansion state: the current page and its ancestors render already expanded;
-  every other section — including the current page's own children — is collapsed
-  by default. "On the active path" = mkdocs `item.active` for pages in the nav;
+  Expansion state: the current page's ancestors render already expanded, but the
+  current page's OWN children are collapsed — so the tree opens down to the active
+  entry without spilling its children. Every other section is collapsed too. "On
+  the active path" = mkdocs `item.active` for pages in the nav;
   for pages kept out of the nav (leaf pages) it is `localnav_chain` /
   `localnav_host` from navtools.py. A hub's out-of-nav leaves
   (`localnav_siblings`) hang one level below it, the same way a section index
@@ -51,9 +52,13 @@
             link); hang its leaves off the section so they still appear. -#}
         {%- set hosts_leaves = localnav_host is defined and item.index_page and item.index_page == localnav_host and localnav_siblings -%}
         {%- set expandable = kids or hosts_leaves -%}
+        {#- The section housing the current page renders collapsed — only its
+            ancestors stay open, so the tree opens to the active entry without
+            spilling the current page's own children. -#}
+        {%- set is_current = item.index_page and item.index_page == page -%}
         <li class="pm-localnav__item{% if expandable %} pm-localnav__item--nested{% endif %}">
           {% if expandable %}
-          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path %}checked{% endif %}>
+          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path and not is_current %}checked{% endif %}>
           {% endif %}
           <div class="pm-localnav__row">
             {% if item.index_page %}
@@ -79,9 +84,12 @@
         {#- A plain nav page that is the hub for the leaf we're on: list its
             leaves one level below, behind the same caret toggle. -#}
         {%- set hosts_leaves = localnav_host is defined and localnav_host and item == localnav_host and localnav_siblings -%}
+        {#- On the hub's own page its leaves stay collapsed; when we're on one of
+            the leaves the hub is an ancestor and stays open so the active leaf
+            shows among its siblings. -#}
         <li class="pm-localnav__item{% if hosts_leaves %} pm-localnav__item--nested{% endif %}">
           {% if hosts_leaves %}
-          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path %}checked{% endif %}>
+          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path and item != page %}checked{% endif %}>
           {% endif %}
           <div class="pm-localnav__row">
             <a
