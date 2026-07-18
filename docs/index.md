@@ -18,4 +18,6 @@ The Compendium is a collection of Tabletop RPG rules inspired by, but not direct
 
 ## Changelog
 
+--8<-- "_changelogs/1.7.1.md"
+
 --8<-- "_changelogs/1.7.md"
