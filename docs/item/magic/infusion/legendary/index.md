@@ -1,4 +1,4 @@
-# Legendary
+# Legendary Infusions
 Legendary Infusions are magic items of tremendous might, each one the stuff of stories.
 { .subtitle }
 

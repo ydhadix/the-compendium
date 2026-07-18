@@ -46,7 +46,7 @@ Many Conditions build on others; for example, a creature that is Paralyzed is al
 - You automatically fail Reflex Saves.
 
 ##### Bleeding
-The effect that causes Bleeding sets a Bleed Die.
+The effect that causes this condition sets a Bleed Die.
 
 - After your Turn begins, you take a roll of the Bleed Die as Slashing Damage, and the number of Bleed Dice you roll increases by **1**.
 
@@ -60,7 +60,7 @@ This condition ends after you heal, or after a creature Stabilizes you.
 - Attack Rolls against you gain Advantage.
 
 ##### Burn
-The effect that causes Burning sets a Burn Die.
+The effect that causes this condition sets a Burn Die.
 
 - After your Turn begins, you take a roll of the Burn Die as Fire Damage.
 
@@ -72,7 +72,7 @@ This condition ends after you spend **15** feet of movement while Prone, or afte
 - The source of the Charm gains Advantage on Ability Checks to interact with you socially.
 
 ##### Corrosion
-The effect that causes Corrosion sets a Caustic Die.
+The effect that causes this condition sets a Caustic Die.
 
 - After your Turn begins, you take a roll of the Caustic Die as Acid Damage.
 
@@ -140,7 +140,7 @@ This condition ends after you have no Exhaustion levels.
 This condition ends after you leave the grappler's Reach.
 
 ##### Hidden
-The effect that causes Hidden sets a Hide DC.  A creature whose Passive Perception exceeds your Hide DC ignores this condition.
+The effect that causes this condition sets a Hide DC.  A creature whose Passive Perception exceeds your Hide DC ignores this condition.
 
 - Other creatures don't know your location.
 - You gain Advantage on Initiative Checks and Attack Rolls.
@@ -169,7 +169,7 @@ This condition ends after:
 - Attack Rolls against you gain Disadvantage.
 
 ##### Marked
-Marked has no effect on its own. It marks a creature as the target of an ongoing effect so that effect can track it; the feature or Spell that applies Marked defines what it does and when it ends.
+Marked has no effect on its own. It marks a creature as the target of an ongoing effect so that effect can track it; the feature or Spell that applies this condition defines what it does and when it ends.
 
 ##### Paralysis
 - You are Incapacitated and Restrained.

@@ -1,4 +1,4 @@
-# Uncommon
+# Uncommon Infusions
 Uncommon Infusions are a step above the ordinary, granting reliable magical advantages that reward a bit of searching.
 { .subtitle }
 

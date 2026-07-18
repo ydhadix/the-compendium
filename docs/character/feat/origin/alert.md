@@ -1,4 +1,7 @@
 ### Alert
+#### Awareness
+Other creatures don't gain Advantage on Attack Rolls against you as a result of being unseen.
+
 #### Initiative Proficiency
 You gain Initiative Proficiency.
 

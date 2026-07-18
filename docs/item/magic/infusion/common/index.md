@@ -1,4 +1,4 @@
-# Common
+# Common Infusions
 Common Infusions are the most widespread magic items, offering minor but dependable benefits within reach of most adventurers.
 { .subtitle }
 

@@ -1,4 +1,4 @@
-# Rare
+# Rare Infusions
 Rare Infusions are potent magic items, prized finds that give seasoned adventurers a real edge.
 { .subtitle }
 

@@ -1,4 +1,4 @@
-# Very Rare
+# Very Rare Infusions
 Very Rare Infusions are formidable magic items of great power, rarely found and rarely parted with.
 { .subtitle }
 

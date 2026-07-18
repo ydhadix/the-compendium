@@ -24,7 +24,7 @@ While attuned to a component installed in the chassis, being away from the compo
 After you finish a Short Rest within **1** mile of the chassis, you can change your attunement to a different component that isn't attuned to another creature.
 
 #### Sentience
-The chassis is a sentient item with an Intelligence of **+4**, a Wisdom of **+4**, and a Charisma of **+0**. It has hearing and Darkvision out to **120** feet. Its alignment is Lawful Neutral.
+The chassis is a sentient item with **4** Intelligence, **4** Wisdom, and **0** Charisma. It has hearing and Darkvision out to **120** feet. Its alignment is Lawful Neutral.
 
 The chassis knows all Standard languages, Celestial, Deep Speech, and Gith, but communicates exclusively in Elvish using its Dimensional Radio.
 
@@ -71,7 +71,7 @@ Attunement
 
 This ovular, golden loop detects and manipulates interdimensional portals.
 
-Your Will Saves increase by **1**, and you can't be surprised.
+Your Will Saves increase by **1**, and other creatures don't gain Advantage on Attack Rolls against you as a result of being unseen.
 
 #### Portal Sense
 Magic Action

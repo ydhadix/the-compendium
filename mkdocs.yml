@@ -281,9 +281,12 @@ nav:
         - Mounts:                   bestiary/npc/mount.md
       - "---": "sep:"
       - Bestiary of Summons:        bestiary/summon/index.md
-      - Bestiary by Level:          bestiary/level/index.md
+      - Bestiary by Level:
+        - Creature Level Overview:  bestiary/level/index.md
+        - Level 0:                  bestiary/level/0/index.md
+        - Level 1:                  bestiary/level/1/index.md
       - Bestiary by Type:
-        - Overview:                 bestiary/type/index.md
+        - Creature Type Overview:   bestiary/type/index.md
         - Aberration:               bestiary/type/aberration.md
         - Beast:                    bestiary/type/beast.md
         - Celestial:                bestiary/type/celestial.md
@@ -316,33 +319,33 @@ nav:
       - Leviathans:                 spelljammer/leviathan.md
 
   - The Archive:
-    - Overview:                            archive/index.md
+    - Overview:                     archive/index.md
     - WEEP:
-      - Overview:                          archive/index.md
-      - Player Characters:                 archive/weep/characters/index.md
+      - Overview:                   archive/index.md
+      - Player Characters:          archive/weep/characters/index.md
       - "---": "sep:"
       - "Part 1: Dragon Heist":
-        - Campaign Overview:               archive/weep/dragon-heist/index.md
-        - Playlist:                        archive/weep/dragon-heist/playlist.md
+        - Campaign Overview:        archive/weep/dragon-heist/index.md
+        - Playlist:                 archive/weep/dragon-heist/playlist.md
       - "Part 2: Icewind Dale":
-        - Campaign Overview:               archive/weep/icewind-dale/index.md
-        - Playlist:                        archive/weep/icewind-dale/playlist.md
+        - Campaign Overview:        archive/weep/icewind-dale/index.md
+        - Playlist:                 archive/weep/icewind-dale/playlist.md
       - "Part 1.5: Tomb of Annihilation":
-        - Campaign Overview:               archive/weep/tomb-of-annihilation/index.md
-        - Playlist:                        archive/weep/tomb-of-annihilation/playlist.md
+        - Campaign Overview:        archive/weep/tomb-of-annihilation/index.md
+        - Playlist:                 archive/weep/tomb-of-annihilation/playlist.md
       - "Part 3: Dungeon of the Mad Mage":
-        - Campaign Overview:               archive/weep/mad-mage/index.md
-        - Playlist:                        archive/weep/mad-mage/playlist.md
+        - Campaign Overview:        archive/weep/mad-mage/index.md
+        - Playlist:                 archive/weep/mad-mage/playlist.md
       - "Epilogue":
-        - Epilogue Overview:               archive/weep/epilogue/index.md
-        - Playlist:                        archive/weep/epilogue/playlist.md
+        - Epilogue Overview:        archive/weep/epilogue/index.md
+        - Playlist:                 archive/weep/epilogue/playlist.md
     - HYPE:
-      - Overview:                          archive/index.md
-      - Player Characters:                 archive/hype/characters/index.md
+      - Overview:                   archive/index.md
+      - Player Characters:          archive/hype/characters/index.md
       - "---": "sep:"
       - "Part 1: Exodus":
-        - Campaign Overview:               archive/hype/exodus/index.md
-        - Playlist:                        archive/hype/exodus/playlist.md
+        - Campaign Overview:        archive/hype/exodus/index.md
+        - Playlist:                 archive/hype/exodus/playlist.md
       - "Part 2: Odyssey":
-        - Campaign Overview:               archive/hype/odyssey/index.md
-        # - Playlist:                        archive/hype/odyssey/playlist.md
+        - Campaign Overview:        archive/hype/odyssey/index.md
+        # - Playlist:                 archive/hype/odyssey/playlist.md
