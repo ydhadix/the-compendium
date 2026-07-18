@@ -8,7 +8,7 @@ After consuming this potion, you gain the following Action for **1** hour.
 Bonus Action, 3 uses
 { .subtitle }
 
-You can exhale fire at one creature within **30** feet.  That creature makes a Reflex Save _(DC = **13**)_.
+You can exhale fire at one creature within **30** feet.  That creature makes a Reflex Save _(DC **13**)_.
 
 | | |
 |---|---|

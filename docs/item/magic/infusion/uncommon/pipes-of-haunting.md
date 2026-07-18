@@ -9,7 +9,7 @@ Uncommon Wondrous Item (Musical Instrument)
 Magic Action, 1 Charge
 { .subtitle }
 
-Each creature you choose within **30** feet makes a Will Save _(DC = **13**)_.
+Each creature you choose within **30** feet makes a Will Save _(DC **13**)_.
 
 | | |
 |---|---|

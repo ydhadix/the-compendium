@@ -6,7 +6,7 @@ You learn the _Mage Hand_ Spell. You can cast it using Intelligence, Wisdom, or 
 Bonus Action
 { .subtitle }
 
-One creature within **30** feet makes a Fortitude Save _(DC = **8 + INT, WIS, or CHA + PB**)_.
+One creature within **30** feet makes a Fortitude Save _(DC **8 + INT, WIS, or CHA + PB**)_.
 
 | | |
 |---|---|

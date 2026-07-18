@@ -8,7 +8,7 @@ Utilize Action
 
 You can set the Hunting Trap, affixing it by a heavy Chain to an immobile object within Reach.
 
-The first creature that steps on the set Hunting Trap makes a Reflex Save _(DC = **13**)_.
+The first creature that steps on the set Hunting Trap makes a Reflex Save _(DC **13**)_.
 
 | | |
 |---|---|
@@ -21,7 +21,7 @@ While the Hunting Trap is attached to a creature, the creature's movement is lim
 Utilize Action
 { .subtitle }
 
-A creature that can reach an attached trap can make a DC **13** Athletics Check.
+A creature that can reach an attached trap can make an Athletics Check _(DC **13**)_.
 
 | | |
 |---|---|

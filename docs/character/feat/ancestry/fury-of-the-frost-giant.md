@@ -8,7 +8,7 @@ You gain Cold Resistance.
 Reaction, Proficiency Bonus uses per Long Rest
 { .subtitle }
 
-After a creature within **30** feet deals damage to you, the target makes a Fortitude Save _(DC = **8 + CON + PB**)_.
+After a creature within **30** feet deals damage to you, the target makes a Fortitude Save _(DC **8 + CON + PB**)_.
 
 | | |
 |---|---|

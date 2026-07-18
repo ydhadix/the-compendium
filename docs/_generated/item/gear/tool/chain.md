@@ -6,7 +6,7 @@ Tool, 5 gold
 Utilize Action
 { .subtitle }
 
-You can choose an object or a Grappled, Incapacitated, or Restrained creature within Reach and make a DC **13** Athletics Check.
+You can choose an object or a Grappled, Incapacitated, or Restrained creature within Reach and make an Athletics Check _(DC **13**)_.
 
 | | |
 |---|---|
@@ -16,7 +16,7 @@ You can choose an object or a Grappled, Incapacitated, or Restrained creature wi
 Utilize Action
 { .subtitle }
 
-A bound creature can make a DC **18** Acrobatics Check.
+A bound creature can make an Acrobatics Check _(DC **18**)_.
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ A bound creature can make a DC **18** Acrobatics Check.
 Utilize Action
 { .subtitle }
 
-A creature that can reach a bound target can make a DC **20** Athletics Check.
+A creature that can reach a bound target can make an Athletics Check _(DC **20**)_.
 
 | | |
 |---|---|

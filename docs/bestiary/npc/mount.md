@@ -27,7 +27,7 @@ There are three different ways for you to become dismounted.
 After an effect propels you while you are mounted, you are dismounted.
 
 ##### Your Mount is Propelled / You are Knocked Prone
-If an effect propels your mount, or you are knocked Prone while mounted, you make a Reflex Save _(DC = **10**)_.
+If an effect propels your mount, or you are knocked Prone while mounted, you make a Reflex Save _(DC **10**)_.
 
 | | |
 |---|---|

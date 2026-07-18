@@ -4,7 +4,7 @@ Uncommon Potion, Consumable
 
 This Potion looks, smells, and tastes like a beneficial Potion, though _Identify_ reveals its true nature.
 
-After consuming this potion, the potion deals **4d6** Poison Damage to you and you make a Fortitude Save _(DC = **13**)_.
+After consuming this potion, the potion deals **4d6** Poison Damage to you and you make a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

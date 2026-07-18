@@ -8,7 +8,7 @@ A Lock comes with a key used to lock or unlock it.
 Utilize Action
 { .subtitle }
 
-A creature without a key that can reach the Lock can make a DC **20** Precision Check.
+A creature without a key that can reach the Lock can make a Precision Check _(DC **20**)_.
 
 | | |
 |---|---|

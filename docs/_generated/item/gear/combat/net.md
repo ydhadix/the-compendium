@@ -13,7 +13,7 @@ A Net can be wielded as a Simple Melee Weapon with Thrown _(**15** feet)_.
 Utilize Action
 { .subtitle }
 
-A Restrained creature can make a DC **10** Athletics Check.
+A Restrained creature can make an Athletics Check _(DC **10**)_.
 
 | | |
 |---|---|

@@ -21,7 +21,7 @@ The decanter produces **30** gallons of water in a **30**-foot × **1**-foot Lin
 Free Action
 { .subtitle }
 
-One creature in the Line makes a Fortitude Save _(DC = **13**)_.
+One creature in the Line makes a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

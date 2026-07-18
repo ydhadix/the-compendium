@@ -91,7 +91,7 @@ This condition ends after **1** minute, or after you are doused or submerged in 
 ##### Down
 - You are Dazed and Prone
 - You drop anything you're holding.
-- Before you take an Action, you make a Fortitude Save _(DC = **11**)_; on a failure, the Action has no effect.
+- Before you take an Action, you make a Fortitude Save _(DC **11**)_; on a failure, the Action has no effect.
 - After your Turn begins, you make a Death Save.
 - After you take damage, you fail a Death Save — or two if the damage is from a Critical Hit.
 
@@ -202,7 +202,7 @@ This condition ends after you spend half your Speed to stand up; before you stan
 
 ##### Stable
 - You are Dazed.
-- Before you take an Action, you make a Fortitude Save _(DC = **11**)_; on a failure, the Action has no effect.
+- Before you take an Action, you make a Fortitude Save _(DC **11**)_; on a failure, the Action has no effect.
 - After **1d4** hours pass, you heal **1** Hit Point.
 - After you take damage, you become Downed, and you also fail a Death Save if the damage is from a Critical Hit.
 

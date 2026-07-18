@@ -6,7 +6,7 @@ Tool, 1 gold
 Utilize Action
 { .subtitle }
 
-You can make a DC **10** Precision Check.
+You can make a Precision Check _(DC **10**)_.
 
 | | |
 |---|---|
@@ -16,7 +16,7 @@ You can make a DC **10** Precision Check.
 Utilize Action
 { .subtitle }
 
-You can choose a Grappled, Incapacitated, or Restrained creature within Reach and make a DC **10** Precision Check.
+You can choose a Grappled, Incapacitated, or Restrained creature within Reach and make a Precision Check _(DC **10**)_.
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ You can choose a Grappled, Incapacitated, or Restrained creature within Reach an
 Utilize Action
 { .subtitle }
 
-A bound creature can make a DC **15** Acrobatics Check.
+A bound creature can make an Acrobatics Check _(DC **15**)_.
 
 | | |
 |---|---|
@@ -36,7 +36,7 @@ A bound creature can make a DC **15** Acrobatics Check.
 Utilize Action
 { .subtitle }
 
-A creature that can reach the Rope can make a DC **20** Athletics Check.
+A creature that can reach the Rope can make an Athletics Check _(DC **20**)_.
 
 | | |
 |---|---|

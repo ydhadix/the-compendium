@@ -9,4 +9,4 @@ Uncommon Weapon (Staff), Attunement
 Magic Action, 1 Charge
 { .subtitle }
 
-You can cast _Dominate Beast_ _(DC = **13**)_, targeting a Beast that has a Swim Speed.
+You can cast _Dominate Beast_ _(DC **13**)_, targeting a Beast that has a Swim Speed.

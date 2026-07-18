@@ -37,7 +37,7 @@ Your summoned monster returns to its ball, along with anything it is wearing.  A
 6 uses per Day
 { .subtitle }
 
-You throw an unlinked ball at a Beast or Monstrosity within **30** feet.  The target makes a Capture Save _(DC = **Ranger Spell Save DC**)_.
+You throw an unlinked ball at a Beast or Monstrosity within **30** feet.  The target makes a Capture Save _(DC **Ranger Spell Save DC**)_.
 
 | | |
 |---|---|

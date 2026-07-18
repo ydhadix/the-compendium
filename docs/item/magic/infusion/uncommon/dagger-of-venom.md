@@ -9,7 +9,7 @@ Bonus Action, 1 use per Day
 You can coat this weapon in venom.  Once applied, the poison retains potency for **1** minute or until its Envenom damage is dealt, whichever comes first.
 
 #### Envenom
-Before you deal damage with this weapon, the target makes a Fortitude Save _(DC = **13**)_.
+Before you deal damage with this weapon, the target makes a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

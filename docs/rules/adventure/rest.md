@@ -33,4 +33,4 @@ A Day is the fundamental recurring time cycle of the setting. Its length and sta
 Features and Magic Items that recharge per Day do so at the start of each Day, independent of any creature's Rest. If a Day boundary falls during an Encounter, the recharge waits until the Encounter ends.
 
 ## Sleep Deprivation
-Resting isn't mandatory, but going without sleep has consequences. After you go **24** hours without finishing a Travel Rest or Long Rest, you make a Fortitude Save _(DC = **10**)_; on a failure, you gain **1** level of Exhaustion. The DC increases by **5** with each Saving Throw you make, and resets to **10** after you finish a Long Rest.
+Resting isn't mandatory, but going without sleep has consequences. After you go **24** hours without finishing a Travel Rest or Long Rest, you make a Fortitude Save _(DC **10**)_; on a failure, you gain **1** level of Exhaustion. The DC increases by **5** with each Saving Throw you make, and resets to **10** after you finish a Long Rest.

@@ -55,7 +55,7 @@ You gain Planar Travel Protection.
 Free Action, 1 Charge
 { .subtitle }
 
-After you damage a creature, you can have it make a Will Save _(DC = **15**)_.
+After you damage a creature, you can have it make a Will Save _(DC **15**)_.
 
 | | |
 |---|---|
@@ -83,7 +83,7 @@ You can cast _Detect Portal_ without a Spell Slot.
 Magic Action, 1 Charge
 { .subtitle }
 
-You choose a portal within your Reach and make a DC **20** Arcana Check.
+You choose a portal within your Reach and make an Arcana Check _(DC **20**)_.
 
 | | |
 |---|---|

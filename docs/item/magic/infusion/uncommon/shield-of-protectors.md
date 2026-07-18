@@ -6,7 +6,7 @@ Uncommon Shield (Any)
 Reaction, 1 use per Day
 { .subtitle }
 
-Before a creature within **15** feet is hit with an Attack, the target makes a Fortitude Save _(DC = **13**)_.
+Before a creature within **15** feet is hit with an Attack, the target makes a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

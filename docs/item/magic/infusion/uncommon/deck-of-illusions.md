@@ -19,7 +19,7 @@ The illusion lasts until its card moves or it is dispelled.  Physical interactio
 Search Action
 { .subtitle }
 
-A creature that perceives the illusion can make a Perception Check _(DC = **13**)_.
+A creature that perceives the illusion can make a Perception Check _(DC **13**)_.
 
 | | |
 |---|---|

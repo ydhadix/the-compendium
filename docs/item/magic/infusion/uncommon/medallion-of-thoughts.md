@@ -9,4 +9,4 @@ Uncommon Clothing (Jewelry), Attunement
 Magic Action, 1 Charge
 { .subtitle }
 
-You can cast _Detect Thoughts_ _(DC = **13**)_.
+You can cast _Detect Thoughts_ _(DC **13**)_.

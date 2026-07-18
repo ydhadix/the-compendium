@@ -12,7 +12,7 @@ You can press the rod's button, fixing it in place — it doesn't move, even in 
 Utilize Action
 { .subtitle }
 
-A creature can make a DC **30** Athletics Check.
+A creature can make an Athletics Check _(DC **30**)_.
 
 | | |
 |---|---|

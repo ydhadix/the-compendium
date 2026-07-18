@@ -6,7 +6,7 @@ After a Long Rest, choose Acid, Cold, or Fire Damage. Until your next Long Rest,
 Magic Action
 { .subtitle }
 
-You can choose a portal within your Reach and make a DC **20** Arcana Check.
+You can choose a portal within your Reach and make an Arcana Check _(DC **20**)_.
 
 | | |
 |---|---|
@@ -16,7 +16,7 @@ You can choose a portal within your Reach and make a DC **20** Arcana Check.
 Magic Action
 { .subtitle }
 
-A creature holding the portal's key can make a DC **20** Arcana Check to end this effect.
+A creature holding the portal's key can make an Arcana Check _(DC **20**)_ to end this effect.
 
 | | |
 |---|---|

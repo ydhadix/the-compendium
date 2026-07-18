@@ -21,7 +21,7 @@ This lantern's flame glows orange for up to **10** minutes.  While glowing, ever
 1 use per Day
 { .subtitle }
 
-This lantern's flame glows impossibly bright.  Each other creature that can see the lantern makes a Fortitude Save _(DC = **15**)_.
+This lantern's flame glows impossibly bright.  Each other creature that can see the lantern makes a Fortitude Save _(DC **15**)_.
 
 | | |
 |---|---|

@@ -6,7 +6,7 @@ Common Spellcasting Focus (Arcane Focus), Attunement (Wizard)
 Magic Action, 1 use per Day
 { .subtitle }
 
-You can make a DC **10** Arcana Check.
+You can make an Arcana Check _(DC **10**)_.
 
 | | |
 |---|---|

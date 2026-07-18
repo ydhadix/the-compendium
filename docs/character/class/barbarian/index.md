@@ -141,7 +141,7 @@ After the Attack, you add **5** to the next Attack Roll another creature makes a
 
 
 ### 8: Relentless Rage
-Before you drop to **0** Hit Points while Raging, you can make a Fortitude Save _(DC = **10**)_.
+Before you drop to **0** Hit Points while Raging, you can make a Fortitude Save _(DC **10**)_.
 
 | | |
 |---|---|

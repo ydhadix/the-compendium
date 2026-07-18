@@ -21,7 +21,7 @@ A creature can smash the pellet, destroying it and releasing the absorbed water.
 Utilize Action, 1 use
 { .subtitle }
 
-You can sprinkle a pinch of dust on a water-based Elemental within Reach, which makes a Fortitude Save _(DC = **13**)_.
+You can sprinkle a pinch of dust on a water-based Elemental within Reach, which makes a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

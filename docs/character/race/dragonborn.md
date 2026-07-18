@@ -19,7 +19,7 @@ Dragonborn are the proud descendants of dragons, bearing draconic scales, a deva
 Attack Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
 
-Each creature within a **15**-foot Cone or a **30**-foot × **5**-foot Line makes a Reflex Save _(DC = **8 + CON + PB**)_.
+Each creature within a **15**-foot Cone or a **30**-foot × **5**-foot Line makes a Reflex Save _(DC **8 + CON + PB**)_.
 
 | | |
 |---|---|

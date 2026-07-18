@@ -8,4 +8,4 @@ You gain Telepathy out to **30** feet.
 Magic Action, 1 use each per Day
 { .subtitle }
 
-You can cast _Detect Thoughts_ or _Suggestion_ _(DC = **13**)_.
+You can cast _Detect Thoughts_ or _Suggestion_ _(DC **13**)_.

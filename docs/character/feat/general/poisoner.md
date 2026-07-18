@@ -8,7 +8,7 @@ You gain Poisoner's Kit Proficiency. If you already have Poisoner's Kit Proficie
 #### Brew Poison
 After a Short Rest, you can expend **50** gold in materials to craft **PB** doses of Personal Poison.
 
-After a weapon coated in Personal Poison deals Piercing or Slashing Damage, the target makes a Fortitude Save _(DC = **8 + INT or WIS + PB**)_.
+After a weapon coated in Personal Poison deals Piercing or Slashing Damage, the target makes a Fortitude Save _(DC **8 + INT or WIS + PB**)_.
 
 | | |
 |---|---|

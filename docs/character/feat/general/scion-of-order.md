@@ -12,7 +12,7 @@ You learn the _Guidance_ Cantrip. You can cast it using Intelligence, Wisdom, or
 Free Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
 
-Before you deal damage to a creature within **60** feet, you can add **1d8** Force Damage. After you deal that damage, the target makes a Will Save _(DC = **8 + INT, WIS, or CHA + PB**)_.
+Before you deal damage to a creature within **60** feet, you can add **1d8** Force Damage. After you deal that damage, the target makes a Will Save _(DC **8 + INT, WIS, or CHA + PB**)_.
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 This instrument comes in several types, each named for a bard college.  The college determines this item's rarity and the spells it can cast.
 
-A creature that plays this instrument without being Attuned makes a Will Save _(DC = **13**)_.
+A creature that plays this instrument without being Attuned makes a Will Save _(DC **13**)_.
 
 | | |
 |---|---|

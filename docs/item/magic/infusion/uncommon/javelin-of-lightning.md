@@ -8,7 +8,7 @@ Before you deal damage using this weapon, you can replace its Piercing Damage wi
 Magic Action, 1 use per Day
 { .subtitle }
 
-You can hurl the weapon at one creature within **120** feet as a bolt of lightning, forming a **5**-foot-wide Line between you and the target, then the weapon reappears in your hand. Everything in the Line makes a Reflex Save _(DC = **13**)_.
+You can hurl the weapon at one creature within **120** feet as a bolt of lightning, forming a **5**-foot-wide Line between you and the target, then the weapon reappears in your hand. Everything in the Line makes a Reflex Save _(DC **13**)_.
 
 | | |
 |---|---|

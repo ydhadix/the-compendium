@@ -73,7 +73,7 @@ Make a Wisdom Check to notice something that isn't obvious. What you're looking 
 | Survival | Tracks, food, or a Beast's state of mind |
 
 ##### Stabilize
-Choose a Downed creature within your Reach and make a DC **10** Medicine Check.
+Choose a Downed creature within your Reach and make a Medicine Check _(DC **10**)_.
 
 | | |
 |---|---|

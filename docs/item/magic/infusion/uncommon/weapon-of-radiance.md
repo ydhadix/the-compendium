@@ -15,7 +15,7 @@ This item emits light as the _Light_ Spell.
 Reaction, 1 Charge
 { .subtitle }
 
-Before you are attacked, you can make the attacker make a Fortitude Save _(DC = **13**)_.
+Before you are attacked, you can make the attacker make a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|
