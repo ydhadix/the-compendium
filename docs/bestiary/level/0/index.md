@@ -1,5 +1,5 @@
 # Level 0 Creatures
-`Description TBD`
+Creatures of Level 0 pose little threat on their own. They are the critters, vermin, and common folk that fill out the world rather than menace it.
 { .subtitle }
 
 <!-- As creatures are populated, add links to each active letter -->

@@ -1,5 +1,5 @@
 # Bestiary by Level
-`Description TBD`
+Every creature in the codex, sorted by its level. A creature's level gauges the threat it poses and how hard it is to overcome.
 { .subtitle }
 
 | Creature Level |

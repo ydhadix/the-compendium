@@ -1,5 +1,5 @@
 # Elemental Bestiary
-`Description TBD`
+Elementals are beings of raw elemental matter — fire, water, earth, air, and any combination thereof. They hail from the Elemental Planes, and rarely think or feel as mortals do.
 { .subtitle }
 
 <!-- As creature levels are populated, add links to each active level-->

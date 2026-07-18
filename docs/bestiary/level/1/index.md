@@ -1,5 +1,5 @@
 # Level 1 Creatures
-`Description TBD`
+Creatures of Level 1 mark the first real step into danger. They make fitting foes for a party just setting out on its adventures.
 { .subtitle }
 
 <!-- As creatures are populated, add links to each active letter -->

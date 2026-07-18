@@ -1,5 +1,5 @@
 # Dragon Bestiary
-`Description TBD`
+Dragons are ancient creatures of immense power and pride. The oldest command devastating magic and hoard what they covet, and their cunning grows with every century.
 { .subtitle }
 
 <!-- As creature levels are populated, add links to each active level-->

@@ -1,5 +1,5 @@
 # Celestial Bestiary
-`Description TBD`
+Celestials are natives of the Upper Planes, embodiments of virtue and light. Many serve the gods as messengers and warriors, and even the least of them burns bright against the dark.
 { .subtitle }
 
 <!-- As creature levels are populated, add links to each active level-->

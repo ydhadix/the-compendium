@@ -1,5 +1,5 @@
 # Plant Bestiary
-`Description TBD`
+Plants are vegetal creatures and fungal growths given strange life. Some root in place and wait, while others walk, hunt, and hunger like any predator.
 { .subtitle }
 
 <!-- As creature levels are populated, add links to each active level-->

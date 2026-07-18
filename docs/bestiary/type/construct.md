@@ -1,5 +1,5 @@
 # Construct Bestiary
-`Description TBD`
+Constructs are objects given animation and a purpose, from clockwork servants to towering golems. They typically follow the will of their makers rather than any of their own.
 { .subtitle }
 
 <!-- As creature levels are populated, add links to each active level-->

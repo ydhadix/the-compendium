@@ -1,5 +1,5 @@
 # Fey Bestiary
-`Description TBD`
+Fey are creatures of the Feywild, bound to the wild magic of nature. Whimsical and capricious, they blur the line between beauty and menace, and their bargains rarely mean what they seem.
 { .subtitle }
 
 <!-- As creature levels are populated, add links to each active level-->

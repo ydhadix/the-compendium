@@ -1,5 +1,5 @@
 # Fiend Bestiary
-`Description TBD`
+Fiends are natives of the Lower Planes, born of corruption and ruin. Devils bargain for souls while demons crave only destruction, and both count mortals as prey.
 { .subtitle }
 
 <!-- As creature levels are populated, add links to each active level-->
