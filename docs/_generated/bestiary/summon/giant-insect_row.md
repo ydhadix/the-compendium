@@ -1,0 +1,1 @@
+| [Giant Insect](/bestiary/summon/giant-insect.md) | [Centipede](/bestiary/summon/giant-insect.md#giant-insect-centipede), [Spider](/bestiary/summon/giant-insect.md#giant-insect-spider), [Wasp](/bestiary/summon/giant-insect.md#giant-insect-wasp) | [Giant Insect](/spell/level/4/giant-insect.md) |

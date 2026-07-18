@@ -22,7 +22,7 @@ You can Move before and after any Action on your Turn. However you break it up, 
 You can drop Prone without spending an Action or any movement, unless your Speed is **0**.
 
 #### Special Speeds
-A [Special Speed](../trait/speed.md) — such as a Climb, Fly, or Swim Speed — removes the added cost or restriction on its kind of movement.
+A Special Speed — such as a Climb, Fly, or Swim Speed — removes the added cost or restriction on its kind of movement.
 
 ### Crawling
 While Prone, your only movement option is to crawl.  Each foot you Move costs **1** extra foot. 

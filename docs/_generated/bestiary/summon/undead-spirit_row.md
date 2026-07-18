@@ -1,0 +1,1 @@
+| [Undead Spirit](/bestiary/summon/undead-spirit.md) | [Ghostly](/bestiary/summon/undead-spirit.md#undead-spirit-ghostly), [Putrid](/bestiary/summon/undead-spirit.md#undead-spirit-putrid), [Skeletal](/bestiary/summon/undead-spirit.md#undead-spirit-skeletal) | [Summon Undead](/spell/level/3/summon-undead.md) |

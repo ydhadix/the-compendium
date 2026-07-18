@@ -12,4 +12,5 @@ Bard spells are versatile magics woven from natural resonance, usually in the fo
 <!-- | [5th-Level](#5th-level) | -->
 <!-- | [6th-Level](#6th-level) | -->
 
+<!-- | Spell | School | Components | Cast Time | Range | Target | Duration | -->
 --8<-- "_generated/spell/class/bard/_index_table.md"

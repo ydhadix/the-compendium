@@ -1,0 +1,1 @@
+| [Primal Companion](/bestiary/summon/primal-companion.md) | [Land](/bestiary/summon/primal-companion.md#primal-companion-land), [Sea](/bestiary/summon/primal-companion.md#primal-companion-sea), [Sky](/bestiary/summon/primal-companion.md#primal-companion-sky) | [Beast Master Ranger](/character/class/ranger/beast-master.md#3-primal-companion) |

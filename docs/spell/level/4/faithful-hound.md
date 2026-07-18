@@ -1,4 +1,4 @@
-### Mordenkainen's Faithful Hound
+### Faithful Hound
 4th-Level Conjuration
 { .subtitle }
 

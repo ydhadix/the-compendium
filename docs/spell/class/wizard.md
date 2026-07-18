@@ -12,4 +12,5 @@ Wizard spells are arcane magic mastered through relentless study and a well-kept
 <!-- | [5th-Level](#5th-level) | -->
 <!-- | [6th-Level](#6th-level) | -->
 
+<!-- | Spell | School | Components | Cast Time | Range | Target | Duration | -->
 --8<-- "_generated/spell/class/wizard/_index_table.md"

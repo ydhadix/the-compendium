@@ -22,7 +22,7 @@
 | [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Normal Action | — | Self | 10 minutes (C) |
 | [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One Ally | 1 hour |
 | [Giant Insect](/spell/level/4/giant-insect.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
-| [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One creature within 30 ft. of the vine | 1 minute (C) |
+| [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One thing within 30 ft. of the vine | 1 minute (C) |
 | [Greater Invisibility](/spell/level/4/greater-invisibility.md) | Illusion | V, S | Normal Action | Reach | One creature | 1 minute (C) |
 | [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Normal Action | 30 ft. | Each Enemy within 10 ft. of the guardian | 8 hours |
 | [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |

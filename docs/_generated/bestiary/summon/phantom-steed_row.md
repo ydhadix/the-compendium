@@ -1,0 +1,1 @@
+| [Phantom Steed](/bestiary/summon/phantom-steed.md) | — | [Phantom Steed](/spell/level/3/phantom-steed.md) |

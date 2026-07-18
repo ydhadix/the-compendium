@@ -1,0 +1,1 @@
+| [Fey Spirit](/bestiary/summon/fey-spirit.md) | [Fuming](/bestiary/summon/fey-spirit.md#fey-spirit-fuming), [Mirthful](/bestiary/summon/fey-spirit.md#fey-spirit-mirthful), [Tricksy](/bestiary/summon/fey-spirit.md#fey-spirit-tricksy) | [Summon Fey](/spell/level/3/summon-fey.md) |

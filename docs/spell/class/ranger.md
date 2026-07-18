@@ -8,4 +8,5 @@ Ranger spells are wilderness magics tuned to tracking, survival, and the hunt.
 | [2nd-Level](#2nd-level) |
 | [3rd-Level](#3rd-level) |
 
+<!-- | Spell | School | Components | Cast Time | Range | Target | Duration | -->
 --8<-- "_generated/spell/class/ranger/_index_table.md"

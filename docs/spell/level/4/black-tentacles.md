@@ -1,4 +1,4 @@
-### Evard's Black Tentacles
+### Black Tentacles
 4th-Level Conjuration
 { .subtitle }
 

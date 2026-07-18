@@ -12,4 +12,5 @@ Sorcerer spells are innate magic that surges from a caster's own lifeblood.
 <!-- | [5th-Level](#5th-level) | -->
 <!-- | [6th-Level](#6th-level) | -->
 
+<!-- | Spell | School | Components | Cast Time | Range | Target | Duration | -->
 --8<-- "_generated/spell/class/sorcerer/_index_table.md"

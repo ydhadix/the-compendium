@@ -20,4 +20,4 @@ You make a Ranged Spell Attack against the target.
 | Miss | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **1d4** damage to the Attack and effect per additional Spell Level.
+Add **1d4** Acid Damage per additional Spell Level.

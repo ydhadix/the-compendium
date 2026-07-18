@@ -1,0 +1,1 @@
+| [Construct Spirit](/bestiary/summon/construct-spirit.md) | [Clay](/bestiary/summon/construct-spirit.md#construct-spirit-clay), [Metal](/bestiary/summon/construct-spirit.md#construct-spirit-metal), [Stone](/bestiary/summon/construct-spirit.md#construct-spirit-stone) | [Summon Construct](/spell/level/3/summon-construct.md) |

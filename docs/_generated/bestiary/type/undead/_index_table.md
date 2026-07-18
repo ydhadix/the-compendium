@@ -1,0 +1,2 @@
+| Creature | Level | Type |
+|---|---|---|

@@ -1,0 +1,1 @@
+| [Animated Servant](/bestiary/summon/animated-servant.md) | — | [Tiny Servant](/spell/level/3/tiny-servant.md) |

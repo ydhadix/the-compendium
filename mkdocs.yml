@@ -53,6 +53,8 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
   item/*/*/*
   item/*/*
   spell/level/*/*
+  bestiary/summon/*
+  bestiary/level/*/*
   bastion/*
   spelljammer/*/*/*
   spelljammer/*/*
@@ -88,20 +90,6 @@ nav:
       - Rules Overview:             rules/index.md
       - Keyword Index:              rules/keyword.md
       - "---": "sep:"
-      - Character Traits:
-        - Traits Overview:          rules/trait/index.md
-        - Abilities:                rules/trait/ability.md
-        - Defenses:                 rules/trait/defense.md
-        - Proficiency:              rules/trait/proficiency.md
-        - Skills:                   rules/trait/skill.md
-        - Languages:                rules/trait/language.md
-        - Speeds:                   rules/trait/speed.md
-        - Senses:                   rules/trait/sense.md
-        - "---": "sep:"
-        - Creature Type:            rules/trait/creature-type.md
-        - Alignment:                rules/trait/alignment.md
-        - Size:                     rules/trait/size.md
-        - Reach:                    rules/trait/reach.md
       - Dice Rolls:
         - Dice Overview:            rules/dice/index.md
         - Ability Checks:           rules/dice/check.md
@@ -118,7 +106,6 @@ nav:
         - Cover:                    rules/adventure/cover.md
         - Conditions:               rules/adventure/condition.md
         - "---": "sep:"
-        - NPCs:                     rules/adventure/npc.md
         - Encounters:               rules/adventure/encounter.md
         - Resting:                  rules/adventure/rest.md
         - Hazards:                  rules/adventure/hazard.md
@@ -178,9 +165,9 @@ nav:
         - General Feats:            character/feat/general/index.md
         - Fighting Styles:
           - Fighting Style Overview: character/feat/fighting-style/index.md
-          - Basic:                  character/feat/fighting-style/basic/index.md
-          - Advanced:               character/feat/fighting-style/advanced/index.md
-        - Ancestry Feats (WIP):     character/feat/ancestry/index.md
+          - Basic Styles:           character/feat/fighting-style/basic/index.md
+          - Advanced Styles:        character/feat/fighting-style/advanced/index.md
+        - Ancestry Feats:           character/feat/ancestry/index.md
         - "---": "sep:"
         - Epic Boons (WIP):         character/feat/epic/index.md
         - Dragonmarks:              character/feat/dragonmark/index.md
@@ -256,7 +243,7 @@ nav:
         - 1st-Level:                spell/level/1/index.md
         - 2nd-Level:                spell/level/2/index.md
         - 3rd-Level:                spell/level/3/index.md
-        - 4th-Level (WIP):                spell/level/4/index.md
+        - 4th-Level:                spell/level/4/index.md
         - 5th-Level (WIP):                spell/level/5/index.md
         - 6th-Level (WIP):                spell/level/6/index.md
       - Spells by Class:
@@ -270,6 +257,47 @@ nav:
         - Sorcerer:                 spell/class/sorcerer.md
         - Warlock:                  spell/class/warlock.md
         - Wizard:                   spell/class/wizard.md
+
+    - Creature Codex:
+      - Overview:                   bestiary/index.md
+      - Creature Traits:
+        - Overview:                 bestiary/trait/index.md
+        - Alignment:                bestiary/trait/alignment.md
+        - Size:                     bestiary/trait/size.md
+        - Reach:                    bestiary/trait/reach.md
+        - "---": "sep:"
+        - Abilities:                bestiary/trait/ability.md
+        - Defenses:                 bestiary/trait/defense.md
+        - Proficiencies:            bestiary/trait/proficiency.md
+        - Skills:                   bestiary/trait/skill.md
+        - Languages:                bestiary/trait/language.md
+        - Speeds:                   bestiary/trait/speed.md
+        - Senses:                   bestiary/trait/sense.md
+      - NPCs:
+        - NPC Overview:             bestiary/npc/index.md
+        - Disposition:              bestiary/npc/disposition.md
+        - Companions:               bestiary/npc/companion.md
+        - Familiars:                bestiary/npc/familiar.md
+        - Mounts:                   bestiary/npc/mount.md
+      - "---": "sep:"
+      - Bestiary of Summons:        bestiary/summon/index.md
+      - Bestiary by Level:          bestiary/level/index.md
+      - Bestiary by Type:
+        - Overview:                 bestiary/type/index.md
+        - Aberration:               bestiary/type/aberration.md
+        - Beast:                    bestiary/type/beast.md
+        - Celestial:                bestiary/type/celestial.md
+        - Construct:                bestiary/type/construct.md
+        - Dragon:                   bestiary/type/dragon.md
+        - Elemental:                bestiary/type/elemental.md
+        - Fey:                      bestiary/type/fey.md
+        - Fiend:                    bestiary/type/fiend.md
+        - Giant:                    bestiary/type/giant.md
+        - Humanoid:                 bestiary/type/humanoid.md
+        - Monstrosity:              bestiary/type/monstrosity.md
+        - Ooze:                     bestiary/type/ooze.md
+        - Plant:                    bestiary/type/plant.md
+        - Undead:                   bestiary/type/undead.md
 
     - Bastion Blueprints:           bastion/index.md
 

@@ -27,8 +27,8 @@ Reaction, 1 Charge
 
 You can cast _Shield_.
 
-#### Force Barrier
+#### Emergency Repulsion
 Reaction, 4 Charges
 { .subtitle }
 
-Before you or a creature within **5** feet of you takes damage, you can summon an immobile barrier of force in a **5**-foot Aura for **1** minute _(Concentration)_. This barrier blocks all Attacks and effects in both directions _(including the triggering damage)_.
+Before you or a creature within **5** feet of you takes damage, you can cast _Wall of Force_, creating a **5**-foot radius Sphere centered on the target for **1** minute.

@@ -77,45 +77,9 @@ You gain Expertise with Tinker's Tools and one of your Skill or Trade Proficienc
 #### Item Magic
 You learn the _Mending_, _Find Familiar_, and _Identify_ Spells.
 #### Assistant Familiar
-Before you cast _Find Familiar_, you can choose an Animated Assistant as your Familiar, using its normal Creature Type.
-##### Animated Assistant
-Tiny Construct, Neutral
-{ .subtitle }
-###### Defenses
-| | | | | |
-|---|---|---|---|---|
-| | **HP** | (4 + CON) × Level | **Hit Dice** | 1d4 per Level |
-| | **Armor** | natural | **Resistance** | — | 
-| | **AC** | 10 + DEX + PB | **Protection** | — |
-| | **DR** | — | **Immunity** | Exhaustion, Poison, Psychic, Sickness |
+When you cast _Find Familiar_, you can choose an Animated Assistant as your Familiar, using its normal Creature Type.
 
-###### Abilities
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| | **STR** | −3 | **DEX** | +2 | **CON** | +1 |
-| | **INT** | +0 | **WIS** | +0 | **CHA** | −2 |
-
-###### Traits
-| | | |
-|---|---|---|
-| | **Languages** | — |
-| | **Senses** | Darkvision 60 ft. |
-| | **Speed** | 20 ft., Hover 30 ft. |
-| | **Reach** | 5 ft. |
-
-###### Features
-| | |
-|---|---|
-| Mobile Storage | The assistant can store and quickly retrieve items up to **Artificer Ability**. |
-| Crafting Aid | The assistant can help you craft items without meeting the item's requirements. |
-| Evasion | After the assistant makes a Reflex Save to avoid damage, it takes half damage on a failure and no damage on a success. |
-
-###### Actions
-| Force Strike | Melee or Ranged Attack |
-|---|---|
-| Range | Reach / 30 ft. |
-| Attack | +your Spell Attack to hit |
-| Damage | 1d6 + DEX Force Damage |
+--8<-- "_generated/bestiary/summon/animated-assistant.md"
 
 
 ### 1: Spellcasting

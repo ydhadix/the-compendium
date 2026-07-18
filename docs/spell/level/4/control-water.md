@@ -36,9 +36,9 @@ You summon a whirlpool **5** feet wide at the base, up to **50** feet wide at th
 
 Creatures in the area are immobilized.  An immobilized creature can Utilize to make an Athletics check against your Spell Save DC; on a success, it ignores this effect until the end of the Turn.
 
-After your Turn starts, everything in the whirlpool makes a Fortitude Save.  After a target enters the area (including when the whirlpool is summoned), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
+After your Turn starts, you propel everything in the water within **25** feet of the whirlpool **10** feet toward it.  Then, everything in the whirlpool makes a Fortitude Save.  After a target enters the area (including when the whirlpool is summoned), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|
-| Fail | You deal **2d8** Bludgeoning Damage. |
+| Fail | You deal **4d8** Bludgeoning Damage and the target can't hold their breath until the start of your next Turn. |
 | Success | You deal half as much damage. |

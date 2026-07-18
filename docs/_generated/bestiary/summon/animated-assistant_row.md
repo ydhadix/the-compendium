@@ -1,0 +1,1 @@
+| [Animated Assistant](/bestiary/summon/animated-assistant.md) | — | [Artificer](/character/class/artificer/index.md#1-tradesman) |

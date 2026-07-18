@@ -1,0 +1,1 @@
+| [Bestial Spirit](/bestiary/summon/bestial-spirit.md) | [Land](/bestiary/summon/bestial-spirit.md#bestial-spirit-land), [Sea](/bestiary/summon/bestial-spirit.md#bestial-spirit-sea), [Sky](/bestiary/summon/bestial-spirit.md#bestial-spirit-sky) | [Summon Beast](/spell/level/2/summon-beast.md) |

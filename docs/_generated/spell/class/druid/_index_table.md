@@ -131,7 +131,7 @@
 | [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Normal Action | — | Self | 10 minutes (C) |
 | [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Normal Action | Reach | One Ally | 1 hour |
 | [Giant Insect](/spell/level/4/giant-insect.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
-| [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One creature within 30 ft. of the vine | 1 minute (C) |
+| [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One thing within 30 ft. of the vine | 1 minute (C) |
 | [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
 | [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder | — |
 | [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |

@@ -9,7 +9,6 @@ Adventuring is everything a character does out in the world. These are the rules
 | [Visibility](lighting.md) | How light and obstacles shape what a creature sees. |
 | [Cover](cover.md) | How obstacles shield a creature from attacks. |
 | [Conditions](condition.md) | States that change what a creature can do. |
-| [Non-Player Characters](npc.md) | The allies, companions, and foes a party meets. |
 | [Encounters](encounter.md) | Structured scenes run in Initiative order. |
 | [Resting](rest.md) | How a creature recovers between the action. |
 | [Hazards](hazard.md) | Environmental dangers that wear a creature down. |

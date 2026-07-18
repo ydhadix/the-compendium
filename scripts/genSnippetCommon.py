@@ -109,6 +109,19 @@ def ReadCard(path):
     return Card(title, subtitle, sitePath, text, path)
 
 
+def FrontMatter(text):
+    """Parse a leading `---`-fenced YAML front-matter block into a flat `{key: value}` dict."""
+    result = {}
+    if text.startswith("---\n"):
+        end = text.find("\n---", 4)
+        if end != -1:
+            for line in text[4:end].split("\n"):
+                if ":" in line:
+                    key, value = line.split(":", 1)
+                    result[key.strip()] = value.strip()
+    return result
+
+
 def MetaValue(text, key):
     """Value from a `| Key | Value |` metadata row, or None when the key is absent."""
     value = None

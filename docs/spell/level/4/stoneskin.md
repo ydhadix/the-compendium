@@ -12,4 +12,4 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-The target gains Bludgeoning, Piercing, and Slashing Resistance.
+The target gains Physical Resistance.

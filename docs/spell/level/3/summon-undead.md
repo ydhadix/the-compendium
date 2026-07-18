@@ -25,6 +25,8 @@ You can command the Spirit to move and take any Action available to it.
 ##### At Higher Levels
 The Spell Level determines the Spirit's Armor Class, Hit Points, and attack damage.
 
-##### Undead Spirit
-!!! note "In progress"
-    This summon's stat block is still being written.
+--8<-- "_generated/bestiary/summon/undead-spirit-ghostly.md"
+
+--8<-- "_generated/bestiary/summon/undead-spirit-putrid.md"
+
+--8<-- "_generated/bestiary/summon/undead-spirit-skeletal.md"

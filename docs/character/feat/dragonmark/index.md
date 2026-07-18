@@ -2,6 +2,7 @@
 Dragonmarks are magical sigils passed down through bloodlines, granting their bearers innate spells and uncanny talents.
 { .subtitle }
 
+<!-- | Feat | Prerequisite | Class + Level | -->
 --8<-- "_generated/character/feat/dragonmark/_index_table.md"
 
 ## Gaining Dragonmarks

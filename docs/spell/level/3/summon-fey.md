@@ -25,6 +25,8 @@ You can command the Spirit to move and take any Action available to it.
 ##### At Higher Levels
 The Spell Level determines the Spirit's Armor Class, Hit Points, and attack damage.
 
-##### Fey Spirit
-!!! note "In progress"
-    This summon's stat block is still being written.
+--8<-- "_generated/bestiary/summon/fey-spirit-fuming.md"
+
+--8<-- "_generated/bestiary/summon/fey-spirit-mirthful.md"
+
+--8<-- "_generated/bestiary/summon/fey-spirit-tricksy.md"

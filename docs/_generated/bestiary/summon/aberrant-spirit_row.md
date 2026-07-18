@@ -1,0 +1,1 @@
+| [Aberrant Spirit](/bestiary/summon/aberrant-spirit.md) | [Beholderkin](/bestiary/summon/aberrant-spirit.md#aberrant-spirit-beholderkin), [Mind Flayer](/bestiary/summon/aberrant-spirit.md#aberrant-spirit-mind-flayer), [Slaad](/bestiary/summon/aberrant-spirit.md#aberrant-spirit-slaad) | [Summon Aberration](/spell/level/4/summon-aberration.md) |

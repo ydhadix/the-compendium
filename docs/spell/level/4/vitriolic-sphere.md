@@ -16,8 +16,8 @@ Each target makes a Reflex Save.
 
 | | |
 |---|---|
-| Fail | You deal **10d4** Acid Damage, and **5d4** Acid Damage again before the target's next Turn ends. |
-| Success | You deal half the initial damage. |
+| Fail | You deal **10d4** Acid Damage, and corrode _(**5d4**) the target. |
+| Success | You deal half as much damage. |
 
 ##### At Higher Levels
-Add **2d4** damage to the initial damage per additional Spell Level.
+Add **2d4** Acid Damage per additional Spell Level.

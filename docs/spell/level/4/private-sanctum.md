@@ -17,7 +17,7 @@ Choose any number of the following properties for the area:
 | | |
 |---|---|
 | Soundproof | Sound can't pass through the barrier at the area's edge. |
-| Obscured | The barrier appears dark and foggy, blocking vision (including Darkvision) through it. |
+| Obscured | The barrier is Heavily Obscured. |
 | Ward Sensors | Sensors created by Divination Spells can't appear inside the area or pass through its barrier. |
 | Ward Scrying | Creatures in the area can't be targeted by Divination Spells. |
 | Seal Teleportation | Nothing can teleport into or out of the area. |

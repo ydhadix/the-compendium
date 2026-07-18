@@ -4,6 +4,6 @@ Spelljammer Helm
 
 | | |
 |---|---|
-| Protocols | Eldritch Blaster, Targeting System, Warding Field, plus two others. |
+| Protocols | Eldritch Blaster, Targeting System, Warding Field, plus **2** others. |
 
 You can Concentrate on an additional Protocol. You make each Concentration Save separately.

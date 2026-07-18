@@ -12,4 +12,5 @@ Warlock spells are eldritch magic bargained from an otherworldly patron.
 <!-- | [5th-Level](#5th-level) | -->
 <!-- | [6th-Level](#6th-level) | -->
 
+<!-- | Spell | School | Components | Cast Time | Range | Target | Duration | -->
 --8<-- "_generated/spell/class/warlock/_index_table.md"

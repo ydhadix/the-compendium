@@ -16,6 +16,4 @@ A Large, horselike Phantom Steed appears in an unoccupied space, equipped with a
 
 This Spell ends if the Steed takes any damage. After this Spell ends, the Steed fades over **1** minute, giving its rider time to dismount.
 
-##### Phantom Steed
-!!! note "In progress"
-    This summon's stat block is still being written.
+--8<-- "_generated/bestiary/summon/phantom-steed.md"

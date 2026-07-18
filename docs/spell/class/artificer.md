@@ -9,4 +9,5 @@ Artificer spells are inventive, supporting magic channeled through tools, device
 | [2nd-Level](#2nd-level) |
 | [3rd-Level](#3rd-level) |
 
+<!-- | Spell | School | Components | Cast Time | Range | Target | Duration | -->
 --8<-- "_generated/spell/class/artificer/_index_table.md"
