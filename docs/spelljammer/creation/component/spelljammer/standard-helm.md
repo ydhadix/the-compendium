@@ -4,4 +4,4 @@ Spelljammer Helm
 
 | | |
 |---|---|
-| Protocols | Eldritch Blaster, Targeting System, Warding Field, plus three others. |
+| Protocols | Eldritch Blaster, Targeting System, Warding Field, plus **3** others. |

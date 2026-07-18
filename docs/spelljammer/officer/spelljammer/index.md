@@ -9,6 +9,7 @@ Jamming Protocols behave like Spells, except they need no Components. A Jamming 
 
 Whenever a Jamming Protocol refers to a Ship's AC, or to Attacks made against a Ship, this includes the AC of the hull as well as all the Ship's Weapons and Components.
 
+<!-- | Protocol | Level | Base Spell | Activation Time | Range | Target | Duration | -->
 --8<-- "_generated/spelljammer/officer/spelljammer/_index_table.md"
 
 #### Casting Protocols
