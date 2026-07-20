@@ -11,7 +11,7 @@ Eldritch Knights temper martial skill with arcane magic, binding weapon and Spel
 
 | | |
 |---|---|
-| Secondary Ability | Intelligence |
+| Feature Ability | Intelligence |
 
 ## Subclass Features
 ### 3: Spellcasting
@@ -28,7 +28,7 @@ Eldritch Knights temper martial skill with arcane magic, binding weapon and Spel
 | 11 | 3 | 8 | 4 | 3 |
 
 #### Spellcasting Ability
-Your Secondary Ability is your Spellcasting Ability.
+Your Feature Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Wizard Spells use an Arcane Focus as a Spellcasting Focus.
 #### Spells Prepared

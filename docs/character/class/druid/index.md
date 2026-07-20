@@ -24,8 +24,8 @@ Druids are guardians of the natural world, wielding primal magic drawn from the 
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Intelligence or Wisdom |
-| Secondary Ability | — |
+| Starting Ability | Intelligence or Wisdom |
+| Feature Ability | Same as Starting Ability |
 | Hit Die | d8 |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 

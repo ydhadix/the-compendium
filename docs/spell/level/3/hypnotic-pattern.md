@@ -16,7 +16,7 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You charm the target. While Charmed by you, it is Incapacitated and its Speed becomes **0** feet. |
+| Fail | You charm the target. While Charmed by you, it is Immobile and Incapacitated. |
 | Success | No effect. |
 
 This effect ends on a target if it takes damage or a creature with the target within its Reach Utilizes to shake it awake.

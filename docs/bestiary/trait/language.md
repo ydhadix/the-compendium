@@ -15,7 +15,7 @@ Standard Languages are widespread on the Material Plane.
 | Gnomish | Gnomes |
 | Goblin | goblinoids |
 | Halfling | Halflings |
-| Orc | Orcs |
+| Orcish | Orcs |
 
 ### Exotic Languages
 Exotic Languages are less common on the Material Plane but more common on the Outer Planes.
@@ -35,3 +35,6 @@ Exotic Languages are less common on the Material Plane but more common on the Ou
 
 ### Other Languages
 Other Languages exist, but knowledge of them is rare outside their native speakers.  Your background or experiences during an adventure may let you learn them.
+
+### Telepathy
+Telepathy allows creatures to communicate mentally within a specified range.  Unless a feature says otherwise, telepathic communication doesn't require a shared language, though both creatures must be able to understand at least one language or be telepathic to understand.

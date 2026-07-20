@@ -20,8 +20,8 @@ Fighters are experienced combatants, deftly wielding weapons and tactics. They c
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Strength or Dexterity |
-| Secondary Ability | — |
+| Starting Ability | Strength or Dexterity |
+| Feature Ability | Determined by Subclass |
 | Hit Die | d10 |
 | Starting Equipment | 155 gold<br>or<br>Heavy Chain, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 gold<br>or<br>Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack |
 

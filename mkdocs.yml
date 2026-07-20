@@ -101,14 +101,19 @@ nav:
       - Adventuring:
         - Adventuring Overview:     rules/adventure/index.md
         - Actions:                  rules/adventure/action.md
-        - Movement:                 rules/adventure/movement.md
-        - Visibility:               rules/adventure/lighting.md
-        - Cover:                    rules/adventure/cover.md
         - Conditions:               rules/adventure/condition.md
         - "---": "sep:"
         - Encounters:               rules/adventure/encounter.md
         - Resting:                  rules/adventure/rest.md
         - Hazards:                  rules/adventure/hazard.md
+      - Positioning:
+        - Positioning Overview:     rules/position/index.md
+        - Movement:                 rules/position/movement.md
+        - "---": "sep:"
+        - Cover:                    rules/position/cover.md
+        - Visibility:               rules/position/lighting.md
+        - Range & Targeting:        rules/position/target.md
+        - Areas of Effect:          rules/position/area.md
 
     - Hero Handbook:
       - Character Overview:         character/index.md
@@ -174,7 +179,6 @@ nav:
 
     - Item Index:
       - Item Overview:              item/index.md
-      - Using Items:                item/equip.md
       - Crafting Items:             item/crafting.md
       - Item Materials:             item/material/index.md
       - Masterwork:                 item/masterwork.md
@@ -206,36 +210,24 @@ nav:
       - Armor:
         - Armor Overview:           item/armor/index.md
         - Armor Types:              item/armor/type.md
-        - Shields:                  item/armor/shield/index.md
+        - Shields:                  item/armor/shield.md
       - Magic Items:
         - Infusion Overview:        item/magic/index.md
         - Infusing Items:           item/magic/infusing.md
-        - "---": "sep:"
-        - Infusions by Rarity:
-          - Overview:               item/magic/index.md
-          - Common:                 item/magic/infusion/common/index.md
-          - Uncommon:               item/magic/infusion/uncommon/index.md
-          - Rare:                   item/magic/infusion/rare/index.md
-          - Very Rare:              item/magic/infusion/very-rare/index.md
-          - Legendary:              item/magic/infusion/legendary/index.md
-          - Artifacts:              item/magic/infusion/artifact/index.md
-          - Unique:                 item/magic/infusion/unique/index.md
+        - "Infusions by Rarity": "sep:"
+        - Common:                 item/magic/infusion/common/index.md
+        - Uncommon:               item/magic/infusion/uncommon/index.md
+        - Rare:                   item/magic/infusion/rare/index.md
+        - Very Rare:              item/magic/infusion/very-rare/index.md
+        - Legendary:              item/magic/infusion/legendary/index.md
+        - Artifacts:              item/magic/infusion/artifact/index.md
+        - Unique:                 item/magic/infusion/unique/index.md
 
     - Spell Selection:
       - Spell Overview:             spell/index.md
       - Preparing Spells:           spell/preparing.md
       - Casting Spells:             spell/casting.md
-      - Parts of a Spell:
-        - Parts Overview:           spell/part/index.md
-        - Spell Level:              spell/part/spell-level.md
-        - Class List:               spell/part/spell-list.md
-        - School of Magic:          spell/part/school.md
-        - Casting Time:             spell/part/casting-time.md
-        - Components:               spell/part/component.md
-        - Targets:                  spell/part/target.md
-        - Area of Effect:           spell/part/area.md
-        - Duration:                 spell/part/duration.md
-        - Concentration:            spell/part/concentration.md
+      - Parts of a Spell:           spell/parts.md
       - "---": "sep:"
       - Spells by Level:
         - Overview:                 spell/level/index.md

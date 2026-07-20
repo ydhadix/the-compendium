@@ -20,8 +20,8 @@ Artificers are inventors who channel magic through tools, devices, and infused c
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Intelligence |
-| Secondary Ability | - |
+| Starting Ability | Intelligence |
+| Feature Ability | Same as Starting Ability |
 | Hit Die | d8 |
 | Starting Equipment | 150 gold<br>or<br>chain shirt, tinker's tools, dagger, dungeoneer's pack, and 34 gold |
 
@@ -68,7 +68,7 @@ The [Artificer Table](#class-table) shows how many items you can infuse. To infu
 | Any [Artisan's Tool](/item/trade/artisan/index.md) | Tool (Artisan's Tool) | — | — |
 | [+1 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
 | [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
-| [+1 Shield](/item/armor/shield/index.md) | Armor (Any Shield) | — | — |
+| [+1 Shield](/item/armor/shield.md) | Armor (Any Shield) | — | — |
 
 
 ### 1: Tradesman
@@ -186,7 +186,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 | [Any Uncommon Infusion](/item/magic/infusion/uncommon/index.md) | Varies | Uncommon | Varies |
 | [+2 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
 | [+2 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
-| [+2 Shield](/item/armor/shield/index.md) | Armor (Any Shield) | — | — |
+| [+2 Shield](/item/armor/shield.md) | Armor (Any Shield) | — | — |
 
 
 ### 8: Spell-Storing Item

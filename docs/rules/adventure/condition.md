@@ -106,6 +106,8 @@ After you fail **3** Death Saves, you die. After you succeed on **3**, you becom
 ###### Ending the Condition
 This condition ends after you become Stable or have more than **0** Hit Points, and you remain Prone when it ends.
 
+A creature that can Reach you can Utilize to make a Medicine Check _(DC **10**)_; on a success, you become Stable.
+
 ##### Drifting
 Drifting has a distance and a direction.
 

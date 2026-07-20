@@ -5,11 +5,12 @@ A character's Class is their chosen calling and craft, the source of their signa
 ## Class Rules
 | Sections | Description |
 |---|---|
+| [Primary Classes](#primary-class) | The class a character starts with at Level 1. |
+| [Secondary Classes](#secondary-class) | Training two classes alongside each other. |
+| [Starting Ability](#starting-ability) | The ability your Primary Class increases at character creation. |
+| [Feature Ability](#feature-ability) | The ability that determines your class features' effectiveness. |
 | [Leveling Up](#leveling-up) | Gain new powers as a character advances. |
-| [Primary Classes](#primary-classes) | The class a character starts with at Level 1. |
-| [Multiclassing](#multiclassing) | Training two classes alongside each other. |
-| [Multiclass Spellcasting](#multiclass-spellcasting) | How Spell Slots work across two Spellcasting classes. |
-| [Character Levels](#character-levels) | What each Character Level grants. |
+| [Character Level](#character-level) | What each Character Level grants. |
 
 ## Classes
 | Sections | Description |
@@ -29,71 +30,50 @@ A character's Class is their chosen calling and craft, the source of their signa
 | [Wizard](wizard/index.md) | A scholar of arcane magic mastered through study. |
 
 ## Using Classes
+### Primary Class
+The class you choose at Level 1 is your Primary Class.
+
+Whenever you gain your first Level in your Primary Class, you gain:
+
+- that class's Starting Equipment and Primary Proficiencies
+- your class's Starting Ability increases by **1**
+
+#### Secondary Class
+You can take Levels in two classes at a time.  Once you choose a Secondary Class, you cannot change it, and you cannot take Levels in a third class.
+
+Whenever you gain your first Level in your Secondary Class, you gain that class’s Secondary Proficiencies.
+
+If you gain the Spellcasting feature from both your Classes, your total [total Spell Slots](../../spell/casting.md#multiclass-spellcasting) depends on each Classes' individual capacity for magic.
+
+### Starting Ability
+Each Class has a Starting Ability, the Ability improved when you take that Class at Level **1**.  If a Class offers a choice of Starting Ability, you choose one when you gain your first Level in it.
+
+### Feature Ability
+Most Classes have a Feature Ability, the Ability that determines the effectiveness of their features.  A Class's Feature Ability is often the same as its Starting Ability, some Classes use a different one, and a few have no Feature Ability of their own; instead, their Subclasses may grant one.
+
+| Class | Starting Ability | Feature Ability |
+|---|---|---|
+| [Artificer](artificer/index.md) | Intelligence | Same as Starting Ability |
+| [Barbarian](barbarian/index.md) | Strength | Constitution |
+| [Bard](bard/index.md) | Intelligence or Charisma | Same as Starting Ability |
+| [Cleric](cleric/index.md) | Intelligence, Wisdom, or Charisma | Same as Starting Ability |
+| [Druid](druid/index.md) | Intelligence or Wisdom | Same as Starting Ability |
+| [Fighter](fighter/index.md) | Strength or Dexterity | Determined by Subclass |
+| [Monk](monk/index.md) | Dexterity | Intelligence or Wisdom |
+| [Paladin](paladin/index.md) | Strength | Charisma |
+| [Ranger](ranger/index.md) | Strength or Dexterity | Intelligence or Wisdom |
+| [Rogue](rogue/index.md) | Dexterity | Determined by Subclass |
+| [Sorcerer](sorcerer/index.md) | Wisdom or Charisma | Same as Starting Ability |
+| [Warlock](warlock/index.md) | Intelligence or Wisdom | Same as Starting Ability |
+| [Wizard](wizard/index.md) | Intelligence | Same as Starting Ability |
+
 ### Leveling Up
 Whenever you gain a Level, choose one of your classes to gain that Level in.  If you don't have a Secondary Class yet, you can choose one first.  You gain:
 
 - the chosen class’s Features for that Level
 - one of the chosen class's Hit Die
 
-#### Primary Classes
-The class you choose at Level 1 is your Primary Class.
-
-Whenever you gain your first Level in your Primary Class, you gain:
-
-- that class's Starting Equipment and Primary Proficiencies
-- choose your class's Primary Ability, if necessary
-- your class's Primary Ability increases by **1**
-
-### Multiclassing
-#### Secondary Classes
-You can take Levels in two classes at a time.  Once you choose a Secondary Class, you cannot change it, and you cannot take Levels in a third class.
-
-Whenever you gain your first Level in your Secondary Class, you gain that class’s Secondary Proficiencies.
-
-#### Multiclass Spellcasting
-If you gain the Spellcasting Feature from both your Primary and Secondary Classes, your Spell Slot capacity depends on your individual Levels in those classes.  Spellcasting variants, such as Pact Magic and Sorcery, do not count towards multiclass Spellcasting.
-
-| Class | Multiplier |
-|---|---| 
-| Artificer | × ½ |
-| Bard | × 1 |
-| Cleric | × 1 |
-| Druid | × 1 |
-| Fighter | × ⅓ |
-| Paladin | × ½ |
-| Ranger | × ½ |
-| Rogue | × ⅓ |
-| Wizard | × 1 |
-
-#### Spellcaster Level
-Each class has a different capacity for Spellcasting.  To determine your available Spell Slots, multiply each of your class's Levels as shown above, add them together, and consult the table below.
-
-| Spellcaster Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2 | - | - | - | - | - | - | - | - |
-| 2 | 3 | - | - | - | - | - | - | - | - |
-| 3 | 4 | 2 | - | - | - | - | - | - | - |
-| 4 | 4 | 3 | - | - | - | - | - | - | - |
-| 5 | 4 | 3 | 2 | - | - | - | - | - | - |
-| 6 | 4 | 3 | 3 | - | - | - | - | - | - |
-| 7 | 4 | 3 | 3 | 1 | - | - | - | - | - |
-| 8 | 4 | 3 | 3 | 2 | - | - | - | - | - |
-| 9 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
-| 10 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
-| 11 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
-| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
-| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
-You prepare your Spells for each class individually.  Each Spell you prepare is associated with the class you used to prepare it, and you use that class’s Spellcasting Ability to cast it.
-
-### Character Levels
+### Character Level
 Your Character Level is equal to the sum of your Primary Class Levels and your Secondary Class Levels.  Your Character Level determines your Proficiency Bonus, your Ability Maximum, and gives an additional Feat and/or bonus to an Ability.
 
 | Character Level | Proficiency Bonus | Ability Max | Benefit |

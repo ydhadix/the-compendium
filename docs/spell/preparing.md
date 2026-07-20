@@ -7,7 +7,7 @@ The way you gain access to a Spell determines how you cast it and whether you ca
 ### Prepared Spells
 The Spellcasting feature is the most common way to gain Spells. Each class prepares a different number of Spells, and its Spellcasting feature describes when you can change your Prepared Spells and how many you can change at once.
 
-Every class with a Spellcasting feature has a corresponding [Spell List](part/spell-list.md) that sets which Spells you can prepare with it. A Spell belongs to every class that can prepare it, however you gained access to it.
+Every class with a Spellcasting feature has a corresponding [Spell List](parts.md#class-list) that sets which Spells you can prepare with it. A Spell belongs to every class that can prepare it, however you gained access to it.
 
 You can't prepare a Spell of a higher Level than the highest Spell Slot you have from the class you prepare it with.
 

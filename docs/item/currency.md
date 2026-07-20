@@ -2,8 +2,7 @@
 Currency is the coin a character earns and spends, four metals of rising worth that set the price of everything from a night's lodging to a suit of plate.
 { .subtitle }
 
-## Denominations
-
+### Denominations
 Coins come in four metals of increasing worth.  Some settings may have different names for each coin, use different materials, or may not use physical currency at all.  Regardless, the same units can be used to compare relative value within a setting.
 
 | Coin | Value |
@@ -14,5 +13,4 @@ Coins come in four metals of increasing worth.  Some settings may have different
 | Platinum | **10** gold |
 
 #### Exchange
-
 Coins convert at a decimal scale: **100** copper equal **10** silver equal **1** gold, and **10** gold equal **1** platinum.

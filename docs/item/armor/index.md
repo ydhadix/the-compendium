@@ -5,7 +5,7 @@ Armor is the protective gear a character dons to turn aside blows, trading weigh
 | Armor | Description |
 |---|---|
 | [Armor Types](type.md) | The grades of armor, from light to heavy. |
-| [Shields](shield/index.md) | Handheld protection for extra defense. |
+| [Shields](shield.md) | Handheld protection for extra defense. |
 
 ## Wearing Armor
 Your armor's weight determines how quickly you can don and doff it.

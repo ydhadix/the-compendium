@@ -1,8 +1,8 @@
-# Area of Effect
-An Area of Effect is the shape of space a Spell fills, spreading from an Origin point.
+# Areas of Effect
+An Area of Effect is the shape of space an effect fills, spreading from an Origin point.
 { .subtitle }
 
-Every Area has an Origin — the point its effect erupts from in straight lines. If a straight line from the Origin to a location in the Area is blocked by [Full Cover](../../rules/adventure/cover.md), that location is excluded from the Area.
+Spells, abilities, breath weapons, and hazards can all fill an Area. Every Area has an Origin — the point its effect erupts from in straight lines. If a straight line from the Origin to a location in the Area is blocked by [Full Cover](cover.md), that location is excluded from the Area.
 
 An Area usually takes one of the following shapes.
 

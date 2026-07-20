@@ -2,7 +2,7 @@
 Uncommon Clothing (Boots), Attunement
 { .subtitle }
 
-Your Speed becomes **30** feet, unless it is already higher, and you ignore movement penalties from Heavy Armor or carrying weight beyond your Carry Capacity.
+Your Speed becomes **30** feet, unless it is already higher, and you ignore movement penalties from Heavy Armor.
 
 #### Jump
 1 use per Turn

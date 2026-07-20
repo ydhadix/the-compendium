@@ -24,8 +24,8 @@ Warlocks are casters empowered by a pact with an otherworldly patron, trading th
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Intelligence or Wisdom |
-| Secondary Ability | — |
+| Starting Ability | Intelligence or Wisdom |
+| Feature Ability | Same as Starting Ability |
 | Hit Die | d8 |
 | Starting Equipment | 100 gold<br>or<br>Leather Armor, Sickle, 2 Daggers, Arcane Focus, Book, Scholar's Pack, and 15 gold |
 

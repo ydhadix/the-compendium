@@ -8,7 +8,7 @@ To cast a Spell, you must have it Prepared, Learned, or made available by an Ite
 |---|---|
 | [Preparing Spells](preparing.md) | How a character gains access to a Spell. |
 | [Casting Spells](casting.md) | How a Spell is paid for and cast. |
-| [Parts of a Spell](part/index.md) | The anatomy shared by every Spell. |
+| [Parts of a Spell](parts.md) | The anatomy shared by every Spell. |
 | [Spells by Level](level/index.md) | Every Spell, sorted by Spell Level. |
 | [Spells by Class](class/index.md) | Every Spell, sorted by the classes that cast it. |
 

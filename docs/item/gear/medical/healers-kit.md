@@ -6,4 +6,4 @@ Other, Consumable, 5 gold
 Utilize Action, 10 uses
 { .subtitle }
 
-You can Stabilize a Downed creature within Reach.
+You stabilize a Downed creature within Reach.

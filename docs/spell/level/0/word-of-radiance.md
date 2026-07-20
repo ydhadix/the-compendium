@@ -8,7 +8,7 @@ Evocation Cantrip
 | Components | V, M |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Everything in a 5-ft. Aura |
+| Target | Everything you choose in a 5-ft. Aura |
 | Duration | — |
 
 ##### Spell Effect

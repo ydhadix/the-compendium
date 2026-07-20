@@ -24,8 +24,8 @@ Sorcerers are casters born with innate magic, shaping raw power that surges from
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Wisdom or Charisma |
-| Secondary Ability | — |
+| Starting Ability | Wisdom or Charisma |
+| Feature Ability | Same as Starting Ability |
 | Hit Die | d6 |
 | Starting Equipment | 50 gold<br>or<br>Spear, 2 Daggers, Arcane Focus, Dungeoneer's Pack, and 28 gold |
 

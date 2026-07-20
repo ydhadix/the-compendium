@@ -20,8 +20,8 @@ Bards are versatile performers who weave magic from music, words, and lore, insp
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Intelligence or Charisma |
-| Secondary Ability | — |
+| Starting Ability | Intelligence or Charisma |
+| Feature Ability | Same as Starting Ability |
 | Hit Die | d8 |
 | Starting Equipment | 90 gold<br>or<br>Leather Armor, any Musical Instrument, 2 Daggers, Entertainer's Pack, 19 gold |
 

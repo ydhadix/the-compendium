@@ -24,8 +24,8 @@ Wizards are scholars of the arcane who master magic through relentless study, fi
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Intelligence |
-| Secondary Ability | — |
+| Starting Ability | Intelligence |
+| Feature Ability | Same as Starting Ability |
 | Hit Die | d6 |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 

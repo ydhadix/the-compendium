@@ -3,16 +3,19 @@ The six Abilities measure a creature's raw physical and mental capabilities. Nea
 { .subtitle }
 
 ### The Six Abilities
-Each Ability is a modifier you add to the D20 Tests and other rolls and traits it governs.
+Each Ability is a number from **-5** to **+10** you add to the D20 Tests and other rolls and traits it governs.
 
 | Ability | Description | Uses |
 |---|---|---|
-| Strength | Physical might | Melee Attacks, Heavy Armor, Damage Reduction, Carry Capacity, Jump Distance |
+| Strength | Physical might | Melee Attacks, Heavy Armor, Damage Reduction, Jump Distance |
 | Dexterity | Accuracy, agility, and balance | Ranged Attacks, Light Armor, Initiative, Reflex Saves |
 | Constitution | Health and stamina | Hit Points, Fortitude Saves, Concentration |
 | Intelligence | Reasoning, learning, and memory | Spellcasting, Studying, additional Proficiencies |
 | Wisdom | Awareness, empathy, and mental resilience | Spellcasting, Will Saves, Searching |
 | Charisma | Confidence, poise, and charm | Spellcasting, Socializing |
+
+#### Ability Maximum
+Player characters have a maximum value for each ability that increases as you gain Character Levels.
 
 ### Intelligence Proficiencies
 You learn additional Proficiencies and Languages based on your Intelligence. If your Intelligence decreases, you don't lose any learned Proficiencies, but you don't learn more until your Intelligence exceeds the highest Intelligence you've gained a Proficiency from.

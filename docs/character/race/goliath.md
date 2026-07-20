@@ -16,7 +16,7 @@ Goliaths are towering giant-kin of tremendous strength, able to call on the powe
 
 ## Goliath Features
 ### Powerful Build
-Your carry capacity is doubled.
+You gain Advantage on Athletics Checks, and your Jump distance doubles.
 
 ### Large Form
 Bonus Action, 1 use per Long Rest

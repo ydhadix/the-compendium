@@ -4,7 +4,7 @@ An Attack Roll decides whether a strike finds its mark, measuring a creature's a
 
 When you Attack, an Attack Roll determines whether the Attack hits.  To hit, your total must equal or exceed the target's Armor Class.
 
-## Making an Attack
+### Making an Attack
 1. **Declare the attack.** Choose a target within your attack's Range.
 2. **Determine modifiers.** Abilities, Proficiency, Cover, and other effects can add bonuses, penalties, Advantage, or Disadvantage to the Attack Roll.
 3. **Determine if the attack hits.** Roll as with any D20 Test. If your total equals or exceeds the target's Armor Class, the attack hits.
@@ -30,3 +30,8 @@ Attacks against a target beyond Normal Range, but within Long Range is made with
 
 #### Melee Penalty
 While you are within an Enemy's Reach, your Ranged Attacks gain Disadvantage.
+
+### Nonlethal Attacks
+You can declare any Melee attack as Nonlethal when you make it.
+
+If a Nonlethal attack reduces the target to **0** Hit Points, the target becomes Stable instead of Downed.

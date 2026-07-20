@@ -17,7 +17,7 @@ A Magic Item can have up to **2** Infusions at a time, and only **1** of them ca
 | [Unique](infusion/unique/index.md) | One-of-a-kind items beyond the usual scale. |
 
 ### Using Magic Items
-Magic Items usually require wearing or wielding them properly, just like normal items. Magic Items that don't fit the standard [Item Types](/item/equip.md#item-types) are called Wondrous Items, and their usage varies.
+Magic Items usually require wearing or wielding them properly, just like normal items. Magic Items that don't fit the standard [Item Types](/item/index.md#item-types) are called Wondrous Items, and their usage varies.
 
 ### Identification
 Some Magic Items are indistinguishable from their nonmagical counterparts, while others are obviously magical.
@@ -36,7 +36,7 @@ Many Infusions share common properties.
 | [Attunement](#attunement) | A special bond required to use some infusions. |
 | [Charges](#charges) | Some infusions hold Charges that power their effects. |
 | Command Word | You must audibly speak a Command Word to use some of this item's effects. |
-| [Consumable](/item/equip.md#consumables) | You can use this item a limited number of times before it loses its magic. |
+| [Consumable](/item/index.md#consumables) | You can use this item a limited number of times before it loses its magic. |
 | Cursed | This item has a hidden, detrimental effect. Most methods of identifying items don't reveal curses, and you can't voluntarily end your Attunement to it. |
 
 ##### Attunement

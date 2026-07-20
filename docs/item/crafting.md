@@ -3,7 +3,7 @@ Crafting is how a character makes weapons, armor, and gear from raw materials, t
 { .subtitle }
 
 ## Requirements
-You can craft Weapons, Armor, and Adventuring Gear, provided you have Proficiency with the Artisan's Tool associated with the item and the tool is appropriate to the material used _(see the [Item Types Table](equip.md#item-types))_.
+You can craft Weapons, Armor, and Adventuring Gear, provided you have Proficiency with the Artisan's Tool associated with the item and the tool is appropriate to the material used _(see the [Item Types Table](index.md#item-types))_.
 
 ## Time and Cost
 The Cost of crafting an item is paid in raw materials and time based on the item's Value. You use half the item's Value in raw materials, and it takes **1** day to craft an item for every **25** gold it's worth.

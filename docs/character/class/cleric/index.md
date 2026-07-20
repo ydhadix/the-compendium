@@ -20,8 +20,8 @@ Clerics are divine champions who wield the power of a deity, mending allies and 
 ## Class Details
 | | |
 |---|---|
-| Primary Ability | Intelligence, Wisdom, or Charisma |
-| Secondary Ability | — |
+| Starting Ability | Intelligence, Wisdom, or Charisma |
+| Feature Ability | Same as Starting Ability |
 | Hit Die | d8 |
 | Starting Equipment | 110 gold<br>or<br>Chain Shirt, Medium Shield, Mace, Holy Symbol, Priest's Pack, 7 gold |
 

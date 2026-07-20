@@ -4,50 +4,14 @@ Weapon Types sort every weapon by the training it takes to wield, from improvise
 
 | |
 |---|
-| [Unarmed Strikes](#unarmed) |
-| [Improvised Weapons](#improvised-weapons) |
+| [Delta Weapons](#delta-weapons) |
 | [Simple Weapons](#simple-weapons) |
 | [Martial Weapons](#martial-weapons) |
+| [Unarmed Strikes](#unarmed-strikes) |
+| [Improvised Weapons](#improvised-weapons) |
 
-#### Delta Weapons
+### Delta Weapons
 Some weapon categories have a Delta Weapon _(Δ)_ — an alternative build that shares Proficiency with its base weapon.
-
-### Unarmed
-An Attack that uses part of the attacker's body, such as a punch or kick, is an Unarmed Strike. Every creature has Proficiency with Unarmed Strikes. 
-
-| Name | Damage | Weight | Hands | Properties | Mastery | Value |
-|---|---|---|---|---|---|---|
-| Unarmed | 1d4 Bludgeoning | — | Versatile (1d6) | — | — | — |
-
-Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
-
-##### Damage
-You make an Attack Roll against the target.
-
-| | |
-|---|---|
-| Hit | You deal damage normally. |
-
-##### Grapple
-You make an Athletics Check, contested by the target's Athletics or Acrobatics Check.
-
-| | |
-|---|---|
-| Success | You Grapple the target. |
-
-##### Shove
-You make an Athletics Check, contested by the target's Athletics or Acrobatics Check.
-
-| | |
-|---|---|
-| Success | You knock the target Prone or move the target **5** feet. |
-
-### Improvised Weapons
-Improvised weapons are makeshift weapons, or a weapon wielded improperly (such as making a Melee Attack with a Ranged weapon). Improvised weapons are Simple Melee Weapons.
-
-| Name | Damage | Weight | Hands | Properties | Mastery | Value |
-|---|---|---|---|---|---|---|
-| Improvised | 1d4 Bludgeoning, Piercing, or Slashing | Light | Versatile (1d6) | Thrown (10/30) | — | — |
 
 ### Simple Weapons
 All adventurers have Proficiency with Simple weapons, which require minimal training to use effectively.
@@ -84,6 +48,47 @@ Martial weapons have superior damage and a wider variety of properties but requi
 | Bow Δ | 1d10 Piercing | Heavy | Two | Ammunition (150/600) | Pierce, Sap, Slow, Vex | 50 gold |
 | Firearm | 1d10 Piercing | — | One | Ammunition (40/160), Loading | Push, Slow, Vex | 250 gold |
 | Firearm Δ | 1d12 or 2d6 Piercing | Heavy | Two | Ammunition (100/400), Loading | Pierce, Push, Slow, Vex | 500 gold |
+
+### Unarmed Strikes
+An Attack that uses part of the attacker's body, such as a punch or kick, is an Unarmed Strike. Every creature has Proficiency with Unarmed Strikes. 
+
+| Name | Damage | Weight | Hands | Properties | Mastery | Value |
+|---|---|---|---|---|---|---|
+| Unarmed | 1d4 Bludgeoning | — | Versatile (1d6) | — | — | — |
+
+Before you attack with an Unarmed Strike, you can choose to Damage, Grapple, or Shove the target.
+
+##### Strike
+You make an Attack Roll against the target.
+
+| | |
+|---|---|
+| Hit | You deal damage normally. |
+
+##### Grapple
+You make an Athletics Check, contested by the target's Athletics or Acrobatics Check.
+
+| | |
+|---|---|
+| Success | You Grapple the target. |
+
+##### Shove
+You make an Athletics Check, contested by the target's Athletics or Acrobatics Check.
+
+| | |
+|---|---|
+| Success | You knock the target Prone or move the target **5** feet. |
+
+#### Natural Weapons
+Natural Weapons are parts of a creature's body that make their Unarmed Strikes particularly dangerous.  Natural Weapons come in different forms, as defined by the features that grant them.
+
+### Improvised Weapons
+Improvised Weapons are makeshift weapons, or a weapon wielded improperly (such as making a Melee Attack with a Ranged weapon). Improvised weapons are Simple Melee Weapons.
+
+| Name | Damage | Weight | Hands | Properties | Mastery | Value |
+|---|---|---|---|---|---|---|
+| Improvised | 1d4 Bludgeoning, Piercing, or Slashing | Light | Versatile (1d6) | Thrown (10/30) | — | — |
+
 
 ## Example Weapons
 | Category | Standard Weapon | Delta Weapon |

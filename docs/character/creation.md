@@ -36,7 +36,7 @@ You can create your own background, or you can modify one of the Example Backgro
 ### 4. Choose a Class
 Your Class reflects your specialized training and defines how you interact with the world. The class you choose at level **1** is your Primary Class, which includes the following parts:
 
-- **1** Primary Ability, which increases by **1**
+- **1** Starting Ability, which increases by **1**
 - a Hit Die
 - a set of starting items and/or gold
 - **1** Saving Throw Proficiency

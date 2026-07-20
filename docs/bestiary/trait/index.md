@@ -4,6 +4,7 @@ Traits are the measurable facts that define a creature. Together they fill out a
 
 | Traits | Description |
 |---|---|
+| [Creature Type](../type/index.md) | A broad family of creatures with similar traits, origin, or biology. |
 | [Alignment](alignment.md) | A creature's moral and ethical outlook. |
 | [Size](size.md) | The space a creature occupies. |
 | [Reach](reach.md) | How far a creature can touch, grab, or strike. |

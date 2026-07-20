@@ -2,7 +2,7 @@
 Actions are what a creature does with its Turn. Each Turn grants a limited budget of them, and how a creature spends that budget shapes its role in a fight.
 { .subtitle }
 
-On each of your Turns you can take **1** [Normal Action](#normal-actions), **1** [Bonus Action](#bonus-actions), **1** [Object Action](#object-action), and **1** [Reaction](#reactions).  You can take any number of Free Actions on your turn.
+On your Turn, you can take **1** [Normal Action](#normal-actions), **1** [Bonus Action](#bonus-actions), **1** [Object Action](#object-action), and **1** [Reaction](#reactions).  You can take any number of Free Actions on your turn.
 
 ### Normal Actions
 Most Actions are Normal Actions.
@@ -20,7 +20,6 @@ The following Actions are available to every creature, and some features add new
 | [Magic](#magic) | Cast a Spell or use a magical effect. |
 | [Ready](#ready) | Prepare an Action to trigger as a Reaction. |
 | [Search](#search) | Make an Ability Check to notice something hidden. |
-| [Stabilize](#stabilize) | Make a Medicine Check to Stabilize a Downed creature. |
 | [Study](#study) | Make an Intelligence Check to recall knowledge. |
 | [Utilize](#utilize) | Interact with a nonmagical object or effect. |
 
@@ -72,13 +71,6 @@ Make a Wisdom Check to notice something that isn't obvious. What you're looking 
 | Perception | A hidden creature or object |
 | Survival | Tracks, food, or a Beast's state of mind |
 
-##### Stabilize
-Choose a Downed creature within your Reach and make a Medicine Check _(DC **10**)_.
-
-| | |
-|---|---|
-| Success | The creature becomes Stable. |
-
 ##### Study
 Make an Intelligence Check to recall or discern a piece of knowledge.
 
@@ -105,3 +97,6 @@ You can interact with one nonmagical object or environmental effect that doesn't
 A Reaction is taken in response to a trigger, and each Spell or feature that uses one states its trigger.
 
 Unlike other Actions, you can take a Reaction on any creature's Turn, but you can take only one Reaction until the start of your next Turn. If your Reaction interrupts another creature's Turn, that Turn resumes right after the Reaction.
+
+#### Opportunity Attacks
+`Description TBD`
