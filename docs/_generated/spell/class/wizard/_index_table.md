@@ -229,3 +229,37 @@
 | [Summon Elemental](/spell/level/4/summon-elemental.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Vitriolic Sphere](/spell/level/4/vitriolic-sphere.md) | Evocation | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | — |
 | [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
+
+## 5th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Animate Objects](/spell/level/5/animate-objects.md) | Transmutation | V, S | Normal Action | 120 ft. | Up to **Spellcasting Ability** objects | 1 minute (C) |
+| [Arcane Hand](/spell/level/5/arcane-hand.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
+| [Circle of Power](/spell/level/5/circle-of-power.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
+| [Cloudkill](/spell/level/5/cloudkill.md) | Conjuration | V, S | Normal Action | 120 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |
+| [Cone of Cold](/spell/level/5/cone-of-cold.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 60-ft. Cone | — |
+| [Conjure Elemental](/spell/level/5/conjure-elemental.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
+| [Contact Other Plane](/spell/level/5/contact-other-plane.md) | Divination | V | 1 minute (R) | — | Self | — |
+| [Creation](/spell/level/5/creation.md) | Illusion | V, S, M | 1 minute | 30 ft. | — | Special |
+| [Dominate Person](/spell/level/5/dominate-person.md) | Enchantment | V, S | Normal Action | 60 ft. | One Humanoid | 1 minute (C) |
+| [Dream](/spell/level/5/dream.md) | Illusion | V, S, M | 1 minute | — | One creature you know on your plane | 8 hours |
+| [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
+| [Hold Monster](/spell/level/5/hold-monster.md) | Enchantment | V, S, M | Normal Action | 90 ft. | One creature | 1 minute (C) |
+| [Legend Lore](/spell/level/5/legend-lore.md) | Divination | V, S, M ($C) | 10 minutes | — | Self | — |
+| [Mislead](/spell/level/5/mislead.md) | Illusion | S | Normal Action | — | Self | 1 hour (C) |
+| [Modify Memory](/spell/level/5/modify-memory.md) | Enchantment | V, S | Normal Action | 30 ft. | One creature | 1 minute (C) |
+| [Passwall](/spell/level/5/passwall.md) | Transmutation | V, S, M | Normal Action | 30 ft. | — | 1 hour |
+| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | 60 ft. | One Celestial, Elemental, Fey, or Fiend | 24 hours |
+| [Regal Presence](/spell/level/5/regal-presence.md) | Enchantment | V, S, M | Normal Action | — | Each creature you choose in a 10-ft. Aura | 1 minute (C) |
+| [Scrying](/spell/level/5/scrying.md) | Divination | V, S, M ($) | 10 minutes | — | One creature or location on your plane | 10 minutes (C) |
+| [Seeming](/spell/level/5/seeming.md) | Illusion | V, S | Normal Action | 30 ft. | Each creature you choose | 8 hours |
+| [Steel Wind Strike](/spell/level/5/steel-wind-strike.md) | Conjuration | S, M | Normal Action | 30 ft. | Up to 5 creatures | — |
+| [Storm of Radiance](/spell/level/5/storm-of-radiance.md) | Evocation | V, S, M | Normal Action | 120 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder | 1 minute (C) |
+| [Summon Dragon](/spell/level/5/summon-dragon.md) | Conjuration | V, S, M ($) | Normal Action | 60 ft. | — | 1 hour (C) |
+| [Synaptic Static](/spell/level/5/synaptic-static.md) | Enchantment | V, S | Normal Action | 120 ft. | Each creature in a 20-ft. radius Sphere | — |
+| [Telekinesis](/spell/level/5/telekinesis.md) | Transmutation | V, S | Normal Action | 60 ft. | One creature or object | 10 minutes (C) |
+| [Telepathic Bond](/spell/level/5/telepathic-bond.md) | Divination | V, S, M | Normal Action (R) | 30 ft. | Up to 8 Allies | 1 hour |
+| [Teleportation Circle](/spell/level/5/teleportation-circle.md) | Conjuration | V, M ($C) | 1 minute | 10 ft. | — | Until the end of your next Turn |
+| [Wall of Force](/spell/level/5/wall-of-force.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 10 minutes (C) |
+| [Wall of Stone](/spell/level/5/wall-of-stone.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 10 minutes (C) |

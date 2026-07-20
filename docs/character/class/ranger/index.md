@@ -119,7 +119,7 @@ Choose a Ranger Subclass. Your subclass grants you a feature at this level.
 
 | Subclasses | Description |
 |---|---|
-| [Beast Master](beast-master.md) | Fights alongside a bonded primal companion. |
+| [Beast Master](beast-master.md) | Fights alongside a bonded Primal Companion. |
 
 
 ### 4: Imprinting Adept

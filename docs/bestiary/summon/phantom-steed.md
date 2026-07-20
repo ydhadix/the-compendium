@@ -4,7 +4,7 @@ source: /spell/level/3/phantom-steed.md
 ---
 
 # Phantom Steed
-A Phantom Steed is a quasi-real, horselike mount conjured by the [Phantom Steed](/spell/level/3/phantom-steed.md) spell.
+A Phantom Steed is a Companion conjured by the [Phantom Steed](/spell/level/3/phantom-steed.md) spell, serving as a quasi-real, horselike mount.
 { .subtitle }
 
 ### Phantom Steed

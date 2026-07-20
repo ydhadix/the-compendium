@@ -1,0 +1,1 @@
+| [Antilife Shell](/spell/level/5/antilife-shell.md) | Abjuration | V, S | Normal Action | — | A 10-ft. Aura | 1 minute (C) |

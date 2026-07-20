@@ -1,0 +1,1 @@
+| [Flame Strike](/spell/level/5/flame-strike.md) | Evocation | V, S, M | Normal Action | 60 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder | — |

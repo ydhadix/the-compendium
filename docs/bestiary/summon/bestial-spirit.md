@@ -4,7 +4,7 @@ source: /spell/level/2/summon-beast.md
 ---
 
 # Bestial Spirit
-A Bestial Spirit is a companion conjured by the [Summon Beast](/spell/level/2/summon-beast.md) spell.
+A Bestial Spirit is a Companion conjured by the [Summon Beast](/spell/level/2/summon-beast.md) spell.
 { .subtitle }
 
 | Variants |

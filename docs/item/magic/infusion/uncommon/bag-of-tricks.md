@@ -8,7 +8,7 @@ Reaching inside this bag reveals a small, fuzzy object. Each Bag of Tricks comes
 Magic Action, 3 uses per Day
 { .subtitle }
 
-You can pull the fuzzy object from the bag and throw it up to **20** feet, where it becomes a companion creature determined by rolling **1d8** on your bag's color table below.  The creature disappears after this item recharges or after the creature drops to **0** Hit Points.
+You can pull the fuzzy object from the bag and throw it up to **20** feet, where it becomes a Companion creature determined by rolling **1d8** on your bag's color table below.  The creature disappears after this item recharges or after the creature drops to **0** Hit Points.
 
 ###### Command
 Bonus Action

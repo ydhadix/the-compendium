@@ -50,7 +50,7 @@ After you hit with an Attack while mounted, your mount can use its Reaction to M
 Magic Action, Proficiency Bonus uses per Long Rest
 { .subtitle }
 
-One Beast within **30** feet makes a Will Save _(DC **8 + STR, WIS, or CHA + PB**)_.  The target gains Disadvantage on the Saving Throw if you or a companion dealt damage to it since the start of your previous Turn.
+One Beast within **30** feet makes a Will Save _(DC **8 + STR, WIS, or CHA + PB**)_.  The target gains Disadvantage on the Saving Throw if you or an Ally dealt damage to it since the start of your previous Turn.
 
 | | |
 |---|---|

@@ -46,4 +46,4 @@
 | [Toll the Dead](/spell/level/0/toll-the-dead.md) | Necromancy | V, S | Normal Action | 60 ft. | One thing | — |
 | [True Strike](/spell/level/0/true-strike.md) | Divination | S, M | Normal Action | The material component's Reach or Range | One thing | — |
 | [Vicious Mockery](/spell/level/0/vicious-mockery.md) | Enchantment | V | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
-| [Word of Radiance](/spell/level/0/word-of-radiance.md) | Evocation | V, M | Normal Action | — | Everything in a 5-ft. Aura | — |
+| [Word of Radiance](/spell/level/0/word-of-radiance.md) | Evocation | V, M | Normal Action | — | Everything you choose in a 5-ft. Aura | — |

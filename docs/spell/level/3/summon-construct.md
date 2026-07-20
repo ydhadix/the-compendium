@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon a Construct Spirit. Choose Clay, Metal, or Stone.
+You summon a Companion Construct Spirit. Choose Clay, Metal, or Stone.
 
 This Spell ends if the spirit has **0** Hit Points.
 

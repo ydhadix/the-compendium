@@ -1,0 +1,1 @@
+| [Conjure Elemental](/spell/level/5/conjure-elemental.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |

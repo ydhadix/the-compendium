@@ -4,7 +4,7 @@ source: /spell/level/2/find-steed.md
 ---
 
 # Otherworldly Steed
-An Otherworldly Steed is a companion conjured by the [Find Steed](/spell/level/2/find-steed.md) spell.
+An Otherworldly Steed is a Companion conjured by the [Find Steed](/spell/level/2/find-steed.md) spell.
 { .subtitle }
 
 ### Otherworldly Steed

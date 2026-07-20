@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon an Aberrant Spirit. Choose Beholderkin, Mind Flayer, or Slaad.
+You summon a Companion Aberrant Spirit. Choose Beholderkin, Mind Flayer, or Slaad.
 
 This Spell ends if the Spirit has **0** Hit Points.
 

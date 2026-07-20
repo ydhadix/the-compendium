@@ -4,7 +4,7 @@ source: /spell/level/3/summon-construct.md
 ---
 
 # Construct Spirit
-A Construct Spirit is a companion conjured by the [Summon Construct](/spell/level/3/summon-construct.md) spell.
+A Construct Spirit is a Companion conjured by the [Summon Construct](/spell/level/3/summon-construct.md) spell.
 { .subtitle }
 
 | Variants |

@@ -12,7 +12,7 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-You summon a giant insect. Choose Centipede, Spider, or Wasp.
+You summon a Companion Giant Insect. Choose Centipede, Spider, or Wasp.
 
 This Spell ends if the insect has **0** Hit Points.
 

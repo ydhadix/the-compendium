@@ -1,0 +1,1 @@
+| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | Self | — |

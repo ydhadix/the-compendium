@@ -4,7 +4,7 @@ source: /spell/level/4/giant-insect.md
 ---
 
 # Giant Insect
-A Giant Insect is a creature conjured by the [Giant Insect](/spell/level/4/giant-insect.md) spell.
+A Giant Insect is a Companion conjured by the [Giant Insect](/spell/level/4/giant-insect.md) spell.
 { .subtitle }
 
 | Variants |

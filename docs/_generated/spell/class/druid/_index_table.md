@@ -138,3 +138,23 @@
 | [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One Ally | 1 hour (C) |
 | [Summon Elemental](/spell/level/4/summon-elemental.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
 | [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
+
+## 5th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Antilife Shell](/spell/level/5/antilife-shell.md) | Abjuration | V, S | Normal Action | — | A 10-ft. Aura | 1 minute (C) |
+| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of 3 or less, or one natural plant | — |
+| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | Self | — |
+| [Cone of Cold](/spell/level/5/cone-of-cold.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 60-ft. Cone | — |
+| [Conjure Elemental](/spell/level/5/conjure-elemental.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
+| [Contagion](/spell/level/5/contagion.md) | Necromancy | V, S | Normal Action | Reach | One creature | 7 days |
+| [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
+| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
+| [Insect Plague](/spell/level/5/insect-plague.md) | Conjuration | V, S, M | Normal Action | 300 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |
+| [Mass Cure Wounds](/spell/level/5/mass-cure-wounds.md) | Abjuration | V, S | Normal Action | 60 ft. | Up to 6 creatures in a 30-ft. radius Sphere | — |
+| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | 60 ft. | One Celestial, Elemental, Fey, or Fiend | 24 hours |
+| [Reincarnate](/spell/level/5/reincarnate.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One dead Humanoid that died within the past 10 days | — |
+| [Scrying](/spell/level/5/scrying.md) | Divination | V, S, M ($) | 10 minutes | — | One creature or location on your plane | 10 minutes (C) |
+| [Tree Stride](/spell/level/5/tree-stride.md) | Conjuration | V, S | Normal Action | — | Self | 1 minute (C) |
+| [Wall of Stone](/spell/level/5/wall-of-stone.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 10 minutes (C) |

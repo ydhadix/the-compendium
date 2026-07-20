@@ -12,7 +12,7 @@
 | Duration | 8 hours |
 
 ##### Spell Effect
-You transform the target into a companion Animated Servant.
+You transform the target into a Companion Animated Servant.
 
 If the servant drops to **0** Hit Points, it is destroyed.
 

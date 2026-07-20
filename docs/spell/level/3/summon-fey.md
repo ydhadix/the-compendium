@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon a Fey Spirit. Choose Fuming, Mirthful, or Tricksy.
+You summon a Companion Fey Spirit. Choose Fuming, Mirthful, or Tricksy.
 
 This Spell ends if the Spirit has **0** Hit Points.
 

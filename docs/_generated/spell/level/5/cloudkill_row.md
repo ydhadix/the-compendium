@@ -1,0 +1,1 @@
+| [Cloudkill](/spell/level/5/cloudkill.md) | Conjuration | V, S | Normal Action | 120 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |

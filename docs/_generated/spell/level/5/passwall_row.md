@@ -1,0 +1,1 @@
+| [Passwall](/spell/level/5/passwall.md) | Transmutation | V, S, M | Normal Action | 30 ft. | — | 1 hour |

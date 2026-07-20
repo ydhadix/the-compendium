@@ -4,7 +4,7 @@ source: /spell/level/4/summon-aberration.md
 ---
 
 # Aberrant Spirit
-An Aberrant Spirit is a companion conjured by the [Summon Aberration](/spell/level/4/summon-aberration.md) spell.
+An Aberrant Spirit is a Companion conjured by the [Summon Aberration](/spell/level/4/summon-aberration.md) spell.
 { .subtitle }
 
 | Variants |

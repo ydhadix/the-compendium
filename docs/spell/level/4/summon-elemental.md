@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon an Elemental Spirit. Choose Air, Earth, Fire, or Water.
+You summon a Companion Elemental Spirit. Choose Air, Earth, Fire, or Water.
 
 This Spell ends if the Spirit has **0** Hit Points.
 

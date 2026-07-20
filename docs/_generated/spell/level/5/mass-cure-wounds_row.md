@@ -1,0 +1,1 @@
+| [Mass Cure Wounds](/spell/level/5/mass-cure-wounds.md) | Abjuration | V, S | Normal Action | 60 ft. | Up to 6 creatures in a 30-ft. radius Sphere | — |

@@ -1,0 +1,1 @@
+| [Telekinesis](/spell/level/5/telekinesis.md) | Transmutation | V, S | Normal Action | 60 ft. | One creature or object | 10 minutes (C) |

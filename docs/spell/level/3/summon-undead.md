@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon an Undead Spirit. Choose Ghostly, Putrid, or Skeletal.
+You summon a Companion Undead Spirit. Choose Ghostly, Putrid, or Skeletal.
 
 This Spell ends if the Spirit has **0** Hit Points.
 

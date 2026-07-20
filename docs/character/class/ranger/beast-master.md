@@ -1,5 +1,5 @@
 # Beast Master
-Beast Masters fight alongside a primal companion, a loyal beast bonded to them as a partner in battle.
+Beast Masters fight alongside a Primal Companion, a loyal beast bonded to them as a partner in battle.
 { .subtitle }
 
 

@@ -12,7 +12,7 @@
 | Duration | 1 hour (Concentration) |
 
 ##### Spell Effect
-You summon a companion Bestial Spirit. Choose Land, Water, or Air.
+You summon a Companion Bestial Spirit. Choose Land, Water, or Air.
 
 This Spell ends if the spirit has **0** Hit Points.
 

@@ -1,0 +1,1 @@
+| [Dominate Person](/spell/level/5/dominate-person.md) | Enchantment | V, S | Normal Action | 60 ft. | One Humanoid | 1 minute (C) |

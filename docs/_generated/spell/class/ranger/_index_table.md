@@ -75,3 +75,14 @@
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
 | [Wind Wall](/spell/level/3/wind-wall.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
+
+## 5th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | Self | — |
+| [Conjure Volley](/spell/level/5/conjure-volley.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Each creature you choose in a 40-ft. radius, 20-ft. Cylinder | — |
+| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
+| [Steel Wind Strike](/spell/level/5/steel-wind-strike.md) | Conjuration | S, M | Normal Action | 30 ft. | Up to 5 creatures | — |
+| [Swift Quiver](/spell/level/5/swift-quiver.md) | Transmutation | V, S, M ($) | Bonus Action | — | Self | 1 minute (C) |
+| [Tree Stride](/spell/level/5/tree-stride.md) | Conjuration | V, S | Normal Action | — | Self | 1 minute (C) |

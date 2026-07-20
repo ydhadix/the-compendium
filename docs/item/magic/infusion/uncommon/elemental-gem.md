@@ -8,7 +8,7 @@ This item contains a mote of elemental energy.  The gemstone determines the type
 Utilize Action
 { .subtitle }
 
-You can destroy the item, summoning its contained companion Elemental.  The elemental disappears after **1 hour** or after the elemental drops to **0** Hit Points.
+You can destroy the item, summoning its contained Companion Elemental.  The elemental disappears after **1 hour** or after the elemental drops to **0** Hit Points.
 
 ###### Command
 Free Action

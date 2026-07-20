@@ -60,3 +60,16 @@
 | [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature that died within the past minute | — |
 | [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | Each creature in a 10-ft. Aura | 1 minute (C) |
 | [Staggering Smite](/spell/level/3/staggering-smite.md) | Enchantment | V | Bonus Action | — | The target of the Attack | — |
+
+## 5th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+| [Banishing Smite](/spell/level/5/banishing-smite.md) | Conjuration | V | Bonus Action | — | The target of the Attack | 1 minute (C) |
+| [Circle of Power](/spell/level/5/circle-of-power.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
+| [Destructive Wave](/spell/level/5/destructive-wave.md) | Evocation | V | Normal Action | — | Each creature you choose in a 30-ft. Aura | — |
+| [Dispel Evil and Good](/spell/level/5/dispel-evil-and-good.md) | Abjuration | V, S, M | Normal Action | — | Self | 1 minute (C) |
+| [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
+| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
+| [Raise Dead](/spell/level/5/raise-dead.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One non-Undead creature that died within the past 10 days | — |
+| [Summon Celestial](/spell/level/5/summon-celestial.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |

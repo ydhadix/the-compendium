@@ -1,0 +1,1 @@
+| [Contact Other Plane](/spell/level/5/contact-other-plane.md) | Divination | V | 1 minute (R) | — | Self | — |
