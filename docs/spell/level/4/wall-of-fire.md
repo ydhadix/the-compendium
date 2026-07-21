@@ -16,7 +16,7 @@ The area is Heavily Obscured.
 
 Choose one side of the area.
 
-After your Turn starts, everything in the area and within **10** feet of the chosen side makes a Reflex Save.  After a target enters the area or the chosen side (including when this Spell is cast), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
+After a target enters the area or the chosen side __(including when this Spell is cast)__, it makes a Reflex Save.  After your Turn starts, everything in the area and within **10** feet of the chosen side also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

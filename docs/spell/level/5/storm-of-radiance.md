@@ -14,7 +14,7 @@
 ##### Spell Effect
 While in the area, a creature is Blinded and Deafened and can't cast Spells with a Verbal component.
 
-After your Turn starts, each target makes a Fortitude Save.  After a target enters the area (including when this Spell is cast), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
+After a target enters the area __(including when this Spell is cast)__, it makes a Fortitude Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

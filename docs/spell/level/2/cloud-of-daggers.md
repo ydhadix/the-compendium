@@ -12,7 +12,7 @@
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-After your Turn starts, you deal **4d4** Slashing Damage to each target.  After a target enters the area (including when this Spell is cast or the area moves), you also deal this damage.  A target only takes this damage once until the start of your next Turn.
+After a target enters the area __(including when this Spell is cast or the area moves)__, you deal **4d4** Slashing Damage to it.  After your Turn starts, you also deal this damage to each target.  A target only takes this damage once until the start of your next Turn.
 
 ###### Move
 Magic Action

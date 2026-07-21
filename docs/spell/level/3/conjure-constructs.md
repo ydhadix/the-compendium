@@ -12,7 +12,7 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-After your Turn starts, choose one of the following effects for each target.  After a target enters the area (including when this Spell is cast or the area moves), you also make this choice.  A target can only be affected once until the start of your next Turn.
+After a target enters the area __(including when this Spell is cast or the area moves)__, choose one of the following effects for it.  After your Turn starts, you also make this choice for each target.  A target can only be affected once until the start of your next Turn.
 
 | | |
 |---|---|
