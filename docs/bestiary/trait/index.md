@@ -7,7 +7,7 @@ Traits are the measurable facts that define a creature. Together they fill out a
 | [Creature Type](../type/index.md) | A broad family of creatures with similar traits, origin, or biology. |
 | [Alignment](alignment.md) | A creature's moral and ethical outlook. |
 | [Size](size.md) | The space a creature occupies. |
-| [Reach](reach.md) | How far a creature can touch, grab, or strike. |
+| [Reach](reach.md) | How far a creature can make direct contact. |
 | [Abilities](ability.md) | The six core measures of body and mind. |
 | [Defenses](defense.md) | How well a creature avoids and withstands harm. |
 | [Proficiency](proficiency.md) | How much training sharpens a creature's rolls. |

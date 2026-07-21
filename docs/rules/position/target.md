@@ -3,7 +3,7 @@ A Target is what an effect acts upon, and its Range is how far that reach extend
 { .subtitle }
 
 ### Range
-An effect's Range is how far from its source it can reach, given as a distance in feet or as your Reach.
+An effect's Range is how far from its source it can reach, given as a distance in feet or as your [Reach](../../bestiary/trait/reach.md).
 
 For an effect with an [Area](area.md), the Range is the maximum distance to the Area's Origin. For an effect without an Area, the Range is the maximum distance to its individual Targets.
 
