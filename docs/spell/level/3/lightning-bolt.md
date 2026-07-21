@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | Reach |
-| Target | Everything in a 5-ft. × 100-ft. Line |
+| Target | Everything in a 100-ft. × 5-ft. Line |
 | Duration | — |
 
 ##### Spell Effect

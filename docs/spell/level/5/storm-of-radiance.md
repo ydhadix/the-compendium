@@ -8,7 +8,7 @@
 | Components | V, S, M _(a pinch of phosphorus)_ |
 | Casting Time | Normal Action |
 | Range | 120 ft. |
-| Target | Everything in a 10-ft. radius, 40-ft. Cylinder |
+| Target | Everything in a 10-ft. radius, 40-ft. Cylinder from above |
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect

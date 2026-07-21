@@ -8,12 +8,12 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | 60 ft. |
-| Target | — |
+| Target | A 30-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder |
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-You create a wall of water on the ground, up to **30** feet long, **10** feet high, and **1** foot thick, or a ring up to **20** feet in diameter, **20** feet high, and **1** foot thick. The wall's space is Difficult Terrain.
+You must Swim to move through the area.
 
-A Ranged Weapon Attack made through the wall gains Disadvantage, and the wall halves Fire Damage from an effect passing through it.
+A Ranged Weapon Attack made through the area gains Disadvantage, and the area halves Fire Damage from an effect passing through it.
 
-Cold Damage passing through the wall freezes a **5**-foot section of it solid. A frozen section has an Armor Class of **5** and **15** Hit Points; if it has **0** Hit Points, it is destroyed, leaving a gap the water doesn't fill.
+Cold Damage passing through the area freezes a **5**-foot section of it solid. A frozen section has an Armor Class of **5** and **15** Hit Points; if it has **0** Hit Points, it is destroyed, leaving a gap the water doesn't fill.

@@ -547,6 +547,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 ## W
 | Keyword | Location |
 |---|---|
+| [Wall](position/area.md) | Area of Effect |
 | [Warlock](../character/class/warlock/index.md) | Class |
 | [Weapon](../item/weapon/index.md) | Weapon |
 | [Weapon Mastery](../item/weapon/mastery/index.md) | Weapon Mastery |

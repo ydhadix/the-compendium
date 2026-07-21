@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Everything in a 5-ft. × 30-ft. Line |
+| Target | Everything in a 30-ft. × 5-ft. Line |
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect

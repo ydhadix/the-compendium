@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Normal Action |
 | Range | 120 ft. |
-| Target | Everything in a 10-ft. radius, 60-ft. Cylinder |
+| Target | Everything in a 10-ft. radius, 60-ft. Cylinder from above |
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect

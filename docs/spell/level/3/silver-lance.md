@@ -8,7 +8,7 @@
 | Components | V, S, M _(a silver pin worth 250 Gold)_ |
 | Casting Time | Normal Action |
 | Range | — |
-| Target | Each creature you choose in a 5-ft. × 120-ft. Line |
+| Target | Each creature you choose in a 120-ft. × 5-ft. Line |
 | Duration | — |
 
 ##### Spell Effect

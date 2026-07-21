@@ -8,20 +8,20 @@
 | Components | V, S, M _(a piece of charcoal)_ |
 | Casting Time | Normal Action |
 | Range | 120 ft. |
-| Target | — |
+| Target | A 60-ft. × 5-ft. × 20-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder |
 | Duration | 1 minute (Concentration) |
 
 ##### Spell Effect
-You create an opaque wall of fire on a solid surface, up to **60** feet long, **20** feet high, and **1** foot thick, or a ring up to **20** feet in diameter.  Choose one side of the wall when you cast this Spell.
+The area is Heavily Obscured.
 
-When the wall appears, each creature in its area makes a Reflex Save.
+Choose one side of the area.
+
+After your Turn starts, everything in the area and within **10** feet of the chosen side makes a Reflex Save.  After a target enters the area or the chosen side (including when this Spell is cast), it also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|
 | Fail | You deal **5d8** Fire Damage. |
 | Success | You deal half as much damage. |
-
-After a creature enters the wall for the first time on a Turn, or ends its Turn inside the wall or within **10** feet of the chosen side, you deal **5d8** Fire Damage to it.  The other side deals no damage.
 
 ##### At Higher Levels
 Add **1d8** damage per additional Spell Level.
