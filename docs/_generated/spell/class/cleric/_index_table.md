@@ -88,7 +88,7 @@
 | [Remove Curse](/spell/level/3/remove-curse.md) | Abjuration | V, S | Normal Action | Reach | One thing | — |
 | [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature that died within the past minute | — |
 | [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Normal Action | Unlimited | One creature | — |
-| [Silver Lance](/spell/level/3/silver-lance.md) | Evocation | V, S, M ($) | Normal Action | — | Each creature you choose in a 5-ft. × 120-ft. Line | — |
+| [Silver Lance](/spell/level/3/silver-lance.md) | Evocation | V, S, M ($) | Normal Action | — | Each creature you choose in a 120-ft. × 5-ft. Line | — |
 | [Speak with Dead](/spell/level/3/speak-with-dead.md) | Necromancy | V, S, M | Normal Action | 10 ft. | One corpse with a mouth | 10 minutes |
 | [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Normal Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
 | [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | Each creature in a 10-ft. Aura | 1 minute (C) |
@@ -111,17 +111,15 @@
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
 | [Circle of Power](/spell/level/5/circle-of-power.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
-| [Commune](/spell/level/5/commune.md) | Divination | V, S, M | 1 minute (R) | — | Self | — |
 | [Contagion](/spell/level/5/contagion.md) | Necromancy | V, S | Normal Action | Reach | One creature | 7 days |
 | [Dispel Evil and Good](/spell/level/5/dispel-evil-and-good.md) | Abjuration | V, S, M | Normal Action | — | Self | 1 minute (C) |
-| [Flame Strike](/spell/level/5/flame-strike.md) | Evocation | V, S, M | Normal Action | 60 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder | — |
+| [Flame Strike](/spell/level/5/flame-strike.md) | Evocation | V, S, M | Normal Action | 60 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder from above | — |
 | [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
 | [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
-| [Hallow](/spell/level/5/hallow.md) | Abjuration | V, S, M ($C) | 24 hours | — | — | Until dispelled |
+| [Hallow](/spell/level/5/hallow.md) | Abjuration | V, S, M ($C) | 24 hours | Reach | up to a 60-ft. radius Sphere | Until dispelled |
 | [Insect Plague](/spell/level/5/insect-plague.md) | Conjuration | V, S, M | Normal Action | 300 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |
-| [Legend Lore](/spell/level/5/legend-lore.md) | Divination | V, S, M ($C) | 10 minutes | — | Self | — |
 | [Mass Cure Wounds](/spell/level/5/mass-cure-wounds.md) | Abjuration | V, S | Normal Action | 60 ft. | Up to 6 creatures in a 30-ft. radius Sphere | — |
-| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | 60 ft. | One Celestial, Elemental, Fey, or Fiend | 24 hours |
+| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | — | One Celestial, Elemental, Fey, or Fiend in a 60-ft. Aura | 24 hours |
 | [Raise Dead](/spell/level/5/raise-dead.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One non-Undead creature that died within the past 10 days | — |
 | [Scrying](/spell/level/5/scrying.md) | Divination | V, S, M ($) | 10 minutes | — | One creature or location on your plane | 10 minutes (C) |
 | [Summon Celestial](/spell/level/5/summon-celestial.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |

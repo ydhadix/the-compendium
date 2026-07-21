@@ -1,1 +1,1 @@
-| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | 60 ft. | One Celestial, Elemental, Fey, or Fiend | 24 hours |
+| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | — | One Celestial, Elemental, Fey, or Fiend in a 60-ft. Aura | 24 hours |

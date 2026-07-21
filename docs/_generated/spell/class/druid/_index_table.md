@@ -73,13 +73,13 @@
 | [Enlarge/Reduce](/spell/level/2/enlarge-reduce.md) | Transmutation | V, S, M | Normal Action | 30 ft. | One thing | 1 minute (C) |
 | [Flame Blade](/spell/level/2/flame-blade.md) | Evocation | V, S | Bonus Action | — | Self | 1 minute (C) |
 | [Flaming Sphere](/spell/level/2/flaming-sphere.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 5-ft. radius Sphere | 1 minute (C) |
-| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 10-ft. × 60-ft. Line | 1 minute (C) |
+| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 60-ft. × 10-ft. Line | 1 minute (C) |
 | [Heat Metal](/spell/level/2/heat-metal.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One metal object | 1 minute (C) |
 | [Hold Person](/spell/level/2/hold-person.md) | Enchantment | V, S, M | Normal Action | 60 ft. | One humanoid | 1 minute (C) |
 | [Lesser Restoration](/spell/level/2/lesser-restoration.md) | Abjuration | V, S | Bonus Action | Reach | One creature | — |
 | [Locate Animals or Plants](/spell/level/2/locate-animals-or-plants.md) | Divination | V, S, M | Normal Action (R) | 5 miles | Special | 10 minutes (C) |
 | [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Normal Action (R) | 1,000 ft. | Special | 10 minutes (C) |
-| [Moonbeam](/spell/level/2/moonbeam.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Everything in a 5-ft. radius, 40-ft. Cylinder | 1 minute (C) |
+| [Moonbeam](/spell/level/2/moonbeam.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Everything in a 5-ft. radius, 40-ft. Cylinder from above | 1 minute (C) |
 | [Pass Without Trace](/spell/level/2/pass-without-trace.md) | Abjuration | V, S, M | Normal Action | — | Each creature in a 30-ft. Aura | 1 hour (C) |
 | [Protection from Poison](/spell/level/2/protection-from-poison.md) | Abjuration | V, S | Normal Action | Reach | One creature | 1 hour |
 | [Spike Growth](/spell/level/2/spike-growth.md) | Transmutation | V, S, M | Normal Action | 150 ft. | 20-ft. radius Sphere | 10 minutes (C) |
@@ -92,7 +92,7 @@
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
 | [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Normal Action | — | Each creature in a 30-ft. Aura | 1 minute (C) |
-| [Call Lightning](/spell/level/3/call-lightning.md) | Conjuration | V, S | Normal Action | 120 ft. | Everything in a 10-ft. radius, 60-ft. Cylinder | 10 minutes (C) |
+| [Call Lightning](/spell/level/3/call-lightning.md) | Conjuration | V, S | Normal Action | 120 ft. | Everything in a 10-ft. radius, 60-ft. Cylinder from above | 10 minutes (C) |
 | [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Anything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
@@ -106,15 +106,16 @@
 | [Protection from Energy](/spell/level/3/protection-from-energy.md) | Abjuration | V, S | Normal Action | Reach | One thing | 1 hour (C) |
 | [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature that died within the past minute | — |
 | [Silver Viper](/spell/level/3/silver-viper.md) | Conjuration | V, S, M | Bonus Action | — | Self | 1 hour |
-| [Sleet Storm](/spell/level/3/sleet-storm.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Each other creature in a 40-ft. radius, 20-ft. Cylinder | 1 minute (C) |
+| [Sleet Storm](/spell/level/3/sleet-storm.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Each other creature in a 40-ft. radius, 20-ft. Cylinder from above | 1 minute (C) |
 | [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Normal Action | — | Each plant in a 30-ft. Aura | 10 minutes |
 | [Stone Shape](/spell/level/3/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
-| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Everything in a 10-ft. × 30-ft. Line | — |
-| [Wall of Water](/spell/level/3/wall-of-water.md) | Evocation | V, S, M | Normal Action | 60 ft. | — | 10 minutes (C) |
+| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Everything in a 30-ft. × 10-ft. Line | — |
+| [Tree Stride](/spell/level/3/tree-stride.md) | Conjuration | V, S | Normal Action | — | Self | 1 minute (C) |
+| [Wall of Water](/spell/level/3/wall-of-water.md) | Evocation | V, S, M | Normal Action | 60 ft. | A 30-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder | 10 minutes (C) |
+| [Wall of Wind](/spell/level/3/wall-of-wind.md) | Evocation | V, S, M | Normal Action | 120 ft. | A 50-ft. × 5-ft. × 15-ft. Wall | 1 minute (C) |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
-| [Wind Wall](/spell/level/3/wind-wall.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
 
 ## 4th-Level
 
@@ -133,28 +134,27 @@
 | [Giant Insect](/spell/level/4/giant-insect.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
 | [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One thing within 30 ft. of the vine | 1 minute (C) |
 | [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
-| [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder | — |
+| [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Normal Action | 300 ft. | Everything in a 20-ft. radius, 40-ft. Cylinder from above | — |
 | [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |
 | [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One Ally | 1 hour (C) |
 | [Summon Elemental](/spell/level/4/summon-elemental.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
-| [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
+| [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | A 60-ft. × 5-ft. × 20-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder | 1 minute (C) |
 
 ## 5th-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
 | [Antilife Shell](/spell/level/5/antilife-shell.md) | Abjuration | V, S | Normal Action | — | A 10-ft. Aura | 1 minute (C) |
-| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of 3 or less, or one natural plant | — |
-| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | Self | — |
+| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of -4 or less, or one natural plant | — |
+| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | a 3-mile Aura, or a 300-ft. Aura while underground | — |
 | [Cone of Cold](/spell/level/5/cone-of-cold.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 60-ft. Cone | — |
-| [Conjure Elemental](/spell/level/5/conjure-elemental.md) | Conjuration | V, S | Normal Action | 60 ft. | — | 10 minutes (C) |
+| [Conjure Elemental](/spell/level/5/conjure-elemental.md) | Conjuration | V, S | Normal Action | 60 ft. | Everything in a 10-ft. radius Sphere | 10 minutes (C) |
 | [Contagion](/spell/level/5/contagion.md) | Necromancy | V, S | Normal Action | Reach | One creature | 7 days |
 | [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
 | [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
 | [Insect Plague](/spell/level/5/insect-plague.md) | Conjuration | V, S, M | Normal Action | 300 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |
 | [Mass Cure Wounds](/spell/level/5/mass-cure-wounds.md) | Abjuration | V, S | Normal Action | 60 ft. | Up to 6 creatures in a 30-ft. radius Sphere | — |
-| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | 60 ft. | One Celestial, Elemental, Fey, or Fiend | 24 hours |
+| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | — | One Celestial, Elemental, Fey, or Fiend in a 60-ft. Aura | 24 hours |
 | [Reincarnate](/spell/level/5/reincarnate.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One dead Humanoid that died within the past 10 days | — |
 | [Scrying](/spell/level/5/scrying.md) | Divination | V, S, M ($) | 10 minutes | — | One creature or location on your plane | 10 minutes (C) |
-| [Tree Stride](/spell/level/5/tree-stride.md) | Conjuration | V, S | Normal Action | — | Self | 1 minute (C) |
 | [Wall of Stone](/spell/level/5/wall-of-stone.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 10 minutes (C) |

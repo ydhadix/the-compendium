@@ -1,0 +1,1 @@
+| [Wall of Wind](/spell/level/3/wall-of-wind.md) | Evocation | V, S, M | Normal Action | 120 ft. | A 50-ft. × 5-ft. × 15-ft. Wall | 1 minute (C) |

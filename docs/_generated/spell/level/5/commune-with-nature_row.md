@@ -1,1 +1,1 @@
-| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | Self | — |
+| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | a 3-mile Aura, or a 300-ft. Aura while underground | — |

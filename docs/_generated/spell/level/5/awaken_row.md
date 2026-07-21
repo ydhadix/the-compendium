@@ -1,1 +1,1 @@
-| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of 3 or less, or one natural plant | — |
+| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of -4 or less, or one natural plant | — |

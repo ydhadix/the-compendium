@@ -1,1 +1,0 @@
-| [Legend Lore](/spell/level/5/legend-lore.md) | Divination | V, S, M ($C) | 10 minutes | — | Self | — |

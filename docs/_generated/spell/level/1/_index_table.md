@@ -20,7 +20,7 @@
 | [Burning Hands](/spell/level/1/burning-hands.md) | Evocation | V, S | Normal Action | Reach | Everything in a 15-ft. Cone | — |
 | [Catapult](/spell/level/1/catapult.md) | Transmutation | S | Normal Action | 60 ft. | One thing that weighs 5 pounds or less and isn't worn or carried | — |
 | [Cause Fear](/spell/level/1/cause-fear.md) | Enchantment | V | Normal Action | 60 ft. | One creature | 1 minute (C) |
-| [Caustic Brew](/spell/level/1/caustic-brew.md) | Evocation | V, S, M | Normal Action | — | Everything in a 5-ft. × 30-ft. Line | 1 minute (C) |
+| [Caustic Brew](/spell/level/1/caustic-brew.md) | Evocation | V, S, M | Normal Action | — | Everything in a 30-ft. × 5-ft. Line | 1 minute (C) |
 | [Charm Person](/spell/level/1/charm-person.md) | Enchantment | V, S | Normal Action | 30 ft. | One humanoid | 1 hour |
 | [Chromatic Orb](/spell/level/1/chromatic-orb.md) | Evocation | V, S, M ($) | Normal Action | 90 ft. | One thing | — |
 | [Color Spray](/spell/level/1/color-spray.md) | Illusion | V, S, M | Normal Action | Reach | Each creature in a 15-ft. Cone | Until the end of your next Turn |
@@ -75,7 +75,7 @@
 | [Purify Food & Drink](/spell/level/1/purify-food-and-drink.md) | Transmutation | V, S | Normal Action (R) | 10 ft. | All food and drink in a 5-ft. radius Sphere | — |
 | [Ray of Sickness](/spell/level/1/ray-of-sickness.md) | Necromancy | V, S | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
 | [Sanctuary](/spell/level/1/sanctuary.md) | Abjuration | V, S, M | Bonus Action | 30 ft. | One creature | 1 minute |
-| [Scorching Spear](/spell/level/1/scorching-spear.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 5-ft. × 30-ft. Line | — |
+| [Scorching Spear](/spell/level/1/scorching-spear.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 30-ft. × 5-ft. Line | — |
 | [Searing Smite](/spell/level/1/searing-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | 1 minute |
 | [Shield](/spell/level/1/shield.md) | Abjuration | V, S | Reaction | — | Self | Until the end of your next Turn |
 | [Shield of Faith](/spell/level/1/shield-of-faith.md) | Abjuration | V, S, M | Bonus Action | 60 ft. | One creature | 10 minutes (C) |

@@ -41,7 +41,7 @@
 | [Air Bubble](/spell/level/1/air-bubble.md) | Conjuration | S | Normal Action | 60 ft. | One creature | 24 hours |
 | [Alarm](/spell/level/1/alarm.md) | Abjuration | V, S, M | 1 minute (R) | 30 ft. | A 20-ft. Cube, one door, or one window | 8 hours |
 | [Catapult](/spell/level/1/catapult.md) | Transmutation | S | Normal Action | 60 ft. | One thing that weighs 5 pounds or less and isn't worn or carried | — |
-| [Caustic Brew](/spell/level/1/caustic-brew.md) | Evocation | V, S, M | Normal Action | — | Everything in a 5-ft. × 30-ft. Line | 1 minute (C) |
+| [Caustic Brew](/spell/level/1/caustic-brew.md) | Evocation | V, S, M | Normal Action | — | Everything in a 30-ft. × 5-ft. Line | 1 minute (C) |
 | [Color Spray](/spell/level/1/color-spray.md) | Illusion | V, S, M | Normal Action | Reach | Each creature in a 15-ft. Cone | Until the end of your next Turn |
 | [Continual Flame](/spell/level/1/continual-flame.md) | Evocation | V, S, M ($C) | Normal Action | Reach | One object | Until dispelled |
 | [Create or Destroy Water](/spell/level/1/create-or-destroy-water.md) | Transmutation | V, S, M | Normal Action | 30 ft. | Special | — |
@@ -105,6 +105,7 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
+| [Animate Objects](/spell/level/3/animate-objects.md) | Transmutation | V, S | Normal Action | 120 ft. | Up to 3 objects | 1 minute (C) |
 | [Blink](/spell/level/3/blink.md) | Transmutation | V, S | Normal Action | — | Self | 1 minute |
 | [Conjure Constructs](/spell/level/3/conjure-constructs.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 5-ft. radius Sphere | 10 minutes (C) |
 | [Create Food and Water](/spell/level/3/create-food-and-water.md) | Conjuration | V, S | Normal Action | 30 ft. | — | — |
@@ -133,9 +134,5 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Animate Objects](/spell/level/5/animate-objects.md) | Transmutation | V, S | Normal Action | 120 ft. | Up to **Spellcasting Ability** objects | 1 minute (C) |
 | [Arcane Hand](/spell/level/5/arcane-hand.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
-| [Circle of Power](/spell/level/5/circle-of-power.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
-| [Creation](/spell/level/5/creation.md) | Illusion | V, S, M | 1 minute | 30 ft. | — | Special |
-| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
 | [Wall of Stone](/spell/level/5/wall-of-stone.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 10 minutes (C) |

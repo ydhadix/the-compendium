@@ -1,1 +1,0 @@
-| [Banishing Smite](/spell/level/5/banishing-smite.md) | Conjuration | V | Bonus Action | — | The target of the Attack | 1 minute (C) |

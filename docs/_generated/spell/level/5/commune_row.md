@@ -1,1 +1,0 @@
-| [Commune](/spell/level/5/commune.md) | Divination | V, S, M | 1 minute (R) | — | Self | — |

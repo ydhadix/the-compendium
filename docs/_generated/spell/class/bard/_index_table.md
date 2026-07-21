@@ -139,22 +139,20 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Animate Objects](/spell/level/5/animate-objects.md) | Transmutation | V, S | Normal Action | 120 ft. | Up to **Spellcasting Ability** objects | 1 minute (C) |
-| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of 3 or less, or one natural plant | — |
+| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of -4 or less, or one natural plant | — |
 | [Dominate Person](/spell/level/5/dominate-person.md) | Enchantment | V, S | Normal Action | 60 ft. | One Humanoid | 1 minute (C) |
 | [Dream](/spell/level/5/dream.md) | Illusion | V, S, M | 1 minute | — | One creature you know on your plane | 8 hours |
 | [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
 | [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
 | [Hold Monster](/spell/level/5/hold-monster.md) | Enchantment | V, S, M | Normal Action | 90 ft. | One creature | 1 minute (C) |
-| [Legend Lore](/spell/level/5/legend-lore.md) | Divination | V, S, M ($C) | 10 minutes | — | Self | — |
 | [Mass Cure Wounds](/spell/level/5/mass-cure-wounds.md) | Abjuration | V, S | Normal Action | 60 ft. | Up to 6 creatures in a 30-ft. radius Sphere | — |
 | [Mislead](/spell/level/5/mislead.md) | Illusion | S | Normal Action | — | Self | 1 hour (C) |
 | [Modify Memory](/spell/level/5/modify-memory.md) | Enchantment | V, S | Normal Action | 30 ft. | One creature | 1 minute (C) |
-| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | 60 ft. | One Celestial, Elemental, Fey, or Fiend | 24 hours |
+| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | — | One Celestial, Elemental, Fey, or Fiend in a 60-ft. Aura | 24 hours |
 | [Raise Dead](/spell/level/5/raise-dead.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One non-Undead creature that died within the past 10 days | — |
 | [Regal Presence](/spell/level/5/regal-presence.md) | Enchantment | V, S, M | Normal Action | — | Each creature you choose in a 10-ft. Aura | 1 minute (C) |
 | [Scrying](/spell/level/5/scrying.md) | Divination | V, S, M ($) | 10 minutes | — | One creature or location on your plane | 10 minutes (C) |
 | [Seeming](/spell/level/5/seeming.md) | Illusion | V, S | Normal Action | 30 ft. | Each creature you choose | 8 hours |
 | [Synaptic Static](/spell/level/5/synaptic-static.md) | Enchantment | V, S | Normal Action | 120 ft. | Each creature in a 20-ft. radius Sphere | — |
 | [Telepathic Bond](/spell/level/5/telepathic-bond.md) | Divination | V, S, M | Normal Action (R) | 30 ft. | Up to 8 Allies | 1 hour |
-| [Teleportation Circle](/spell/level/5/teleportation-circle.md) | Conjuration | V, M ($C) | 1 minute | 10 ft. | — | Until the end of your next Turn |
+| [Teleportation Circle](/spell/level/5/teleportation-circle.md) | Conjuration | V, M ($C) | 1 minute | 10 ft. | a 5-ft. radius Circle | Until the end of your next Turn |

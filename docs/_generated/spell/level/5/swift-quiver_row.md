@@ -1,1 +1,0 @@
-| [Swift Quiver](/spell/level/5/swift-quiver.md) | Transmutation | V, S, M ($) | Bonus Action | — | Self | 1 minute (C) |

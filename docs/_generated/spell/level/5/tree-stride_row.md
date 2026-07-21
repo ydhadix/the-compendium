@@ -1,1 +1,0 @@
-| [Tree Stride](/spell/level/5/tree-stride.md) | Conjuration | V, S | Normal Action | — | Self | 1 minute (C) |

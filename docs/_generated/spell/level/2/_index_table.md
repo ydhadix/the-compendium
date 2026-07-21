@@ -31,7 +31,7 @@
 | [Flaming Sphere](/spell/level/2/flaming-sphere.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 5-ft. radius Sphere | 1 minute (C) |
 | [Fortune's Favor](/spell/level/2/fortunes-favor.md) | Divination | V, S, M ($C) | Normal Action | 60 ft. | One creature | 1 hour |
 | [Gentle Repose](/spell/level/2/gentle-repose.md) | Necromancy | V, S, M ($C) | Normal Action (R) | Reach | One corpse | 10 days |
-| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 10-ft. × 60-ft. Line | 1 minute (C) |
+| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 60-ft. × 10-ft. Line | 1 minute (C) |
 | [Heat Metal](/spell/level/2/heat-metal.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One metal object | 1 minute (C) |
 | [Hold Person](/spell/level/2/hold-person.md) | Enchantment | V, S, M | Normal Action | 60 ft. | One humanoid | 1 minute (C) |
 | [Immovable Object](/spell/level/2/immovable-object.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One object that weighs 10 pounds or less | 1 hour |
@@ -49,7 +49,7 @@
 | [Mind Whip](/spell/level/2/mind-whip.md) | Enchantment | V | Normal Action | 90 ft. | One creature | Until the end of the target's next Turn |
 | [Mirror Image](/spell/level/2/mirror-image.md) | Illusion | V, S | Normal Action | — | Self | 1 minute |
 | [Misty Step](/spell/level/2/misty-step.md) | Conjuration | V | Bonus Action | 30 ft. | Self | — |
-| [Moonbeam](/spell/level/2/moonbeam.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Everything in a 5-ft. radius, 40-ft. Cylinder | 1 minute (C) |
+| [Moonbeam](/spell/level/2/moonbeam.md) | Transmutation | V, S, M | Normal Action | 120 ft. | Everything in a 5-ft. radius, 40-ft. Cylinder from above | 1 minute (C) |
 | [Pass Without Trace](/spell/level/2/pass-without-trace.md) | Abjuration | V, S, M | Normal Action | — | Each creature in a 30-ft. Aura | 1 hour (C) |
 | [Phantasmal Force](/spell/level/2/phantasmal-force.md) | Illusion | V, S, M | Normal Action | 60 ft. | One creature | 1 minute (C) |
 | [Prayer of Healing](/spell/level/2/prayer-of-healing.md) | Abjuration | V | 10 minutes | 30 ft. | 5 creatures | — |

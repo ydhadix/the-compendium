@@ -1,1 +1,1 @@
-| [Hallow](/spell/level/5/hallow.md) | Abjuration | V, S, M ($C) | 24 hours | — | — | Until dispelled |
+| [Hallow](/spell/level/5/hallow.md) | Abjuration | V, S, M ($C) | 24 hours | Reach | up to a 60-ft. radius Sphere | Until dispelled |

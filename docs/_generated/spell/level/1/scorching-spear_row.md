@@ -1,1 +1,1 @@
-| [Scorching Spear](/spell/level/1/scorching-spear.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 5-ft. × 30-ft. Line | — |
+| [Scorching Spear](/spell/level/1/scorching-spear.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 30-ft. × 5-ft. Line | — |

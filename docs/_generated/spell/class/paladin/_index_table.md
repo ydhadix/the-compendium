@@ -48,10 +48,12 @@
 | [Aura of Life](/spell/level/3/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
 | [Aura of Purity](/spell/level/3/aura-of-purity.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
 | [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Normal Action | — | Each creature in a 30-ft. Aura | 1 minute (C) |
+| [Banishing Smite](/spell/level/3/banishing-smite.md) | Conjuration | V | Bonus Action | — | The target of the Attack | 1 minute (C) |
 | [Blinding Smite](/spell/level/3/blinding-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | 1 minute |
 | [Create Food and Water](/spell/level/3/create-food-and-water.md) | Conjuration | V, S | Normal Action | 30 ft. | — | — |
 | [Crusader's Mantle](/spell/level/3/crusaders-mantle.md) | Evocation | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 1 minute (C) |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
+| [Destructive Wave](/spell/level/3/destructive-wave.md) | Evocation | V | Normal Action | — | Each creature you choose in a 30-ft. Aura | — |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |
 | [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
@@ -65,11 +67,4 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Banishing Smite](/spell/level/5/banishing-smite.md) | Conjuration | V | Bonus Action | — | The target of the Attack | 1 minute (C) |
-| [Circle of Power](/spell/level/5/circle-of-power.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
-| [Destructive Wave](/spell/level/5/destructive-wave.md) | Evocation | V | Normal Action | — | Each creature you choose in a 30-ft. Aura | — |
-| [Dispel Evil and Good](/spell/level/5/dispel-evil-and-good.md) | Abjuration | V, S, M | Normal Action | — | Self | 1 minute (C) |
-| [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
-| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
-| [Raise Dead](/spell/level/5/raise-dead.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One non-Undead creature that died within the past 10 days | — |
 | [Summon Celestial](/spell/level/5/summon-celestial.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |

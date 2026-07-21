@@ -1,0 +1,1 @@
+| [Destructive Wave](/spell/level/3/destructive-wave.md) | Evocation | V | Normal Action | — | Each creature you choose in a 30-ft. Aura | — |

@@ -111,12 +111,11 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Contact Other Plane](/spell/level/5/contact-other-plane.md) | Divination | V | 1 minute (R) | — | Self | — |
 | [Dream](/spell/level/5/dream.md) | Illusion | V, S, M | 1 minute | — | One creature you know on your plane | 8 hours |
 | [Hold Monster](/spell/level/5/hold-monster.md) | Enchantment | V, S, M | Normal Action | 90 ft. | One creature | 1 minute (C) |
 | [Mislead](/spell/level/5/mislead.md) | Illusion | S | Normal Action | — | Self | 1 hour (C) |
-| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | 60 ft. | One Celestial, Elemental, Fey, or Fiend | 24 hours |
+| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | — | One Celestial, Elemental, Fey, or Fiend in a 60-ft. Aura | 24 hours |
 | [Scrying](/spell/level/5/scrying.md) | Divination | V, S, M ($) | 10 minutes | — | One creature or location on your plane | 10 minutes (C) |
-| [Storm of Radiance](/spell/level/5/storm-of-radiance.md) | Evocation | V, S, M | Normal Action | 120 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder | 1 minute (C) |
+| [Storm of Radiance](/spell/level/5/storm-of-radiance.md) | Evocation | V, S, M | Normal Action | 120 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder from above | 1 minute (C) |
 | [Synaptic Static](/spell/level/5/synaptic-static.md) | Enchantment | V, S | Normal Action | 120 ft. | Each creature in a 20-ft. radius Sphere | — |
-| [Teleportation Circle](/spell/level/5/teleportation-circle.md) | Conjuration | V, M ($C) | 1 minute | 10 ft. | — | Until the end of your next Turn |
+| [Teleportation Circle](/spell/level/5/teleportation-circle.md) | Conjuration | V, M ($C) | 1 minute | 10 ft. | a 5-ft. radius Circle | Until the end of your next Turn |

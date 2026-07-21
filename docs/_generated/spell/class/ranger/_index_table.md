@@ -41,7 +41,7 @@
 | [Barkskin](/spell/level/2/barkskin.md) | Transmutation | V, S | Bonus Action | Reach | One creature | 1 hour |
 | [Cordon of Arrows](/spell/level/2/cordon-of-arrows.md) | Transmutation | V, S, M | Normal Action (R) | Reach | Each creature in a 30-ft. radius Sphere | 8 hours |
 | [Enhance Ability](/spell/level/2/enhance-ability.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour (C) |
-| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 10-ft. × 60-ft. Line | 1 minute (C) |
+| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 60-ft. × 10-ft. Line | 1 minute (C) |
 | [Lesser Restoration](/spell/level/2/lesser-restoration.md) | Abjuration | V, S | Bonus Action | Reach | One creature | — |
 | [Locate Animals or Plants](/spell/level/2/locate-animals-or-plants.md) | Divination | V, S, M | Normal Action (R) | 5 miles | Special | 10 minutes (C) |
 | [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Normal Action (R) | 1,000 ft. | Special | 10 minutes (C) |
@@ -58,6 +58,7 @@
 |---|---|---|---|---|---|---|
 | [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Normal Action | 60 ft. | Anything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
 | [Conjure Barrage](/spell/level/3/conjure-barrage.md) | Conjuration | V, S, M | Normal Action | Reach | Each creature you choose in a 60-ft. Cone | — |
+| [Conjure Volley](/spell/level/3/conjure-volley.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Each creature you choose in a 40-ft. radius, 20-ft. Cylinder from above | — |
 | [Daylight](/spell/level/3/daylight.md) | Evocation | V, S | Normal Action | 60 ft. | A 60-ft. radius Sphere, or one object | 1 hour |
 | [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
 | [Elemental Weapon](/spell/level/3/elemental-weapon.md) | Transmutation | V, S | Normal Action | Reach | One weapon | 1 hour (C) |
@@ -72,17 +73,14 @@
 | [Scorching Stride](/spell/level/3/scorching-stride.md) | Transmutation | V, S | Bonus Action | — | Self | 1 minute (C) |
 | [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Normal Action | — | Each plant in a 30-ft. Aura | 10 minutes |
 | [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
+| [Swift Quiver](/spell/level/3/swift-quiver.md) | Transmutation | V, S, M ($) | Bonus Action | — | Self | 1 minute (C) |
+| [Tree Stride](/spell/level/3/tree-stride.md) | Conjuration | V, S | Normal Action | — | Self | 1 minute (C) |
+| [Wall of Wind](/spell/level/3/wall-of-wind.md) | Evocation | V, S, M | Normal Action | 120 ft. | A 50-ft. × 5-ft. × 15-ft. Wall | 1 minute (C) |
 | [Water Breathing](/spell/level/3/water-breathing.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 24 hours |
 | [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Normal Action (R) | 30 ft. | Up to ten creatures | 1 hour |
-| [Wind Wall](/spell/level/3/wind-wall.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 1 minute (C) |
 
 ## 5th-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | Self | — |
-| [Conjure Volley](/spell/level/5/conjure-volley.md) | Conjuration | V, S, M | Normal Action | 150 ft. | Each creature you choose in a 40-ft. radius, 20-ft. Cylinder | — |
-| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
-| [Steel Wind Strike](/spell/level/5/steel-wind-strike.md) | Conjuration | S, M | Normal Action | 30 ft. | Up to 5 creatures | — |
-| [Swift Quiver](/spell/level/5/swift-quiver.md) | Transmutation | V, S, M ($) | Bonus Action | — | Self | 1 minute (C) |
-| [Tree Stride](/spell/level/5/tree-stride.md) | Conjuration | V, S | Normal Action | — | Self | 1 minute (C) |
+| [Commune with Nature](/spell/level/5/commune-with-nature.md) | Divination | V, S | 1 minute (R) | — | a 3-mile Aura, or a 300-ft. Aura while underground | — |
