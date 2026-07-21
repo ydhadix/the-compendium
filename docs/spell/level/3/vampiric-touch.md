@@ -22,7 +22,7 @@ You make a Melee Spell Attack against one creature within Reach.
 Magic Action
 { .subtitle }
 
-You repeat the Attack against a creature within Reach.
+You repeat the Attack _(you can choose a new target)_.
 
 ##### At Higher Levels
 Add **1d6** damage per additional Spell Level.

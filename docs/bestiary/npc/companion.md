@@ -17,4 +17,4 @@ Your Companions use your Character Level and Proficiency Bonus in their stat blo
 ### Communication
 Your Companions understand every language you speak, and some can speak those languages as well. A Companion may also know languages of its own.
 
-While within **120** feet of a Companion, you can communicate with it telepathically.
+You gain **120** feet of Telepathy with your Companions.

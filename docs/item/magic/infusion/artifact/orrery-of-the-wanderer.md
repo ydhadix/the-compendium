@@ -32,7 +32,7 @@ The chassis knows all Standard languages, Celestial, Deep Speech, and Gith, but 
 ???
 
 #### Dimensional Radio
-The chassis and all creatures Attuned to a component can communicate telepathically by broadcasting to each other creature.
+The chassis and all creatures Attuned to a component gain Telepathy with each other.
 
 #### Master of Travel
 ???
