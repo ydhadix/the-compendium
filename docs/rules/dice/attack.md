@@ -5,10 +5,17 @@ An Attack Roll decides whether a strike finds its mark, measuring a creature's a
 When you Attack, an Attack Roll determines whether the Attack hits.  To hit, your total must equal or exceed the target's Armor Class.
 
 ### Making an Attack
-1. **Declare the attack.** Choose a target within your attack's Range.
-2. **Determine modifiers.** Abilities, Proficiency, Cover, and other effects can add bonuses, penalties, Advantage, or Disadvantage to the Attack Roll.
-3. **Determine if the attack hits.** Roll as with any D20 Test. If your total equals or exceeds the target's Armor Class, the attack hits.
-4. **Resolve the attack's effects.** When an Attack hits, you usually make a Damage Roll. The weapon, Spell, or feature you used describes the dice and the Damage Type.
+#### 1. Declare the attack.
+Choose a target within your attack's Range.
+
+#### 2. Determine modifiers.
+Abilities, Proficiency, Cover, and other effects can add bonuses, penalties, Advantage, or Disadvantage to the Attack Roll.
+
+#### 3. Determine if the attack hits.
+Roll the d20 and add your modifiers. If the total equals or exceeds the target's Armor Class, the attack hits.
+
+#### 4. Resolve the attack's effects.
+After an Attack hits, you usually make a Damage Roll. The weapon, Spell, or feature you used describes the Damage Dice and the Damage Type.
 
 #### Types of Attacks
 Every attack is a Weapon or Spell attack, and either Melee or Ranged. These qualities set the attack's Range and the Ability you add to its Attack Roll and Damage Roll.

@@ -30,7 +30,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Action](/rules/adventure/action.md) | Action |
 | [Advantage](/rules/dice/index.md#advantage-disadvantage) | Dice Roll |
 | [Adventure](/rules/adventure/index.md) | Adventuring |
-| [Adventuring Gear](/item/gear/index.md) | Item |
+| [Adventuring Gear](/item/gear/index.md) | Item Index |
 | [Air Quality](/rules/adventure/hazard.md#air-quality) | Hazard |
 | [Alignment](/bestiary/trait/alignment.md) | Alignment |
 | [Ally](/bestiary/npc/disposition.md) | Disposition |
@@ -42,7 +42,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Arcana](/bestiary/trait/skill.md) | Skill |
 | [Arcane Focus](/item/gear/spell-focus/arcane-focus.md) | Spellcasting Focus |
 | [Area of Effect](/rules/position/area.md) | Area of Effect |
-| [Armor](/item/armor/index.md) | Armor |
+| [Armor](/item/armor/index.md) | Item Index |
 | [Armor Class](/bestiary/trait/defense.md#armor-class) | Defense |
 | [Artifact](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
 | [Artificer](/character/class/artificer/index.md) | Class |
@@ -56,6 +56,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 ## B
 | Keyword | Location |
 |---|---|
+| [Background](/character/background.md) | Hero Handbook |
 | [Barbarian](/character/class/barbarian/index.md) | Class |
 | [Bard](/character/class/bard/index.md) | Class |
 | [Bastion](/bastion/index.md) | Bastion |
@@ -65,6 +66,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Bleeding](/rules/adventure/condition.md#bleeding) | Condition |
 | [Blindness](/rules/adventure/condition.md#blindness) | Condition |
 | [Blindsight](/bestiary/trait/sense.md#blindsight) | Sense |
+| [Bloodied](/bestiary/trait/defense.md#bloodied) | Defense |
 | [Bludgeoning](/rules/dice/damage.md#physical-damage) | Physical Damage Type |
 | [Bonus Action](/rules/adventure/action.md#bonus-actions) | Action |
 | [Boots](/item/index.md#clothing-types) | Clothing Type |
@@ -86,7 +88,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Charge](/item/magic/index.md#charges) | Infusion |
 | [Charisma](/bestiary/trait/ability.md#the-six-abilities) | Ability |
 | [Charm](/rules/adventure/condition.md#charm) | Condition |
-| [Class](/character/class/index.md) | Class |
+| [Class](/character/class/index.md) | Hero Handbook |
 | [Class Level](/character/class/index.md#leveling-up) | Class |
 | [Class List](/spell/parts.md#class-list) | Spellcasting |
 | [Cleave](/item/weapon/mastery/index.md#cleave) | Weapon Mastery |
@@ -121,18 +123,20 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Corrosion](/rules/adventure/condition.md#corrosion) | Condition |
 | [Cost](/item/index.md) | Item |
 | [Cover](/rules/position/cover.md) | Cover |
+| [Crafting](/item/crafting.md) | Item Index |
 | [Cramped](/bastion/index.md) | Bastion Size |
 | [Creature Type](/bestiary/type/index.md) | Creature Type |
 | [Critical Hit](/rules/dice/critical.md) | Critical Hit |
 | [Crossbow](/item/weapon/type.md#simple-weapons) | Simple Weapon Type |
 | [Cube](/rules/position/area.md) | Area of Effect |
-| [Currency](/item/currency.md) | Currency |
+| [Currency](/item/currency.md) | Item Index |
 | [Cursed](/item/magic/index.md) | Magic Item |
 | [Cylinder](/rules/position/area.md) | Area of Effect |
 
 ## D
 | Keyword | Location |
 |---|---|
+| [D20 Test](/rules/dice/index.md#d20-tests) | Dice Roll |
 | [Damage Die](/rules/dice/damage.md#making-a-damage-roll) | Damage Roll |
 | [Damage Reduction](/bestiary/trait/defense.md#damage-reduction) | Defense |
 | [Damage Roll](/rules/dice/damage.md) | Dice Roll |
@@ -205,7 +209,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Falling](/rules/position/movement.md#falling) | Movement |
 | [Familiar](/bestiary/npc/familiar.md) | NPC |
 | [Fear](/rules/adventure/condition.md#fear) | Condition |
-| [Feat](/character/feat/index.md) | Feat |
+| [Feat](/character/feat/index.md) | Hero Handbook |
 | [Feature](/character/index.md#features) | Character |
 | [Feature Ability](/character/class/index.md#feature-ability) | Class |
 | [Fence](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
@@ -251,6 +255,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Halfling](/character/race/halfling.md) | Race |
 | [Hammer](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
 | [Hat](/item/index.md#clothing-types) | Clothing Type |
+| [Hazard](/rules/adventure/hazard.md) | Adventuring |
 | [Heavily Obscured](/rules/position/lighting.md#obscurement) | Visibility |
 | [Heavy](/item/weapon/property/index.md#heavy) | Weapon Property |
 | [Heavy](/item/armor/index.md) | Armor Weight |
@@ -318,6 +323,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Lightly Obscured](/rules/position/lighting.md#obscurement) | Visibility |
 | [Lightning](/rules/dice/damage.md#elemental-damage) | Elemental Damage Type |
 | [Line](/rules/position/area.md) | Area of Effect |
+| [Line of Effect](/rules/position/target.md#line-of-effect) | Target |
 | [Loading](/item/weapon/property/index.md#loading) | Weapon Property |
 | [Long Jump](/rules/position/movement.md#long-jump) | Movement |
 | [Long Range](/rules/dice/attack.md#ranged-attacks) | Attack Range |
@@ -328,12 +334,13 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | Keyword | Location |
 |---|---|
 | [Magic](/rules/adventure/action.md#magic) | Action |
-| [Magic Item](/item/magic/index.md) | Magic Item |
+| [Magic Item](/item/magic/index.md) | Item Index |
 | [Magical Darkness](/rules/position/lighting.md#magical-darkness) | Visibility |
 | [Maneuver](/spelljammer/officer/pilot/index.md) | Spelljammer |
 | [Marked](/rules/adventure/condition.md#marked) | Condition |
 | [Martial Weapon](/item/weapon/type.md#martial-weapons) | Weapon Type |
-| [Material](/item/material/index.md) | Item Material |
+| [Masterwork](/item/masterwork.md) | Item Index |
+| [Material](/item/material/index.md) | Item Index |
 | [Material](/spell/parts.md#material) | Spell Component |
 | [Medicine](/bestiary/trait/skill.md) | Skill |
 | [Medium](/bestiary/trait/size.md) | Size Category |
@@ -367,6 +374,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | Keyword | Location |
 |---|---|
 | [Object Action](/rules/adventure/action.md#object-action) | Action |
+| [Obscurement](/rules/position/lighting.md#obscurement) | Visibility |
 | [Officer](/spelljammer/officer/index.md) | Spelljammer |
 | [Ooze](/bestiary/type/index.md) | Creature Type |
 | [Opportunity Attack](/rules/adventure/action.md#opportunity-attacks) | Reaction |
@@ -381,6 +389,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 |---|---|
 | [Paladin](/character/class/paladin/index.md) | Class |
 | [Paralysis](/rules/adventure/condition.md#paralysis) | Condition |
+| [Passive Check](/rules/dice/check.md#passive-checks) | Ability Checks |
 | [Perception](/bestiary/trait/skill.md) | Skill |
 | [Performance](/bestiary/trait/skill.md) | Skill |
 | [Persuasion](/bestiary/trait/skill.md) | Skill |
@@ -418,7 +427,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 ## R
 | Keyword | Location |
 |---|---|
-| [Race](/character/race/index.md) | Race |
+| [Race](/character/race/index.md) | Hero Handbook |
 | [Radiant](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage Type |
 | [Range](/rules/position/target.md#range) | Target |
 | [Ranged Attack](/rules/dice/attack.md#ranged-attacks) | Attack Roll |
@@ -432,9 +441,11 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Ready](/rules/adventure/action.md#ready) | Action |
 | [Reflex](/rules/dice/save.md#core-saves) | Saving Throw |
 | [Religion](/bestiary/trait/skill.md) | Skill |
+| [Reroll](/rules/dice/index.md#rerolls) | Dice Roll |
 | [Resistance](/bestiary/trait/defense.md#resistance) | Defense |
 | [Restraint](/rules/adventure/condition.md#restraint) | Condition |
 | [Retreat Range](/spelljammer/encounter.md#encounter-scale) | Spelljammer Engagement Range |
+| [Ritual](/spell/parts.md#rituals) | Casting Time |
 | [Rogue](/character/class/rogue/index.md) | Class |
 | [Roomy](/bastion/index.md) | Bastion Size |
 | [Round](/rules/adventure/encounter.md#rounds-and-turns) | Initiative |
@@ -460,6 +471,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Skill](/bestiary/trait/skill.md) | Skill |
 | [Skyliner](/spelljammer/creation/base/skyliner.md) | Spelljammer Ship |
 | [Slashing](/rules/dice/damage.md#physical-damage) | Physical Damage Type |
+| [Sleep Deprivation](/rules/adventure/rest.md#sleep-deprivation) | Rest |
 | [Sling](/item/weapon/type.md#simple-weapons) | Simple Weapon Type |
 | [Slow](/item/weapon/mastery/index.md#slow) | Weapon Mastery |
 | [Small](/bestiary/trait/size.md) | Size Category |
@@ -470,6 +482,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Spell Attack](/spell/index.md) | Spellcasting |
 | [Spell Save DC](/spell/index.md) | Spellcasting |
 | [Spell Slot](/spell/casting.md#spell-slots) | Spellcasting |
+| [Spellcaster Level](/spell/casting.md#spellcaster-level) | Spellcasting |
 | [Spellcasting Ability](/spell/casting.md#spellcasting-ability) | Spellcasting |
 | [Spellcasting Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus |
 | [Spelljammer](/spelljammer/creation/base/index.md) | Spelljammer Ship |
@@ -477,6 +490,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Sphere](/rules/position/area.md) | Area of Effect |
 | [Spider Climb Speed](/bestiary/trait/speed.md#spider-climb) | Speed |
 | [Square](/rules/position/area.md) | Area of Effect |
+| [Squeezing](/rules/position/movement.md#squeezing) | Movement |
 | [Stable](/rules/adventure/condition.md#stable) | Condition |
 | [Staff](/item/weapon/type.md#simple-weapons) | Simple Weapon Type |
 | [Standard](/bestiary/trait/language.md#standard-languages) | Language |
@@ -510,7 +524,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 | [Tiny](/bestiary/trait/size.md) | Size Category |
 | [Tool](/item/index.md#item-types) | Item Type |
 | [Topple](/item/weapon/mastery/index.md#topple) | Weapon Mastery |
-| [Trade](/item/index.md) | Item |
+| [Trade](/item/index.md) | Item Index |
 | [Trait](/bestiary/trait/index.md) | Trait |
 | [Transmutation](/spell/parts.md#school-of-magic) | School of Magic |
 | [Travel Rest](/rules/adventure/rest.md#travel-rest) | Rest |
@@ -549,7 +563,7 @@ Every keyword in the Compendium, gathered into a single alphabetical index. Each
 |---|---|
 | [Wall](/rules/position/area.md) | Area of Effect |
 | [Warlock](/character/class/warlock/index.md) | Class |
-| [Weapon](/item/weapon/index.md) | Weapon |
+| [Weapon](/item/weapon/index.md) | Item Index |
 | [Weapon Mastery](/item/weapon/mastery/index.md) | Weapon Mastery |
 | [Weapon Property](/item/weapon/property/index.md) | Weapon Property |
 | [Will](/rules/dice/save.md#core-saves) | Saving Throw |

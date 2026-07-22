@@ -20,6 +20,9 @@ The Armor you wear usually determines your Armor Class, though many effects gran
 ### Hit Points
 Hit Points represent a creature's physical health, luck, stamina, and resolve.  When you take damage, you lose that many Hit Points; when you heal, you regain them, up to your Hit Point Maximum. At **0** Hit Points, you are Downed — or Stable, if a [Nonlethal Attack](../../rules/dice/attack.md#nonlethal-attacks) reduced you.
 
+#### Bloodied
+While your Hit Points are half your Hit Point Maximum or lower, you are Bloodied. Being Bloodied has no effect on its own, but some effects grow stronger against a Bloodied creature or trigger when a creature becomes Bloodied.
+
 #### Hit Dice
 Your Hit Dice are a reserve of latent health. You can't draw on them freely — only certain effects let you spend or restore them, most often Resting.
 
