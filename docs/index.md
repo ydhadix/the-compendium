@@ -7,7 +7,6 @@ banner: campaign/aeneas.png
 | |
 |---|
 | [Rules Rolodex](rules/index.md) |
-| [Character Creation](creation.md) |
 | [Hero Handbook](character/index.md) |
 | [Item Index](item/index.md) |
 | [Spell Selection](spell/index.md) |

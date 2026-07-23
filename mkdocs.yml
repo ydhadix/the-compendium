@@ -110,8 +110,6 @@ nav:
         - Visibility:               rules/position/visibility.md
         - Targeting:                rules/position/target.md
 
-    - Character Creation:           creation.md
-
     - Hero Handbook:
       - Character Overview:         character/index.md
       - Backgrounds:                character/background.md
