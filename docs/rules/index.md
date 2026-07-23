@@ -291,7 +291,7 @@
 | [Incapacitated](/rules/adventure/condition.md#incapacitated) | Condition |
 | [Independent](/bestiary/npc/disposition.md) | Disposition |
 | [Infernal](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
-| [Infusion](/item/magic/index.md#infusions) | Magic Item |
+| [Infusion](/item/magic/index.md#infusing-items) | Magic Item |
 | [Initiative](/rules/adventure/encounter.md#initiative-order) | Encounter |
 | [Initiative Order](/rules/adventure/encounter.md#initiative-order) | Encounter |
 | [Insight](/bestiary/trait/skill.md) | Skill |
@@ -439,7 +439,7 @@
 | [Ranged Weapon](/item/weapon/index.md#melee-and-ranged-weapons) | Weapon |
 | [Ranger](/character/class/ranger/index.md) | Class |
 | [Rare](/item/magic/infusion/rare/index.md) | Infusion Rarity |
-| [Rarity](/item/magic/index.md#infusions) | Infusion |
+| [Rarity](/item/magic/index.md) | Infusion |
 | [Reach](/bestiary/trait/reach.md) | Reach |
 | [Reach](/item/weapon/property/index.md#reach) | Weapon Property |
 | [Reaction](/rules/adventure/action.md#reactions) | Action |

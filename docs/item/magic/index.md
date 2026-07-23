@@ -2,9 +2,6 @@
 **Magic Items** are ordinary gear powered by **Infusions**, magical properties beyond what mundane craftsmanship can achieve.
 { .subtitle }
 
-## Infusions
-A Magic Item can have up to **2** Infusions at a time, and only **1** of them can require Attunement.
-
 | |
 |---|
 | [Common](infusion/common/index.md) |
@@ -19,7 +16,8 @@ A Magic Item can have up to **2** Infusions at a time, and only **1** of them ca
 [Attunement](#attunement) · 
 [Charges](#charges) · 
 [Command Words](#command-words) · 
-[Cursed Items](#cursed-items)
+[Cursed Items](#cursed-items) · 
+[Infusing Items](#infusing-items)
 { .keyword-jump }
 
 ## Using Magic Items
@@ -60,3 +58,32 @@ A **Command Word** is a word or phrase you must audibly speak aloud to use some 
 
 ### Cursed Items
 A **Cursed** item has a hidden, detrimental effect. Most methods of identifying items don't reveal curses, and you can't voluntarily end your Attunement to it without _Remove Curse_ or similar magic.
+
+### Infusing Items
+**Infusing** is how a character weaves magic into an item.  An item can have up to **2** Infusions at a time, and only **1** of them can require Attunement.
+
+#### Requirements
+You can only infuse an item if you have Proficiency in Arcana and, if the Infusion casts or replicates any Spells, know those spells each day you spend infusing the item.
+
+#### Time and Cost
+The Cost of infusing an item is paid in raw materials and time based on the Infusion's Rarity. Consumable items require half as much time and gold.
+
+| Rarity | Time | Cost |
+|---|---|---|
+| Common | **5** days | **50** gold |
+| Uncommon | **10** days | **200** gold |
+| Rare | **50** days | **2,000** gold |
+| Very Rare | **125** days | **20,000** gold |
+| Legendary | **250** days | **100,000** gold |
+
+Every day of infusing requires **8** hours of work, but the total hours and days don't need to be consecutive.
+
+###### Working Together
+You can work with others to shorten the infusing time, provided each contributor has the appropriate Proficiencies and Spells. Each contributor reduces the total time as though they were working independently.
+
+#### Removing Infusions
+You can permanently remove an Infusion from a Magic Item with **8** hours of work, provided you have Proficiency in Arcana and know _Dispel Magic_. Cursed and Artifact Infusions can't be removed without special methods unique to the item.
+
+#### Transferring Infusions
+You can transfer an Infusion to another appropriate item, provided you have Proficiency in Arcana. Doing so costs no gold and takes half the time a new Infusion of the same Rarity would take.
+

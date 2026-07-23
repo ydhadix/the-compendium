@@ -12,7 +12,7 @@
 [Consumables](#consumable-items) · 
 [Currency](#currency) · 
 [Crafting Items](#crafting-items) · 
-[Masterwork](#masterwork) · 
+[Masterwork](#masterwork)
 { .keyword-jump }
 
 ## Using Equipment
@@ -57,7 +57,7 @@ Coins come in four metals of increasing worth.  Some settings may have different
 | Platinum | **10** gold |
 
 #### Exchange
-Coins convert at a decimal scale: **100** copper equal **10** silver equal **1** gold, and **10** gold equal **1** platinum.
+Coins convert at a decimal scale: **1** gold = **10** silver = **100** copper, and **10** gold = **1** platinum.
 
 
 ### Crafting Items
@@ -72,7 +72,7 @@ The Cost of crafting an item is paid in raw materials and time based on the item
 Every day of crafting requires **8** hours of work, but the total hours and days don't need to be consecutive.
 
 ###### Working Together
-You can work with other characters to shorten the crafting time, provided each character has the appropriate Proficiencies.  Each character's contribution reduces the total time as though they were working independently.
+You can work with others to shorten the crafting time, provided each contributor has the appropriate Proficiencies. Each contributor reduces the total time as though they were working independently.
 
 ### Masterwork
 **Masterwork** items have exceptional craftsmanship that gives a bonus to attacks, defenses, or spellcasting.
