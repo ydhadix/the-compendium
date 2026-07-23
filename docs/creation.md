@@ -1,6 +1,4 @@
 # Character Creation
-Character Creation walks a player through building a hero from scratch, choosing the abilities, race, background, and class that define who they are.
-{ .subtitle }
 
 ### 1. Choose Abilities
 Your Abilities start at **0**, the baseline for a typical person. When you create your character, choose **4** Abilities to increase by **1** each.

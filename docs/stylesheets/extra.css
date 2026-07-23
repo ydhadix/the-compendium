@@ -84,7 +84,7 @@
      levels. Left is larger so the content clears the panel's soft left gradient. */
   --pm-nav-pad-l:      0.4rem;
   --pm-nav-pad-r:      0.4rem;
-  --pm-content-pad-top: 3.5rem;   /* text inset from the panel top */
+  --pm-content-pad-top: 1.0rem;   /* text inset from the panel top */
 
   /* Derived: inset ramps pad-min -> pad-max across 60em..80.6em (slope ~0.2427). */
   --pm-pad:      clamp(var(--pm-pad-min),
@@ -219,7 +219,10 @@ body {
 .md-content__inner {
   max-width: var(--pm-col);
   margin: 0 auto 3rem;
-  padding-top: var(--pm-content-pad-top);
+  /* padding-top: var(--pm-content-pad-top); */
+  padding-top: clamp(var(--pm-content-pad-top),
+                       calc(var(--pm-content-pad-top) + (100vw - 60rem) * 0.1213),
+                       calc(var(--pm-pad-max)/2.0));
 }
 /* Fill .md-main down to the footer; drop Material's top margin. */
 .md-main__inner {
@@ -1041,8 +1044,8 @@ body {
   font-size: 0.8rem;
   line-height: 1.9;
   text-align: center;
-  background-color: var(--clr-card-bg);
-  border: 3px solid var(--clr-divider);
+  background-color: var(--clr-page-bg);
+  border: 3px solid var(--clr-accent);
   border-radius: 4px;
   /* display: inline-block; */
   min-width: 1.4em;
@@ -1088,23 +1091,34 @@ body {
 /* keep heading close to card top */
 .subcard > h5:first-child { margin-top: 0; padding-top: 0; }
 
-/* Mobile (< 60em): bleed cards and subcards to the viewport edges. Below 60em
-   the content inset equals --pm-pad-min (the clamp floors there), so a negative
-   margin of that size reaches the screen edge; an equal padding then restores
-   the card's interior text to the normal body inset. */
+/* Mobile (< 60em): bleed cards to the viewport edges. Below 60em the content
+   inset equals --pm-pad-min (the clamp floors there), so a negative margin of
+   that size reaches the screen edge; an equal padding then restores the card's
+   interior to the normal body inset.
+
+   Top-level cards, subcards, and the keyword-jump bar all bleed by the SAME
+   amount, so their borders line up at the viewport edge — mirroring desktop,
+   where they line up at the content column. A subcard nested in a card gets no
+   bleed: it insets from the card's interior just as on desktop, so nesting is
+   the only thing that makes a card smaller. */
 @media screen and (max-width: 59.9375em) {
-  .card {
-    margin-left: calc(-3/4 * var(--pm-pad-min));
-    margin-right: calc(-3/4 * var(--pm-pad-min));
-    padding-left: calc(3/4 * var(--pm-pad-min));
+  .card,
+  .subcard,
+  .md-typeset .keyword-jump {
+    margin-left:   calc(-3/4 * var(--pm-pad-min));
+    margin-right:  calc(-3/4 * var(--pm-pad-min));
+    padding-left:  calc(3/4 * var(--pm-pad-min));
     padding-right: calc(3/4 * var(--pm-pad-min));
   }
-  .subcard {
-    margin-bottom: 0;
-    margin-left: calc(-2/4 * var(--pm-pad-min));
-    margin-right: calc(-2/4 * var(--pm-pad-min));
-    padding-left: calc(2/4 * var(--pm-pad-min));
-    padding-right: calc(2/4 * var(--pm-pad-min));
+  .subcard { margin-bottom: 0; }
+
+  /* Nested subcard: drop the bleed so its border insets from the parent card's
+     interior; restore the base horizontal padding it would have on desktop. */
+  .card .subcard {
+    margin-left:   0;
+    margin-right:  0;
+    padding-left:  0.75rem;
+    padding-right: 0.75rem;
   }
   /* Bleed wide tables to the viewport edges. When tables.js has wrapped the
      scroller the bleed lives on .pm-tablewrap (so the scroll-shadow overlays,
