@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Wizard |
 | Components | V, S, M _(a diamond worth 50 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | One thing |
 | Duration | — |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid, Paladin, Ranger, Sorcerer |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | A 60-ft. radius Sphere, or one object |
 | Duration | 1 hour |

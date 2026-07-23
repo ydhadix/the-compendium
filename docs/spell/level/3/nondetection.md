@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Ranger, Wizard |
 | Components | V, S, M _(consumes diamond dust worth 25 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature, place, or object no larger than **10** feet |
 | Duration | 8 hours |

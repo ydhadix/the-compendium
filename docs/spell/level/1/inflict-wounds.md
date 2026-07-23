@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One thing |
 | Duration | — |

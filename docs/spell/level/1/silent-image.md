@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | — |
 | Duration | 10 minutes (Concentration) |

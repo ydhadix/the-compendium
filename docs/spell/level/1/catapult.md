@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Sorcerer, Wizard |
 | Components | S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | One thing that weighs 5 pounds or less and isn't worn or carried |
 | Duration | — |

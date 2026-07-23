@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Sorcerer, Warlock, Wizard |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 300 ft. |
 | Target | One creature |
 | Duration | 1 minute (Concentration) |

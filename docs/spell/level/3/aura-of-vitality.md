@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid, Paladin |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Each creature in a 30-ft. Aura |
 | Duration | 1 minute (Concentration) |

@@ -1,1 +1,1 @@
-| [Immovable Object](/spell/level/2/immovable-object.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One object that weighs 10 pounds or less | 1 hour |
+| [Immovable Object](/spell/level/2/immovable-object.md) | Transmutation | V, S, M ($C) | Magic Action | Reach | One object that weighs 10 pounds or less | 1 hour |

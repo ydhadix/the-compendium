@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | Everything in a 30-ft. × 10-ft. Line |
 | Duration | — |

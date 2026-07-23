@@ -1,1 +1,1 @@
-| [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
+| [Summon Fey](/spell/level/3/summon-fey.md) | Conjuration | V, S, M ($) | Magic Action | 90 ft. | — | 1 hour (C) |

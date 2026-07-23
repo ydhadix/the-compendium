@@ -1,1 +1,1 @@
-| [Comprehend Languages](/spell/level/1/comprehend-languages.md) | Divination | V, S, M | Normal Action (R) | — | Self | 1 hour |
+| [Comprehend Languages](/spell/level/1/comprehend-languages.md) | Divination | V, S, M | Magic Action (R) | — | Self | 1 hour |

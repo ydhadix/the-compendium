@@ -1,1 +1,1 @@
-| [Booming Blade](/spell/level/0/booming-blade.md) | Evocation | S, M | Normal Action | The material component's Reach | One thing | Until the end of your next Turn |
+| [Booming Blade](/spell/level/0/booming-blade.md) | Evocation | S, M | Magic Action | The material component's Reach | One thing | Until the end of your next Turn |

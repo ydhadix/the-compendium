@@ -1,1 +1,1 @@
-| [Summon Beast](/spell/level/2/summon-beast.md) | Conjuration | V, S, M ($) | Normal Action | 90 ft. | — | 1 hour (C) |
+| [Summon Beast](/spell/level/2/summon-beast.md) | Conjuration | V, S, M ($) | Magic Action | 90 ft. | — | 1 hour (C) |

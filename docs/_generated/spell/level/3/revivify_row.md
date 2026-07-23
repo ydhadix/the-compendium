@@ -1,1 +1,1 @@
-| [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Normal Action | Reach | One creature that died within the past minute | — |
+| [Revivify](/spell/level/3/revivify.md) | Necromancy | V, S, M ($C) | Magic Action | Reach | One creature that died within the past minute | — |

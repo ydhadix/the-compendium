@@ -1,1 +1,1 @@
-| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One creature | — |
+| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | One creature | — |

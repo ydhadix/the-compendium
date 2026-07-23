@@ -1,1 +1,1 @@
-| [Chromatic Orb](/spell/level/1/chromatic-orb.md) | Evocation | V, S, M ($) | Normal Action | 90 ft. | One thing | — |
+| [Chromatic Orb](/spell/level/1/chromatic-orb.md) | Evocation | V, S, M ($) | Magic Action | 90 ft. | One thing | — |

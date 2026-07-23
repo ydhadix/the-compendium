@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | One magical effect or thing |
 | Duration | — |

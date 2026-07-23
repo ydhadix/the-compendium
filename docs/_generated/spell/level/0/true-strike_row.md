@@ -1,1 +1,1 @@
-| [True Strike](/spell/level/0/true-strike.md) | Divination | S, M | Normal Action | The material component's Reach or Range | One thing | — |
+| [True Strike](/spell/level/0/true-strike.md) | Divination | S, M | Magic Action | The material component's Reach or Range | One thing | — |

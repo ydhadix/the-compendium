@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Anything you choose in a 10-ft. Aura |
 | Duration | 10 minutes (Concentration) |

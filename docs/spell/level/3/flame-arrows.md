@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Druid, Ranger, Sorcerer, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One quiver |
 | Duration | 1 hour (Concentration) |

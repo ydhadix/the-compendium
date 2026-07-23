@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Cleric, Druid, Wizard |
 | Components | V, S, M _(consumes ruby dust worth 50 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One object |
 | Duration | Until dispelled |

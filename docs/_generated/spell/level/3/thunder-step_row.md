@@ -1,1 +1,1 @@
-| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Normal Action | 90 ft. | Everything in a 10-ft. Aura | — |
+| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Magic Action | 90 ft. | Everything in a 10-ft. Aura | — |

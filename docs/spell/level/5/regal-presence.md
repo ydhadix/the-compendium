@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Wizard |
 | Components | V, S, M _(a miniature tiara)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Each creature you choose in a 10-ft. Aura |
 | Duration | 1 minute (Concentration) |

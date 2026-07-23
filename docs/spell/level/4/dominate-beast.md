@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Sorcerer |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | One Beast |
 | Duration | 1 minute (Concentration) |

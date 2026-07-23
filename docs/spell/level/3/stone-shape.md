@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Cleric, Druid, Wizard |
 | Components | V, S, M _(soft clay)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One Medium or smaller stone object, or a 5-ft. section of stone |
 | Duration | — |

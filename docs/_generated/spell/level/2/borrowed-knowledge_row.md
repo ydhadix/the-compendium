@@ -1,1 +1,1 @@
-| [Borrowed Knowledge](/spell/level/2/borrowed-knowledge.md) | Divination | V, S, M ($) | Normal Action | — | Self | 1 hour |
+| [Borrowed Knowledge](/spell/level/2/borrowed-knowledge.md) | Divination | V, S, M ($) | Magic Action | — | Self | 1 hour |

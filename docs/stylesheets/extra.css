@@ -1055,6 +1055,16 @@ body {
   font-weight: 700;
 } */
 
+/* Anchor targets on a keyword-jump page must clear the sticky header AND the
+   sticky jump bar, or they land hidden behind the bar. Material's default
+   :target scroll-margin (3.6rem) only clears the header. --pm-jump-offset is
+   measured at runtime by keywordjump.js (header + bar height + gap); the 6rem
+   fallback covers a single-line bar before/without that JS. Higher specificity
+   than Material's own .md-typeset :target rule, so this wins. */
+.md-typeset:has(.keyword-jump) :target {
+  scroll-margin-top: var(--pm-jump-offset, 6rem);
+}
+
 /* Cards (h2-level sections) and subcards (h5-level entries). */
 .card {
   border: 2px solid var(--clr-accent);

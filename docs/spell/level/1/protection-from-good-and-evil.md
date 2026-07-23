@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid, Paladin, Warlock, Wizard |
 | Components | V, S, M _(consumes holy water worth 25 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature |
 | Duration | 10 minutes (Concentration) |

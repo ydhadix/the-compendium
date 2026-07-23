@@ -1,1 +1,1 @@
-| [Hold Monster](/spell/level/5/hold-monster.md) | Enchantment | V, S, M | Normal Action | 90 ft. | One creature | 1 minute (C) |
+| [Hold Monster](/spell/level/5/hold-monster.md) | Enchantment | V, S, M | Magic Action | 90 ft. | One creature | 1 minute (C) |

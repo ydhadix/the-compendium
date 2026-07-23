@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | Everything in a 15-ft. Cone |
 | Duration | — |

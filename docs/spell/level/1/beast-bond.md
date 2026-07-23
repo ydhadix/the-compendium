@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Ranger |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One Allied Beast |
 | Duration | 10 minutes (Concentration) |

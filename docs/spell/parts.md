@@ -10,7 +10,7 @@ Every Spell is built from the same set of parts, the details that define what it
 | [Casting Time](#casting-time) | How long the Spell takes to cast. |
 | [Components](#components) | What a caster must supply to cast it. |
 | [Range](../rules/position/target.md#range) | How far the Spell's effect can reach. |
-| [Targets](../rules/position/target.md) | What the Spell can be cast upon; sometimes including an [Area](../rules/position/area.md). |
+| [Targets](../rules/position/target.md) | What the Spell can be cast upon; sometimes including an Area. |
 | [Duration](#duration) | How long the Spell's effect lasts. |
 | [Concentration](#concentration) | Focus a caster must hold to sustain a Spell. |
 

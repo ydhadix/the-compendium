@@ -1,1 +1,1 @@
-| [Detect Good and Evil](/spell/level/1/detect-good-and-evil.md) | Divination | V, S | Normal Action | 30 ft. | Self | 10 minutes (C) |
+| [Detect Good and Evil](/spell/level/1/detect-good-and-evil.md) | Divination | V, S | Magic Action | 30 ft. | Self | 10 minutes (C) |

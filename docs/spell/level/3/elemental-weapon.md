@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Druid, Paladin, Ranger |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One weapon |
 | Duration | 1 hour (Concentration) |

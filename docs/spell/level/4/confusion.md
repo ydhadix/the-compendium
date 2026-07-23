@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid, Sorcerer, Wizard |
 | Components | V, S, M _(three nut shells)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | Everything in a 10-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |

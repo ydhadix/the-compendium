@@ -1,1 +1,1 @@
-| [Modify Memory](/spell/level/5/modify-memory.md) | Enchantment | V, S | Normal Action | 30 ft. | One creature | 1 minute (C) |
+| [Modify Memory](/spell/level/5/modify-memory.md) | Enchantment | V, S | Magic Action | 30 ft. | One creature | 1 minute (C) |

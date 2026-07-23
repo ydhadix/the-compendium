@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
 | Components | V, S, M _(a piece of charcoal)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | A 60-ft. × 5-ft. × 20-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder |
 | Duration | 1 minute (Concentration) |

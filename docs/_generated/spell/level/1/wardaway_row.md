@@ -1,1 +1,1 @@
-| [Wardaway](/spell/level/1/wardaway.md) | Abjuration | V, S, M | Normal Action | 60 ft. | One non-Construct, non-Undead creature | Until the end of your next Turn |
+| [Wardaway](/spell/level/1/wardaway.md) | Abjuration | V, S, M | Magic Action | 60 ft. | One non-Construct, non-Undead creature | Until the end of your next Turn |

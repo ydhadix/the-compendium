@@ -6,7 +6,7 @@ Evocation Cantrip
 |---|---|
 | Classes | Artificer, Bard, Cleric, Sorcerer, Wizard |
 | Components | V, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One Large or smaller object |
 | Duration | 1 hour |

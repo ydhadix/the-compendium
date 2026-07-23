@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Ranger |
 | Components | V, S, M _(a Melee or Ranged Weapon)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | Each creature you choose in a 60-ft. Cone |
 | Duration | — |

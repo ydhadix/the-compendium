@@ -1,1 +1,1 @@
-| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Normal Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |
+| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Magic Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |

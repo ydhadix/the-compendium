@@ -1,1 +1,1 @@
-| [Remove Curse](/spell/level/3/remove-curse.md) | Abjuration | V, S | Normal Action | Reach | One thing | — |
+| [Remove Curse](/spell/level/3/remove-curse.md) | Abjuration | V, S | Magic Action | Reach | One thing | — |

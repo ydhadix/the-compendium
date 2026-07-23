@@ -6,7 +6,7 @@ Evocation Cantrip
 |---|---|
 | Classes | Sorcerer |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | One thing |
 | Duration | — |

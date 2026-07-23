@@ -1,1 +1,1 @@
-| [Snowball Swarm](/spell/level/2/snowball-swarm.md) | Evocation | V, S, M | Normal Action | 90 ft. | Everything in a 10-ft. radius Sphere | 1 minute |
+| [Snowball Swarm](/spell/level/2/snowball-swarm.md) | Evocation | V, S, M | Magic Action | 90 ft. | Everything in a 10-ft. radius Sphere | 1 minute |

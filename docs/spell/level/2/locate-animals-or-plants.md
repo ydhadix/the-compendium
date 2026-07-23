@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid, Ranger |
 | Components | V, S, M |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | 5 miles |
 | Target | Special |
 | Duration | 10 minutes (Concentration) |

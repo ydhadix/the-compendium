@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Sorcerer, Warlock, Wizard |
 | Components | V, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | One creature who understands you |
 | Duration | 8 hours (Concentration) |

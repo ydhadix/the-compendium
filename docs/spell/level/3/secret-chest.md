@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Wizard |
 | Components | V, S, M _(a chest worth 5,000 Gold and a Tiny replica worth 50 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | — |
 | Duration | Until dispelled |

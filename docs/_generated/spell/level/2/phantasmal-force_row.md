@@ -1,1 +1,1 @@
-| [Phantasmal Force](/spell/level/2/phantasmal-force.md) | Illusion | V, S, M | Normal Action | 60 ft. | One creature | 1 minute (C) |
+| [Phantasmal Force](/spell/level/2/phantasmal-force.md) | Illusion | V, S, M | Magic Action | 60 ft. | One creature | 1 minute (C) |

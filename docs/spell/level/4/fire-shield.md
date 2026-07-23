@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
 | Components | V, S, M _(a bit of phosphorus or a firefly)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Self |
 | Duration | 10 minutes |

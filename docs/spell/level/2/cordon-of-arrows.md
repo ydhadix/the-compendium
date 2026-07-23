@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Ranger |
 | Components | V, S, M |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Reach |
 | Target | Each creature in a 30-ft. radius Sphere |
 | Duration | 8 hours |

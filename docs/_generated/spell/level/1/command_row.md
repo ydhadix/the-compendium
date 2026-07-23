@@ -1,1 +1,1 @@
-| [Command](/spell/level/1/command.md) | Enchantment | V | Normal Action | 60 ft. | One creature | Until the end of the target's next Turn |
+| [Command](/spell/level/1/command.md) | Enchantment | V | Magic Action | 60 ft. | One creature | Until the end of the target's next Turn |

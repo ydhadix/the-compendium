@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Druid |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | Up to 6 creatures in a 30-ft. radius Sphere |
 | Duration | — |

@@ -6,7 +6,7 @@ Necromancy Cantrip
 |---|---|
 | Classes | Sorcerer, Warlock, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One thing |
 | Duration | Until the end of your next Turn |

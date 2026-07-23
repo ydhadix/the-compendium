@@ -6,7 +6,7 @@ Transmutation Cantrip
 |---|---|
 | Classes | Artificer, Druid |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach + 25 ft. |
 | Target | One thing |
 | Duration | — |

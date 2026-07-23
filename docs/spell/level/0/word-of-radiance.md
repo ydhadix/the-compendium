@@ -6,7 +6,7 @@ Evocation Cantrip
 |---|---|
 | Classes | Cleric |
 | Components | V, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Everything you choose in a 5-ft. Aura |
 | Duration | — |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Ranger, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | One thing |
 | Duration | — |

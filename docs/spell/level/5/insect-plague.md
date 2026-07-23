@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid, Sorcerer |
 | Components | V, S, M _(a locust)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 300 ft. |
 | Target | Each creature in a 20-ft. radius Sphere |
 | Duration | 10 minutes (Concentration) |

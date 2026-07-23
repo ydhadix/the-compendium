@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid, Ranger, Warlock |
 | Components | V, S |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | — |
 | Target | Self |
 | Duration | 10 minutes |

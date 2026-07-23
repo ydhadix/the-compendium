@@ -1,27 +1,45 @@
-# Range & Targeting
-A Target is what an effect acts upon, and its Range is how far that reach extends from its source.
-{ .subtitle }
+# Targeting, Range, and Areas
+
+### Targets
+The **Target** of an attack or effect is the creature and object being affected by it.
+
+#### Line of Effect
+You must have a clear path to a target, so it can't be behind Full Cover.
+
+#### Targeting Yourself
+A "Self" target can only be you.  Any other target can also be you, unless the effect says otherwise.
+
+#### Worn or Held Objects
+You can target worn or held objects, such as Armor or a Weapon, unless the targets are part of an Area.
+
+#### Invalid Targets
+If a target is chosen that can't be targeted by an effect, the effect resolves as normal but nothing happens to the target.
+
+If an effect has no impact on a target that succeeds on a Saving Throw, an invalid Target appears to have succeeded on that Save, giving no hint that it was invalid.
 
 ### Range
-An effect's Range is how far from its source it can reach, given as a distance in feet or as your [Reach](../../bestiary/trait/reach.md).
-
-For an effect with an [Area](area.md), the Range is the maximum distance to the Area's Origin. For an effect without an Area, the Range is the maximum distance to its individual Targets.
+An effect's **Range** is how far from its source it can reach, given as a distance in feet or as its source's Reach.
 
 Once placed, an effect can extend beyond its Range, and movable effects aren't restricted by their source's Range unless their description says otherwise.
 
-### Targets
-The Targets of an attack or effect are the creatures and objects being affected by it; targets can be chosen individually or included as part of an [Area](area.md) effect.
+### Areas
+An **Area** is the shape of space an effect fills.  Every Area has an Origin point and takes one of the following shapes.
 
-#### Line of Effect
-You must have a clear path to a Target, so it can't be behind [Full Cover](cover.md).
+| Area | Origin | Measurement |
+|---|---|---|
+| Aura | The creature or object it surrounds | Radius |
+| Cone | Its apex | Length; its width at any point equals that distance |
+| Cube | The center of its near side | Length of each side |
+| Cylinder | The center of its base | Radius × height |
+| Line | Its near end | Length × square cross-section width |
+| Sphere | Its center | Radius |
+| Square | The center of its near side | Length of each side |
+| Wall | The center of its near side | Length × width × height |
 
-#### Targeting Yourself
-A Target of Self can only be you. An effect that can target a creature can also target you, unless its description says otherwise.
+#### Origin
+An area's **Origin** is placed within its effect's Range.  You choose where the Origin sits within that range, and once placed an Area can extend beyond it.
 
-#### Worn or Held Objects
-An effect can't target an object being worn or held, such as Armor or a Weapon, even when it targets everything in an Area.
+The Area extends from the Origin in straight lines, typically facing away from its source; Spheres instead face outwards from the Origin, and Cylinders face outwards from the top or bottom circle of the Area.  If a straight line from the Origin to a location is blocked by [Full Cover](cover.md), that location is excluded from the Area.
 
-#### Invalid Targets
-If a Target can't be affected, nothing happens to it, but the effect resolves as normal.
-
-If an effect has no impact on a Target that succeeds on a Saving Throw, an invalid Target appears to have succeeded on that Save, giving no hint that it was invalid.
+#### Auras
+An Aura is always fixed to its source's space, instead of a point. Auras are measured from the edges of that space, move with its source, and can include or exclude the source from its effect.

@@ -1,1 +1,1 @@
-| [Antagonize](/spell/level/3/antagonize.md) | Enchantment | V, S, M | Normal Action | 30 ft. | One creature | — |
+| [Antagonize](/spell/level/3/antagonize.md) | Enchantment | V, S, M | Magic Action | 30 ft. | One creature | — |

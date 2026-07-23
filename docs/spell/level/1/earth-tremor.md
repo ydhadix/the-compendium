@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid, Sorcerer, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Everything on the ground in a 10-ft. Aura |
 | Duration | — |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Sorcerer, Warlock, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | — |
 | Target | Self |
 | Duration | 1 hour |

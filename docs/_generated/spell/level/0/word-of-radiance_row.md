@@ -1,1 +1,1 @@
-| [Word of Radiance](/spell/level/0/word-of-radiance.md) | Evocation | V, M | Normal Action | — | Everything you choose in a 5-ft. Aura | — |
+| [Word of Radiance](/spell/level/0/word-of-radiance.md) | Evocation | V, M | Magic Action | — | Everything you choose in a 5-ft. Aura | — |

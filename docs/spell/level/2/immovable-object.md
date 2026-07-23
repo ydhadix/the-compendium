@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Wizard |
 | Components | V, S, M _(consumes gold dust worth 25 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One object that weighs 10 pounds or less |
 | Duration | 1 hour |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid, Sorcerer, Wizard |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | 10-ft. Aura |
 | Duration | 10 minutes (Concentration) |

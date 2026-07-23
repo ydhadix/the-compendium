@@ -1,1 +1,1 @@
-| [Meld into Stone](/spell/level/3/meld-into-stone.md) | Transmutation | V, S | Normal Action (R) | Reach | A stone object or surface large enough to contain your body | 8 hours |
+| [Meld into Stone](/spell/level/3/meld-into-stone.md) | Transmutation | V, S | Magic Action (R) | Reach | A stone object or surface large enough to contain your body | 8 hours |

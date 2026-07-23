@@ -1,1 +1,1 @@
-| [Conjure Woodland Beings](/spell/level/4/conjure-woodland-beings.md) | Conjuration | V, S | Normal Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |
+| [Conjure Woodland Beings](/spell/level/4/conjure-woodland-beings.md) | Conjuration | V, S | Magic Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |

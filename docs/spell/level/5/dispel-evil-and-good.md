@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric |
 | Components | V, S, M _(powdered silver and iron)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Self |
 | Duration | 1 minute (Concentration) |

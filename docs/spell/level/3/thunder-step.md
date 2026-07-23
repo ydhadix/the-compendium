@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Warlock, Wizard |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | Everything in a 10-ft. Aura |
 | Duration | — |

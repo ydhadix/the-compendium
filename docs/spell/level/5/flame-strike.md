@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric |
 | Components | V, S, M _(a pinch of sulfur)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | Everything in a 10-ft. radius, 40-ft. Cylinder from above |
 | Duration | — |

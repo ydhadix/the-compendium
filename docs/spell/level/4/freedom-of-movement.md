@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Druid |
 | Components | V, S, M _(a leather strap)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One Ally |
 | Duration | 1 hour |

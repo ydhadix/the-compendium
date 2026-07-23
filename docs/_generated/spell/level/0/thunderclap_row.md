@@ -1,1 +1,1 @@
-| [Thunderclap](/spell/level/0/thunderclap.md) | Evocation | S | Normal Action | — | Everything in a 5-ft. Aura | — |
+| [Thunderclap](/spell/level/0/thunderclap.md) | Evocation | S | Magic Action | — | Everything in a 5-ft. Aura | — |

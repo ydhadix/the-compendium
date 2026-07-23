@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | Everything in a 10-ft. radius Sphere |
 | Duration | 1 minute |

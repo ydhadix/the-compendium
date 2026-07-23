@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Cleric, Druid, Paladin, Ranger |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | Up to 3 creatures |
 | Duration | 8 hours |

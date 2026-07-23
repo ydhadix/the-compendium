@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Ranger |
 | Components | S |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Reach |
 | Target | One Allied Beast |
 | Duration | 1 hour (Concentration) |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid, Ranger |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Each plant in a 30-ft. Aura |
 | Duration | 10 minutes |

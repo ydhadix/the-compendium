@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Ranger |
 | Components | V, S, M _(a fan and a feather)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | A 50-ft. × 5-ft. × 15-ft. Wall |
 | Duration | 1 minute (Concentration) |

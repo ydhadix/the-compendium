@@ -1,1 +1,1 @@
-| [Wall of Sand](/spell/level/3/wall-of-sand.md) | Evocation | V, S, M | Normal Action | 90 ft. | A 30-ft. × 10-ft. × 10-ft. Wall | 10 minutes (C) |
+| [Wall of Sand](/spell/level/3/wall-of-sand.md) | Evocation | V, S, M | Magic Action | 90 ft. | A 30-ft. × 10-ft. × 10-ft. Wall | 10 minutes (C) |

@@ -6,7 +6,7 @@ Necromancy Cantrip
 |---|---|
 | Classes | Artificer, Cleric, Druid |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 15 ft. |
 | Target | One Downed creature |
 | Duration | — |

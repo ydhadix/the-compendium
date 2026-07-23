@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Warlock |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | Each creature you choose within 60 ft. |
 | Duration | 1 minute |

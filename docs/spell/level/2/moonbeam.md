@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | Everything in a 5-ft. radius, 40-ft. Cylinder from above |
 | Duration | 1 minute (Concentration) |

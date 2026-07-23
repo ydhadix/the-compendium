@@ -1,1 +1,1 @@
-| [Fireball](/spell/level/3/fireball.md) | Evocation | V, S, M | Normal Action | 150 ft. | Everything in a 20-ft. radius Sphere | — |
+| [Fireball](/spell/level/3/fireball.md) | Evocation | V, S, M | Magic Action | 150 ft. | Everything in a 20-ft. radius Sphere | — |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Druid |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | Everything in a 20-ft. Cube |
 | Duration | 1 minute (Concentration) |

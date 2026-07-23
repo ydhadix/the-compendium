@@ -1,1 +1,1 @@
-| [Fly](/spell/level/3/fly.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 10 minutes (C) |
+| [Fly](/spell/level/3/fly.md) | Transmutation | V, S, M | Magic Action | Reach | One creature | 10 minutes (C) |

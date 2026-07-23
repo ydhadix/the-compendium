@@ -1,1 +1,1 @@
-| [Infestation](/spell/level/0/infestation.md) | Conjuration | V, S, M | Normal Action | 30 ft. | One thing | — |
+| [Infestation](/spell/level/0/infestation.md) | Conjuration | V, S, M | Magic Action | 30 ft. | One thing | — |

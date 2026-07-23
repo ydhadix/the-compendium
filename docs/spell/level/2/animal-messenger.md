@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid, Ranger |
 | Components | V, S, M |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
 | Target | One CR 0 Beast |
 | Duration | 24 hours |

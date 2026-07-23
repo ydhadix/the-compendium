@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Cleric, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Unlimited |
 | Target | One creature |
 | Duration | — |

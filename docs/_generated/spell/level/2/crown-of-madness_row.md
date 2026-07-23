@@ -1,1 +1,1 @@
-| [Crown of Madness](/spell/level/2/crown-of-madness.md) | Enchantment | V, S | Normal Action | 120 ft. | One humanoid | 1 minute (C) |
+| [Crown of Madness](/spell/level/2/crown-of-madness.md) | Enchantment | V, S | Magic Action | 120 ft. | One humanoid | 1 minute (C) |

@@ -1,1 +1,1 @@
-| [Druidcraft](/spell/level/0/druidcraft.md) | Transmutation | V, S | Normal Action | 30 ft. | — | — |
+| [Druidcraft](/spell/level/0/druidcraft.md) | Transmutation | V, S | Magic Action | 30 ft. | — | — |

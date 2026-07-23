@@ -1,1 +1,1 @@
-| [Feign Death](/spell/level/3/feign-death.md) | Necromancy | V, S, M | Normal Action (R) | Reach | One creature | 1 hour |
+| [Feign Death](/spell/level/3/feign-death.md) | Necromancy | V, S, M | Magic Action (R) | Reach | One creature | 1 hour |

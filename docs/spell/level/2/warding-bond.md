@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Paladin |
 | Components | V, S, M _(two platinum rings worth 50 Gold each)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature |
 | Duration | 1 hour |

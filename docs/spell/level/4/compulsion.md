@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | Each creature you choose within 30 ft. |
 | Duration | 1 minute (Concentration) |

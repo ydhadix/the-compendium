@@ -1,1 +1,1 @@
-| [Earthen Grasp](/spell/level/2/earthen-grasp.md) | Transmutation | V, S, M | Normal Action | 30 ft. | One thing | 1 minute (C) |
+| [Earthen Grasp](/spell/level/2/earthen-grasp.md) | Transmutation | V, S, M | Magic Action | 30 ft. | One thing | 1 minute (C) |

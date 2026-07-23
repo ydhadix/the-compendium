@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | One humanoid |
 | Duration | 1 minute (Concentration) |

@@ -1,1 +1,1 @@
-| [Knock](/spell/level/2/knock.md) | Transmutation | V | Normal Action | 60 ft. | One object | — |
+| [Knock](/spell/level/2/knock.md) | Transmutation | V | Magic Action | 60 ft. | One object | — |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature |
 | Duration | 1 hour (Concentration) |

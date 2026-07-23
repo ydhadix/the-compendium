@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Warlock, Wizard |
 | Components | V, S, M _(consumes onyx worth 50 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature |
 | Duration | 1 hour |

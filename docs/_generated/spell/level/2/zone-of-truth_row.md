@@ -1,1 +1,1 @@
-| [Zone of Truth](/spell/level/2/zone-of-truth.md) | Enchantment | V, S | Normal Action | 60 ft. | Each creature in a 15-ft. radius Sphere | 10 minutes |
+| [Zone of Truth](/spell/level/2/zone-of-truth.md) | Enchantment | V, S | Magic Action | 60 ft. | Each creature in a 15-ft. radius Sphere | 10 minutes |

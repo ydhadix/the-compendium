@@ -6,7 +6,7 @@ Conjuration Cantrip
 |---|---|
 | Classes | Artificer, Druid, Sorcerer, Warlock |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | Self |
 | Duration | 10 minutes |

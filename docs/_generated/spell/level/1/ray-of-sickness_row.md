@@ -1,1 +1,1 @@
-| [Ray of Sickness](/spell/level/1/ray-of-sickness.md) | Necromancy | V, S | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
+| [Ray of Sickness](/spell/level/1/ray-of-sickness.md) | Necromancy | V, S | Magic Action | 60 ft. | One thing | Until the end of your next Turn |

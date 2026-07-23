@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Druid |
 | Components | V, S, M _(consumes diamond dust worth 100 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature |
 | Duration | — |

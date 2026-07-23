@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid, Ranger |
 | Components | V, S |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Reach |
 | Target | A stone object or surface large enough to contain your body |
 | Duration | 8 hours |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Warlock |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Everything in a 10-ft. Aura |
 | Duration | Until the end of the target's next Turn |

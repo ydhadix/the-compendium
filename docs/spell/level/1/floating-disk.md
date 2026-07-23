@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
 | Target | — |
 | Duration | 1 hour |

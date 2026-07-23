@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Wizard |
 | Components | V, S, M _(two eggs)_ |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
 | Target | Up to 8 Allies |
 | Duration | 1 hour |

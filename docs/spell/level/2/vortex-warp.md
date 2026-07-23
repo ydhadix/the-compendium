@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Sorcerer, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | One other creature or object |
 | Duration | — |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid, Wizard |
 | Components | V, S, M _(a mixture of water and dust)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 300 ft. |
 | Target | Water in a 100-ft. Cube |
 | Duration | 10 minutes (Concentration) |

@@ -1,1 +1,1 @@
-| [Wall of Force](/spell/level/5/wall-of-force.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 10 minutes (C) |
+| [Wall of Force](/spell/level/5/wall-of-force.md) | Evocation | V, S, M | Magic Action | 120 ft. | — | 10 minutes (C) |

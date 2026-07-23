@@ -1,1 +1,1 @@
-| [Bane](/spell/level/1/bane.md) | Enchantment | V, S, M | Normal Action | 30 ft. | Up to 3 creatures | 1 minute (C) |
+| [Bane](/spell/level/1/bane.md) | Enchantment | V, S, M | Magic Action | 30 ft. | Up to 3 creatures | 1 minute (C) |

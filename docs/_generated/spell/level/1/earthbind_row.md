@@ -1,1 +1,1 @@
-| [Earthbind](/spell/level/1/earthbind.md) | Transmutation | V | Normal Action | 300 ft. | One creature | 1 minute (C) |
+| [Earthbind](/spell/level/1/earthbind.md) | Transmutation | V | Magic Action | 300 ft. | One creature | 1 minute (C) |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Warlock |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | Up to 3 creatures |
 | Duration | 1 minute (Concentration) |

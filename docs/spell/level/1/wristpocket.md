@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Wizard |
 | Components | S |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Reach |
 | Target | One object that weighs 5 pounds or less |
 | Duration | 1 hour (Concentration) |

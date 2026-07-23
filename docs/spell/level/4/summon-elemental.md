@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Wizard |
 | Components | V, S, M _(air, a pebble, ash, and water in a gold-inlaid vial worth 400 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | — |
 | Duration | 1 hour (Concentration) |

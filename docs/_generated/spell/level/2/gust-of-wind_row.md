@@ -1,1 +1,1 @@
-| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Normal Action | Reach | Everything in a 60-ft. × 10-ft. Line | 1 minute (C) |
+| [Gust of Wind](/spell/level/2/gust-of-wind.md) | Evocation | V, S, M | Magic Action | Reach | Everything in a 60-ft. × 10-ft. Line | 1 minute (C) |

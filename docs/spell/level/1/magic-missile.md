@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | Up to 3 creatures or objects |
 | Duration | — |

@@ -1,1 +1,1 @@
-| [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Normal Action | — | Each plant in a 30-ft. Aura | 10 minutes |
+| [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Magic Action | — | Each plant in a 30-ft. Aura | 10 minutes |

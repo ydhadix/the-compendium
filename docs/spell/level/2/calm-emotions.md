@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | Each humanoid and Beast in a 20-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |

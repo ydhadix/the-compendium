@@ -1,0 +1,2 @@
+##### Marked
+Marked has no effect on its own. It marks a creature as the target of an ongoing effect so that effect can track it; the feature or Spell that applies this condition defines what it does and when it ends.

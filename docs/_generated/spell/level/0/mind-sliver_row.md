@@ -1,1 +1,1 @@
-| [Mind Sliver](/spell/level/0/mind-sliver.md) | Enchantment | V | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
+| [Mind Sliver](/spell/level/0/mind-sliver.md) | Enchantment | V | Magic Action | 60 ft. | One thing | Until the end of your next Turn |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Wizard |
 | Components | V, S, M _(a glass sphere)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | One Large or smaller creature or object |
 | Duration | 1 minute (Concentration) |

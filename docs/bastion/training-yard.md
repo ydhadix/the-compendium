@@ -24,4 +24,4 @@ This gift grants one of the following benefits:
 | Upgrade | Size | Effect |
 |---|---|---|
 | Arena | Roomy | The facility's Gift of Training can instead grant a Fighting Style Feat. |
-| Gymnasium | Vast | The facility's Gift of Training can instead expand your Physical Attacks' Critical Hit range by **1**. |
+| Gymnasium | Vast | The facility's Gift of Training can instead expand your Physical Attacks' Critical Hit Range by **1**. |

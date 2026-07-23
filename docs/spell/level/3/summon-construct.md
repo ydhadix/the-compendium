@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer |
 | Components | V, S, M _(a lockbox worth 400 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | — |
 | Duration | 1 hour (Concentration) |

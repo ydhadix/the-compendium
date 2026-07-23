@@ -1,1 +1,1 @@
-| [Blink](/spell/level/3/blink.md) | Transmutation | V, S | Normal Action | — | Self | 1 minute |
+| [Blink](/spell/level/3/blink.md) | Transmutation | V, S | Magic Action | — | Self | 1 minute |

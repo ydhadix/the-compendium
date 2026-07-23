@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Sorcerer, Warlock, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One thing |
 | Duration | 1 hour (Concentration) |

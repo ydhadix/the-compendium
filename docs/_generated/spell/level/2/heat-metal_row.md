@@ -1,1 +1,1 @@
-| [Heat Metal](/spell/level/2/heat-metal.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One metal object | 1 minute (C) |
+| [Heat Metal](/spell/level/2/heat-metal.md) | Transmutation | V, S, M | Magic Action | 60 ft. | One metal object | 1 minute (C) |

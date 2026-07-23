@@ -1,1 +1,1 @@
-| [Seeming](/spell/level/5/seeming.md) | Illusion | V, S | Normal Action | 30 ft. | Each creature you choose | 8 hours |
+| [Seeming](/spell/level/5/seeming.md) | Illusion | V, S | Magic Action | 30 ft. | Each creature you choose | 8 hours |

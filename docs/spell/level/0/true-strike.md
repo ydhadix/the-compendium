@@ -6,7 +6,7 @@ Divination Cantrip
 |---|---|
 | Classes | Artificer, Bard, Sorcerer, Warlock, Wizard |
 | Components | S, M _(a weapon you're proficient with)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | The material component's Reach or Range |
 | Target | One thing |
 | Duration | — |

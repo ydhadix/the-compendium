@@ -1,1 +1,1 @@
-| [Wall of Stone](/spell/level/5/wall-of-stone.md) | Evocation | V, S, M | Normal Action | 120 ft. | — | 10 minutes (C) |
+| [Wall of Stone](/spell/level/5/wall-of-stone.md) | Evocation | V, S, M | Magic Action | 120 ft. | — | 10 minutes (C) |

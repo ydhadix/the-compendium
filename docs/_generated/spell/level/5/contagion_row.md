@@ -1,1 +1,1 @@
-| [Contagion](/spell/level/5/contagion.md) | Necromancy | V, S | Normal Action | Reach | One creature | 7 days |
+| [Contagion](/spell/level/5/contagion.md) | Necromancy | V, S | Magic Action | Reach | One creature | 7 days |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Druid, Ranger, Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
 | Target | Up to ten creatures |
 | Duration | 24 hours |

@@ -1,1 +1,1 @@
-| [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Normal Action | Reach | One creature | 1 hour |
+| [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Magic Action | Reach | One creature | 1 hour |

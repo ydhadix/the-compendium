@@ -1,1 +1,1 @@
-| [See Invisibility](/spell/level/2/see-invisibility.md) | Divination | V, S, M | Normal Action | — | Self | 1 hour |
+| [See Invisibility](/spell/level/2/see-invisibility.md) | Divination | V, S, M | Magic Action | — | Self | 1 hour |

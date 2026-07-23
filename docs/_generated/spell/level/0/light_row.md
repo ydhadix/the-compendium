@@ -1,1 +1,1 @@
-| [Light](/spell/level/0/light.md) | Evocation | V, M | Normal Action | Reach | One Large or smaller object | 1 hour |
+| [Light](/spell/level/0/light.md) | Evocation | V, M | Magic Action | Reach | One Large or smaller object | 1 hour |

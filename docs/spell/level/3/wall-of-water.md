@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | A 30-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder |
 | Duration | 10 minutes (Concentration) |

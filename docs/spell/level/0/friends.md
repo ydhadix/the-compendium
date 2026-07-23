@@ -6,7 +6,7 @@ Enchantment Cantrip
 |---|---|
 | Classes | Bard, Sorcerer, Warlock, Wizard |
 | Components | S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 10 ft. |
 | Target | One humanoid |
 | Duration | 1 minute (Concentration) |

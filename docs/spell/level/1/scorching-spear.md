@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | Everything in a 30-ft. × 5-ft. Line |
 | Duration | — |

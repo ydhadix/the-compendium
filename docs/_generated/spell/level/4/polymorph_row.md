@@ -1,1 +1,1 @@
-| [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Normal Action | 60 ft. | One creature | 1 hour (C) |
+| [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Magic Action | 60 ft. | One creature | 1 hour (C) |

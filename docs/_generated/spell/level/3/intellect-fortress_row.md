@@ -1,1 +1,1 @@
-| [Intellect Fortress](/spell/level/3/intellect-fortress.md) | Abjuration | V | Normal Action | 30 ft. | One creature | 1 hour (C) |
+| [Intellect Fortress](/spell/level/3/intellect-fortress.md) | Abjuration | V | Magic Action | 30 ft. | One creature | 1 hour (C) |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature |
 | Duration | 7 days |

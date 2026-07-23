@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Druid, Ranger |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | Self |
 | Duration | 10 minutes |

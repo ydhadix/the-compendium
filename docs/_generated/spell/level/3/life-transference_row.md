@@ -1,1 +1,1 @@
-| [Life Transference](/spell/level/3/life-transference.md) | Necromancy | V, S | Normal Action | 30 ft. | One creature | — |
+| [Life Transference](/spell/level/3/life-transference.md) | Necromancy | V, S | Magic Action | 30 ft. | One creature | — |

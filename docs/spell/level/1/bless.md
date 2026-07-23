@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Paladin |
 | Components | V, S, M _(a holy symbol)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | Up to 3 creatures |
 | Duration | 1 minute (Concentration) |

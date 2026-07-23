@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Paladin |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | You and each Ally in a 30-ft. Aura |
 | Duration | 10 minutes (Concentration) |

@@ -6,7 +6,7 @@ Conjuration Cantrip
 |---|---|
 | Classes | Druid, Warlock |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | One thing |
 | Duration | — |

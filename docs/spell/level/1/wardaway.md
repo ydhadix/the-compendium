@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Paladin, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | One non-Construct, non-Undead creature |
 | Duration | Until the end of your next Turn |

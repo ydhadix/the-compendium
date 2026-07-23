@@ -1,1 +1,1 @@
-| [Shatter](/spell/level/2/shatter.md) | Evocation | V, S, M | Normal Action | 60 ft. | Everything in a 10-ft. radius Sphere | — |
+| [Shatter](/spell/level/2/shatter.md) | Evocation | V, S, M | Magic Action | 60 ft. | Everything in a 10-ft. radius Sphere | — |

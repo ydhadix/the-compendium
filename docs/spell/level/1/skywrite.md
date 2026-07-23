@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Druid, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Line of sight |
 | Target | — |
 | Duration | 1 hour (Concentration) |

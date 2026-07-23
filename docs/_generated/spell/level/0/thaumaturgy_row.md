@@ -1,1 +1,1 @@
-| [Thaumaturgy](/spell/level/0/thaumaturgy.md) | Transmutation | V | Normal Action | 30 ft. | Special | 1 minute |
+| [Thaumaturgy](/spell/level/0/thaumaturgy.md) | Transmutation | V | Magic Action | 30 ft. | Special | 1 minute |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Warlock |
 | Components | V, S, M _(a pickled tentacle)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 150 ft. |
 | Target | Everything in a 20-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |

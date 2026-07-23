@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Sorcerer, Wizard |
 | Components | V, S, M _(an eggshell and a glove)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | — |
 | Duration | 1 minute (Concentration) |

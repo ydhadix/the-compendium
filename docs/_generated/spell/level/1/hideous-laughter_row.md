@@ -1,1 +1,1 @@
-| [Hideous Laughter](/spell/level/1/hideous-laughter.md) | Enchantment | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
+| [Hideous Laughter](/spell/level/1/hideous-laughter.md) | Enchantment | V, S, M | Magic Action | 30 ft. | One creature | 1 minute (C) |

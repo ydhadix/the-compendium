@@ -1,1 +1,1 @@
-| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Normal Action | Reach | One Ally | 1 hour (C) |
+| [Stoneskin](/spell/level/4/stoneskin.md) | Transmutation | V, S, M ($C) | Magic Action | Reach | One Ally | 1 hour (C) |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Ranger |
 | Components | V, S, M _(a gilded acorn worth 200 Gold, containing a feather, a tuft of fur, and a scale)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | — |
 | Duration | 1 hour (Concentration) |

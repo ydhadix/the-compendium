@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Warlock, Wizard |
 | Components | V, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | A 15-ft. radius Sphere, or one object |
 | Duration | 10 minutes (Concentration) |

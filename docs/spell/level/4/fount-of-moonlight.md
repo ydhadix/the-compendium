@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Druid |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Self |
 | Duration | 10 minutes (Concentration) |

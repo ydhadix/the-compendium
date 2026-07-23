@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 10 ft. |
 | Target | One corpse with a mouth |
 | Duration | 10 minutes |

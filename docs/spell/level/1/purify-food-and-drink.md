@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Cleric, Druid, Paladin |
 | Components | V, S |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | 10 ft. |
 | Target | All food and drink in a 5-ft. radius Sphere |
 | Duration | — |

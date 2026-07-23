@@ -1,1 +1,1 @@
-| [Create or Destroy Water](/spell/level/1/create-or-destroy-water.md) | Transmutation | V, S, M | Normal Action | 30 ft. | Special | — |
+| [Create or Destroy Water](/spell/level/1/create-or-destroy-water.md) | Transmutation | V, S, M | Magic Action | 30 ft. | Special | — |

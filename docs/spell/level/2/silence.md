@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Ranger |
 | Components | V, S |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | 120 ft. |
 | Target | 20-ft. radius Sphere |
 | Duration | 10 minutes (Concentration) |

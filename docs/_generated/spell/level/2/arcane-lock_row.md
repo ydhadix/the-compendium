@@ -1,1 +1,1 @@
-| [Arcane Lock](/spell/level/2/arcane-lock.md) | Abjuration | V, S, M ($C) | Normal Action | Reach | One closed door, window, container, or other opening | Until dispelled |
+| [Arcane Lock](/spell/level/2/arcane-lock.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | One closed door, window, container, or other opening | Until dispelled |

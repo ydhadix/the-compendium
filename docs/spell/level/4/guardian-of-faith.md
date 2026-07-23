@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | Each Enemy within 10 ft. of the guardian |
 | Duration | 8 hours |

@@ -1,1 +1,1 @@
-| [Banishment](/spell/level/4/banishment.md) | Abjuration | V, S, M | Normal Action | 30 ft. | One creature | 1 minute (C) |
+| [Banishment](/spell/level/4/banishment.md) | Abjuration | V, S, M | Magic Action | 30 ft. | One creature | 1 minute (C) |

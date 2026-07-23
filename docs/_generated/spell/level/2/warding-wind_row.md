@@ -1,1 +1,1 @@
-| [Warding Wind](/spell/level/2/warding-wind.md) | Evocation | V | Normal Action | — | 10-ft. Aura | 10 minutes (C) |
+| [Warding Wind](/spell/level/2/warding-wind.md) | Evocation | V | Magic Action | — | 10-ft. Aura | 10 minutes (C) |

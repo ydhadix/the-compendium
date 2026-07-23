@@ -1,1 +1,1 @@
-| [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Normal Action | — | Self | 10 minutes (C) |
+| [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Magic Action | — | Self | 10 minutes (C) |

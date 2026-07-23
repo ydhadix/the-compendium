@@ -1,1 +1,1 @@
-| [Call Lightning](/spell/level/3/call-lightning.md) | Conjuration | V, S | Normal Action | 120 ft. | Everything in a 10-ft. radius, 60-ft. Cylinder from above | 10 minutes (C) |
+| [Call Lightning](/spell/level/3/call-lightning.md) | Conjuration | V, S | Magic Action | 120 ft. | Everything in a 10-ft. radius, 60-ft. Cylinder from above | 10 minutes (C) |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Wizard |
 | Components | S, M _(a Melee Weapon worth 1 Silver)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | Up to 5 creatures |
 | Duration | — |

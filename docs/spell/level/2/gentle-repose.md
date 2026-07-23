@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Paladin, Wizard |
 | Components | V, S, M _(consumes 2 Copper)_ |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Reach |
 | Target | One corpse |
 | Duration | 10 days |

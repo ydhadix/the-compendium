@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Sorcerer, Warlock, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | Everything in a 10-ft. radius Sphere |
 | Duration | Until the end of your next Turn |

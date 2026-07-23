@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Druid, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Reach |
 | Target | One creature |
 | Duration | 1 hour |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Druid, Ranger |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 150 ft. |
 | Target | 20-ft. radius Sphere |
 | Duration | 10 minutes (Concentration) |

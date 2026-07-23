@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Cleric, Warlock, Wizard |
 | Components | V, S, M _(a book worth 25 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Self |
 | Duration | 1 hour |

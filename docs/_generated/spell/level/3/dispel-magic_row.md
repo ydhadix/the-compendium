@@ -1,1 +1,1 @@
-| [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Normal Action | 120 ft. | One magical effect or thing | — |
+| [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Magic Action | 120 ft. | One magical effect or thing | — |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Druid, Ranger, Wizard |
 | Components | S, M _(consumes rope)_ |
-| Casting Time | Normal Action, or Ritual |
+| Casting Time | Magic Action, or Ritual |
 | Range | Reach |
 | Target | Special |
 | Duration | 8 hours |

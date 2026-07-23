@@ -1,1 +1,1 @@
-| [Toll the Dead](/spell/level/0/toll-the-dead.md) | Necromancy | V, S | Normal Action | 60 ft. | One thing | — |
+| [Toll the Dead](/spell/level/0/toll-the-dead.md) | Necromancy | V, S | Magic Action | 60 ft. | One thing | — |

@@ -1,1 +1,1 @@
-| [Flaming Sphere](/spell/level/2/flaming-sphere.md) | Conjuration | V, S, M | Normal Action | 60 ft. | Everything in a 5-ft. radius Sphere | 1 minute (C) |
+| [Flaming Sphere](/spell/level/2/flaming-sphere.md) | Conjuration | V, S, M | Magic Action | 60 ft. | Everything in a 5-ft. radius Sphere | 1 minute (C) |

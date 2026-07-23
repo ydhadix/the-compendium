@@ -36,10 +36,12 @@ extra_javascript:
   - javascripts/recent.js
   - javascripts/meganav.js
   - javascripts/localnav.js
+  - javascripts/keywordjump.js
 
 exclude_docs: |            # files/folders in docs/ that we don't want compiled
   _changelogs
   _generated
+  rules/adventure/_condition/*.md
   item/magic/infusion/_variant
   item/weapon/property/*.md
   !item/weapon/property/index.md
@@ -88,37 +90,30 @@ nav:
 
     - Rules Rolodex:
       - Rules Overview:             rules/index.md
-      - Keyword Index:              rules/keyword.md
-      - "---": "sep:"
+      - Adventuring:
+        - Adventuring Overview:     rules/adventure/index.md
+        - Actions:                  rules/adventure/action.md
+        - Conditions:               rules/adventure/condition.md
+        - Encounters:               rules/adventure/encounter.md
+        - Resting:                  rules/adventure/rest.md
+        - Hazards:                  rules/adventure/hazard.md
       - Dice Rolls:
         - Dice Overview:            rules/dice/index.md
         - Ability Checks:           rules/dice/check.md
         - Attack Rolls:             rules/dice/attack.md
         - Saving Throws:            rules/dice/save.md
-        - "---": "sep:"
         - Damage Rolls:             rules/dice/damage.md
-        - Critical Hits:            rules/dice/critical.md
-      - Adventuring:
-        - Adventuring Overview:     rules/adventure/index.md
-        - Actions:                  rules/adventure/action.md
-        - Conditions:               rules/adventure/condition.md
-        - "---": "sep:"
-        - Encounters:               rules/adventure/encounter.md
-        - Resting:                  rules/adventure/rest.md
-        - Hazards:                  rules/adventure/hazard.md
       - Positioning:
         - Positioning Overview:     rules/position/index.md
         - Movement:                 rules/position/movement.md
-        - "---": "sep:"
         - Cover:                    rules/position/cover.md
-        - Visibility:               rules/position/lighting.md
-        - Range & Targeting:        rules/position/target.md
-        - Areas of Effect:          rules/position/area.md
+        - Visibility:               rules/position/visibility.md
+        - Targeting:                rules/position/target.md
+
+    - Character Creation:           creation.md
 
     - Hero Handbook:
       - Character Overview:         character/index.md
-      - Character Creation:         character/creation.md
-      - "---": "sep:"
       - Backgrounds:                character/background.md
       - Races:                      character/race/index.md
       - Classes:

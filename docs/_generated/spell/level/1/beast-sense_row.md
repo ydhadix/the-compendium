@@ -1,1 +1,1 @@
-| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Normal Action (R) | Reach | One Allied Beast | 1 hour (C) |
+| [Beast Sense](/spell/level/1/beast-sense.md) | Divination | S | Magic Action (R) | Reach | One Allied Beast | 1 hour (C) |

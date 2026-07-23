@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Sorcerer, Warlock, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Each creature in a 30-ft. Cone |
 | Duration | 1 minute (Concentration) |

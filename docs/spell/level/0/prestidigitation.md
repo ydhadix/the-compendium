@@ -6,7 +6,7 @@ Transmutation Cantrip
 |---|---|
 | Classes | Artificer, Bard, Sorcerer, Warlock, Wizard |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 10 ft. |
 | Target | Special |
 | Duration | 1 hour |

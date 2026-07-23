@@ -1,1 +1,1 @@
-| [Aura of Life](/spell/level/3/aura-of-life.md) | Abjuration | V | Normal Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |
+| [Aura of Life](/spell/level/3/aura-of-life.md) | Abjuration | V | Magic Action | — | You and each Ally in a 30-ft. Aura | 10 minutes (C) |

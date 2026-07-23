@@ -1,1 +1,1 @@
-| [Sacred Flame](/spell/level/0/sacred-flame.md) | Evocation | V, S | Normal Action | 60 ft. | One thing | — |
+| [Sacred Flame](/spell/level/0/sacred-flame.md) | Evocation | V, S | Magic Action | 60 ft. | One thing | — |

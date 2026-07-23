@@ -1,1 +1,1 @@
-| [Primal Savagery](/spell/level/0/primal-savagery.md) | Transmutation | S | Normal Action | Reach | One thing | — |
+| [Primal Savagery](/spell/level/0/primal-savagery.md) | Transmutation | S | Magic Action | Reach | One thing | — |

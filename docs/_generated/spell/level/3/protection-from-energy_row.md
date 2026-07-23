@@ -1,1 +1,1 @@
-| [Protection from Energy](/spell/level/3/protection-from-energy.md) | Abjuration | V, S | Normal Action | Reach | One thing | 1 hour (C) |
+| [Protection from Energy](/spell/level/3/protection-from-energy.md) | Abjuration | V, S | Magic Action | Reach | One thing | 1 hour (C) |

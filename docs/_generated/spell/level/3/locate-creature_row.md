@@ -1,1 +1,1 @@
-| [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Normal Action | 1,000 ft. | Special | 1 hour (C) |
+| [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Magic Action | 1,000 ft. | Special | 1 hour (C) |

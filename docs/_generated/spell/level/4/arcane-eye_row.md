@@ -1,1 +1,1 @@
-| [Arcane Eye](/spell/level/4/arcane-eye.md) | Divination | V, S, M | Normal Action | 30 ft. | — | 1 hour (C) |
+| [Arcane Eye](/spell/level/4/arcane-eye.md) | Divination | V, S, M | Magic Action | 30 ft. | — | 1 hour (C) |

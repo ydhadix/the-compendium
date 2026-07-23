@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Wizard |
 | Components | V, S, M _(an object engraved with a dragon's image worth 500 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | — |
 | Duration | 1 hour (Concentration) |

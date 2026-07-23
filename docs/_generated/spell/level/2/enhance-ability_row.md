@@ -1,1 +1,1 @@
-| [Enhance Ability](/spell/level/2/enhance-ability.md) | Transmutation | V, S, M | Normal Action | Reach | One creature | 1 hour (C) |
+| [Enhance Ability](/spell/level/2/enhance-ability.md) | Transmutation | V, S, M | Magic Action | Reach | One creature | 1 hour (C) |

@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Sorcerer, Warlock, Wizard |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 500 ft. |
 | Target | Self, and one Allied creature within Reach |
 | Duration | — |

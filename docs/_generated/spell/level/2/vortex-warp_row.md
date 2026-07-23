@@ -1,1 +1,1 @@
-| [Vortex Warp](/spell/level/2/vortex-warp.md) | Conjuration | V, S | Normal Action | 90 ft. | One other creature or object | — |
+| [Vortex Warp](/spell/level/2/vortex-warp.md) | Conjuration | V, S | Magic Action | 90 ft. | One other creature or object | — |

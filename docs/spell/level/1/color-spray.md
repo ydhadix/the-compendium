@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Bard, Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | Each creature in a 15-ft. Cone |
 | Duration | Until the end of your next Turn |

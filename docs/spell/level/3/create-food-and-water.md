@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Cleric, Paladin |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | — |
 | Duration | — |

@@ -1,1 +1,1 @@
-| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Normal Action | 120 ft. | Everything in a 30-ft. × 10-ft. Line | — |
+| [Tidal Wave](/spell/level/3/tidal-wave.md) | Conjuration | V, S, M | Magic Action | 120 ft. | Everything in a 30-ft. × 10-ft. Line | — |

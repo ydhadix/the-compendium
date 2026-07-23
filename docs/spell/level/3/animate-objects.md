@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer |
 | Components | V, S |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | Up to 3 objects |
 | Duration | 1 minute (Concentration) |

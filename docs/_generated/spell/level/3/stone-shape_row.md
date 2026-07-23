@@ -1,1 +1,1 @@
-| [Stone Shape](/spell/level/3/stone-shape.md) | Transmutation | V, S, M | Normal Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |
+| [Stone Shape](/spell/level/3/stone-shape.md) | Transmutation | V, S, M | Magic Action | Reach | One Medium or smaller stone object, or a 5-ft. section of stone | — |

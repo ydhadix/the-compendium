@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Paladin |
 | Components | V, S, M _(a reliquary worth 500 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | — |
 | Duration | 1 hour (Concentration) |

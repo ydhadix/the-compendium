@@ -6,7 +6,7 @@ Illusion Cantrip
 |---|---|
 | Classes | Bard, Sorcerer, Warlock, Wizard |
 | Components | S, M |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | — |
 | Duration | 1 minute |

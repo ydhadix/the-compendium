@@ -1,42 +1,39 @@
 # Actions
-Actions are what a creature does with its Turn. Each Turn grants a limited budget of them, and how a creature spends that budget shapes its role in a fight.
-{ .subtitle }
 
-On your Turn, you can take **1** [Normal Action](#normal-actions), **1** [Bonus Action](#bonus-actions), **1** [Object Action](#object-action), and **1** [Reaction](#reactions).  You can take any number of Free Actions on your turn.
+An **Action** is anything you do during an Encounter.  On your Turn, you can take **1** Normal Action, Bonus Action, Object Action, and Reaction.
 
 ### Normal Actions
-Most Actions are Normal Actions.
+A **Normal Action** is the most common kind of Action.
 
-The following Actions are available to every creature, and some features add new ways to use them. You can also attempt an Action not listed here; the DM tells you whether it's possible and what roll, if any, it needs.
+The following Normal Actions are available to every creature, and some features add new ways to use them. You can also attempt an Action not listed here; the DM tells you whether it's possible and what roll, if any, it needs.
 
-| Action | Effect |
-|---|---|
-| [Attack](#attack) | Make an Attack Roll with a Weapon or Unarmed Strike. |
-| [Dash](#dash) | Gain extra movement equal to your Speed. |
-| [Disengage](#disengage) | Your movement doesn't provoke Opportunity Attacks. |
-| [Dodge](#dodge) | Attacks against you gain Disadvantage; your Reflex Saves gain Advantage. |
-| [Help](#help) | Aid an Ally's next Check or Attack. |
-| [Hide](#hide) | Make a Stealth Check to become Hidden. |
-| [Magic](#magic) | Cast a Spell or use a magical effect. |
-| [Ready](#ready) | Prepare an Action to trigger as a Reaction. |
-| [Search](#search) | Make an Ability Check to notice something hidden. |
-| [Study](#study) | Make an Intelligence Check to recall knowledge. |
-| [Utilize](#utilize) | Interact with a nonmagical object or effect. |
+[Attack](#attack) · 
+[Dash](#dash) · 
+[Disengage](#disengage) · 
+[Dodge](#dodge) · 
+[Help](#help) · 
+[Hide](#hide) · 
+[Magic](#magic) · 
+[Ready](#ready) · 
+[Search](#search) · 
+[Study](#study) · 
+[Utilize](#utilize)
+{ .keyword-jump }
 
 ##### Attack
-You make an Attack Roll with a Weapon you wield or with an Unarmed Strike.
+You make **1** Attack Roll with a Weapon or Unarmed Strike.
 
 ##### Dash
-You gain extra movement equal to your Speed until the end of your Turn.
+Your total movement increases by your Speed until the end of the Turn.
 
 ##### Disengage
-Until the end of your Turn, your movement doesn't provoke Opportunity Attacks.
+Your movement doesn't trigger Opportunity Attacks until the end of the Turn.
 
 ##### Dodge
-Until the start of your next Turn, Attack Rolls against you gain Disadvantage and your Reflex Saves gain Advantage. These effects end early if you become Incapacitated or your Speed becomes **0**.
+Attack Rolls against you gain Disadvantage and your Reflex Saves gain Advantage until the start of your next Turn, you become Incapacitated, or your Speed becomes **0**.
 
 ##### Help
-Choose an Ally or an Enemy within your Reach. The effect lasts until the start of your next Turn.
+Choose an Ally or an Enemy within your Reach. The corresponding effect lasts until the start of your next Turn.
 
 | | |
 |---|---|
@@ -44,26 +41,24 @@ Choose an Ally or an Enemy within your Reach. The effect lasts until the start o
 | Enemy | The next Attack Roll an Ally makes against the Enemy gains Advantage. |
 
 ##### Hide
-Make a Stealth Check. You become Hidden, and the Ability Check's total is your Hide DC.
+Make a Stealth Check. You become Hidden _(DC **the Stealth Check's total**)_.
 
 ##### Magic
-You Cast a Spell, or use a feature or Item that produces a magical effect.
+You use a spell, feature, or item that produces a magical effect.
 
 ##### Ready
-Choose an Action and a perceivable trigger for it.
+Choose another Action and a perceivable trigger for it.
 
-Until the start of your next Turn, after the trigger occurs, you can take the chosen Action as a Reaction.
-
-You can't Ready outside an Encounter; trying to do so starts Initiative first.
+After the next time the trigger occurs before the start of your next Turn, you can take the chosen Action as a Reaction.
 
 ###### Readying a Dash
-If you Ready a Dash, you can use the extra movement as part of the Reaction.
+If you Ready a Dash, you can move using the extra movement as part of the Reaction.
 
 ###### Readying Magic
 If you Ready a Magic Action, you Concentrate until you take the readied Action. If your Concentration breaks, you can't take the readied Action, but you don't expend the Spell Slot or the Action's other costs.
 
 ##### Search
-Make a Wisdom Check to notice something that isn't obvious. What you're looking for sets the Skill that applies:
+Make a Wisdom Check to notice something that isn't obvious. What you're looking for determines the Skill that applies:
 
 | | |
 |---|---|
@@ -72,9 +67,7 @@ Make a Wisdom Check to notice something that isn't obvious. What you're looking 
 | Survival | Tracks, food, or a Beast's state of mind |
 
 ##### Study
-Make an Intelligence Check to recall or discern a piece of knowledge.
-
-The subject sets the Skill that applies:
+Make an Intelligence Check to recall or discern a piece of knowledge.  The subject sets the Skill that applies:
 
 | | |
 |---|---|
@@ -88,15 +81,18 @@ The subject sets the Skill that applies:
 You interact with one nonmagical object or environmental effect.
 
 ### Bonus Actions
-You can take a Bonus Action only when a Spell or feature lets you. You can also spend a Normal Action to take a Bonus Action, but you can't take the same Bonus Action more than once per Turn.
+A **Bonus Action** is especially quick, and can only be taken when a feature or effect lets you. You can also spend a Normal Action to take a Bonus Action, but you can't take the same Bonus Action more than once per Turn.
 
-### Object Action
-You can interact with one nonmagical object or environmental effect that doesn't require the Utilize Action — such as drawing a weapon, opening a door, picking up an item, or handing one to another creature.
+### Object Actions
+An **Object Action** lets you interact with one nonmagical object or environmental effect that doesn't require the Utilize Action — such as drawing a weapon, opening a door, picking up an item, or handing an item to another creature.  You can also Utilize to take an additional Object Action.
 
 ### Reactions
-A Reaction is taken in response to a trigger, and each Spell or feature that uses one states its trigger.
+A **Reaction** is taken in response to a trigger, and each Spell or feature that uses one states its trigger.
 
 Unlike other Actions, you can take a Reaction on any creature's Turn, but you can take only one Reaction until the start of your next Turn. If your Reaction interrupts another creature's Turn, that Turn resumes right after the Reaction.
 
 #### Opportunity Attacks
-`Description TBD`
+An **Opportunity Attack** is an attack made as a Reaction, and can only by taken when a feature or effect lets you.
+
+### Free Actions
+A **Free Action** requires no serious effort, and can only be taken when a feature or effect lets you.  Unlike other Actions, you can take any number of Free Actions on your Turn.

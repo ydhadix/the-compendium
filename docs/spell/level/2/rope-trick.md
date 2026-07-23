@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Wizard |
 | Components | V, S, M _(rope worth 1 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | — |
 | Duration | 1 hour |

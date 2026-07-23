@@ -1,1 +1,1 @@
-| [Frostbite](/spell/level/0/frostbite.md) | Evocation | V, S | Normal Action | 60 ft. | One thing | Until the end of your next Turn |
+| [Frostbite](/spell/level/0/frostbite.md) | Evocation | V, S | Magic Action | 60 ft. | One thing | Until the end of your next Turn |

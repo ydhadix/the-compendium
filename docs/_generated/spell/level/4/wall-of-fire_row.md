@@ -1,1 +1,1 @@
-| [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Normal Action | 120 ft. | A 60-ft. × 5-ft. × 20-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder | 1 minute (C) |
+| [Wall of Fire](/spell/level/4/wall-of-fire.md) | Evocation | V, S, M | Magic Action | 120 ft. | A 60-ft. × 5-ft. × 20-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder | 1 minute (C) |

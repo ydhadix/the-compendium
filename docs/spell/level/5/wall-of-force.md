@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Wizard |
 | Components | V, S, M _(a shard of glass)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | — |
 | Duration | 10 minutes (Concentration) |

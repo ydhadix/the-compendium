@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Cleric, Sorcerer, Warlock, Wizard |
 | Components | V, S, M _(a pentacle)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | One creature |
 | Duration | 1 minute (Concentration) |

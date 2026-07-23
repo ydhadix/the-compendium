@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Bard, Sorcerer |
 | Components | V, S, M _(consumes a pearl worth 100 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | One creature |
 | Duration | 1 hour |

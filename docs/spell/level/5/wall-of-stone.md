@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Druid, Sorcerer, Wizard |
 | Components | V, S, M _(a cube of granite)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 120 ft. |
 | Target | — |
 | Duration | 10 minutes (Concentration) |

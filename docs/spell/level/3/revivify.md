@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Artificer, Cleric, Druid, Paladin, Ranger |
 | Components | V, S, M _(consumes a diamond worth 300 Gold)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | Reach |
 | Target | One creature that died within the past minute |
 | Duration | — |

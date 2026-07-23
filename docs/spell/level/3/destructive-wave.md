@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Paladin |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | — |
 | Target | Each creature you choose in a 30-ft. Aura |
 | Duration | — |

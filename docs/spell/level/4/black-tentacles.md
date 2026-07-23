@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Wizard |
 | Components | V, S, M _(a tentacle)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 90 ft. |
 | Target | Everything in a 20-ft. Square |
 | Duration | 1 minute (Concentration) |

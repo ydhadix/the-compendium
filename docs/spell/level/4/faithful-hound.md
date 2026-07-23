@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Wizard |
 | Components | V, S, M _(a silver whistle)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 30 ft. |
 | Target | — |
 | Duration | 8 hours |

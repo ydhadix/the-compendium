@@ -6,7 +6,7 @@ Evocation Cantrip
 |---|---|
 | Classes | Artificer, Sorcerer, Warlock, Wizard |
 | Components | S, M _(a melee weapon)_ |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | The material component's Reach |
 | Target | One thing |
 | Duration | Until the end of your next Turn |

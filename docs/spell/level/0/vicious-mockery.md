@@ -6,7 +6,7 @@ Enchantment Cantrip
 |---|---|
 | Classes | Bard |
 | Components | V |
-| Casting Time | Normal Action |
+| Casting Time | Magic Action |
 | Range | 60 ft. |
 | Target | One thing |
 | Duration | Until the end of your next Turn |
