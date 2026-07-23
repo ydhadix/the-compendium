@@ -11,6 +11,7 @@ banner: campaign/aeneas.png
 | [Hero Handbook](character/index.md) |
 | [Item Index](item/index.md) |
 | [Spell Selection](spell/index.md) |
+| [Creature Codex](bestiary/index.md) |
 | [Bastion Blueprints](bastion/index.md) |
 | [Spelljammer Schematics](spelljammer/index.md) |
 | [The Archive](archive/index.md) |

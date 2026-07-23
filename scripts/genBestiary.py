@@ -147,33 +147,24 @@ def WriteBodies(card):
     return paths
 
 
-def LetterKey(title):
-    """Jump-nav bucket for a title: its uppercased first letter, or '0-9' for a digit/symbol."""
-    first = title.strip()[:1].upper()
-    return first if first.isalpha() else "0-9"
+MAX_LEVEL = 30
 
 
-def LetterGrouped(header, records):
-    """Records (title, row) as `## <Letter>` sections, alphabetical; header-only table when empty."""
-    if not records:
-        return C.TableBlock(header, [])
-    parts = []
-    ordered = sorted(records, key=lambda entry: entry[0].lower())
-    for letter in sorted(set(LetterKey(title) for (title, row) in ordered)):
-        rows = [row for (title, row) in ordered if LetterKey(title) == letter]
-        parts.append(f"## {letter}")
-        parts.append("")
-        parts.append(C.TableBlock(header, rows).rstrip("\n"))
-        parts.append("")
-    return "\n".join(parts).rstrip("\n") + "\n"
+def LevelJumpNav(active):
+    """Jump nav over `Level 0 · 1 … 20`; levels in `active` link to their `## Level <N>` section."""
+    buckets = [(("Level 0" if n == 0 else str(n)), f"level-{n}") for n in range(MAX_LEVEL + 1)]
+    return C.JumpNav(buckets, active)
 
 
 def LevelGrouped(header, records):
-    """Records (level, title, row) as `## Level <N>` sections, by level then name; empty-safe."""
-    if not records:
-        return C.TableBlock(header, [])
-    parts = []
+    """Records (level, title, row) as a level jump-nav + `## Level <N>` sections, by level then name.
+
+    Always leads with the jump nav (every level shown, active ones linked); an empty record set
+    yields the nav alone so the include still resolves.
+    """
     ordered = sorted(records, key=lambda entry: (entry[0], entry[1].lower()))
+    active = set(f"level-{level}" for (level, title, row) in ordered)
+    parts = [LevelJumpNav(active), ""]
     for level in sorted(set(level for (level, title, row) in ordered)):
         rows = [row for (lv, title, row) in ordered if lv == level]
         parts.append(f"## Level {level}")
@@ -212,7 +203,7 @@ def Main():
             for t in CreatureTypes(card.text):
                 byType[t].append((levelNum, card.title, row))
         C.WriteText(MIRROR_ROOT / "level" / folder.name / "_index_table.md",
-                    LetterGrouped(LEVEL_HEADER, levelRecords))
+                    C.LetterGrouped(LEVEL_HEADER, levelRecords))
 
     # One level-grouped table per creature type (emitted for every type so every include resolves).
     for t in CREATURE_TYPES:
@@ -227,7 +218,7 @@ def Main():
         rows.append(C.WriteSnippet(path, row))
         bodies.extend(WriteBodies(card))
         summonRecords.append((card.title, row))
-    C.WriteText(MIRROR_ROOT / "summon" / "_index_table.md", LetterGrouped(SUMMON_HEADER, summonRecords))
+    C.WriteText(MIRROR_ROOT / "summon" / "_index_table.md", C.LetterGrouped(SUMMON_HEADER, summonRecords))
 
     prunedBodies = C.PruneBodies(MIRROR_ROOT, bodies)
     prunedRows = C.PruneOrphans(MIRROR_ROOT, rows)

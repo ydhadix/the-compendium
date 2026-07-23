@@ -55,14 +55,14 @@ def Main():
     written = []
     for rarity in RARITIES:
         rarityDisplay = DisplayRarity(rarity)
-        rows = []
+        records = []
         for path in SourceCards(rarity):
             card = C.ReadCard(path)
             typeText, attunement = TypeAndAttunement(card.subtitle, rarityDisplay)
             row = C.RenderRow([C.Link(card), typeText, rarityDisplay, attunement])
             written.append(C.WriteSnippet(path, row))
-            rows.append(row)
-        C.WriteText(MIRROR_ROOT / rarity / "_index_table.md", C.TableBlock(HEADER, rows))
+            records.append((card.title, row))
+        C.WriteText(MIRROR_ROOT / rarity / "_index_table.md", C.LetterGrouped(HEADER, records))
     removed = C.PruneOrphans(MIRROR_ROOT, written)
     print(f"Magic items: wrote {len(written)} rows, pruned {removed}.")
 

@@ -6,6 +6,7 @@ aggregate tables shaped like the real host indices. Row links use the `/`-prefix
 `absolute_links: relative_to_docs` resolver expects; blank cells render as an em-dash.
 """
 
+import string
 from collections import namedtuple
 from pathlib import Path
 
@@ -188,6 +189,42 @@ def TableBlock(headerCells, rows, preamble=""):
     lines.extend(rows)
     result = "\n".join(lines) + "\n"
     return result
+
+
+def LetterKey(title):
+    """Jump-nav bucket for a title: its uppercased first letter, or '0-9' for a digit/symbol."""
+    first = title.strip()[:1].upper()
+    return first if first.isalpha() else "0-9"
+
+
+def JumpNav(buckets, active):
+    """A `{ .keyword-jump }` nav line over `buckets` [(label, anchor), ...]; active anchors link."""
+    cells = [f"[{label}](#{anchor})" if anchor in active else label for (label, anchor) in buckets]
+    return " · ".join(cells) + "\n{ .keyword-jump }"
+
+
+def LetterJumpNav(active):
+    """Jump nav over the letter buckets `0-9 · A … Z`; letters in `active` link to their section."""
+    buckets = [("0-9", "0-9")] + [(letter, letter.lower()) for letter in string.ascii_uppercase]
+    return JumpNav(buckets, active)
+
+
+def LetterGrouped(header, records):
+    """Records (title, row) as a letter jump-nav + `## <Letter>` sections, alphabetical.
+
+    Always leads with the jump nav (every bucket shown, active ones linked); an empty record set
+    yields the nav alone so the include still resolves.
+    """
+    ordered = sorted(records, key=lambda entry: entry[0].lower())
+    letters = sorted(set(LetterKey(title) for (title, row) in ordered))
+    parts = [LetterJumpNav(set(letter.lower() for letter in letters)), ""]
+    for letter in letters:
+        rows = [row for (title, row) in ordered if LetterKey(title) == letter]
+        parts.append(f"## {letter}")
+        parts.append("")
+        parts.append(TableBlock(header, rows).rstrip("\n"))
+        parts.append("")
+    return "\n".join(parts).rstrip("\n") + "\n"
 
 
 def MirrorRowPath(sourcePath):
