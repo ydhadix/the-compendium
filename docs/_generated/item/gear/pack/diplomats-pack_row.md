@@ -1,1 +1,0 @@
-| [Diplomat's Pack](/item/gear/pack/diplomats-pack.md) | Other | 39 gold |

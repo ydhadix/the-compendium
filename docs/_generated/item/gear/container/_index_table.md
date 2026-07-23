@@ -10,6 +10,7 @@
 | [Glass Bottle](/item/gear/container/glass-bottle.md) | Container | 2 gold |
 | [Iron Pot](/item/gear/container/iron-pot.md) | Container | 2 gold |
 | [Jug](/item/gear/container/jug.md) | Container | 2 copper |
+| [Map or Scroll Case](/item/gear/container/map-or-scroll-case.md) | Container | 1 gold |
 | [Pouch](/item/gear/container/pouch.md) | Container | 5 silver |
 | [Quiver](/item/gear/container/quiver.md) | Container | 1 gold |
 | [Sack](/item/gear/container/sack.md) | Container | 1 copper |

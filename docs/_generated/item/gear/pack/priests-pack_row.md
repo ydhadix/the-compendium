@@ -1,1 +1,0 @@
-| [Priest's Pack](/item/gear/pack/priests-pack.md) | Other | 19 gold |

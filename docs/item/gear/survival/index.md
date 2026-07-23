@@ -1,5 +1,5 @@
-# Survival
-Survival gear is the bedrolls, rations, and shelter that keep a character fed, rested, and alive on a long journey.
+# Survival Gear
+`Description TBD`
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

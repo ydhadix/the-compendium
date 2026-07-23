@@ -174,49 +174,37 @@ nav:
 
     - Item Index:
       - Item Overview:              item/index.md
-      - Crafting Items:             item/crafting.md
-      - Item Materials:             item/material/index.md
-      - Masterwork:                 item/masterwork.md
-      - "---": "sep:"
-      - Currency:                   item/currency.md
       - Adventuring Gear:
         - Gear Overview:            item/gear/index.md
-        - Combat:                   item/gear/combat/index.md
-        - Spellcasting Focuses:     item/gear/spell-focus/index.md
-        - Medical:                  item/gear/medical/index.md
         - Clothing:                 item/gear/clothing/index.md
-        - Survival:                 item/gear/survival/index.md
+        - Combat Gear:              item/gear/combat/index.md
         - Containers:               item/gear/container/index.md
-        - Tools:                    item/gear/tool/index.md
+        - Crafting Materials:       item/gear/material/index.md
         - Light Sources:            item/gear/lighting/index.md
+        - Poisons:                  item/gear/poison/index.md
+        - Potions:                  item/gear/potion/index.md
+        - Scrolls:                  item/gear/scroll/index.md
+        - Spellcasting Focuses:     item/gear/spell-focus/index.md
+        - Survival Gear:            item/gear/survival/index.md
+        - Tools:                    item/gear/tool/index.md
         - Writing:                  item/gear/writing/index.md
-        - "---": "sep:"
-        - Gear Packs:               item/gear/pack/index.md
-      - Trades:
-        - Trade Overview:           item/trade/index.md
-        - Artisan's Tools:          item/trade/artisan/index.md
-        - Musical Instruments:      item/trade/music.md
-        - Gaming Sets:              item/trade/gaming.md
+      - Trades:                     item/trade/index.md
       - Weapons:
         - Weapons Overview:         item/weapon/index.md
-        - Weapon Types:             item/weapon/type.md
         - Weapon Properties:        item/weapon/property/index.md
         - Weapon Mastery:           item/weapon/mastery/index.md
-      - Armor:
-        - Armor Overview:           item/armor/index.md
-        - Armor Types:              item/armor/type.md
-        - Shields:                  item/armor/shield.md
+      - Armor:                      item/armor.md
       - Magic Items:
         - Infusion Overview:        item/magic/index.md
         - Infusing Items:           item/magic/infusing.md
         - "Infusions by Rarity": "sep:"
-        - Common:                 item/magic/infusion/common/index.md
-        - Uncommon:               item/magic/infusion/uncommon/index.md
-        - Rare:                   item/magic/infusion/rare/index.md
-        - Very Rare:              item/magic/infusion/very-rare/index.md
-        - Legendary:              item/magic/infusion/legendary/index.md
-        - Artifacts:              item/magic/infusion/artifact/index.md
-        - Unique:                 item/magic/infusion/unique/index.md
+        - Common:                   item/magic/infusion/common/index.md
+        - Uncommon:                 item/magic/infusion/uncommon/index.md
+        - Rare:                     item/magic/infusion/rare/index.md
+        - Very Rare:                item/magic/infusion/very-rare/index.md
+        - Legendary:                item/magic/infusion/legendary/index.md
+        - Artifacts:                item/magic/infusion/artifact/index.md
+        - Unique:                   item/magic/infusion/unique/index.md
 
     - Spell Selection:
       - Spell Overview:             spell/index.md

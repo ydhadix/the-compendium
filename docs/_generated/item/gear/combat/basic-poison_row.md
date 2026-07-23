@@ -1,1 +1,0 @@
-| [Basic Poison](/item/gear/combat/basic-poison.md) | Poison (Injury) | 100 gold |

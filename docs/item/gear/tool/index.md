@@ -1,5 +1,5 @@
 # Tools
-Tools are the crowbars, ropes, and lockpicks a character reaches for when a task calls for the right implement rather than raw force.
+`Description TBD`
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

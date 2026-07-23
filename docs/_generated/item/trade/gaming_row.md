@@ -1,1 +1,0 @@
-| [Gaming Sets](/item/trade/gaming.md) | Tool | Value varies |

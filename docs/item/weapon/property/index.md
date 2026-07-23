@@ -1,18 +1,17 @@
 # Weapon Properties
-Weapon Properties are the traits that set one weapon apart from another, defining how it's held, how it strikes, and what a wielder can do with it.
+**Weapon Properties** are traits that set one weapon apart from another, defining how it's held, how it strikes, and what a wielder can do with it.
 { .subtitle }
 
-| Property | Description |
-|---|---|
-| [Ammunition](#ammunition) | Fires ammunition, spent with each shot. |
-| [Finesse](#finesse) | Attacks with Strength or Dexterity. |
-| [Heavy](#heavy) | Unwieldy without the Strength to handle it. |
-| [Light](#light) | Pairs with a second Light weapon for an extra attack. |
-| [Loading](#loading) | Fires only once per Attack Action. |
-| [Reach](#reach) | Strikes five feet farther than normal. |
-| [Thrown](#thrown) | Can be hurled as a Ranged Attack. |
-| [Two-Handed](#two-handed) | Needs both hands to attack. |
-| [Versatile](#versatile) | Wielded in one hand or two for more damage. |
+[Ammunition](#ammunition) · 
+[Finesse](#finesse) · 
+[Heavy](#heavy) · 
+[Light](#light) · 
+[Loading](#loading) · 
+[Reach](#reach) · 
+[Thrown](#thrown) · 
+[Two-Handed](#two-handed) · 
+[Versatile](#versatile)
+{ .keyword-jump }
 
 --8<-- "item/weapon/property/ammunition.md"
 

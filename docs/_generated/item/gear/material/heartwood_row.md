@@ -1,0 +1,1 @@
+| [Heartwood](/item/gear/material/heartwood.md) | Material | 1,000 gold |

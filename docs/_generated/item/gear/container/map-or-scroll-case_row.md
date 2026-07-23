@@ -1,0 +1,1 @@
+| [Map or Scroll Case](/item/gear/container/map-or-scroll-case.md) | Container | 1 gold |

@@ -1,5 +1,5 @@
 # Containers
-Containers are the sacks, chests, and flasks a character uses to carry and store everything else.
+`Description TBD`
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

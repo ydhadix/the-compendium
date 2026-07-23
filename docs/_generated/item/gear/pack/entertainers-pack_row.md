@@ -1,1 +1,0 @@
-| [Entertainer's Pack](/item/gear/pack/entertainers-pack.md) | Other | 40 gold |

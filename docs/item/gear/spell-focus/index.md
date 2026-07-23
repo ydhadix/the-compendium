@@ -1,5 +1,5 @@
 # Spellcasting Focuses
-A Spellcasting Focus is an implement a caster holds to channel magic, standing in for a Spell's material components.
+`Description TBD`
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

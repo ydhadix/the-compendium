@@ -1,5 +1,5 @@
-# Writing
-Writing supplies are the paper, ink, and books a character uses to keep records, send letters, and preserve knowledge.
+# Writing Implements
+`Description TBD`
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

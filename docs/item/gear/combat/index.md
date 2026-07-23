@@ -1,5 +1,5 @@
 # Combat Gear
-Combat gear is the throwables, ammunition, and traps a character brings to bear when a fight calls for more than a weapon.
+`Description TBD`
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

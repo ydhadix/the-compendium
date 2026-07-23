@@ -31,7 +31,7 @@
 | [Ability Maximum](/bestiary/trait/ability.md#ability-maximum) | Ability |
 | [Abjuration](/spell/parts.md#school-of-magic) | School of Magic |
 | [Abyssal](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
-| [Acid](/rules/dice/damage.md#elemental-damage) | Elemental Damage Type |
+| [Acid](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
 | [Acrobatics](/bestiary/trait/skill.md) | Skill |
 | [Action](/rules/adventure/action.md) | Action |
 | [Advantage](/rules/dice/index.md#advantage-disadvantage) | Dice Roll |
@@ -48,11 +48,11 @@
 | [Arcana](/bestiary/trait/skill.md) | Skill |
 | [Arcane Focus](/item/gear/spell-focus/arcane-focus.md) | Spellcasting Focus |
 | [Area](/rules/position/target.md#areas) | Targets |
-| [Armor](/item/armor/index.md) | Item Index |
+| [Armor](/item/armor.md) | Item Index |
 | [Armor Class](/bestiary/trait/defense.md#armor-class) | Defense |
-| [Artifact](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
+| [Artifact](/item/magic/infusion/artifact/index.md) | Infusion Rarity |
 | [Artificer](/character/class/artificer/index.md) | Class |
-| [Artisan's Tool](/item/trade/artisan/index.md) | Trade |
+| [Artisan's Tool](/item/trade/index.md#artisans-tools) | Trade |
 | [Athletics](/bestiary/trait/skill.md) | Skill |
 | [Attack Action](/rules/adventure/action.md#attack) | Normal Action |
 | [Attack Roll](/rules/dice/attack.md) | Dice Roll |
@@ -67,17 +67,17 @@
 | [Bard](/character/class/bard/index.md) | Class |
 | [Bastion](/bastion/index.md) | Bastion |
 | [Beast](/bestiary/type/index.md) | Creature Type |
-| [Belt](/item/index.md#clothing-types) | Clothing Type |
-| [Blade](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
+| [Belt](/item/gear/clothing/index.md) | Clothing |
+| [Blade](/item/weapon/index.md#martial-weapons) | Martial Weapon |
 | [Bleeding](/rules/adventure/condition.md#bleeding) | Condition |
 | [Blinded](/rules/adventure/condition.md#blinded) | Condition |
 | [Blindsight](/bestiary/trait/sense.md#blindsight) | Sense |
 | [Bloodied](/bestiary/trait/defense.md#bloodied) | Defense |
-| [Bludgeoning](/rules/dice/damage.md#physical-damage) | Physical Damage Type |
+| [Bludgeoning](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Bonus Action](/rules/adventure/action.md#bonus-actions) | Action |
-| [Boots](/item/index.md#clothing-types) | Clothing Type |
-| [Bow](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
-| [Bracers](/item/index.md#clothing-types) | Clothing Type |
+| [Boots](/item/gear/clothing/index.md) | Clothing |
+| [Bow](/item/weapon/index.md#martial-weapons) | Martial Weapon |
+| [Bracers](/item/gear/clothing/index.md) | Clothing |
 | [Bright Light](/rules/position/visibility.md#lighting) | Visibility |
 | [Burning](/rules/adventure/condition.md#burning) | Condition |
 | [Burrow Speed](/bestiary/trait/speed.md#burrow) | Speed |
@@ -101,16 +101,15 @@
 | [Cleric](/character/class/cleric/index.md) | Class |
 | [Climb](/rules/position/movement.md#climbing) | Movement |
 | [Climb Speed](/bestiary/trait/speed.md#climb) | Speed |
-| [Cloak](/item/index.md#clothing-types) | Clothing Type |
+| [Cloak](/item/gear/clothing/index.md) | Clothing |
 | [Close Range](/spelljammer/encounter.md#encounter-scale) | Spelljammer Engagement Range |
-| [Clothes](/item/index.md#clothing-types) | Clothing Type |
-| [Clothing](/item/index.md#item-types) | Item Type |
-| [Clothing Type](/item/index.md#clothing-types) | Item Type |
-| [Cold](/rules/dice/damage.md#elemental-damage) | Elemental Damage Type |
+| [Clothes](/item/gear/clothing/index.md) | Clothing |
+| [Clothing](/item/gear/clothing/index.md) | Adventuring Gear |
+| [Cold](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
 | [Combat](/rules/adventure/encounter.md#combat) | Encounter |
-| [Command Word](/item/magic/index.md) | Magic Item |
+| [Command Word](/item/magic/index.md#command-words) | Magic Item |
 | [Common](/bestiary/trait/language.md#standard-languages) | Standard Language |
-| [Common](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
+| [Common](/item/magic/infusion/common/index.md) | Infusion Rarity |
 | [Common Sign Language](/bestiary/trait/language.md#standard-languages) | Standard Language |
 | [Companion](/bestiary/npc/companion.md) | NPC |
 | [Component](/spelljammer/creation/component/index.md) | Spelljammer |
@@ -123,21 +122,21 @@
 | [Conjuration](/spell/parts.md#school-of-magic) | School of Magic |
 | [Constitution](/bestiary/trait/ability.md#the-six-abilities) | Ability |
 | [Construct](/bestiary/type/index.md) | Creature Type |
-| [Consumable](/item/index.md#consumables) | Item |
-| [Container](/item/index.md#item-types) | Item Type |
-| [Copper](/item/currency.md#denominations) | Currency |
+| [Consumable](/item/index.md#consumable-items) | Item |
+| [Container](/item/index.md#item-types) | Adventuring Gear |
+| [Copper](/item/index.md#denominations) | Currency |
 | [Corroding](/rules/adventure/condition.md#corroding) | Condition |
 | [Cost](/item/index.md) | Item |
 | [Cover](/rules/position/cover.md) | Cover |
-| [Crafting](/item/crafting.md) | Item Index |
+| [Crafting](/item/index.md#crafting-items) | Item Index |
 | [Cramped](/bastion/index.md) | Bastion Size |
 | [Creature Type](/bestiary/type/index.md) | Creature Type |
 | [Critical Hit](/rules/dice/attack.md#critical-hits) | Attack Roll |
 | [Critical Hit Range](/rules/dice/attack.md#critical-hit-range) | Critical Hit |
-| [Crossbow](/item/weapon/type.md#simple-weapons) | Simple Weapon Type |
+| [Crossbow](/item/weapon/index.md#simple-weapons) | Simple Weapon |
 | [Cube](/rules/position/target.md#areas) | Area |
-| [Currency](/item/currency.md) | Item Index |
-| [Cursed](/item/magic/index.md) | Magic Item |
+| [Currency](/item/index.md#currency) | Item Index |
+| [Cursed Item](/item/magic/index.md#cursed-items) | Magic Item |
 | [Cylinder](/rules/position/target.md#areas) | Area |
 
 ## D
@@ -160,7 +159,7 @@
 | [Deep Speech](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
 | [Defense](/bestiary/trait/defense.md) | Defense |
 | [Dehydration](/rules/adventure/hazard.md#dehydration) | Hazard |
-| [Delta Weapon](/item/weapon/type.md#delta-weapons) | Weapon Type |
+| [Delta Weapon](/item/weapon/index.md#delta-weapons) | Weapon |
 | [Devil's Sight](/bestiary/trait/sense.md#devils-sight) | Sense |
 | [Dexterity](/bestiary/trait/ability.md#the-six-abilities) | Ability |
 | [Dice Roll](/rules/dice/index.md) | Dice Roll |
@@ -217,17 +216,17 @@
 | [Feat](/character/feat/index.md) | Hero Handbook |
 | [Feature](/character/index.md#features) | Character |
 | [Feature Ability](/character/class/index.md#feature-ability) | Class |
-| [Fence](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
+| [Fence](/item/weapon/index.md#martial-weapons) | Martial Weapon |
 | [Fey](/bestiary/type/index.md) | Creature Type |
 | [Fiend](/bestiary/type/index.md) | Creature Type |
 | [Fighter](/character/class/fighter/index.md) | Class |
 | [Fighting Style](/character/feat/index.md) | Feat |
 | [Finesse](/item/weapon/property/index.md#finesse) | Weapon Property |
-| [Fire](/rules/dice/damage.md#elemental-damage) | Elemental Damage Type |
-| [Firearm](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
+| [Fire](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
+| [Firearm](/item/weapon/index.md#martial-weapons) | Martial Weapon |
 | [Fly](/rules/position/movement.md#flying) | Movement |
 | [Fly Speed](/bestiary/trait/speed.md#fly) | Speed |
-| [Force](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage Type |
+| [Force](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Fortitude](/rules/dice/save.md#types-of-saves) | Saving Throw |
 | [Foul Air](/rules/adventure/hazard.md#air-quality) | Air Quality |
 | [Free Action](/rules/adventure/action.md#free-actions) | Action |
@@ -238,18 +237,19 @@
 ## G
 | Keyword | Location |
 |---|---|
+| [Gaming Set](/item/trade/index.md#gaming-sets) | Trade |
 | [Gargantuan](/bestiary/trait/size.md) | Size Category |
 | [General Feat](/character/feat/index.md) | Feat |
 | [Giant](/bestiary/type/index.md) | Creature Type |
 | [Giant](/bestiary/trait/language.md#standard-languages) | Standard Language |
-| [Gloves](/item/index.md#clothing-types) | Clothing Type |
+| [Gloves](/item/gear/clothing/index.md) | Clothing |
 | [Gnome](/character/race/gnome.md) | Race |
 | [Gnomish](/bestiary/trait/language.md#standard-languages) | Standard Language |
 | [Goblin](/bestiary/trait/language.md#standard-languages) | Standard Language |
-| [Gold](/item/currency.md#denominations) | Currency |
+| [Gold](/item/index.md#denominations) | Currency |
 | [Goliath](/character/race/goliath.md) | Race |
 | [Good](/bestiary/trait/alignment.md) | Alignment |
-| [Grapple](/item/weapon/type.md#grapple) | Unarmed Strike |
+| [Grapple](/item/weapon/index.md#grapple) | Unarmed Strike |
 | [Grappled](/rules/adventure/condition.md#grappled) | Condition |
 | [Graze](/item/weapon/mastery/index.md#graze) | Weapon Mastery |
 
@@ -259,12 +259,12 @@
 | [Half Cover](/rules/position/cover.md) | Cover |
 | [Halfling](/bestiary/trait/language.md#standard-languages) | Standard Language |
 | [Halfling](/character/race/halfling.md) | Race |
-| [Hammer](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
-| [Hat](/item/index.md#clothing-types) | Clothing Type |
+| [Hammer](/item/weapon/index.md#martial-weapons) | Martial Weapon |
+| [Hat](/item/gear/clothing/index.md) | Clothing |
 | [Hazard](/rules/adventure/hazard.md) | Adventuring |
 | [Heavily Obscured](/rules/position/visibility.md#obscurement) | Visibility |
 | [Heavy](/item/weapon/property/index.md#heavy) | Weapon Property |
-| [Heavy](/item/armor/index.md) | Armor Weight |
+| [Heavy Armor](/item/armor.md#heavy-armor) | Armor Weight |
 | [Help Action](/rules/adventure/action.md#help) | Normal Action |
 | [Hidden](/rules/adventure/condition.md#hidden) | Condition |
 | [Hide Action](/rules/adventure/action.md#hide) | Normal Action |
@@ -287,7 +287,7 @@
 | [Immobile](/rules/adventure/condition.md#immobile) | Condition |
 | [Immunity](/bestiary/trait/defense.md#immunity) | Defense |
 | [Imprint](/character/class/ranger/imprint/index.md) | Ranger Feature |
-| [Improvised Weapon](/item/weapon/type.md#improvised-weapons) | Weapon Type |
+| [Improvised Weapon](/item/weapon/index.md#improvised-weapons) | Weapon |
 | [Incapacitated](/rules/adventure/condition.md#incapacitated) | Condition |
 | [Independent](/bestiary/npc/disposition.md) | Disposition |
 | [Infernal](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
@@ -300,12 +300,11 @@
 | [Invisible](/rules/adventure/condition.md#invisible) | Condition |
 | [Invocation](/character/class/warlock/invocation/index.md) | Warlock Feature |
 | [Item](/item/index.md) | Item |
-| [Item Type](/item/index.md#item-types) | Item |
 
 ## J
 | Keyword | Location |
 |---|---|
-| [Jewelry](/item/index.md#clothing-types) | Clothing Type |
+| [Jewelry](/item/gear/clothing/index.md) | Clothing |
 | [Jump](/rules/position/movement.md#jumping) | Movement |
 
 ## K
@@ -320,14 +319,14 @@
 | [Large](/bestiary/trait/size.md) | Size Category |
 | [Lawful](/bestiary/trait/alignment.md) | Alignment |
 | [Learned](/spell/preparing.md#learned-spells) | Spellcasting |
-| [Legendary](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
+| [Legendary](/item/magic/infusion/legendary/index.md) | Infusion Rarity |
 | [Level](/character/class/index.md#leveling-up) | Class |
 | [Level](/spell/parts.md#spell-level) | Spellcasting |
 | [Leviathan](/spelljammer/leviathan.md) | Spelljammer |
 | [Light](/item/weapon/property/index.md#light) | Weapon Property |
-| [Light](/item/armor/index.md) | Armor Weight |
+| [Light Armor](/item/armor.md#light-armor) | Armor Weight |
 | [Lightly Obscured](/rules/position/visibility.md#obscurement) | Visibility |
-| [Lightning](/rules/dice/damage.md#elemental-damage) | Elemental Damage Type |
+| [Lightning](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
 | [Line](/rules/position/target.md#areas) | Area |
 | [Line of Effect](/rules/position/target.md#line-of-effect) | Target |
 | [Loading](/item/weapon/property/index.md#loading) | Weapon Property |
@@ -344,31 +343,31 @@
 | [Magical Darkness](/rules/position/visibility.md#magical-darkness) | Visibility |
 | [Maneuver](/spelljammer/officer/pilot/index.md) | Spelljammer |
 | [Marked](/rules/adventure/condition.md#marked) | Condition |
-| [Martial Weapon](/item/weapon/type.md#martial-weapons) | Weapon Type |
-| [Masterwork](/item/masterwork.md) | Item Index |
-| [Material](/item/material/index.md) | Item Index |
+| [Martial Weapon](/item/weapon/index.md#martial-weapons) | Weapon |
+| [Masterwork](/item/index.md#masterwork) | Item Index |
+| [Material](/item/gear/material/index.md) | Adventuring Gear |
 | [Material](/spell/parts.md#material) | Spell Component |
 | [Medicine](/bestiary/trait/skill.md) | Skill |
 | [Medium](/bestiary/trait/size.md) | Size Category |
-| [Medium](/item/armor/index.md) | Armor Weight |
+| [Medium Armor](/item/armor.md#medium-armor) | Armor Weight |
 | [Melee Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
-| [Melee Weapon](/item/weapon/index.md#melee-and-ranged-weapons) | Weapon Type |
+| [Melee Weapon](/item/weapon/index.md#melee-and-ranged-weapons) | Weapon |
 | [Metamagic](/character/class/sorcerer/metamagic/index.md) | Sorcerer Feature |
 | [Monk](/character/class/monk/index.md) | Class |
 | [Monstrosity](/bestiary/type/index.md) | Creature Type |
 | [Mount](/bestiary/npc/mount.md) | NPC |
 | [Movement](/rules/position/movement.md) | Movement |
 | [Multiclass](/character/class/index.md#secondary-class) | Class |
-| [Musical Instrument](/item/trade/music.md) | Trade |
+| [Musical Instrument](/item/trade/index.md#musical-instruments) | Trade |
 
 ## N
 | Keyword | Location |
 |---|---|
-| [Natural Armor](/item/armor/type.md) | Armor Type |
-| [Natural Weapon](/item/weapon/type.md#natural-weapons) | Unarmed Strike |
+| [Natural Armor](/item/armor.md#natural-armor) | Armor |
+| [Natural Weapon](/item/weapon/index.md#natural-weapons) | Unarmed Strike |
 | [Nature](/bestiary/trait/skill.md) | Skill |
 | [Necromancy](/spell/parts.md#school-of-magic) | School of Magic |
-| [Necrotic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage Type |
+| [Necrotic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Neutral](/bestiary/trait/alignment.md) | Alignment |
 | [Nick](/item/weapon/mastery/index.md#nick) | Weapon Mastery |
 | [Nonlethal Attack](/rules/dice/attack.md#nonlethal-attacks) | Attack Roll |
@@ -388,7 +387,7 @@
 | [Orcish](/bestiary/trait/language.md#standard-languages) | Standard Language |
 | [Origin](/rules/position/target.md#origin) | Area |
 | [Origin Feat](/character/feat/index.md) | Feat |
-| [Other](/item/index.md#item-types) | Item Type |
+| [Other](/item/index.md#item-types) | Adventuring Gear |
 
 ## P
 | Keyword | Location |
@@ -402,14 +401,14 @@
 | [Petrified](/rules/adventure/condition.md#petrified) | Condition |
 | [Physical](/rules/dice/damage.md#physical-damage) | Damage Type |
 | [Pierce](/item/weapon/mastery/index.md#pierce) | Weapon Mastery |
-| [Piercing](/rules/dice/damage.md#physical-damage) | Physical Damage Type |
+| [Piercing](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Pilot](/spelljammer/officer/pilot/index.md) | Spelljammer Officer |
 | [Plant](/bestiary/type/index.md) | Creature Type |
-| [Platinum](/item/currency.md#denominations) | Currency |
-| [Poison](/rules/dice/damage.md#elemental-damage) | Elemental Damage Type |
-| [Poison](/item/index.md#poisons) | Item Type |
-| [Polearm](/item/weapon/type.md#martial-weapons) | Martial Weapon Type |
-| [Potion](/item/index.md#potions) | Item Type |
+| [Platinum](/item/index.md#denominations) | Currency |
+| [Poison](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
+| [Poison](/item/gear/poison/index.md) | Adventuring Gear |
+| [Polearm](/item/weapon/index.md#martial-weapons) | Martial Weapon |
+| [Potion](/item/gear/potion/index.md) | Adventuring Gear |
 | [Precision](/bestiary/trait/skill.md) | Skill |
 | [Prepared](/spell/preparing.md#prepared-spells) | Spellcasting |
 | [Prerequisite](/character/feat/index.md) | Feat |
@@ -422,7 +421,7 @@
 | [Propel](/rules/position/movement.md#propelled) | Movement |
 | [Protection](/bestiary/trait/defense.md#protection) | Defense |
 | [Protocol](/spelljammer/officer/spelljammer/index.md) | Spelljammer |
-| [Psychic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage Type |
+| [Psychic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Push](/item/weapon/mastery/index.md#push) | Weapon Mastery |
 
 ## Q
@@ -434,13 +433,13 @@
 | Keyword | Location |
 |---|---|
 | [Race](/character/race/index.md) | Hero Handbook |
-| [Radiant](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage Type |
+| [Radiant](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Range](/rules/position/target.md#range) | Target |
 | [Ranged Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
-| [Ranged Weapon](/item/weapon/index.md#melee-and-ranged-weapons) | Weapon Type |
+| [Ranged Weapon](/item/weapon/index.md#melee-and-ranged-weapons) | Weapon |
 | [Ranger](/character/class/ranger/index.md) | Class |
-| [Rare](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
-| [Rarity](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
+| [Rare](/item/magic/infusion/rare/index.md) | Infusion Rarity |
+| [Rarity](/item/magic/index.md#infusions) | Infusion |
 | [Reach](/bestiary/trait/reach.md) | Reach |
 | [Reach](/item/weapon/property/index.md#reach) | Weapon Property |
 | [Reaction](/rules/adventure/action.md#reactions) | Action |
@@ -462,23 +461,23 @@
 | [Sap](/item/weapon/mastery/index.md#sap) | Weapon Mastery |
 | [Saving Throw](/rules/dice/save.md) | Dice Roll |
 | [School of Magic](/spell/parts.md#school-of-magic) | School of Magic |
-| [Scroll](/item/index.md#item-types) | Item Type |
+| [Scroll](/item/index.md#item-types) | Adventuring Gear |
 | [Search Action](/rules/adventure/action.md#search) | Normal Action |
 | [Secondary Class](/character/class/index.md#secondary-class) | Class |
 | [Sense](/bestiary/trait/sense.md) | Sense |
-| [Shield](/item/armor/shield.md) | Armor |
+| [Shield](/item/armor.md#shields) | Armor |
 | [Short Rest](/rules/adventure/rest.md#short-rest) | Rest |
-| [Shove](/item/weapon/type.md#shove) | Unarmed Strike |
+| [Shove](/item/weapon/index.md#shove) | Unarmed Strike |
 | [Sickened](/rules/adventure/condition.md#sickened) | Condition |
-| [Sidearm](/item/weapon/type.md#simple-weapons) | Simple Weapon Type |
-| [Silver](/item/currency.md#denominations) | Currency |
-| [Simple Weapon](/item/weapon/type.md#simple-weapons) | Weapon Type |
+| [Sidearm](/item/weapon/index.md#simple-weapons) | Simple Weapon |
+| [Silver](/item/index.md#denominations) | Currency |
+| [Simple Weapon](/item/weapon/index.md#simple-weapons) | Weapon |
 | [Size](/bestiary/trait/size.md) | Size Category |
 | [Skill](/bestiary/trait/skill.md) | Skill |
 | [Skyliner](/spelljammer/creation/base/skyliner.md) | Spelljammer Ship |
-| [Slashing](/rules/dice/damage.md#physical-damage) | Physical Damage Type |
+| [Slashing](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Sleep Deprivation](/rules/adventure/hazard.md#sleep-deprivation) | Rest |
-| [Sling](/item/weapon/type.md#simple-weapons) | Simple Weapon Type |
+| [Sling](/item/weapon/index.md#simple-weapons) | Simple Weapon |
 | [Slow](/item/weapon/mastery/index.md#slow) | Weapon Mastery |
 | [Small](/bestiary/trait/size.md) | Size Category |
 | [Somatic](/spell/parts.md#somatic) | Spell Component |
@@ -498,13 +497,13 @@
 | [Square](/rules/position/target.md#areas) | Area |
 | [Squeezing](/rules/position/movement.md#squeezing) | Movement |
 | [Stable](/rules/adventure/condition.md#stable) | Condition |
-| [Staff](/item/weapon/type.md#simple-weapons) | Simple Weapon Type |
+| [Staff](/item/weapon/index.md#simple-weapons) | Simple Weapon |
 | [Standard](/bestiary/trait/language.md#standard-languages) | Language |
 | [Starting Ability](/character/class/index.md#starting-ability) | Class |
 | [Starvation](/rules/adventure/hazard.md#starvation) | Hazard |
 | [Stealth](/bestiary/trait/skill.md) | Skill |
 | [Strength](/bestiary/trait/ability.md#the-six-abilities) | Ability |
-| [Strike](/item/weapon/type.md#strike) | Unarmed Strike |
+| [Strike](/item/weapon/index.md#strike) | Unarmed Strike |
 | [Study Action](/rules/adventure/action.md#study) | Normal Action |
 | [Stunned](/rules/adventure/condition.md#stunned) | Condition |
 | [Suffocation](/rules/adventure/hazard.md#suffocation) | Hazard |
@@ -525,10 +524,10 @@
 | [Thieves' Cant](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
 | [Three-Quarters Cover](/rules/position/cover.md) | Cover |
 | [Thrown](/item/weapon/property/index.md#thrown) | Weapon Property |
-| [Thunder](/rules/dice/damage.md#elemental-damage) | Elemental Damage Type |
+| [Thunder](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
 | [Tiefling](/character/race/tiefling.md) | Race |
 | [Tiny](/bestiary/trait/size.md) | Size Category |
-| [Tool](/item/index.md#item-types) | Item Type |
+| [Tool](/item/index.md#item-types) | Adventuring Gear |
 | [Topple](/item/weapon/mastery/index.md#topple) | Weapon Mastery |
 | [Trade](/item/index.md) | Item Index |
 | [Trait](/bestiary/trait/index.md) | Trait |
@@ -542,13 +541,13 @@
 ## U
 | Keyword | Location |
 |---|---|
-| [Unarmed Strike](/item/weapon/type.md#unarmed-strikes) | Weapon Type |
-| [Unarmored](/item/armor/index.md) | Armor |
-| [Uncommon](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
+| [Unarmed Strike](/item/weapon/index.md#unarmed-strikes) | Weapon |
+| [Unarmored](/item/armor.md#unarmored) | Armor |
+| [Uncommon](/item/magic/infusion/uncommon/index.md) | Infusion Rarity |
 | [Unconscious](/rules/adventure/condition.md#unconscious) | Condition |
 | [Undead](/bestiary/type/index.md) | Creature Type |
 | [Undercommon](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
-| [Unique](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
+| [Unique](/item/magic/infusion/unique/index.md) | Infusion Rarity |
 | [Upcast](/spell/casting.md#upcasting) | Spellcasting |
 | [Utilize Action](/rules/adventure/action.md#utilize) | Normal Action |
 
@@ -559,7 +558,7 @@
 | [Vast](/bastion/index.md) | Bastion Size |
 | [Verbal](/spell/parts.md#verbal) | Spell Component |
 | [Versatile](/item/weapon/property/index.md#versatile) | Weapon Property |
-| [Very Rare](/item/magic/index.md#infusions-by-rarity) | Infusion Rarity |
+| [Very Rare](/item/magic/infusion/very-rare/index.md) | Infusion Rarity |
 | [Vex](/item/weapon/mastery/index.md#vex) | Weapon Mastery |
 | [Visibility](/rules/position/visibility.md) | Visibility |
 | [Vulnerability](/bestiary/trait/defense.md#vulnerability) | Defense |
@@ -576,4 +575,4 @@
 | [Will](/rules/dice/save.md#types-of-saves) | Saving Throw |
 | [Wisdom](/bestiary/trait/ability.md#the-six-abilities) | Ability |
 | [Wizard](/character/class/wizard/index.md) | Class |
-| [Wondrous Item](/item/index.md#item-types) | Item Type |
+| [Wondrous Item](/item/index.md#item-types) | Magic Item |

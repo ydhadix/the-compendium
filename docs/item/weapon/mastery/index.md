@@ -1,18 +1,17 @@
 # Weapon Mastery
-Weapon Mastery is the set of signature techniques a trained wielder can draw from a weapon, one telling maneuver tied to how that weapon fights.
+**Weapon Masteries** are signature techniques a specially trained wielder can draw from a weapon.  You cannot use a Weapon Mastery unless you are trained to use that specific Mastery.
 { .subtitle }
 
-| Mastery | Description |
-|---|---|
-| [Cleave](#cleave) | Carry a hit into a second nearby foe. |
-| [Graze](#graze) | Deal damage even on a miss. |
-| [Nick](#nick) | Make the off-hand attack without an Action. |
-| [Pierce](#pierce) | Drive a shot through to a foe behind. |
-| [Push](#push) | Shove a struck foe back. |
-| [Sap](#sap) | Throw off a struck foe's next attack. |
-| [Slow](#slow) | Cut a struck foe's Speed. |
-| [Topple](#topple) | Knock a struck foe to the ground. |
-| [Vex](#vex) | Set up your next attack against a foe. |
+[Cleave](#cleave) · 
+[Graze](#graze) · 
+[Nick](#nick) · 
+[Pierce](#pierce) · 
+[Push](#push) · 
+[Sap](#sap) · 
+[Slow](#slow) · 
+[Topple](#topple) · 
+[Vex](#vex) · 
+{ .keyword-jump }
 
 --8<-- "item/weapon/mastery/cleave.md"
 

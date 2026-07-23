@@ -49,7 +49,7 @@ Each background includes the following parts:
 |---|---|---|
 | | Calligrapher's Supplies | Robe |
 | | Holy Symbol | Book of Prayers |
-| | 10 sheets of Parchment | 8 gold |
+| | **10** sheets of Parchment | **8** gold |
 
 ### Artisan
 | | |
@@ -65,7 +65,7 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | the chosen tool | Traveler's Clothes |
-| | 2 Pouches | 32 gold |
+| | **2** Pouches | **32** gold |
 
 ### Charlatan
 | | |
@@ -81,7 +81,7 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | Calligrapher's Supplies | Fine Clothes |
-| | Costume | 20 gold |
+| | Costume | **20** gold |
 
 ### Criminal
 | | |
@@ -97,9 +97,9 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | the chosen Gaming Set | Traveler's Clothes |
-| | 2 Daggers | Crowbar |
-| | Lockpick | 2 Pouches |
-| | 15 gold | |
+| | **2** Daggers | Crowbar |
+| | Lockpick | **2** Pouches |
+| | **15** gold | |
 
 ### Entertainer
 | | |
@@ -115,8 +115,8 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | the chosen instrument | Traveler's Clothes |
-| | 2 Costumes | Mirror |
-| | Perfume | 11 gold |
+| | **2** Costumes | Mirror |
+| | Perfume | **11** gold |
 
 ### Farmer
 | | |
@@ -134,7 +134,7 @@ Each background includes the following parts:
 | | Carpenter's Tools | Traveler's Clothes |
 | | Sickle | Healer's Kit |
 | | Iron Pot | Shovel |
-| | 30 gold | |
+| | **30** gold | |
 
 ### Guard
 | | |
@@ -151,9 +151,9 @@ Each background includes the following parts:
 |---|---|---|
 | | the chosen Gaming Set | Traveler's Clothes |
 | | Light Crossbow | Spear |
-| | 20 Bolts | Bolt Case |
+| | **20** Bolts | Bolt Case |
 | | Hooded Lantern | Manacles |
-| | 12 gold | |
+| | **12** gold | |
 
 ### Guide
 | | |
@@ -170,9 +170,9 @@ Each background includes the following parts:
 |---|---|---|
 | | Cartographer's Tools | Traveler's Clothes |
 | | Shortbow | Dagger |
-| | 20 Arrows | Quiver |
+| | **20** Arrows | Quiver |
 | | Bedroll | Tent |
-| | 1 gold | |
+| | **1** gold | |
 
 ### Hermit
 | | |
@@ -189,8 +189,8 @@ Each background includes the following parts:
 |---|---|---|
 | | Herbalism Kit | Traveler's Clothes |
 | | Quarterstaff | Book of Philosophy |
-| | Lamp | 3 Flasks of Oil |
-| | Bedroll | 16 gold |
+| | Lamp | **3** Flasks of Oil |
+| | Bedroll | **16** gold |
 
 ### Merchant
 | | |
@@ -206,7 +206,7 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | Jeweler's Tools | Traveler's Clothes |
-| | 2 Pouches | 22 gold |
+| | **2** Pouches | **22** gold |
 
 ### Noble
 | | |
@@ -222,7 +222,7 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | the chosen Gaming Set | Fine Clothes |
-| | Perfume | 29 gold |
+| | Perfume | **29** gold |
 
 ### Sage
 | | |
@@ -239,7 +239,7 @@ Each background includes the following parts:
 |---|---|---|
 | | Calligrapher's Supplies | Robe |
 | | Quarterstaff | Book of History |
-| | 8 sheets of Parchment | 8 gold |
+| | **8** sheets of Parchment | **8** gold |
 
 ### Sailor
 | | |
@@ -256,7 +256,7 @@ Each background includes the following parts:
 |---|---|---|
 | | Cartographer's Tools | Traveler's Clothes |
 | | Dagger | Rope |
-| | 30 gold | |
+| | **30** gold | |
 
 ### Scribe
 | | |
@@ -272,8 +272,8 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | Calligrapher's Supplies | Fine Clothes |
-| | Lamp | 3 Flasks of Oil |
-| | 12 sheets of Parchment | 23 gold |
+| | Lamp | **3** Flasks of Oil |
+| | **12** sheets of Parchment | **23** gold |
 
 ### Soldier
 | | |
@@ -290,8 +290,8 @@ Each background includes the following parts:
 |---|---|---|
 | | the chosen Gaming Set | Traveler's Clothes |
 | | Shortbow | Spear |
-| | 20 Arrows | Quiver |
-| | Healer's Kit | 14 gold |
+| | **20** Arrows | Quiver |
+| | Healer's Kit | **14** gold |
 
 ### Wayfarer
 | | |
@@ -307,6 +307,6 @@ Each background includes the following parts:
 | | | |
 |---|---|---|
 | | Cobbler's Tools | Traveler's Clothes |
-| | any Gaming Set | 2 Daggers |
-| | Bedroll | 2 Pouches |
-| | 36 gold | |
+| | any Gaming Set | **2** Daggers |
+| | Bedroll | **2** Pouches |
+| | **36** gold | |

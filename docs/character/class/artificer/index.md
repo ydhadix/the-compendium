@@ -65,10 +65,10 @@ The [Artificer Table](#class-table) shows how many items you can infuse. To infu
 --8<-- "_generated/item/magic/infusion/uncommon/sending-stones_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/wand-of-secrets_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/weapon-of-returning_row.md"
-| Any [Artisan's Tool](/item/trade/artisan/index.md) | Tool (Artisan's Tool) | — | — |
+| Any [Artisan's Tool](/item/trade/index.md#artisans-tools) | Tool (Artisan's Tool) | — | — |
 | [+1 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
 | [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
-| [+1 Shield](/item/armor/shield.md) | Armor (Any Shield) | — | — |
+| [+1 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
 
 
 ### 1: Tradesman
@@ -162,7 +162,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 --8<-- "_generated/item/magic/infusion/uncommon/shield-of-repulsion_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/wand-of-magic-missiles_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/weapon-of-radiance_row.md"
-| [+1 Armor](/item/armor/index.md) | Armor (Any) | — | — |
+| [+1 Armor](/item/armor.md) | Armor (Any) | — | — |
 
 
 ### 5: Extra Attack
@@ -186,7 +186,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 | [Any Uncommon Infusion](/item/magic/infusion/uncommon/index.md) | Varies | Uncommon | Varies |
 | [+2 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
 | [+2 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
-| [+2 Shield](/item/armor/shield.md) | Armor (Any Shield) | — | — |
+| [+2 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
 
 
 ### 8: Spell-Storing Item
@@ -213,7 +213,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 --8<-- "_generated/item/magic/infusion/rare/arrow-catching-shield_row.md"
 --8<-- "_generated/item/magic/infusion/rare/ring-of-free-action_row.md"
 --8<-- "_generated/item/magic/infusion/rare/ring-of-the-ram_row.md"
-| [+1 Armor](/item/armor/index.md) | Armor (Any) | — | — |
+| [+1 Armor](/item/armor.md) | Armor (Any) | — | — |
 
 
 ### 11: Soul of Artifice

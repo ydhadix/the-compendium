@@ -1,1 +1,0 @@
-| [Explorer's Pack](/item/gear/pack/explorers-pack.md) | Other | 10 gold |

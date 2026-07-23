@@ -1,1 +1,0 @@
-| [Musical Instruments](/item/trade/music.md) | Tool | Value varies |
