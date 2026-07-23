@@ -1,5 +1,5 @@
 # Fighting Styles
-Fighting Styles are martial combat specialties a character adopts, each honing a particular approach to the fight.
+**Fighting Styles** are martial combat specialties a character can learn.
 { .subtitle }
 
 | Feats | Description |

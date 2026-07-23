@@ -1,19 +1,18 @@
 # Tiefling
-Tieflings are mortals marked by a fiendish bloodline, carrying its resistances, its magic, and the wariness of others it invites.
+**Tieflings** are mortals marked by a fiendish bloodline, carrying its resistances, its magic, and the wariness of others it invites.
 { .subtitle }
 
-## Tiefling Traits
 | | |
 |---|---|
 | Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid and Fiend |
 | Size Category | Medium or Small |
-| Speed | 30 ft. |
-| Reach | 5 ft. |
-| Hit Points | 8 |
+| Speed | **30** ft. |
+| Reach | **5** ft. |
+| Hit Points | **8** |
 | Resistances | the chosen Damage Type |
 | Protections | Charm |
-| Senses | Darkvision (60 ft.) |
+| Senses | Darkvision _(**60** ft.)_ |
 
 ## Tiefling Features
 ### Silver-Tongued

@@ -34,12 +34,12 @@ When you choose Wizard as your Primary Class, you gain the following proficienci
 
 | | |
 |---|---|
-| Save Proficiency |  |
-| Save Aptitude |  |
-| Armor |  |
+| Save Proficiency | Will |
+| Save Aptitude | Reflex |
+| Armor | — |
 | Weapons | Simple |
 | Trades | — |
-| Skills | Nature and X from [] |
+| Skills | Arcana and X from [] |
 
 ### Secondary Proficiencies
 When you choose Wizard as your Secondary Class, you gain the following proficiencies:
@@ -88,9 +88,9 @@ After a Long Rest, you regain all your Spell Slots.
 ### 3: Wizard Subclass
 Choose a Wizard Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-|  |  |
+| Subclasses |
+|---|
+|  |
 
 
 <Level 4 Features>

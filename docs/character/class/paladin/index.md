@@ -34,10 +34,10 @@ When you choose Paladin as your Primary Class, you gain the following proficienc
 
 | | |
 |---|---|
-| Save Proficiency |  |
-| Save Aptitude |  |
-| Armor |  |
-| Weapons | Simple |
+| Save Proficiency | Will |
+| Save Aptitude | Fortitude |
+| Armor | Light, Medium, Heavy |
+| Weapons | Simple, Blades, Hammers, Polearms |
 | Trades | — |
 | Skills | Persuasion and X from [] |
 
@@ -96,9 +96,9 @@ Whenever you level up, you can change your Fighting Style feat.
 ### 3: Paladin Subclass
 Choose a Paladin Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-|  |  |
+| Subclasses |
+|---|
+|  |
 
 
 <Level 4 Features>

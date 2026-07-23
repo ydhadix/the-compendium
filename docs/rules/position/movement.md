@@ -1,6 +1,6 @@
 # Movement
-
 **Movement** is how a character gets from place to place using its Speed.
+{ .subtitle }
 
 #### Splitting Movement
 You can move before and after any Action on your Turn.  However you break it up, your total movement that Turn can't exceed your Speed.

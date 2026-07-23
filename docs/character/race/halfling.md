@@ -1,16 +1,15 @@
 # Halfling
-Halflings are a small and nimble people blessed with uncanny luck, slipping through danger where larger folk would be obstructed.
+**Halflings** are a small and nimble people blessed with uncanny luck, slipping through danger where larger folk would be obstructed.
 { .subtitle }
 
-## Halfling Traits
 | | |
 |---|---|
 | Abilities | Dexterity and choose **1** |
 | Creature Type | Humanoid |
 | Size Category | Small |
-| Speed | 35 ft. |
-| Reach | 5 ft. |
-| Hit Points | 8 |
+| Speed | **35** ft. |
+| Reach | **5** ft. |
+| Hit Points | **8** |
 | Protections | Fear |
 
 ## Halfling Features

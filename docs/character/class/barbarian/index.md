@@ -108,9 +108,9 @@ Whenever you level up, you can change your Fighting Style feat.
 ### 3: Barbarian Subclass
 Choose a Barbarian Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-| [Path of the Wild Heart](wild-heart.md) | Beast-kin who speak with animals and take on wild aspects when they Rage. |
+| Subclasses |
+|---|
+| [Path of the Wild Heart](wild-heart.md) |
 
 
 ### 4: Brutal Strike

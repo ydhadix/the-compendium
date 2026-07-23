@@ -104,9 +104,9 @@ Before you fail a Saving Throw, you can reroll it and add **LV** to the Saving T
 ### 3: Fighter Subclass
 Choose a Fighter Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-| [Eldritch Knight](eldritch-knight.md) | Fuses martial skill with arcane spellcasting. |
+| Subclasses |
+|---|
+| [Eldritch Knight](eldritch-knight.md) |
 
 
 ### 4: Ability Increase

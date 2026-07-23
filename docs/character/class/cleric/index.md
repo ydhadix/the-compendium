@@ -135,9 +135,9 @@ After a Short Rest, you can regain expended Spell Slots with combined Level up t
 ### 3: Cleric Subclass
 Choose a Cleric Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-| [Arcana](arcana.md) | Blends divine faith with wizardly arcane magic. |
+| Subclasses |
+|---|
+| [Arcana](arcana.md) |
 
 
 ### 5: Blessed Strikes

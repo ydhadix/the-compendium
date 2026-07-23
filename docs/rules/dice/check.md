@@ -1,6 +1,6 @@
 # Ability Checks
-
 An **Ability Check** determines the outcome when you attempt something with a chance of failure _(other than an attack)_.
+{ .subtitle }
 
 ### Making an Ability Check
 #### 1. Declare the Ability Check.

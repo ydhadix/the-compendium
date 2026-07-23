@@ -1,5 +1,5 @@
 # Epic Boons
-Epic Boons are the legendary rewards of the mightiest heroes, granting powers beyond mortal limits.
+**Epic Boons** are the legendary talents beyond mortal limits.
 { .subtitle }
 
 !!! note "In progress"

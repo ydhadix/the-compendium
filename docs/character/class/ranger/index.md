@@ -117,9 +117,9 @@ Whenever you level up, you can change your Fighting Style feat.
 ### 3: Ranger Subclass
 Choose a Ranger Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-| [Beast Master](beast-master.md) | Fights alongside a bonded Primal Companion. |
+| Subclasses |
+|---|
+| [Beast Master](beast-master.md) |
 
 
 ### 4: Imprinting Adept

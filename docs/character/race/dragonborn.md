@@ -1,18 +1,17 @@
 # Dragonborn
-Dragonborn are the proud descendants of dragons, bearing draconic scales, a devastating breath weapon, and the resilience of their ancestry.
+**Dragonborn** are the proud descendants of dragons, bearing draconic scales, a devastating breath weapon, and the resilience of their ancestry.
 { .subtitle }
 
-## Dragonborn Traits
 | | |
 |---|---|
 | Abilities | Strength and choose **1** |
 | Creature Type | Humanoid and Dragon |
 | Size Category | Medium |
-| Speed | 30 ft. |
-| Reach | 5 ft. |
-| Hit Points | 10 |
+| Speed | **30** ft. |
+| Reach | **5** ft. |
+| Hit Points | **10** |
 | Resistances | your Draconic Ancestry Damage |
-| Senses | Darkvision (60 ft.) |
+| Senses | Darkvision _(**60** ft.)_ |
 
 ## Dragonborn Features
 ### Breath Weapon

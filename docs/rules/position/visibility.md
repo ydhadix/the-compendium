@@ -1,6 +1,6 @@
 # Visibility
-
 **Visibility** is how well a creature can see its surroundings.
+{ .subtitle }
 
 ### Obscurement
 **Obscurement** is how well you can see into or through an area.  Fog, foliage, and other visual obstacles can create different levels of Obscurement.

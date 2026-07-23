@@ -24,7 +24,7 @@ Warlocks are casters empowered by a pact with an otherworldly patron, trading th
 ## Class Details
 | | |
 |---|---|
-| Starting Ability | Intelligence or Wisdom |
+| Starting Ability | Intelligence or Charisma |
 | Feature Ability | Same as Starting Ability |
 | Hit Die | d8 |
 | Starting Equipment | 100 gold<br>or<br>Leather Armor, Sickle, 2 Daggers, Arcane Focus, Book, Scholar's Pack, and 15 gold |
@@ -88,9 +88,9 @@ After a Short Rest, you regain all your Spell Slots.
 ### 3: Warlock Subclass
 Choose a Warlock Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-|  |  |
+| Subclasses |
+|---|
+|  |
 
 
 <Level 4 Features>

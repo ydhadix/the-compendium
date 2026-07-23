@@ -1,6 +1,6 @@
 # Encounters
-
 An **Encounter** is any scene where timing matters.  Its participants take Turns in Initiative Order until the Encounter is resolved. 
+{ .subtitle }
 
 ### Combat
 **Combat** is an encounter that involves fighting.  Combat begins when an Enemy in an encounter becomes aware of you, and ends after no Enemies remain.

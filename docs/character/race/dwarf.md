@@ -1,19 +1,18 @@
 # Dwarf
-Dwarves are a hardy, steadfast people at home in stone and deep places, gifted with keen senses for the earth and its buried treasures.
+**Dwarves** are a hardy, steadfast people at home in stone and deep places, gifted with keen senses for the earth and its buried treasures.
 { .subtitle }
 
-## Dwarf Traits
 | | |
 |---|---|
 | Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid |
 | Size Category | Medium |
-| Speed | 30 ft. |
-| Reach | 5 ft. |
-| Hit Points | 10 |
+| Speed | **30** ft. |
+| Reach | **5** ft. |
+| Hit Points | **10** |
 | Resistances | Poison |
 | Protections | Sickness, Prone |
-| Senses | Darkvision (120 ft.), Tremorsense (30 ft.) |
+| Senses | Darkvision _(**120** ft.)_, Tremorsense _(**30** ft.)_ |
 
 ## Dwarf Features
 ### Dwarven Toughness

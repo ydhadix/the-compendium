@@ -1,18 +1,17 @@
 # Gnome
-Gnomes are small and clever folk driven by restless curiosity, quick to hide and quicker of mind.
+**Gnomes** are small and clever folk driven by restless curiosity, quick to hide and quicker of mind.
 { .subtitle }
 
-## Gnome Traits
 | | |
 |---|---|
 | Abilities | Dexterity and choose **1** |
 | Creature Type | Humanoid |
 | Size Category | Small |
-| Speed | 30 ft. |
-| Reach | 5 ft. |
-| Hit Points | 6 |
+| Speed | **30** ft. |
+| Reach | **5** ft. |
+| Hit Points | **6** |
 | Protections | Will Saves |
-| Senses | Darkvision (60 ft.) |
+| Senses | Darkvision _(**60** ft.)_ |
 
 ## Gnome Features
 ### Naturally Stealth

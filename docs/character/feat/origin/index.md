@@ -1,5 +1,5 @@
 # Origin Feats
-Origin Feats are foundational talents a character gains at creation, reflecting the earliest shape of their training.
+**Origin Feats** are foundational talents a character gains at Level **1**.
 { .subtitle }
 
 <!-- | Feat | Prerequisite | Class + Level | -->

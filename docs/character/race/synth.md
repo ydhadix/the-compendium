@@ -1,16 +1,15 @@
 # Synth
-Synths are Humanoids constructed for a purpose: Warforged built for battle; Androids made for specialized tasks; and Reploids that pass for flesh and blood.
+**Synths** are Humanoids constructed for a purpose: Warforged built for battle; Androids made for specialized tasks; and Reploids that pass for flesh and blood.
 { .subtitle }
 
-## Synth Traits
 | | |
 |---|---|
 | Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid and Construct |
 | Size Category | Medium |
-| Speed | 30 ft. |
-| Reach | 5 ft. |
-| Hit Points | 10 |
+| Speed | **30** ft. |
+| Reach | **5** ft. |
+| Hit Points | **10** |
 | Resistances | Poison |
 | Protections | Exhaustion |
 | Immunities | Sickness |

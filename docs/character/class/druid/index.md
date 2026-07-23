@@ -34,9 +34,9 @@ When you choose Druid as your Primary Class, you gain the following proficiencie
 
 | | |
 |---|---|
-| Save Proficiency |  |
-| Save Aptitude |  |
-| Armor |  |
+| Save Proficiency | Will |
+| Save Aptitude | Fortitude |
+| Armor | Light |
 | Weapons | Simple |
 | Trades | — |
 | Skills | Nature and X from [] |
@@ -91,9 +91,9 @@ After a Long Rest, you regain all your Spell Slots.
 ### 3: Druid Subclass
 Choose a Druid Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-|  |  |
+| Subclasses |
+|---|
+|  |
 
 
 <Level 4 Features>

@@ -1,16 +1,15 @@
 # Prime
-Primes are ordinary folk with no supernatural gifts. Their strength lies in sheer adaptability, ready to turn their hand to whatever task an adventure demands.
+**Primes** are ordinary folk with no supernatural gifts. Their strength lies in sheer adaptability, ready to turn their hand to whatever task an adventure demands.
 { .subtitle }
 
-## Prime Traits
 | | |
 |---|---|
 | Abilities | Choose **2** |
 | Creature Type | Humanoid |
 | Size Category | Medium |
-| Speed | 30 ft. |
-| Reach | 5 ft. |
-| Hit Points | 8 |
+| Speed | **30** ft. |
+| Reach | **5** ft. |
+| Hit Points | **8** |
 
 ## Prime Features
 ### Resourceful

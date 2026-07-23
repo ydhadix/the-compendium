@@ -1,6 +1,6 @@
 # Saving Throws
-
-An **Saving Throw** determines the outcome when you attempt to resist a spell, trap, or other harmful effect.  You rarely choose to make a Saving Throw; an effect calls for one because you are at risk of harm.
+An **Saving Throw** determines the outcome when you attempt to resist a spell, trap, or other harmful effect.
+{ .subtitle }
 
 ### Making a Saving Throw
 #### 1. Determine modifiers.

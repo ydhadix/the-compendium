@@ -122,9 +122,9 @@ Before you take Falling Damage, you can reduce that damage by **LV × 5**.
 ### 3: Monk Subclass
 Choose a Monk Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-|  |  |
+| Subclasses |
+|---|
+|  |
 
 
 ### 4: Stunning Strike

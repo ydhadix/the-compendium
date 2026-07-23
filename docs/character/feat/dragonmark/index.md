@@ -1,5 +1,5 @@
 # Dragonmarks
-Dragonmarks are magical sigils passed down through bloodlines, granting their bearers innate spells and uncanny talents.
+**Dragonmarks** are magical sigils passed down through bloodlines.
 { .subtitle }
 
 <!-- | Feat | Prerequisite | Class + Level | -->

@@ -1,18 +1,17 @@
 # Elf
-Elves are a graceful, long-lived people of keen senses and quiet resilience, each connected to a source of natural magic.
+**Elves** are graceful, long-lived people of keen senses and quiet resilience, each connected to a source of natural magic.
 { .subtitle }
 
-## Elf Traits
 | | |
 |---|---|
 | Abilities | Dexterity and choose **1** |
 | Creature Type | Humanoid |
 | Size Category | Medium |
-| Speed | 35 ft. |
-| Reach | 5 ft. |
-| Hit Points | 6 |
+| Speed | **35** ft. |
+| Reach | **5** ft. |
+| Hit Points | **6** |
 | Protections | Charm |
-| Senses | Darkvision (60 ft.) |
+| Senses | Darkvision _(**60** ft.)_ |
 
 ## Elf Features
 ### Keen Senses

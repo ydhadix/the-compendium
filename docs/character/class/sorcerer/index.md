@@ -98,9 +98,9 @@ After a Long Rest, you regain all your Sorcery Points.
 ### 3: Sorcerer Subclass
 Choose a Sorcerer Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-|  |  |
+| Subclasses |
+|---|
+|  |
 
 
 <Level 4 Features>

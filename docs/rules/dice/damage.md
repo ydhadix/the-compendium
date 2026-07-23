@@ -1,6 +1,6 @@
 # Damage Rolls
-
 A **Damage Roll** determines how much damage an effect deals.
+{ .subtitle }
 
 ### Making a Damage Roll
 #### 1. Determine modifiers.

@@ -1,6 +1,6 @@
 # Hazards
-
-A **Hazard** is one of the many natural dangers adventuring.
+A **Hazard** is one of the many natural dangers while adventuring.
+{ .subtitle }
 
 [Air Quality](#air-quality) · 
 [Dehydration](#dehydration) · 

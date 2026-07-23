@@ -1,6 +1,6 @@
 # Attack Rolls
-
 An **Attack Roll** determines the outcome when you attempt to hit a creature with a weapon or spell.
+{ .subtitle }
 
 ### Making an Attack
 #### 1. Declare the attack.

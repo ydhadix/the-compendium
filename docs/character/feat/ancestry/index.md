@@ -1,5 +1,5 @@
 # Ancestry Feats
-Ancestry Feats are talents drawn from a character's heritage, deepening the innate gifts of their race.
+**Ancestry Feats** deepen a character's racial characteristics.
 { .subtitle }
 
 <!-- | Feat | Prerequisite | Class + Level | -->

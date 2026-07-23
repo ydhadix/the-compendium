@@ -1,5 +1,5 @@
 # General Feats
-General Feats are broadly useful talents a character earns as they level up, refining their strengths and rounding out their weaknesses.
+**General Feats** are broadly useful talents a character earns as they level up.
 { .subtitle }
 
 <!-- | Feat | Prerequisite | Class + Level | -->

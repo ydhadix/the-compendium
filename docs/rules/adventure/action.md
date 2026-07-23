@@ -1,6 +1,8 @@
 # Actions
+An **Action** is anything you do during an Encounter.
+{ .subtitle }
 
-An **Action** is anything you do during an Encounter.  On your Turn, you can take **1** Normal Action, Bonus Action, Object Action, and Reaction.
+On your Turn, you can take **1** Normal Action, Bonus Action, Object Action, and Reaction.
 
 ### Normal Actions
 A **Normal Action** is the most common kind of Action.

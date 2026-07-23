@@ -138,10 +138,10 @@ Whenever you level up, you can change your Fighting Style feat.
 ### 3: Artificer Subclass
 Choose an Artificer Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-| [Armorer](armorer.md) | Wears arcane armor reshaped for defense or assault. |
-| [Cartographer](cartographer.md) | Charts the world and bends distance to guide allies. |
+| Subclasses |
+|---|
+| [Armorer](armorer.md) |
+| [Cartographer](cartographer.md) |
 
 
 ### 4: Magic Item Adept

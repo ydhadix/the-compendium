@@ -1,6 +1,6 @@
 # Conditions
-
 A **Condition** temporarily alters a creature's capabilities.
+{ .subtitle }
 
 [Anchored](#anchored) · 
 [Bleeding](#bleeding) · 

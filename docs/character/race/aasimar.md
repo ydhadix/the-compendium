@@ -1,18 +1,17 @@
 # Aasimar
-Aasimar are mortals touched by the divine, carrying a spark of celestial power that can blaze forth in moments of need.
+**Aasimar** are mortals touched by the divine, carrying a spark of celestial power that can blaze forth in moments of need.
 { .subtitle }
 
-## Aasimar Traits
 | | |
 |---|---|
 | Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid and Celestial |
 | Size Category | Medium or Small |
-| Speed | 30 ft. |
-| Reach | 5 ft. |
-| Hit Points | 8 |
+| Speed | **30** ft. |
+| Reach | **5** ft. |
+| Hit Points | **8** |
 | Resistances | Necrotic and Radiant |
-| Senses | Darkvision (60 ft.) |
+| Senses | Darkvision _(**60** ft.)_ |
 
 ## Aasimar Features
 ### Divine Revelation

@@ -1,16 +1,15 @@
 # Goliath
-Goliaths are towering giant-kin of tremendous strength, able to call on the power of their giant ancestry and grow to an even greater size.
+**Goliaths** are towering giant-kin of tremendous strength, able to call on the power of their giant ancestry and grow to an even greater size.
 { .subtitle }
 
-## Goliath Traits
 | | |
 |---|---|
 | Abilities | Strength and choose **1** |
 | Creature Type | Humanoid and Giant |
 | Size Category | Medium |
-| Speed | 30 ft. |
-| Reach | 10 ft. |
-| Hit Points | 10 |
+| Speed | **30** ft. |
+| Reach | **10** ft. |
+| Hit Points | **10** |
 | Resistances | the chosen Damage Type |
 | Protections | Grapple |
 

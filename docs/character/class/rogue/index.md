@@ -35,12 +35,12 @@ When you choose Rogue as your Primary Class, you gain the following proficiencie
 
 | | |
 |---|---|
-| Save Proficiency |  |
-| Save Aptitude |  |
-| Armor |  |
-| Weapons | Simple |
+| Save Proficiency | Reflex |
+| Save Aptitude | Will |
+| Armor | Light |
+| Weapons | Simple, Fences, Bows |
 | Trades | — |
-| Skills | Nature and X from [] |
+| Skills | Precision and X from [] |
 
 ### Secondary Proficiencies
 When you choose Rogue as your Secondary Class, you gain the following proficiencies:
@@ -66,9 +66,9 @@ After a Long Rest, you can replace one of your Weapon Masteries.
 ### 3: Rogue Subclass
 Choose a Rogue Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-|  |  |
+| Subclasses |
+|---|
+|  |
 
 
 <Level 4 Features>

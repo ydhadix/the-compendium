@@ -111,11 +111,11 @@ You gain Aptitude in all Ability Checks you make without Proficiency.
 ### 3: Bard Subclass
 Choose a Bard Subclass. Your subclass grants you a feature at this level.
 
-| Subclasses | Description |
-|---|---|
-| [College of Eloquence](eloquence.md) | Masters of oratory who sway any audience with reason and theatrical wordplay. |
-| [College of Lore](lore.md) | Collectors of knowledge who hold crowds spellbound, then leave them questioning all they knew. |
-| [College of Swords](swords.md) | Warriors who turn weapon prowess into performance and inspire with the deeds of heroes. |
+| Subclasses |
+|---|
+| [College of Eloquence](eloquence.md) |
+| [College of Lore](lore.md) |
+| [College of Swords](swords.md) |
 
 
 ### 5: Countercharm
