@@ -1,1 +1,0 @@
-| [Philter of Love](/item/magic/infusion/uncommon/philter-of-love.md) | Potion | Uncommon | No |

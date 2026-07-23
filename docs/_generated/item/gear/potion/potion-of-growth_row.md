@@ -1,0 +1,1 @@
+| [Potion of Growth](/item/gear/potion/potion-of-growth.md) | Potion | 200 gold |

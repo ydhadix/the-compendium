@@ -1,1 +1,0 @@
-| [Potion of Water Breathing](/item/magic/infusion/uncommon/potion-of-water-breathing.md) | Potion | Uncommon | No |

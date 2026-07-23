@@ -1,1 +1,0 @@
-| [Oil of Slipperiness](/item/magic/infusion/uncommon/oil-of-slipperiness.md) | Potion | Uncommon | No |

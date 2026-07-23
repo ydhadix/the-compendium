@@ -1,0 +1,1 @@
+| [Bead of Nourishment](/item/gear/survival/bead-of-nourishment.md) | Other | 50 gold |

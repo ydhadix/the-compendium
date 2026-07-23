@@ -1,0 +1,1 @@
+| [Potion of Fire Breath](/item/gear/potion/potion-of-fire-breath.md) | Potion | 200 gold |

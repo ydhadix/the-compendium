@@ -1,1 +1,0 @@
-| [Potion of Animal Friendship](/item/magic/infusion/uncommon/potion-of-animal-friendship.md) | Potion | Uncommon | No |

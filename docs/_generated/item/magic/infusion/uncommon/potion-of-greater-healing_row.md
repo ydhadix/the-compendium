@@ -1,1 +1,0 @@
-| [Potion of Greater Healing](/item/magic/infusion/uncommon/potion-of-greater-healing.md) | Potion | Uncommon | No |

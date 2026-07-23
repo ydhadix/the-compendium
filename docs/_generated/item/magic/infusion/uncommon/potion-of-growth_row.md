@@ -1,1 +1,0 @@
-| [Potion of Growth](/item/magic/infusion/uncommon/potion-of-growth.md) | Potion | Uncommon | No |

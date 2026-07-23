@@ -1,1 +1,0 @@
-| [Potion of Pugilism](/item/magic/infusion/uncommon/potion-of-pugilism.md) | Potion | Uncommon | No |

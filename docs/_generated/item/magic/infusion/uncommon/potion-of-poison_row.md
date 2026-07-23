@@ -1,1 +1,0 @@
-| [Potion of Poison](/item/magic/infusion/uncommon/potion-of-poison.md) | Potion | Uncommon | No |

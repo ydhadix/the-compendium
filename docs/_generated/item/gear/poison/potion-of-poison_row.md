@@ -1,0 +1,1 @@
+| [Potion of Poison](/item/gear/poison/potion-of-poison.md) | Poison | 200 gold |

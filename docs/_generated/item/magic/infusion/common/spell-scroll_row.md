@@ -1,1 +1,0 @@
-| [Spell Scroll](/item/magic/infusion/common/spell-scroll.md) | Scroll | Common | No |

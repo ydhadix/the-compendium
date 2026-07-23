@@ -1,4 +1,4 @@
-0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · K · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
+0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · K · [L](#l) · [M](#m) · [N](#n) · O · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
 ## A
@@ -128,12 +128,6 @@
 | [Nature's Mantle](/item/magic/infusion/uncommon/natures-mantle.md) | Clothing (Cloak) | Uncommon | Yes (Druid or Ranger) |
 | [Necklace of Adaptation](/item/magic/infusion/uncommon/necklace-of-adaptation.md) | Clothing (Jewelry) | Uncommon | Yes |
 
-## O
-
-| Item | Type | Rarity | Attunement |
-|---|---|---|---|
-| [Oil of Slipperiness](/item/magic/infusion/uncommon/oil-of-slipperiness.md) | Potion | Uncommon | No |
-
 ## P
 
 | Item | Type | Rarity | Attunement |
@@ -142,19 +136,9 @@
 | [Pegasus Quill](/item/magic/infusion/uncommon/pegasus-quill.md) | Tool (Calligrapher's Supplies) | Uncommon | No |
 | [Periapt of Health](/item/magic/infusion/uncommon/periapt-of-health.md) | Clothing (Jewelry) | Uncommon | Yes |
 | [Periapt of Wound Closure](/item/magic/infusion/uncommon/periapt-of-wound-closure.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Philter of Love](/item/magic/infusion/uncommon/philter-of-love.md) | Potion | Uncommon | No |
 | [Pipes of Haunting](/item/magic/infusion/uncommon/pipes-of-haunting.md) | Wondrous Item (Musical Instrument) | Uncommon | No |
 | [Pipes of the Sewers](/item/magic/infusion/uncommon/pipes-of-the-sewers.md) | Wondrous Item (Musical Instrument) | Uncommon | Yes |
 | [Portal Compass](/item/magic/infusion/uncommon/portal-compass.md) | Wondrous Item | Uncommon | No |
-| [Potion of Animal Friendship](/item/magic/infusion/uncommon/potion-of-animal-friendship.md) | Potion | Uncommon | No |
-| [Potion of Fire Breath](/item/magic/infusion/uncommon/potion-of-fire-breath.md) | Potion | Uncommon | No |
-| [Potion of Greater Healing](/item/magic/infusion/uncommon/potion-of-greater-healing.md) | Potion | Uncommon | No |
-| [Potion of Growth](/item/magic/infusion/uncommon/potion-of-growth.md) | Potion | Uncommon | No |
-| [Potion of Hill Giant Strength](/item/magic/infusion/uncommon/potion-of-hill-giant-strength.md) | Potion | Uncommon | No |
-| [Potion of Poison](/item/magic/infusion/uncommon/potion-of-poison.md) | Potion | Uncommon | No |
-| [Potion of Pugilism](/item/magic/infusion/uncommon/potion-of-pugilism.md) | Potion | Uncommon | No |
-| [Potion of Resistance](/item/magic/infusion/uncommon/potion-of-resistance.md) | Potion | Uncommon | No |
-| [Potion of Water Breathing](/item/magic/infusion/uncommon/potion-of-water-breathing.md) | Potion | Uncommon | No |
 | [Psi Crystal](/item/magic/infusion/uncommon/psi-crystal.md) | Spellcasting Focus (Arcane Focus) | Uncommon | Yes |
 
 ## Q
@@ -167,7 +151,6 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Restorative Ointment](/item/magic/infusion/uncommon/restorative-ointment.md) | Potion | Uncommon | No |
 | [Ring of Jumping](/item/magic/infusion/uncommon/ring-of-jumping.md) | Clothing (Jewelry) | Uncommon | Yes |
 | [Ring of Mind Sharpening](/item/magic/infusion/uncommon/ring-of-mind-sharpening.md) | Clothing (Jewelry) | Uncommon | Yes |
 | [Ring of Mind Shielding](/item/magic/infusion/uncommon/ring-of-mind-shielding.md) | Clothing (Jewelry) | Uncommon | Yes |
@@ -190,7 +173,6 @@
 | [Shield of Repulsion](/item/magic/infusion/uncommon/shield-of-repulsion.md) | Shield (Any) | Uncommon | No |
 | [Shield of Sentinels](/item/magic/infusion/uncommon/shield-of-sentinels.md) | Shield (Any) | Uncommon | No |
 | [Silver Raven Figurine](/item/magic/infusion/uncommon/silver-raven-figurine.md) | Wondrous Item | Uncommon | No |
-| [Spell Scroll](/item/magic/infusion/uncommon/spell-scroll.md) | Scroll | Uncommon | No |
 | [Staff of the Adder](/item/magic/infusion/uncommon/staff-of-the-adder.md) | Weapon (Staff) | Uncommon | Yes |
 | [Staff of the Python](/item/magic/infusion/uncommon/staff-of-the-python.md) | Weapon (Staff) | Uncommon | Yes |
 | [Stone of Good Luck](/item/magic/infusion/uncommon/stone-of-good-luck.md) | Clothing (Jewelry) | Uncommon | Yes |

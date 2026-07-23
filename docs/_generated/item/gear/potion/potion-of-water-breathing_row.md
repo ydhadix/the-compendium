@@ -1,0 +1,1 @@
+| [Potion of Water Breathing](/item/gear/potion/potion-of-water-breathing.md) | Potion | 200 gold |

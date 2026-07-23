@@ -20,19 +20,6 @@ Every day of infusing requires **8** hours of work, but the total hours and days
 
 You can work with others to shorten the infusing time, provided each contributor has the appropriate Proficiencies and Spells. Each contributor reduces the total time as though they were working independently.
 
-### Spell Scrolls
-The time and cost to craft a Spell Scroll is based on the Spell Level of the Spell it contains, instead of the Rarity of the scroll.
-
-| Spell Level | Time | Cost |
-|---|---|---|
-| Cantrip | **1** day | **25** gold |
-| 1st | **1** day | **100** gold |
-| 2nd | **5** days | **250** gold |
-| 3rd | **10** days | **1,000** gold |
-| 4th | **40** days | **10,000** gold |
-| 5th | **60** days | **25,000** gold |
-| 6th | **120** days | **50,000** gold |
-
 ## Removing Infusions
 You can permanently remove an Infusion from a Magic Item with **8** hours of work, provided you have Proficiency in Arcana and know _Dispel Magic_. Cursed and Artifact Infusions can't be removed without special methods unique to the item.
 

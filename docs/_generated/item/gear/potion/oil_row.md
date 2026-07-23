@@ -1,0 +1,1 @@
+| [Oil](/item/gear/potion/oil.md) | Potion | 1 silver |

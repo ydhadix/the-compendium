@@ -11,8 +11,6 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Bead of Nourishment](/item/magic/infusion/common/bead-of-nourishment.md) | Potion | Common | No |
-| [Bead of Refreshment](/item/magic/infusion/common/bead-of-refreshment.md) | Potion | Common | No |
 | [Boots of False Tracks](/item/magic/infusion/common/boots-of-false-tracks.md) | Clothing (Boots) | Common | Yes |
 
 ## C
@@ -83,14 +81,10 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Perfume of Bewitching](/item/magic/infusion/common/perfume-of-bewitching.md) | Potion | Common | No |
 | [Pipe of Smoke Monsters](/item/magic/infusion/common/pipe-of-smoke-monsters.md) | Wondrous Item | Common | No |
 | [Pole of Angling](/item/magic/infusion/common/pole-of-angling.md) | Wondrous Item | Common | No |
 | [Pole of Collapsing](/item/magic/infusion/common/pole-of-collapsing.md) | Wondrous Item | Common | No |
 | [Pot of Awakening](/item/magic/infusion/common/pot-of-awakening.md) | Wondrous Item | Common | No |
-| [Potion of Climbing](/item/magic/infusion/common/potion-of-climbing.md) | Potion | Common | No |
-| [Potion of Comprehension](/item/magic/infusion/common/potion-of-comprehension.md) | Potion | Common | No |
-| [Potion of Healing](/item/magic/infusion/common/potion-of-healing.md) | Potion | Common | No |
 | [Prosthetic Limb](/item/magic/infusion/common/prosthetic-limb.md) | Wondrous Item | Common | No |
 
 ## R
@@ -108,7 +102,6 @@
 |---|---|---|---|
 | [Shield of Expression](/item/magic/infusion/common/shield-of-expression.md) | Shield (Any) | Common | No |
 | [Smoldering Armor](/item/magic/infusion/common/smoldering-armor.md) | Armor (Any) | Common | No |
-| [Spell Scroll](/item/magic/infusion/common/spell-scroll.md) | Scroll | Common | No |
 | [Staff of Adornment](/item/magic/infusion/common/staff-of-adornment.md) | Weapon (Staff) | Common | No |
 | [Staff of Birdcalls](/item/magic/infusion/common/staff-of-birdcalls.md) | Weapon (Staff) | Common | No |
 | [Staff of Flowers](/item/magic/infusion/common/staff-of-flowers.md) | Weapon (Staff) | Common | No |

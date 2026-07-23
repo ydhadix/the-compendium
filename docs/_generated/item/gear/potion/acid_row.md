@@ -1,0 +1,1 @@
+| [Acid](/item/gear/potion/acid.md) | Potion | 25 gold |

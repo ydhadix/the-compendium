@@ -1,0 +1,1 @@
+| [Bead of Refreshment](/item/gear/survival/bead-of-refreshment.md) | Other | 50 gold |

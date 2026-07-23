@@ -1,4 +1,4 @@
-0-9 · A · [B](#b) · C · D · [E](#e) · F · G · H · I · J · K · L · M · N · O · P · Q · R · [S](#s) · T · U · V · W · X · Y · Z
+0-9 · A · [B](#b) · C · D · [E](#e) · F · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · U · V · W · X · Y · Z
 { .keyword-jump }
 
 ## B
@@ -14,9 +14,3 @@
 | [Enspelled Armor](/item/magic/infusion/legendary/enspelled-armor.md) | Armor (Any) | Legendary | Yes |
 | [Enspelled Staff](/item/magic/infusion/legendary/enspelled-staff.md) | Spellcasting Focus (Any) | Legendary | Yes (Spellcaster) |
 | [Enspelled Weapon](/item/magic/infusion/legendary/enspelled-weapon.md) | Weapon (Any) | Legendary | Yes |
-
-## S
-
-| Item | Type | Rarity | Attunement |
-|---|---|---|---|
-| [Spell Scroll](/item/magic/infusion/legendary/spell-scroll.md) | Scroll | Legendary | No |

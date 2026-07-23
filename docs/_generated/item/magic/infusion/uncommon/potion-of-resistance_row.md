@@ -1,1 +1,0 @@
-| [Potion of Resistance](/item/magic/infusion/uncommon/potion-of-resistance.md) | Potion | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Oil of Slipperiness](/item/gear/potion/oil-of-slipperiness.md) | Potion | 200 gold |

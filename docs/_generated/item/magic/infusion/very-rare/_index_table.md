@@ -1,4 +1,4 @@
-0-9 · A · B · [C](#c) · D · [E](#e) · F · G · [H](#h) · I · J · K · L · M · N · O · P · Q · [R](#r) · [S](#s) · T · U · V · W · X · Y · Z
+0-9 · A · B · [C](#c) · D · [E](#e) · F · G · [H](#h) · I · J · K · L · M · N · O · P · Q · [R](#r) · S · T · U · V · W · X · Y · Z
 { .keyword-jump }
 
 ## C
@@ -26,9 +26,3 @@
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 | [Ring of Shooting Stars](/item/magic/infusion/very-rare/ring-of-shooting-stars.md) | Clothing (Jewelry) | Very Rare | Yes (Spellcaster) |
-
-## S
-
-| Item | Type | Rarity | Attunement |
-|---|---|---|---|
-| [Spell Scroll](/item/magic/infusion/very-rare/spell-scroll.md) | Scroll | Very Rare | No |

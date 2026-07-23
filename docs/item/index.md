@@ -67,7 +67,7 @@ Coins convert at a decimal scale: **100** copper equal **10** silver equal **1**
 You can only craft an item if you have Proficiency with the corresponding Artisan's Tool and the tool is appropriate to the material used.
 
 #### Time and Cost
-The Cost of crafting an item is paid in raw materials and time based on the item's Value. You use half the item's Value in raw materials, and it takes **1** day to craft an item for every **25** gold it's worth, or half as much time and gold for a Consumable.
+The Cost of crafting an item is paid in raw materials and time based on the item's Value. You use half the item's Value in raw materials, and it takes **1** day to craft an item for every **25** gold it's worth, or half as much time for a Consumable.
 
 Every day of crafting requires **8** hours of work, but the total hours and days don't need to be consecutive.
 

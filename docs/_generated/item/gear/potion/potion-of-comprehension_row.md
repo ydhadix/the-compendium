@@ -1,0 +1,1 @@
+| [Potion of Comprehension](/item/gear/potion/potion-of-comprehension.md) | Potion | 50 gold |

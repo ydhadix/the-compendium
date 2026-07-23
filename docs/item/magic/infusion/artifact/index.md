@@ -4,4 +4,4 @@ Artifacts are the rarest and most powerful relics in the world, singular items w
 
 | Item | Rarity | Type | Attunement |
 |---|---|---|---|
-| Orrery of the Wanderer | Artifact | Wondrous Item | Yes |
+| [Orrery of the Wanderer](orrery-of-the-wanderer.md) | Artifact | Wondrous Item | Yes |

@@ -1,1 +1,0 @@
-| [Holy Water](/item/gear/combat/holy-water.md) | Potion | 25 gold |

@@ -2,8 +2,6 @@
 Potion, Consumable, 50 gold
 { .subtitle }
 
-###### Heal
-Bonus Action
-{ .subtitle }
+This potion comes in a Flask.
 
-You can consume the Potion of Healing and heal by **2d4 + 2**.
+After consuming this potion, you heal by **2d4 + 2**.

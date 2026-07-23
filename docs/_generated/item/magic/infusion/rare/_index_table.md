@@ -1,4 +1,4 @@
-0-9 · [A](#a) · [B](#b) · C · [D](#d) · [E](#e) · F · [G](#g) · [H](#h) · [I](#i) · J · K · [L](#l) · [M](#m) · N · O · P · Q · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
+0-9 · [A](#a) · [B](#b) · C · [D](#d) · [E](#e) · F · [G](#g) · [H](#h) · [I](#i) · J · K · [L](#l) · [M](#m) · N · O · P · Q · [R](#r) · S · [T](#t) · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
 ## A
@@ -72,12 +72,6 @@
 | [Ring of Spell Storing](/item/magic/infusion/rare/ring-of-spell-storing.md) | Clothing (Jewelry) | Rare | Yes (Spellcaster) |
 | [Ring of Starmetal](/item/magic/infusion/rare/ring-of-starmetal.md) | Clothing (Jewelry) | Rare | Yes |
 | [Ring of the Ram](/item/magic/infusion/rare/ring-of-the-ram.md) | Clothing (Jewelry) | Rare | Yes |
-
-## S
-
-| Item | Type | Rarity | Attunement |
-|---|---|---|---|
-| [Spell Scroll](/item/magic/infusion/rare/spell-scroll.md) | Scroll | Rare | No |
 
 ## T
 

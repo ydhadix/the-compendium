@@ -1,0 +1,1 @@
+| [Spell Scroll](/item/gear/scroll/spell-scroll.md) | Scroll | Value Varies |
