@@ -1,5 +1,5 @@
 # Containers
-`Description TBD`
+**Containers** are items used to store and carry other items.
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

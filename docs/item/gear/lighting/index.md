@@ -1,5 +1,5 @@
 # Light Sources
-`Description TBD`
+**Light Sources** are items that help with seeing without the use of special senses.
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

@@ -1,5 +1,5 @@
 # Spellcasting Focuses
-`Description TBD`
+A **Spellcasting Focus** is used by a spellcaster to provide Material Components for spells.
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

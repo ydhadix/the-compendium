@@ -1,5 +1,5 @@
 # Combat Gear
-`Description TBD`
+**Combat Gear** is anything made to be used in a fight other than standard weapons.
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

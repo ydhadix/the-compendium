@@ -1,5 +1,5 @@
 # Tools
-`Description TBD`
+**Tools** are specialized problem-solving implements.
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

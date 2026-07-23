@@ -1,5 +1,5 @@
 # Survival Gear
-`Description TBD`
+**Survival Gear** keeps you rested and healthy on long journeys.
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

@@ -15,7 +15,7 @@
 | [Spellcasting Focuses](spell-focus/index.md) |
 | [Survival Gear](survival/index.md) |
 | [Tools](tool/index.md) |
-| [Writing Implements](writing/index.md) |
+| [Writing Supplies](writing/index.md) |
 
 ## Gear Packs
 **Gear Packs** are ready-made bundles of equipment that are usually cheaper than buying its pieces individually.
