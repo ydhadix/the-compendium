@@ -12,12 +12,6 @@
 [Starting at Higher Levels](#starting-at-higher-levels)
 { .keyword-jump }
 
-## Features
-**Features** are the special techniques and effects your character uses to interact with the world.  Your Race, Class, and Feats all grant features in different ways.
-
-## Traits
-**Traits** are the measurable facts that define your character on a character sheet or stat block.  Your Race and Primary Class set your basic traits, while Feats and other effects can improve them.
-
 ## Character Creation
 
 ### 1. Choose Abilities

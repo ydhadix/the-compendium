@@ -227,19 +227,6 @@ nav:
 
     - Creature Codex:
       - Overview:                   bestiary/index.md
-      - Creature Traits:
-        - Overview:                 bestiary/trait/index.md
-        - Alignment:                bestiary/trait/alignment.md
-        - Size:                     bestiary/trait/size.md
-        - Reach:                    bestiary/trait/reach.md
-        - "---": "sep:"
-        - Abilities:                bestiary/trait/ability.md
-        - Defenses:                 bestiary/trait/defense.md
-        - Proficiencies:            bestiary/trait/proficiency.md
-        - Skills:                   bestiary/trait/skill.md
-        - Languages:                bestiary/trait/language.md
-        - Speeds:                   bestiary/trait/speed.md
-        - Senses:                   bestiary/trait/sense.md
       - NPCs:
         - NPC Overview:             bestiary/npc/index.md
         - Disposition:              bestiary/npc/disposition.md
