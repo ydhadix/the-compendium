@@ -15,12 +15,12 @@
 ## 0-9
 | Keyword | Location |
 |---|---|
-| [1st-Level](/spell/parts.md#spell-level) | Spell Level |
-| [2nd-Level](/spell/parts.md#spell-level) | Spell Level |
-| [3rd-Level](/spell/parts.md#spell-level) | Spell Level |
-| [4th-Level](/spell/parts.md#spell-level) | Spell Level |
-| [5th-Level](/spell/parts.md#spell-level) | Spell Level |
-| [6th-Level](/spell/parts.md#spell-level) | Spell Level |
+| [1st-Level](/spell/index.md#spell-level) | Spell Level |
+| [2nd-Level](/spell/index.md#spell-level) | Spell Level |
+| [3rd-Level](/spell/index.md#spell-level) | Spell Level |
+| [4th-Level](/spell/index.md#spell-level) | Spell Level |
+| [5th-Level](/spell/index.md#spell-level) | Spell Level |
+| [6th-Level](/spell/index.md#spell-level) | Spell Level |
 
 ## A
 | Keyword | Location |
@@ -30,7 +30,7 @@
 | [Ability](/bestiary/trait/ability.md) | Ability |
 | [Ability Check](/rules/dice/check.md) | Dice Roll |
 | [Ability Maximum](/bestiary/trait/ability.md#ability-maximum) | Ability |
-| [Abjuration](/spell/parts.md#school-of-magic) | School of Magic |
+| [Abjuration](/spell/index.md#schools-of-magic) | School of Magic |
 | [Abyssal](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
 | [Acid](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
 | [Acrobatics](/bestiary/trait/skill.md) | Skill |
@@ -86,8 +86,8 @@
 ## C
 | Keyword | Location |
 |---|---|
-| [Cantrip](/spell/parts.md#spell-level) | Spell Level |
-| [Casting Time](/spell/parts.md#casting-time) | Casting Time |
+| [Cantrip](/spell/index.md#spell-level) | Spell Level |
+| [Casting Time](/spell/index.md#casting-time) | Casting Time |
 | [Celestial](/bestiary/type/index.md) | Creature Type |
 | [Celestial](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
 | [Chaotic](/bestiary/trait/alignment.md) | Alignment |
@@ -97,7 +97,6 @@
 | [Charmed](/rules/adventure/condition.md#charmed) | Condition |
 | [Class](/character/class/index.md) | Hero Handbook |
 | [Class Level](/character/class/index.md#leveling-up) | Class |
-| [Class List](/spell/parts.md#class-list) | Spellcasting |
 | [Cleave](/item/weapon/mastery/index.md#cleave) | Weapon Mastery |
 | [Cleric](/character/class/cleric/index.md) | Class |
 | [Climb](/rules/position/movement.md#climbing) | Movement |
@@ -114,13 +113,13 @@
 | [Common Sign Language](/bestiary/trait/language.md#standard-languages) | Standard Language |
 | [Companion](/bestiary/npc/companion.md) | NPC |
 | [Component](/spelljammer/creation/component/index.md) | Spelljammer |
-| [Component](/spell/parts.md#components) | Spell Component |
+| [Component](/spell/index.md#components) | Spell Component |
 | [Component Pouch](/item/gear/spell-focus/component-pouch.md) | Spellcasting Focus |
-| [Concentration](/spell/parts.md#concentration) | Concentration |
+| [Concentration](/spell/index.md#concentration) | Concentration |
 | [Concentration](/rules/dice/save.md#concentration-saves) | Saving Throw |
 | [Condition](/rules/adventure/condition.md) | Condition |
 | [Cone](/rules/position/target.md#areas) | Area |
-| [Conjuration](/spell/parts.md#school-of-magic) | School of Magic |
+| [Conjuration](/spell/index.md#schools-of-magic) | School of Magic |
 | [Constitution](/bestiary/trait/ability.md#the-six-abilities) | Ability |
 | [Construct](/bestiary/type/index.md) | Creature Type |
 | [Consumable](/item/index.md#consumable-items) | Item |
@@ -170,7 +169,7 @@
 | [Disadvantage](/rules/dice/index.md#advantage-disadvantage) | Dice Roll |
 | [Disengage Action](/rules/adventure/action.md#disengage) | Normal Action |
 | [Disposition](/bestiary/npc/disposition.md) | Disposition |
-| [Divination](/spell/parts.md#school-of-magic) | School of Magic |
+| [Divination](/spell/index.md#schools-of-magic) | School of Magic |
 | [DM Inspiration](/rules/dice/index.md) | Dice Roll |
 | [Dodge Action](/rules/adventure/action.md#dodge) | Normal Action |
 | [Downed](/rules/adventure/condition.md#downed) | Condition |
@@ -182,7 +181,7 @@
 | [Druid](/character/class/druid/index.md) | Class |
 | [Druidic](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
 | [Druidic Focus](/item/gear/spell-focus/druidic-focus.md) | Spellcasting Focus |
-| [Duration](/spell/parts.md#duration) | Duration |
+| [Duration](/spell/index.md#duration) | Duration |
 | [Dwarf](/character/race/dwarf.md) | Race |
 | [Dwarvish](/bestiary/trait/language.md#standard-languages) | Standard Language |
 
@@ -193,14 +192,14 @@
 | [Elemental](/rules/dice/damage.md#elemental-damage) | Damage Type |
 | [Elf](/character/race/elf.md) | Race |
 | [Elvish](/bestiary/trait/language.md#standard-languages) | Standard Language |
-| [Enchantment](/spell/parts.md#school-of-magic) | School of Magic |
+| [Enchantment](/spell/index.md#schools-of-magic) | School of Magic |
 | [Encounter](/rules/adventure/encounter.md) | Encounter |
 | [Enemy](/bestiary/npc/disposition.md) | Disposition |
 | [Epic Boon](/character/feat/index.md) | Feat |
 | [Esoteric](/rules/dice/damage.md#esoteric-damage) | Damage Type |
 | [Evasion](/bestiary/trait/defense.md#evasion) | Defense |
 | [Evil](/bestiary/trait/alignment.md) | Alignment |
-| [Evocation](/spell/parts.md#school-of-magic) | School of Magic |
+| [Evocation](/spell/index.md#schools-of-magic) | School of Magic |
 | [Exhausted](/rules/adventure/condition.md#exhausted) | Condition |
 | [Exotic](/bestiary/trait/language.md#exotic-languages) | Language |
 | [Expertise](/bestiary/trait/proficiency.md#degrees-of-proficiency) | Proficiency |
@@ -284,7 +283,7 @@
 ## I
 | Keyword | Location |
 |---|---|
-| [Illusion](/spell/parts.md#school-of-magic) | School of Magic |
+| [Illusion](/spell/index.md#schools-of-magic) | School of Magic |
 | [Immobile](/rules/adventure/condition.md#immobile) | Condition |
 | [Immunity](/bestiary/trait/defense.md#immunity) | Defense |
 | [Imprint](/character/class/ranger/imprint/index.md) | Ranger Feature |
@@ -319,10 +318,10 @@
 | [Language](/bestiary/trait/language.md) | Language |
 | [Large](/bestiary/trait/size.md) | Size Category |
 | [Lawful](/bestiary/trait/alignment.md) | Alignment |
-| [Learned](/spell/preparing.md#learned-spells) | Spellcasting |
+| [Learned](/spell/index.md#learned-spells) | Spellcasting |
 | [Legendary](/item/magic/infusion/legendary/index.md) | Infusion Rarity |
 | [Level](/character/class/index.md#leveling-up) | Class |
-| [Level](/spell/parts.md#spell-level) | Spellcasting |
+| [Level](/spell/index.md#spell-level) | Spellcasting |
 | [Leviathan](/spelljammer/leviathan.md) | Spelljammer |
 | [Light](/item/weapon/property/index.md#light) | Weapon Property |
 | [Light Armor](/item/armor.md#light-armor) | Armor Weight |
@@ -347,7 +346,7 @@
 | [Martial Weapon](/item/weapon/index.md#martial-weapons) | Weapon |
 | [Masterwork](/item/index.md#masterwork) | Item Index |
 | [Material](/item/gear/material/index.md) | Adventuring Gear |
-| [Material](/spell/parts.md#material) | Spell Component |
+| [Material](/spell/index.md#material) | Spell Component |
 | [Medicine](/bestiary/trait/skill.md) | Skill |
 | [Medium](/bestiary/trait/size.md) | Size Category |
 | [Medium Armor](/item/armor.md#medium-armor) | Armor Weight |
@@ -367,7 +366,7 @@
 | [Natural Armor](/item/armor.md#natural-armor) | Armor |
 | [Natural Weapon](/item/weapon/index.md#natural-weapons) | Unarmed Strike |
 | [Nature](/bestiary/trait/skill.md) | Skill |
-| [Necromancy](/spell/parts.md#school-of-magic) | School of Magic |
+| [Necromancy](/spell/index.md#schools-of-magic) | School of Magic |
 | [Necrotic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Neutral](/bestiary/trait/alignment.md) | Alignment |
 | [Nick](/item/weapon/mastery/index.md#nick) | Weapon Mastery |
@@ -411,7 +410,7 @@
 | [Polearm](/item/weapon/index.md#martial-weapons) | Martial Weapon |
 | [Potion](/item/gear/potion/index.md) | Adventuring Gear |
 | [Precision](/bestiary/trait/skill.md) | Skill |
-| [Prepared](/spell/preparing.md#prepared-spells) | Spellcasting |
+| [Prepared](/spell/index.md#prepared-spells) | Spellcasting |
 | [Prerequisite](/character/feat/index.md) | Feat |
 | [Primary Class](/character/class/index.md#primary-class) | Class |
 | [Prime](/character/race/prime.md) | Race |
@@ -451,7 +450,7 @@
 | [Resistance](/bestiary/trait/defense.md#resistance) | Defense |
 | [Restrained](/rules/adventure/condition.md#restrained) | Condition |
 | [Retreat Range](/spelljammer/encounter.md#encounter-scale) | Spelljammer Engagement Range |
-| [Ritual](/spell/parts.md#rituals) | Casting Time |
+| [Ritual](/spell/index.md#rituals) | Casting Time |
 | [Rogue](/character/class/rogue/index.md) | Class |
 | [Roomy](/bastion/index.md) | Bastion Size |
 | [Round](/rules/adventure/encounter.md#rounds) | Encounter |
@@ -461,7 +460,7 @@
 |---|---|
 | [Sap](/item/weapon/mastery/index.md#sap) | Weapon Mastery |
 | [Saving Throw](/rules/dice/save.md) | Dice Roll |
-| [School of Magic](/spell/parts.md#school-of-magic) | School of Magic |
+| [School of Magic](/spell/index.md#schools-of-magic) | School of Magic |
 | [Scroll](/item/index.md#item-types) | Adventuring Gear |
 | [Search Action](/rules/adventure/action.md#search) | Normal Action |
 | [Secondary Class](/character/class/index.md#secondary-class) | Class |
@@ -481,15 +480,15 @@
 | [Sling](/item/weapon/index.md#simple-weapons) | Simple Weapon |
 | [Slow](/item/weapon/mastery/index.md#slow) | Weapon Mastery |
 | [Small](/bestiary/trait/size.md) | Size Category |
-| [Somatic](/spell/parts.md#somatic) | Spell Component |
+| [Somatic](/spell/index.md#somatic) | Spell Component |
 | [Sorcerer](/character/class/sorcerer/index.md) | Class |
 | [Speed](/bestiary/trait/speed.md) | Speed |
 | [Spell](/spell/index.md) | Spellcasting |
 | [Spell Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
 | [Spell Save DC](/spell/index.md) | Spellcasting |
-| [Spell Slot](/spell/casting.md#spell-slots) | Spellcasting |
-| [Spellcaster Level](/spell/casting.md#spellcaster-level) | Spellcasting |
-| [Spellcasting Ability](/spell/casting.md#spellcasting-ability) | Spellcasting |
+| [Spell Slot](/spell/index.md#spell-slots) | Spellcasting |
+| [Spellcaster Level](/spell/index.md#spellcaster-level) | Spellcasting |
+| [Spellcasting Ability](/spell/index.md#spellcasting-ability) | Spellcasting |
 | [Spellcasting Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus |
 | [Spelljammer](/spelljammer/creation/base/index.md) | Spelljammer Ship |
 | [Spelljammer](/spelljammer/officer/spelljammer/index.md) | Spelljammer Officer |
@@ -532,7 +531,7 @@
 | [Topple](/item/weapon/mastery/index.md#topple) | Weapon Mastery |
 | [Trade](/item/index.md) | Item Index |
 | [Trait](/bestiary/trait/index.md) | Trait |
-| [Transmutation](/spell/parts.md#school-of-magic) | School of Magic |
+| [Transmutation](/spell/index.md#schools-of-magic) | School of Magic |
 | [Travel Rest](/rules/adventure/rest.md#travel-rest) | Rest |
 | [Tremorsense](/bestiary/trait/sense.md#tremorsense) | Sense |
 | [Truesight](/bestiary/trait/sense.md#truesight) | Sense |
@@ -549,7 +548,7 @@
 | [Undead](/bestiary/type/index.md) | Creature Type |
 | [Undercommon](/bestiary/trait/language.md#exotic-languages) | Exotic Language |
 | [Unique](/item/magic/infusion/unique/index.md) | Infusion Rarity |
-| [Upcast](/spell/casting.md#upcasting) | Spellcasting |
+| [Upcast](/spell/index.md#upcasting) | Spellcasting |
 | [Utilize Action](/rules/adventure/action.md#utilize) | Normal Action |
 
 ## V
@@ -557,7 +556,7 @@
 |---|---|
 | [Value](/item/index.md) | Item |
 | [Vast](/bastion/index.md) | Bastion Size |
-| [Verbal](/spell/parts.md#verbal) | Spell Component |
+| [Verbal](/spell/index.md#verbal) | Spell Component |
 | [Versatile](/item/weapon/property/index.md#versatile) | Weapon Property |
 | [Very Rare](/item/magic/infusion/very-rare/index.md) | Infusion Rarity |
 | [Vex](/item/weapon/mastery/index.md#vex) | Weapon Mastery |

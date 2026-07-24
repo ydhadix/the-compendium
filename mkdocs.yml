@@ -204,10 +204,6 @@ nav:
 
     - Spell Selection:
       - Spell Overview:             spell/index.md
-      - Preparing Spells:           spell/preparing.md
-      - Casting Spells:             spell/casting.md
-      - Parts of a Spell:           spell/parts.md
-      - "---": "sep:"
       - Spells by Level:
         - Overview:                 spell/level/index.md
         - Cantrips:                 spell/level/0/index.md

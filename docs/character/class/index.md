@@ -62,7 +62,7 @@ Your **Primary Class** is the class you choose at Level **1**.  When you gain yo
 #### Secondary Class
 Your **Secondary Class** is the second class you choose at a later Level.  Once you choose a Secondary Class, you cannot change it, and you cannot take Levels in a third class.  When you gain your first Level in your Secondary Class, you gain that class’s Secondary Proficiencies.
 
-If you gain the Spellcasting feature from both your Classes, your total [total Spell Slots](../../spell/casting.md#multiclass-spellcasting) depends on each Classes' individual capacity for magic.
+If you gain the Spellcasting feature from both your Classes, your total [total Spell Slots](/spell/index.md#multiclass-spellcasting) depends on each Classes' individual capacity for magic.
 
 ### Starting Ability
 Each Class has a **Starting Ability**, the Ability improved when you take that Class at Level **1**.  If a Class offers a choice of Starting Ability, you choose one when you gain your first Level in it.
