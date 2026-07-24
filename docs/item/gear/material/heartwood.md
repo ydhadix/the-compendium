@@ -1,5 +1,5 @@
 ### Heartwood
-Material, Consumable, 1,000 gold
+Material (Wood), Consumable, 1,000 gold
 { .subtitle }
 
 Heartwood naturally mends normal wear and tear, can be a Spellcasting Focus for any Spell, and can be used to create items normally made of metal.

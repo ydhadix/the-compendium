@@ -1,1 +1,1 @@
-| [Adamantine](/item/gear/material/adamantine.md) | Material | 500 gold |
+| [Adamantine](/item/gear/material/adamantine.md) | Material (Metal) | 500 gold |

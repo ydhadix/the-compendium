@@ -1,1 +1,1 @@
-| [Silver](/item/gear/material/silver.md) | Material | 100 gold |
+| [Silver](/item/gear/material/silver.md) | Material (Metal) | 100 gold |

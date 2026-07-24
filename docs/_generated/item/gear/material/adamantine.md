@@ -1,5 +1,5 @@
 ##### Adamantine
-Material, Consumable, 500 gold
+Material (Metal), Consumable, 500 gold
 { .subtitle }
 
 Adamantine objects weigh **50**% more than normal, and gain Immunity to Physical damage from non-Adamantine sources _(this Immunity doesn't protect the item's wielder)_.

@@ -1,5 +1,5 @@
 ### Ironwill
-Material, Consumable, 2,500 gold
+Material (Metal), Consumable, 2,500 gold
 { .subtitle }
 
 This item can be used as a Spellcasting Focus for any Spell.

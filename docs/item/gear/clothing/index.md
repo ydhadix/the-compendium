@@ -6,6 +6,8 @@
 --8<-- "_generated/item/gear/clothing/_index_table.md"
 
 ## Wearing Clothing
+Basic clothing is typically a complete set of clothes, but individual pieces of clothing can be infused with magic effects.
+
 | Type | Worn | Limit | Crafting Tool |
 |---|---|---|---|
 | Boots | On feet | **1** pair | Cobbler's Tools |

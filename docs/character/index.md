@@ -7,18 +7,23 @@
 | [Classes](class/index.md) |
 | [Feats](feat/index.md) |
 
-### Features
+[Hero Handbook](#hero-handbook) · 
+[Character Creation](#character-creation) · 
+[Starting at Higher Levels](#starting-at-higher-levels)
+{ .keyword-jump }
+
+## Features
 **Features** are the special techniques and effects your character uses to interact with the world.  Your Race, Class, and Feats all grant features in different ways.
 
-### Traits
+## Traits
 **Traits** are the measurable facts that define your character on a character sheet or stat block.  Your Race and Primary Class set your basic traits, while Feats and other effects can improve them.
 
-### Character Creation
+## Character Creation
 
-##### 1. Choose Abilities
+### 1. Choose Abilities
 Your Abilities start at **0**, the baseline for a typical person. When you create your character, choose **4** Abilities to increase by **1** each.
 
-##### 2. Choose a Race
+### 2. Choose a Race
 Your Race outlines your physical characteristics and grants you a set of Traits and Features.  Each race includes:
 
 - **2** Abilities, which each increase by **1**
@@ -27,13 +32,12 @@ Your Race outlines your physical characteristics and grants you a set of Traits 
 - a Speed
 - a Reach
 - starting Hit Points
-- Resistances (if any)
-- Protections (if any)
+- Resistances, Protections, or Immunities (if any)
 - Senses (if any)
 - at least **1** Feature
 
-##### 3. Choose a Background
-Your Background represents the place and occupation that was most formative before you beame an adventurer.
+### 3. Choose a Background
+Your Background represents the place and occupation that was most formative before you became an adventurer.
 
 You can create your own background, or you can modify one of the Example Backgrounds to suit your character.  Each background includes:
 
@@ -46,12 +50,12 @@ You can create your own background, or you can modify one of the Example Backgro
 - **1** Common Magic Item
 - **50** gold
 
-##### 4. Choose a Class
+### 4. Choose a Class
 Your Class reflects your specialized training and defines how you interact with the world. The class you choose at level **1** is your Primary Class, which includes the following parts:
 
 - **1** Starting Ability, which increases by **1**
 - a Hit Die
-- a set of starting items and/or gold
+- a set of Starting Equipment
 - **1** Saving Throw Proficiency
 - **1** Saving Throw Aptitude
 - Weapon and Armor Proficiencies
@@ -59,31 +63,31 @@ Your Class reflects your specialized training and defines how you interact with 
 - Trade Proficiencies
 - Level **1** Class Features
 
-##### 5. Purchase Equipment
+### 5. Purchase Equipment
 Your class and background include starting items and gold. You can purchase additional items for their listed value.
 
-##### 6. Finishing Touches
+### 6. Finishing Touches
 After choosing your abilities, proficiencies, and equipment, it’s time to calculate your bonuses and finish your character sheet.
 
-###### Hit Point Maximum
+#### Hit Point Maximum
 Add your Race’s starting Hit Points, the maximum of your Primary Class’s Hit Die, and your Constitution. This total is your Hit Point Maximum.
 
-###### Armor Class
+#### Armor Class
 Calculate your Armor Class based on the Armor you wear, if any.
 
-###### Additional Proficiencies
+#### Intelligence Proficiencies
 If your Intelligence is higher than 0, you learn additional Proficiencies and Languages.
 
-###### Proficiency Bonuses
+#### Proficiency Bonuses
 Calculate your bonuses to Skills, Saving Throws, and Attacks.  Find the relevant Ability for that bonus and add your Proficiency Bonus based on your level of Proficiency.
 
-###### Saving Throw DCs
+#### Saving Throw DCs
 Calculate your Saving Throw DCs for features, such as Spellcasting.  Find the relevant Ability for that feature, add your Proficiency Bonus, and add 8.
 
-#### Starting at Higher Levels
+### Starting at Higher Levels
 To create a character at a higher level, start by creating them at Level **1** and Level Up one at a time.
 
-You also gain additional items and gold based on your starting Level:
+You also gain additional gold and Magic Items based on your starting Level:
 
 | Level | Gold | Magic Items |
 |---|---|---|

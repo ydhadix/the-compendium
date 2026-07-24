@@ -1,5 +1,5 @@
 ### Mithral
-Material, Consumable, 500 gold
+Material (Metal), Consumable, 500 gold
 { .subtitle }
 
 This item weighs **50**% less than normal.

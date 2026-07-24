@@ -1,5 +1,5 @@
 ##### Silver
-Material, Consumable, 100 gold
+Material (Metal), Consumable, 100 gold
 { .subtitle }
 
 Silver can't be used to make Weapons or Armor, but Weapons and Armor can be alchemically coated with it _(a coated item keeps its normal Material's benefits as well)_.

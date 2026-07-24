@@ -1,6 +1,4 @@
 # Magic Items
-**Magic Items** are ordinary gear powered by **Infusions**, magical properties beyond what mundane craftsmanship can achieve.
-{ .subtitle }
 
 | |
 |---|
@@ -12,6 +10,7 @@
 | [Artifacts](infusion/artifact/index.md) |
 | [Unique](infusion/unique/index.md) |
 
+[Magic Items](#magic-items) · 
 [Identification](#identification) · 
 [Attunement](#attunement) · 
 [Charges](#charges) · 
@@ -21,6 +20,8 @@
 { .keyword-jump }
 
 ## Using Magic Items
+**Magic Items** are ordinary gear powered by **Infusions**, magical properties beyond what mundane craftsmanship can achieve.
+
 Magic Items usually require wearing or wielding them properly, just like normal items. Magic Items that don't fit the standard [Item Types](/item/index.md#item-types) are called Wondrous Items, and their usage varies.
 
 ### Identification
@@ -78,7 +79,7 @@ The Cost of infusing an item is paid in raw materials and time based on the Infu
 
 Every day of infusing requires **8** hours of work, but the total hours and days don't need to be consecutive.
 
-###### Working Together
+##### Working Together
 You can work with others to shorten the infusing time, provided each contributor has the appropriate Proficiencies and Spells. Each contributor reduces the total time as though they were working independently.
 
 #### Removing Infusions

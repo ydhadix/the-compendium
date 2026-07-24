@@ -8,14 +8,17 @@
 | [Armor](armor.md) |
 | [Magic Items](magic/index.md) |
 
-[Using Equipment](#using-equipment) · 
+[Item Index](#item-index) · 
+[Item Types](#item-types) · 
 [Consumables](#consumable-items) · 
 [Currency](#currency) · 
 [Crafting Items](#crafting-items) · 
 [Masterwork](#masterwork)
 { .keyword-jump }
 
-## Using Equipment
+## Using Items
+**Items** are the equipment, weapons, and armor an adventurer uses.
+
 Benefiting from items usually requires wearing or wielding them properly. An item's type determines how it should be used or worn, and how many items of the same type a typical Humanoid can wear at the same time.
 
 ### Item Types
@@ -73,6 +76,10 @@ Every day of crafting requires **8** hours of work, but the total hours and days
 
 ###### Working Together
 You can work with others to shorten the crafting time, provided each contributor has the appropriate Proficiencies. Each contributor reduces the total time as though they were working independently.
+
+#### Crafting with Materials
+You must acquire a Material before you can craft an item with it. Crafting an item with a Material increases the item's Value, but doesn't increase the time required to craft the item.
+
 
 ### Masterwork
 **Masterwork** items have exceptional craftsmanship that gives a bonus to attacks, defenses, or spellcasting.

@@ -1,5 +1,5 @@
 ### Philter of Love
-Poison, Consumable, 200 gold
+Poison (Ingested), Consumable, 200 gold
 { .subtitle }
 
 This poison comes in a Vial.

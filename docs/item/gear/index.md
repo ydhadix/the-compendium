@@ -20,6 +20,7 @@
 ## Gear Packs
 **Gear Packs** are ready-made bundles of equipment that are usually cheaper than buying its pieces individually.
 
+[Adventuring Gear](#adventuring-gear) · 
 [Burglar's Pack](#burglars-pack) · 
 [Diplomat's Pack](#diplomats-pack) · 
 [Dungeoneer's Pack](#dungeoneers-pack) · 

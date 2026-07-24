@@ -1,1 +1,1 @@
-| [Potion of Poison](/item/gear/poison/potion-of-poison.md) | Poison | 200 gold |
+| [Potion of Poison](/item/gear/poison/potion-of-poison.md) | Poison (Ingested) | 200 gold |

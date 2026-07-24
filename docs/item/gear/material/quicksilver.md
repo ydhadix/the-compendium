@@ -1,5 +1,5 @@
 ### Quicksilver
-Material, Consumable, 500 gold
+Material (Metal), Consumable, 500 gold
 { .subtitle }
 
 Quicksilver is impractical for making items other than Armor and Weapons.

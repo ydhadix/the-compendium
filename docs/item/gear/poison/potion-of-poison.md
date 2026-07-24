@@ -1,5 +1,5 @@
 ### Potion of Poison
-Poison, Consumable, 200 gold
+Poison (Ingested), Consumable, 200 gold
 { .subtitle }
 
 This poison looks, smells, and tastes like a beneficial Potion, though _Identify_ reveals its true nature.
