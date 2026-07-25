@@ -1,12 +1,20 @@
 # Pilot
-The Pilot steers the ship, jockeying for position and driving it through daring maneuvers to overtake the enemy.
+The **Pilot** steers the ship, jockeying for position and driving it through daring maneuvers to overtake the enemy.
 { .subtitle }
 
-Pilots have three Pilot Actions available, plus Pilot Maneuvers that enhance those Actions by expending Maneuver Dice. A Pilot begins each combat with **2 × Proficiency Bonus** **d6** Maneuver Dice.
+Pilots have three **Pilot Actions** available, plus Pilot Maneuvers that enhance those Actions by expending **Maneuver Dice**. A Pilot begins each combat with **2 × Proficiency Bonus** **d6** Maneuver Dice.
+
+[Pilot](#pilot) · 
+[Pilot Actions](#pilot-actions) · 
+[Pilot Maneuvers](#pilot-maneuvers) · 
+[Level 1 Maneuvers](#level-1-maneuvers) · 
+[Level 5 Maneuvers](#level-5-maneuvers) · 
+[Level 9 Maneuvers](#level-9-maneuvers)
+{ .keyword-jump }
 
 ## Pilot Actions
 #### Piloting Checks
-Some Pilot Actions require a Piloting Check, usually contested by an Enemy Ship's Pilot. A Piloting check uses your Precision proficiency with your choice of Strength or Dexterity.
+Some Pilot Actions require a **Piloting Check**, usually contested by an Enemy Ship's Pilot. A Piloting check uses your Precision proficiency with your choice of Strength or Dexterity.
 
 #### Size Class
 Every Ship has a Size Class that reduces the total of your Piloting Checks and adds damage to your Ram Action.
@@ -36,7 +44,7 @@ You make a Piloting check against an Enemy Ship within Close range.
 | Failure | Until your next Turn, Attacks against your Ship gain Advantage. |
 
 ## Pilot Maneuvers
-A Pilot learns Maneuvers based on their Class Levels.  You can use a Maneuver only when its condition is met, provided you expend one of your Maneuver Dice to do so.
+A Pilot learns **Maneuvers** based on their Class Levels.  You can use a Maneuver only when its condition is met, provided you expend one of your Maneuver Dice to do so.
 
 Whenever a Pilot Maneuver refers to a Ship's AC, or to Attacks made against a Ship, this means the AC of the hull as well as all the Ship's Weapons.
 

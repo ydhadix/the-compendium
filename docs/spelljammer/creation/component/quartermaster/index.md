@@ -2,6 +2,17 @@
 Quartermaster Components are the weapons and systems the crew operates, expanding the orders a Quartermaster can give in battle.
 { .subtitle }
 
+[Quartermaster Components](#quartermaster-components) · 
+[Ballista](#ballista) · 
+[Cannon](#cannon) · 
+[Carronade](#carronade) · 
+[Dragon Figurehead](#dragon-figurehead) · 
+[Harpoon](#harpoon) · 
+[Howitzer](#howitzer) · 
+[Living Hull](#living-hull) · 
+[Reinforced Hull](#reinforced-hull)
+{ .keyword-jump }
+
 <!--
 --8<-- "_generated/spelljammer/creation/component/quartermaster/_index_table.md"
 -->

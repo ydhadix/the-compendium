@@ -38,6 +38,7 @@
 | [Advantage](/rules/dice/index.md#advantage-disadvantage) | Dice Roll |
 | [Adventure](/rules/adventure/index.md) | Adventuring |
 | [Adventuring Gear](/item/gear/index.md) | Item Index |
+| [Air Envelope](/spelljammer/index.md#air-envelopes) | Spelljammer Atmosphere |
 | [Air Quality](/rules/adventure/hazard.md#air-quality) | Hazard |
 | [Alignment](/bestiary/index.md#alignment) | Alignment |
 | [Ally](/rules/adventure/npc.md#disposition) | Disposition |
@@ -112,11 +113,11 @@
 | [Common](/item/magic/infusion/common/index.md) | Infusion Rarity |
 | [Common Sign Language](/bestiary/index.md#standard-languages) | Standard Language |
 | [Companion](/rules/adventure/npc.md#companions) | NPC |
-| [Component](/spelljammer/creation/component/index.md) | Spelljammer |
+| [Component](/spelljammer/creation/component/index.md) | Spelljammer Ship Part |
 | [Component](/spell/index.md#components) | Spell Component |
 | [Component Pouch](/item/gear/spell-focus/component-pouch.md) | Spellcasting Focus |
 | [Concentration](/spell/index.md#concentration) | Concentration |
-| [Concentration](/rules/dice/save.md#concentration-saves) | Saving Throw |
+| [Concentration Save](/rules/dice/save.md#concentration-saves) | Saving Throw |
 | [Condition](/rules/adventure/condition.md) | Condition |
 | [Cone](/rules/position/target.md#areas) | Area |
 | [Conjuration](/spell/index.md#schools-of-magic) | School of Magic |
@@ -154,11 +155,12 @@
 | [Dazed](/rules/adventure/condition.md#dazed) | Condition |
 | [Deadly Air](/rules/adventure/hazard.md#air-quality) | Air Quality |
 | [Deafened](/rules/adventure/condition.md#deafened) | Condition |
-| [Death](/rules/dice/save.md#death-saves) | Saving Throw |
+| [Death Save](/rules/dice/save.md#death-saves) | Saving Throw |
 | [Deception](/rules/dice/check.md#skills) | Skill |
 | [Deep Speech](/bestiary/index.md#exotic-languages) | Exotic Language |
 | [Dehydration](/rules/adventure/hazard.md#dehydration) | Hazard |
 | [Delta Weapon](/item/weapon/index.md#delta-weapons) | Weapon |
+| [Depressurization](/spelljammer/index.md#depressurization) | Spelljammer Hazard |
 | [Devil's Sight](/rules/position/visibility.md#devils-sight) | Sense |
 | [Dexterity](/rules/dice/ability.md) | Ability |
 | [Dice Roll](/rules/dice/index.md) | Dice Roll |
@@ -194,6 +196,7 @@
 | [Enchantment](/spell/index.md#schools-of-magic) | School of Magic |
 | [Encounter](/rules/adventure/encounter.md) | Encounter |
 | [Enemy](/rules/adventure/npc.md#disposition) | Disposition |
+| [Engagement Range](/spelljammer/encounter.md#encounter-scale) | Spelljammer Encounter |
 | [Epic Boon](/character/feat/index.md) | Feat |
 | [Esoteric](/rules/dice/damage.md#esoteric-damage) | Damage Type |
 | [Evasion](/rules/dice/save.md#evasion) | Saving Throw |
@@ -250,6 +253,8 @@
 | [Good](/bestiary/index.md#alignment) | Alignment |
 | [Grapple](/item/weapon/index.md#grapple) | Unarmed Strike |
 | [Grappled](/rules/adventure/condition.md#grappled) | Condition |
+| [Gravity](/spelljammer/index.md#gravity) | Spelljammer |
+| [Gravity Plane](/spelljammer/index.md#gravity) | Spelljammer Gravity |
 | [Graze](/item/weapon/mastery/index.md#graze) | Weapon Mastery |
 
 ## H
@@ -264,6 +269,7 @@
 | [Heavily Obscured](/rules/position/visibility.md#obscurement) | Visibility |
 | [Heavy](/item/weapon/property/index.md#heavy) | Weapon Property |
 | [Heavy Armor](/item/armor.md#heavy-armor) | Armor Weight |
+| [Helm](/spelljammer/creation/component/spelljammer/index.md) | Spelljammer |
 | [Help Action](/rules/adventure/action.md#help) | Normal Action |
 | [Hidden](/rules/adventure/condition.md#hidden) | Condition |
 | [Hide Action](/rules/adventure/action.md#hide) | Normal Action |
@@ -321,7 +327,7 @@
 | [Legendary](/item/magic/infusion/legendary/index.md) | Infusion Rarity |
 | [Level](/character/class/index.md#leveling-up) | Class |
 | [Level](/spell/index.md#spell-level) | Spellcasting |
-| [Leviathan](/spelljammer/leviathan.md) | Spelljammer |
+| [Leviathan](/spelljammer/encounter.md#leviathans) | Spelljammer |
 | [Light](/item/weapon/property/index.md#light) | Weapon Property |
 | [Light Armor](/item/armor.md#light-armor) | Armor Weight |
 | [Lightly Obscured](/rules/position/visibility.md#obscurement) | Visibility |
@@ -341,7 +347,8 @@
 | [Magic Action](/rules/adventure/action.md#magic) | Normal Action |
 | [Magic Item](/item/magic/index.md) | Item Index |
 | [Magical Darkness](/rules/position/visibility.md#magical-darkness) | Visibility |
-| [Maneuver](/spelljammer/officer/pilot/index.md) | Spelljammer |
+| [Maneuver](/spelljammer/officer/pilot/index.md#pilot-maneuvers) | Spelljammer Pilot |
+| [Maneuver Dice](/spelljammer/officer/pilot/index.md#pilot-maneuvers) | Spelljammer Pilot |
 | [Marked](/rules/adventure/condition.md#marked) | Condition |
 | [Martial Weapon](/item/weapon/index.md#martial-weapons) | Weapon |
 | [Masterwork](/item/index.md#masterwork) | Item Index |
@@ -353,6 +360,7 @@
 | [Melee Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
 | [Melee Weapon](/item/weapon/index.md#melee-and-ranged-weapons) | Weapon |
 | [Metamagic](/character/class/sorcerer/metamagic/index.md) | Sorcerer Feature |
+| [Microgravity](/spelljammer/index.md#gravity) | Spelljammer Gravity |
 | [Monk](/character/class/monk/index.md) | Class |
 | [Monstrosity](/bestiary/type/monstrosity.md) | Creature Type |
 | [Mount](/rules/adventure/npc.md#mounts) | NPC |
@@ -404,6 +412,8 @@
 | [Pierce](/item/weapon/mastery/index.md#pierce) | Weapon Mastery |
 | [Piercing](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Pilot](/spelljammer/officer/pilot/index.md) | Spelljammer Officer |
+| [Pilot Action](/spelljammer/officer/pilot/index.md#pilot-actions) | Spelljammer Pilot |
+| [Piloting Check](/spelljammer/officer/pilot/index.md#piloting-checks) | Spelljammer Pilot |
 | [Plant](/bestiary/type/plant.md) | Creature Type |
 | [Platinum](/item/index.md#denominations) | Currency |
 | [Poison](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
@@ -421,7 +431,7 @@
 | [Prone](/rules/adventure/condition.md#prone) | Condition |
 | [Propel](/rules/position/movement.md#propelled) | Movement |
 | [Protection](/rules/dice/save.md#protection) | Saving Throw |
-| [Protocol](/spelljammer/officer/spelljammer/index.md) | Spelljammer |
+| [Protocol](/spelljammer/officer/spelljammer/index.md#protocols) | Spelljammer |
 | [Psychic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Push](/item/weapon/mastery/index.md#push) | Weapon Mastery |
 
@@ -435,6 +445,7 @@
 |---|---|
 | [Race](/character/race/index.md) | Hero Handbook |
 | [Radiant](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
+| [Ram Damage](/spelljammer/creation/index.md#ram-damage) | Spelljammer Ship |
 | [Range](/rules/position/target.md#range) | Target |
 | [Ranged Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
 | [Ranged Weapon](/item/weapon/index.md#melee-and-ranged-weapons) | Weapon |
@@ -463,10 +474,12 @@
 | [Saving Throw](/rules/dice/save.md) | Dice Roll |
 | [School of Magic](/spell/index.md#schools-of-magic) | School of Magic |
 | [Scroll](/item/index.md#item-types) | Adventuring Gear |
+| [Sealed](/spelljammer/index.md#sealing-a-ship) | Spelljammer Atmosphere |
 | [Search Action](/rules/adventure/action.md#search) | Normal Action |
 | [Secondary Class](/character/class/index.md#secondary-class) | Class |
 | [Sense](/rules/position/visibility.md#senses) | Visibility |
 | [Shield](/item/armor.md#shields) | Armor |
+| [Ship Action](/spelljammer/encounter.md#ship-actions) | Spelljammer |
 | [Short Rest](/rules/adventure/rest.md#short-rest) | Rest |
 | [Shove](/item/weapon/index.md#shove) | Unarmed Strike |
 | [Sickened](/rules/adventure/condition.md#sickened) | Condition |
@@ -474,8 +487,10 @@
 | [Silver](/item/index.md#denominations) | Currency |
 | [Simple Weapon](/item/weapon/index.md#simple-weapons) | Weapon |
 | [Size](/bestiary/index.md#size-category) | Creature Trait |
+| [Size Class](/spelljammer/creation/index.md#ship-size) | Spelljammer Ship |
+| [Size Penalty](/spelljammer/creation/index.md#size-penalty) | Spelljammer Ship |
 | [Skill](/rules/dice/check.md#skills) | Skill |
-| [Skyliner](/spelljammer/creation/base/skyliner.md) | Spelljammer Ship |
+| [Skyliner](/spelljammer/creation/base/index.md#skyliner) | Spelljammer Ship |
 | [Slashing](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Sleep Deprivation](/rules/adventure/hazard.md#sleep-deprivation) | Rest |
 | [Sling](/item/weapon/index.md#simple-weapons) | Simple Weapon |
@@ -493,6 +508,7 @@
 | [Spellcasting Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus |
 | [Spelljammer](/spelljammer/creation/base/index.md) | Spelljammer Ship |
 | [Spelljammer](/spelljammer/officer/spelljammer/index.md) | Spelljammer Officer |
+| [Spelljamming](/spelljammer/index.md) | Spelljammer |
 | [Sphere](/rules/position/target.md#areas) | Area |
 | [Spider Climb Speed](/rules/position/movement.md#spider-climbing) | Speed |
 | [Square](/rules/position/target.md#areas) | Area |

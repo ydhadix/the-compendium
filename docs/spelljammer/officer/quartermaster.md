@@ -1,8 +1,16 @@
 # Quartermaster
-The Quartermaster directs the crew, calling out orders that ready the ship's hull, weapons, and systems for the fight.
+The **Quartermaster** directs the crew, calling out orders that ready the ship's hull, weapons, and systems for the fight.
 { .subtitle }
 
 The Quartermaster can use their Ship Action to issue a number of orders up to their Proficiency Bonus. Each order targets a specific part of the Ship, and you can issue the same order more than once.
+
+[Quartermaster](#quartermaster) · 
+[Hull Orders](#hull-orders) · 
+[Pilot Orders](#pilot-orders) · 
+[Spelljammer Orders](#spelljammer-orders) · 
+[Weapon Orders](#weapon-orders) · 
+[Component Orders](#component-orders)
+{ .keyword-jump }
 
 ### Hull Orders
 ##### Brace for Impact!
@@ -21,7 +29,7 @@ Until your next Turn, the Spelljammer can reroll one die rolled as part of a Jam
 
 ### Weapon Orders
 ##### Open Fire!
-You attack with the a Weapon, targeting an Enemy Ship's hull or one of its Components.
+You attack with a Weapon, targeting an Enemy Ship's hull or one of its Components.
 
 Whenever you attack with a Ship Weapon, you can use any Ability, provided you can explain how it helps you or your crew hit. Add the chosen Ability and the Weapon's fixed Attack bonus to the Attack Roll. You add nothing to the Damage Roll.
 

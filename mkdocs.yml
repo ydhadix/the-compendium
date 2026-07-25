@@ -45,6 +45,14 @@ exclude_docs: | # files/folders in docs/ that we don't want compiled
   !item/weapon/property/index.md
   item/weapon/mastery/*.md
   !item/weapon/mastery/index.md
+  spelljammer/creation/base/*.md
+  !spelljammer/creation/base/index.md
+  spelljammer/creation/component/pilot/*.md
+  !spelljammer/creation/component/pilot/index.md
+  spelljammer/creation/component/quartermaster/*.md
+  !spelljammer/creation/component/quartermaster/index.md
+  spelljammer/creation/component/spelljammer/*.md
+  !spelljammer/creation/component/spelljammer/index.md
 
 not_in_nav: | # collection dirs whose entry pages aren't in nav
   character/class/*/*/*
@@ -260,7 +268,6 @@ nav:
         - Ship Overview:            spelljammer/creation/index.md
         - Ship Bases:               spelljammer/creation/base/index.md
         - Ship Components:          spelljammer/creation/component/index.md
-      - Leviathans:                 spelljammer/leviathan.md
 
   - The Archive:
     - Overview:                     archive/index.md

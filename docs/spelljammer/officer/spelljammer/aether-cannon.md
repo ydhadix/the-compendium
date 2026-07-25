@@ -11,7 +11,7 @@
 | Duration | — |
 
 ##### Protocol Effect
-You make a Ranged Spell Attack against thecs target.
+You make a Ranged Spell Attack against the target.
 
 | | |
 |---|---|

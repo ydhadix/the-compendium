@@ -1,5 +1,5 @@
 # Bastions
-A Bastion is a character's own stronghold, a home base they build up and put to work between adventures.
+A **Bastion** is a character's own stronghold, a home base they build up and put to work between adventures.
 { .subtitle }
 
 ## Gaining a Bastion
@@ -10,7 +10,7 @@ You, the rest of your party, and the DM decide how your Bastions come into your 
 ## Bastion Facilities
 Every Bastion has Facilities: Basic Facilities that serve everyday needs, and Special Facilities for specific tasks.
 
-#### Facility Space
+#### Facility Size
 A Facility's Size is its area in **5**-foot squares. That area can spread across multiple levels, as long as they are all connected.
 
 | Size | Minimum | Maximum |
