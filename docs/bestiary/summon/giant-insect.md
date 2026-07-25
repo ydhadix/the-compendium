@@ -4,14 +4,14 @@ source: /spell/level/4/giant-insect.md
 ---
 
 # Giant Insect
-A Giant Insect is a Companion conjured by the [Giant Insect](/spell/level/4/giant-insect.md) spell.
+A **Giant Insect** is a Companion conjured by the [Giant Insect](/spell/level/4/giant-insect.md) spell.
 { .subtitle }
 
-| Variants |
-|---|
-| [Centipede](#giant-insect-centipede) |
-| [Spider](#giant-insect-spider) |
-| [Wasp](#giant-insect-wasp) |
+[Giant Insect](#giant-insect) · 
+[Centipede](#giant-insect-centipede) · 
+[Spider](#giant-insect-spider) · 
+[Wasp](#giant-insect-wasp)
+{ .keyword-jump }
 
 ### Giant Insect: Centipede
 Large Beast, Unaligned

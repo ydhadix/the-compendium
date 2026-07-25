@@ -1,5 +1,5 @@
 # Monstrosity Bestiary
-Monstrosities are frightening creatures born of magic or mythology, uncanny yet part of the natural world. Few can be reasoned with, and fewer still tamed.
+**Monstrosities** are frightening creatures born of magic or mythology, uncanny yet nonetheless part of the natural world. Few can be reasoned with, and fewer still tamed.
 { .subtitle }
 
 <!-- | Creature | Level | Type | -->

@@ -4,14 +4,14 @@ source: /spell/level/4/summon-aberration.md
 ---
 
 # Aberrant Spirit
-An Aberrant Spirit is a Companion conjured by the [Summon Aberration](/spell/level/4/summon-aberration.md) spell.
+An **Aberrant Spirit** is a Companion conjured by the [Summon Aberration](/spell/level/4/summon-aberration.md) spell.
 { .subtitle }
 
-| Variants |
-|---|
-| [Beholderkin](#aberrant-spirit-beholderkin) |
-| [Mind Flayer](#aberrant-spirit-mind-flayer) |
-| [Slaad](#aberrant-spirit-slaad) |
+[Aberrant Spirit](#aberrant-spirit) · 
+[Beholderkin](#aberrant-spirit-beholderkin) · 
+[Mind Flayer](#aberrant-spirit-mind-flayer) · 
+[Slaad](#aberrant-spirit-slaad)
+{ .keyword-jump }
 
 ### Aberrant Spirit: Beholderkin
 Medium Aberration, Neutral

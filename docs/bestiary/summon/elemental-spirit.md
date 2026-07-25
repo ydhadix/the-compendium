@@ -4,15 +4,15 @@ source: /spell/level/4/summon-elemental.md
 ---
 
 # Elemental Spirit
-An Elemental Spirit is a Companion conjured by the [Summon Elemental](/spell/level/4/summon-elemental.md) spell.
+An **Elemental Spirit** is a Companion conjured by the [Summon Elemental](/spell/level/4/summon-elemental.md) spell.
 { .subtitle }
 
-| Variants |
-|---|
-| [Air](#elemental-spirit-air) |
-| [Earth](#elemental-spirit-earth) |
-| [Fire](#elemental-spirit-fire) |
-| [Water](#elemental-spirit-water) |
+[Elemental Spirit](#elemental-spirit) · 
+[Air](#elemental-spirit-air) · 
+[Earth](#elemental-spirit-earth) · 
+[Fire](#elemental-spirit-fire) · 
+[Water](#elemental-spirit-water)
+{ .keyword-jump }
 
 ### Elemental Spirit: Air
 Medium Elemental, Neutral

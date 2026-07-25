@@ -7,16 +7,13 @@ site_dir: site
 theme:
   name: material
   custom_dir: overrides
-  font: false              # no Google Fonts; use the Helvetica system stack (see extra.css)
-  logo:    images/icon_d20_dark.png   # brand icon (light d20 for the dark header)
-  favicon: favicon.ico                # multi-size .ico at the site root
+  font: false  # no Google Fonts; use the Helvetica system stack (see extra.css)
+  logo:    images/icon_d20_dark.png
+  favicon: favicon.ico
   palette:
-    scheme: default        # emit data-md-color-scheme="default" on <body> so the
-                           # --clr-* palette in extra.css resolves (single entry =
-                           # no toggle UI). Without this the body has no scheme attr
-                           # and every scheme-scoped variable is undefined.
+    scheme: default
   features:
-    - toc.integrate        # page sections nest under the active page in the LEFT sidebar
+    - toc.integrate  # page sections nest under the active page in the LEFT sidebar
     # - navigation.tabs
     # - navigation.tabs.sticky
     # - navigation.sections
@@ -25,7 +22,7 @@ theme:
     # - content.tabs.link
 
 extra:
-  megamenu_max_depth: 4   # deepest mega-menu flyout level (top row = 1); 0 = unlimited
+  megamenu_max_depth: 4  # deepest nav flyout level (top row = 1); 0 = unlimited
 
 extra_css:
   - stylesheets/extra.css
@@ -38,17 +35,18 @@ extra_javascript:
   - javascripts/localnav.js
   - javascripts/keywordjump.js
 
-exclude_docs: |            # files/folders in docs/ that we don't want compiled
+exclude_docs: | # files/folders in docs/ that we don't want compiled
   _changelogs
   _generated
   rules/adventure/_condition/*.md
+  rules/dice/_defense/*.md
   item/magic/infusion/_variant
   item/weapon/property/*.md
   !item/weapon/property/index.md
   item/weapon/mastery/*.md
   !item/weapon/mastery/index.md
 
-not_in_nav: |            # collection dirs (one below a hub) whose entry pages aren't in nav
+not_in_nav: | # collection dirs whose entry pages aren't in nav
   character/class/*/*/*
   character/race/*
   character/feat/*/*
@@ -64,13 +62,11 @@ not_in_nav: |            # collection dirs (one below a hub) whose entry pages a
 
 validation:
   links:
-    absolute_links: relative_to_docs   # resolve /spell/... links in _list snippets per host page
-    anchors: warn                      # broken #anchors only log at INFO by default; the keyword
-                                       # index is ~400 hand-authored deep links, so a renamed
-                                       # heading has to surface as a warning, not a log line
+    absolute_links: relative_to_docs
+    anchors: warn
 
 hooks:
-  - overrides/navtools.py     # nav rules for the mega-menu + left ToC (shared)
+  - overrides/navtools.py  # nav rules for the mega-menu + left ToC
 
 markdown_extensions:
   - pymdownx.snippets:
@@ -78,12 +74,11 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - admonition
-  - attr_list               # image sizing/alignment: ![](img){ width="200" align="right" }
-  - md_in_html              # markdown inside HTML, e.g. <figure> + <figcaption> captions
+  - attr_list   # image sizing/alignment: ![](img){ width="200" align="right" }
+  - md_in_html  # markdown inside HTML, e.g. <figure> + <figcaption> captions
   - toc:
       toc_depth: 3
-      permalink: "⚓︎"          # click the # after a heading to copy its link
-
+      permalink: "⚓︎"
 nav:
   - The Compendium:
     - Overview:                     index.md
@@ -97,8 +92,11 @@ nav:
         - Encounters:               rules/adventure/encounter.md
         - Resting:                  rules/adventure/rest.md
         - Hazards:                  rules/adventure/hazard.md
+        - Non-Player Characters:    rules/adventure/npc.md
       - Dice Rolls:
         - Dice Overview:            rules/dice/index.md
+        - Abilities:                rules/dice/ability.md
+        - Proficiency:              rules/dice/proficiency.md
         - Ability Checks:           rules/dice/check.md
         - Attack Rolls:             rules/dice/attack.md
         - Saving Throws:            rules/dice/save.md
@@ -227,17 +225,9 @@ nav:
 
     - Creature Codex:
       - Overview:                   bestiary/index.md
-      - NPCs:
-        - NPC Overview:             bestiary/npc/index.md
-        - Disposition:              bestiary/npc/disposition.md
-        - Companions:               bestiary/npc/companion.md
-        - Familiars:                bestiary/npc/familiar.md
-        - Mounts:                   bestiary/npc/mount.md
-      - "---": "sep:"
       - Bestiary of Summons:        bestiary/summon/index.md
       - Bestiary by Level:
         - Creature Level Overview:  bestiary/level/index.md
-        - Level 0:                  bestiary/level/0/index.md
         - Level 1:                  bestiary/level/1/index.md
       - Bestiary by Type:
         - Creature Type Overview:   bestiary/type/index.md

@@ -4,7 +4,7 @@ source: /spell/level/3/tiny-servant.md
 ---
 
 # Animated Servant
-An Animated Servant is a Companion brought to life by the [Tiny Servant](/spell/level/3/tiny-servant.md) spell.
+An **Animated Servant** is a Companion brought to life by the [Tiny Servant](/spell/level/3/tiny-servant.md) spell.
 { .subtitle }
 
 ### Animated Servant

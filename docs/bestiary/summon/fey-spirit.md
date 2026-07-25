@@ -4,14 +4,14 @@ source: /spell/level/3/summon-fey.md
 ---
 
 # Fey Spirit
-A Fey Spirit is a Companion conjured by the [Summon Fey](/spell/level/3/summon-fey.md) spell.
+A **Fey Spirit** is a Companion conjured by the [Summon Fey](/spell/level/3/summon-fey.md) spell.
 { .subtitle }
 
-| Variants |
-|---|
-| [Fuming](#fey-spirit-fuming) |
-| [Mirthful](#fey-spirit-mirthful) |
-| [Tricksy](#fey-spirit-tricksy) |
+[Fey Spirit](#fey-spirit) · 
+[Fuming](#fey-spirit-fuming) · 
+[Mirthful](#fey-spirit-mirthful) · 
+[Tricksy](#fey-spirit-tricksy)
+{ .keyword-jump }
 
 ### Fey Spirit: Fuming
 Small Fey, Neutral

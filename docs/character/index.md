@@ -70,7 +70,25 @@ Add your Race’s starting Hit Points, the maximum of your Primary Class’s Hit
 Calculate your Armor Class based on the Armor you wear, if any.
 
 #### Intelligence Proficiencies
-If your Intelligence is higher than 0, you learn additional Proficiencies and Languages.
+Creatures learn additional Proficiencies and Languages based on their Intelligence. If your Intelligence decreases, you don't lose any learned Proficiencies, but you don't learn more until your Intelligence exceeds the highest Intelligence you've gained a Proficiency from.
+
+If you would gain Proficiency in a Skill, you can instead gain Proficiency with a Trade or learn a Language.
+
+If you would gain Expertise, you can instead gain Proficiency in a Skill, Proficiency with a Trade, or learn a Language.
+
+| Intelligence | You Learn |
+|---|---|
+| 0- | — |
+| 1 | Proficiency with a Trade, or a Language |
+| 2 | Proficiency in a Skill |
+| 3 | Proficiency with a Trade, or a Language |
+| 4 | Expertise in a Skill you're Proficient in |
+| 5 | Proficiency with a Trade, or a Language |
+| 6 | Proficiency in a Skill |
+| 7 | Expertise in a Skill you're Proficient in |
+| 8 | Proficiency in a Skill |
+| 9 | Proficiency in a Skill |
+| 10+ | Expertise in a Skill you're Proficient in |
 
 #### Proficiency Bonuses
 Calculate your bonuses to Skills, Saving Throws, and Attacks.  Find the relevant Ability for that bonus and add your Proficiency Bonus based on your level of Proficiency.

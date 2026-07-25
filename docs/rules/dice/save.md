@@ -2,7 +2,7 @@
 An **Saving Throw** determines the outcome when you attempt to resist a spell, trap, or other harmful effect.
 { .subtitle }
 
-### Making a Saving Throw
+## Making a Saving Throw
 #### 1. Determine modifiers.
 Abilities, Proficiency, and other effects can add bonuses, penalties, Advantage, or Disadvantage to the Saving Throw.
 
@@ -12,7 +12,7 @@ Roll the d20 and add your modifiers. If the total equals or exceeds the Difficul
 #### 3. Resolve the Saving Throw's effects.
 The effect that required the Saving Throw determines what effects succeeding or failing has.
 
-### Types of Saves
+## Types of Saves
 Most Saves are Fortitude, Reflex, or Will Saves.
 
 | Save | Ability |
@@ -21,8 +21,17 @@ Most Saves are Fortitude, Reflex, or Will Saves.
 | Reflex | Dexterity |
 | Will | Wisdom |
 
-#### Concentration Saves
+### Concentration Saves
 A Concentration Save determines whether you keep Concentration when you take damage.  Concentration Saves use your Fortitude Save Proficiency.
 
-#### Death Saves
+### Death Saves
 A Death Save determines your fate while you are Downed.
+
+## Defenses
+Several defenses change how you make Saving Throws.
+
+--8<-- "rules/dice/_defense/protection.md"
+
+--8<-- "rules/dice/_defense/evasion.md"
+
+--8<-- "rules/dice/_defense/immunity.md"

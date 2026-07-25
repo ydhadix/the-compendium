@@ -1,5 +1,5 @@
 # Fiend Bestiary
-Fiends are natives of the Lower Planes, born of corruption and ruin. Devils bargain for souls while demons crave only destruction, and both count mortals as prey.
+**Fiends** are natives of the Lower Planes, born of corruption and ruin. Devils bargain for souls while demons crave only destruction, and both treat mortals as playthings in their designs.
 { .subtitle }
 
 <!-- | Creature | Level | Type | -->

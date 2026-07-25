@@ -18,9 +18,6 @@
 #### Drawing and Stowing
 You can draw or stow one weapon before or after each attack. You can draw or stow additional weapons with the Utilize Action.
 
-#### Proficiency
-Proficiency with a weapon is tied to it's specific type, or a broader category it belongs to: Simple or Martial, and Melee or Ranged.
-
 #### Melee and Ranged Weapons
 Every weapon is either **Melee** or **Ranged**. Melee weapons add your Strength to Attack Rolls and Damage Rolls, while Ranged weapons add your Dexterity to Attack Rolls and Damage Rolls.
 

@@ -1,10 +1,13 @@
 # Targeting, Range, and Areas
 
-### Targets
+## Targets
 The **Target** of an attack or effect is the creature and object being affected by it.
 
 #### Line of Effect
 You must have a clear path to a target, so it can't be behind Full Cover.
+
+#### Line of Sight
+If you target something you can't see, any Attack Rolls made as part of the effect gain Disadvantage, and the target's Saving Throws against the effect gain Advantage.  Targets from an Area effect don't gain this benefit.
 
 #### Targeting Yourself
 A "Self" target can only be you.  Any other target can also be you, unless the effect says otherwise.
@@ -23,7 +26,7 @@ An effect's **Range** is how far from its source it can reach, given as a distan
 Once placed, an effect can extend beyond its Range, and movable effects aren't restricted by their source's Range unless their description says otherwise.
 
 ### Areas
-An **Area** is the shape of space an effect fills.  Every Area has an Origin point and takes one of the following shapes.
+An **Area** is a space an effect fills.  Every Area has an Origin point and takes one of the following shapes.
 
 | Area | Origin | Measurement |
 |---|---|---|
@@ -39,7 +42,7 @@ An **Area** is the shape of space an effect fills.  Every Area has an Origin poi
 #### Origin
 An area's **Origin** is placed within its effect's Range.  You choose where the Origin sits within that range, and once placed an Area can extend beyond it.
 
-The Area extends from the Origin in straight lines, typically facing away from its source; Spheres instead face outwards from the Origin, and Cylinders face outwards from the top or bottom circle of the Area.  If a straight line from the Origin to a location is blocked by [Full Cover](cover.md), that location is excluded from the Area.
+The Area extends from the Origin in straight lines, typically facing away from its source; Spheres instead face outwards from the Origin, and Cylinders face outwards from the top or bottom circle of the Area.  If a straight line from the Origin to a location is blocked by Full Cover, that location is excluded from the Area.
 
 #### Auras
 An Aura is always fixed to its source's space, instead of a point. Auras are measured from the edges of that space, move with its source, and can include or exclude the source from its effect.

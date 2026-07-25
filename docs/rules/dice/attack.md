@@ -2,7 +2,7 @@
 An **Attack Roll** determines the outcome when you attempt to hit a creature with a weapon or spell.
 { .subtitle }
 
-### Making an Attack
+## Making an Attack
 #### 1. Declare the attack.
 Choose a target within your attack's Range.
 
@@ -15,7 +15,10 @@ Roll the d20 and add your modifiers. If the total equals or exceeds the target's
 #### 4. Resolve the attack's effects.
 After an Attack hits, you usually make a Damage Roll. The weapon, Spell, or feature you used describes the Damage Dice and the Damage Type.
 
-### Types of Attacks
+### Armor Class
+**Armor Class** measures how difficult it is to land an attack on a creature.  Most Humanoids wear Armor to improve their defenses, while other creatures can have Natural Armor.
+
+## Types of Attacks
 Every attack is a **Weapon** or **Spell** attack, and either **Melee** or **Ranged**. These qualities set the attack's Range and the Ability you add to its Attack Roll and Damage Roll.
 
 | Attack | Range | Attack Ability | Damage Ability |
@@ -25,16 +28,16 @@ Every attack is a **Weapon** or **Spell** attack, and either **Melee** or **Rang
 | Melee Spell | your Reach | Spellcasting Ability | — |
 | Ranged Spell | the effect's Range | Spellcasting Ability | — |
 
-#### Ranged Attacks
+### Ranged Attacks
 A Ranged Attack lists its range in feet.  The first number is the **Normal Range**; a second number, if any, is the **Long Range**.  You can't hit a target outside of the largest Range listed.
 
-###### Range Penalty
-Attacks against a target beyond Normal Range, but within Long Range is made with Disadvantage.
+#### Range Penalty
+Ranged Attacks against a target beyond Normal Range, but within Long Range, gain Disadvantage.
 
-###### Melee Penalty
+#### Melee Penalty
 While you are within an Enemy's Reach, your Ranged Attacks gain Disadvantage.
 
-#### Nonlethal Attacks
+### Nonlethal Attacks
 You can declare any Melee attack as **Nonlethal** when you make it.  If a Nonlethal attack reduces the target to **0** Hit Points, the target becomes Stable instead of Downed.
 
 ### Critical Hits

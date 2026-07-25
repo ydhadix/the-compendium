@@ -21,7 +21,10 @@ There are three levels of Air Quality.
 | Deadly Air | Unbreathable; you begin suffocating. |
 
 ### Dehydration
-A Medium Humanoid needs **1** gallon of water per day.  Each Day you go without water, you are exhausted.  Each Day you drink half as much water, you make a Fortitude Save _(DC **15**)_; on a failure, you are exhausted.
+A Medium Humanoid needs **1** gallon of water per day.  Each Day you go without water, you are exhausted.  Until you drink a full day's water, you can't remove Exhaustion and you can't benefit from a Rest.
+
+#### Rationing Water
+Each Day you drink half as much water, you make a Fortitude Save _(DC **15**)_; on a failure, you are exhausted.  Either way, you still suffer Dehydration's other effects.
 
 ### Extreme Cold
 After each hour you're exposed to temperatures **0** degrees Fahrenheit or lower, you make a Fortitude Save _(DC **10**)_; on a failure, you are exhausted.
@@ -43,6 +46,7 @@ Resting isn't mandatory, but going without sleep has consequences.  Each day you
 ### Starvation
 A Medium Humanoid needs **1** pound of food per day.  You can go without food for **3 + CON** days (minimum 1 day).  Each Day beyond that, you are exhausted.  Until you eat a full day's food, you can't remove Exhaustion and you can't benefit from a Rest.  A normal day of eating reduces the count of days without food by **1**.
 
+#### Rationing Food
 Eating at least half as much food is enough to stave off Starvation temporarily.  Each Day you do, you aren't exhausted, but you still suffer Starvation's other effects and it doesn't reset the number of days without food.
 
 ### Suffocation

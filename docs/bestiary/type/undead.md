@@ -1,5 +1,5 @@
 # Undead Bestiary
-Undead are once-living creatures returned by necromancy or a will too restless for the grave. They shamble, hunger, and hate the living they can no longer join.
+**Undead** are once-living creatures returned by necromancy or a will too restless for the grave. They shamble, hunger, and crave the living they can no longer join.
 { .subtitle }
 
 <!-- | Creature | Level | Type | -->

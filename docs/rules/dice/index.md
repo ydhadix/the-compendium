@@ -2,6 +2,8 @@
 
 | |
 |---|
+| [Abilities](ability.md) |
+| [Proficiency](proficiency.md) |
 | [Ability Checks](check.md) |
 | [Attack Rolls](attack.md) |
 | [Saving Throws](save.md) |

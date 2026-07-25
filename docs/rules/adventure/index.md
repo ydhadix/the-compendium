@@ -7,6 +7,7 @@
 | [Encounters](encounter.md) |
 | [Resting](rest.md) |
 | [Hazards](hazard.md) |
+| [Non-Player Characters](npc.md) |
 
 ### The Day
 A **Day** is the fundamental recurring time cycle of a setting. Its length and starting moment are set by the DM based on context; typically a **24**-hour cycle beginning at a fixed point such as midnight or dawn, or an equivalent cycle in a setting where time works differently, such as the Astral Plane.
