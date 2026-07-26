@@ -5,197 +5,197 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Alchemy Jug](/item/magic/infusion/uncommon/alchemy-jug.md) | Wondrous Item | Uncommon | No |
-| [Amulet of Nondetection](/item/magic/infusion/uncommon/amulet-of-nondetection.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Armor of Magical Strength](/item/magic/infusion/uncommon/armor-of-magical-strength.md) | Armor (Any) | Uncommon | Yes (Spellcaster) |
-| [Armor of Weightlessness](/item/magic/infusion/uncommon/armor-of-weightlessness.md) | Armor (Any) | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/alchemy-jug_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/amulet-of-nondetection_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/armor-of-magical-strength_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/armor-of-weightlessness_row.md"
 
 ## B
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Bag of Holding](/item/magic/infusion/uncommon/bag-of-holding.md) | Container (Backpack) | Uncommon | No |
-| [Bag of Tricks](/item/magic/infusion/uncommon/bag-of-tricks.md) | Container (Pouch) | Uncommon | No |
-| [Boots of Elvenkind](/item/magic/infusion/uncommon/boots-of-elvenkind.md) | Clothing (Boots) | Uncommon | No |
-| [Boots of Spider Climb](/item/magic/infusion/uncommon/boots-of-spider-climb.md) | Clothing (Boots) | Uncommon | Yes |
-| [Boots of Striding and Springing](/item/magic/infusion/uncommon/boots-of-striding-and-springing.md) | Clothing (Boots) | Uncommon | Yes |
-| [Boots of the Savannah](/item/magic/infusion/uncommon/boots-of-the-savannah.md) | Clothing (Boots) | Uncommon | Yes |
-| [Boots of the Winding Path](/item/magic/infusion/uncommon/boots-of-the-winding-path.md) | Clothing (Boots) | Uncommon | Yes |
-| [Boots of the Winterlands](/item/magic/infusion/uncommon/boots-of-the-winterlands.md) | Clothing (Boots) | Uncommon | Yes |
-| [Bracers of Archery](/item/magic/infusion/uncommon/bracers-of-archery.md) | Clothing (Bracers) | Uncommon | Yes |
-| [Brooch of Shielding](/item/magic/infusion/uncommon/brooch-of-shielding.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Broom of Flying](/item/magic/infusion/uncommon/broom-of-flying.md) | Wondrous Item | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/bag-of-holding_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/bag-of-tricks_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/boots-of-elvenkind_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/boots-of-spider-climb_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/boots-of-striding-and-springing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/boots-of-the-savannah_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/boots-of-the-winding-path_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/boots-of-the-winterlands_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/bracers-of-archery_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/brooch-of-shielding_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/broom-of-flying_row.md"
 
 ## C
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Cap of Water Breathing](/item/magic/infusion/uncommon/cap-of-water-breathing.md) | Clothing (Hat) | Uncommon | No |
-| [Circlet of Blasting](/item/magic/infusion/uncommon/circlet-of-blasting.md) | Clothing (Jewelry) | Uncommon | No |
-| [Cloak of Elvenkind](/item/magic/infusion/uncommon/cloak-of-elvenkind.md) | Clothing (Cloak) | Uncommon | Yes |
-| [Cloak of Protection](/item/magic/infusion/uncommon/cloak-of-protection.md) | Clothing (Cloak) | Uncommon | Yes |
-| [Cloak of the Manta Ray](/item/magic/infusion/uncommon/cloak-of-the-manta-ray.md) | Clothing (Cloak) | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/cap-of-water-breathing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/circlet-of-blasting_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/cloak-of-elvenkind_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/cloak-of-protection_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/cloak-of-the-manta-ray_row.md"
 
 ## D
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Dagger of Venom](/item/magic/infusion/uncommon/dagger-of-venom.md) | Weapon (Sidearm) | Uncommon | No |
-| [Dancing Broom](/item/magic/infusion/uncommon/dancing-broom.md) | Wondrous Item | Uncommon | Yes |
-| [Decanter of Endless Water](/item/magic/infusion/uncommon/decanter-of-endless-water.md) | Container (Flask) | Uncommon | No |
-| [Deck of Illusions](/item/magic/infusion/uncommon/deck-of-illusions.md) | Wondrous Item | Uncommon | No |
-| [Driftglobe](/item/magic/infusion/uncommon/driftglobe.md) | Wondrous Item | Uncommon | No |
-| [Dust of Disappearance](/item/magic/infusion/uncommon/dust-of-disappearance.md) | Wondrous Item | Uncommon | No |
-| [Dust of Dryness](/item/magic/infusion/uncommon/dust-of-dryness.md) | Wondrous Item | Uncommon | No |
-| [Dust of Sneezing and Choking](/item/magic/infusion/uncommon/dust-of-sneezing-and-choking.md) | Wondrous Item | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/dagger-of-venom_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/dancing-broom_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/decanter-of-endless-water_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/deck-of-illusions_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/driftglobe_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/dust-of-disappearance_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/dust-of-dryness_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/dust-of-sneezing-and-choking_row.md"
 
 ## E
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Elemental Gem](/item/magic/infusion/uncommon/elemental-gem.md) | Wondrous Item | Uncommon | No |
-| [Enspelled Armor](/item/magic/infusion/uncommon/enspelled-armor.md) | Armor (Any) | Uncommon | Yes |
-| [Enspelled Staff](/item/magic/infusion/uncommon/enspelled-staff.md) | Spellcasting Focus (Any) | Uncommon | Yes (Spellcaster) |
-| [Enspelled Weapon](/item/magic/infusion/uncommon/enspelled-weapon.md) | Weapon (Any) | Uncommon | Yes |
-| [Eversmoking Bottle](/item/magic/infusion/uncommon/eversmoking-bottle.md) | Container (Flask) | Uncommon | No |
-| [Evoker's Exchange](/item/magic/infusion/uncommon/evokers-exchange.md) | Clothing (Jewelry) | Uncommon | No |
-| [Eyes of Charming](/item/magic/infusion/uncommon/eyes-of-charming.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Eyes of Minute Seeing](/item/magic/infusion/uncommon/eyes-of-minute-seeing.md) | Clothing (Jewelry) | Uncommon | No |
-| [Eyes of the Eagle](/item/magic/infusion/uncommon/eyes-of-the-eagle.md) | Clothing (Jewelry) | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/elemental-gem_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/enspelled-armor_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/enspelled-staff_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/eversmoking-bottle_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/evokers-exchange_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/eyes-of-charming_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/eyes-of-minute-seeing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/eyes-of-the-eagle_row.md"
 
 ## F
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Feather Token](/item/magic/infusion/uncommon/feather-token.md) | Wondrous Item | Uncommon | No |
-| [First Mate's Scabbard](/item/magic/infusion/uncommon/first-mates-scabbard.md) | Wondrous Item | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/feather-token_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/first-mates-scabbard_row.md"
 
 ## G
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Gauntlets of Ogre Power](/item/magic/infusion/uncommon/gauntlets-of-ogre-power.md) | Clothing (Gloves) | Uncommon | Yes |
-| [Gem of Brightness](/item/magic/infusion/uncommon/gem-of-brightness.md) | Wondrous Item | Uncommon | No |
-| [Gloves of Missile Snaring](/item/magic/infusion/uncommon/gloves-of-missile-snaring.md) | Clothing (Gloves) | Uncommon | Yes |
-| [Gloves of Swimming and Climbing](/item/magic/infusion/uncommon/gloves-of-swimming-and-climbing.md) | Clothing (Gloves) | Uncommon | Yes |
-| [Gloves of Thievery](/item/magic/infusion/uncommon/gloves-of-thievery.md) | Clothing (Gloves) | Uncommon | No |
-| [Goggles of Night](/item/magic/infusion/uncommon/goggles-of-night.md) | Wondrous Item | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/gauntlets-of-ogre-power_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/gem-of-brightness_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/gloves-of-missile-snaring_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/gloves-of-swimming-and-climbing_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/gloves-of-thievery_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/goggles-of-night_row.md"
 
 ## H
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Hag Eye](/item/magic/infusion/uncommon/hag-eye.md) | Wondrous Item | Uncommon | No |
-| [Hat of Disguise](/item/magic/infusion/uncommon/hat-of-disguise.md) | Clothing (Hat) | Uncommon | Yes |
-| [Headband of Intellect](/item/magic/infusion/uncommon/headband-of-intellect.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Helm of Awareness](/item/magic/infusion/uncommon/helm-of-awareness.md) | Clothing (Hat) | Uncommon | No |
-| [Helm of Comprehend Languages](/item/magic/infusion/uncommon/helm-of-comprehend-languages.md) | Clothing (Hat) | Uncommon | No |
-| [Helm of Telepathy](/item/magic/infusion/uncommon/helm-of-telepathy.md) | Clothing (Hat) | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/hag-eye_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/hat-of-disguise_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/headband-of-intellect_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/helm-of-awareness_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/helm-of-comprehend-languages_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/helm-of-telepathy_row.md"
 
 ## I
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Immovable Rod](/item/magic/infusion/uncommon/immovable-rod.md) | Wondrous Item | Uncommon | No |
-| [Instrument of the Bards](/item/magic/infusion/uncommon/instrument-of-the-bards.md) | Wondrous Item (Musical Instrument) | Uncommon | Yes (Bard) |
+--8<-- "_generated/item/magic/infusion/uncommon/immovable-rod_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/instrument-of-the-bards_row.md"
 
 ## J
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Javelin of Lightning](/item/magic/infusion/uncommon/javelin-of-lightning.md) | Weapon (Staff) | Uncommon | No |
-| [Jotun's Jodhpurs](/item/magic/infusion/uncommon/jotuns-jodhpurs.md) | Clothing (Clothes) | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/javelin-of-lightning_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/jotuns-jodhpurs_row.md"
 
 ## L
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Lantern of Revealing](/item/magic/infusion/uncommon/lantern-of-revealing.md) | Wondrous Item (Hooded or Bullseye Lantern) | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/lantern-of-revealing_row.md"
 
 ## M
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Magic Pocket](/item/magic/infusion/uncommon/magic-pocket.md) | Container (Pouch) | Uncommon | No |
-| [Medallion of Thoughts](/item/magic/infusion/uncommon/medallion-of-thoughts.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Medusan Signet](/item/magic/infusion/uncommon/medusan-signet.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Meta Crystal](/item/magic/infusion/uncommon/meta-crystal.md) | Wondrous Item | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/magic-pocket_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/medallion-of-thoughts_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/medusan-signet_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/meta-crystal_row.md"
 
 ## N
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Nature's Mantle](/item/magic/infusion/uncommon/natures-mantle.md) | Clothing (Cloak) | Uncommon | Yes (Druid or Ranger) |
-| [Necklace of Adaptation](/item/magic/infusion/uncommon/necklace-of-adaptation.md) | Clothing (Jewelry) | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/natures-mantle_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/necklace-of-adaptation_row.md"
 
 ## P
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Pearl of Power](/item/magic/infusion/uncommon/pearl-of-power.md) | Clothing (Jewelry) | Uncommon | Yes (Spellcaster) |
-| [Pegasus Quill](/item/magic/infusion/uncommon/pegasus-quill.md) | Tool (Calligrapher's Supplies) | Uncommon | No |
-| [Periapt of Health](/item/magic/infusion/uncommon/periapt-of-health.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Periapt of Wound Closure](/item/magic/infusion/uncommon/periapt-of-wound-closure.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Pipes of Haunting](/item/magic/infusion/uncommon/pipes-of-haunting.md) | Wondrous Item (Musical Instrument) | Uncommon | No |
-| [Pipes of the Sewers](/item/magic/infusion/uncommon/pipes-of-the-sewers.md) | Wondrous Item (Musical Instrument) | Uncommon | Yes |
-| [Portal Compass](/item/magic/infusion/uncommon/portal-compass.md) | Wondrous Item | Uncommon | No |
-| [Psi Crystal](/item/magic/infusion/uncommon/psi-crystal.md) | Spellcasting Focus (Arcane Focus) | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/pearl-of-power_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/pegasus-quill_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/periapt-of-health_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/periapt-of-wound-closure_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/pipes-of-haunting_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/pipes-of-the-sewers_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/portal-compass_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/psi-crystal_row.md"
 
 ## Q
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Quiver of Ehlonna](/item/magic/infusion/uncommon/quiver-of-ehlonna.md) | Container (Quiver) | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/quiver-of-ehlonna_row.md"
 
 ## R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Ring of Jumping](/item/magic/infusion/uncommon/ring-of-jumping.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Ring of Mind Sharpening](/item/magic/infusion/uncommon/ring-of-mind-sharpening.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Ring of Mind Shielding](/item/magic/infusion/uncommon/ring-of-mind-shielding.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Ring of Spell Refueling](/item/magic/infusion/uncommon/ring-of-spell-refueling.md) | Clothing (Jewelry) | Uncommon | Yes (Spellcaster) |
-| [Ring of Swimming](/item/magic/infusion/uncommon/ring-of-swimming.md) | Clothing (Jewelry) | Uncommon | No |
-| [Ring of Warmth](/item/magic/infusion/uncommon/ring-of-warmth.md) | Clothing (Jewelry) | Uncommon | Yes |
-| [Ring of Water Walking](/item/magic/infusion/uncommon/ring-of-water-walking.md) | Clothing (Jewelry) | Uncommon | No |
-| [Robe of Useful Items](/item/magic/infusion/uncommon/robe-of-useful-items.md) | Clothing (Clothes) | Uncommon | No |
-| [Rope of Climbing](/item/magic/infusion/uncommon/rope-of-climbing.md) | Wondrous Item | Uncommon | No |
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-jumping_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-mind-sharpening_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-mind-shielding_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-spell-refueling_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-swimming_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-warmth_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/ring-of-water-walking_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/robe-of-useful-items_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/rope-of-climbing_row.md"
 
 ## S
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Saddle of the Cavalier](/item/magic/infusion/uncommon/saddle-of-the-cavalier.md) | Wondrous Item | Uncommon | No |
-| [Sending Stones](/item/magic/infusion/uncommon/sending-stones.md) | Wondrous Item | Uncommon | No |
-| [Sentinel Shield](/item/magic/infusion/uncommon/sentinel-shield.md) | Shield (Any) | Uncommon | No |
-| [Shield of Feywatch](/item/magic/infusion/uncommon/shield-of-feywatch.md) | Shield (Any) | Uncommon | No |
-| [Shield of Protectors](/item/magic/infusion/uncommon/shield-of-protectors.md) | Shield (Any) | Uncommon | No |
-| [Shield of Repulsion](/item/magic/infusion/uncommon/shield-of-repulsion.md) | Shield (Any) | Uncommon | No |
-| [Shield of Sentinels](/item/magic/infusion/uncommon/shield-of-sentinels.md) | Shield (Any) | Uncommon | No |
-| [Silver Raven Figurine](/item/magic/infusion/uncommon/silver-raven-figurine.md) | Wondrous Item | Uncommon | No |
-| [Staff of the Adder](/item/magic/infusion/uncommon/staff-of-the-adder.md) | Weapon (Staff) | Uncommon | Yes |
-| [Staff of the Python](/item/magic/infusion/uncommon/staff-of-the-python.md) | Weapon (Staff) | Uncommon | Yes |
-| [Stone of Good Luck](/item/magic/infusion/uncommon/stone-of-good-luck.md) | Clothing (Jewelry) | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/saddle-of-the-cavalier_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/sending-stones_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/sentinel-shield_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/shield-of-feywatch_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/shield-of-protectors_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/shield-of-repulsion_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/shield-of-sentinels_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/silver-raven-figurine_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/staff-of-the-adder_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/staff-of-the-python_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/stone-of-good-luck_row.md"
 
 ## T
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Trident of Fish Command](/item/magic/infusion/uncommon/trident-of-fish-command.md) | Weapon (Staff) | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/trident-of-fish-command_row.md"
 
 ## W
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Wand of Magic Detection](/item/magic/infusion/uncommon/wand-of-magic-detection.md) | Spellcasting Focus (Arcane Focus) | Uncommon | No |
-| [Wand of Magic Missiles](/item/magic/infusion/uncommon/wand-of-magic-missiles.md) | Spellcasting Focus (Arcane Focus) | Uncommon | No |
-| [Wand of Secrets](/item/magic/infusion/uncommon/wand-of-secrets.md) | Spellcasting Focus (Arcane Focus) | Uncommon | No |
-| [Wand of Web](/item/magic/infusion/uncommon/wand-of-web.md) | Spellcasting Focus (Arcane Focus) | Uncommon | Yes (Spellcaster) |
-| [Weapon of Biting](/item/magic/infusion/uncommon/weapon-of-biting.md) | Weapon (Sidearm, Foil, or Blade) | Uncommon | No |
-| [Weapon of First Light](/item/magic/infusion/uncommon/weapon-of-first-light.md) | Weapon (Sidearm, Foil, or Blade) | Uncommon | Yes |
-| [Weapon of Radiance](/item/magic/infusion/uncommon/weapon-of-radiance.md) | Weapon (Any) | Uncommon | Yes |
-| [Weapon of Repeating](/item/magic/infusion/uncommon/weapon-of-repeating.md) | Weapon (Loading) | Uncommon | No |
-| [Weapon of Returning](/item/magic/infusion/uncommon/weapon-of-returning.md) | Weapon (Thrown) | Uncommon | No |
-| [Weapon of Warning](/item/magic/infusion/uncommon/weapon-of-warning.md) | Weapon (Any) | Uncommon | Yes |
-| [Wind Fan](/item/magic/infusion/uncommon/wind-fan.md) | Wondrous Item | Uncommon | No |
-| [Winged Boots](/item/magic/infusion/uncommon/winged-boots.md) | Clothing (Boots) | Uncommon | Yes |
+--8<-- "_generated/item/magic/infusion/uncommon/wand-of-magic-detection_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/wand-of-magic-missiles_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/wand-of-secrets_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/wand-of-web_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-biting_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-first-light_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-radiance_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-repeating_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-returning_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/weapon-of-warning_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/wind-fan_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/winged-boots_row.md"

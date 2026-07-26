@@ -1,5 +1,5 @@
 | Item | Type | Value |
 |---|---|---|
-| [Basic Poison](/item/gear/poison/basic-poison.md) | Poison (Injury) | 100 gold |
-| [Philter of Love](/item/gear/poison/philter-of-love.md) | Poison (Ingested) | 200 gold |
-| [Potion of Poison](/item/gear/poison/potion-of-poison.md) | Poison (Ingested) | 200 gold |
+--8<-- "_generated/item/gear/poison/basic-poison_row.md"
+--8<-- "_generated/item/gear/poison/philter-of-love_row.md"
+--8<-- "_generated/item/gear/poison/potion-of-poison_row.md"

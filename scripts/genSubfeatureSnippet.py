@@ -76,7 +76,7 @@ def BuildSubfeature(relDir, label, rowFunc, grouped):
             cards.append(card)
             row, level = rowFunc(card)
             written.append(C.WriteSnippet(path, row))
-            records.append((level, card.title, row))
+            records.append((level, card.title, C.RowInclude(path)))
     records.sort(key=lambda rec: (rec[0], rec[1].lower()))
     example = GroupedExample(header, records) if grouped else FlatExample(header, records)
     C.WriteText(mirrorDir / f"_index_table.md", example)

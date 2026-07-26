@@ -1,3 +1,3 @@
 | Item | Type | Value |
 |---|---|---|
-| [Spell Scroll](/item/gear/scroll/spell-scroll.md) | Scroll | Value Varies |
+--8<-- "_generated/item/gear/scroll/spell-scroll_row.md"

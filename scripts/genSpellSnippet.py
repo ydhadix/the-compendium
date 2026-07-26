@@ -119,7 +119,7 @@ def Main():
             card = C.ReadCard(path)
             row = BuildRow(card)
             written.append(C.WriteSnippet(path, row))
-            records.append((level, path.stem, row, ClassList(card.text)))
+            records.append((level, path.stem, C.RowInclude(path), ClassList(card.text)))
     records.sort(key=lambda rec: (rec[0], rec[1]))
 
     for level in LEVELS:

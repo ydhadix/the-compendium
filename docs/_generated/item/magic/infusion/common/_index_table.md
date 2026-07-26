@@ -5,127 +5,127 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Armor of Gleaming](/item/magic/infusion/common/armor-of-gleaming.md) | Armor (Any) | Common | No |
+--8<-- "_generated/item/magic/infusion/common/armor-of-gleaming_row.md"
 
 ## B
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Boots of False Tracks](/item/magic/infusion/common/boots-of-false-tracks.md) | Clothing (Boots) | Common | Yes |
+--8<-- "_generated/item/magic/infusion/common/boots-of-false-tracks_row.md"
 
 ## C
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Candle of the Deep](/item/magic/infusion/common/candle-of-the-deep.md) | Wondrous Item | Common | No |
-| [Cast-Off Armor](/item/magic/infusion/common/cast-off-armor.md) | Armor (Any) | Common | No |
-| [Charlatan's Die](/item/magic/infusion/common/charlatans-die.md) | Wondrous Item | Common | Yes |
-| [Cloak of Billowing](/item/magic/infusion/common/cloak-of-billowing.md) | Clothing (Cloak) | Common | No |
-| [Cloak of Many Fashions](/item/magic/infusion/common/cloak-of-many-fashions.md) | Clothing (Cloak) | Common | No |
-| [Clockwork Amulet](/item/magic/infusion/common/clockwork-amulet.md) | Wondrous Item | Common | No |
-| [Clothes of Mending](/item/magic/infusion/common/clothes-of-mending.md) | Clothing (Clothes) | Common | No |
+--8<-- "_generated/item/magic/infusion/common/candle-of-the-deep_row.md"
+--8<-- "_generated/item/magic/infusion/common/cast-off-armor_row.md"
+--8<-- "_generated/item/magic/infusion/common/charlatans-die_row.md"
+--8<-- "_generated/item/magic/infusion/common/cloak-of-billowing_row.md"
+--8<-- "_generated/item/magic/infusion/common/cloak-of-many-fashions_row.md"
+--8<-- "_generated/item/magic/infusion/common/clockwork-amulet_row.md"
+--8<-- "_generated/item/magic/infusion/common/clothes-of-mending_row.md"
 
 ## D
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Dark Shard Amulet](/item/magic/infusion/common/dark-shard-amulet.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Warlock) |
-| [Dread Helm](/item/magic/infusion/common/dread-helm.md) | Clothing (Hat) | Common | No |
+--8<-- "_generated/item/magic/infusion/common/dark-shard-amulet_row.md"
+--8<-- "_generated/item/magic/infusion/common/dread-helm_row.md"
 
 ## E
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Ear Horn of Hearing](/item/magic/infusion/common/ear-horn-of-hearing.md) | Wondrous Item | Common | No |
-| [Enduring Spellbook](/item/magic/infusion/common/enduring-spellbook.md) | Wondrous Item | Common | No |
-| [Ersatz Eye](/item/magic/infusion/common/ersatz-eye.md) | Wondrous Item | Common | No |
+--8<-- "_generated/item/magic/infusion/common/ear-horn-of-hearing_row.md"
+--8<-- "_generated/item/magic/infusion/common/enduring-spellbook_row.md"
+--8<-- "_generated/item/magic/infusion/common/ersatz-eye_row.md"
 
 ## H
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Handy Spice Pouch](/item/magic/infusion/common/handy-spice-pouch.md) | Wondrous Item | Common | No |
-| [Hat of Vermin](/item/magic/infusion/common/hat-of-vermin.md) | Clothing (Hat) | Common | No |
-| [Hat of Wizardry](/item/magic/infusion/common/hat-of-wizardry.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Wizard) |
-| [Horn of Silent Alarm](/item/magic/infusion/common/horn-of-silent-alarm.md) | Wondrous Item | Common | No |
+--8<-- "_generated/item/magic/infusion/common/handy-spice-pouch_row.md"
+--8<-- "_generated/item/magic/infusion/common/hat-of-vermin_row.md"
+--8<-- "_generated/item/magic/infusion/common/hat-of-wizardry_row.md"
+--8<-- "_generated/item/magic/infusion/common/horn-of-silent-alarm_row.md"
 
 ## I
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Instrument of Illusions](/item/magic/infusion/common/instrument-of-illusions.md) | Wondrous Item | Common | No |
-| [Instrument of Scribing](/item/magic/infusion/common/instrument-of-scribing.md) | Wondrous Item | Common | No |
+--8<-- "_generated/item/magic/infusion/common/instrument-of-illusions_row.md"
+--8<-- "_generated/item/magic/infusion/common/instrument-of-scribing_row.md"
 
 ## L
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Lock of Trickery](/item/magic/infusion/common/lock-of-trickery.md) | Wondrous Item | Common | No |
+--8<-- "_generated/item/magic/infusion/common/lock-of-trickery_row.md"
 
 ## M
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Manifold Tool](/item/magic/infusion/common/manifold-tool.md) | Wondrous Item | Common | Yes (Artificer) |
-| [Moon-Touched Sword](/item/magic/infusion/common/moon-touched-sword.md) | Weapon (Blade or Fence) | Common | No |
-| [Mystery Key](/item/magic/infusion/common/mystery-key.md) | Wondrous Item | Common | No |
+--8<-- "_generated/item/magic/infusion/common/manifold-tool_row.md"
+--8<-- "_generated/item/magic/infusion/common/moon-touched-sword_row.md"
+--8<-- "_generated/item/magic/infusion/common/mystery-key_row.md"
 
 ## O
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Orb of Direction](/item/magic/infusion/common/orb-of-direction.md) | Spellcasting Focus (Arcane Focus) | Common | No |
-| [Orb of Time](/item/magic/infusion/common/orb-of-time.md) | Spellcasting Focus (Arcane Focus) | Common | No |
+--8<-- "_generated/item/magic/infusion/common/orb-of-direction_row.md"
+--8<-- "_generated/item/magic/infusion/common/orb-of-time_row.md"
 
 ## P
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Pipe of Smoke Monsters](/item/magic/infusion/common/pipe-of-smoke-monsters.md) | Wondrous Item | Common | No |
-| [Pole of Angling](/item/magic/infusion/common/pole-of-angling.md) | Wondrous Item | Common | No |
-| [Pole of Collapsing](/item/magic/infusion/common/pole-of-collapsing.md) | Wondrous Item | Common | No |
-| [Pot of Awakening](/item/magic/infusion/common/pot-of-awakening.md) | Wondrous Item | Common | No |
-| [Prosthetic Limb](/item/magic/infusion/common/prosthetic-limb.md) | Wondrous Item | Common | No |
+--8<-- "_generated/item/magic/infusion/common/pipe-of-smoke-monsters_row.md"
+--8<-- "_generated/item/magic/infusion/common/pole-of-angling_row.md"
+--8<-- "_generated/item/magic/infusion/common/pole-of-collapsing_row.md"
+--8<-- "_generated/item/magic/infusion/common/pot-of-awakening_row.md"
+--8<-- "_generated/item/magic/infusion/common/prosthetic-limb_row.md"
 
 ## R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Rival Coin](/item/magic/infusion/common/rival-coin.md) | Wondrous Item | Common | No |
-| [Rod of the Pact Keeper](/item/magic/infusion/common/rod-of-the-pact-keeper.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Warlock) |
-| [Rope of Mending](/item/magic/infusion/common/rope-of-mending.md) | Wondrous Item | Common | No |
-| [Ruby of the War Mage](/item/magic/infusion/common/ruby-of-the-war-mage.md) | Spellcasting Focus (Any) | Common | Yes (Spellcaster) |
+--8<-- "_generated/item/magic/infusion/common/rival-coin_row.md"
+--8<-- "_generated/item/magic/infusion/common/rod-of-the-pact-keeper_row.md"
+--8<-- "_generated/item/magic/infusion/common/rope-of-mending_row.md"
+--8<-- "_generated/item/magic/infusion/common/ruby-of-the-war-mage_row.md"
 
 ## S
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Shield of Expression](/item/magic/infusion/common/shield-of-expression.md) | Shield (Any) | Common | No |
-| [Smoldering Armor](/item/magic/infusion/common/smoldering-armor.md) | Armor (Any) | Common | No |
-| [Staff of Adornment](/item/magic/infusion/common/staff-of-adornment.md) | Weapon (Staff) | Common | No |
-| [Staff of Birdcalls](/item/magic/infusion/common/staff-of-birdcalls.md) | Weapon (Staff) | Common | No |
-| [Staff of Flowers](/item/magic/infusion/common/staff-of-flowers.md) | Weapon (Staff) | Common | No |
+--8<-- "_generated/item/magic/infusion/common/shield-of-expression_row.md"
+--8<-- "_generated/item/magic/infusion/common/smoldering-armor_row.md"
+--8<-- "_generated/item/magic/infusion/common/staff-of-adornment_row.md"
+--8<-- "_generated/item/magic/infusion/common/staff-of-birdcalls_row.md"
+--8<-- "_generated/item/magic/infusion/common/staff-of-flowers_row.md"
 
 ## T
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Talking Doll](/item/magic/infusion/common/talking-doll.md) | Wondrous Item | Common | Yes |
-| [Tankard of Sobriety](/item/magic/infusion/common/tankard-of-sobriety.md) | Wondrous Item | Common | No |
+--8<-- "_generated/item/magic/infusion/common/talking-doll_row.md"
+--8<-- "_generated/item/magic/infusion/common/tankard-of-sobriety_row.md"
 
 ## V
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Veteran's Cane](/item/magic/infusion/common/veterans-cane.md) | Weapon (Blade) | Common | No |
+--8<-- "_generated/item/magic/infusion/common/veterans-cane_row.md"
 
 ## W
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Walloping Ammunition](/item/magic/infusion/common/walloping-ammunition.md) | Weapon (Ammunition) | Common | No |
-| [Wand of Conducting](/item/magic/infusion/common/wand-of-conducting.md) | Spellcasting Focus (Arcane Focus) | Common | No |
-| [Wand of Pyrotechnics](/item/magic/infusion/common/wand-of-pyrotechnics.md) | Spellcasting Focus (Arcane Focus) | Common | No |
-| [Wand of the War Mage](/item/magic/infusion/common/wand-of-the-war-mage.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Spellcaster) |
-| [Wand Sheathe](/item/magic/infusion/common/wand-sheathe.md) | Wondrous Item | Common | Yes (Construct) |
-| [Wraps of Unarmed Power](/item/magic/infusion/common/wraps-of-unarmed-power.md) | Clothing (Gloves) | Common | No |
+--8<-- "_generated/item/magic/infusion/common/walloping-ammunition_row.md"
+--8<-- "_generated/item/magic/infusion/common/wand-of-conducting_row.md"
+--8<-- "_generated/item/magic/infusion/common/wand-of-pyrotechnics_row.md"
+--8<-- "_generated/item/magic/infusion/common/wand-of-the-war-mage_row.md"
+--8<-- "_generated/item/magic/infusion/common/wand-sheathe_row.md"
+--8<-- "_generated/item/magic/infusion/common/wraps-of-unarmed-power_row.md"

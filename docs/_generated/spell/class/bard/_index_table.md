@@ -6,153 +6,153 @@
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Blade Ward](/spell/level/0/blade-ward.md) | Abjuration | V, S | Magic Action | — | Self | 1 minute (C) |
-| [Dancing Lights](/spell/level/0/dancing-lights.md) | Illusion | V, S, M | Magic Action | 120 ft. | — | 1 minute (C) |
-| [Friends](/spell/level/0/friends.md) | Enchantment | S, M | Magic Action | 10 ft. | One humanoid | 1 minute (C) |
-| [Light](/spell/level/0/light.md) | Evocation | V, M | Magic Action | Reach | One Large or smaller object | 1 hour |
-| [Mage Hand](/spell/level/0/mage-hand.md) | Conjuration | V, S | Magic Action | 30 ft. | — | 1 minute |
-| [Mending](/spell/level/0/mending.md) | Transmutation | V, S, M | 1 minute | Reach | One broken object | — |
-| [Message](/spell/level/0/message.md) | Transmutation | S, M | Magic Action | 120 ft. | One creature | — |
-| [Mind Sliver](/spell/level/0/mind-sliver.md) | Enchantment | V | Magic Action | 60 ft. | One thing | Until the end of your next Turn |
-| [Minor Illusion](/spell/level/0/minor-illusion.md) | Illusion | S, M | Magic Action | 30 ft. | — | 1 minute |
-| [Prestidigitation](/spell/level/0/prestidigitation.md) | Transmutation | V, S | Magic Action | 10 ft. | Special | 1 hour |
-| [Starry Wisp](/spell/level/0/starry-wisp.md) | Evocation | V, S | Magic Action | 60 ft. | One thing | Until the end of your next Turn |
-| [Thunderclap](/spell/level/0/thunderclap.md) | Evocation | S | Magic Action | — | Everything in a 5-ft. Aura | — |
-| [True Strike](/spell/level/0/true-strike.md) | Divination | S, M | Magic Action | The material component's Reach or Range | One thing | — |
-| [Vicious Mockery](/spell/level/0/vicious-mockery.md) | Enchantment | V | Magic Action | 60 ft. | One thing | Until the end of your next Turn |
+--8<-- "_generated/spell/level/0/blade-ward_row.md"
+--8<-- "_generated/spell/level/0/dancing-lights_row.md"
+--8<-- "_generated/spell/level/0/friends_row.md"
+--8<-- "_generated/spell/level/0/light_row.md"
+--8<-- "_generated/spell/level/0/mage-hand_row.md"
+--8<-- "_generated/spell/level/0/mending_row.md"
+--8<-- "_generated/spell/level/0/message_row.md"
+--8<-- "_generated/spell/level/0/mind-sliver_row.md"
+--8<-- "_generated/spell/level/0/minor-illusion_row.md"
+--8<-- "_generated/spell/level/0/prestidigitation_row.md"
+--8<-- "_generated/spell/level/0/starry-wisp_row.md"
+--8<-- "_generated/spell/level/0/thunderclap_row.md"
+--8<-- "_generated/spell/level/0/true-strike_row.md"
+--8<-- "_generated/spell/level/0/vicious-mockery_row.md"
 
 ## 1st-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Animal Friendship](/spell/level/1/animal-friendship.md) | Enchantment | V, S, M | Magic Action | 30 ft. | One Beast | 24 hours |
-| [Bane](/spell/level/1/bane.md) | Enchantment | V, S, M | Magic Action | 30 ft. | Up to 3 creatures | 1 minute (C) |
-| [Cause Fear](/spell/level/1/cause-fear.md) | Enchantment | V | Magic Action | 60 ft. | One creature | 1 minute (C) |
-| [Charm Person](/spell/level/1/charm-person.md) | Enchantment | V, S | Magic Action | 30 ft. | One humanoid | 1 hour |
-| [Color Spray](/spell/level/1/color-spray.md) | Illusion | V, S, M | Magic Action | Reach | Each creature in a 15-ft. Cone | Until the end of your next Turn |
-| [Command](/spell/level/1/command.md) | Enchantment | V | Magic Action | 60 ft. | One creature | Until the end of the target's next Turn |
-| [Comprehend Languages](/spell/level/1/comprehend-languages.md) | Divination | V, S, M | Magic Action (R) | — | Self | 1 hour |
-| [Cure Wounds](/spell/level/1/cure-wounds.md) | Abjuration | V, S | Magic Action | Reach | One creature | — |
-| [Detect Magic](/spell/level/1/detect-magic.md) | Divination | V, S | Magic Action (R) | 30 ft. | Self | 10 minutes (C) |
-| [Disguise Self](/spell/level/1/disguise-self.md) | Illusion | V, S | Magic Action | — | Self | 1 hour |
-| [Dissonant Whispers](/spell/level/1/dissonant-whispers.md) | Enchantment | V | Magic Action | 60 ft. | One creature | — |
-| [Earth Tremor](/spell/level/1/earth-tremor.md) | Evocation | V, S | Magic Action | — | Everything on the ground in a 10-ft. Aura | — |
-| [Faerie Fire](/spell/level/1/faerie-fire.md) | Evocation | V | Magic Action | 60 ft. | Everything in a 20-ft. Cube | 1 minute (C) |
-| [Feather Fall](/spell/level/1/feather-fall.md) | Transmutation | V, M | Reaction | 60 ft. | Up to 5 falling creatures | 1 minute |
-| [Gift of Alacrity](/spell/level/1/gift-of-alacrity.md) | Divination | V, S | 1 minute | Reach | One creature | 8 hours |
-| [Healing Word](/spell/level/1/healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | One creature | — |
-| [Heroism](/spell/level/1/heroism.md) | Enchantment | V, S | Magic Action | Reach | One creature | 1 minute (C) |
-| [Hideous Laughter](/spell/level/1/hideous-laughter.md) | Enchantment | V, S, M | Magic Action | 30 ft. | One creature | 1 minute (C) |
-| [Identify](/spell/level/1/identify.md) | Divination | V, S, M ($) | 1 minute (R) | Reach | One thing | — |
-| [Illusory Script](/spell/level/1/illusory-script.md) | Illusion | S, M ($C) | 1 minute (R) | Reach | Paper, parchment, or another surface | 10 days |
-| [Longstrider](/spell/level/1/longstrider.md) | Transmutation | V, S, M | Magic Action | Reach | One creature | 1 hour |
-| [Silent Image](/spell/level/1/silent-image.md) | Illusion | V, S, M | Magic Action | 60 ft. | — | 10 minutes (C) |
-| [Silvery Barbs](/spell/level/1/silvery-barbs.md) | Enchantment | V | Reaction | 60 ft. | The succeeding creature | — |
-| [Skywrite](/spell/level/1/skywrite.md) | Transmutation | V, S | Magic Action (R) | Line of sight | — | 1 hour (C) |
-| [Sleep](/spell/level/1/sleep.md) | Enchantment | V, S, M | Magic Action | 60 ft. | Each creature in a 5-ft. radius Sphere | 1 minute (C) |
-| [Speak with Animals](/spell/level/1/speak-with-animals.md) | Divination | V, S | Magic Action (R) | — | Self | 10 minutes |
-| [Spray of Cards](/spell/level/1/spray-of-cards.md) | Conjuration | V, S, M | Magic Action | Reach | Everything in a 15-ft. Cone | Until the end of your next Turn |
-| [Thunderwave](/spell/level/1/thunderwave.md) | Evocation | V, S | Magic Action | Reach | Everything in a 15-ft. Cube | — |
-| [Unseen Servant](/spell/level/1/unseen-servant.md) | Conjuration | V, S, M | Magic Action (R) | 60 ft. | — | 1 hour |
-| [Wardaway](/spell/level/1/wardaway.md) | Abjuration | V, S, M | Magic Action | 60 ft. | One non-Construct, non-Undead creature | Until the end of your next Turn |
-| [Wristpocket](/spell/level/1/wristpocket.md) | Conjuration | S | Magic Action (R) | Reach | One object that weighs 5 pounds or less | 1 hour (C) |
+--8<-- "_generated/spell/level/1/animal-friendship_row.md"
+--8<-- "_generated/spell/level/1/bane_row.md"
+--8<-- "_generated/spell/level/1/cause-fear_row.md"
+--8<-- "_generated/spell/level/1/charm-person_row.md"
+--8<-- "_generated/spell/level/1/color-spray_row.md"
+--8<-- "_generated/spell/level/1/command_row.md"
+--8<-- "_generated/spell/level/1/comprehend-languages_row.md"
+--8<-- "_generated/spell/level/1/cure-wounds_row.md"
+--8<-- "_generated/spell/level/1/detect-magic_row.md"
+--8<-- "_generated/spell/level/1/disguise-self_row.md"
+--8<-- "_generated/spell/level/1/dissonant-whispers_row.md"
+--8<-- "_generated/spell/level/1/earth-tremor_row.md"
+--8<-- "_generated/spell/level/1/faerie-fire_row.md"
+--8<-- "_generated/spell/level/1/feather-fall_row.md"
+--8<-- "_generated/spell/level/1/gift-of-alacrity_row.md"
+--8<-- "_generated/spell/level/1/healing-word_row.md"
+--8<-- "_generated/spell/level/1/heroism_row.md"
+--8<-- "_generated/spell/level/1/hideous-laughter_row.md"
+--8<-- "_generated/spell/level/1/identify_row.md"
+--8<-- "_generated/spell/level/1/illusory-script_row.md"
+--8<-- "_generated/spell/level/1/longstrider_row.md"
+--8<-- "_generated/spell/level/1/silent-image_row.md"
+--8<-- "_generated/spell/level/1/silvery-barbs_row.md"
+--8<-- "_generated/spell/level/1/skywrite_row.md"
+--8<-- "_generated/spell/level/1/sleep_row.md"
+--8<-- "_generated/spell/level/1/speak-with-animals_row.md"
+--8<-- "_generated/spell/level/1/spray-of-cards_row.md"
+--8<-- "_generated/spell/level/1/thunderwave_row.md"
+--8<-- "_generated/spell/level/1/unseen-servant_row.md"
+--8<-- "_generated/spell/level/1/wardaway_row.md"
+--8<-- "_generated/spell/level/1/wristpocket_row.md"
 
 ## 2nd-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Aid](/spell/level/2/aid.md) | Abjuration | V, S, M | Magic Action | 30 ft. | Up to 3 creatures | 8 hours |
-| [Animal Messenger](/spell/level/2/animal-messenger.md) | Enchantment | V, S, M | Magic Action (R) | 30 ft. | One CR 0 Beast | 24 hours |
-| [Blindness/Deafness](/spell/level/2/blindness-deafness.md) | Transmutation | V | Magic Action | 120 ft. | One creature | 1 minute |
-| [Borrowed Knowledge](/spell/level/2/borrowed-knowledge.md) | Divination | V, S, M ($) | Magic Action | — | Self | 1 hour |
-| [Calm Emotions](/spell/level/2/calm-emotions.md) | Enchantment | V, S | Magic Action | 60 ft. | Each humanoid and Beast in a 20-ft. radius Sphere | 1 minute (C) |
-| [Cloud of Daggers](/spell/level/2/cloud-of-daggers.md) | Conjuration | V, S, M | Magic Action | 60 ft. | Everything in a 5-ft. Cube | 1 minute (C) |
-| [Crown of Madness](/spell/level/2/crown-of-madness.md) | Enchantment | V, S | Magic Action | 120 ft. | One humanoid | 1 minute (C) |
-| [Detect Thoughts](/spell/level/2/detect-thoughts.md) | Divination | V, S, M | Magic Action | 30 ft. | Self | 1 minute (C) |
-| [Enhance Ability](/spell/level/2/enhance-ability.md) | Transmutation | V, S, M | Magic Action | Reach | One creature | 1 hour (C) |
-| [Enlarge/Reduce](/spell/level/2/enlarge-reduce.md) | Transmutation | V, S, M | Magic Action | 30 ft. | One thing | 1 minute (C) |
-| [Enthrall](/spell/level/2/enthrall.md) | Enchantment | V, S | Magic Action | 60 ft. | Each creature you choose within 60 ft. | 1 minute |
-| [Fortune's Favor](/spell/level/2/fortunes-favor.md) | Divination | V, S, M ($C) | Magic Action | 60 ft. | One creature | 1 hour |
-| [Heat Metal](/spell/level/2/heat-metal.md) | Transmutation | V, S, M | Magic Action | 60 ft. | One metal object | 1 minute (C) |
-| [Hold Person](/spell/level/2/hold-person.md) | Enchantment | V, S, M | Magic Action | 60 ft. | One humanoid | 1 minute (C) |
-| [Kinetic Jaunt](/spell/level/2/kinetic-jaunt.md) | Transmutation | S | Bonus Action | — | Self | 1 minute (C) |
-| [Knock](/spell/level/2/knock.md) | Transmutation | V | Magic Action | 60 ft. | One object | — |
-| [Lesser Invisibility](/spell/level/2/lesser-invisibility.md) | Illusion | V, S, M | Magic Action | Reach | One thing | 1 hour (C) |
-| [Lesser Restoration](/spell/level/2/lesser-restoration.md) | Abjuration | V, S | Bonus Action | Reach | One creature | — |
-| [Locate Animals or Plants](/spell/level/2/locate-animals-or-plants.md) | Divination | V, S, M | Magic Action (R) | 5 miles | Special | 10 minutes (C) |
-| [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Magic Action (R) | 1,000 ft. | Special | 10 minutes (C) |
-| [Magic Mouth](/spell/level/2/magic-mouth.md) | Illusion | V, S, M ($C) | 1 minute (R) | 30 ft. | One object | Until dispelled |
-| [Mirror Image](/spell/level/2/mirror-image.md) | Illusion | V, S | Magic Action | — | Self | 1 minute |
-| [Phantasmal Force](/spell/level/2/phantasmal-force.md) | Illusion | V, S, M | Magic Action | 60 ft. | One creature | 1 minute (C) |
-| [Pyrotechnics](/spell/level/2/pyrotechnics.md) | Transmutation | V, S | Magic Action | 60 ft. | Everything in a 20-ft. radius Sphere | 1 minute (C) |
-| [See Invisibility](/spell/level/2/see-invisibility.md) | Divination | V, S, M | Magic Action | — | Self | 1 hour |
-| [Shatter](/spell/level/2/shatter.md) | Evocation | V, S, M | Magic Action | 60 ft. | Everything in a 10-ft. radius Sphere | — |
-| [Silence](/spell/level/2/silence.md) | Illusion | V, S | Magic Action (R) | 120 ft. | 20-ft. radius Sphere | 10 minutes (C) |
-| [Suggestion](/spell/level/2/suggestion.md) | Enchantment | V, M | Magic Action | 30 ft. | One creature who understands you | 8 hours (C) |
-| [Warding Wind](/spell/level/2/warding-wind.md) | Evocation | V | Magic Action | — | 10-ft. Aura | 10 minutes (C) |
-| [Zone of Truth](/spell/level/2/zone-of-truth.md) | Enchantment | V, S | Magic Action | 60 ft. | Each creature in a 15-ft. radius Sphere | 10 minutes |
+--8<-- "_generated/spell/level/2/aid_row.md"
+--8<-- "_generated/spell/level/2/animal-messenger_row.md"
+--8<-- "_generated/spell/level/2/blindness-deafness_row.md"
+--8<-- "_generated/spell/level/2/borrowed-knowledge_row.md"
+--8<-- "_generated/spell/level/2/calm-emotions_row.md"
+--8<-- "_generated/spell/level/2/cloud-of-daggers_row.md"
+--8<-- "_generated/spell/level/2/crown-of-madness_row.md"
+--8<-- "_generated/spell/level/2/detect-thoughts_row.md"
+--8<-- "_generated/spell/level/2/enhance-ability_row.md"
+--8<-- "_generated/spell/level/2/enlarge-reduce_row.md"
+--8<-- "_generated/spell/level/2/enthrall_row.md"
+--8<-- "_generated/spell/level/2/fortunes-favor_row.md"
+--8<-- "_generated/spell/level/2/heat-metal_row.md"
+--8<-- "_generated/spell/level/2/hold-person_row.md"
+--8<-- "_generated/spell/level/2/kinetic-jaunt_row.md"
+--8<-- "_generated/spell/level/2/knock_row.md"
+--8<-- "_generated/spell/level/2/lesser-invisibility_row.md"
+--8<-- "_generated/spell/level/2/lesser-restoration_row.md"
+--8<-- "_generated/spell/level/2/locate-animals-or-plants_row.md"
+--8<-- "_generated/spell/level/2/locate-object_row.md"
+--8<-- "_generated/spell/level/2/magic-mouth_row.md"
+--8<-- "_generated/spell/level/2/mirror-image_row.md"
+--8<-- "_generated/spell/level/2/phantasmal-force_row.md"
+--8<-- "_generated/spell/level/2/pyrotechnics_row.md"
+--8<-- "_generated/spell/level/2/see-invisibility_row.md"
+--8<-- "_generated/spell/level/2/shatter_row.md"
+--8<-- "_generated/spell/level/2/silence_row.md"
+--8<-- "_generated/spell/level/2/suggestion_row.md"
+--8<-- "_generated/spell/level/2/warding-wind_row.md"
+--8<-- "_generated/spell/level/2/zone-of-truth_row.md"
 
 ## 3rd-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Antagonize](/spell/level/3/antagonize.md) | Enchantment | V, S, M | Magic Action | 30 ft. | One creature | — |
-| [Bestow Curse](/spell/level/3/bestow-curse.md) | Necromancy | V, S | Magic Action | Reach | One creature | 1 minute (C) |
-| [Cacophonic Shield](/spell/level/3/cacophonic-shield.md) | Evocation | V, S | Magic Action | — | Anything you choose in a 10-ft. Aura | 10 minutes (C) |
-| [Clairvoyance](/spell/level/3/clairvoyance.md) | Divination | V, S, M ($) | 10 minutes | 1 mile | — | 10 minutes (C) |
-| [Dispel Magic](/spell/level/3/dispel-magic.md) | Abjuration | V, S | Magic Action | 120 ft. | One magical effect or thing | — |
-| [Enemies Abound](/spell/level/3/enemies-abound.md) | Enchantment | V, S | Magic Action | 120 ft. | One creature | 1 minute (C) |
-| [Fear](/spell/level/3/fear.md) | Illusion | V, S, M | Magic Action | — | Each creature in a 30-ft. Cone | 1 minute (C) |
-| [Feign Death](/spell/level/3/feign-death.md) | Necromancy | V, S, M | Magic Action (R) | Reach | One creature | 1 hour |
-| [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | — | Until dispelled or triggered |
-| [Hypnotic Pattern](/spell/level/3/hypnotic-pattern.md) | Illusion | S, M | Magic Action | 120 ft. | Each creature in a 30-ft. Cube | 1 minute (C) |
-| [Intellect Fortress](/spell/level/3/intellect-fortress.md) | Abjuration | V | Magic Action | 30 ft. | One creature | 1 hour (C) |
-| [Locate Creature](/spell/level/3/locate-creature.md) | Divination | V, S, M | Magic Action | 1,000 ft. | Special | 1 hour (C) |
-| [Major Image](/spell/level/3/major-image.md) | Illusion | V, S, M | Magic Action | 120 ft. | Each creature in a 20-ft. Cube | 10 minutes (C) |
-| [Mass Healing Word](/spell/level/3/mass-healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | Up to six creatures | — |
-| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | One creature, place, or object no larger than **10** feet | 8 hours |
-| [Plant Growth](/spell/level/3/plant-growth.md) | Transmutation | V, S | Magic Action | 150 ft. | Special | — |
-| [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Magic Action | Unlimited | One creature | — |
-| [Slow](/spell/level/3/slow.md) | Transmutation | V, S, M | Magic Action | 120 ft. | Up to six creatures | 1 minute (C) |
-| [Speak with Dead](/spell/level/3/speak-with-dead.md) | Necromancy | V, S, M | Magic Action | 10 ft. | One corpse with a mouth | 10 minutes |
-| [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Magic Action | — | Each plant in a 30-ft. Aura | 10 minutes |
-| [Stinking Cloud](/spell/level/3/stinking-cloud.md) | Conjuration | V, S, M | Magic Action | 90 ft. | Each creature in a 20-ft. radius Sphere | 1 minute (C) |
-| [Tiny Hut](/spell/level/3/tiny-hut.md) | Evocation | V, S, M | 1 minute (R) | Reach | A 10-ft. radius Aura | 8 hours |
-| [Tongues](/spell/level/3/tongues.md) | Divination | V, M | Magic Action | Reach | One creature | 1 hour |
+--8<-- "_generated/spell/level/3/antagonize_row.md"
+--8<-- "_generated/spell/level/3/bestow-curse_row.md"
+--8<-- "_generated/spell/level/3/cacophonic-shield_row.md"
+--8<-- "_generated/spell/level/3/clairvoyance_row.md"
+--8<-- "_generated/spell/level/3/dispel-magic_row.md"
+--8<-- "_generated/spell/level/3/enemies-abound_row.md"
+--8<-- "_generated/spell/level/3/fear_row.md"
+--8<-- "_generated/spell/level/3/feign-death_row.md"
+--8<-- "_generated/spell/level/3/glyph-of-warding_row.md"
+--8<-- "_generated/spell/level/3/hypnotic-pattern_row.md"
+--8<-- "_generated/spell/level/3/intellect-fortress_row.md"
+--8<-- "_generated/spell/level/3/locate-creature_row.md"
+--8<-- "_generated/spell/level/3/major-image_row.md"
+--8<-- "_generated/spell/level/3/mass-healing-word_row.md"
+--8<-- "_generated/spell/level/3/nondetection_row.md"
+--8<-- "_generated/spell/level/3/plant-growth_row.md"
+--8<-- "_generated/spell/level/3/sending_row.md"
+--8<-- "_generated/spell/level/3/slow_row.md"
+--8<-- "_generated/spell/level/3/speak-with-dead_row.md"
+--8<-- "_generated/spell/level/3/speak-with-plants_row.md"
+--8<-- "_generated/spell/level/3/stinking-cloud_row.md"
+--8<-- "_generated/spell/level/3/tiny-hut_row.md"
+--8<-- "_generated/spell/level/3/tongues_row.md"
 
 ## 4th-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Charm Monster](/spell/level/4/charm-monster.md) | Enchantment | V, S | Magic Action | 30 ft. | One creature | 1 hour |
-| [Compulsion](/spell/level/4/compulsion.md) | Enchantment | V, S | Magic Action | 30 ft. | Each creature you choose within 30 ft. | 1 minute (C) |
-| [Confusion](/spell/level/4/confusion.md) | Enchantment | V, S, M | Magic Action | 90 ft. | Everything in a 10-ft. radius Sphere | 1 minute (C) |
-| [Dimension Door](/spell/level/4/dimension-door.md) | Conjuration | V | Magic Action | 500 ft. | Self, and one Allied creature within Reach | — |
-| [Fount of Moonlight](/spell/level/4/fount-of-moonlight.md) | Evocation | V, S | Magic Action | — | Self | 10 minutes (C) |
-| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Magic Action | Reach | One Ally | 1 hour |
-| [Greater Invisibility](/spell/level/4/greater-invisibility.md) | Illusion | V, S | Magic Action | Reach | One creature | 1 minute (C) |
-| [Hallucinatory Terrain](/spell/level/4/hallucinatory-terrain.md) | Illusion | V, S, M | 10 minutes | 300 ft. | A 150-ft. Cube | 24 hours |
-| [Phantasmal Killer](/spell/level/4/phantasmal-killer.md) | Illusion | V, S | Magic Action | 120 ft. | One creature | 1 minute (C) |
-| [Polymorph](/spell/level/4/polymorph.md) | Transmutation | V, S, M | Magic Action | 60 ft. | One creature | 1 hour (C) |
+--8<-- "_generated/spell/level/4/charm-monster_row.md"
+--8<-- "_generated/spell/level/4/compulsion_row.md"
+--8<-- "_generated/spell/level/4/confusion_row.md"
+--8<-- "_generated/spell/level/4/dimension-door_row.md"
+--8<-- "_generated/spell/level/4/fount-of-moonlight_row.md"
+--8<-- "_generated/spell/level/4/freedom-of-movement_row.md"
+--8<-- "_generated/spell/level/4/greater-invisibility_row.md"
+--8<-- "_generated/spell/level/4/hallucinatory-terrain_row.md"
+--8<-- "_generated/spell/level/4/phantasmal-killer_row.md"
+--8<-- "_generated/spell/level/4/polymorph_row.md"
 
 ## 5th-Level
 
 | Spell | School | Components | Cast Time | Range | Target | Duration |
 |---|---|---|---|---|---|---|
-| [Awaken](/spell/level/5/awaken.md) | Transmutation | V, S, M ($C) | 8 hours | Reach | One Beast or Plant with an Intelligence of -4 or less, or one natural plant | — |
-| [Dominate Person](/spell/level/5/dominate-person.md) | Enchantment | V, S | Magic Action | 60 ft. | One Humanoid | 1 minute (C) |
-| [Dream](/spell/level/5/dream.md) | Illusion | V, S, M | 1 minute | — | One creature you know on your plane | 8 hours |
-| [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
-| [Greater Restoration](/spell/level/5/greater-restoration.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | One creature | — |
-| [Hold Monster](/spell/level/5/hold-monster.md) | Enchantment | V, S, M | Magic Action | 90 ft. | One creature | 1 minute (C) |
-| [Mass Cure Wounds](/spell/level/5/mass-cure-wounds.md) | Abjuration | V, S | Magic Action | 60 ft. | Up to 6 creatures in a 30-ft. radius Sphere | — |
-| [Mislead](/spell/level/5/mislead.md) | Illusion | S | Magic Action | — | Self | 1 hour (C) |
-| [Modify Memory](/spell/level/5/modify-memory.md) | Enchantment | V, S | Magic Action | 30 ft. | One creature | 1 minute (C) |
-| [Planar Binding](/spell/level/5/planar-binding.md) | Abjuration | V, S, M ($C) | 1 hour | — | One Celestial, Elemental, Fey, or Fiend in a 60-ft. Aura | 24 hours |
-| [Raise Dead](/spell/level/5/raise-dead.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One non-Undead creature that died within the past 10 days | — |
-| [Regal Presence](/spell/level/5/regal-presence.md) | Enchantment | V, S, M | Magic Action | — | Each creature you choose in a 10-ft. Aura | 1 minute (C) |
-| [Scrying](/spell/level/5/scrying.md) | Divination | V, S, M ($) | 10 minutes | — | One creature or location on your plane | 10 minutes (C) |
-| [Seeming](/spell/level/5/seeming.md) | Illusion | V, S | Magic Action | 30 ft. | Each creature you choose | 8 hours |
-| [Synaptic Static](/spell/level/5/synaptic-static.md) | Enchantment | V, S | Magic Action | 120 ft. | Each creature in a 20-ft. radius Sphere | — |
-| [Telepathic Bond](/spell/level/5/telepathic-bond.md) | Divination | V, S, M | Magic Action (R) | 30 ft. | Up to 8 Allies | 1 hour |
-| [Teleportation Circle](/spell/level/5/teleportation-circle.md) | Conjuration | V, M ($C) | 1 minute | 10 ft. | a 5-ft. radius Circle | Until the end of your next Turn |
+--8<-- "_generated/spell/level/5/awaken_row.md"
+--8<-- "_generated/spell/level/5/dominate-person_row.md"
+--8<-- "_generated/spell/level/5/dream_row.md"
+--8<-- "_generated/spell/level/5/geas_row.md"
+--8<-- "_generated/spell/level/5/greater-restoration_row.md"
+--8<-- "_generated/spell/level/5/hold-monster_row.md"
+--8<-- "_generated/spell/level/5/mass-cure-wounds_row.md"
+--8<-- "_generated/spell/level/5/mislead_row.md"
+--8<-- "_generated/spell/level/5/modify-memory_row.md"
+--8<-- "_generated/spell/level/5/planar-binding_row.md"
+--8<-- "_generated/spell/level/5/raise-dead_row.md"
+--8<-- "_generated/spell/level/5/regal-presence_row.md"
+--8<-- "_generated/spell/level/5/scrying_row.md"
+--8<-- "_generated/spell/level/5/seeming_row.md"
+--8<-- "_generated/spell/level/5/synaptic-static_row.md"
+--8<-- "_generated/spell/level/5/telepathic-bond_row.md"
+--8<-- "_generated/spell/level/5/teleportation-circle_row.md"

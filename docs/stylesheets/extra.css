@@ -1080,7 +1080,11 @@ body {
 .md-typeset .keyword-jump {
   position: sticky;
   top: 2.4rem;                        /* .md-header height */
-  z-index: 2;
+  z-index: 3;                         /* above the table scroll-shadow overlays
+                                         (.pm-tablewrap::before/::after, z-index 2)
+                                         so the shadow can't paint over a jump card
+                                         floating on a scrolling table; still below
+                                         the sticky site header (z-index 4). */
   margin: 0 0 1rem;
   padding: 0.4rem 0.6rem;
   font-size: 0.8rem;

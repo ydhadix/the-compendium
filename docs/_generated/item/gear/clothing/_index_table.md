@@ -1,6 +1,6 @@
 | Item | Type | Value |
 |---|---|---|
-| [Costume](/item/gear/clothing/costume.md) | Clothing (Clothes) | 5 gold |
-| [Fine Clothes](/item/gear/clothing/fine-clothes.md) | Clothing (Clothes) | 15 gold |
-| [Robe](/item/gear/clothing/robe.md) | Clothing (Clothes) | 1 gold |
-| [Traveler's Clothes](/item/gear/clothing/travelers-clothes.md) | Clothing (Clothes) | 2 gold |
+--8<-- "_generated/item/gear/clothing/costume_row.md"
+--8<-- "_generated/item/gear/clothing/fine-clothes_row.md"
+--8<-- "_generated/item/gear/clothing/robe_row.md"
+--8<-- "_generated/item/gear/clothing/travelers-clothes_row.md"

@@ -8,10 +8,6 @@ A ship's **Officers** are the crew members who command it in battle, each taking
 | [Quartermaster](quartermaster.md) |
 | [Spelljammer](spelljammer/index.md) |
 
-[Officers](#officers) · 
-[Changing Roles](#changing-roles)
-{ .keyword-jump }
-
 ## Changing Roles
 Officer roles are chosen before combat begins and usually don't change during an encounter, though they can shift mid-combat if circumstances demand.
 

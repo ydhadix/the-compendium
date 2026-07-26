@@ -1,10 +1,10 @@
 | Feat | Prerequisite | Class + Level |
 |---|---|---|
-| [Alert](/character/feat/origin/alert.md) | — | — |
-| [Crafter](/character/feat/origin/crafter.md) | — | — |
-| [Healer](/character/feat/origin/healer.md) | — | — |
-| [Lucky](/character/feat/origin/lucky.md) | — | — |
-| [Magic Initiate](/character/feat/origin/magic-initiate.md) | — | — |
-| [Musician](/character/feat/origin/musician.md) | — | — |
-| [Skilled](/character/feat/origin/skilled.md) | — | — |
-| [Tough](/character/feat/origin/tough.md) | — | — |
+--8<-- "_generated/character/feat/origin/alert_row.md"
+--8<-- "_generated/character/feat/origin/crafter_row.md"
+--8<-- "_generated/character/feat/origin/healer_row.md"
+--8<-- "_generated/character/feat/origin/lucky_row.md"
+--8<-- "_generated/character/feat/origin/magic-initiate_row.md"
+--8<-- "_generated/character/feat/origin/musician_row.md"
+--8<-- "_generated/character/feat/origin/skilled_row.md"
+--8<-- "_generated/character/feat/origin/tough_row.md"

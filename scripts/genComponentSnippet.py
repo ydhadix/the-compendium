@@ -48,7 +48,7 @@ def Main():
         for card in cards:
             row = C.RenderRow([C.Link(card)])
             written.append(C.WriteSnippet(card.path, row))
-            rows.append((card.title, row))
+            rows.append((card.title, C.RowInclude(card.path)))
         ordered = [row for (title, row) in sorted(rows, key=lambda entry: entry[0].lower())]
         C.WriteText(MIRROR_ROOT / officer / "_index_table.md", C.TableBlock(HEADER, ordered))
 

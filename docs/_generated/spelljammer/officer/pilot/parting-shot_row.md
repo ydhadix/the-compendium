@@ -1,0 +1,1 @@
+| [Parting Shot](#parting-shot) |  |  | ✓ |  | ✓ | ✓ | ✓ |

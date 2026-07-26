@@ -65,7 +65,7 @@ def Main():
                 classLevel, other = Prereqs(card)
                 row = C.RenderRow([C.Link(card), other, classLevel])
                 written.append(C.WriteSnippet(path, row))
-                records.append((card.title, row))
+                records.append((card.title, C.RowInclude(path)))
             records.sort(key=lambda rec: rec[0].lower())
             rows = [row for (title, row) in records]
             C.WriteText(C.MIRROR / folder.relative_to(C.DOCS) / "_index_table.md", C.TableBlock(HEADER, rows))

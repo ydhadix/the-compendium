@@ -1,8 +1,8 @@
 | Item | Type | Value |
 |---|---|---|
-| [Book](/item/gear/writing/book.md) | Other | 25 gold |
-| [Ink](/item/gear/writing/ink.md) | Other | 10 gold |
-| [Ink Pen](/item/gear/writing/ink-pen.md) | Other | 2 copper |
-| [Map](/item/gear/writing/map.md) | Other | 1 gold |
-| [Paper](/item/gear/writing/paper.md) | Other | 2 silver |
-| [Parchment](/item/gear/writing/parchment.md) | Other | 1 silver |
+--8<-- "_generated/item/gear/writing/book_row.md"
+--8<-- "_generated/item/gear/writing/ink_row.md"
+--8<-- "_generated/item/gear/writing/ink-pen_row.md"
+--8<-- "_generated/item/gear/writing/map_row.md"
+--8<-- "_generated/item/gear/writing/paper_row.md"
+--8<-- "_generated/item/gear/writing/parchment_row.md"

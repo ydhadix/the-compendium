@@ -1,6 +1,6 @@
 | Item | Type | Value |
 |---|---|---|
-| [Arcane Focus](/item/gear/spell-focus/arcane-focus.md) | Spellcasting Focus (Arcane Focus) | Value varies |
-| [Component Pouch](/item/gear/spell-focus/component-pouch.md) | Container (Pouch) | 25 gold |
-| [Druidic Focus](/item/gear/spell-focus/druidic-focus.md) | Spellcasting Focus (Druidic Focus) | Value varies |
-| [Holy Symbol](/item/gear/spell-focus/holy-symbol.md) | Spellcasting Focus (Holy Symbol) | Value varies |
+--8<-- "_generated/item/gear/spell-focus/arcane-focus_row.md"
+--8<-- "_generated/item/gear/spell-focus/component-pouch_row.md"
+--8<-- "_generated/item/gear/spell-focus/druidic-focus_row.md"
+--8<-- "_generated/item/gear/spell-focus/holy-symbol_row.md"

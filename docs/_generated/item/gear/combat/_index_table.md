@@ -1,7 +1,7 @@
 | Item | Type | Value |
 |---|---|---|
-| [Ammunition](/item/gear/combat/ammunition.md) | Ammunition | Value varies |
-| [Ball Bearings](/item/gear/combat/ball-bearings.md) | Other | 1 gold |
-| [Caltrops](/item/gear/combat/caltrops.md) | Other | 1 gold |
-| [Hunting Trap](/item/gear/combat/hunting-trap.md) | Other | 2 gold |
-| [Net](/item/gear/combat/net.md) | Other | 1 gold |
+--8<-- "_generated/item/gear/combat/ammunition_row.md"
+--8<-- "_generated/item/gear/combat/ball-bearings_row.md"
+--8<-- "_generated/item/gear/combat/caltrops_row.md"
+--8<-- "_generated/item/gear/combat/hunting-trap_row.md"
+--8<-- "_generated/item/gear/combat/net_row.md"

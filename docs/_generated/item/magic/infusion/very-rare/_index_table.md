@@ -5,24 +5,24 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Collar of Power](/item/magic/infusion/very-rare/collar-of-power.md) | Clothing (Jewelry) | Very Rare | No |
+--8<-- "_generated/item/magic/infusion/very-rare/collar-of-power_row.md"
 
 ## E
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Enspelled Armor](/item/magic/infusion/very-rare/enspelled-armor.md) | Armor (Any) | Very Rare | Yes |
-| [Enspelled Staff](/item/magic/infusion/very-rare/enspelled-staff.md) | Spellcasting Focus (Any) | Very Rare | Yes (Spellcaster) |
-| [Enspelled Weapon](/item/magic/infusion/very-rare/enspelled-weapon.md) | Weapon (Any) | Very Rare | Yes |
+--8<-- "_generated/item/magic/infusion/very-rare/enspelled-armor_row.md"
+--8<-- "_generated/item/magic/infusion/very-rare/enspelled-staff_row.md"
+--8<-- "_generated/item/magic/infusion/very-rare/enspelled-weapon_row.md"
 
 ## H
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Hammer of Polarity](/item/magic/infusion/very-rare/hammer-of-polarity.md) | Weapon (Hammer) | Very Rare | Yes (Spellcaster) |
+--8<-- "_generated/item/magic/infusion/very-rare/hammer-of-polarity_row.md"
 
 ## R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Ring of Shooting Stars](/item/magic/infusion/very-rare/ring-of-shooting-stars.md) | Clothing (Jewelry) | Very Rare | Yes (Spellcaster) |
+--8<-- "_generated/item/magic/infusion/very-rare/ring-of-shooting-stars_row.md"

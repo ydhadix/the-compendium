@@ -5,4 +5,4 @@
 
 | Creature | Level | Type |
 |---|---|---|
-| [Animated Broom](/bestiary/level/1/animated-broom.md) | 1 | Construct |
+--8<-- "_generated/bestiary/level/1/animated-broom_row.md"

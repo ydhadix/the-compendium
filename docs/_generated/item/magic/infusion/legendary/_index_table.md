@@ -5,12 +5,12 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Belt of Pocket Monsters](/item/magic/infusion/legendary/belt-of-pocket-monsters.md) | Clothing (Belt) | Legendary | Yes (Beast Master Ranger) |
+--8<-- "_generated/item/magic/infusion/legendary/belt-of-pocket-monsters_row.md"
 
 ## E
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Enspelled Armor](/item/magic/infusion/legendary/enspelled-armor.md) | Armor (Any) | Legendary | Yes |
-| [Enspelled Staff](/item/magic/infusion/legendary/enspelled-staff.md) | Spellcasting Focus (Any) | Legendary | Yes (Spellcaster) |
-| [Enspelled Weapon](/item/magic/infusion/legendary/enspelled-weapon.md) | Weapon (Any) | Legendary | Yes |
+--8<-- "_generated/item/magic/infusion/legendary/enspelled-armor_row.md"
+--8<-- "_generated/item/magic/infusion/legendary/enspelled-staff_row.md"
+--8<-- "_generated/item/magic/infusion/legendary/enspelled-weapon_row.md"

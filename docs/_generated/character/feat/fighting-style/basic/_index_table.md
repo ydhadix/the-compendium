@@ -1,23 +1,23 @@
 | Feat | Prerequisite | Class + Level |
 |---|---|---|
-| [Blessed Warrior](/character/feat/fighting-style/basic/blessed-warrior.md) | — | Paladin |
-| [Blind Fighting](/character/feat/fighting-style/basic/blind-fighting.md) | — | — |
-| [Brawling](/character/feat/fighting-style/basic/brawling.md) | — | — |
-| [Breaking](/character/feat/fighting-style/basic/breaking.md) | — | — |
-| [Charger](/character/feat/fighting-style/basic/charger.md) | — | — |
-| [Defensive](/character/feat/fighting-style/basic/defensive.md) | — | — |
-| [Druidic Warrior](/character/feat/fighting-style/basic/druidic-warrior.md) | — | Ranger |
-| [Dueling](/character/feat/fighting-style/basic/dueling.md) | — | — |
-| [Great Weapon Fighting](/character/feat/fighting-style/basic/great-weapon-fighting.md) | — | — |
-| [Mounted](/character/feat/fighting-style/basic/mounted.md) | — | — |
-| [Opportunist](/character/feat/fighting-style/basic/opportunist.md) | — | — |
-| [Protection](/character/feat/fighting-style/basic/protection.md) | — | — |
-| [Savage](/character/feat/fighting-style/basic/savage.md) | — | — |
-| [Sharpshooting](/character/feat/fighting-style/basic/sharpshooting.md) | — | — |
-| [Shield Defense](/character/feat/fighting-style/basic/shield-defense.md) | — | — |
-| [Shield Fighting](/character/feat/fighting-style/basic/shield-fighting.md) | — | — |
-| [Striking](/character/feat/fighting-style/basic/striking.md) | — | — |
-| [Throwing](/character/feat/fighting-style/basic/throwing.md) | — | — |
-| [Two-Weapon Fighting](/character/feat/fighting-style/basic/two-weapon-fighting.md) | — | — |
-| [Weapon Mastery](/character/feat/fighting-style/basic/weapon-mastery.md) | — | — |
-| [Weapon Training](/character/feat/fighting-style/basic/weapon-training.md) | — | — |
+--8<-- "_generated/character/feat/fighting-style/basic/blessed-warrior_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/blind-fighting_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/brawling_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/breaking_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/charger_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/defensive_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/druidic-warrior_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/dueling_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/great-weapon-fighting_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/mounted_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/opportunist_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/protection_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/savage_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/sharpshooting_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/shield-defense_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/shield-fighting_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/striking_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/throwing_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/two-weapon-fighting_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/weapon-mastery_row.md"
+--8<-- "_generated/character/feat/fighting-style/basic/weapon-training_row.md"

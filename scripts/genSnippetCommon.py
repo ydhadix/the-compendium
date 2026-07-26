@@ -1,8 +1,10 @@
 """Shared helpers for the snippet generators.
 
 Each generator reads h3 "card" files, emits one `<slug>_row.md` row per card into the
-`docs/_generated/` mirror tree, prunes rows whose source has gone, and writes `_table_<type>.md`
-aggregate tables shaped like the real host indices. Row links use the `/`-prefixed absolute form the site's
+`docs/_generated/` mirror tree, then composes `_index_table.md` aggregates that `--8<--` include
+those row snippets — so each row lives in exactly one file and refreshing a card re-flows every
+table that reuses it. Rows whose source has gone are pruned. Aggregate tables are shaped like the
+real host indices. Row links use the `/`-prefixed absolute form the site's
 `absolute_links: relative_to_docs` resolver expects; blank cells render as an em-dash.
 """
 
@@ -250,6 +252,21 @@ def WriteSnippet(sourcePath, rowText):
     target = MirrorRowPath(sourcePath)
     WriteText(target, rowText)
     return target
+
+
+def SnippetInclude(mirrorPath):
+    """A `--8<--` snippet directive for a mirror-tree file, by its `docs`-relative path."""
+    rel = mirrorPath.relative_to(DOCS).as_posix()
+    return f'--8<-- "{rel}"'
+
+
+def RowInclude(sourcePath):
+    """The `--8<--` directive that reuses a card's `_row.md` row snippet.
+
+    Aggregate tables embed this instead of the row text so each `_row.md` is the single source of
+    its row; refreshing the card re-flows every table that includes it.
+    """
+    return SnippetInclude(MirrorRowPath(sourcePath))
 
 
 def WriteBodySnippet(sourcePath, text):

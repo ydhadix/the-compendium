@@ -61,7 +61,7 @@ def Main():
             typeText, attunement = TypeAndAttunement(card.subtitle, rarityDisplay)
             row = C.RenderRow([C.Link(card), typeText, rarityDisplay, attunement])
             written.append(C.WriteSnippet(path, row))
-            records.append((card.title, row))
+            records.append((card.title, C.RowInclude(path)))
         C.WriteText(MIRROR_ROOT / rarity / "_index_table.md", C.LetterGrouped(HEADER, records))
     removed = C.PruneOrphans(MIRROR_ROOT, written)
     print(f"Magic items: wrote {len(written)} rows, pruned {removed}.")

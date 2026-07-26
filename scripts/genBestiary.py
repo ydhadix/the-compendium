@@ -199,9 +199,10 @@ def Main():
             row = LevelRow(card)
             rows.append(C.WriteSnippet(path, row))
             bodies.extend(WriteBodies(card))
-            levelRecords.append((card.title, row))
+            include = C.RowInclude(path)
+            levelRecords.append((card.title, include))
             for t in CreatureTypes(card.text):
-                byType[t].append((levelNum, card.title, row))
+                byType[t].append((levelNum, card.title, include))
         C.WriteText(MIRROR_ROOT / "level" / folder.name / "_index_table.md",
                     C.LetterGrouped(LEVEL_HEADER, levelRecords))
 
@@ -217,7 +218,7 @@ def Main():
         row = SummonRow(card)
         rows.append(C.WriteSnippet(path, row))
         bodies.extend(WriteBodies(card))
-        summonRecords.append((card.title, row))
+        summonRecords.append((card.title, C.RowInclude(path)))
     C.WriteText(MIRROR_ROOT / "summon" / "_index_table.md", C.LetterGrouped(SUMMON_HEADER, summonRecords))
 
     prunedBodies = C.PruneBodies(MIRROR_ROOT, bodies)

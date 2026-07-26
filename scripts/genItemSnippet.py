@@ -46,7 +46,7 @@ def Main():
         cards.append(card)
         row = C.RenderRow([C.Link(card), ItemType(card.subtitle), ItemValue(card.subtitle)])
         written.append(C.WriteSnippet(path, row))
-        byFolder.setdefault(path.parent, []).append((card.title, row))
+        byFolder.setdefault(path.parent, []).append((card.title, C.RowInclude(path)))
 
     for folder, entries in byFolder.items():
         rows = [row for (title, row) in sorted(entries, key=lambda entry: entry[0].lower())]

@@ -74,7 +74,7 @@ def Main():
         cards.append(card)
         row = BuildRow(card)
         written.append(C.WriteSnippet(path, row))
-        records.append((LevelNumber(card.subtitle), card.title.lower(), row))
+        records.append((LevelNumber(card.subtitle), card.title.lower(), C.RowInclude(path)))
     records.sort(key=lambda rec: (rec[0], rec[1]))
 
     rows = [row for (level, title, row) in records]

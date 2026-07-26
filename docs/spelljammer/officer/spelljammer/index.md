@@ -4,7 +4,6 @@ The **Spelljammer** sits at the ship's Helm and channels Spell Slots into Protoc
 
 While seated in the Ship's spelljamming Helm, the Spelljammer can expend Spell Slots to use Protocols — spell-like effects amplified for Ship Combat.
 
-[Spelljammer](#spelljammer) · 
 [Protocols](#protocols) · 
 [Casting Protocols](#casting-protocols) · 
 [Concentration](#concentration)
