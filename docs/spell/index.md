@@ -126,7 +126,7 @@ Some Spells require **Concentration** to maintain. Your Concentration ends when 
 | Time limit | If the effect has a maximum duration, your Concentration ends when that time passes. |
 | A second effect | If you start Concentrating on another effect, you end one of them. |
 | Damage | After you take damage, you make a Concentration Save to keep Concentrating. The DC equals **10** or half the damage taken (rounded down), whichever is higher, to a maximum of **30**. |
-| Incapacitation | Your Concentration ends if you become Incapacitated or die. |
+| Incapacitation | Your Concentration ends if you become Incapacitated, Downed, or die. |
 
 
 ### Overlapping Spells

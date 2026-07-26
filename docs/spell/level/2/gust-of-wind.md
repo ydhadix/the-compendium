@@ -14,7 +14,7 @@
 ##### Spell Effect
 The area blasts strong wind away from you and moves with you. A creature in the area that moves closer to you spends **1** extra foot of movement for each foot moved.
 
-After a target enters the area __(including when this Spell is cast or the area moves)__, it makes a Fortitude Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
+After a target enters the area _(including when this Spell is cast or the area moves)_, it makes a Fortitude Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

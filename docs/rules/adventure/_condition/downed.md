@@ -1,5 +1,6 @@
 ##### Downed
-- You are Dazed and Prone
+- You are Dazed and Prone.
+- Your Concentration is broken.
 - You drop anything you're holding.
 - Before you take an Action, you make a Fortitude Save _(DC **11**)_; on a failure, the Action has no effect.
 - After your Turn begins, you make a Death Save.

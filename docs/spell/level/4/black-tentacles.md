@@ -14,7 +14,7 @@
 ##### Spell Effect
 The area is Difficult Terrain.
 
-After a target enters the area __(including when this Spell is cast)__, it makes a Fortitude Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
+After a target enters the area _(including when this Spell is cast)_, it makes a Fortitude Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

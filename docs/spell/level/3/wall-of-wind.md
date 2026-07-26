@@ -16,7 +16,7 @@ The area can be shaped into any continuous path.
 
 Small or smaller flying creatures and objects can't pass through the area, nor can a creature in _Gaseous Form_.  Ordinary projectiles launched through the area automatically miss, though boulders and siege-engine projectiles are unaffected.
 
-After a target enters the area __(including when this Spell is cast)__, it makes a Fortitude Save.  After your Turn starts, everything in the area also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
+After a target enters the area _(including when this Spell is cast)_, it makes a Fortitude Save.  After your Turn starts, everything in the area also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|
