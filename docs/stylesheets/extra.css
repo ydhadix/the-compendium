@@ -1114,7 +1114,7 @@ body {
   scroll-margin-top: var(--pm-jump-offset, 6rem);
 }
 
-/* Cards (h2-level sections) and subcards (h5-level entries). */
+/* Cards (h3-level sections) and subcards (h5-level entries). */
 .card {
   border: 2px solid var(--clr-accent);
   border-radius: 4px;
@@ -1151,8 +1151,8 @@ body {
   .card,
   .subcard,
   .md-typeset .keyword-jump {
-    margin-left:   calc(-3/4 * var(--pm-pad-min));
-    margin-right:  calc(-3/4 * var(--pm-pad-min));
+    margin-left:   calc(-1/4 * var(--pm-pad-min));
+    margin-right:  calc(-1/4 * var(--pm-pad-min));
     padding-left:  calc(3/4 * var(--pm-pad-min));
     padding-right: calc(3/4 * var(--pm-pad-min));
   }
@@ -1161,8 +1161,8 @@ body {
   /* Nested subcard: drop the bleed so its border insets from the parent card's
      interior; restore the base horizontal padding it would have on desktop. */
   .card .subcard {
-    margin-left:   0;
-    margin-right:  0;
+    margin-left:   0.25rem;
+    margin-right:  0.25rem;
     padding-left:  0.75rem;
     padding-right: 0.75rem;
   }

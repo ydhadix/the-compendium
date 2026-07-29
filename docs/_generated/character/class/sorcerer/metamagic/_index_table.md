@@ -10,3 +10,23 @@
 --8<-- "_generated/character/class/sorcerer/metamagic/subtle-spell_row.md"
 --8<-- "_generated/character/class/sorcerer/metamagic/transmuted-spell_row.md"
 --8<-- "_generated/character/class/sorcerer/metamagic/twinned-spell_row.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/careful-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/distant-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/empowered-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/extended-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/heightened-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/quickened-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/seeking-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/subtle-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/transmuted-spell.md"
+
+--8<-- "_generated/character/class/sorcerer/metamagic/twinned-spell.md"

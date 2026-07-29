@@ -1,1 +1,1 @@
-| [Pact of the Blade](/character/class/warlock/invocation/pact-of-the-blade.md) | — | Warlock 1 |
+| [Pact of the Blade](#pact-of-the-blade) | — | Warlock 1 |

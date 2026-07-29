@@ -1,1 +1,1 @@
-| [Empowered Spell](/character/class/sorcerer/metamagic/empowered-spell.md) | — | — |
+| [Empowered Spell](#empowered-spell) | — | — |

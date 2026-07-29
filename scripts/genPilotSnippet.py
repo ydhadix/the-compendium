@@ -59,7 +59,7 @@ def BuildRow(card, columns):
     Built directly rather than through C.RenderRow so absent classes stay blank; the grid reads as
     a checklist, and an em-dash in every empty cell would drown the ✓ marks.
     """
-    link = f"[{card.title}](#{C.Slugify(card.title)})"
+    link = C.AnchorLink(card)
     classes = set(ManeuverClasses(C.MetaValue(card.text, "Class List")))
     cells = [link] + [CHECK if name in classes else "" for name in columns]
     return "| " + " | ".join(cells) + " |"

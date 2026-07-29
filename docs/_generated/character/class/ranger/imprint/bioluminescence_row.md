@@ -1,1 +1,1 @@
-| [Bioluminescence](/character/class/ranger/imprint/bioluminescence.md) | — | Ranger 1 |
+| [Bioluminescence](#bioluminescence) | — | Ranger 1 |

@@ -1,1 +1,1 @@
-| [Investment of the Chain Master](/character/class/warlock/invocation/investment-of-the-chain-master.md) | Pact of the Chain | Warlock 5 |
+| [Investment of the Chain Master](#investment-of-the-chain-master) | Pact of the Chain | Warlock 5 |

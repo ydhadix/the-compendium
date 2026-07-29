@@ -1,1 +1,1 @@
-| [Hold Breath](/character/class/ranger/imprint/hold-breath.md) | — | Ranger 1 |
+| [Hold Breath](#hold-breath) | — | Ranger 1 |

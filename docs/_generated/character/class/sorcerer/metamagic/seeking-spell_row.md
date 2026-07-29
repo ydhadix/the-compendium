@@ -1,1 +1,1 @@
-| [Seeking Spell](/character/class/sorcerer/metamagic/seeking-spell.md) | — | — |
+| [Seeking Spell](#seeking-spell) | — | — |

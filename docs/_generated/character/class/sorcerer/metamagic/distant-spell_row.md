@@ -1,1 +1,1 @@
-| [Distant Spell](/character/class/sorcerer/metamagic/distant-spell.md) | — | — |
+| [Distant Spell](#distant-spell) | — | — |

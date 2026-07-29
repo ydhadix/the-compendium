@@ -1,1 +1,1 @@
-| [Heightened Spell](/character/class/sorcerer/metamagic/heightened-spell.md) | — | — |
+| [Heightened Spell](#heightened-spell) | — | — |

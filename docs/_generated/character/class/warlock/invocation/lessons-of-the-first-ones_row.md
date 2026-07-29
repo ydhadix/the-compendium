@@ -1,1 +1,1 @@
-| [Lessons of the First Ones](/character/class/warlock/invocation/lessons-of-the-first-ones.md) | — | Warlock 1 |
+| [Lessons of the First Ones](#lessons-of-the-first-ones) | — | Warlock 1 |

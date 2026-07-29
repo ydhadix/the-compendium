@@ -1,1 +1,1 @@
-| [Twinned Spell](/character/class/sorcerer/metamagic/twinned-spell.md) | — | — |
+| [Twinned Spell](#twinned-spell) | — | — |

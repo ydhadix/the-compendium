@@ -1,5 +1,5 @@
 # Eldritch Invocations
-Eldritch Invocations are lasting gifts drawn from a Warlock's patron, each a permanent enhancement to their magic and abilities.
+**Eldritch Invocations** are lasting gifts drawn from a Warlock's patron, each a permanent enhancement to their magic and abilities.
 { .subtitle }
 
 <!-- | Invocation | Prerequisite | Class + Level | -->

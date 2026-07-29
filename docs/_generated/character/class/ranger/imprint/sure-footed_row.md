@@ -1,1 +1,1 @@
-| [Sure-Footed](/character/class/ranger/imprint/sure-footed.md) | — | Ranger 1 |
+| [Sure-Footed](#sure-footed) | — | Ranger 1 |

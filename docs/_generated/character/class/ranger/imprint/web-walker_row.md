@@ -1,1 +1,1 @@
-| [Web Walker](/character/class/ranger/imprint/web-walker.md) | — | Ranger 7 |
+| [Web Walker](#web-walker) | — | Ranger 7 |

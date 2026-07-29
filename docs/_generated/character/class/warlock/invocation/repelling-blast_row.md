@@ -1,1 +1,1 @@
-| [Repelling Blast](/character/class/warlock/invocation/repelling-blast.md) | a Warlock Cantrip with an Attack Roll | Warlock 2 |
+| [Repelling Blast](#repelling-blast) | a Warlock Cantrip with an Attack Roll | Warlock 2 |

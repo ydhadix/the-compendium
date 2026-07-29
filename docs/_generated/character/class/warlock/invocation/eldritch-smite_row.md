@@ -1,1 +1,1 @@
-| [Eldritch Smite](/character/class/warlock/invocation/eldritch-smite.md) | — | Warlock 2 |
+| [Eldritch Smite](#eldritch-smite) | — | Warlock 2 |

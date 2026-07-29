@@ -1,1 +1,1 @@
-| [Echolocation](/character/class/ranger/imprint/echolocation.md) | — | Ranger 7 |
+| [Echolocation](#echolocation) | — | Ranger 7 |

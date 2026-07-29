@@ -1,1 +1,1 @@
-| [Witch Sight](/character/class/warlock/invocation/witch-sight.md) | — | Warlock 10 |
+| [Witch Sight](#witch-sight) | — | Warlock 10 |

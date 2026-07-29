@@ -1,1 +1,1 @@
-| [Fiendish Vigor](/character/class/warlock/invocation/fiendish-vigor.md) | — | Warlock 2 |
+| [Fiendish Vigor](#fiendish-vigor) | — | Warlock 2 |

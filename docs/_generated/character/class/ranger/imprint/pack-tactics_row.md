@@ -1,1 +1,1 @@
-| [Pack Tactics](/character/class/ranger/imprint/pack-tactics.md) | — | Ranger 10 |
+| [Pack Tactics](#pack-tactics) | — | Ranger 10 |

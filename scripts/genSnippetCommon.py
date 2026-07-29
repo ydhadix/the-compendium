@@ -141,6 +141,15 @@ def Link(card):
     return f"[{card.title}]({card.sitePath})"
 
 
+def AnchorLink(card):
+    """Markdown link to a card's on-page toc anchor (`#<slug>`).
+
+    Use when the card's demoted body renders alongside the table (its h3 source page is
+    build-excluded), so the live target is the same-page heading, not the source path.
+    """
+    return f"[{card.title}](#{Slugify(card.title)})"
+
+
 def SplitPrereq(prereqText):
     """Split a 'Prerequisite:' body into (Class+Level, Other) cells.
 

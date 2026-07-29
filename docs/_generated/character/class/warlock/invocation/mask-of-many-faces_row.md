@@ -1,1 +1,1 @@
-| [Mask of Many Faces](/character/class/warlock/invocation/mask-of-many-faces.md) | — | Warlock 2 |
+| [Mask of Many Faces](#mask-of-many-faces) | — | Warlock 2 |

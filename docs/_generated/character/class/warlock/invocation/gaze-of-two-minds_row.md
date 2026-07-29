@@ -1,1 +1,1 @@
-| [Gaze of Two Minds](/character/class/warlock/invocation/gaze-of-two-minds.md) | — | Warlock 5 |
+| [Gaze of Two Minds](#gaze-of-two-minds) | — | Warlock 5 |

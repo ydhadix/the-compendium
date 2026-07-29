@@ -1,1 +1,1 @@
-| [One with Shadows](/character/class/warlock/invocation/one-with-shadows.md) | — | Warlock 5 |
+| [One with Shadows](#one-with-shadows) | — | Warlock 5 |

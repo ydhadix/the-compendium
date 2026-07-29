@@ -1,1 +1,1 @@
-| [Visions of Distant Realms](/character/class/warlock/invocation/visions-of-distant-realms.md) | — | Warlock 10 |
+| [Visions of Distant Realms](#visions-of-distant-realms) | — | Warlock 10 |

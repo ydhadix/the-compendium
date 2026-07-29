@@ -1,1 +1,1 @@
-| [Pact of the Tome](/character/class/warlock/invocation/pact-of-the-tome.md) | — | Warlock 1 |
+| [Pact of the Tome](#pact-of-the-tome) | — | Warlock 1 |

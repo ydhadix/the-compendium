@@ -1,1 +1,1 @@
-| [Agonizing Blast](/character/class/warlock/invocation/agonizing-blast.md) | a Warlock Cantrip that deals damage | Warlock 2 |
+| [Agonizing Blast](#agonizing-blast) | a Warlock Cantrip that deals damage | Warlock 2 |

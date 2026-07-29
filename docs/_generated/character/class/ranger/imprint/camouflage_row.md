@@ -1,1 +1,1 @@
-| [Camouflage](/character/class/ranger/imprint/camouflage.md) | — | Ranger 1 |
+| [Camouflage](#camouflage) | — | Ranger 1 |

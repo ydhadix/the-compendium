@@ -1,1 +1,1 @@
-| [Amphibious](/character/class/ranger/imprint/amphibious.md) | — | Ranger 4 |
+| [Amphibious](#amphibious) | — | Ranger 4 |

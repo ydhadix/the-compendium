@@ -1,1 +1,1 @@
-| [Burrower](/character/class/ranger/imprint/burrower.md) | — | Ranger 10 |
+| [Burrower](#burrower) | — | Ranger 10 |

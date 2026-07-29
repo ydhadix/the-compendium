@@ -1,1 +1,1 @@
-| [Master of Myriad Forms](/character/class/warlock/invocation/master-of-myriad-forms.md) | — | Warlock 5 |
+| [Master of Myriad Forms](#master-of-myriad-forms) | — | Warlock 5 |

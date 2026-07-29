@@ -9,6 +9,18 @@
 --8<-- "_generated/character/class/ranger/imprint/powerful-build_row.md"
 --8<-- "_generated/character/class/ranger/imprint/sure-footed_row.md"
 
+--8<-- "_generated/character/class/ranger/imprint/bioluminescence.md"
+
+--8<-- "_generated/character/class/ranger/imprint/camouflage.md"
+
+--8<-- "_generated/character/class/ranger/imprint/hold-breath.md"
+
+--8<-- "_generated/character/class/ranger/imprint/keen-senses.md"
+
+--8<-- "_generated/character/class/ranger/imprint/powerful-build.md"
+
+--8<-- "_generated/character/class/ranger/imprint/sure-footed.md"
+
 ### Level 4
 
 | Imprint | Prerequisite | Class + Level |
@@ -22,6 +34,22 @@
 --8<-- "_generated/character/class/ranger/imprint/roving_row.md"
 --8<-- "_generated/character/class/ranger/imprint/skittish_row.md"
 
+--8<-- "_generated/character/class/ranger/imprint/amphibious.md"
+
+--8<-- "_generated/character/class/ranger/imprint/cold-tolerance.md"
+
+--8<-- "_generated/character/class/ranger/imprint/heat-tolerance.md"
+
+--8<-- "_generated/character/class/ranger/imprint/jumper.md"
+
+--8<-- "_generated/character/class/ranger/imprint/mimicry.md"
+
+--8<-- "_generated/character/class/ranger/imprint/nocturnal.md"
+
+--8<-- "_generated/character/class/ranger/imprint/roving.md"
+
+--8<-- "_generated/character/class/ranger/imprint/skittish.md"
+
 ### Level 7
 
 | Imprint | Prerequisite | Class + Level |
@@ -31,9 +59,21 @@
 --8<-- "_generated/character/class/ranger/imprint/glider_row.md"
 --8<-- "_generated/character/class/ranger/imprint/web-walker_row.md"
 
+--8<-- "_generated/character/class/ranger/imprint/amorphous.md"
+
+--8<-- "_generated/character/class/ranger/imprint/echolocation.md"
+
+--8<-- "_generated/character/class/ranger/imprint/glider.md"
+
+--8<-- "_generated/character/class/ranger/imprint/web-walker.md"
+
 ### Level 10
 
 | Imprint | Prerequisite | Class + Level |
 |---|---|---|
 --8<-- "_generated/character/class/ranger/imprint/burrower_row.md"
 --8<-- "_generated/character/class/ranger/imprint/pack-tactics_row.md"
+
+--8<-- "_generated/character/class/ranger/imprint/burrower.md"
+
+--8<-- "_generated/character/class/ranger/imprint/pack-tactics.md"

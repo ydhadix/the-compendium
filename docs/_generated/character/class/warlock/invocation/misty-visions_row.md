@@ -1,1 +1,1 @@
-| [Misty Visions](/character/class/warlock/invocation/misty-visions.md) | — | Warlock 2 |
+| [Misty Visions](#misty-visions) | — | Warlock 2 |

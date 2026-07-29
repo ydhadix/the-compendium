@@ -1,1 +1,1 @@
-| [Powerful Build](/character/class/ranger/imprint/powerful-build.md) | — | Ranger 1 |
+| [Powerful Build](#powerful-build) | — | Ranger 1 |

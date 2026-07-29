@@ -55,6 +55,12 @@ exclude_docs: | # files/folders in docs/ that we don't want compiled
   !spelljammer/creation/component/spelljammer/index.md
   spelljammer/officer/pilot/*.md
   !spelljammer/officer/pilot/index.md
+  character/class/ranger/imprint/*.md
+  !character/class/ranger/imprint/index.md
+  character/class/sorcerer/metamagic/*.md
+  !character/class/sorcerer/metamagic/index.md
+  character/class/warlock/invocation/*.md
+  !character/class/warlock/invocation/index.md
 
 not_in_nav: | # collection dirs whose entry pages aren't in nav
   character/class/*/*/*

@@ -1,1 +1,1 @@
-| [Gift of the Protectors](/character/class/warlock/invocation/gift-of-the-protectors.md) | Pact of the Tome | Warlock 7 |
+| [Gift of the Protectors](#gift-of-the-protectors) | Pact of the Tome | Warlock 7 |

@@ -1,1 +1,1 @@
-| [Otherworldly Leap](/character/class/warlock/invocation/otherworldly-leap.md) | — | Warlock 2 |
+| [Otherworldly Leap](#otherworldly-leap) | — | Warlock 2 |

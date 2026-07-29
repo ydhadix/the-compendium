@@ -1,1 +1,1 @@
-| [Amorphous](/character/class/ranger/imprint/amorphous.md) | — | Ranger 7 |
+| [Amorphous](#amorphous) | — | Ranger 7 |

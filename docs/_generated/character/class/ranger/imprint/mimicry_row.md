@@ -1,1 +1,1 @@
-| [Mimicry](/character/class/ranger/imprint/mimicry.md) | — | Ranger 4 |
+| [Mimicry](#mimicry) | — | Ranger 4 |
