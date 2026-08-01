@@ -896,8 +896,10 @@ body {
 .playlist .md-typeset__table { padding-top: 0; }
 .playlist .pm-tablewrap { margin-left: 0; margin-right: 0; }   /* no mobile bleed past the frame */
 
-/* Material wraps tables in divs; zero margins so adjacent tables stack flush. */
-.md-typeset__scrollwrap { margin: 0; padding-bottom: 8px; }
+/* Material wraps tables in divs; zero margins so adjacent tables stack flush.
+   --pm-scroll-gap is the scrollbar-clearance gutter below the table; the overlay
+   bottom tracks it, so setting it once (e.g. to 0) moves both together. */
+.md-typeset__scrollwrap { margin: 0; padding-bottom: var(--pm-scroll-gap, 8px); }
 .md-typeset__table { display: block; width: 100%; padding-top: 0.1em; margin: 0; padding-left: 0; padding-right: 0; }
 .md-typeset__table table { width: auto; min-width: 100%; table-layout: auto; }
 
@@ -911,7 +913,7 @@ body {
   content: "";
   position: absolute;
   top: 0.1em;                        /* clear .md-typeset__table's padding-top */
-  bottom: 8px;                       /* clear the scroller's padding-bottom / scrollbar */
+  bottom: var(--pm-scroll-gap, 8px); /* track the scroller's padding-bottom / scrollbar */
   width: 1.5rem;
   pointer-events: none;
   opacity: 0;
@@ -992,35 +994,51 @@ body {
 }
 .subcard > h5:first-child { margin-top: 0; padding-top: 0; }
 
-/* Mobile (< 60em): bleed cards, subcards, and the jump bar to the viewport
-   edges. The content inset equals --pm-pad-min here (the clamp floors there), so
-   a negative margin of that size reaches the edge and an equal padding restores
-   the interior. All three bleed by the same amount so their borders line up. A
-   subcard nested in a card keeps its inset (no bleed). */
+/* Mobile (< 60em): top-level cards, subcards, tables, and the jump bar bleed
+   their borders out by --pm-bleed toward the screen edge; --pm-inset is the
+   padding from any card/subcard border to its content or nested child. Nested
+   containers drop the bleed and sit --pm-inset inside their parent. */
 @media screen and (max-width: 59.9375em) {
+  :root {
+    --pm-bleed: calc(var(--pm-pad-min) / 2);   /* border → screen edge */
+    --pm-inset: 1.0rem;                         /* border → content / nested child */
+    --pm-inset-b: var(--pm-inset);              /* last item → bottom edge */
+  }
+
+  .card,
+  .subcard,
+  .md-typeset .keyword-jump,
+  .pm-tablewrap,
+  .md-typeset__scrollwrap {
+    margin-left:  calc(-1 * var(--pm-bleed));
+    margin-right: calc(-1 * var(--pm-bleed));
+  }
   .card,
   .subcard,
   .md-typeset .keyword-jump {
-    margin-left:   calc(-1/4 * var(--pm-pad-min));
-    margin-right:  calc(-1/4 * var(--pm-pad-min));
-    padding-left:  calc(3/4 * var(--pm-pad-min));
-    padding-right: calc(3/4 * var(--pm-pad-min));
+    padding-left:  var(--pm-inset);
+    padding-right: var(--pm-inset);
   }
+  .card,
+  .subcard { padding-bottom: var(--pm-inset-b); }
   .subcard { margin-bottom: 0; }
-
-  /* Nested subcard: drop the bleed, restore the desktop horizontal padding. */
-  .card .subcard {
-    margin-left:   0.25rem;
-    margin-right:  0.25rem;
-    padding-left:  0.75rem;
-    padding-right: 0.75rem;
-  }
-  /* Bleed wide tables to the viewport edges. With tables.js the bleed lives on
-     .pm-tablewrap (so the scroll-shadow overlays land on the true edges); the
-     bare-scrollwrap rule is the fallback before/without that JS. */
-  .md-typeset__scrollwrap { margin-left: -0.8rem; margin-right: -0.8rem; }
-  .pm-tablewrap { margin-left: -0.8rem; margin-right: -0.8rem; }
+  /* Last child sits exactly --pm-inset-b off the bottom: drop its own bottom
+     margin (text, lists) and the scroller's scrollbar gutter (tables) so neither
+     stacks onto the knob. Zeroing --pm-scroll-gap moves the table's overlays too. */
+  .card > :last-child,
+  .subcard > :last-child { margin-bottom: 0; }
+  .card > .pm-tablewrap:last-child,
+  .card > .md-typeset__scrollwrap:last-child,
+  .subcard > .pm-tablewrap:last-child,
+  .subcard > .md-typeset__scrollwrap:last-child { --pm-scroll-gap: 0; }
   .pm-tablewrap > .md-typeset__scrollwrap { margin-left: 0; margin-right: 0; }
+
+  /* Nested: no bleed — border at the parent's content edge. */
+  .card .subcard { margin-left: 0; margin-right: 0; }
+  .card .pm-tablewrap,    .card .md-typeset__scrollwrap,
+  .subcard .pm-tablewrap, .subcard .md-typeset__scrollwrap {
+    margin-left: 0; margin-right: 0;
+  }
 }
 
 /* =========================================================================
