@@ -1,3 +1,6 @@
+Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
+{ .keyword-jump }
+
 - Components with `($)` require valuable components. Components with `($C)` consume those components.
 - Cast Times with `(R)` can be cast as a Ritual.
 - Durations with `(C)` require Concentration.

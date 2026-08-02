@@ -12,6 +12,22 @@ LEVELS = (0, 1, 2, 3, 4, 5, 6)
 CLASSES = ("artificer", "bard", "cleric", "druid", "paladin", "ranger", "sorcerer", "warlock", "wizard")
 HEADER = ("Spell", "School", "Components", "Cast Time", "Range", "Target", "Duration")
 ORDINALS = {1: "1st", 2: "2nd", 3: "3rd", 4: "4th", 5: "5th", 6: "6th"}
+
+# Each class's spell-level range for the jump rail, as (lowest, highest) Level.
+# The rail shows every Level in this range; ones with no spells yet render greyed
+# (e.g. an empty 6th on a full caster). Half-casters (Artificer, Paladin, Ranger)
+# cap at 3rd; Paladin and Ranger start at 1st, having no Cantrips.
+CLASS_LEVELS = {
+    "artificer": (0, 3),
+    "bard":      (0, 6),
+    "cleric":    (0, 6),
+    "druid":     (0, 6),
+    "paladin":   (1, 3),
+    "ranger":    (1, 3),
+    "sorcerer":  (0, 6),
+    "warlock":   (0, 6),
+    "wizard":    (0, 6),
+}
 LEGEND = (
     "- Components with `($)` require valuable components. Components with `($C)` consume those components.\n"
     "- Cast Times with `(R)` can be cast as a Ritual.\n"
@@ -86,6 +102,25 @@ def LevelName(level):
     return "Cantrips" if level == 0 else ORDINALS[level] + "-Level"
 
 
+def ClassRail(className, populated):
+    """The `{ .keyword-jump }` level rail for a class: 'Spell Level · Cantrip · 1st …',
+    linking the Levels in `populated` and greying the empty ones in the class's range.
+    The range always extends to cover any populated Level, so every section the table
+    emits has a rail entry even if it sits above the nominal cap."""
+    low, high = CLASS_LEVELS[className]
+    if populated:
+        high = max(high, max(populated))
+    buckets = [("Spell Level", "")]
+    active = set()
+    for level in range(low, high + 1):
+        anchor = LevelName(level).lower()   # heading id: 'cantrips', '1st-level', …
+        label = "Cantrip" if level == 0 else ORDINALS[level]
+        buckets.append((label, anchor))
+        if level in populated:
+            active.add(anchor)
+    return C.JumpNav(buckets, active)
+
+
 def SourceCards(level):
     """Spell card files for one level, excluding the index and legacy `_list.md` snippets."""
     found = []
@@ -99,8 +134,10 @@ def SourceCards(level):
 
 
 def ClassExample(className, records):
-    """Per-class example: the legend, then a `## Level` section + table for each populated level."""
-    parts = [LEGEND, ""]
+    """Per-class example: the jump rail, the legend, then a `## Level` section + table
+    for each populated level."""
+    populated = {lv for (lv, slug, row, classes) in records if className in classes}
+    parts = [ClassRail(className, populated), "", LEGEND, ""]
     for level in LEVELS:
         rows = [row for (lv, slug, row, classes) in records if lv == level and className in classes]
         if len(rows) > 0:
