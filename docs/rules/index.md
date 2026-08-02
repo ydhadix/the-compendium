@@ -1,11 +1,5 @@
 # Rules Rolodex
 
-| |
-|---|
-| [Adventuring](adventure/index.md) |
-| [Dice Rolls](dice/index.md) |
-| [Positioning](position/index.md) |
-
 ## Keyword Index
 
 [Rules Rolodex](#rules-rolodex) · 

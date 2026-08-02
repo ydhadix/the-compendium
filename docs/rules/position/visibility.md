@@ -28,13 +28,6 @@
 
 ## Senses
 
-[Blindsight](#blindsight) · 
-[Darkvision](#darkvision) · 
-[Devil's Sight](#devils-sight) · 
-[Tremorsense](#tremorsense) · 
-[Truesight](#truesight)
-{ .keyword-jump }
-
 **Senses** are the ways a creature perceives its surroundings beyond ordinary sight.
 
 Most senses have a range, in feet; anything beyond that range is unaffected by the Sense.  If you gain the same Sense from more than one effect, add their ranges together.

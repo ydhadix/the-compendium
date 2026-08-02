@@ -7,12 +7,6 @@ source: /character/class/ranger/beast-master.md#3-primal-companion
 A **Primal Companion** is the loyal beast bonded to a ranger by the [Beast Master](/character/class/ranger/beast-master.md#3-primal-companion) subclass.
 { .subtitle }
 
-[Primal Companion](#primal-companion) · 
-[Land](#primal-companion-land) · 
-[Sea](#primal-companion-sea) · 
-[Sky](#primal-companion-sky)
-{ .keyword-jump }
-
 ### Primal Companion: Land
 Medium Beast, Neutral
 { .subtitle }

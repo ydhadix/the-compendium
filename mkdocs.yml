@@ -34,6 +34,7 @@ extra_javascript:
   - javascripts/meganav.js
   - javascripts/localnav.js
   - javascripts/keywordjump.js
+  - javascripts/backtotop.js
 
 exclude_docs: | # files/folders in docs/ that we don't want compiled
   _changelogs

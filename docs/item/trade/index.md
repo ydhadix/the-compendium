@@ -2,11 +2,6 @@
 **Trades** are the crafts and pastimes a character can train in, each with its own tools and the skills to put them to use.
 { .subtitle }
 
-[Artisan's Tools](#artisans-tools) · 
-[Gaming Sets](#gaming-sets) · 
-[Musical Instruments](#musical-instruments)
-{ .keyword-jump }
-
 ### Artisan's Tools
 **Artisan's Tools** are the implements of a skilled craft, letting a Proficient character craft and repair the goods of their trade.
 

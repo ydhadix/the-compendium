@@ -2,17 +2,6 @@
 This page details building a vessel from the ground up, choosing its size, hull, defenses, and the components its crew will command.
 { .subtitle }
 
-| |
-|---|
-| [Ship Bases](base/index.md) |
-| [Ship Components](component/index.md) |
-
-[Creating a Ship](#creating-a-ship) · 
-[Ship Size](#ship-size) · 
-[Hull Material](#hull-material) · 
-[Defenses](#defenses)
-{ .keyword-jump }
-
 ### Ship Size
 A Ship's size is measured by its length and width, in feet.  For every 30 feet of the Ship's longest dimension (rounded up), its **Size Class** increases by **1**.
 

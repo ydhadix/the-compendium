@@ -2,18 +2,6 @@
 **Ship Components** are the installed systems that expand what a ship can do, each tied to one of its Officers and the role they command.
 { .subtitle }
 
-| |
-|---|
-| [Pilot Components](pilot/index.md) |
-| [Quartermaster Components](quartermaster/index.md) |
-| [Spelljammer Helms](spelljammer/index.md) |
-
-[Ship Components](#ship-components) · 
-[Components in Combat](#components-in-combat) · 
-[Disabling Components](#disabling-components) · 
-[Destroying Components](#destroying-components)
-{ .keyword-jump }
-
 ### Components in Combat
 Components that have their own Armor Class and Hull Points can be attacked, just as a Ship's hull is.  A Component without combat statistics can't be attacked.
 

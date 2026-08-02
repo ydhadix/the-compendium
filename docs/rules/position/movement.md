@@ -28,15 +28,6 @@ You can't willingly end your move in another creature's space. If you end your T
 
 ## Types of Movement
 
-[Burrowing](#burrowing) · 
-[Climbing](#climbing) · 
-[Falling](#falling) · 
-[Flying](#flying) · 
-[Jumping](#jumping) · 
-[Propelled](#propelled) · 
-[Swimming](#swimming)
-{ .keyword-jump }
-
 ### Burrowing
 **Burrowing** is moving through soft ground, such as earth, sand, or mud.  A **Burrow Speed** lets you burrow, otherwise burrowing requires significant tools and time to make progress.
 

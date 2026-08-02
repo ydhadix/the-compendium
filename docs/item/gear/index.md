@@ -2,33 +2,8 @@
 **Adventuring Gear** is the equipment a character carries into the field beyond weapons, armor, and magic items.
 { .subtitle }
 
-| |
-|---|
-| [Clothing](clothing/index.md) |
-| [Combat Gear](combat/index.md) |
-| [Containers](container/index.md) |
-| [Crafting Materials](material/index.md) |
-| [Light Sources](lighting/index.md) |
-| [Potions](potion/index.md) |
-| [Poisons](poison/index.md) |
-| [Scrolls](scroll/index.md) |
-| [Spellcasting Focuses](spell-focus/index.md) |
-| [Survival Gear](survival/index.md) |
-| [Tools](tool/index.md) |
-| [Writing Supplies](writing/index.md) |
-
 ## Gear Packs
 **Gear Packs** are ready-made bundles of equipment that are usually cheaper than buying its pieces individually.
-
-[Adventuring Gear](#adventuring-gear) · 
-[Burglar's Pack](#burglars-pack) · 
-[Diplomat's Pack](#diplomats-pack) · 
-[Dungeoneer's Pack](#dungeoneers-pack) · 
-[Entertainer's Pack](#entertainers-pack) · 
-[Explorer's Pack](#explorers-pack) · 
-[Priest's Pack](#priests-pack) · 
-[Scholar's Pack](#scholars-pack)
-{ .keyword-jump }
 
 ### Burglar's Pack
 16 gold

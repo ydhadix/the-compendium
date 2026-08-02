@@ -2,18 +2,6 @@
 **Spelljamming** is the art of sailing magical ships across the void between worlds.
 { .subtitle }
 
-| |
-|---|
-| [Ship Encounters](encounter.md) |
-| [Ship Officers](officer/index.md) |
-| [Creating a Ship](creation/index.md) |
-
-[Spelljammer Schematic](#spelljammer-schematic) · 
-[Gravity](#gravity) · 
-[Atmosphere](#atmosphere) · 
-[Air Envelopes](#air-envelopes)
-{ .keyword-jump }
-
 ## Gravity
 There are three types of **Gravity**:
 

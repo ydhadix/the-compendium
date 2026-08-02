@@ -2,13 +2,6 @@
 **Armor** is the protective gear a character dons to guard against attacks.
 { .subtitle }
 
-[Unarmored](#unarmored) · 
-[Light Armor](#light-armor) · 
-[Medium Armor](#medium-armor) · 
-[Heavy Armor](#heavy-armor) · 
-[Shields](#shields)
-{ .keyword-jump }
-
 ## Wearing Armor
 Your armor's weight determines how quickly you can don and doff it.
 

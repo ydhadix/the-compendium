@@ -19,11 +19,6 @@ An Ally may still disagree with the party, and an Enemy might be talked into neg
 
 ## Types of Allies
 
-[Companions](#companions) · 
-[Familiars](#familiars) · 
-[Mounts](#mounts)
-{ .keyword-jump }
-
 ### Companions
 Some Spells and features grant **Companions**, summoned Allies you share a magical link with, that travel with you and aid you in combat and exploration.
 

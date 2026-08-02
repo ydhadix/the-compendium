@@ -1,24 +1,5 @@
 # Magic Items
 
-| |
-|---|
-| [Common](infusion/common/index.md) |
-| [Uncommon](infusion/uncommon/index.md) |
-| [Rare](infusion/rare/index.md) |
-| [Very Rare](infusion/very-rare/index.md) |
-| [Legendary](infusion/legendary/index.md) |
-| [Artifacts](infusion/artifact/index.md) |
-| [Unique](infusion/unique/index.md) |
-
-[Magic Items](#magic-items) · 
-[Identification](#identification) · 
-[Attunement](#attunement) · 
-[Charges](#charges) · 
-[Command Words](#command-words) · 
-[Cursed Items](#cursed-items) · 
-[Infusing Items](#infusing-items)
-{ .keyword-jump }
-
 ## Using Magic Items
 **Magic Items** are ordinary gear powered by **Infusions**, magical properties beyond what mundane craftsmanship can achieve.
 

@@ -1,26 +1,5 @@
 # Spell Selection
 
-| |
-|---|
-| [Spells by Level](level/index.md) |
-| [Spells by Class](class/index.md) |
-
-[Spell Selection](#spell-selection) · 
-[Spell Level](#spell-level) · 
-[Schools of Magic](#schools-of-magic) · 
-[Spell Lists](#spell-lists) · 
-[Gaining Spells](#gaining-spells) · 
-[Spellcasting Ability](#spellcasting-ability) · 
-[Spell Slots](#spell-slots) · 
-[Components](#components) · 
-[Casting Time](#casting-time) · 
-[Duration](#duration) · 
-[Concentration](#concentration) · 
-[Overlapping Spells](#overlapping-spells) · 
-[Identifying Spells](#identifying-spells) · 
-[Multiclass Spellcasting](#multiclass-spellcasting)
-{ .keyword-jump }
-
 ## Using Spells
 **Spells** are magical effects used by Spellcasters and Magic Items.
 

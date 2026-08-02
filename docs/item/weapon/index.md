@@ -2,18 +2,6 @@
 **Weapons** are the arms a character wields to deal damage.
 { .subtitle }
 
-[Simple Weapons](#simple-weapons) · 
-[Improvised Weapons](#improvised-weapons) · 
-[Martial Weapons](#martial-weapons) · 
-[Unarmed Strikes](#unarmed-strikes) · 
-[Natural Weapons](#natural-weapons)
-{ .keyword-jump }
-
-| |
-|---|
-| [Weapon Properties](property/index.md) |
-| [Weapon Mastery](mastery/index.md) |
-
 ## Wielding Weapons
 #### Drawing and Stowing
 You can draw or stow one weapon before or after each attack. You can draw or stow additional weapons with the Utilize Action.

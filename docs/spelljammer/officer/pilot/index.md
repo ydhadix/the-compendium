@@ -40,20 +40,5 @@ A Pilot learns **Maneuvers** based on their Class Levels.  You can use a Maneuve
 
 Whenever a Pilot Maneuver refers to a Ship's AC, or to Attacks made against a Ship, this means the AC of the hull as well as all the Ship's Weapons.
 
-[Barrel Roll](#barrel-roll) · 
-[Parting Shot](#parting-shot) · 
-[Punch It](#punch-it) · 
-[Ride the Current](#ride-the-current) · 
-[Rolling Scissors](#rolling-scissors)<br>
-[Collision Course](#collision-course) · 
-[High Loop](#high-loop) · 
-[Ironclad](#ironclad) · 
-[Serpentine](#serpentine)<br>
-[Bombing Run](#bombing-run) · 
-[Evasive Maneuvers](#evasive-maneuvers) · 
-[Locked On](#locked-on) · 
-[Ramming Speed](#ramming-speed)
-{ .keyword-jump }
-
 
 --8<-- "_generated/spelljammer/officer/pilot/_index_table.md"

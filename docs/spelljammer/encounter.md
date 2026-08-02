@@ -2,12 +2,6 @@
 Combat between ships is fought Turn by Turn as each crew's Officers steer, fire, and work their magic in Initiative order.
 { .subtitle }
 
-[Ship Encounters](#ship-encounters) · 
-[Ship Initiative](#ship-initiative) · 
-[Encounter Scale](#encounter-scale) · 
-[Leviathans](#leviathans)
-{ .keyword-jump }
-
 ## Ship Initiative
 Ship Encounters begin when a Ship becomes aware of a threat, such as an Enemy Ship or a Leviathan-sized creature.  When a Ship rolls Initiative, one of its Officers rolls for it using that Officer's Initiative bonus. The result is shared by the Ship's crew and passengers.
 

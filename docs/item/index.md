@@ -1,21 +1,5 @@
 # Item Index
 
-| |
-|---|
-| [Adventuring Gear](gear/index.md) |
-| [Trades](trade/index.md) |
-| [Weapons](weapon/index.md) |
-| [Armor](armor.md) |
-| [Magic Items](magic/index.md) |
-
-[Item Index](#item-index) · 
-[Item Types](#item-types) · 
-[Consumables](#consumable-items) · 
-[Currency](#currency) · 
-[Crafting Items](#crafting-items) · 
-[Masterwork](#masterwork)
-{ .keyword-jump }
-
 ## Using Items
 **Items** are the equipment, weapons, and armor an adventurer uses.
 

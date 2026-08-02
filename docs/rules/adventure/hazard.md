@@ -2,15 +2,6 @@
 A **Hazard** is one of the many natural dangers while adventuring.
 { .subtitle }
 
-[Air Quality](#air-quality) · 
-[Dehydration](#dehydration) · 
-[Extreme Cold](#extreme-cold) · 
-[Extreme Heat](#extreme-heat) · 
-[Sleep Deprivation](#sleep-deprivation) · 
-[Starvation](#starvation) · 
-[Suffocation](#suffocation)
-{ .keyword-jump }
-
 ### Air Quality
 There are three levels of Air Quality.
 

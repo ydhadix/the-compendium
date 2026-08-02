@@ -9,19 +9,6 @@ A **Normal Action** is the most common kind of Action.
 
 The following Normal Actions are available to every creature, and some features add new ways to use them. You can also attempt an Action not listed here; the DM tells you whether it's possible and what roll, if any, it needs.
 
-[Attack](#attack) · 
-[Dash](#dash) · 
-[Disengage](#disengage) · 
-[Dodge](#dodge) · 
-[Help](#help) · 
-[Hide](#hide) · 
-[Magic](#magic) · 
-[Ready](#ready) · 
-[Search](#search) · 
-[Study](#study) · 
-[Utilize](#utilize)
-{ .keyword-jump }
-
 ##### Attack
 You make **1** Attack Roll with a Weapon or Unarmed Strike.
 

@@ -1,20 +1,5 @@
 # Creature Codex
 
-| |
-|---|
-| [Bestiary of Summons](summon/index.md) |
-| [Bestiary by Level](level/index.md) |
-| [Bestiary by Creature Type](type/index.md) |
-
-[Features](#features) · 
-[Traits](#traits) · 
-[Creature Type](#creature-type) · 
-[Alignment](#alignment) · 
-[Size](#size-category) · 
-[Reach](#reach) · 
-[Languages](#languages)
-{ .keyword-jump }
-
 ## Features
 **Features** are the special techniques and effects a creature uses to interact with the world and defend themselves in combat.
 

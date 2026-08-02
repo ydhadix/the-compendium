@@ -16,24 +16,6 @@ Each background includes the following parts:
 
 ## Example Backgrounds
 
-[Acolyte](#acolyte) · 
-[Artisan](#artisan) · 
-[Charlatan](#charlatan) · 
-[Criminal](#criminal) · 
-[Entertainer](#entertainer) · 
-[Farmer](#farmer) · 
-[Guard](#guard) · 
-[Guide](#guide) · 
-[Hermit](#hermit) · 
-[Merchant](#merchant) · 
-[Noble](#noble) · 
-[Sage](#sage) · 
-[Sailor](#sailor) · 
-[Scribe](#scribe) · 
-[Soldier](#soldier) · 
-[Wayfarer](#wayfarer)
-{ .keyword-jump }
-
 ### Acolyte
 | | |
 |---|---|

@@ -7,12 +7,6 @@ source: /spell/level/3/summon-construct.md
 A **Construct Spirit** is a Companion conjured by the [Summon Construct](/spell/level/3/summon-construct.md) spell.
 { .subtitle }
 
-[Construct Spirit](#construct-spirit) · 
-[Clay](#construct-spirit-clay) · 
-[Metal](#construct-spirit-metal) · 
-[Stone](#construct-spirit-stone)
-{ .keyword-jump }
-
 ### Construct Spirit: Clay
 Medium Construct, Neutral
 { .subtitle }

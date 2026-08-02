@@ -1,17 +1,5 @@
 # Hero Handbook
 
-| |
-|---|
-| [Backgrounds](background.md) |
-| [Races](race/index.md) |
-| [Classes](class/index.md) |
-| [Feats](feat/index.md) |
-
-[Hero Handbook](#hero-handbook) · 
-[Character Creation](#character-creation) · 
-[Starting at Higher Levels](#starting-at-higher-levels)
-{ .keyword-jump }
-
 ## Character Creation
 
 ### 1. Choose Abilities

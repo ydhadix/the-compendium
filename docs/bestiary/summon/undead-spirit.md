@@ -7,12 +7,6 @@ source: /spell/level/3/summon-undead.md
 An **Undead Spirit** is a Companion conjured by the [Summon Undead](/spell/level/3/summon-undead.md) spell.
 { .subtitle }
 
-[Undead Spirit](#undead-spirit) · 
-[Ghostly](#undead-spirit-ghostly) · 
-[Putrid](#undead-spirit-putrid) · 
-[Skeletal](#undead-spirit-skeletal)
-{ .keyword-jump }
-
 ### Undead Spirit: Ghostly
 Medium Undead, Neutral
 { .subtitle }

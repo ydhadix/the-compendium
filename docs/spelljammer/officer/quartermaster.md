@@ -4,14 +4,6 @@ The **Quartermaster** directs the crew, calling out orders that ready the ship's
 
 The Quartermaster can use their Ship Action to issue a number of orders up to their Proficiency Bonus. Each order targets a specific part of the Ship, and you can issue the same order more than once.
 
-[Quartermaster](#quartermaster) · 
-[Hull Orders](#hull-orders) · 
-[Pilot Orders](#pilot-orders) · 
-[Spelljammer Orders](#spelljammer-orders) · 
-[Weapon Orders](#weapon-orders) · 
-[Component Orders](#component-orders)
-{ .keyword-jump }
-
 ### Hull Orders
 ##### Brace for Impact!
 Until your next Turn, your hull's Damage Threshold increases by **5**.

@@ -1,14 +1,5 @@
 # Dice Rolls
 
-| |
-|---|
-| [Abilities](ability.md) |
-| [Proficiency](proficiency.md) |
-| [Ability Checks](check.md) |
-| [Attack Rolls](attack.md) |
-| [Saving Throws](save.md) |
-| [Damage Rolls](damage.md) |
-
 ### Difficulty Class
 Ability Checks and Saving Throws use a **Difficulty Class** to determine success.  The Difficulty Class is set by the effect that required the dice roll, or by the Dungeon Master.
 

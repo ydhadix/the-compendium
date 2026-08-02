@@ -2,12 +2,6 @@
 A ship's **Officers** are the crew members who command it in battle, each taking charge of a different part of the vessel. A ship runs on its Pilot, Quartermaster, and Spelljammer.
 { .subtitle }
 
-| |
-|---|
-| [Pilot](pilot/index.md) |
-| [Quartermaster](quartermaster.md) |
-| [Spelljammer](spelljammer/index.md) |
-
 ## Changing Roles
 Officer roles are chosen before combat begins and usually don't change during an encounter, though they can shift mid-combat if circumstances demand.
 

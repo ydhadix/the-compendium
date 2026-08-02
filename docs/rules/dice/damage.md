@@ -2,18 +2,6 @@
 A **Damage Roll** determines how much damage an effect deals.
 { .subtitle }
 
-[Hit Points](#hit-points) · 
-[Temporary Hit Points](#temporary-hit-points) · 
-[Bloodied](#bloodied) · 
-[Hit Dice](#hit-dice) · 
-[Damage Types](#damage-types) · 
-[Resistance](#resistance) · 
-[Vulnerability](#vulnerability) · 
-[Immunity](#immunity) · 
-[Damage Reduction](#damage-reduction) · 
-[Damage Threshold](#damage-threshold)
-{ .keyword-jump }
-
 ## Making a Damage Roll
 #### 1. Determine modifiers.
 Abilities, Resistance, Vulnerability and other effects can add bonuses, penalties, Advantage, or Disadvantage to the Damage Roll.
