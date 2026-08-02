@@ -62,9 +62,3 @@
 --8<-- "_generated/spell/level/3/revivify_row.md"
 --8<-- "_generated/spell/level/3/spirit-shroud_row.md"
 --8<-- "_generated/spell/level/3/staggering-smite_row.md"
-
-## 5th-Level
-
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
---8<-- "_generated/spell/level/5/summon-celestial_row.md"

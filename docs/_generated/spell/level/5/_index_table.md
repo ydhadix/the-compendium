@@ -9,7 +9,6 @@
 --8<-- "_generated/spell/level/5/awaken_row.md"
 --8<-- "_generated/spell/level/5/circle-of-power_row.md"
 --8<-- "_generated/spell/level/5/cloudkill_row.md"
---8<-- "_generated/spell/level/5/commune-with-nature_row.md"
 --8<-- "_generated/spell/level/5/cone-of-cold_row.md"
 --8<-- "_generated/spell/level/5/conjure-elemental_row.md"
 --8<-- "_generated/spell/level/5/contagion_row.md"

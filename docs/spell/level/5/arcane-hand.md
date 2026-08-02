@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Classes | Artificer, Sorcerer, Wizard |
+| Classes | Sorcerer, Wizard |
 | Components | V, S, M _(an eggshell and a glove)_ |
 | Casting Time | Magic Action |
 | Range | 120 ft. |

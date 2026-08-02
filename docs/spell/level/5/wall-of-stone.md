@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Classes | Artificer, Druid, Sorcerer, Wizard |
+| Classes | Druid, Sorcerer, Wizard |
 | Components | V, S, M _(a cube of granite)_ |
 | Casting Time | Magic Action |
 | Range | 120 ft. |

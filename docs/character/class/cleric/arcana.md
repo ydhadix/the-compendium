@@ -16,8 +16,8 @@ Your specialization grants you additional Spells. You learn these Spells at the 
 | Level | Spells |
 |---|---|
 | 3rd | _Detect Magic_, _Magic Aura_, _Magic Missile_, _Magic Weapon_ |
-| 5th | _Counterspell_, _Dispel Magic_ |
-| 7th | _Arcane Eye_, _Secret Chest_ |
+| 5th | _Counterspell_, _Secret Chest_ |
+| 7th | _Arcane Eye_, _Banishment_ |
 | 9th | _Planar Binding_, _Teleportation Circle_ |
 
 

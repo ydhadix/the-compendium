@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Classes | Cleric, Paladin |
+| Classes | Cleric |
 | Components | V, S, M _(a reliquary worth 500 Gold)_ |
 | Casting Time | Magic Action |
 | Range | 90 ft. |

@@ -78,9 +78,3 @@
 --8<-- "_generated/spell/level/3/wall-of-wind_row.md"
 --8<-- "_generated/spell/level/3/water-breathing_row.md"
 --8<-- "_generated/spell/level/3/water-walk_row.md"
-
-## 5th-Level
-
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
---8<-- "_generated/spell/level/5/commune-with-nature_row.md"

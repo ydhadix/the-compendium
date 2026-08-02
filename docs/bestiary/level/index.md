@@ -2,8 +2,9 @@
 
 | Creature Level |
 |---|
-<!-- | [Level 0](0/index.md) | -->
 | [Level 1](1/index.md) |
+
+<!-- | [Level 0](0/index.md) | -->
 <!-- | [Level 2](2/index.md) | -->
 <!-- | [Level 3](3/index.md) | -->
 <!-- | [Level 4](4/index.md) | -->
