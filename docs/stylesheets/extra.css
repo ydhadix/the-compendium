@@ -955,7 +955,7 @@ body {
   top: 2.4rem;                        /* .md-header height */
   z-index: 3;                         /* above the scroll-shadow overlays (z-index 2), below the site header (z-index 4) */
   margin: 0 0 1rem;
-  padding: 0.4rem 0.6rem;
+  padding: 0.4rem 0;                   /* horizontal inset lives on __inner so the edge shadows align with the scroll edge */
   font-size: 0.8rem;
   line-height: 1.9;
   text-align: center;
@@ -965,6 +965,48 @@ body {
   min-width: 1.4em;
   font-weight: 700;
 }
+
+/* One-line rail: the links never wrap. When they'd overflow, __scroll scrolls
+   horizontally (scrollbar hidden so the bar stays one line tall) and edge shadows
+   — reusing the table scroll-shadow look (extra.css .pm-tablewrap) for consistency
+   — mark the side(s) with more content. keywordjump.js wraps the links and toggles
+   --left / --right from the scroll position. */
+.md-typeset .keyword-jump__scroll {
+  display: block;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;                /* Firefox: no scrollbar */
+}
+.md-typeset .keyword-jump__scroll::-webkit-scrollbar { display: none; }   /* WebKit/Blink */
+.md-typeset .keyword-jump__inner {
+  display: block;
+  width: max-content;                   /* shrink to the links so auto margins can act */
+  margin-inline: auto;                  /* centre when it fits; collapses to 0 when it overflows (scrolls from the start) */
+  padding: 0 0.6rem;                    /* breathing room from the frame / scroll ends */
+  white-space: nowrap;
+}
+.md-typeset .keyword-jump::before,
+.md-typeset .keyword-jump::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 1.5rem;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 1;
+}
+.md-typeset .keyword-jump::before {
+  left: 0;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0));
+}
+.md-typeset .keyword-jump::after {
+  right: 0;
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0));
+}
+.md-typeset .keyword-jump--left::before  { opacity: 1; }
+.md-typeset .keyword-jump--right::after  { opacity: 1; }
 
 /* Anchor targets on a jump page must clear the header AND the jump bar.
    --pm-jump-offset is measured at runtime by keywordjump.js; the 6rem fallback
@@ -1003,6 +1045,7 @@ body {
 .pm-top:hover { color: #ffffff; background-color: var(--clr-accent); }
 @media (prefers-reduced-motion: reduce) {
   .pm-top { transition: opacity 0.2s ease, visibility 0.2s; transform: none; }
+  .md-typeset .keyword-jump { transition: none; }   /* stuck bar snaps, no slide */
 }
 
 /* Cards (h3-level sections) and subcards (h5-level entries). */
@@ -1046,10 +1089,28 @@ body {
     margin-right: calc(-1 * var(--pm-bleed));
   }
   .card,
-  .subcard,
-  .md-typeset .keyword-jump {
+  .subcard {
     padding-left:  var(--pm-inset);
     padding-right: var(--pm-inset);
+  }
+
+  /* When the jump bar pins to the top (keywordjump.js adds --stuck) it grows from
+     its inset card width out to the full window and sheds its frame, reading as a
+     full-width horizontal bar. `calc(50% - 50vw)` full-bleeds to the true window
+     edges regardless of the centred content column's inset; because the bar is
+     width:auto, the border-box then spans exactly the viewport. Collapsing the
+     side borders to width 0 (not just transparent — a 3px side border still miters
+     the top/bottom edges into a diagonal notch) lets the horizontal borders run
+     flush to the corners. Margin + border-width animate the widen. */
+  .md-typeset .keyword-jump {
+    transition: margin 0.25s ease, border-width 0.25s ease, border-radius 0.25s ease;
+  }
+  .md-typeset .keyword-jump--stuck {
+    margin-left:  calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-radius: 0;
   }
   .card,
   .subcard { padding-bottom: var(--pm-inset-b); }

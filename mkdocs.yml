@@ -98,10 +98,10 @@ markdown_extensions:
       permalink: "⚓︎"
 nav:
   - The Compendium:
-    - Overview:                     index.md
+    - On This Page:                 index.md
 
     - Rules Rolodex:
-      - Rules Overview:             rules/index.md
+      - On This Page:               rules/index.md
       - Adventuring:
         - Adventuring Overview:     rules/adventure/index.md
         - Actions:                  rules/adventure/action.md

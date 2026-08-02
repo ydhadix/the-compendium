@@ -2,11 +2,10 @@
 
 ## Keyword Index
 
-[Rules Rolodex](#rules-rolodex) · 
 [0-9](#0-9) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## 0-9
+### 0-9
 | Keyword | Location |
 |---|---|
 | [1st-Level](/spell/index.md#spell-level) | Spell Level |
@@ -16,7 +15,7 @@
 | [5th-Level](/spell/index.md#spell-level) | Spell Level |
 | [6th-Level](/spell/index.md#spell-level) | Spell Level |
 
-## A
+### A
 | Keyword | Location |
 |---|---|
 | [Aasimar](/character/race/aasimar.md) | Race |
@@ -55,7 +54,7 @@
 | [Attunement](/item/magic/index.md#attunement) | Infusion |
 | [Aura](/rules/position/target.md#areas) | Area |
 
-## B
+### B
 | Keyword | Location |
 |---|---|
 | [Background](/character/background.md) | Hero Handbook |
@@ -78,7 +77,7 @@
 | [Burning](/rules/adventure/condition.md#burning) | Condition |
 | [Burrow Speed](/rules/position/movement.md#burrowing) | Speed |
 
-## C
+### C
 | Keyword | Location |
 |---|---|
 | [Cantrip](/spell/index.md#spell-level) | Spell Level |
@@ -134,7 +133,7 @@
 | [Cursed Item](/item/magic/index.md#cursed-items) | Magic Item |
 | [Cylinder](/rules/position/target.md#areas) | Area |
 
-## D
+### D
 | Keyword | Location |
 |---|---|
 | [Damage Die](/rules/dice/damage.md#making-a-damage-roll) | Damage Roll |
@@ -180,7 +179,7 @@
 | [Dwarf](/character/race/dwarf.md) | Race |
 | [Dwarvish](/bestiary/index.md#standard-languages) | Standard Language |
 
-## E
+### E
 | Keyword | Location |
 |---|---|
 | [Elemental](/bestiary/type/elemental.md) | Creature Type |
@@ -203,7 +202,7 @@
 | [Extreme Heat](/rules/adventure/hazard.md#extreme-heat) | Hazard |
 | [Extreme Range](/spelljammer/encounter.md#encounter-scale) | Spelljammer Engagement Range |
 
-## F
+### F
 | Keyword | Location |
 |---|---|
 | [Facility](/bastion/index.md#bastion-facilities) | Bastion |
@@ -230,7 +229,7 @@
 | [Frightened](/rules/adventure/condition.md#frightened) | Condition |
 | [Full Cover](/rules/position/cover.md) | Cover |
 
-## G
+### G
 | Keyword | Location |
 |---|---|
 | [Gaming Set](/item/trade/index.md#gaming-sets) | Trade |
@@ -251,7 +250,7 @@
 | [Gravity Plane](/spelljammer/index.md#gravity) | Spelljammer Gravity |
 | [Graze](/item/weapon/mastery/index.md#graze) | Weapon Mastery |
 
-## H
+### H
 | Keyword | Location |
 |---|---|
 | [Half Cover](/rules/position/cover.md) | Cover |
@@ -279,7 +278,7 @@
 | [Hull Points](/spelljammer/creation/index.md#hull-points) | Spelljammer Ship Defense |
 | [Humanoid](/bestiary/type/humanoid.md) | Creature Type |
 
-## I
+### I
 | Keyword | Location |
 |---|---|
 | [Illusion](/spell/index.md#schools-of-magic) | School of Magic |
@@ -300,18 +299,18 @@
 | [Invocation](/character/class/warlock/invocation/index.md) | Warlock Feature |
 | [Item](/item/index.md) | Item |
 
-## J
+### J
 | Keyword | Location |
 |---|---|
 | [Jewelry](/item/gear/clothing/index.md) | Clothing |
 | [Jump](/rules/position/movement.md#jumping) | Movement |
 
-## K
+### K
 | Keyword | Location |
 |---|---|
 | [Keel Points](/spelljammer/creation/index.md#keel-points) | Spelljammer Ship Defense |
 
-## L
+### L
 | Keyword | Location |
 |---|---|
 | [Language](/bestiary/index.md#languages) | Creature Trait |
@@ -335,7 +334,7 @@
 | [Long Range](/spelljammer/encounter.md#encounter-scale) | Spelljammer Engagement Range |
 | [Long Rest](/rules/adventure/rest.md#long-rest) | Rest |
 
-## M
+### M
 | Keyword | Location |
 |---|---|
 | [Magic Action](/rules/adventure/action.md#magic) | Normal Action |
@@ -362,7 +361,7 @@
 | [Multiclass](/character/class/index.md#secondary-class) | Class |
 | [Musical Instrument](/item/trade/index.md#musical-instruments) | Trade |
 
-## N
+### N
 | Keyword | Location |
 |---|---|
 | [Natural Armor](/item/armor.md#natural-armor) | Armor |
@@ -377,7 +376,7 @@
 | [Normal Range](/rules/dice/attack.md#ranged-attacks) | Attack Range |
 | [NPC](/rules/adventure/npc.md) | NPC |
 
-## O
+### O
 | Keyword | Location |
 |---|---|
 | [Object Action](/rules/adventure/action.md#object-actions) | Action |
@@ -391,7 +390,7 @@
 | [Origin Feat](/character/feat/index.md) | Feat |
 | [Other](/item/index.md#item-types) | Adventuring Gear |
 
-## P
+### P
 | Keyword | Location |
 |---|---|
 | [Paladin](/character/class/paladin/index.md) | Class |
@@ -429,12 +428,12 @@
 | [Psychic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Push](/item/weapon/mastery/index.md#push) | Weapon Mastery |
 
-## Q
+### Q
 | Keyword | Location |
 |---|---|
 | [Quartermaster](/spelljammer/officer/quartermaster.md) | Spelljammer Officer |
 
-## R
+### R
 | Keyword | Location |
 |---|---|
 | [Race](/character/race/index.md) | Hero Handbook |
@@ -461,7 +460,7 @@
 | [Roomy](/bastion/index.md) | Bastion Size |
 | [Round](/rules/adventure/encounter.md#rounds) | Encounter |
 
-## S
+### S
 | Keyword | Location |
 |---|---|
 | [Sap](/item/weapon/mastery/index.md#sap) | Weapon Mastery |
@@ -526,7 +525,7 @@
 | [Sylvan](/bestiary/index.md#exotic-languages) | Exotic Language |
 | [Synth](/character/race/synth.md) | Race |
 
-## T
+### T
 | Keyword | Location |
 |---|---|
 | [Target](/rules/position/target.md) | Target |
@@ -549,7 +548,7 @@
 | [Turn](/rules/adventure/encounter.md#rounds) | Encounter |
 | [Two-Handed](/item/weapon/property/index.md#two-handed) | Weapon Property |
 
-## U
+### U
 | Keyword | Location |
 |---|---|
 | [Unarmed Strike](/item/weapon/index.md#unarmed-strikes) | Weapon |
@@ -562,7 +561,7 @@
 | [Upcast](/spell/index.md#upcasting) | Spellcasting |
 | [Utilize Action](/rules/adventure/action.md#utilize) | Normal Action |
 
-## V
+### V
 | Keyword | Location |
 |---|---|
 | [Value](/item/index.md) | Item |
@@ -574,7 +573,7 @@
 | [Visibility](/rules/position/visibility.md) | Visibility |
 | [Vulnerability](/rules/dice/damage.md#vulnerability) | Damage Roll |
 
-## W
+### W
 | Keyword | Location |
 |---|---|
 | [Wall](/rules/position/target.md#areas) | Area |
