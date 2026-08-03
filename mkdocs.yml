@@ -39,7 +39,7 @@ extra_javascript:
 exclude_docs: | # files/folders in docs/ that we don't want compiled
   _changelogs
   _generated
-  rules/adventure/_condition/*.md
+  rules/_condition/*.md
   rules/dice/_defense/*.md
   item/magic/infusion/_variant
   item/weapon/property/*.md
@@ -75,7 +75,6 @@ not_in_nav: | # collection dirs whose entry pages aren't in nav
   bastion/*
   spelljammer/*/*/*
   spelljammer/*/*
-  archive/hype/odyssey/playlist.md
 
 validation:
   links:
@@ -101,29 +100,20 @@ nav:
     - On This Page:                 index.md
 
     - Rules Rolodex:
-      - On This Page:               rules/index.md
-      - Adventuring:
-        - Adventuring Overview:     rules/adventure/index.md
-        - Actions:                  rules/adventure/action.md
-        - Conditions:               rules/adventure/condition.md
-        - Encounters:               rules/adventure/encounter.md
-        - Resting:                  rules/adventure/rest.md
-        - Hazards:                  rules/adventure/hazard.md
-        - Non-Player Characters:    rules/adventure/npc.md
+      - Rules Overview:             rules/index.md
+      - Encounters:                 rules/encounter.md
+      - Resting:                    rules/rest.md
+      - Targeting:                  rules/target.md
+      - Actions:                    rules/action.md
+      - Conditions:                 rules/condition.md
+      - Hazards:                    rules/hazard.md
       - Dice Rolls:
         - Dice Overview:            rules/dice/index.md
-        - Abilities:                rules/dice/ability.md
-        - Proficiency:              rules/dice/proficiency.md
         - Ability Checks:           rules/dice/check.md
         - Attack Rolls:             rules/dice/attack.md
         - Saving Throws:            rules/dice/save.md
         - Damage Rolls:             rules/dice/damage.md
-      - Positioning:
-        - Positioning Overview:     rules/position/index.md
-        - Movement:                 rules/position/movement.md
-        - Cover:                    rules/position/cover.md
-        - Visibility:               rules/position/visibility.md
-        - Targeting:                rules/position/target.md
+      - Movement:                   rules/movement.md
 
     - Hero Handbook:
       - Character Overview:         character/index.md
@@ -158,18 +148,15 @@ nav:
         - Ranger:
           - Ranger Overview:        character/class/ranger/index.md
           - Primal Imprints:        character/class/ranger/imprint/index.md
-          - "---": "sep:"
           - Beast Master:           character/class/ranger/beast-master.md
         - Rogue (WIP):
           - Rogue Overview:         character/class/rogue/index.md
         - Sorcerer (WIP):
           - Sorcerer Overview:      character/class/sorcerer/index.md
           - Metamagic:              character/class/sorcerer/metamagic/index.md
-          - "---": "sep:"
         - Warlock (WIP):
           - Warlock Overview:       character/class/warlock/index.md
           - Eldritch Invocations:   character/class/warlock/invocation/index.md
-          - "---": "sep:"
         - Wizard (WIP):
           - Wizard Overview:        character/class/wizard/index.md
       - Feats:
@@ -280,32 +267,18 @@ nav:
 
   - The Archive:
     - Overview:                     archive/index.md
-    - WEEP:
-      - Overview:                   archive/index.md
-      - Player Characters:          archive/weep/characters/index.md
-      - "---": "sep:"
-      - "Part 1: Dragon Heist":
-        - Campaign Overview:        archive/weep/dragon-heist/index.md
-        - Playlist:                 archive/weep/dragon-heist/playlist.md
-      - "Part 2: Icewind Dale":
-        - Campaign Overview:        archive/weep/icewind-dale/index.md
-        - Playlist:                 archive/weep/icewind-dale/playlist.md
-      - "Part 1.5: Tomb of Annihilation":
-        - Campaign Overview:        archive/weep/tomb-of-annihilation/index.md
-        - Playlist:                 archive/weep/tomb-of-annihilation/playlist.md
-      - "Part 3: Dungeon of the Mad Mage":
-        - Campaign Overview:        archive/weep/mad-mage/index.md
-        - Playlist:                 archive/weep/mad-mage/playlist.md
-      - "Epilogue":
-        - Epilogue Overview:        archive/weep/epilogue/index.md
-        - Playlist:                 archive/weep/epilogue/playlist.md
-    - HYPE:
-      - Overview:                   archive/index.md
-      - Player Characters:          archive/hype/characters/index.md
-      - "---": "sep:"
-      - "Part 1: Exodus":
-        - Campaign Overview:        archive/hype/exodus/index.md
-        - Playlist:                 archive/hype/exodus/playlist.md
-      - "Part 2: Odyssey":
-        - Campaign Overview:        archive/hype/odyssey/index.md
-        # - Playlist:                 archive/hype/odyssey/playlist.md
+    - Player Characters:            archive/characters/index.md
+    - "WEEP Part 1: Dragon Heist":
+      - Campaign Overview:          archive/dragon-heist/index.md
+    - "WEEP Part 2: Icewind Dale":
+      - Campaign Overview:          archive/icewind-dale/index.md
+    - "WEEP Part 1.5: Tomb of Annihilation":
+      - Campaign Overview:          archive/tomb-of-annihilation/index.md
+    - "WEEP Part 3: Dungeon of the Mad Mage":
+      - Campaign Overview:          archive/mad-mage/index.md
+    - "WEEP Epilogue":
+      - Epilogue Overview:          archive/epilogue/index.md
+    - "HYPE Part 1: Exodus":
+      - Campaign Overview:          archive/exodus/index.md
+    # - "HYPE Part 2: Odyssey":
+    #   - Campaign Overview:          archive/odyssey/index.md
