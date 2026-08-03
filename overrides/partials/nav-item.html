@@ -150,13 +150,9 @@
             {% for item in nav_item.children %}
               {% if not index or item != index %}
                 {{ render(item, path ~ "_" ~ loop.index, level + 1, nav_item) }}
-                {#- A divider after this section's own index page (Overview);
-                    index_page is set by navtools.py, so other index.md-backed
-                    leaf links (e.g. Conditions) don't trigger one. -#}
-                {% if nav_item.index_page and item == nav_item.index_page %}{{ sep() }}{% endif %}
               {% endif %}
             {% endfor %}
-            {#- And a divider closing out the section. -#}
+            {#- A divider closing out the section. -#}
             {{ sep() }}
           </ul>
         </nav>

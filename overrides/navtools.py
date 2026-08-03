@@ -6,7 +6,6 @@ on_nav annotates every Section with:
     section.index_page      its own index page (its index.md), or None. The section
                             title links here, and this page is never listed as a
                             child entry.
-    section.has_subsection  True if any child is itself a Section.
 
 on_nav also tags separators. A nav entry whose target is the sentinel "sep:" (a
 harmless external-link value that passes a --strict build, e.g.
@@ -106,9 +105,6 @@ def _annotate(items):
                 (c for c in item.children
                  if getattr(c, "is_page", False) and c.is_index),
                 None,
-            )
-            item.has_subsection = any(
-                getattr(c, "is_section", False) for c in item.children
             )
             _annotate(item.children)
 

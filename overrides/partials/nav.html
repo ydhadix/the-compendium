@@ -36,12 +36,11 @@
       {% set group_index = loop.index %}
       {% if loop.first and group.children %}
         {#- First top-level group: promote its children to the root level so the
-            drawer opens straight onto the sections. A divider follows the group's
-            index page (Overview), and another closes out the promoted block. -#}
+            drawer opens straight onto the sections. A divider closes out the
+            promoted block. -#}
         {% for nav_item in group.children %}
           {% set path = "__nav_" ~ group_index ~ "_" ~ loop.index %}
           {{ item.render(nav_item, path, 1) }}
-          {% if group.index_page and nav_item == group.index_page %}{{ item.sep() }}{% endif %}
         {% endfor %}
         {{ item.sep() }}
       {% else %}
