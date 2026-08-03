@@ -1,0 +1,1 @@
+| [Orc](/character/race/orc.md) | STR + **1** | Humanoid | Medium | **35** ft. | **5** ft. | **12** | Darkvision _(**120** ft.)_ |

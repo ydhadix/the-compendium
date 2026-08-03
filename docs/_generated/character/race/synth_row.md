@@ -1,0 +1,1 @@
+| [Synth](/character/race/synth.md) | CON + **1** | Humanoid<br>& Construct | Medium | **30** ft. | **5** ft. | **10** | — |

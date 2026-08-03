@@ -1,0 +1,1 @@
+| [Goliath](/character/race/goliath.md) | STR + **1** | Humanoid<br>& Giant | Medium | **30** ft. | **10** ft. | **10** | — |

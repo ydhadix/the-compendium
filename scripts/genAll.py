@@ -13,6 +13,7 @@ import genItemSnippet
 import genMagicItemSnippet
 import genPilotSnippet
 import genProtocolSnippet
+import genRaceSnippet
 import genSpellSnippet
 import genSubfeatureSnippet
 
@@ -25,6 +26,7 @@ GENERATORS = (
     genComponentSnippet,
     genProtocolSnippet,
     genPilotSnippet,
+    genRaceSnippet,
     genBestiary,
 )
 

@@ -1,0 +1,1 @@
+| [Dragonborn](/character/race/dragonborn.md) | STR + **1** | Humanoid<br>& Dragon | Medium | **30** ft. | **5** ft. | **10** | Darkvision _(**60** ft.)_ |

@@ -1,0 +1,1 @@
+| [Prime](/character/race/prime.md) | Choose **2** | Humanoid | Medium | **30** ft. | **5** ft. | **8** | — |
