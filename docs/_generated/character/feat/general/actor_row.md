@@ -1,1 +1,0 @@
-| [Actor](/character/feat/general/actor.md) | 2 Charisma | — |

@@ -1,1 +1,0 @@
-| [Marking](/character/feat/fighting-style/advanced/marking.md) | Opportunist | — |

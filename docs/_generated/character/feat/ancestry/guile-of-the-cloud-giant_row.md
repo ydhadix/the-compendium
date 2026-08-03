@@ -1,1 +1,0 @@
-| [Guile of the Cloud Giant](/character/feat/ancestry/guile-of-the-cloud-giant.md) | Goliath (Cloud Ancestry) | — |

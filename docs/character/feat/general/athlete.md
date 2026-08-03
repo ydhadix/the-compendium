@@ -1,5 +1,5 @@
 ### Athlete
-Prerequisite: 2 Strength or Dexterity
+Prerequisite: **2** Strength or Dexterity
 { .subtitle }
 
 #### Climb Speed

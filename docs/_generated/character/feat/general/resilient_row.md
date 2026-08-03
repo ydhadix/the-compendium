@@ -1,1 +1,0 @@
-| [Resilient](/character/feat/general/resilient.md) | — | — |

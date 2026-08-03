@@ -1,1 +1,0 @@
-| [Variable](/character/feat/fighting-style/advanced/variable.md) | Dueling | — |

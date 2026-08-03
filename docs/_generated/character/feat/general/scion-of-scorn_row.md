@@ -1,1 +1,0 @@
-| [Scion of Scorn](/character/feat/general/scion-of-scorn.md) | Evil alignment, no Scion Feat | — |

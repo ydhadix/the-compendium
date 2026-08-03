@@ -1,1 +1,0 @@
-| [Moderately Armored](/character/feat/general/moderately-armored.md) | Light Armor Proficiency | — |

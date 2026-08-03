@@ -1,5 +1,5 @@
 ### Resourceful
-Prerequisite: 2 Dexterity
+Prerequisite: **2** Dexterity
 { .subtitle }
 
 #### Fast Hands

@@ -1,1 +1,0 @@
-| [Shield Fighting](/character/feat/fighting-style/basic/shield-fighting.md) | — | — |

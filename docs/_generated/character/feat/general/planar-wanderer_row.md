@@ -1,1 +1,0 @@
-| [Planar Wanderer](/character/feat/general/planar-wanderer.md) | — | — |

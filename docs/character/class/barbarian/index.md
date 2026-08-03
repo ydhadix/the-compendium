@@ -22,9 +22,9 @@ Barbarians are ferocious warriors who draw on primal rage, trading caution for r
 | | |
 |---|---|
 | Starting Ability | Strength |
-| Feature Ability | Constitution |
-| Hit Die | d12 |
-| Starting Equipment | 75 gold<br>or<br>Greataxe, 4 Handaxes, Explorer's Pack and 15 gold |
+| Class Ability | Constitution |
+| Hit Die | **d12** |
+| Starting Equipment | **75** gold<br>or<br>Greataxe, **4** Handaxes, Explorer's Pack and **15** gold |
 
 ### Primary Proficiencies
 When you choose Barbarian as your Primary Class, you gain the following proficiencies:
@@ -79,7 +79,7 @@ You can extend your Rage's duration to the end of your next turn, up to a maximu
 ### 1: Unarmored Stance
 While you are Unarmored _(you can still don a Shield)_, you gain the following benefits:
 #### Unarmored Defense
-Your base Armor Class becomes **8 + Dexterity + Feature Ability + PB**.
+Your base Armor Class becomes **8 + Dexterity + Class Ability + PB**.
 #### Unarmored Movement
 Your Speed increases by **10** feet.
 #### Unarmored Reflexes

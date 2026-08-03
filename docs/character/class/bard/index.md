@@ -21,9 +21,9 @@ Bards are versatile performers who weave magic from music, words, and lore, insp
 | | |
 |---|---|
 | Starting Ability | Intelligence or Charisma |
-| Feature Ability | Same as Starting Ability |
-| Hit Die | d8 |
-| Starting Equipment | 90 gold<br>or<br>Leather Armor, any Musical Instrument, 2 Daggers, Entertainer's Pack, 19 gold |
+| Class Ability | Same as Starting Ability |
+| Hit Die | **d8** |
+| Starting Equipment | **90** gold<br>or<br>Leather Armor, any Musical Instrument, **2** Daggers, Entertainer's Pack, **19** gold |
 
 ### Primary Proficiencies
 When you choose Bard as your Primary Class, you gain the following proficiencies:
@@ -34,8 +34,8 @@ When you choose Bard as your Primary Class, you gain the following proficiencies
 | Save Aptitude | Reflex |
 | Armor | Light |
 | Weapons | Simple |
-| Trades | 3 Musical Instruments or Gaming Sets |
-| Skills | Performance and any 3 |
+| Trades | **3** Musical Instruments or Gaming Sets |
+| Skills | Performance and any **3** |
 
 ### Secondary Proficiencies
 When you choose Bard as your Secondary Class, you gain the following proficiencies:
@@ -44,7 +44,7 @@ When you choose Bard as your Secondary Class, you gain the following proficienci
 |---|---|
 | Armor | Light |
 | Weapons | — |
-| Trades | 1 Musical Instrument |
+| Trades | **1** Musical Instrument |
 | Skills | Performance |
 
 ## Class Features

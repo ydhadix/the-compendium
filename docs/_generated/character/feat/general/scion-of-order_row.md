@@ -1,1 +1,0 @@
-| [Scion of Order](/character/feat/general/scion-of-order.md) | Lawful alignment, no Scion Feat | — |

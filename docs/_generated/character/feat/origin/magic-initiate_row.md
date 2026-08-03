@@ -1,1 +1,0 @@
-| [Magic Initiate](/character/feat/origin/magic-initiate.md) | — | — |

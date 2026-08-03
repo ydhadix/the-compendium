@@ -21,9 +21,9 @@ Monks are martial artists who channel a wellspring of inner energy, striking wit
 | | |
 |---|---|
 | Starting Ability | Dexterity |
-| Feature Ability | Intelligence or Wisdom |
-| Hit Die | d10 |
-| Starting Equipment | 50 gold<br>or<br>Spear, 5 Daggers, 1 Trade item, Explorer's Pack, and 11 gold |
+| Class Ability | Intelligence or Wisdom |
+| Hit Die | **d10** |
+| Starting Equipment | **50** gold<br>or<br>Spear, **5** Daggers, **1** Trade item, Explorer's Pack, and **11** gold |
 
 ### Primary Proficiencies
 When you choose Monk as your Primary Class, you gain the following proficiencies:
@@ -34,8 +34,8 @@ When you choose Monk as your Primary Class, you gain the following proficiencies
 | Save Aptitude | Will |
 | Armor | — |
 | Weapons | Simple, Fences |
-| Trades | 1 Artisan's Tool or Musical Instrument |
-| Skills | Acrobatics and 2 from Athletics, History, Insight, Religion, or Stealth |
+| Trades | **1** Artisan's Tool or Musical Instrument |
+| Skills | Acrobatics and **2** from Athletics, History, Insight, Religion, or Stealth |
 
 ### Secondary Proficiencies
 When you choose Monk as your Secondary Class, you gain the following proficiencies:
@@ -50,7 +50,7 @@ When you choose Monk as your Secondary Class, you gain the following proficienci
 ## Class Features
 
 ### 1: Ki
-You can spend Ki to use Monk Features. You have Ki equal to **LV**. If an effect requires a Saving Throw, its DC is **8 + Feature Ability + PB**.
+You can spend Ki to use Monk Features. You have Ki equal to **LV**. If an effect requires a Saving Throw, its DC is **8 + Class Ability + PB**.
 ###### Regaining Ki
 After a Short Rest, you regain all uses of Ki.
 ###### Quick Focus
@@ -63,7 +63,7 @@ Before you roll Initiative, you can regain all uses of Ki.
 ### 1: Unarmored Stance
 While you are Unarmored and don't have a Shield donned, you gain the following benefits:
 #### Unarmored Defense
-Your base Armor Class becomes **8 + Dexterity + Feature Ability + PB**.
+Your base Armor Class becomes **8 + Dexterity + Class Ability + PB**.
 #### Unarmored Movement
 Your Speed increases, and you can move along vertical surfaces and across liquids without falling during your movement. The [Monk Table](#class-table) shows your bonus Speed, and when this bonus increases.
 #### Unarmored Grapple

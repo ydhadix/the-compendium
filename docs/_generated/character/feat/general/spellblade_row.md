@@ -1,1 +1,0 @@
-| [Spellblade](/character/feat/general/spellblade.md) | Extra Attack | — |

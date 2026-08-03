@@ -1,1 +1,0 @@
-| [Keen Mind](/character/feat/general/keen-mind.md) | 2 Intelligence | — |

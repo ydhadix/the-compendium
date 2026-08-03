@@ -1,5 +1,5 @@
 ### Actor
-Prerequisite: 2 Charisma
+Prerequisite: **2** Charisma
 { .subtitle }
 
 #### Impersonation

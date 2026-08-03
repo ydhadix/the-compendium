@@ -2,23 +2,23 @@
 A **Class** is a character's chosen calling and craft, the source of their signature powers.
 { .subtitle }
 
-| Class | Starting Ability | Feature Ability | Hit Die | Save Prof. | Save Apt. | Spellcasting |
+| Class | Starting Ability | Class Ability | Hit Die | Save Prof. | Save Apt. | Spellcasting |
 |---|---|---|---|---|---|---|
-| [Artificer](artificer/index.md) | INT | Starting Ability | d8  | FORT | WILL | Half-Caster |
-| [Barbarian](barbarian/index.md) | STR | CON  | d12 | FORT | RFLX | Martial |
-| [Bard](bard/index.md) | INT or CHA | Starting Ability | d8 | WILL | RFLX | Spellcaster |
-| [Cleric](cleric/index.md) | INT, WIS, or CHA | Starting Ability | d8 | WILL | FORT | Spellcaster |
-| [Druid](druid/index.md) | INT or WIS | Starting Ability | d8 | WILL | FORT | Spellcaster |
-| [Fighter](fighter/index.md) | STR or DEX | — | d10 | FORT | RFLX | Martial |
-| [Monk](monk/index.md) | DEX | INT or WIS | d10 | RFLX | WILL | Martial |
-| [Paladin](paladin/index.md) | STR | CHA | d10 | WILL | FORT | Half-Caster |
-| [Ranger](ranger/index.md) | STR or DEX | INT or WIS | d10 | RFLX | FORT | Half-Caster |
-| [Rogue](rogue/index.md) | DEX | — | d8 | RFLX | WILL | Martial |
-| [Sorcerer](sorcerer/index.md) | WIS or CHA | Starting Ability | d6 | FORT | WILL | Spellcaster |
-| [Warlock](warlock/index.md) | INT or CHA | Starting Ability | d8 | WILL | FORT | Pact-Caster |
-| [Wizard](wizard/index.md) | INT | Starting Ability | d6 | WILL | RFLX | Spellcaster |
+| [Artificer](artificer/index.md) | INT | Starting Ability | **d8**  | FORT | WILL | Half-Caster |
+| [Barbarian](barbarian/index.md) | STR | CON  | **d12** | FORT | RFLX | Martial |
+| [Bard](bard/index.md) | INT or CHA | Starting Ability | **d8** | WILL | RFLX | Spellcaster |
+| [Cleric](cleric/index.md) | INT, WIS, or CHA | Starting Ability | **d8** | WILL | FORT | Spellcaster |
+| [Druid](druid/index.md) | INT or WIS | Starting Ability | **d8** | WILL | FORT | Spellcaster |
+| [Fighter](fighter/index.md) | STR or DEX | — | **d10** | FORT | RFLX | Martial |
+| [Monk](monk/index.md) | DEX | INT or WIS | **d10** | RFLX | WILL | Martial |
+| [Paladin](paladin/index.md) | STR | CHA | **d10** | WILL | FORT | Half-Caster |
+| [Ranger](ranger/index.md) | STR or DEX | INT or WIS | **d10** | RFLX | FORT | Half-Caster |
+| [Rogue](rogue/index.md) | DEX | — | **d8** | RFLX | WILL | Martial |
+| [Sorcerer](sorcerer/index.md) | WIS or CHA | Starting Ability | **d6** | FORT | WILL | Spellcaster (Sorcery) |
+| [Warlock](warlock/index.md) | INT or CHA | Starting Ability | **d8** | WILL | FORT | Spellcaster (Pact Magic) |
+| [Wizard](wizard/index.md) | INT | Starting Ability | **d6** | WILL | RFLX | Spellcaster |
 
-### Class Levels
+## Class Levels
 Your **Level** in a class represents the depth of your training.  Each of your classes' levels are tracked individually.
 
 #### Leveling Up
@@ -67,5 +67,5 @@ If you gain the Spellcasting feature from both your Classes, your total [total S
 ### Starting Ability
 Each Class has a **Starting Ability**, the Ability improved when you take that Class at Level **1**.  If a Class offers a choice of Starting Ability, you choose one when you gain your first Level in it.
 
-#### Feature Ability
-Most Classes also have a **Feature Ability**, the Ability that determines the effectiveness of their features.  A Class's Feature Ability is often the same as its Starting Ability, some Classes use a different one, and a few have no Feature Ability of their own; instead, their Subclasses may grant one.
+#### Class Ability
+Most Classes also have a **Class Ability**, the Ability that determines the effectiveness of their features.  A Class's Class Ability is often the same as its Starting Ability, some Classes use a different one, and a few have no Class Ability of their own; instead, their Subclasses may grant one.

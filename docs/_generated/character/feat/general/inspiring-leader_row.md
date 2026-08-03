@@ -1,1 +1,0 @@
-| [Inspiring Leader](/character/feat/general/inspiring-leader.md) | 2 Intelligence, Wisdom, or Charisma | — |

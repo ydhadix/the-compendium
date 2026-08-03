@@ -1,1 +1,0 @@
-| [War Casting](/character/feat/fighting-style/advanced/war-casting.md) | Opportunist | — |

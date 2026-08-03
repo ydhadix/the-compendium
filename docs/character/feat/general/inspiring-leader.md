@@ -1,5 +1,5 @@
 ### Inspiring Leader
-Prerequisite: 2 Intelligence, Wisdom, or Charisma
+Prerequisite: **2** Intelligence, Wisdom, or Charisma
 { .subtitle }
 
 #### Bolstering Performance

@@ -1,5 +1,5 @@
 ### Observant
-Prerequisite: 2 Intelligence or Wisdom
+Prerequisite: **2** Intelligence or Wisdom
 { .subtitle }
 
 #### Keen Observer

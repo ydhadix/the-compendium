@@ -1,1 +1,0 @@
-| [Alert](/character/feat/origin/alert.md) | — | — |

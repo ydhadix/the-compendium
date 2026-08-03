@@ -1,1 +1,0 @@
-| [Heavy Armor Master](/character/feat/general/heavy-armor-master.md) | Heavy Armor Proficiency | — |

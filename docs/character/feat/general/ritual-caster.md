@@ -1,5 +1,5 @@
 ### Ritual Caster
-Prerequisite: 2 Intelligence, Wisdom, or Charisma
+Prerequisite: **2** Intelligence, Wisdom, or Charisma
 { .subtitle }
 
 #### Ritual Spells

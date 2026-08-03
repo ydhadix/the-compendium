@@ -1,1 +1,0 @@
-| [Lightly Armored](/character/feat/general/lightly-armored.md) | — | — |

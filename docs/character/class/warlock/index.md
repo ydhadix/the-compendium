@@ -25,9 +25,9 @@ Warlocks are casters empowered by a pact with an otherworldly patron, trading th
 | | |
 |---|---|
 | Starting Ability | Intelligence or Charisma |
-| Feature Ability | Same as Starting Ability |
-| Hit Die | d8 |
-| Starting Equipment | 100 gold<br>or<br>Leather Armor, Sickle, 2 Daggers, Arcane Focus, Book, Scholar's Pack, and 15 gold |
+| Class Ability | Same as Starting Ability |
+| Hit Die | **d8** |
+| Starting Equipment | **100** gold<br>or<br>Leather Armor, Sickle, **2** Daggers, Arcane Focus, Book, Scholar's Pack, and **15** gold |
 
 ### Primary Proficiencies
 When you choose Warlock as your Primary Class, you gain the following proficiencies:
@@ -39,7 +39,7 @@ When you choose Warlock as your Primary Class, you gain the following proficienc
 | Armor | Light |
 | Weapons | Simple |
 | Trades | — |
-| Skills | Persuasion and 2 from Arcana, Deception, History, Intimidation, Nature, Perception, Religion |
+| Skills | Persuasion and **2** from Arcana, Deception, History, Intimidation, Nature, Perception, Religion |
 
 ### Secondary Proficiencies
 When you choose Warlock as your Secondary Class, you gain the following proficiencies:

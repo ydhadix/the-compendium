@@ -1,1 +1,0 @@
-| [Throwing](/character/feat/fighting-style/basic/throwing.md) | — | — |

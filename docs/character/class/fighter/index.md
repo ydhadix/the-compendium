@@ -21,9 +21,9 @@ Fighters are experienced combatants, deftly wielding weapons and tactics. They c
 | | |
 |---|---|
 | Starting Ability | Strength or Dexterity |
-| Feature Ability | Determined by Subclass |
-| Hit Die | d10 |
-| Starting Equipment | 155 gold<br>or<br>Heavy Chain, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 gold<br>or<br>Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack |
+| Class Ability | Determined by Subclass |
+| Hit Die | **d10** |
+| Starting Equipment | **155** gold<br>or<br>Heavy Chain, Greatsword, Flail, **8** Javelins, Dungeoneer's Pack, and **4** gold<br>or<br>Leather Armor, Scimitar, Shortsword, Longbow, **20** Arrows, Quiver, Dungeoneer's Pack |
 
 ### Primary Proficiencies
 When you choose Fighter as your Primary Class, you gain the following proficiencies:
@@ -35,7 +35,7 @@ When you choose Fighter as your Primary Class, you gain the following proficienc
 | Armor | Light, Medium, Heavy |
 | Weapons | Simple, Martial |
 | Trades | — |
-| Skills | Athletics and 2 from Acrobatics, History, Insight, Intimidation, Perception, Persuasion, or Survival |
+| Skills | Athletics and **2** from Acrobatics, History, Insight, Intimidation, Perception, Persuasion, or Survival |
 
 ### Secondary Proficiencies
 When you choose Fighter as your Secondary Class, you gain the following proficiencies:

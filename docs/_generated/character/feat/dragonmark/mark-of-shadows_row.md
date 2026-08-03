@@ -1,1 +1,0 @@
-| [Mark of Shadows](/character/feat/dragonmark/mark-of-shadows.md) | No other Dragonmark | — |

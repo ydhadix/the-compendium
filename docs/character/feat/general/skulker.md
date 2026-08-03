@@ -1,5 +1,5 @@
 ### Skulker
-Prerequisite: 2 Dexterity
+Prerequisite: **2** Dexterity
 { .subtitle }
 
 #### Blindsight

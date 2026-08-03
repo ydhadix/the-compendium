@@ -1,1 +1,0 @@
-| [Mark of Hospitality](/character/feat/dragonmark/mark-of-hospitality.md) | No other Dragonmark | — |

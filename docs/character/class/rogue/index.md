@@ -26,8 +26,8 @@ Rogues are experts who rely on cunning and precision, striking the moment a foe 
 | | |
 |---|---|
 | Starting Ability | Dexterity |
-| Feature Ability | Determined by Subclass |
-| Hit Die | d8 |
+| Class Ability | Determined by Subclass |
+| Hit Die | **d8** |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 
 ### Primary Proficiencies

@@ -25,8 +25,8 @@ Paladins are holy warriors bound by a sacred oath, blending martial might with d
 | | |
 |---|---|
 | Starting Ability | Strength |
-| Feature Ability | Charisma |
-| Hit Die | d10 |
+| Class Ability | Charisma |
+| Hit Die | **d10** |
 | Starting Equipment | X gold<br>or<br>[] and Y gold |
 
 ### Primary Proficiencies
@@ -74,7 +74,7 @@ After a Long Rest, you can replace one of your Weapon Masteries.
 | 11 | 10 | 4 | 3 | 3 |
 
 #### Spellcasting Ability
-Your Feature Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Paladin Spells use a Holy Symbol as a Spellcasting Focus.
 #### Spells Prepared

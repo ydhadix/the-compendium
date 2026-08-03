@@ -9,4 +9,4 @@
 | [Fighting Styles](fighting-style/index.md) |
 | [Ancestry Feats](ancestry/index.md) |
 | [Epic Boons](epic/index.md) |
-| [Dragonmarks](dragonmark/index.md) |
+| [Dragonmarks](dragonmark.md) |

@@ -21,9 +21,9 @@ Clerics are divine champions who wield the power of a deity, mending allies and 
 | | |
 |---|---|
 | Starting Ability | Intelligence, Wisdom, or Charisma |
-| Feature Ability | Same as Starting Ability |
-| Hit Die | d8 |
-| Starting Equipment | 110 gold<br>or<br>Chain Shirt, Medium Shield, Mace, Holy Symbol, Priest's Pack, 7 gold |
+| Class Ability | Same as Starting Ability |
+| Hit Die | **d8** |
+| Starting Equipment | **110** gold<br>or<br>Chain Shirt, Medium Shield, Mace, Holy Symbol, Priest's Pack, **7** gold |
 
 ### Primary Proficiencies
 When you choose Cleric as your Primary Class, you gain the following proficiencies:
@@ -35,7 +35,7 @@ When you choose Cleric as your Primary Class, you gain the following proficienci
 | Armor | Light, Medium |
 | Weapons | Simple |
 | Trades | — |
-| Skills | Religion and 2 from History, Insight, Medicine, or Persuasion |
+| Skills | Religion and **2** from History, Insight, Medicine, or Persuasion |
 
 ### Secondary Proficiencies
 When you choose Cleric as your Secondary Class, you gain the following proficiencies:

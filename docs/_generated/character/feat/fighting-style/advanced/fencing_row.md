@@ -1,1 +1,0 @@
-| [Fencing](/character/feat/fighting-style/advanced/fencing.md) | Dueling | — |

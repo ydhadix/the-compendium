@@ -62,6 +62,14 @@ exclude_docs: | # files/folders in docs/ that we don't want compiled
   !character/class/sorcerer/metamagic/index.md
   character/class/warlock/invocation/*.md
   !character/class/warlock/invocation/index.md
+  character/feat/origin/*.md
+  !character/feat/origin/index.md
+  character/feat/general/*.md
+  !character/feat/general/index.md
+  character/feat/ancestry/*.md
+  !character/feat/ancestry/index.md
+  character/feat/fighting-style/*.md
+  !character/feat/fighting-style/index.md
 
 not_in_nav: | # collection dirs whose entry pages aren't in nav
   character/class/*/*/*
@@ -163,13 +171,10 @@ nav:
         - Feats Overview:           character/feat/index.md
         - Origin Feats:             character/feat/origin/index.md
         - General Feats:            character/feat/general/index.md
-        - Fighting Styles:
-          - Fighting Style Overview: character/feat/fighting-style/index.md
-          - Basic Styles:           character/feat/fighting-style/basic/index.md
-          - Advanced Styles:        character/feat/fighting-style/advanced/index.md
+        - Fighting Styles:          character/feat/fighting-style/index.md
         - Ancestry Feats:           character/feat/ancestry/index.md
         - Epic Boons (WIP):         character/feat/epic/index.md
-        - Dragonmarks:              character/feat/dragonmark/index.md
+        - Dragonmarks:              character/feat/dragonmark.md
 
     - Item Index:
       - Item Overview:              item/index.md

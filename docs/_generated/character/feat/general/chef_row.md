@@ -1,1 +1,0 @@
-| [Chef](/character/feat/general/chef.md) | — | — |

@@ -1,1 +1,0 @@
-| [Mobile](/character/feat/general/mobile.md) | 2 Dexterity or Constitution | — |

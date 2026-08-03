@@ -1,80 +1,57 @@
-"""Generate feat table-row snippets + one example table per feat category.
+"""Generate one letter-grouped card index per feat category.
 
-Row schema: | Feat | Other Prerequisite | Class+Level Prerequisite |
-Category comes from the top-level subdir under `feat/` (Ancestry, Dragonmark, Fighting Style,
-General, Origin); prerequisites are parsed from the optional `Prerequisite:` subtitle, split into a
-class fragment and everything else. Fighting Style is split further, one table per subcategory
-folder (dual-wield, ranged, ...) rather than a single aggregate.
+Each category (Ancestry, Fighting Style, General, Origin) is a hub that inlines its hand-authored leaf
+cards under alphabetical `## <Letter>` headings behind a `{ .keyword-jump }` letter rail. The leaf files
+are excluded from the build as standalone pages (see mkdocs `exclude_docs`); this generated include is
+where they render, so a card lives in exactly one place and editing it re-flows the hub.
+
+Dragonmarks are a hand-authored single page, and Epic Boons are an unpopulated stub — neither is generated.
 """
+
+import shutil
 
 import genSnippetCommon as C
 
-# Epic Boons are left out: that subdir holds only an index today, so it yields no rows.
-CATEGORIES = ("ancestry", "dragonmark", "fighting-style", "general", "origin")
-# These categories emit one table per immediate subfolder instead of a single aggregate.
-SPLIT_CATEGORIES = ("fighting-style",)
-HEADER = ("Feat", "Prerequisite", "Class + Level")
+# Category folders under feat/ that render as a letter-grouped card hub. Dragonmark and Epic are excluded.
+CATEGORIES = ("ancestry", "fighting-style", "general", "origin")
 SOURCE_ROOT = C.DOCS / "character/feat"
 MIRROR_ROOT = C.MIRROR / "character/feat"
-PREREQ_TAG = "Prerequisite:"
-
-# Conscious, category-wide decision: feats are NOT decomposed for nesting. The Dragonmarks and the
-# "learn a spell" feats (fey-touched, planar-wanderer, scion-of-crossroads, shadow-touched,
-# magic-initiate) carry two sub-heading tiers, which can't flatten to a single h6 tier
-# (see genSnippetCommon.IsSafelyDemotable). Revisit only if that structure is normalized.
-DECOMPOSABLE = False
 
 
-def Prereqs(card):
-    """(Class+Level, Other) prerequisite cells for a feat card."""
-    hasPrereq = card.subtitle is not None and card.subtitle.startswith(PREREQ_TAG)
-    body = card.subtitle[len(PREREQ_TAG):].strip() if hasPrereq else ""
-    classLevel, other = C.SplitPrereq(body) if body != "" else ("", "")
-    return (classLevel, other)
+def CategoryCards(folder):
+    """Every leaf card file in a category folder (any depth), excluding the index page."""
+    return [p for p in sorted(folder.rglob("*.md")) if p.name != "index.md"]
 
 
-def FolderCards(folder):
-    """Every feat card file under a folder (any depth), excluding index pages."""
-    found = []
-    for path in sorted(folder.rglob("*.md")):
-        if path.name != "index.md":
-            found.append(path)
-    return found
+def CardInclude(path):
+    """A `--8<--` directive that inlines a feat leaf's full card by its `docs`-relative path."""
+    return f'--8<-- "{path.relative_to(C.DOCS).as_posix()}"'
 
 
-def TableGroups(category):
-    """(sourceFolder, cardPaths) groups for a category: one group per immediate subfolder
-    for split categories, otherwise a single group covering the whole category."""
-    root = SOURCE_ROOT / category
-    folders = sorted(p for p in root.iterdir() if p.is_dir()) if category in SPLIT_CATEGORIES else [root]
-    return [(folder, FolderCards(folder)) for folder in folders]
+def LetterGroupedCards(records):
+    """Records (title, includeDirective) as a letter jump-nav + `## <Letter>` sections of inline cards.
 
-
-# Tables this generator used to emit but no longer does; removed so stale copies don't linger.
-LEGACY_TABLES = (MIRROR_ROOT / "_table_feat.md", MIRROR_ROOT / "fighting-style" / "_index_table.md")
+    Leads with the jump nav (every bucket shown, active ones linked); an empty set yields the nav alone.
+    """
+    ordered = sorted(records, key=lambda entry: entry[0].lower())
+    letters = sorted(set(C.LetterKey(title) for title, _ in ordered))
+    parts = [C.LetterJumpNav(set(letter.lower() for letter in letters)), ""]
+    for letter in letters:
+        parts.append(f"## {letter}")
+        parts.append("")
+        for title, include in [(t, i) for t, i in ordered if C.LetterKey(t) == letter]:
+            parts.append(include)
+            parts.append("")
+    return "\n".join(parts).rstrip("\n") + "\n"
 
 
 def Main():
-    written = []
-    tables = 0
     for category in CATEGORIES:
-        for folder, paths in TableGroups(category):
-            records = []
-            for path in paths:
-                card = C.ReadCard(path)
-                classLevel, other = Prereqs(card)
-                row = C.RenderRow([C.Link(card), other, classLevel])
-                written.append(C.WriteSnippet(path, row))
-                records.append((card.title, C.RowInclude(path)))
-            records.sort(key=lambda rec: rec[0].lower())
-            rows = [row for (title, row) in records]
-            C.WriteText(C.MIRROR / folder.relative_to(C.DOCS) / "_index_table.md", C.TableBlock(HEADER, rows))
-            tables += 1
-    for legacy in LEGACY_TABLES:
-        if legacy.exists():
-            legacy.unlink()
-    removed = C.PruneOrphans(MIRROR_ROOT, written)
-    print(f"Feats: wrote {len(written)} rows across {tables} tables, pruned {removed}.")
+        # Wipe the category's mirror (drops stale _row snippets and any old sub-folders) and rebuild fresh.
+        shutil.rmtree(MIRROR_ROOT / category, ignore_errors=True)
+        records = [(C.ReadCard(p).title, CardInclude(p)) for p in CategoryCards(SOURCE_ROOT / category)]
+        C.WriteText(MIRROR_ROOT / category / "_index_table.md", LetterGroupedCards(records))
+    print(f"Feats: wrote {len(CATEGORIES)} card indices.")
 
 
 if __name__ == "__main__":

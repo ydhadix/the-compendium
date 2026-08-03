@@ -1,1 +1,0 @@
-| [Defensive](/character/feat/fighting-style/basic/defensive.md) | — | — |

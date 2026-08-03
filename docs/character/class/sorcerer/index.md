@@ -25,9 +25,9 @@ Sorcerers are casters born with innate magic, shaping raw power that surges from
 | | |
 |---|---|
 | Starting Ability | Wisdom or Charisma |
-| Feature Ability | Same as Starting Ability |
-| Hit Die | d6 |
-| Starting Equipment | 50 gold<br>or<br>Spear, 2 Daggers, Arcane Focus, Dungeoneer's Pack, and 28 gold |
+| Class Ability | Same as Starting Ability |
+| Hit Die | **d6** |
+| Starting Equipment | **50** gold<br>or<br>Spear, **2** Daggers, Arcane Focus, Dungeoneer's Pack, and **28** gold |
 
 ### Primary Proficiencies
 When you choose Sorcerer as your Primary Class, you gain the following proficiencies:
@@ -39,7 +39,7 @@ When you choose Sorcerer as your Primary Class, you gain the following proficien
 | Armor | — |
 | Weapons | Simple |
 | Trades | — |
-| Skills | Arcana and 2 from Deception, Insight, Intimidation, Persuasion, or Religion |
+| Skills | Arcana and **2** from Deception, Insight, Intimidation, Persuasion, or Religion |
 
 ### Secondary Proficiencies
 When you choose Sorcerer as your Secondary Class, you gain the following proficiencies:

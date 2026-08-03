@@ -1,1 +1,0 @@
-| [Weapon Training](/character/feat/fighting-style/basic/weapon-training.md) | — | — |

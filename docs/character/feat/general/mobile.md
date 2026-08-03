@@ -1,5 +1,5 @@
 ### Mobile
-Prerequisite: 2 Dexterity or Constitution
+Prerequisite: **2** Dexterity or Constitution
 { .subtitle }
 
 #### Speed Increase

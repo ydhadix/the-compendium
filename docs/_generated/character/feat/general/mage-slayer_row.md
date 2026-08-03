@@ -1,1 +1,0 @@
-| [Mage Slayer](/character/feat/general/mage-slayer.md) | — | — |

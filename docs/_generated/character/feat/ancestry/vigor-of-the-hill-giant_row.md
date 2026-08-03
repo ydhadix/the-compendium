@@ -1,1 +1,0 @@
-| [Vigor of the Hill Giant](/character/feat/ancestry/vigor-of-the-hill-giant.md) | Goliath (Hill Ancestry) | — |

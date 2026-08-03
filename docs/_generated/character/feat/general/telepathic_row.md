@@ -1,1 +1,0 @@
-| [Telepathic](/character/feat/general/telepathic.md) | — | — |

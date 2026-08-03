@@ -21,9 +21,9 @@ Rangers are hunters and trackers at home in the wilds, blending martial skill, p
 | | |
 |---|---|
 | Starting Ability | Strength or Dexterity |
-| Feature Ability | Intelligence or Wisdom |
-| Hit Die | d10 |
-| Starting Equipment | 150 gold<br>or<br>Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus, Explorer's Pack and 7 gold |
+| Class Ability | Intelligence or Wisdom |
+| Hit Die | **d10** |
+| Starting Equipment | **150** gold<br>or<br>Leather Armor, Scimitar, Shortsword, Longbow, **20** Arrows, Quiver, Druidic Focus, Explorer's Pack and **7** gold |
 
 ### Primary Proficiencies
 When you choose Ranger as your Primary Class, you gain the following proficiencies:
@@ -35,7 +35,7 @@ When you choose Ranger as your Primary Class, you gain the following proficienci
 | Armor | Light, Medium |
 | Weapons | Simple, Fences, Bows |
 | Trades | — |
-| Skills | Survival and 3 from Acrobatics, Athletics, Insight, Nature, Perception, or Stealth |
+| Skills | Survival and **3** from Acrobatics, Athletics, Insight, Nature, Perception, or Stealth |
 
 ### Secondary Proficiencies
 When you choose Ranger as your Secondary Class, you gain the following proficiencies:
@@ -95,7 +95,7 @@ After a Long Rest, you can replace one of your Weapon Masteries.
 | 11 | 10 | 4 | 3 | 3 |
 
 #### Spellcasting Ability
-Your Feature Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Ranger Spells use a Druidic Focus as a Spellcasting Focus.
 #### Spells Prepared
@@ -145,7 +145,7 @@ You gain [additional options](imprint/index.md#level-7) for your [Primal Imprint
 
 
 ### 8: Vanish
-Bonus Action, Feature Ability uses per Long Rest
+Bonus Action, Class Ability uses per Long Rest
 { .subtitle }
 
 You become Invisible and Hidden until the end of your next Turn. Your Hide DC is your Ranger Spell Save DC.

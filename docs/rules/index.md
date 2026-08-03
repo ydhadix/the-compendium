@@ -209,7 +209,7 @@
 | [Familiar](/bestiary/index.md#familiars) | NPC |
 | [Feat](/character/feat/index.md) | Hero Handbook |
 | [Feature](/bestiary/index.md#features) | Creature Codex |
-| [Feature Ability](/character/class/index.md#feature-ability) | Class |
+| [Class Ability](/character/class/index.md#class-ability) | Class |
 | [Fence](/item/weapon/index.md#martial-weapons) | Martial Weapon |
 | [Fey](/bestiary/type/fey.md) | Creature Type |
 | [Fiend](/bestiary/type/fiend.md) | Creature Type |

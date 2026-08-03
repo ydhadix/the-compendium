@@ -1,1 +1,0 @@
-| [Scion of Chaos](/character/feat/general/scion-of-chaos.md) | Chaotic alignment, no Scion Feat | — |

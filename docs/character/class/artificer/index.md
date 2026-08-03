@@ -21,9 +21,9 @@ Artificers are inventors who channel magic through tools, devices, and infused c
 | | |
 |---|---|
 | Starting Ability | Intelligence |
-| Feature Ability | Same as Starting Ability |
-| Hit Die | d8 |
-| Starting Equipment | 150 gold<br>or<br>chain shirt, tinker's tools, dagger, dungeoneer's pack, and 34 gold |
+| Class Ability | Same as Starting Ability |
+| Hit Die | **d8** |
+| Starting Equipment | **150** gold<br>or<br>chain shirt, tinker's tools, dagger, dungeoneer's pack, and **34** gold |
 
 ### Primary Proficiencies
 When you choose Artificer as your Primary Class, you gain the following proficiencies:
@@ -34,8 +34,8 @@ When you choose Artificer as your Primary Class, you gain the following proficie
 | Save Aptitude | Will |
 | Armor | Light, Medium |
 | Weapons | Simple, Firearms |
-| Trades | Tinker's Tools and 1 Artisan's Tool |
-| Skills | Arcana and 3 from History, Medicine, Nature, Perception, Persuasion, or Precision |
+| Trades | Tinker's Tools and **1** Artisan's Tool |
+| Skills | Arcana and **3** from History, Medicine, Nature, Perception, Persuasion, or Precision |
 
 ### Secondary Proficiencies
 When you choose Artificer as your Secondary Class, you gain the following proficiencies:

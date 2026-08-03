@@ -1,1 +1,0 @@
-| [Ritual Caster](/character/feat/general/ritual-caster.md) | 2 Intelligence, Wisdom, or Charisma | — |

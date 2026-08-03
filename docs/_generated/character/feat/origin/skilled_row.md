@@ -1,1 +1,0 @@
-| [Skilled](/character/feat/origin/skilled.md) | — | — |

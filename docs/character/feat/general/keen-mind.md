@@ -1,5 +1,5 @@
 ### Keen Mind
-Prerequisite: 2 Intelligence
+Prerequisite: **2** Intelligence
 { .subtitle }
 
 #### Lore Knowledge

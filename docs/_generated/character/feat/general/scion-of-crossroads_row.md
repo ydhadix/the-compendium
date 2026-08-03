@@ -1,1 +1,0 @@
-| [Scion of Crossroads](/character/feat/general/scion-of-crossroads.md) | Neutral alignment, no Scion Feat | — |

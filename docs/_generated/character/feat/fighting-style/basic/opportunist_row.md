@@ -1,1 +1,0 @@
-| [Opportunist](/character/feat/fighting-style/basic/opportunist.md) | — | — |

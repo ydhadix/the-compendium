@@ -1,1 +1,0 @@
-| [Charger](/character/feat/fighting-style/basic/charger.md) | — | — |

@@ -1,1 +1,0 @@
-| [Mark of Passage](/character/feat/dragonmark/mark-of-passage.md) | No other Dragonmark | — |

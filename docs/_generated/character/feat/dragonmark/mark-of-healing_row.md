@@ -1,1 +1,0 @@
-| [Mark of Healing](/character/feat/dragonmark/mark-of-healing.md) | No other Dragonmark | — |

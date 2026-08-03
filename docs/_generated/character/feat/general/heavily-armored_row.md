@@ -1,1 +1,0 @@
-| [Heavily Armored](/character/feat/general/heavily-armored.md) | Medium Armor Proficiency | — |

@@ -1,1 +1,0 @@
-| [Observant](/character/feat/general/observant.md) | 2 Intelligence or Wisdom | — |
