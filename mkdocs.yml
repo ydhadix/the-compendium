@@ -101,19 +101,19 @@ nav:
 
     - Rules Rolodex:
       - Rules Overview:             rules/index.md
-      - Encounters:                 rules/encounter.md
-      - Resting:                    rules/rest.md
-      - Targeting:                  rules/target.md
-      - Actions:                    rules/action.md
-      - Conditions:                 rules/condition.md
-      - Hazards:                    rules/hazard.md
       - Dice Rolls:
         - Dice Overview:            rules/dice/index.md
         - Ability Checks:           rules/dice/check.md
         - Attack Rolls:             rules/dice/attack.md
         - Saving Throws:            rules/dice/save.md
         - Damage Rolls:             rules/dice/damage.md
+      - Actions:                    rules/action.md
       - Movement:                   rules/movement.md
+      - Targeting:                  rules/target.md
+      - Encounters:                 rules/encounter.md
+      - Conditions:                 rules/condition.md
+      - Hazards:                    rules/hazard.md
+      - Resting:                    rules/rest.md
 
     - Hero Handbook:
       - Character Overview:         character/index.md
@@ -168,7 +168,6 @@ nav:
           - Basic Styles:           character/feat/fighting-style/basic/index.md
           - Advanced Styles:        character/feat/fighting-style/advanced/index.md
         - Ancestry Feats:           character/feat/ancestry/index.md
-        - "---": "sep:"
         - Epic Boons (WIP):         character/feat/epic/index.md
         - Dragonmarks:              character/feat/dragonmark/index.md
 
