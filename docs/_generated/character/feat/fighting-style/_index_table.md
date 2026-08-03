@@ -1,4 +1,4 @@
-0-9 · A · [B](#b) · [C](#c) · [D](#d) · E · [F](#f) · [G](#g) · H · I · J · K · L · [M](#m) · N · [O](#o) · [P](#p) · Q · R · [S](#s) · [T](#t) · U · [V](#v) · [W](#w) · X · Y · Z
+0-9 · A · [B](#b) · [C](#c) · [D](#d) · E · [F](#f) · [G](#g) · [H](#h) · I · J · K · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · Q · R · [S](#s) · [T](#t) · U · [V](#v) · [W](#w) · X · Y · Z
 { .keyword-jump }
 
 ## B
@@ -19,7 +19,11 @@
 
 --8<-- "character/feat/fighting-style/charger.md"
 
+--8<-- "character/feat/fighting-style/cleave.md"
+
 --8<-- "character/feat/fighting-style/crossbow-expert.md"
+
+--8<-- "character/feat/fighting-style/crusher.md"
 
 ## D
 
@@ -43,19 +47,43 @@
 
 --8<-- "character/feat/fighting-style/grappling.md"
 
+--8<-- "character/feat/fighting-style/graze.md"
+
 --8<-- "character/feat/fighting-style/great-weapon-expert.md"
 
 --8<-- "character/feat/fighting-style/great-weapon-fighting.md"
 
+## H
+
+--8<-- "character/feat/fighting-style/heavily-armored.md"
+
+--8<-- "character/feat/fighting-style/heavy-armor-master.md"
+
+## L
+
+--8<-- "character/feat/fighting-style/lightly-armored.md"
+
 ## M
+
+--8<-- "character/feat/fighting-style/mage-slayer.md"
 
 --8<-- "character/feat/fighting-style/marking.md"
 
+--8<-- "character/feat/fighting-style/medium-armor-master.md"
+
 --8<-- "character/feat/fighting-style/melee-shooting.md"
+
+--8<-- "character/feat/fighting-style/mobile.md"
+
+--8<-- "character/feat/fighting-style/moderately-armored.md"
 
 --8<-- "character/feat/fighting-style/mounted.md"
 
 --8<-- "character/feat/fighting-style/mounted-expert.md"
+
+## N
+
+--8<-- "character/feat/fighting-style/nick.md"
 
 ## O
 
@@ -63,11 +91,21 @@
 
 ## P
 
+--8<-- "character/feat/fighting-style/pierce.md"
+
+--8<-- "character/feat/fighting-style/piercer.md"
+
+--8<-- "character/feat/fighting-style/poisoner.md"
+
 --8<-- "character/feat/fighting-style/polearm-expert.md"
 
 --8<-- "character/feat/fighting-style/protection.md"
 
+--8<-- "character/feat/fighting-style/push.md"
+
 ## S
+
+--8<-- "character/feat/fighting-style/sap.md"
 
 --8<-- "character/feat/fighting-style/savage.md"
 
@@ -83,7 +121,13 @@
 
 --8<-- "character/feat/fighting-style/shield-warrior.md"
 
+--8<-- "character/feat/fighting-style/skulker.md"
+
+--8<-- "character/feat/fighting-style/slasher.md"
+
 --8<-- "character/feat/fighting-style/sling-expert.md"
+
+--8<-- "character/feat/fighting-style/slow.md"
 
 --8<-- "character/feat/fighting-style/striking.md"
 
@@ -91,11 +135,15 @@
 
 --8<-- "character/feat/fighting-style/throwing.md"
 
+--8<-- "character/feat/fighting-style/topple.md"
+
 --8<-- "character/feat/fighting-style/two-weapon-fighting.md"
 
 ## V
 
 --8<-- "character/feat/fighting-style/variable.md"
+
+--8<-- "character/feat/fighting-style/vex.md"
 
 ## W
 

@@ -12,6 +12,9 @@ Every weapon is either **Melee** or **Ranged**. Melee weapons add your Strength 
 #### Delta Weapons
 Some weapon types have a Delta Weapon _(Δ)_ — an alternative build that shares Proficiency with its base weapon.
 
+#### Mastery
+A weapon's **Mastery** lists the Fighting Styles you can use while wielding it, provided you have learned that Fighting Style.
+
 ### Simple Weapons
 **Simple Weapons** require minimal training to use effectively.  All adventurers have Proficiency with Simple Weapons. 
 
@@ -87,3 +90,36 @@ You make an Athletics Check, contested by the target's Athletics or Acrobatics C
 
 #### Natural Weapons
 **Natural Weapons** are parts of a creature's body that make their Unarmed Strikes particularly dangerous.  Natural Weapons come in different forms, as defined by the features that grant them.
+
+## Weapon Properties
+**Weapon Properties** are traits that set one weapon apart from another, defining how it's held, how it strikes, and what a wielder can do with it.
+
+### Ammunition
+You can only make a Ranged Attack with an Ammunition weapon if you have Ammunition to fire from it. Each Attack Roll expends one piece of Ammunition.
+
+### Finesse
+A Finesse weapon can use Strength or Dexterity for Attack Rolls and Damage Rolls.
+
+### Heavy
+You gain Disadvantage on Attack Rolls with Heavy weapons unless your Strength is **2** or higher.
+
+### Light
+Bonus Action, 1 use per Turn
+{ .subtitle }
+
+After you attack with a Light weapon this Turn, you can attack with a different Light weapon in your other hand. You don't add your ability modifier to the Damage Roll, unless it is negative.
+
+### Loading
+A Loading weapon fires only one piece of Ammunition per Attack Action, regardless of how many Attack Rolls you can normally make.
+
+### Reach
+A Reach weapon extends your Reach by **5** feet.
+
+### Thrown
+You can make a Ranged Attack with a Thrown weapon using the same ability modifier you would use for a Melee Attack.  Ranged Attacks use the Range shown in parentheses.
+
+### Two-Handed
+Attacking with a Two-Handed weapon requires two hands.
+
+### Versatile
+You can attack with a Versatile weapon using one or two hands. Two-Handed Attacks use the Damage Dice shown in parentheses.

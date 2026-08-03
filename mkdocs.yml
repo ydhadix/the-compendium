@@ -42,10 +42,6 @@ exclude_docs: | # files/folders in docs/ that we don't want compiled
   rules/_condition/*.md
   rules/dice/_defense/*.md
   item/magic/infusion/_variant
-  item/weapon/property/*.md
-  !item/weapon/property/index.md
-  item/weapon/mastery/*.md
-  !item/weapon/mastery/index.md
   spelljammer/creation/base/*.md
   !spelljammer/creation/base/index.md
   spelljammer/creation/component/pilot/*.md
@@ -193,10 +189,7 @@ nav:
         - Tools:                    item/gear/tool/index.md
         - Writing Supplies:         item/gear/writing/index.md
       - Trades:                     item/trade/index.md
-      - Weapons:
-        - Weapons Overview:         item/weapon/index.md
-        - Weapon Properties:        item/weapon/property/index.md
-        - Weapon Mastery:           item/weapon/mastery/index.md
+      - Weapons:                    item/weapon.md
       - Armor:                      item/armor.md
       - Magic Items:
         - Infusion Overview:        item/magic/index.md

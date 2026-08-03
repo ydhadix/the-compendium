@@ -1,4 +1,4 @@
-0-9 · [A](#a) · B · [C](#c) · [D](#d) · [E](#e) · [F](#f) · G · [H](#h) · [I](#i) · J · [K](#k) · [L](#l) · [M](#m) · N · [O](#o) · [P](#p) · Q · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
+0-9 · [A](#a) · B · [C](#c) · [D](#d) · [E](#e) · [F](#f) · G · H · [I](#i) · J · [K](#k) · L · M · N · [O](#o) · [P](#p) · Q · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
 ## A
@@ -10,8 +10,6 @@
 ## C
 
 --8<-- "character/feat/general/chef.md"
-
---8<-- "character/feat/general/crusher.md"
 
 ## D
 
@@ -25,12 +23,6 @@
 
 --8<-- "character/feat/general/fey-touched.md"
 
-## H
-
---8<-- "character/feat/general/heavily-armored.md"
-
---8<-- "character/feat/general/heavy-armor-master.md"
-
 ## I
 
 --8<-- "character/feat/general/inspiring-leader.md"
@@ -39,33 +31,13 @@
 
 --8<-- "character/feat/general/keen-mind.md"
 
-## L
-
---8<-- "character/feat/general/lightly-armored.md"
-
-## M
-
---8<-- "character/feat/general/mage-slayer.md"
-
---8<-- "character/feat/general/martial-weapon-training.md"
-
---8<-- "character/feat/general/medium-armor-master.md"
-
---8<-- "character/feat/general/mobile.md"
-
---8<-- "character/feat/general/moderately-armored.md"
-
 ## O
 
 --8<-- "character/feat/general/observant.md"
 
 ## P
 
---8<-- "character/feat/general/piercer.md"
-
 --8<-- "character/feat/general/planar-wanderer.md"
-
---8<-- "character/feat/general/poisoner.md"
 
 ## R
 
@@ -90,10 +62,6 @@
 --8<-- "character/feat/general/shadow-touched.md"
 
 --8<-- "character/feat/general/skill-expert.md"
-
---8<-- "character/feat/general/skulker.md"
-
---8<-- "character/feat/general/slasher.md"
 
 --8<-- "character/feat/general/spell-sniper.md"
 

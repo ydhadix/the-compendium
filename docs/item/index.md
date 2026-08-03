@@ -14,7 +14,7 @@ Benefiting from items usually requires wearing or wielding them properly. An ite
 | [Shield](/item/armor.md#shields) | Donned in hand | **1** | Leatherworker's Tools, Smith's Tools, or Woodcarver's Tools |
 | [Spellcasting<br>Focus](/item/gear/spell-focus/index.md) | Held in hand | **1** per hand | Jeweler's Tools, Painter's Supplies, or Woodcarver's Tools |
 | [Tool](/item/gear/tool/index.md) | Held in hand | — | Tinker's Tools or another appropriate Artisan's Tool |
-| [Weapon](/item/weapon/index.md) | Held in hand | **1** per hand | Leatherworker's Tools, Smith's Tools, Tinker's Tools, or Woodcarver's Tools |
+| [Weapon](/item/weapon.md) | Held in hand | **1** per hand | Leatherworker's Tools, Smith's Tools, Tinker's Tools, or Woodcarver's Tools |
 | Other | Varies | Varies | Tinker's Tools or another appropriate Artisan's Tool |
 
 #### Consumable Items

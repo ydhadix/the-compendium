@@ -66,7 +66,7 @@ The [Artificer Table](#class-table) shows how many items you can infuse. To infu
 --8<-- "_generated/item/magic/infusion/uncommon/wand-of-secrets_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/weapon-of-returning_row.md"
 | Any [Artisan's Tool](/item/trade/index.md#artisans-tools) | Tool (Artisan's Tool) | — | — |
-| [+1 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
+| [+1 Weapon](/item/weapon.md) | Weapon (Any) | — | — |
 | [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
 | [+1 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
 
@@ -184,7 +184,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 | [Any Uncommon Infusion](/item/magic/infusion/uncommon/index.md) | Varies | Uncommon | Varies |
-| [+2 Weapon](/item/weapon/index.md) | Weapon (Any) | — | — |
+| [+2 Weapon](/item/weapon.md) | Weapon (Any) | — | — |
 | [+2 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
 | [+2 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
 
