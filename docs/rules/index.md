@@ -90,7 +90,7 @@
 | [Charmed](/rules/condition.md#charmed) | Condition |
 | [Class](/character/class/index.md) | Hero Handbook |
 | [Class Level](/character/class/index.md#leveling-up) | Class |
-| [Cleave](/character/feat/fighting-style/index.md#cleave) | Weapon Mastery |
+| [Cleave](/character/feat/fighting-style/index.md#cleave) | Weapon Technique |
 | [Cleric](/character/class/cleric/index.md) | Class |
 | [Climb](/rules/movement.md#climbing) | Movement |
 | [Climb Speed](/rules/movement.md#climbing) | Speed |
@@ -247,7 +247,7 @@
 | [Grappled](/rules/condition.md#grappled) | Condition |
 | [Gravity](/spelljammer/index.md#gravity) | Spelljammer |
 | [Gravity Plane](/spelljammer/index.md#gravity) | Spelljammer Gravity |
-| [Graze](/character/feat/fighting-style/index.md#graze) | Weapon Mastery |
+| [Graze](/character/feat/fighting-style/index.md#graze) | Weapon Technique |
 
 ### H
 | Keyword | Location |
@@ -370,7 +370,7 @@
 | [Necromancy](/spell/index.md#schools-of-magic) | School of Magic |
 | [Necrotic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Neutral](/bestiary/index.md#alignment) | Alignment |
-| [Nick](/character/feat/fighting-style/index.md#nick) | Weapon Mastery |
+| [Nick](/character/feat/fighting-style/index.md#nick) | Weapon Technique |
 | [Nonlethal Attack](/rules/dice/attack.md#nonlethal-attacks) | Attack Roll |
 | [Normal Action](/rules/action.md#normal-actions) | Action |
 | [Normal Range](/rules/dice/attack.md#ranged-attacks) | Attack Range |
@@ -402,7 +402,7 @@
 | [Persuasion](/rules/dice/check.md#skills) | Skill |
 | [Petrified](/rules/condition.md#petrified) | Condition |
 | [Physical](/rules/dice/damage.md#physical-damage) | Damage Type |
-| [Pierce](/character/feat/fighting-style/index.md#pierce) | Weapon Mastery |
+| [Pierce](/character/feat/fighting-style/index.md#pierce) | Weapon Technique |
 | [Piercing](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Pilot](/spelljammer/officer/pilot/index.md) | Spelljammer Officer |
 | [Pilot Action](/spelljammer/officer/pilot/index.md#pilot-actions) | Spelljammer Pilot |
@@ -426,7 +426,7 @@
 | [Protection](/rules/dice/save.md#protection) | Saving Throw |
 | [Protocol](/spelljammer/officer/spelljammer/index.md#protocols) | Spelljammer |
 | [Psychic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
-| [Push](/character/feat/fighting-style/index.md#push) | Weapon Mastery |
+| [Push](/character/feat/fighting-style/index.md#push) | Weapon Technique |
 
 ### Q
 | Keyword | Location |
@@ -463,7 +463,7 @@
 ### S
 | Keyword | Location |
 |---|---|
-| [Sap](/character/feat/fighting-style/index.md#sap) | Weapon Mastery |
+| [Sap](/character/feat/fighting-style/index.md#sap) | Weapon Technique |
 | [Saving Throw](/rules/dice/save.md) | Dice Roll |
 | [School of Magic](/spell/index.md#schools-of-magic) | School of Magic |
 | [Scroll](/item/index.md#item-types) | Adventuring Gear |
@@ -487,7 +487,7 @@
 | [Slashing](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Sleep Deprivation](/rules/hazard.md#sleep-deprivation) | Rest |
 | [Sling](/item/weapon.md#simple-weapons) | Simple Weapon |
-| [Slow](/character/feat/fighting-style/index.md#slow) | Weapon Mastery |
+| [Slow](/character/feat/fighting-style/index.md#slow) | Weapon Technique |
 | [Small](/bestiary/index.md#size-category) | Size Category |
 | [Somatic](/spell/index.md#somatic) | Spell Component |
 | [Sorcerer](/character/class/sorcerer/index.md) | Class |
@@ -539,7 +539,7 @@
 | [Tiefling](/character/race/tiefling.md) | Race |
 | [Tiny](/bestiary/index.md#size-category) | Size Category |
 | [Tool](/item/index.md#item-types) | Adventuring Gear |
-| [Topple](/character/feat/fighting-style/index.md#topple) | Weapon Mastery |
+| [Topple](/character/feat/fighting-style/index.md#topple) | Weapon Technique |
 | [Trade](/item/index.md) | Item Index |
 | [Trait](/bestiary/index.md#traits) | Creature Codex |
 | [Transmutation](/spell/index.md#schools-of-magic) | School of Magic |
@@ -570,7 +570,7 @@
 | [Verbal](/spell/index.md#verbal) | Spell Component |
 | [Versatile](/item/weapon.md#versatile) | Weapon Property |
 | [Very Rare](/item/magic/infusion/very-rare/index.md) | Infusion Rarity |
-| [Vex](/character/feat/fighting-style/index.md#vex) | Weapon Mastery |
+| [Vex](/character/feat/fighting-style/index.md#vex) | Weapon Technique |
 | [Visibility](/rules/target.md#obscurement) | Visibility |
 | [Vulnerability](/rules/dice/damage.md#vulnerability) | Damage Roll |
 
@@ -581,8 +581,8 @@
 | [Warlock](/character/class/warlock/index.md) | Class |
 | [Weapon](/item/weapon.md) | Item Index |
 | [Weapon Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
-| [Weapon Mastery](/item/weapon.md#mastery) | Weapon Mastery |
 | [Weapon Property](/item/weapon.md#weapon-properties) | Weapon Property |
+| [Weapon Techniques](/item/weapon.md#techniques) | Weapon Technique |
 | [Week](/rules/rest.md#time) | Time |
 | [Will](/rules/dice/save.md#types-of-saves) | Saving Throw |
 | [Wisdom](/rules/dice/index.md) | Ability |

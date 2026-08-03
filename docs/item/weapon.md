@@ -12,20 +12,20 @@ Every weapon is either **Melee** or **Ranged**. Melee weapons add your Strength 
 #### Delta Weapons
 Some weapon types have a Delta Weapon _(Δ)_ — an alternative build that shares Proficiency with its base weapon.
 
-#### Mastery
-A weapon's **Mastery** lists the Fighting Styles you can use while wielding it, provided you have learned that Fighting Style.
+#### Techniques
+A weapon's **Techniques** list the Fighting Styles you can use while wielding it, provided you have learned that Fighting Style.
 
 ### Simple Weapons
 **Simple Weapons** require minimal training to use effectively.  All adventurers have Proficiency with Simple Weapons. 
 
-| Melee | Damage | Weight | Hands | Properties | Mastery | Value | Examples |
+| Melee | Damage | Weight | Hands | Properties | Techniques | Value | Examples |
 |---|---|---|---|---|---|---|---|
 | Sidearm | 1d4 Bludgeoning, Piercing, or Slashing | Light | One | Finesse, Thrown (20/60) | Nick, Sap, Slow, Vex | 1 gold | Club, Dagger, Dart, Sickle |
 | Sidearm Δ | 1d6 Bludgeoning, Piercing, or Slashing | Light | One | Thrown (20/60) | Nick, Sap, Slow, Vex | 2 gold | Handaxe, Light Hammer |
 | Staff | 1d6 Bludgeoning or Piercing | — | Versatile (1d8) | Thrown (20/60) | Sap, Slow, Topple | 1 gold | Quarterstaff, Mace, Spear |
 | Staff Δ | 1d6 Bludgeoning or Piercing | — | One | Thrown (30/90) | Sap, Slow, Topple | 2 gold | Javelin, Trident |
 
-| Ranged | Damage | Weight | Hands | Properties | Mastery | Value | Examples |
+| Ranged | Damage | Weight | Hands | Properties | Techniques | Value | Examples |
 |---|---|---|---|---|---|---|---|
 | Sling | 1d4 Bludgeoning | — | One | Ammunition (40/160) | Slow, Topple | 1 gold | Sling |
 | Crossbow | 1d6 Piercing | Light | One | Ammunition (40/160), Loading | Slow, Vex | 25 gold | Hand Crossbow |
@@ -34,14 +34,14 @@ A weapon's **Mastery** lists the Fighting Styles you can use while wielding it, 
 #### Improvised Weapons
 **Improvised Weapons** are makeshift weapons, or a weapon wielded improperly _(such as making a Melee Attack with a Ranged weapon)_. Improvised weapons are Simple Melee Weapons.
 
-| Name | Damage | Weight | Hands | Properties | Mastery | Value |
+| Name | Damage | Weight | Hands | Properties | Techniques | Value |
 |---|---|---|---|---|---|---|
 | Improvised | 1d4 Bludgeoning, Piercing, or Slashing | Light | Versatile (1d6) | Thrown (10/30) | — | — |
 
 ### Martial Weapons
 **Martial Weapons** have superior damage and a wider variety of properties but require specific training to use.
 
-| Melee | Damage | Weight | Hands | Properties | Mastery | Value | Examples |
+| Melee | Damage | Weight | Hands | Properties | Techniques | Value | Examples |
 |---|---|---|---|---|---|---|---|
 | Fence | 1d6 Slashing or Piercing | Light | One | Finesse | Nick, Graze, Slow, Vex | 10 gold | Scimitar, Shortsword |
 | Fence Δ | 1d8 Slashing or Piercing | — | One | Finesse | Graze, Slow, Vex | 20 gold | Rapier |
@@ -51,7 +51,7 @@ A weapon's **Mastery** lists the Fighting Styles you can use while wielding it, 
 | Hammer Δ | 1d12 or 2d6 Bludgeoning or Piercing | Heavy | Two | — | Cleave, Push, Sap, Topple | 10 gold | Maul |
 | Polearm | 1d10 Slashing or Piercing | Heavy | Two | Reach | Cleave, Graze, Push, Topple | 20 gold | Glaive, Halberd, Lance, Pike |
 
-| Ranged | Damage | Weight | Hands | Properties | Mastery | Value | Examples |
+| Ranged | Damage | Weight | Hands | Properties | Techniques | Value | Examples |
 |---|---|---|---|---|---|---|---|
 | Bow | 1d8 Piercing | — | Two | Ammunition (80/320) | Sap, Slow, Vex | 25 gold | Shortbow |
 | Bow Δ | 1d10 Piercing | Heavy | Two | Ammunition (150/600) | Pierce, Sap, Slow, Vex | 50 gold | Longbow |
@@ -61,7 +61,7 @@ A weapon's **Mastery** lists the Fighting Styles you can use while wielding it, 
 ### Unarmed Strikes
 An **Unarmed Strike** is an attack that uses part of the attacker's body, such as a punch or kick. Every creature has Proficiency with Unarmed Strikes. 
 
-| Name | Damage | Weight | Hands | Properties | Mastery | Value |
+| Name | Damage | Weight | Hands | Properties | Techniques | Value |
 |---|---|---|---|---|---|---|
 | Unarmed | 1d4 Bludgeoning | — | Versatile (1d6) | — | — | — |
 

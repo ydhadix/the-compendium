@@ -69,7 +69,7 @@ When you choose Sorcerer as your Secondary Class, you gain the following profici
 | 11 | 6 | 16 | 84 |
 
 #### Spellcasting Ability
-Your Sorcerer Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Sorcerer Spells use an Arcane Focus as a Spellcasting Focus.
 #### Spells Prepared

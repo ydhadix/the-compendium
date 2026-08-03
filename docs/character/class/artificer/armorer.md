@@ -46,7 +46,7 @@ You can don or doff the Armor.
 ### 3: Armor Model
 Choose one of the following Armor Models for your Arcane Armor.
 
-Each Armor Model has a special Weapon. Attacks with this Weapon can use your Artificer Ability.
+Each Armor Model has a special Weapon. Attacks with this Weapon can use your Class Ability.
 ###### Changing Armor Model
 After a Short Rest, you can change your Armor Model.
 ###### Quick Changing Armor Model
@@ -59,7 +59,7 @@ You can change your Armor Model.
 ###### Wrecking Ball
 The Wrecking Ball is a Simple Melee Weapon with the Reach property that deals **1d10** Force Damage. After you damage a creature up to **1** Size Category larger than you with this Weapon, you move it up to **10** feet.
 ###### Giant Stature
-Bonus Action, Artificer Ability uses per Long Rest
+Bonus Action, Class Ability uses per Long Rest
 { .subtitle }
 
 For **1** minute, you are Large and your Reach increases by **5** feet.
@@ -97,7 +97,7 @@ Before you use Giant Stature, you can become Large or Huge, your Reach increases
 
 ##### Armor Model: Guardian
 ###### Offensive Field
-Reaction, Artificer Ability uses per Long Rest
+Reaction, Class Ability uses per Long Rest
 { .subtitle }
 
 After a Huge or smaller creature ends its Turn within **30** feet, you can force it to make a Fortitude Save against your Artificer Spell Save DC.
@@ -111,7 +111,7 @@ After a Huge or smaller creature ends its Turn within **30** feet, you can force
 ###### Lightning Launcher
 After you damage a creature with your Lightning Launcher, it emits Bright Light out to **5** feet and Dim Light **5** feet further, and gains Disadvantage on Attack Rolls against you until the start of your next Turn.
 ###### Aerial Dash
-Bonus Action, Artificer Ability uses per Long Rest
+Bonus Action, Class Ability uses per Long Rest
 { .subtitle }
 
 You gain a Fly Speed equal to twice your Speed until the end of your Turn.

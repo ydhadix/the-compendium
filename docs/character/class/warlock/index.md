@@ -69,7 +69,7 @@ When you choose Warlock as your Secondary Class, you gain the following proficie
 | 11 | 4 | 10 | 3 | 5th |
 
 #### Spellcasting Ability
-Your Warlock Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Warlock Spells use an Arcane Focus as a Spellcasting Focus.
 #### Spells Prepared

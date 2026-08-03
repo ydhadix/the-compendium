@@ -61,12 +61,12 @@ Magic Action, 1 Channel Divinity use
 
 You can target one creature within **30** feet with one of the following effects:
 
-- You heal the target by **1d8 + Cleric Ability**
+- You heal the target by **1d8 + Class Ability**
 - The target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You deal **1d8 + Cleric Ability** Necrotic or Radiant Damage. |
+| Fail | You deal **1d8 + Class Ability** Necrotic or Radiant Damage. |
 | Success | You deal half as much damage. |
 
 Add **1d8** to the healing and damage at Level 5, Level 11, and Level 17.
@@ -78,7 +78,7 @@ Each Undead within **30** feet makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You deal **1d8 + Cleric Ability** Radiant Damage, and you frighten and incapacitate the target. While the target is Frightened by you, it moves as far from you as it can on its Turns. This effect ends early if the target takes damage, you are Incapacitated, or you die. |
+| Fail | You deal **1d8 + Class Ability** Radiant Damage, and you frighten and incapacitate the target. While the target is Frightened by you, it moves as far from you as it can on its Turns. This effect ends early if the target takes damage, you are Incapacitated, or you die. |
 | Success | No effect. |
 
 Add **1d8** to the damage at Level 5, Level 11, and Level 17.
@@ -87,7 +87,7 @@ Add **1d8** to the damage at Level 5, Level 11, and Level 17.
 ### 1: Divine Order
 Choose one of the following benefits.
 ##### Priest
-While you are Unarmored, your base Armor Class becomes **8 + DEX + Cleric Ability + PB**.
+While you are Unarmored, your base Armor Class becomes **8 + DEX + Class Ability + PB**.
 ##### Protector
 You gain Proficiency with Heavy Armor and one Martial Weapon category.
 ##### Thaumaturge
@@ -110,7 +110,7 @@ You learn **1** additional Cleric Cantrip and gain Religion Expertise.
 | 11 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 |
 
 #### Spellcasting Ability
-Your Cleric Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Cleric Spells use a Holy Symbol as a Spellcasting Focus.
 #### Spells Prepared
@@ -145,7 +145,7 @@ Choose one of the following benefits.
 ##### Divine Strike
 Before you deal damage with a Weapon, you can add **1d8** Necrotic or Radiant Damage.
 ##### Potent Spellcasting
-Before you deal damage with a Cleric Cantrip, you can add **Cleric Ability** damage.
+Before you deal damage with a Cleric Cantrip, you can add **Class Ability** damage.
 
 
 ### 6: Subclass Feature
@@ -168,7 +168,7 @@ The benefit you chose for Blessed Strikes improves.
 ##### Divine Strike
 The additional damage becomes **2d8**.
 ##### Potent Spellcasting
-Before you deal damage with a Cleric Cantrip, one creature within **60** feet gains **Cleric Ability × 2** Temporary Hit Points.
+Before you deal damage with a Cleric Cantrip, one creature within **60** feet gains **Class Ability × 2** Temporary Hit Points.
 
 
 ### 11: Divine Intervention

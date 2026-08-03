@@ -29,11 +29,11 @@ If a creature adds your Inspiration Die to a D20 Test and still fails, that crea
 Magic Action, 1 use per Long Rest or 1 Spell Slot
 { .subtitle }
 
-Up to **Charisma** (minimum 1) creatures within **60** feet can understand you for **1** hour _(regardless of the language you speak)_.
+Up to **Class Ability** (minimum 1) creatures within **60** feet can understand you for **1** hour _(regardless of the language you speak)_.
 
 
 ### 9: Infectious Inspiration
-Reaction, Charisma uses (minimum 1) per Long Rest
+Reaction, Class Ability uses (minimum 1) per Long Rest
 { .subtitle }
 
 After a creature within **60** feet adds your Inspiration Die to a D20 Test and succeeds, you can give a second creature within **60** feet an Inspiration Die _(without expending a use of Bardic Inspiration)_.

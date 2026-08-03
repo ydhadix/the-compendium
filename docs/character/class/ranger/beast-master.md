@@ -68,7 +68,7 @@ After you change your companion's form, you can increase its Size Category by **
 #### Bestial Fury
 The number of Attacks your companion can make with its Attack Action increases by **1**.
 #### Strike Mastery
-Your companion's Beast Strike can use the Graze or Sap Weapon Mastery.
+Your companion's Beast Strike can use the Graze or Sap Weapon Technique.
 
 ## Primal Companion Forms
 

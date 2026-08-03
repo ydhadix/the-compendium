@@ -3,19 +3,19 @@ Rangers are hunters and trackers at home in the wilds, blending martial skill, p
 { .subtitle }
 
 ## Class Table
-| Level | Features | Marked Target | Mark Damage | Primal Imprint |
-|---|---|---|---|---|
-|  1 | [Marked Target](#1-marked-target),<br>[Primal Imprint](#1-primal-imprint),<br>[Weapon Mastery](#1-weapon-mastery) | 2 | 1d6 | 2 |
-|  2 | [Spellcasting](#2-spellcasting),<br>[Fighting Style](#2-fighting-style) | 2 | 1d6 | 2 |
-|  3 | [Ranger Subclass](#3-ranger-subclass) | 2 | 1d6 | 2 |
-|  4 | [Imprinting Adept](#4-imprinting-adept) | 3 | 1d8 | 3 |
-|  5 | [Extra Attack](#5-extra-attack) | 3 | 1d8 | 3 |
-|  6 | [Subclass Feature](#6-subclass-feature) | 3 | 1d8 | 3 |
-|  7 | [Imprinting Expert](#7-imprinting-expert) | 4 | 1d10 | 4 |
-|  8 | [Vanish](#8-vanish) | 4 | 1d10 | 4 |
-|  9 | [Subclass Feature](#9-subclass-feature) | 4 | 1d10 | 4 |
-| 10 | [Imprinting Master](#10-imprinting-master) | 5 | 1d12 | 5 |
-| 11 | [Foe Slayer](#11-foe-slayer) | 5 | 1d12 | 5 |
+| Level | Features | Marked Target | Mark Damage | Primal Imprint | Fighting Styles |
+|---|---|---|---|---|---|
+|  1 | [Marked Target](#1-marked-target),<br>[Primal Imprint](#1-primal-imprint),<br>[Fighting Style](#1-fighting-style) | 2 | 1d6 | 2 | 3 |
+|  2 | [Spellcasting](#2-spellcasting),<br> | 2 | 1d6 | 2 | 3 |
+|  3 | [Ranger Subclass](#3-ranger-subclass) | 2 | 1d6 | 2 | 3 |
+|  4 | [Imprinting Adept](#4-imprinting-adept) | 3 | 1d8 | 3 | 4 |
+|  5 | [Extra Attack](#5-extra-attack) | 3 | 1d8 | 3 | 4 |
+|  6 | [Subclass Feature](#6-subclass-feature) | 3 | 1d8 | 3 | 4 |
+|  7 | [Imprinting Expert](#7-imprinting-expert) | 4 | 1d10 | 4 | 4 |
+|  8 | [Vanish](#8-vanish) | 4 | 1d10 | 4 | 4 |
+|  9 | [Subclass Feature](#9-subclass-feature) | 4 | 1d10 | 4 | 4 |
+| 10 | [Imprinting Master](#10-imprinting-master) | 5 | 1d12 | 5 | 5 |
+| 11 | [Foe Slayer](#11-foe-slayer) | 5 | 1d12 | 5 | 5 |
 
 ## Class Details
 | | |
@@ -74,10 +74,10 @@ The [Ranger Table](#class-table) shows how many [Primal Imprints](imprint/index.
 After a Long Rest, you can replace one of your known Imprints.
 
 
-### 1: Weapon Mastery
-You learn **2** Weapon Masteries.
-###### Changing Weapon Masteries
-After a Long Rest, you can replace one of your Weapon Masteries.
+### 1: Fighting Style
+You learn Fighting Styles.  The [Ranger Table](#class-table) shows how many Fighting Styles you know.
+###### Changing Fighting Styles
+Whenever you level up, you can change one of your Fighting Styles.
 
 
 ### 2: Spellcasting
@@ -108,10 +108,7 @@ The Spellcasting table shows how many Spell Slots you have.
 After a Long Rest, you regain all your Spell Slots.
 
 
-### 2: Fighting Style
-You gain a Fighting Style feat.
-###### Changing Fighting Styles
-Whenever you level up, you can change your Fighting Style feat.
+### 2: TBD
 
 
 ### 3: Ranger Subclass

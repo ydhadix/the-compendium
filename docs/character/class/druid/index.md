@@ -70,7 +70,7 @@ When you choose Druid as your Secondary Class, you gain the following proficienc
 | 11 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 |
 
 #### Spellcasting Ability
-Your Druid Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Druid Spells use a Druidic Focus as a Spellcasting Focus.
 #### Spells Prepared

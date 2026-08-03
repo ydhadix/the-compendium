@@ -36,7 +36,7 @@ While **Unarmored**, your Armor Class is only based on your Dexterity and Profic
 
 | Name | Armor Class | Strength Requirement | Damage Reduction | Item Capacity | Stealth Penalty | Value |
 |---|---|---|---|---|---|---|
-| Unarmored | 8 + DEX | — | — | 4 | — | — |
+| Unarmored | 8 + DEX + PB | — | — | 4 | — | — |
 
 #### Natural Armor
 **Natural Armor** is part of a creature's body that makes them particularly hard to hit.  Natural Armor usually uses the defenses of Light, Medium, or Heavy Armor, but the creature is still considered Unarmored.
@@ -46,27 +46,27 @@ While **Unarmored**, your Armor Class is only based on your Dexterity and Profic
 
 | Name | Armor Class | Strength Requirement | Damage Reduction | Item Capacity | Stealth Penalty | Value |
 |---|---|---|---|---|---|---|
-| Padded Armor | 9 + DEX | — | — | 6 | — | 10 gold |
-| Leather Armor | 10 + DEX | — | — | 6 | — | 45 gold |
+| Padded Armor | 9 + DEX + PB | — | — | 6 | — | 10 gold |
+| Leather Armor | 10 + DEX + PB | — | — | 6 | — | 45 gold |
 
 ### Medium Armor
 **Medium Armor** caps the Dexterity you add to your Armor Class, but also grants Damage Reduction.
 
 | Name | Armor Class | Strength Requirement | Damage Reduction | Item Capacity | Stealth Penalty | Value |
 |---|---|---|---|---|---|---|
-| Chain Shirt | 12 + DEX (max 2) | — | STR (max 1) | 4 | — | 50 gold |
-| Scale Mail | 13 + DEX (max 2) | — | STR (max 2) | 4 | Disadvantage | 50 gold |
-| Breastplate | 13 + DEX (max 2) | — | STR (max 1) | 4 | — | 400 gold |
-| Half Plate | 14 + DEX (max 2) | — | STR (max 2) | 4 | Disadvantage | 750 gold |
+| Chain Shirt | 12 + DEX (max 2) + PB | — | STR (max 1) | 4 | — | 50 gold |
+| Scale Mail | 13 + DEX (max 2) + PB | — | STR (max 2) | 4 | Disadvantage | 50 gold |
+| Breastplate | 13 + DEX (max 2) + PB | — | STR (max 1) | 4 | — | 400 gold |
+| Half Plate | 14 + DEX (max 2) + PB | — | STR (max 2) | 4 | Disadvantage | 750 gold |
 
 ### Heavy Armor
 **Heavy Armor** offers the highest Armor Class and Damage Reduction, but requires Strength and penalizes Stealth.
 
 | Name | Armor Class | Strength Requirement | Damage Reduction | Item Capacity | Stealth Penalty | Value |
 |---|---|---|---|---|---|---|
-| Heavy Chain | 15 | 1 | STR (max 2) | 2 | Disadvantage | 75 gold |
-| Heavy Scale | 16 | 2 | STR (max 3) | 2 | Disadvantage | 200 gold |
-| Full Plate | 17 | 3 | STR (max 3) | 2 | Disadvantage | 1500 gold |
+| Heavy Chain | 15 + PB | 1 | STR (max 2) | 2 | Disadvantage | 75 gold |
+| Heavy Scale | 16 + PB | 2 | STR (max 3) | 2 | Disadvantage | 200 gold |
+| Full Plate | 17 + PB | 3 | STR (max 3) | 2 | Disadvantage | 1500 gold |
 
 ### Shields
 A **Shield** is carried in one hand, adding to a character's Armor Class at the cost of a free hand.

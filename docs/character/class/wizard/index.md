@@ -69,7 +69,7 @@ When you choose Wizard as your Secondary Class, you gain the following proficien
 | 11 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 |
 
 #### Spellcasting Ability
-Your Wizard Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Wizard Spells use an Arcane Focus as a Spellcasting Focus.
 #### Spells Prepared

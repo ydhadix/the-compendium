@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| Prerequisite | Fighting Style, Unarmored Stance, or Weapon Mastery |
+| Prerequisite | Fighting Style, Unarmored Stance, or Weapon Techniques |
 | Hirelings | 1 |
 | Tools | — |
 | Skills | Acrobatics, Athletics, Insight, Intimidation, Perception, Performance |
@@ -18,7 +18,7 @@ This gift grants one of the following benefits:
 
 - You gain Proficiency in one of this Facility's Skills.
 - You gain Proficiency with a Martial weapon category.
-- You learn a Weapon Mastery.
+- You learn a Weapon Technique.
 
 #### Upgrading
 | Upgrade | Size | Effect |

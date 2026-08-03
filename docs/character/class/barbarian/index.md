@@ -4,19 +4,19 @@ Barbarians are ferocious warriors who draw on primal rage, trading caution for r
 
 
 ## Class Table
-| Level | Features | Rage | Rage Bonus | Weapon Mastery |
+| Level | Features | Rage | Rage Bonus | Fighting Styles |
 |---|---|---|---|---|
-|  1 | [Rage](#1-rage),<br>[Unarmored Stance](#1-unarmored-stance),<br>[Weapon Mastery](#1-weapon-mastery) | 2 | +2 | 2 |
-|  2 | [Reckless Attack](#2-reckless-attack),<br>[Fighting Style](#2-fighting-style) | 2 | +2 | 2 |
-|  3 | [Barbarian Subclass](#3-barbarian-subclass) | 2 | +2 | 2 |
-|  4 | [Brutal Strike](#4-brutal-strike) | 3 | +3 | 3 |
-|  5 | [Extra Attack](#5-extra-attack) | 3 | +3 | 3 |
-|  6 | [Subclass Feature](#6-subclass-feature) | 3 | +3 | 3 |
-|  7 | [Brutal Strike Improvement](#7-brutal-strike-improvement) | 4 | +3 | 4 |
-|  8 | [Relentless Rage](#8-relentless-rage) | 4 | +3 | 4 |
-|  9 | [Subclass Feature](#9-subclass-feature) | 4 | +3 | 4 |
-| 10 | [Persistent Rage](#10-persistent-rage) | 5 | +4 | 4 |
-| 11 | [Primal Champion](#11-primal-champion) | 5 | +4 | 4 |
+|  1 | [Rage](#1-rage),<br>[Unarmored Stance](#1-unarmored-stance),<br>[Fighting Style](#1-fighting-style) | 2 | +2 | 3 |
+|  2 | [Reckless Attack](#2-reckless-attack),<br> | 2 | +2 | 3 |
+|  3 | [Barbarian Subclass](#3-barbarian-subclass) | 2 | +2 | 3 |
+|  4 | [Brutal Strike](#4-brutal-strike) | 3 | +3 | 4 |
+|  5 | [Extra Attack](#5-extra-attack) | 3 | +3 | 4 |
+|  6 | [Subclass Feature](#6-subclass-feature) | 3 | +3 | 4 |
+|  7 | [Brutal Strike Improvement](#7-brutal-strike-improvement) | 4 | +3 | 5 |
+|  8 | [Relentless Rage](#8-relentless-rage) | 4 | +3 | 5 |
+|  9 | [Subclass Feature](#9-subclass-feature) | 4 | +3 | 5 |
+| 10 | [Persistent Rage](#10-persistent-rage) | 5 | +4 | 6 |
+| 11 | [Primal Champion](#11-primal-champion) | 5 | +4 | 6 |
 
 ## Class Details
 | | |
@@ -79,17 +79,17 @@ You can extend your Rage's duration to the end of your next turn, up to a maximu
 ### 1: Unarmored Stance
 While you are Unarmored _(you can still don a Shield)_, you gain the following benefits:
 #### Unarmored Defense
-Your base Armor Class becomes **8 + Dexterity + Class Ability + PB**.
+Your base Armor Class becomes **8 + DEX + Class Ability + PB**.
 #### Unarmored Movement
 Your Speed increases by **10** feet.
 #### Unarmored Reflexes
 You gain Reflex Protection and Advantage on Initiative Checks.
 
 
-### 1: Weapon Mastery
-You learn Weapon Masteries. The [Barbarian Table](#class-table) shows how many Weapon Masteries you know.
-###### Changing Weapon Masteries
-After a Long Rest, you can replace one of your Weapon Masteries.
+### 1: Fighting Style
+You learn Fighting Styles.  The [Barbarian Table](#class-table) shows how many Fighting Styles you know.
+###### Changing Fighting Styles
+Whenever you level up, you can change one of your Fighting Styles.
 
 
 ### 2: Reckless Attack
@@ -99,11 +99,7 @@ Before you Attack for the first time on your Turn, you can gain the following ef
 - Attack Rolls against you gain Advantage.
 
 
-### 2: Fighting Style
-You gain a Fighting Style feat.
-###### Changing Fighting Styles
-Whenever you level up, you can change your Fighting Style feat.
-
+### 2: TBD
 
 ### 3: Barbarian Subclass
 Choose a Barbarian Subclass. Your subclass grants you a feature at this level.

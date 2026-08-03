@@ -3,19 +3,19 @@ Artificers are inventors who channel magic through tools, devices, and infused c
 { .subtitle }
 
 ## Class Table
-| Level | Features | Infused Items | Improvise |
-|---|---|---|---|
-|  1 | [Infuse Items](#1-infuse-items),<br>[Tradesman](#1-tradesman),<br>[Spellcasting](#1-spellcasting) | - | 2 |
-|  2 | [Improvise](#2-improvise),<br>[Fighting Style](#2-fighting-style) | 3 | 3 |
-|  3 | [Artificer Subclass](#3-artificer-subclass) | 3 | 3 |
-|  4 | [Magic Item Adept](#4-magic-item-adept) | 4 | 4 |
-|  5 | [Extra Attack](#5-extra-attack) | 4 | 4 |
-|  6 | [Subclass Feature](#6-subclass-feature) | 4 | 4 |
-|  7 | [Magic Item Expert](#7-magic-item-expert) | 5 | 5 |
-|  8 | [Spell-Storing Item](#8-spell-storing-item) | 5 | 5 |
-|  9 | [Subclass Feature](#9-subclass-feature) | 5 | 5 |
-| 10 | [Magic Item Master](#10-magic-item-master) | 6 | 6 |
-| 11 | [Soul of Artifice](#11-soul-of-artifice) | 6 | 6 |
+| Level | Features | Infused Items | Improvise | Fighting Styles |
+|---|---|---|---|---|
+|  1 | [Infuse Items](#1-infuse-items),<br>[Tradesman](#1-tradesman),<br>[Spellcasting](#1-spellcasting) | - | 2 | - |
+|  2 | [Improvise](#2-improvise),<br>[Fighting Style](#2-fighting-style) | 3 | 3 | 2 |
+|  3 | [Artificer Subclass](#3-artificer-subclass) | 3 | 3 | 2 |
+|  4 | [Magic Item Adept](#4-magic-item-adept) | 4 | 4 | 3 |
+|  5 | [Extra Attack](#5-extra-attack) | 4 | 4 | 3 |
+|  6 | [Subclass Feature](#6-subclass-feature) | 4 | 4 | 3 |
+|  7 | [Magic Item Expert](#7-magic-item-expert) | 5 | 5 | 3 |
+|  8 | [Spell-Storing Item](#8-spell-storing-item) | 5 | 5 | 3 |
+|  9 | [Subclass Feature](#9-subclass-feature) | 5 | 5 | 3 |
+| 10 | [Magic Item Master](#10-magic-item-master) | 6 | 6 | 4 |
+| 11 | [Soul of Artifice](#11-soul-of-artifice) | 6 | 6 | 4 |
 
 ## Class Details
 | | |
@@ -54,7 +54,7 @@ After a Long Rest, you can infuse Magic Item effects into appropriate nearby ite
 
 After you infuse an item, you can Attune to it immediately.
 
-The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end.
+The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end first.
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -65,7 +65,7 @@ The [Artificer Table](#class-table) shows how many items you can infuse. To infu
 --8<-- "_generated/item/magic/infusion/uncommon/sending-stones_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/wand-of-secrets_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/weapon-of-returning_row.md"
-| Any [Artisan's Tool](/item/trade/index.md#artisans-tools) | Tool (Artisan's Tool) | — | — |
+| [Any Artisan's Tool](/item/trade/index.md#artisans-tools) | Tool (Artisan's Tool) | — | — |
 | [+1 Weapon](/item/weapon.md) | Weapon (Any) | — | — |
 | [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
 | [+1 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
@@ -98,7 +98,7 @@ When you cast _Find Familiar_, you can choose an Animated Assistant as your Fami
 | 11 | 4 | 10 | 4 | 3 | 3 |
 
 #### Spellcasting Ability
-Your Artificer Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Artificer Spells use any Artisan's Tool or Infused Item as a Spellcasting Focus.
 #### Spells Prepared
@@ -126,13 +126,13 @@ You change one of your Infused Items.
 Reaction, 1 Improvise use
 { .subtitle }
 
-Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Artificer Ability** to that Ability Check or Saving Throw.
+Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Class Ability** to that Ability Check or Saving Throw.
 
 
 ### 2: Fighting Style
-You gain a Fighting Style feat.
+You learn a Fighting Style.
 ###### Changing Fighting Styles
-Whenever you level up, you can change your Fighting Style feat.
+Whenever you level up, you can change your Fighting Style.
 
 
 ### 3: Artificer Subclass
@@ -192,7 +192,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 ### 8: Spell-Storing Item
 After a Long Rest, you can choose a Weapon or Artificer Spellcasting Focus and an Artificer Spell. The chosen item gains the following effect until you use this feature again:
 ###### Spell-Storing Item
-2 × Artificer Ability uses per Long Rest
+2 × Class Ability uses per Long Rest
 { .subtitle }
 
 A creature holding this item can cast the chosen Spell using your Spellcasting Ability.

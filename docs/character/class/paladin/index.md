@@ -7,19 +7,19 @@ Paladins are holy warriors bound by a sacred oath, blending martial might with d
 
 
 ## Class Table
-| Level | Features | Channel Divinity |
-|---|---|---|
-|  1 | [Weapon Mastery](#1-weapon-mastery) | 1 |
-|  2 | [Spellcasting](#2-spellcasting),<br>[Fighting Style](#2-fighting-style) | 1 |
-|  3 | [Paladin Subclass](#3-paladin-subclass) | 1 |
-|  4 | <level 4 feature> | 1 |
-|  5 | [Extra Attack](#5-extra-attack) | 1 |
-|  6 | [Subclass Feature](#6-subclass-feature) | 1 |
-|  7 | <level 7 feature> | 2 |
-|  8 | <level 8 feature> | 2 |
-|  9 | [Subclass Feature](#9-subclass-feature) | 2 |
-| 10 | <level 10 feature> | 2 |
-| 11 | <level 11 feature> | 2 |
+| Level | Features | Channel Divinity | Fighting Styles |
+|---|---|---|---|
+|  1 | [Fighting Style](#1-fighting-style) | 1 | 3 |
+|  2 | [Spellcasting](#2-spellcasting) | 1 | 3 |
+|  3 | [Paladin Subclass](#3-paladin-subclass) | 1 | 3 |
+|  4 | <level 4 feature> | 1 | 4 |
+|  5 | [Extra Attack](#5-extra-attack) | 1 | 4 |
+|  6 | [Subclass Feature](#6-subclass-feature) | 1 | 4 |
+|  7 | <level 7 feature> | 2 | 4 |
+|  8 | <level 8 feature> | 2 | 4 |
+|  9 | [Subclass Feature](#9-subclass-feature) | 2 | 4 |
+| 10 | <level 10 feature> | 2 | 5 |
+| 11 | <level 11 feature> | 2 | 5 |
 
 ## Class Details
 | | |
@@ -53,11 +53,10 @@ When you choose Paladin as your Secondary Class, you gain the following proficie
 
 ## Class Features
 
-### 1: Weapon Mastery
-You learn **2** Weapon Masteries.
-###### Changing Weapon Masteries
-After a Long Rest, you can replace one of your Weapon Masteries.
-
+### 1: Fighting Style
+You learn Fighting Styles.  The [Paladin Table](#class-table) shows how many Fighting Styles you know.
+###### Changing Fighting Styles
+Whenever you level up, you can change one of your Fighting Styles.
 
 ### 2: Spellcasting
 | Level | Spells Prepared | 1st | 2nd | 3rd |
@@ -87,10 +86,7 @@ The Spellcasting table shows how many Spell Slots you have.
 After a Long Rest, you regain all your Spell Slots.
 
 
-### 2: Fighting Style
-You gain a Fighting Style feat.
-###### Changing Fighting Styles
-Whenever you level up, you can change your Fighting Style feat.
+<Level 2 Feature>
 
 
 ### 3: Paladin Subclass

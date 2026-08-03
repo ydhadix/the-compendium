@@ -36,7 +36,7 @@ Your assistant can deliver any Spell, not just Reach Spells _(A Spell that targe
 ### 3: Adventurer's Atlas
 After a Long Rest, you can create an Adventurer's Atlas. The atlas disappears if you create another Adventurer's Atlas.
 
-The atlas contains your name and up to **Artificer Ability** additional names _(minimum **1**)_. A creature can only write its own name in the atlas, and you can erase any other name in the atlas by touching it. (You can remove your name from the atlas, though that doesn't allow you to add another creature in your place.)
+The atlas contains your name and up to **Class Ability** additional names _(minimum **1**)_. A creature can only write its own name in the atlas, and you can erase any other name in the atlas by touching it. (You can remove your name from the atlas, though that doesn't allow you to add another creature in your place.)
 #### Secret Shortcuts
 You can spend **15** feet of movement to teleport up to **10** feet.
 #### Global Positioning

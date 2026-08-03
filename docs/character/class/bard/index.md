@@ -88,7 +88,7 @@ Choose one of the following Magical Secrets. You can learn Cantrips and prepare 
 | 11 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 |
 
 #### Spellcasting Ability
-Your Bard Ability is your Spellcasting Ability.
+Your Class Ability is your Spellcasting Ability.
 #### Spellcasting Focus
 Bard Spells use a Musical Instrument as a Spellcasting Focus.
 #### Spells Prepared
