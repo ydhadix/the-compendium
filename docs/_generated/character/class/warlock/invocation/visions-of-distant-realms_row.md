@@ -1,1 +1,0 @@
-| [Visions of Distant Realms](#visions-of-distant-realms) | — | Warlock 10 |

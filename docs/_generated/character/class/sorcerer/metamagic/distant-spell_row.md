@@ -1,1 +1,0 @@
-| [Distant Spell](#distant-spell) | — | — |

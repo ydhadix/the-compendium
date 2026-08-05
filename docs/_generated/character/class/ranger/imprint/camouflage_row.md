@@ -1,1 +1,0 @@
-| [Camouflage](#camouflage) | — | Ranger 1 |

@@ -1,1 +1,0 @@
-| [Barrel Roll](#barrel-roll) |  |  | ✓ | ✓ |  |  | ✓ |

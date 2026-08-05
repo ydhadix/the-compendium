@@ -1,1 +1,0 @@
-| [Gift of the Depths](#gift-of-the-depths) | — | Warlock 5 |

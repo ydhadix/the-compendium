@@ -1,1 +1,0 @@
-| [Thirsting Blade](#thirsting-blade) | Pact of the Blade | Warlock 5 |

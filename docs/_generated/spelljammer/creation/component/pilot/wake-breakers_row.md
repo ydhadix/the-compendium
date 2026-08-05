@@ -1,1 +1,0 @@
-| [Wake Breakers](/spelljammer/creation/component/pilot/wake-breakers.md) |

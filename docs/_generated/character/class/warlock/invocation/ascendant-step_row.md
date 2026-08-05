@@ -1,1 +1,0 @@
-| [Ascendant Step](#ascendant-step) | — | Warlock 5 |

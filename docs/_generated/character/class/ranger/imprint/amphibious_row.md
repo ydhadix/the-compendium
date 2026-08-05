@@ -1,1 +1,0 @@
-| [Amphibious](#amphibious) | — | Ranger 4 |

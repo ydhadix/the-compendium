@@ -1,1 +1,0 @@
-| [Gift of the Protectors](#gift-of-the-protectors) | Pact of the Tome | Warlock 7 |

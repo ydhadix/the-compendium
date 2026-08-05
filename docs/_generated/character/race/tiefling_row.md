@@ -1,1 +1,0 @@
-| [Tiefling](/character/race/tiefling.md) | CON + **1** | Humanoid<br>& Fiend | Medium<br>/ Small | **30** ft. | **5** ft. | **8** | Darkvision _(**60** ft.)_ |

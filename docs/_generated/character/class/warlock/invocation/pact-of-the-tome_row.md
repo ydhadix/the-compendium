@@ -1,1 +1,0 @@
-| [Pact of the Tome](#pact-of-the-tome) | — | Warlock 1 |

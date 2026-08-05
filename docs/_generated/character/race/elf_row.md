@@ -1,1 +1,0 @@
-| [Elf](/character/race/elf.md) | DEX + **1** | Humanoid | Medium | **35** ft. | **5** ft. | **6** | Darkvision _(**60** ft.)_ |

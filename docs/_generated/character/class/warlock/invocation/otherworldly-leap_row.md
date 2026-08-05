@@ -1,1 +1,0 @@
-| [Otherworldly Leap](#otherworldly-leap) | — | Warlock 2 |

@@ -1,1 +1,0 @@
-| [Heightened Spell](#heightened-spell) | — | — |

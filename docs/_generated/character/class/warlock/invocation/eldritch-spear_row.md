@@ -1,1 +1,0 @@
-| [Eldritch Spear](#eldritch-spear) | a Warlock Cantrip with a Range | Warlock 2 |

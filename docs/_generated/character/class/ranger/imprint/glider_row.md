@@ -1,1 +1,0 @@
-| [Glider](#glider) | — | Ranger 7 |

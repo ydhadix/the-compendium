@@ -1,1 +1,0 @@
-| [Whispers of the Grave](#whispers-of-the-grave) | — | Warlock 7 |

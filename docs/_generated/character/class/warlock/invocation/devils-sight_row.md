@@ -1,1 +1,0 @@
-| [Devil's Sight](#devils-sight) | — | Warlock 2 |

@@ -1,1 +1,0 @@
-| [Bioluminescence](#bioluminescence) | — | Ranger 1 |

@@ -1,1 +1,0 @@
-| [Witch Sight](#witch-sight) | — | Warlock 10 |

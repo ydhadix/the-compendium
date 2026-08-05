@@ -1,1 +1,0 @@
-| [Pact of the Blade](#pact-of-the-blade) | — | Warlock 1 |

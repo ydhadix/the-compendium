@@ -1,1 +1,0 @@
-| [Powerful Build](#powerful-build) | — | Ranger 1 |

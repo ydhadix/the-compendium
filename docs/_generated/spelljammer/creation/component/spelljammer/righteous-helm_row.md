@@ -1,1 +1,0 @@
-| [Righteous Helm](/spelljammer/creation/component/spelljammer/righteous-helm.md) |

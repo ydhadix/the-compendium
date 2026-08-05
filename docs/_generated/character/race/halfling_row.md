@@ -1,1 +1,0 @@
-| [Halfling](/character/race/halfling.md) | DEX + **1** | Humanoid | Small | **35** ft. | **5** ft. | **8** | — |

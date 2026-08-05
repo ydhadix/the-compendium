@@ -73,7 +73,7 @@ Reaction
 Before you take Falling Damage, you can reduce that damage by **LV × 5**.
 
 ### 1: Martial Arts
-You learn the Striking Fighting Style and can use it with Monk Weapons _(in addition to Unarmed Strikes)_.  The Damage Die increases as you gain Monk Levels, as shown in the [Monk Table](#class-table).
+You learn the Striker Fighting Style and can use it with Monk Weapons _(in addition to Unarmed Strikes)_.  The Damage Die increases as you gain Monk Levels, as shown in the [Monk Table](#class-table).
 #### Flurry of Blows
 Bonus Action
 { .subtitle }

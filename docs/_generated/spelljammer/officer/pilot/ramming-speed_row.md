@@ -1,1 +1,0 @@
-| [Ramming Speed](#ramming-speed) |  | ✓ | ✓ |  | ✓ |  |  |

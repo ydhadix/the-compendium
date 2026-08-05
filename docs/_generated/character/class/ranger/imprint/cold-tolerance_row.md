@@ -1,1 +1,0 @@
-| [Cold Tolerance](#cold-tolerance) | — | Ranger 4 |

@@ -1,1 +1,0 @@
-| [Pack Tactics](#pack-tactics) | — | Ranger 10 |

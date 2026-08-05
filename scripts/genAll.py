@@ -2,39 +2,28 @@
 
     python3 scripts/genAll.py
 
-Runs all section generators (magic items, spells, feats, subfeatures, items, components,
-protocols, bestiary). Each is idempotent and self-pruning, so this is safe to run any time sources change.
+Runs the metadata index-table generators — genTables (races, items, magic items, protocols),
+genSpells, and genBestiary — plus the generic inline-hub lister. Each is idempotent and
+self-pruning, so this is safe to run any time sources change.
 """
 
 import genBestiary
-import genComponentSnippet
-import genFeatSnippet
-import genItemSnippet
-import genMagicItemSnippet
-import genPilotSnippet
-import genProtocolSnippet
-import genRaceSnippet
-import genSpellSnippet
-import genSubfeatureSnippet
+import genInlineHub
+import genSpells
+import genTables
 
 GENERATORS = (
-    genMagicItemSnippet,
-    genSpellSnippet,
-    genFeatSnippet,
-    genSubfeatureSnippet,
-    genItemSnippet,
-    genComponentSnippet,
-    genProtocolSnippet,
-    genPilotSnippet,
-    genRaceSnippet,
-    genBestiary,
+   genTables,
+   genSpells,
+   genBestiary,
+   genInlineHub,
 )
 
 
-def Main():
-    for generator in GENERATORS:
-        generator.Main()
+def main():
+   for generator in GENERATORS:
+      generator.main()
 
 
 if __name__ == "__main__":
-    Main()
+   main()

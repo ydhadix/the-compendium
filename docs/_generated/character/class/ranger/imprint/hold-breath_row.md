@@ -1,1 +1,0 @@
-| [Hold Breath](#hold-breath) | — | Ranger 1 |

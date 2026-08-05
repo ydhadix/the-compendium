@@ -1,1 +1,0 @@
-| [Fiendish Vigor](#fiendish-vigor) | — | Warlock 2 |

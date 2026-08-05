@@ -1,1 +1,0 @@
-| [Investment of the Chain Master](#investment-of-the-chain-master) | Pact of the Chain | Warlock 5 |

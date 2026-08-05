@@ -1,1 +1,0 @@
-| [Misty Visions](#misty-visions) | — | Warlock 2 |

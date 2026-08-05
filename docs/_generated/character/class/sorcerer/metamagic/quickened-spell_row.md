@@ -1,1 +1,0 @@
-| [Quickened Spell](#quickened-spell) | — | — |

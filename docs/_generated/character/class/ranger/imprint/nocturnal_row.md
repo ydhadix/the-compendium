@@ -1,1 +1,0 @@
-| [Nocturnal](#nocturnal) | — | Ranger 4 |

@@ -1,1 +1,0 @@
-| [Gaze of Two Minds](#gaze-of-two-minds) | — | Warlock 5 |

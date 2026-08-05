@@ -1,1 +1,0 @@
-| [Transmuted Spell](#transmuted-spell) | — | — |

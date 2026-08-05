@@ -1,1 +1,0 @@
-| [Punch It](#punch-it) | ✓ | ✓ |  |  |  |  |  |

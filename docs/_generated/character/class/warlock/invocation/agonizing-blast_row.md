@@ -1,1 +1,0 @@
-| [Agonizing Blast](#agonizing-blast) | a Warlock Cantrip that deals damage | Warlock 2 |

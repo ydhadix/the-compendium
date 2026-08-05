@@ -37,33 +37,9 @@ extra_javascript:
   - javascripts/backtotop.js
 
 exclude_docs: | # files/folders in docs/ that we don't want compiled
-  _changelogs
-  _generated
-  rules/_condition/*.md
-  rules/dice/_defense/*.md
-  item/magic/infusion/_variant
+  _*
   spelljammer/creation/base/*.md
   !spelljammer/creation/base/index.md
-  spelljammer/creation/component/pilot/*.md
-  !spelljammer/creation/component/pilot/index.md
-  spelljammer/creation/component/quartermaster/*.md
-  !spelljammer/creation/component/quartermaster/index.md
-  spelljammer/creation/component/spelljammer/*.md
-  !spelljammer/creation/component/spelljammer/index.md
-  spelljammer/officer/pilot/*.md
-  !spelljammer/officer/pilot/index.md
-  character/class/ranger/imprint/*.md
-  !character/class/ranger/imprint/index.md
-  character/class/sorcerer/metamagic/*.md
-  !character/class/sorcerer/metamagic/index.md
-  character/class/warlock/invocation/*.md
-  !character/class/warlock/invocation/index.md
-  character/feat/origin/*.md
-  !character/feat/origin/index.md
-  character/feat/general/*.md
-  !character/feat/general/index.md
-  character/feat/ancestry/*.md
-  !character/feat/ancestry/index.md
 
 not_in_nav: | # collection dirs whose entry pages aren't in nav
   character/class/*/*/*
@@ -149,24 +125,28 @@ nav:
           - Paladin Overview:       character/class/paladin/index.md
         - Ranger:
           - Ranger Overview:        character/class/ranger/index.md
-          - Primal Imprints:        character/class/ranger/imprint/index.md
+          - Primal Imprints:        character/class/ranger/imprint.md
           - Beast Master:           character/class/ranger/beast-master.md
         - Rogue (WIP):
           - Rogue Overview:         character/class/rogue/index.md
         - Sorcerer (WIP):
           - Sorcerer Overview:      character/class/sorcerer/index.md
-          - Metamagic:              character/class/sorcerer/metamagic/index.md
+          - Metamagic:              character/class/sorcerer/metamagic.md
         - Warlock (WIP):
           - Warlock Overview:       character/class/warlock/index.md
-          - Eldritch Invocations:   character/class/warlock/invocation/index.md
+          - Eldritch Invocations:   character/class/warlock/invocation.md
         - Wizard (WIP):
           - Wizard Overview:        character/class/wizard/index.md
       - Feats:
         - Feats Overview:           character/feat/index.md
-        - Origin Feats:             character/feat/origin/index.md
-        - General Feats:            character/feat/general/index.md
-        - Fighting Styles:          character/feat/fighting-style/index.md
-        - Ancestry Feats:           character/feat/ancestry/index.md
+        - Origin Feats:             character/feat/origin.md
+        - General Feats:            character/feat/general.md
+        - Fighting Styles:
+          - Fighting Style Overview: character/feat/fighting-style/index.md
+          - Initiate Fighting Styles: character/feat/fighting-style/initiate.md
+          - Expert Fighting Styles: character/feat/fighting-style/expert.md
+          - Master Fighting Styles: character/feat/fighting-style/master.md
+        - Ancestry Feats:           character/feat/ancestry.md
         - Epic Boons (WIP):         character/feat/epic/index.md
         - Dragonmarks:              character/feat/dragonmark.md
 
@@ -252,7 +232,7 @@ nav:
       - Ship Encounters:            spelljammer/encounter.md
       - Ship Officers:
         - Officer Overview:         spelljammer/officer/index.md
-        - Pilot:                    spelljammer/officer/pilot/index.md
+        - Pilot:                    spelljammer/officer/pilot.md
         - Quartermaster:            spelljammer/officer/quartermaster.md
         - Spelljammer:              spelljammer/officer/spelljammer/index.md
       - Creating a Ship:

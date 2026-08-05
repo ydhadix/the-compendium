@@ -1,1 +1,0 @@
-| [Lessons of the First Ones](#lessons-of-the-first-ones) | — | Warlock 1 |

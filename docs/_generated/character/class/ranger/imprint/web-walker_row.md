@@ -1,1 +1,0 @@
-| [Web Walker](#web-walker) | — | Ranger 7 |

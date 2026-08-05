@@ -1,1 +1,0 @@
-| [Master of Myriad Forms](#master-of-myriad-forms) | — | Warlock 5 |

@@ -1,1 +1,0 @@
-| [Aasimar](/character/race/aasimar.md) | CON + **1** | Humanoid<br>& Celestial | Medium<br>/ Small | **30** ft. | **5** ft. | **8** | Darkvision _(**60** ft.)_ |

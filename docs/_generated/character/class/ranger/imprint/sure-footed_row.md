@@ -1,1 +1,0 @@
-| [Sure-Footed](#sure-footed) | — | Ranger 1 |

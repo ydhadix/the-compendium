@@ -1,0 +1,6 @@
+# Metamagic
+Metamagic is the art of bending a Spell as it's cast, letting a Sorcerer reshape its range, timing, or effect on the fly.
+{ .subtitle }
+
+--8<-- "_generated/character/class/sorcerer/_metamagic/_list.md"
+

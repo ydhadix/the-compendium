@@ -1,1 +1,0 @@
-| [Dwarf](/character/race/dwarf.md) | CON + **1** | Humanoid | Medium | **30** ft. | **5** ft. | **10** | Darkvision _(**120** ft.)_, Tremorsense _(**30** ft.)_ |

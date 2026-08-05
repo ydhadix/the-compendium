@@ -1,1 +1,0 @@
-| [Mask of Many Faces](#mask-of-many-faces) | — | Warlock 2 |

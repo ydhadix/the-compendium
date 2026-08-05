@@ -1,1 +1,0 @@
-| [Amorphous](#amorphous) | — | Ranger 7 |

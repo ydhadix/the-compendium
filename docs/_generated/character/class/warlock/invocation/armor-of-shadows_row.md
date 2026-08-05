@@ -1,1 +1,0 @@
-| [Armor of Shadows](#armor-of-shadows) | — | Warlock 1 |

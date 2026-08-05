@@ -19,4 +19,4 @@
 | Quartermaster | 3 |
 | Spelljammer | 1 |
 
---8<-- "_generated/spelljammer/creation/component/pilot/naval-ram.md"
+--8<-- "spelljammer/creation/component/_pilot/naval-ram.md"

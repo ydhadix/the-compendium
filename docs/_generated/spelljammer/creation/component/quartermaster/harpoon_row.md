@@ -1,1 +1,0 @@
-| [Harpoon](/spelljammer/creation/component/quartermaster/harpoon.md) |

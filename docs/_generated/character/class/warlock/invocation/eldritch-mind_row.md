@@ -1,1 +1,0 @@
-| [Eldritch Mind](#eldritch-mind) | — | Warlock 1 |

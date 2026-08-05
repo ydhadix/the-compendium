@@ -1,1 +1,0 @@
-| [Echolocation](#echolocation) | — | Ranger 7 |

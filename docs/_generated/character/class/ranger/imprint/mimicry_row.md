@@ -1,1 +1,0 @@
-| [Mimicry](#mimicry) | — | Ranger 4 |

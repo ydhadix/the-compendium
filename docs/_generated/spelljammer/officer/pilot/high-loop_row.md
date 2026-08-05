@@ -1,1 +1,0 @@
-| [High Loop](#high-loop) | ✓ |  |  | ✓ |  | ✓ | ✓ |

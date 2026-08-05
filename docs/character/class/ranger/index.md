@@ -69,7 +69,7 @@ You can cast _Hunter's Mark_ without a Spell Slot.
 
 
 ### 1: Primal Imprint
-The [Ranger Table](#class-table) shows how many [Primal Imprints](imprint/index.md) you know, and when you learn more.  You can't pick the same Imprint more than once.
+The [Ranger Table](#class-table) shows how many [Primal Imprints](imprint.md) you know, and when you learn more.  You can't pick the same Imprint more than once.
 ###### Changing Imprints
 After a Long Rest, you can replace one of your known Imprints.
 
@@ -123,7 +123,7 @@ Choose a Ranger Subclass. Your subclass grants you a feature at this level.
 #### Survivalist
 You gain Survival Expertise and learn **2** Standard or Exotic Languages.
 #### Additional Imprints
-You gain [additional options](imprint/index.md#level-4) for your [Primal Imprint](#1-primal-imprint).
+You gain [additional options](imprint.md#level-4) for your [Primal Imprint](#1-primal-imprint).
 
 
 ### 5: Extra Attack
@@ -138,7 +138,7 @@ Your subclass grants you an additional feature.
 #### Tireless
 After a Short Rest, your Exhaustion decreases by **1**.
 #### Additional Imprints
-You gain [additional options](imprint/index.md#level-7) for your [Primal Imprint](#1-primal-imprint).
+You gain [additional options](imprint.md#level-7) for your [Primal Imprint](#1-primal-imprint).
 
 
 ### 8: Vanish
@@ -153,7 +153,7 @@ Your subclass grants you an additional feature.
 
 
 ### 10: Imprinting Master
-You gain [additional options](imprint/index.md#level-10) for your [Primal Imprint](#1-primal-imprint).
+You gain [additional options](imprint.md#level-10) for your [Primal Imprint](#1-primal-imprint).
 
 
 ### 11: Foe Slayer

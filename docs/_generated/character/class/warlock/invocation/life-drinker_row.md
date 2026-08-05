@@ -1,1 +1,0 @@
-| [Life Drinker](#life-drinker) | Pact of the Blade | Warlock 7 |

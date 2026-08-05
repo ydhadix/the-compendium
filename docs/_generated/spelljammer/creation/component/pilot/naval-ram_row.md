@@ -1,1 +1,0 @@
-| [Naval Ram](/spelljammer/creation/component/pilot/naval-ram.md) |

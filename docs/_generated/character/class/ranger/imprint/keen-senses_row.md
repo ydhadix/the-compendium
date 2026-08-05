@@ -1,1 +1,0 @@
-| [Keen Senses](#keen-senses) | — | Ranger 1 |

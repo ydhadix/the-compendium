@@ -1,1 +1,0 @@
-| [Roving](#roving) | — | Ranger 4 |

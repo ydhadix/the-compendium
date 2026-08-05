@@ -1,1 +1,0 @@
-| [Living Hull](/spelljammer/creation/component/quartermaster/living-hull.md) |

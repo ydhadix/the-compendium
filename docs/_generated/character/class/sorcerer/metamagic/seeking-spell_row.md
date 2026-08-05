@@ -1,1 +1,0 @@
-| [Seeking Spell](#seeking-spell) | — | — |

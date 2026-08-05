@@ -65,10 +65,9 @@ Before or after you expend a use of [Action Surge](index.md#2-action-surge), you
 
 
 ### 6: War Magic
-You learn the Spellblade Fighting Style.
-
-After you hit a creature with a physical Attack, the next Saving Throw the creature makes against a Spell you cast gains Disadvantage before the end of your next Turn.
-
+You learn the Mage Slayer and Warcasting Master Fighting Styles.
 
 ### 9: Improved War Magic
+After you hit a creature with your Pact Weapon, the next Saving Throw the creature makes against a Spell you cast gains Disadvantage before the end of your next Turn.
+
 Before you Attack on your Turn, you can replace **2** of your Attacks with casting a 2nd-Level or lower Spell that has a Casting Time of **1** Action.

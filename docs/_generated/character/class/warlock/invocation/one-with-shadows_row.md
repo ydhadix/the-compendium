@@ -1,1 +1,0 @@
-| [One with Shadows](#one-with-shadows) | — | Warlock 5 |

@@ -1,1 +1,0 @@
-| [Carronade](/spelljammer/creation/component/quartermaster/carronade.md) |

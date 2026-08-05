@@ -1,1 +1,0 @@
-| [Eldritch Smite](#eldritch-smite) | — | Warlock 2 |

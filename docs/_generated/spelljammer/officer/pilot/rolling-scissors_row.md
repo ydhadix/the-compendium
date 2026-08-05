@@ -1,1 +1,0 @@
-| [Rolling Scissors](#rolling-scissors) | ✓ | ✓ | ✓ |  | ✓ |  |  |

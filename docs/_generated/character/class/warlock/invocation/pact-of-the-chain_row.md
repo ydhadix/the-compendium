@@ -1,1 +1,0 @@
-| [Pact of the Chain](#pact-of-the-chain) | — | Warlock 1 |

@@ -1,1 +1,0 @@
-| [Resonance Helm](/spelljammer/creation/component/spelljammer/resonance-helm.md) |

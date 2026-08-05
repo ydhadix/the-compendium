@@ -36,7 +36,7 @@
 | [Ally](/bestiary/index.md#disposition) | Disposition |
 | [Ammunition](/item/gear/combat/ammunition.md) | Adventuring Gear |
 | [Ammunition](/item/weapon.md#ammunition) | Weapon Property |
-| [Ancestry Feat](/character/feat/ancestry/index.md) | Feat |
+| [Ancestry Feat](/character/feat/ancestry.md) | Feat |
 | [Anchored](/rules/condition.md#anchored) | Condition |
 | [Aptitude](/rules/dice/index.md#degrees-of-proficiency) | Proficiency |
 | [Arcana](/rules/dice/check.md#skills) | Skill |
@@ -90,7 +90,7 @@
 | [Charmed](/rules/condition.md#charmed) | Condition |
 | [Class](/character/class/index.md) | Hero Handbook |
 | [Class Level](/character/class/index.md#leveling-up) | Class |
-| [Cleave](/character/feat/fighting-style/index.md#cleave) | Weapon Technique |
+| [Cleave](/character/feat/fighting-style/initiate.md#cleave) | Weapon Technique |
 | [Cleric](/character/class/cleric/index.md) | Class |
 | [Climb](/rules/movement.md#climbing) | Movement |
 | [Climb Speed](/rules/movement.md#climbing) | Speed |
@@ -247,7 +247,7 @@
 | [Grappled](/rules/condition.md#grappled) | Condition |
 | [Gravity](/spelljammer/index.md#gravity) | Spelljammer |
 | [Gravity Plane](/spelljammer/index.md#gravity) | Spelljammer Gravity |
-| [Graze](/character/feat/fighting-style/index.md#graze) | Weapon Technique |
+| [Graze](/character/feat/fighting-style/initiate.md#graze) | Weapon Technique |
 
 ### H
 | Keyword | Location |
@@ -261,7 +261,7 @@
 | [Heavily Obscured](/rules/target.md#obscurement) | Visibility |
 | [Heavy](/item/weapon.md#heavy) | Weapon Property |
 | [Heavy Armor](/item/armor.md#heavy-armor) | Armor Weight |
-| [Helm](/spelljammer/creation/component/spelljammer/index.md) | Spelljammer |
+| [Helm](/spelljammer/creation/component/spelljammer.md) | Spelljammer |
 | [Help Action](/rules/action.md#help) | Normal Action |
 | [Hidden](/rules/condition.md#hidden) | Condition |
 | [Hide Action](/rules/action.md#hide) | Normal Action |
@@ -283,7 +283,7 @@
 | [Illusion](/spell/index.md#schools-of-magic) | School of Magic |
 | [Immobile](/rules/condition.md#immobile) | Condition |
 | [Immunity](/rules/dice/damage.md#immunity) | Damage Roll |
-| [Imprint](/character/class/ranger/imprint/index.md) | Ranger Feature |
+| [Imprint](/character/class/ranger/imprint.md) | Ranger Feature |
 | [Improvised Weapon](/item/weapon.md#improvised-weapons) | Weapon |
 | [Incapacitated](/rules/condition.md#incapacitated) | Condition |
 | [Independent](/bestiary/index.md#disposition) | Disposition |
@@ -295,7 +295,7 @@
 | [Intelligence](/rules/dice/index.md) | Ability |
 | [Intimidation](/rules/dice/check.md#skills) | Skill |
 | [Invisible](/rules/condition.md#invisible) | Condition |
-| [Invocation](/character/class/warlock/invocation/index.md) | Warlock Feature |
+| [Invocation](/character/class/warlock/invocation.md) | Warlock Feature |
 | [Item](/item/index.md) | Item |
 
 ### J
@@ -339,8 +339,8 @@
 | [Magic Action](/rules/action.md#magic) | Normal Action |
 | [Magic Item](/item/magic/index.md) | Item Index |
 | [Magical Darkness](/rules/target.md#magical-darkness) | Visibility |
-| [Maneuver](/spelljammer/officer/pilot/index.md#pilot-maneuvers) | Spelljammer Pilot |
-| [Maneuver Dice](/spelljammer/officer/pilot/index.md#pilot-maneuvers) | Spelljammer Pilot |
+| [Maneuver](/spelljammer/officer/pilot.md#pilot-maneuvers) | Spelljammer Pilot |
+| [Maneuver Dice](/spelljammer/officer/pilot.md#pilot-maneuvers) | Spelljammer Pilot |
 | [Marked](/rules/condition.md#marked) | Condition |
 | [Martial Weapon](/item/weapon.md#martial-weapons) | Weapon |
 | [Masterwork](/item/index.md#masterwork) | Item Index |
@@ -351,7 +351,7 @@
 | [Medium Armor](/item/armor.md#medium-armor) | Armor Weight |
 | [Melee Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
 | [Melee Weapon](/item/weapon.md#melee-and-ranged-weapons) | Weapon |
-| [Metamagic](/character/class/sorcerer/metamagic/index.md) | Sorcerer Feature |
+| [Metamagic](/character/class/sorcerer/metamagic.md) | Sorcerer Feature |
 | [Microgravity](/spelljammer/index.md#gravity) | Spelljammer Gravity |
 | [Monk](/character/class/monk/index.md) | Class |
 | [Monstrosity](/bestiary/type/monstrosity.md) | Creature Type |
@@ -370,7 +370,7 @@
 | [Necromancy](/spell/index.md#schools-of-magic) | School of Magic |
 | [Necrotic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
 | [Neutral](/bestiary/index.md#alignment) | Alignment |
-| [Nick](/character/feat/fighting-style/index.md#nick) | Weapon Technique |
+| [Nick](/character/feat/fighting-style/initiate.md#nick) | Weapon Technique |
 | [Nonlethal Attack](/rules/dice/attack.md#nonlethal-attacks) | Attack Roll |
 | [Normal Action](/rules/action.md#normal-actions) | Action |
 | [Normal Range](/rules/dice/attack.md#ranged-attacks) | Attack Range |
@@ -402,11 +402,11 @@
 | [Persuasion](/rules/dice/check.md#skills) | Skill |
 | [Petrified](/rules/condition.md#petrified) | Condition |
 | [Physical](/rules/dice/damage.md#physical-damage) | Damage Type |
-| [Pierce](/character/feat/fighting-style/index.md#pierce) | Weapon Technique |
+| [Pierce](/character/feat/fighting-style/initiate.md#pierce) | Weapon Technique |
 | [Piercing](/rules/dice/damage.md#physical-damage) | Physical Damage |
-| [Pilot](/spelljammer/officer/pilot/index.md) | Spelljammer Officer |
-| [Pilot Action](/spelljammer/officer/pilot/index.md#pilot-actions) | Spelljammer Pilot |
-| [Piloting Check](/spelljammer/officer/pilot/index.md#piloting-checks) | Spelljammer Pilot |
+| [Pilot](/spelljammer/officer/pilot.md) | Spelljammer Officer |
+| [Pilot Action](/spelljammer/officer/pilot.md#pilot-actions) | Spelljammer Pilot |
+| [Piloting Check](/spelljammer/officer/pilot.md#piloting-checks) | Spelljammer Pilot |
 | [Plant](/bestiary/type/plant.md) | Creature Type |
 | [Platinum](/item/index.md#denominations) | Currency |
 | [Poison](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
@@ -426,7 +426,7 @@
 | [Protection](/rules/dice/save.md#protection) | Saving Throw |
 | [Protocol](/spelljammer/officer/spelljammer/index.md#protocols) | Spelljammer |
 | [Psychic](/rules/dice/damage.md#esoteric-damage) | Esoteric Damage |
-| [Push](/character/feat/fighting-style/index.md#push) | Weapon Technique |
+| [Push](/character/feat/fighting-style/initiate.md#push) | Weapon Technique |
 
 ### Q
 | Keyword | Location |
@@ -463,7 +463,7 @@
 ### S
 | Keyword | Location |
 |---|---|
-| [Sap](/character/feat/fighting-style/index.md#sap) | Weapon Technique |
+| [Sap](/character/feat/fighting-style/initiate.md#sap) | Weapon Technique |
 | [Saving Throw](/rules/dice/save.md) | Dice Roll |
 | [School of Magic](/spell/index.md#schools-of-magic) | School of Magic |
 | [Scroll](/item/index.md#item-types) | Adventuring Gear |
@@ -487,7 +487,7 @@
 | [Slashing](/rules/dice/damage.md#physical-damage) | Physical Damage |
 | [Sleep Deprivation](/rules/hazard.md#sleep-deprivation) | Rest |
 | [Sling](/item/weapon.md#simple-weapons) | Simple Weapon |
-| [Slow](/character/feat/fighting-style/index.md#slow) | Weapon Technique |
+| [Slow](/character/feat/fighting-style/initiate.md#slow) | Weapon Technique |
 | [Small](/bestiary/index.md#size-category) | Size Category |
 | [Somatic](/spell/index.md#somatic) | Spell Component |
 | [Sorcerer](/character/class/sorcerer/index.md) | Class |
@@ -539,7 +539,7 @@
 | [Tiefling](/character/race/tiefling.md) | Race |
 | [Tiny](/bestiary/index.md#size-category) | Size Category |
 | [Tool](/item/index.md#item-types) | Adventuring Gear |
-| [Topple](/character/feat/fighting-style/index.md#topple) | Weapon Technique |
+| [Topple](/character/feat/fighting-style/initiate.md#topple) | Weapon Technique |
 | [Trade](/item/index.md) | Item Index |
 | [Trait](/bestiary/index.md#traits) | Creature Codex |
 | [Transmutation](/spell/index.md#schools-of-magic) | School of Magic |
@@ -570,7 +570,7 @@
 | [Verbal](/spell/index.md#verbal) | Spell Component |
 | [Versatile](/item/weapon.md#versatile) | Weapon Property |
 | [Very Rare](/item/magic/infusion/very-rare/index.md) | Infusion Rarity |
-| [Vex](/character/feat/fighting-style/index.md#vex) | Weapon Technique |
+| [Vex](/character/feat/fighting-style/initiate.md#vex) | Weapon Technique |
 | [Visibility](/rules/target.md#obscurement) | Visibility |
 | [Vulnerability](/rules/dice/damage.md#vulnerability) | Damage Roll |
 
