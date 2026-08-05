@@ -4,7 +4,7 @@
 
 | Feats | |
 |---|---|
-| [Origin Feats](origin/index.md) | **Origin Feats** are foundational talents a character gains at Level **1**. |
+| [Origin Feats](origin/index.md) | **Origin Feats** are foundational talents a character learns at Level **1**. |
 | [General Feats](general/index.md) | **General Feats** are broadly useful talents a character earns as they level up. |
 | [Fighting Styles](fighting-style/index.md) | **Fighting Styles** are martial combat specialties a character can learn. |
 | [Ancestry Feats](ancestry/index.md) | **Ancestry Feats** deepen a character's racial characteristics. |

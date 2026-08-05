@@ -22,4 +22,4 @@ Before you roll a d20, you can roll an additional d20 and choose which d20 to us
 You gain Proficiency in one Skill.
 
 ### Versatile
-You gain an Origin Feat.
+You learn an Origin Feat.

@@ -1,4 +1,5 @@
 ### Elemental Adept
+
 Choose an Elemental Damage Type.
 
 #### Energy Mastery

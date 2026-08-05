@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| Prerequisite | Fighting Style, Unarmored Stance, or Weapon Techniques |
+| Prerequisite | any Fighting Style |
 | Hirelings | 1 |
 | Tools | — |
 | Skills | Acrobatics, Athletics, Insight, Intimidation, Perception, Performance |
@@ -18,10 +18,10 @@ This gift grants one of the following benefits:
 
 - You gain Proficiency in one of this Facility's Skills.
 - You gain Proficiency with a Martial weapon category.
-- You learn a Weapon Technique.
+- You learn one Basic Fighting Style.
 
 #### Upgrading
 | Upgrade | Size | Effect |
 |---|---|---|
-| Arena | Roomy | The facility's Gift of Training can instead grant a Fighting Style Feat. |
-| Gymnasium | Vast | The facility's Gift of Training can instead expand your Physical Attacks' Critical Hit Range by **1**. |
+| Arena | Roomy | The facility's Gift of Training can instead grant an Expert Fighting Style. |
+| Gymnasium | Vast | The facility's Gift of Training can instead grant a Master Fighting Style. |

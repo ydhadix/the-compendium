@@ -1,4 +1,5 @@
 ### Chef
+
 #### Cook's Utensils
 You gain Cook's Utensils Proficiency. If you already have Cook's Utensils Proficiency, you instead gain Expertise.
 

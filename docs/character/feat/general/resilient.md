@@ -1,4 +1,5 @@
 ### Resilient
+
 #### Saving Throw Aptitude
 You gain Reflex, Fortitude, or Will Aptitude. If you already have the chosen Aptitude, you instead gain Proficiency.
 

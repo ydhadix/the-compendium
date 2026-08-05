@@ -1,4 +1,5 @@
 ### Tough
+
 #### Extra Hit Points Now
 Your Hit Point Maximum increases by **LV × 2**.
 

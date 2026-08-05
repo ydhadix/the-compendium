@@ -65,7 +65,7 @@ Before or after you expend a use of [Action Surge](index.md#2-action-surge), you
 
 
 ### 6: War Magic
-You gain the Spellblade feat.
+You learn the Spellblade Fighting Style.
 
 After you hit a creature with a physical Attack, the next Saving Throw the creature makes against a Spell you cast gains Disadvantage before the end of your next Turn.
 

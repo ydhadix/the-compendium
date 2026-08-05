@@ -1,4 +1,5 @@
 ### Musician
+
 #### Instrument Training
 You gain Proficiency with **3** Musical Instruments.
 

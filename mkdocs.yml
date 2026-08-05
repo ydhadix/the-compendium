@@ -64,8 +64,6 @@ exclude_docs: | # files/folders in docs/ that we don't want compiled
   !character/feat/general/index.md
   character/feat/ancestry/*.md
   !character/feat/ancestry/index.md
-  character/feat/fighting-style/*.md
-  !character/feat/fighting-style/index.md
 
 not_in_nav: | # collection dirs whose entry pages aren't in nav
   character/class/*/*/*

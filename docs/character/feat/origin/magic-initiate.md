@@ -1,4 +1,5 @@
 ### Magic Initiate
+
 Choose Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard.
 
 #### Learned Spells

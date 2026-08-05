@@ -1,4 +1,5 @@
 ### Telepathic
+
 #### Telepathic Utterance
 You gain **60** feet of Telepathy. Your telepathic utterances are in a language you know, and the target understands you only if it knows that language.
 

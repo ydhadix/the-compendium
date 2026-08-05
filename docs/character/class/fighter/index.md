@@ -61,7 +61,7 @@ Bonus Action, 1 Situational Awareness use
 
 You heal by **1d10 + LV**, then move up to half your Speed without provoking Opportunity Attacks.
 ##### Situational Awareness: Tactical Mind
-1 use of Situational Awareness
+Free Action, 1 Situational Awareness use
 { .subtitle }
 
 Before you fail an Ability Check, you can add **1d10** to the total.  If the Ability Check still fails, you don't expend a use of Situational Awareness.
@@ -81,7 +81,7 @@ The [Fighter Table](#class-table) shows how many Action Surge uses you have.
 ###### Regaining Uses
 After a Short Rest, you regain all uses of Action Surge.
 ##### Extra Action
-Once per Turn, 1 Action Surge use
+Free Action, 1 Action Surge use
 { .subtitle }
 
 You can take an additional Action on your Turn, other than the Magic Action.
@@ -92,10 +92,10 @@ The [Fighter Table](#class-table) shows how many Indomitable uses you have.
 ###### Regaining Uses
 After a Long Rest, you regain all uses of Indomitable.
 ##### Save Recovery
-1 Indomitable use
+Free Action, 1 Indomitable use
 { .subtitle }
 
-Before you fail a Saving Throw, you can reroll it and add **LV** to the Saving Throw.
+Before you fail a Saving Throw, you can succeed instead.
 
 
 ### 3: Fighter Subclass
@@ -110,7 +110,7 @@ Choose a Fighter Subclass. Your subclass grants you a feature at this level.
 Choose one of the following benefits:
 
 - You increase an Ability by **1**.
-- You gain an additional Feat.
+- You learn an additional Feat.
 
 
 ### 5: Extra Attack
@@ -122,7 +122,7 @@ Your subclass grants you an additional feature.
 
 
 ### 7: Tactical Master
-You learn **2** Fighting Styles from Push, Sap, and Slow.
+You learn **2** Weapon Techniques from Push, Sap, and Slow.
 
 You can use Push, Sap, or Slow with any Weapon.
 
@@ -139,7 +139,7 @@ Your subclass grants you an additional feature.
 Choose one of the following benefits:
 
 - You increase an Ability by **1**.
-- You gain an additional Feat.
+- You learn an additional Feat.
 
 
 ### 11: Extra Attack

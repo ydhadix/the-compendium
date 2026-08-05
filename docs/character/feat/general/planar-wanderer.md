@@ -1,4 +1,5 @@
 ### Planar Wanderer
+
 #### Damage Resistance
 After a Long Rest, choose Acid, Cold, or Fire Damage. Until your next Long Rest, you gain Resistance to the chosen Damage Type.
 
