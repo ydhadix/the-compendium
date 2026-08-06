@@ -3,6 +3,8 @@
 { .subtitle }
 
 ## Initiate Fighting Styles
+**Initiate** Fighting Styles are foundational training, open to any character who gains a Fighting Style.
+{ .subtitle }
 
 | | | | |
 |---|---|---|---|
@@ -12,6 +14,8 @@
 | | [Blessed Warrior](/character/feat/fighting-style/initiate.md#blessed-warrior) | [Druidic Warrior](/character/feat/fighting-style/initiate.md#druidic-warrior) | |
 
 ## Expert and Master Fighting Styles
+**Expert** Fighting Styles are advanced forms useful across broad martial archetypes.  **Master** Fighting Styles are specialties that build on an Expert style.
+{ .subtitle }
 
 | Archetype | Expert | Master |
 |---|---|---|

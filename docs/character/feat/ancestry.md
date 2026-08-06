@@ -2,4 +2,4 @@
 **Ancestry Feats** deepen a character's racial characteristics.
 { .subtitle }
 
---8<-- "_generated/character/feat/_ancestry/_list.md"
+--8<-- "_generated/character/feat/ancestry.md"

@@ -101,23 +101,35 @@ def buildList(cards, grouping):
 
 
 def buildHub(sourceDirRel, grouping):
-   """Write one hub's `_list.md` aggregate; return its mirror path."""
-   cards = leafCards(C.DOCS / sourceDirRel)
+   """Write one hub's aggregate as `<category>.md` beside its mirrored `_<category>` folder; return its path."""
+   sourceDir = C.DOCS / sourceDirRel
+   cards = leafCards(sourceDir)
    text = buildList(cards, grouping)
-   target = C.MIRROR / sourceDirRel / C.LIST_NAME
+   category = sourceDir.name.removeprefix("_")
+   target = C.MIRROR / sourceDir.parent.relative_to(C.DOCS) / (category + ".md")
    C.writeText(target, text)
    return target
 
 
 def pruneLists(keptLists):
-   """Delete `_list.md` aggregates under the mirror that no hub produced this run."""
+   """Delete stale hub aggregates: retired `_list.md` files and orphaned `<category>.md` files.
+
+   Hub outputs are the only non-underscore `.md` files in their mirror parent folders, so an orphan is
+   any such file in a produced folder that this run did not write.
+   """
    kept = set(str(p) for p in keptLists)
+   parents = set(p.parent for p in keptLists)
    removed = 0
    if C.MIRROR.exists():
-      for path in sorted(C.MIRROR.rglob(C.LIST_NAME)):
-         if str(path) not in kept:
-            path.unlink()
-            removed = removed + 1
+      for legacy in sorted(C.MIRROR.rglob(C.LIST_NAME)):
+         legacy.unlink()
+         removed = removed + 1
+      for parent in parents:
+         for path in sorted(parent.glob("*.md")):
+            if str(path) not in kept and not path.name.startswith("_"):
+               path.unlink()
+               removed = removed + 1
+      C.removeEmptyDirs(C.MIRROR)
    return removed
 
 

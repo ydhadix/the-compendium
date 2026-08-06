@@ -11,4 +11,4 @@ Many Conditions build on others; for example, a creature that is Paralyzed is al
 
 ## Conditions
 
---8<-- "_generated/rules/_condition/_list.md"
+--8<-- "_generated/rules/condition.md"
