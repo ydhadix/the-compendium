@@ -6,10 +6,12 @@
   match the "Recent" block below). The whole tree is always in the DOM; the
   caret only shows or hides each branch.
 
-  Expansion state: the current page's ancestors render already expanded, but the
-  current page's OWN children are collapsed — so the tree opens down to the active
-  entry without spilling its children. Every other section is collapsed too. "On
-  the active path" = mkdocs `item.active` for pages in the nav;
+  Expansion state: the current page's ancestors render already expanded. The
+  current page's OWN children spill too when they are in-nav pages (e.g. landing
+  on Fighting Styles shows Initiate/Expert/Master), but stay collapsed when they
+  are only out-of-nav leaves (e.g. a spell-level index does not spill every spell).
+  Every other section is collapsed. "On the active path" = mkdocs `item.active`
+  for pages in the nav;
   for pages kept out of the nav (leaf pages) it is `localnav_chain` /
   `localnav_host` from navtools.py. A hub's out-of-nav leaves
   (`localnav_siblings`) hang one level below it, the same way a section index
@@ -52,13 +54,15 @@
             link); hang its leaves off the section so they still appear. -#}
         {%- set hosts_leaves = localnav_host is defined and item.index_page and item.index_page == localnav_host and localnav_siblings -%}
         {%- set expandable = kids or hosts_leaves -%}
-        {#- The section housing the current page renders collapsed — only its
-            ancestors stay open, so the tree opens to the active entry without
-            spilling the current page's own children. -#}
+        {#- The section housing the current page renders open when its children
+            are in-nav pages (`kids`) — so the tree spills those siblings when you
+            land on the section index. When the current page's only children are
+            out-of-nav leaves (`hosts_leaves`, no `kids`) it stays collapsed, the
+            same as the plain-nav-hub branch below. Ancestor sections always open. -#}
         {%- set is_current = item.index_page and item.index_page == page -%}
         <li class="pm-localnav__item{% if expandable %} pm-localnav__item--nested{% endif %}">
           {% if expandable %}
-          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path and not is_current %}checked{% endif %}>
+          <input class="pm-localnav__toggle" type="checkbox" id="{{ id }}" {% if on_path and (not is_current or kids) %}checked{% endif %}>
           {% endif %}
           <div class="pm-localnav__row">
             {% if item.index_page %}
