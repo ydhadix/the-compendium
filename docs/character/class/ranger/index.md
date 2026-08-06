@@ -108,7 +108,8 @@ The Spellcasting table shows how many Spell Slots you have.
 After a Long Rest, you regain all your Spell Slots.
 
 
-### 2: TBD
+### 2: Favored Enemy
+Choose two Creature Types, other than Humanoid.  When you Study one of the chosen creature types, that Ability Check gains Expertise.
 
 
 ### 3: Ranger Subclass

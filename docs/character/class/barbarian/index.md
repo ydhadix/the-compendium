@@ -7,7 +7,7 @@ Barbarians are ferocious warriors who draw on primal rage, trading caution for r
 | Level | Features | Rage | Rage Bonus | Fighting Styles |
 |---|---|---|---|---|
 |  1 | [Rage](#1-rage),<br>[Unarmored Stance](#1-unarmored-stance),<br>[Fighting Style](#1-fighting-style) | 2 | +2 | 3 |
-|  2 | [Reckless Attack](#2-reckless-attack),<br> | 2 | +2 | 3 |
+|  2 | [Danger Sense](#2-danger-sense),<br>[Reckless Attack](#2-reckless-attack) | 2 | +2 | 3 |
 |  3 | [Barbarian Subclass](#3-barbarian-subclass) | 2 | +2 | 3 |
 |  4 | [Brutal Strike](#4-brutal-strike) | 3 | +3 | 4 |
 |  5 | [Extra Attack](#5-extra-attack) | 3 | +3 | 4 |
@@ -82,8 +82,6 @@ While you are Unarmored _(you can still don a Shield)_, you gain the following b
 Your base Armor Class becomes **8 + DEX + Class Ability + PB**.
 #### Unarmored Movement
 Your Speed increases by **10** feet.
-#### Unarmored Reflexes
-You gain Reflex Protection and Advantage on Initiative Checks.
 
 
 ### 1: Fighting Style
@@ -92,14 +90,15 @@ You learn Fighting Styles.  The [Barbarian Table](#class-table) shows how many F
 Whenever you level up, you can change one of your Fighting Styles.
 
 
+### 2: Danger Sense
+You gain Reflex Protection and Advantage on Initiative Checks.
+
+
 ### 2: Reckless Attack
 Before you Attack for the first time on your Turn, you can gain the following effects until the start of your next Turn:
 
 - You gain Advantage on Strength Attack Rolls.
 - Attack Rolls against you gain Advantage.
-
-
-### 2: TBD
 
 ### 3: Barbarian Subclass
 Choose a Barbarian Subclass. Your subclass grants you a feature at this level.

@@ -5,17 +5,17 @@ Fighters are experienced combatants, deftly wielding weapons and tactics. They c
 ## Class Table
 | Level | Features | Situational Awareness | Fighting Styles | Action Surge | Indomitable |
 |---|---|---|---|---|---|
-|  1 | [Situational Awareness](#1-situational-awareness),<br>[Fighting Style](#1-fighting-style),<br> | 2 | 4 | - | - |
-|  2 | [Action Surge](#2-action-surge),<br>[Indomitable](#2-indomitable) | 2 | 4 | 1 | 1 |
-|  3 | [Fighter Subclass](#3-fighter-subclass) | 2 | 4 | 1 | 1 |
-|  4 | [Ability Increase](#4-ability-increase) | 3 | 5 | 1 | 1 |
-|  5 | [Extra Attack](#5-extra-attack) | 3 | 5 | 1 | 1 |
-|  6 | [Subclass Feature](#6-subclass-feature) | 3 | 5 | 1 | 1 |
-|  7 | [Tactical Master](#7-tactical-master) | 4 | 6 | 2 | 2 |
-|  8 | [Extra Attack](#8-extra-attack) | 4 | 6 | 2 | 2 |
-|  9 | [Subclass Feature](#9-subclass-feature) | 4 | 6 | 2 | 2 |
-| 10 | [Ability Increase](#10-ability-increase) | 5 | 7 | 2 | 3 |
-| 11 | [Extra Attack](#11-extra-attack) | 5 | 7 | 2 | 3 |
+|  1 | [Situational Awareness](#1-situational-awareness),<br>[Fighting Style](#1-fighting-style),<br>[Technique Initiate](#1-technique-initiate) | 2 | 3 | - | - |
+|  2 | [Action Surge](#2-action-surge),<br>[Indomitable](#2-indomitable) | 2 | 3 | 1 | 1 |
+|  3 | [Fighter Subclass](#3-fighter-subclass) | 2 | 3 | 1 | 1 |
+|  4 | [Ability Increase](#4-ability-increase) | 3 | 4 | 1 | 1 |
+|  5 | [Extra Attack](#5-extra-attack) | 3 | 4 | 1 | 1 |
+|  6 | [Subclass Feature](#6-subclass-feature) | 3 | 4 | 1 | 1 |
+|  7 | [Technique Master](#7-technique-master) | 4 | 5 | 2 | 2 |
+|  8 | [Extra Attack](#8-extra-attack) | 4 | 5 | 2 | 2 |
+|  9 | [Subclass Feature](#9-subclass-feature) | 4 | 5 | 2 | 2 |
+| 10 | [Ability Increase](#10-ability-increase) | 5 | 6 | 2 | 3 |
+| 11 | [Extra Attack](#11-extra-attack) | 5 | 6 | 2 | 3 |
 
 ## Class Details
 | | |
@@ -73,7 +73,8 @@ You learn Fighting Styles.  The [Fighter Table](#class-table) shows how many Fig
 Whenever you level up, you can change one of your Fighting Styles.
 
 
-### 1: TBD
+### 1: Technique Initiate
+You learn **1** Weapon Technique from Push, Sap, and Slow and can use it with any Weapon.
 
 
 ### 2: Action Surge
@@ -121,10 +122,8 @@ The number of Attacks you can make with your Attack Action increases by **1**.
 Your subclass grants you an additional feature.
 
 
-### 7: Tactical Master
-You learn **2** Weapon Techniques from Push, Sap, and Slow.
-
-You can use Push, Sap, or Slow with any Weapon.
+### 7: Technique Master
+You learn the Push, Sap, and Slow Weapon Techniques and can use them with any Weapon.
 
 
 ### 8: Extra Attack
