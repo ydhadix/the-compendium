@@ -196,6 +196,7 @@
 | [Evocation](/spell/index.md#schools-of-magic) | School of Magic |
 | [Exhausted](/rules/condition.md#exhausted) | Condition |
 | [Exotic Language](/bestiary/index.md#exotic-languages) | Language |
+| [Expert](/character/feat/fighting-style/index.md#expert-and-master-fighting-styles) | Fighting Style |
 | [Expertise](/rules/dice/index.md#degrees-of-proficiency) | Proficiency |
 | [Extreme Cold](/rules/hazard.md#extreme-cold) | Hazard |
 | [Extreme Heat](/rules/hazard.md#extreme-heat) | Hazard |
@@ -214,7 +215,7 @@
 | [Fey](/bestiary/type/fey.md) | Creature Type |
 | [Fiend](/bestiary/type/fiend.md) | Creature Type |
 | [Fighter](/character/class/fighter/index.md) | Class |
-| [Fighting Style](/character/feat/index.md) | Feat |
+| [Fighting Style](/character/feat/fighting-style/index.md) | Feat |
 | [Finesse](/item/weapon.md#finesse) | Weapon Property |
 | [Fire](/rules/dice/damage.md#elemental-damage) | Elemental Damage |
 | [Firearm](/item/weapon.md#martial-weapons) | Martial Weapon |
@@ -289,6 +290,7 @@
 | [Independent](/bestiary/index.md#disposition) | Disposition |
 | [Infernal](/bestiary/index.md#exotic-languages) | Exotic Language |
 | [Infusion](/item/magic/index.md#infusing-items) | Magic Item |
+| [Initiate](/character/feat/fighting-style/index.md#initiate-fighting-styles) | Fighting Style |
 | [Initiative](/rules/encounter.md#initiative) | Encounter |
 | [Initiative Check](/rules/encounter.md#initiative-checks) | Initiative |
 | [Insight](/rules/dice/check.md#skills) | Skill |
@@ -343,6 +345,7 @@
 | [Maneuver Dice](/spelljammer/officer/pilot.md#pilot-maneuvers) | Spelljammer Pilot |
 | [Marked](/rules/condition.md#marked) | Condition |
 | [Martial Weapon](/item/weapon.md#martial-weapons) | Weapon |
+| [Master](/character/feat/fighting-style/index.md#expert-and-master-fighting-styles) | Fighting Style |
 | [Masterwork](/item/index.md#masterwork) | Item Index |
 | [Material](/item/gear/material/index.md) | Adventuring Gear |
 | [Material](/spell/index.md#material) | Spell Component |
