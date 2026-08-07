@@ -1,0 +1,1 @@
+| [Eyes of Charming](/item/magic/uncommon/eyes-of-charming.md) | Clothing (Jewelry) | Uncommon | Yes |

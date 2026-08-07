@@ -1,0 +1,1 @@
+| [Magic Pocket](/item/magic/uncommon/magic-pocket.md) | Container (Pouch) | Uncommon | No |

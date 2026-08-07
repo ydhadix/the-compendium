@@ -1,0 +1,1 @@
+| [Gloves of Missile Snaring](/item/magic/uncommon/gloves-of-missile-snaring.md) | Clothing (Gloves) | Uncommon | Yes |

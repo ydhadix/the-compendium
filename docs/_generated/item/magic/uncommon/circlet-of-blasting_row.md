@@ -1,0 +1,1 @@
+| [Circlet of Blasting](/item/magic/uncommon/circlet-of-blasting.md) | Clothing (Jewelry) | Uncommon | No |

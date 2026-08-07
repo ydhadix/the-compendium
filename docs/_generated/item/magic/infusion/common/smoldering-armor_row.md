@@ -1,1 +1,0 @@
-| [Smoldering Armor](/item/magic/infusion/common/smoldering-armor.md) | Armor (Any) | Common | No |

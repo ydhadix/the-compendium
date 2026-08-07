@@ -1,0 +1,1 @@
+| [First Mate's Scabbard](/item/magic/uncommon/first-mates-scabbard.md) | Wondrous Item | Uncommon | No |

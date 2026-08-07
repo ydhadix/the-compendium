@@ -1,1 +1,0 @@
-| [Clothes of Mending](/item/magic/infusion/common/clothes-of-mending.md) | Clothing (Clothes) | Common | No |

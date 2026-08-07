@@ -70,9 +70,9 @@ You must acquire a Material before you can craft an item with it. Crafting an it
 
 | Bonus | Value | Armor Value | Min. Level |
 |---|---|---|---|
-| **+1** | **+400** gold | **+4,000** gold | **5** |
-| **+2** | **+4,000** gold | **+40,000** gold | **11** |
-| **+3** | **+40,000** gold | **+400,000** gold | **17** |
+| **+1** | **+400** gold | **+4,000** gold | **3** |
+| **+2** | **+4,000** gold | **+40,000** gold | **5** |
+| **+3** | **+40,000** gold | **+400,000** gold | **11** |
 
 #### Masterwork Bonuses
 There are four types of Masterwork that determine what the item's bonus increases:

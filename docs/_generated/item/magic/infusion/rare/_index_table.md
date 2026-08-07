@@ -1,4 +1,4 @@
-0-9 · [A](#a) · [B](#b) · C · [D](#d) · [E](#e) · F · [G](#g) · [H](#h) · [I](#i) · J · K · [L](#l) · [M](#m) · N · O · P · Q · [R](#r) · S · [T](#t) · U · V · [W](#w) · X · Y · Z
+0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · F · [G](#g) · [H](#h) · [I](#i) · J · [K](#k) · [L](#l) · [M](#m) · N · O · P · Q · [R](#r) · S · [T](#t) · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
 ## A
@@ -15,6 +15,12 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/infusion/rare/boots-of-dancing_row.md"
 --8<-- "_generated/item/magic/infusion/rare/boots-of-the-stormsailor_row.md"
+
+## C
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/infusion/rare/champions-greatbow_row.md"
 
 ## D
 
@@ -38,6 +44,7 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/infusion/rare/gloves-of-healing_row.md"
 --8<-- "_generated/item/magic/infusion/rare/gloves-of-the-stormrider_row.md"
+--8<-- "_generated/item/magic/infusion/rare/gossipers-ear-cuff_row.md"
 
 ## H
 
@@ -50,6 +57,12 @@
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/infusion/rare/item-of-resistance_row.md"
+
+## K
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/infusion/rare/kinetic-bowstring_row.md"
 
 ## L
 
@@ -85,4 +98,5 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/infusion/rare/wand-of-fireballs_row.md"
 --8<-- "_generated/item/magic/infusion/rare/wand-of-lightning-bolts_row.md"
+--8<-- "_generated/item/magic/infusion/rare/warp-anchor_row.md"
 --8<-- "_generated/item/magic/infusion/rare/windskiff-bracelet_row.md"

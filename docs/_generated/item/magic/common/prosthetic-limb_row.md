@@ -1,0 +1,1 @@
+| [Prosthetic Limb](/item/magic/common/prosthetic-limb.md) | Wondrous Item | Common | No |

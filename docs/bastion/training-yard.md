@@ -17,8 +17,7 @@ Boon
 This gift grants one of the following benefits:
 
 - You gain Proficiency in one of this Facility's Skills.
-- You gain Proficiency with a Martial weapon category.
-- You learn one Basic Fighting Style.
+- You learn one Initiate Fighting Style.
 
 #### Upgrading
 | Upgrade | Size | Effect |

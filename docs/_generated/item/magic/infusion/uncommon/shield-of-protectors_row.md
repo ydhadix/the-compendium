@@ -1,1 +1,0 @@
-| [Shield of Protectors](/item/magic/infusion/uncommon/shield-of-protectors.md) | Shield (Any) | Uncommon | No |

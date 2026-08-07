@@ -1,0 +1,1 @@
+| [Winged Boots](/item/magic/uncommon/winged-boots.md) | Clothing (Boots) | Uncommon | Yes |

@@ -1,0 +1,1 @@
+| [Eyes of the Eagle](/item/magic/uncommon/eyes-of-the-eagle.md) | Clothing (Jewelry) | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Instrument of Illusions](/item/magic/common/instrument-of-illusions.md) | Wondrous Item | Common | No |

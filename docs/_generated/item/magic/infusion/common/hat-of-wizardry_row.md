@@ -1,1 +1,0 @@
-| [Hat of Wizardry](/item/magic/infusion/common/hat-of-wizardry.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Wizard) |

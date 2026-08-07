@@ -1,0 +1,1 @@
+| [Weapon of First Light](/item/magic/uncommon/weapon-of-first-light.md) | Weapon (Sidearm, Foil, or Blade) | Uncommon | Yes |

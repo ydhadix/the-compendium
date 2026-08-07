@@ -1,1 +1,0 @@
-| [Orb of Time](/item/magic/infusion/common/orb-of-time.md) | Spellcasting Focus (Arcane Focus) | Common | No |

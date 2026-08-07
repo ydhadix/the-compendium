@@ -1,1 +1,0 @@
-| [Winged Boots](/item/magic/infusion/uncommon/winged-boots.md) | Clothing (Boots) | Uncommon | Yes |

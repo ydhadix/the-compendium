@@ -1,0 +1,1 @@
+| [Wand of Magic Missiles](/item/magic/uncommon/wand-of-magic-missiles.md) | Spellcasting Focus (Arcane Focus) | Uncommon | No |

@@ -15,9 +15,9 @@ Your specialization grants you additional Spells. You learn these Spells at the 
 
 | Level | Spells |
 |---|---|
-| 3rd | _Entangle_, _Healing Word_ |
+| 3rd | _Healing Word_, _Magic Missile_ |
 | 5th | _Locate Object_, _Pass Without Trace_ |
-| 9th | _Plant Growth_, _Locate Creature_ |
+| 9th | _Call Lightning_, _Locate Creature_ |
 
 ### 3: Tools of the Trade
 #### Specialized Training

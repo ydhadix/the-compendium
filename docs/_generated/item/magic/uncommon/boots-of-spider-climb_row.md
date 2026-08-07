@@ -1,0 +1,1 @@
+| [Boots of Spider Climb](/item/magic/uncommon/boots-of-spider-climb.md) | Clothing (Boots) | Uncommon | Yes |

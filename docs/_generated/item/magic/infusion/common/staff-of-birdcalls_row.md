@@ -1,1 +1,0 @@
-| [Staff of Birdcalls](/item/magic/infusion/common/staff-of-birdcalls.md) | Weapon (Staff) | Common | No |

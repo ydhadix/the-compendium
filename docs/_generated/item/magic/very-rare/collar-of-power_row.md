@@ -1,0 +1,1 @@
+| [Collar of Power](/item/magic/very-rare/collar-of-power.md) | Clothing (Jewelry) | Very Rare | No |

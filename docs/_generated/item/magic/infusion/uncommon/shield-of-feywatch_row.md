@@ -1,1 +1,0 @@
-| [Shield of Feywatch](/item/magic/infusion/uncommon/shield-of-feywatch.md) | Shield (Any) | Uncommon | No |

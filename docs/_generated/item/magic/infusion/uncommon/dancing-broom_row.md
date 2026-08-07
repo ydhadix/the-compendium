@@ -1,1 +1,0 @@
-| [Dancing Broom](/item/magic/infusion/uncommon/dancing-broom.md) | Wondrous Item | Uncommon | Yes |

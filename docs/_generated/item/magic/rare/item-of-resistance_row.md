@@ -1,0 +1,1 @@
+| [Item of Resistance](/item/magic/rare/item-of-resistance.md) | Wondrous Item | Rare | Yes |

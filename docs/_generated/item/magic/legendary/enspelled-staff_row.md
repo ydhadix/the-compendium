@@ -1,0 +1,1 @@
+| [Enspelled Staff](/item/magic/legendary/enspelled-staff.md) | Spellcasting Focus (Any) | Legendary | Yes (Spellcaster) |

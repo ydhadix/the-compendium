@@ -1,1 +1,0 @@
-| [Clockwork Amulet](/item/magic/infusion/common/clockwork-amulet.md) | Wondrous Item | Common | No |

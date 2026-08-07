@@ -1,1 +1,0 @@
-| [Bracers of Archery](/item/magic/infusion/uncommon/bracers-of-archery.md) | Clothing (Bracers) | Uncommon | Yes |

@@ -1,0 +1,1 @@
+| [Weapon of Returning](/item/magic/uncommon/weapon-of-returning.md) | Weapon (Thrown) | Uncommon | No |

@@ -1,1 +1,0 @@
-| [Goggles of Night](/item/magic/infusion/uncommon/goggles-of-night.md) | Wondrous Item | Uncommon | No |

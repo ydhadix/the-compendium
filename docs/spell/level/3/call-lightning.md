@@ -17,7 +17,7 @@ If you cast this Spell while outdoors in a storm, the storm and the area beneath
 After you cast this Spell, you can take the following Action _(no action required)_.
 
 ###### Lightning Strike
-Magic Action
+Bonus Action
 { .subtitle }
 
 Each creature in a **5**-foot radius Sphere makes a Reflex Save.

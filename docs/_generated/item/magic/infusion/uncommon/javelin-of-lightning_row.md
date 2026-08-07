@@ -1,1 +1,0 @@
-| [Javelin of Lightning](/item/magic/infusion/uncommon/javelin-of-lightning.md) | Weapon (Staff) | Uncommon | No |

@@ -1,1 +1,0 @@
-| [Pole of Angling](/item/magic/infusion/common/pole-of-angling.md) | Wondrous Item | Common | No |

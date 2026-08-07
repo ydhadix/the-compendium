@@ -1,1 +1,0 @@
-| [Ring of Shooting Stars](/item/magic/infusion/very-rare/ring-of-shooting-stars.md) | Clothing (Jewelry) | Very Rare | Yes (Spellcaster) |

@@ -1,1 +1,0 @@
-| [Cloak of Many Fashions](/item/magic/infusion/common/cloak-of-many-fashions.md) | Clothing (Cloak) | Common | No |

@@ -1,1 +1,0 @@
-| [Pole of Collapsing](/item/magic/infusion/common/pole-of-collapsing.md) | Wondrous Item | Common | No |

@@ -1,0 +1,1 @@
+| [Gloves of Healing](/item/magic/rare/gloves-of-healing.md) | Clothing (Gloves) | Rare | No |

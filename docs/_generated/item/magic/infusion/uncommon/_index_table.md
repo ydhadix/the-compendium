@@ -77,8 +77,8 @@
 --8<-- "_generated/item/magic/infusion/uncommon/gauntlets-of-ogre-power_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/gem-of-brightness_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/gloves-of-missile-snaring_row.md"
+--8<-- "_generated/item/magic/infusion/uncommon/gloves-of-precision_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/gloves-of-swimming-and-climbing_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/gloves-of-thievery_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/goggles-of-night_row.md"
 
 ## H
@@ -167,7 +167,6 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/infusion/uncommon/saddle-of-the-cavalier_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/sending-stones_row.md"
---8<-- "_generated/item/magic/infusion/uncommon/sentinel-shield_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/shield-of-feywatch_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/shield-of-protectors_row.md"
 --8<-- "_generated/item/magic/infusion/uncommon/shield-of-repulsion_row.md"

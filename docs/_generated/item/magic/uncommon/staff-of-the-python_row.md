@@ -1,0 +1,1 @@
+| [Staff of the Python](/item/magic/uncommon/staff-of-the-python.md) | Weapon (Staff) | Uncommon | Yes |

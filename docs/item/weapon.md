@@ -49,14 +49,14 @@ A weapon's **Techniques** list the Fighting Styles you can use while wielding it
 | Blade Δ | 1d12 or 2d6 Slashing | Heavy | Two | — | Cleave, Graze, Sap, Topple | 30 gold | Greataxe, Greatsword |
 | Hammer | 1d8 Bludgeoning or Piercing | — | Versatile (1d10) | — | Push, Sap, Topple | 5 gold | Flail, Greatclub, Morningstar, Warhammer, War Pick |
 | Hammer Δ | 1d12 or 2d6 Bludgeoning or Piercing | Heavy | Two | — | Cleave, Push, Sap, Topple | 10 gold | Maul |
-| Polearm | 1d10 Slashing or Piercing | Heavy | Two | Reach | Cleave, Graze, Push, Topple | 20 gold | Glaive, Halberd, Lance, Pike |
+| Polearm | 1d10 Bludgeoning, Slashing, or Piercing | Heavy | Two | Reach | Cleave, Graze, Push, Topple | 20 gold | Glaive, Halberd, Lance, Pike |
 
 | Ranged | Damage | Weight | Hands | Properties | Techniques | Value | Examples |
 |---|---|---|---|---|---|---|---|
 | Bow | 1d8 Piercing | — | Two | Ammunition (80/320) | Sap, Slow, Vex | 25 gold | Shortbow |
 | Bow Δ | 1d10 Piercing | Heavy | Two | Ammunition (150/600) | Pierce, Sap, Slow, Vex | 50 gold | Longbow |
 | Firearm | 1d10 Piercing | — | One | Ammunition (40/160), Loading | Push, Slow, Vex | 250 gold | Pistol |
-| Firearm Δ | 1d12 or 2d6 Piercing | Heavy | Two | Ammunition (100/400), Loading | Pierce, Push, Slow, Vex | 500 gold | Heavy Crossbow, Musket |
+| Firearm Δ | 1d12 or 2d6 Piercing | Heavy | Two | Ammunition (200/800), Loading | Pierce, Push, Slow, Vex | 500 gold | Heavy Crossbow, Musket |
 
 ### Unarmed Strikes
 An **Unarmed Strike** is an attack that uses part of the attacker's body, such as a punch or kick. Every creature has Proficiency with Unarmed Strikes. 

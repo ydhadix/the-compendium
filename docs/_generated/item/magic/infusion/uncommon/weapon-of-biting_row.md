@@ -1,1 +1,0 @@
-| [Weapon of Biting](/item/magic/infusion/uncommon/weapon-of-biting.md) | Weapon (Sidearm, Foil, or Blade) | Uncommon | No |

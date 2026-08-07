@@ -1,0 +1,1 @@
+| [Silver Raven Figurine](/item/magic/uncommon/silver-raven-figurine.md) | Wondrous Item | Uncommon | No |

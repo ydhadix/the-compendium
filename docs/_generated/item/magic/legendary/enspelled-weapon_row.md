@@ -1,0 +1,1 @@
+| [Enspelled Weapon](/item/magic/legendary/enspelled-weapon.md) | Weapon (Any) | Legendary | Yes |

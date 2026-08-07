@@ -1,0 +1,1 @@
+| [Amulet of Health](/item/magic/rare/amulet-of-health.md) | Clothing (Jewelry) | Rare | Yes |

@@ -1,0 +1,1 @@
+| [Jotun's Jodhpurs](/item/magic/uncommon/jotuns-jodhpurs.md) | Clothing (Clothes) | Uncommon | No |

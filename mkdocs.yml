@@ -171,13 +171,13 @@ nav:
       - Armor:                      item/armor.md
       - Magic Items:
         - Infusion Overview:        item/magic/index.md
-        - Common:                   item/magic/infusion/common/index.md
-        - Uncommon:                 item/magic/infusion/uncommon/index.md
-        - Rare:                     item/magic/infusion/rare/index.md
-        - Very Rare:                item/magic/infusion/very-rare/index.md
-        - Legendary:                item/magic/infusion/legendary/index.md
-        - Artifacts:                item/magic/infusion/artifact/index.md
-        - Unique:                   item/magic/infusion/unique/index.md
+        - Common:                   item/magic/common.md
+        - Uncommon:                 item/magic/uncommon.md
+        - Rare:                     item/magic/rare.md
+        - Very Rare:                item/magic/very-rare.md
+        - Legendary:                item/magic/legendary.md
+        - Artifacts:                item/magic/artifact.md
+        - Unique:                   item/magic/unique.md
 
     - Spell Selection:
       - Spell Overview:             spell/index.md

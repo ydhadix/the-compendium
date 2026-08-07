@@ -1,1 +1,0 @@
-| [Essence Shard](/item/magic/infusion/rare/essence-shard.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes (Sorcerer) |

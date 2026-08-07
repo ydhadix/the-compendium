@@ -1,1 +1,0 @@
-| [Weapon of Repeating](/item/magic/infusion/uncommon/weapon-of-repeating.md) | Weapon (Loading) | Uncommon | No |

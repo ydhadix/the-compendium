@@ -1,1 +1,0 @@
-| [Pipes of the Sewers](/item/magic/infusion/uncommon/pipes-of-the-sewers.md) | Wondrous Item (Musical Instrument) | Uncommon | Yes |

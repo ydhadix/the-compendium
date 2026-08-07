@@ -1,0 +1,1 @@
+| [Boots of the Winterlands](/item/magic/uncommon/boots-of-the-winterlands.md) | Clothing (Boots) | Uncommon | Yes |

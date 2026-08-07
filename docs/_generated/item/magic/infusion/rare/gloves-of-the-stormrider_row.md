@@ -1,1 +1,0 @@
-| [Gloves of the Stormrider](/item/magic/infusion/rare/gloves-of-the-stormrider.md) | Clothing (Gloves) | Rare | Yes |

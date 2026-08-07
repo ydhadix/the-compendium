@@ -1,0 +1,1 @@
+| [Feather Token](/item/magic/uncommon/feather-token.md) | Wondrous Item | Uncommon | No |

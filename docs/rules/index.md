@@ -44,7 +44,7 @@
 | [Area](/rules/target.md#areas) | Targets |
 | [Armor](/item/armor.md) | Item Index |
 | [Armor Class](/rules/dice/attack.md#armor-class) | Attack Roll |
-| [Artifact](/item/magic/infusion/artifact/index.md) | Infusion Rarity |
+| [Artifact](/item/magic/artifact.md) | Infusion Rarity |
 | [Artificer](/character/class/artificer/index.md) | Class |
 | [Artisan's Tool](/item/trade/index.md#artisans-tools) | Trade |
 | [Athletics](/rules/dice/check.md#skills) | Skill |
@@ -102,7 +102,7 @@
 | [Combat](/rules/encounter.md#combat) | Encounter |
 | [Command Word](/item/magic/index.md#command-words) | Magic Item |
 | [Common](/bestiary/index.md#standard-languages) | Standard Language |
-| [Common](/item/magic/infusion/common/index.md) | Infusion Rarity |
+| [Common](/item/magic/common.md) | Infusion Rarity |
 | [Common Sign Language](/bestiary/index.md#standard-languages) | Standard Language |
 | [Companion](/bestiary/index.md#companions) | NPC |
 | [Component](/spelljammer/creation/component/index.md) | Spelljammer Ship Part |
@@ -318,7 +318,7 @@
 | [Large](/bestiary/index.md#size-category) | Size Category |
 | [Lawful](/bestiary/index.md#alignment) | Alignment |
 | [Learned](/spell/index.md#learned-spells) | Spellcasting |
-| [Legendary](/item/magic/infusion/legendary/index.md) | Infusion Rarity |
+| [Legendary](/item/magic/legendary.md) | Infusion Rarity |
 | [Level](/character/class/index.md#leveling-up) | Class |
 | [Level](/spell/index.md#spell-level) | Spellcasting |
 | [Leviathan](/spelljammer/encounter.md#leviathans) | Spelljammer |
@@ -446,7 +446,7 @@
 | [Ranged Attack](/rules/dice/attack.md#types-of-attacks) | Attack Roll |
 | [Ranged Weapon](/item/weapon.md#melee-and-ranged-weapons) | Weapon |
 | [Ranger](/character/class/ranger/index.md) | Class |
-| [Rare](/item/magic/infusion/rare/index.md) | Infusion Rarity |
+| [Rare](/item/magic/rare.md) | Infusion Rarity |
 | [Rarity](/item/magic/index.md) | Infusion |
 | [Reach](/bestiary/index.md#reach) | Creature Trait |
 | [Reach](/item/weapon.md#reach) | Weapon Property |
@@ -557,11 +557,11 @@
 |---|---|
 | [Unarmed Strike](/item/weapon.md#unarmed-strikes) | Weapon |
 | [Unarmored](/item/armor.md#unarmored) | Armor |
-| [Uncommon](/item/magic/infusion/uncommon/index.md) | Infusion Rarity |
+| [Uncommon](/item/magic/uncommon.md) | Infusion Rarity |
 | [Unconscious](/rules/condition.md#unconscious) | Condition |
 | [Undead](/bestiary/type/undead.md) | Creature Type |
 | [Undercommon](/bestiary/index.md#exotic-languages) | Exotic Language |
-| [Unique](/item/magic/infusion/unique/index.md) | Infusion Rarity |
+| [Unique](/item/magic/unique.md) | Infusion Rarity |
 | [Upcast](/spell/index.md#upcasting) | Spellcasting |
 | [Utilize Action](/rules/action.md#utilize) | Normal Action |
 
@@ -572,7 +572,7 @@
 | [Vast](/bastion/index.md) | Bastion Size |
 | [Verbal](/spell/index.md#verbal) | Spell Component |
 | [Versatile](/item/weapon.md#versatile) | Weapon Property |
-| [Very Rare](/item/magic/infusion/very-rare/index.md) | Infusion Rarity |
+| [Very Rare](/item/magic/very-rare.md) | Infusion Rarity |
 | [Vex](/character/feat/fighting-style/initiate.md#vex) | Weapon Technique |
 | [Visibility](/rules/target.md#obscurement) | Visibility |
 | [Vulnerability](/rules/dice/damage.md#vulnerability) | Damage Roll |

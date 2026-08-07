@@ -1,0 +1,1 @@
+| [Hat of Vermin](/item/magic/common/hat-of-vermin.md) | Clothing (Hat) | Common | No |

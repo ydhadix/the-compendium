@@ -1,1 +1,0 @@
-| [Psi Crystal](/item/magic/infusion/uncommon/psi-crystal.md) | Spellcasting Focus (Arcane Focus) | Uncommon | Yes |

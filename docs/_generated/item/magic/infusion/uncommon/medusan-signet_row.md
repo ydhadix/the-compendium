@@ -1,1 +1,0 @@
-| [Medusan Signet](/item/magic/infusion/uncommon/medusan-signet.md) | Clothing (Jewelry) | Uncommon | Yes |

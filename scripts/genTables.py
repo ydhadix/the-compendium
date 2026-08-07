@@ -189,9 +189,9 @@ TABLES = (
    TableSpec(
       name="Magic items",
       sources=(
-         "item/magic/infusion/common/*.md", "item/magic/infusion/uncommon/*.md",
-         "item/magic/infusion/rare/*.md", "item/magic/infusion/very-rare/*.md",
-         "item/magic/infusion/legendary/*.md",
+         "item/magic/common/*.md", "item/magic/uncommon/*.md",
+         "item/magic/rare/*.md", "item/magic/very-rare/*.md",
+         "item/magic/legendary/*.md",
       ),
       columns=(
          derived("Item", C.link),
@@ -203,7 +203,7 @@ TABLES = (
       sortKey=byTitle,
       preamble="",
       exportRows=True,
-      pruneRoots=("item/magic/infusion",),
+      pruneRoots=("item/magic",),
    ),
    TableSpec(
       name="Protocols",

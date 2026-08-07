@@ -1,1 +1,0 @@
-| [Rival Coin](/item/magic/infusion/common/rival-coin.md) | Wondrous Item | Common | No |

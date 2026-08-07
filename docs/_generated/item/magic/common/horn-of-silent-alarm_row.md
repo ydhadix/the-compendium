@@ -1,0 +1,1 @@
+| [Horn of Silent Alarm](/item/magic/common/horn-of-silent-alarm.md) | Wondrous Item | Common | No |

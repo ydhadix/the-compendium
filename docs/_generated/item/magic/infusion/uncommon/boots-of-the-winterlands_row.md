@@ -1,1 +1,0 @@
-| [Boots of the Winterlands](/item/magic/infusion/uncommon/boots-of-the-winterlands.md) | Clothing (Boots) | Uncommon | Yes |
