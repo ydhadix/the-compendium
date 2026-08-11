@@ -31,6 +31,7 @@
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/uncommon/cap-of-water-breathing_row.md"
+--8<-- "_generated/item/magic/uncommon/champions-weapon_row.md"
 --8<-- "_generated/item/magic/uncommon/circlet-of-blasting_row.md"
 --8<-- "_generated/item/magic/uncommon/cloak-of-elvenkind_row.md"
 --8<-- "_generated/item/magic/uncommon/cloak-of-protection_row.md"
@@ -191,6 +192,7 @@
 --8<-- "_generated/item/magic/uncommon/wand-of-secrets_row.md"
 --8<-- "_generated/item/magic/uncommon/wand-of-web_row.md"
 --8<-- "_generated/item/magic/uncommon/weapon-of-biting_row.md"
+--8<-- "_generated/item/magic/uncommon/weapon-of-elements_row.md"
 --8<-- "_generated/item/magic/uncommon/weapon-of-first-light_row.md"
 --8<-- "_generated/item/magic/uncommon/weapon-of-radiance_row.md"
 --8<-- "_generated/item/magic/uncommon/weapon-of-repeating_row.md"

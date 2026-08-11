@@ -1,8 +1,8 @@
 ### Medusan Signet
-Uncommon Clothing (Jewelry), Attunement
+Uncommon Clothing (Jewelry)
 { .subtitle }
 
-**3** uses
+**1** use
 { .subtitle }
 
 #### Stone Savior
@@ -14,4 +14,4 @@ Before you are reduced to **0** Hit Points, you can petrify yourself until you d
 - You don't make Death Saves _(you still fail a Death Save after taking damage)_.
 - Critical Hits against you are normal hits.
 
-After this petrification ends, you gain **2d6 + 3** Temporary Hit Points.  Then, this item is destroyed if it has **0** uses.
+After this petrification ends, you gain **2d6 + 3** Temporary Hit Points.
