@@ -1,1 +1,0 @@
-| [Brooch of Shielding](/item/magic/uncommon/brooch-of-shielding.md) | Clothing (Jewelry) | Uncommon | Yes |

@@ -1,1 +1,0 @@
-| [Pearl of Power](/item/magic/uncommon/pearl-of-power.md) | Clothing (Jewelry) | Uncommon | Yes (Spellcaster) |

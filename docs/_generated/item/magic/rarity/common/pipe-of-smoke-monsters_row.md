@@ -1,0 +1,1 @@
+| [Pipe of Smoke Monsters](/item/magic/rarity/common/pipe-of-smoke-monsters.md) | Wondrous Item | Common | No |

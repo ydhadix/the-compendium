@@ -1,1 +1,0 @@
-| [Saddle of the Cavalier](/item/magic/uncommon/saddle-of-the-cavalier.md) | Wondrous Item | Uncommon | No |

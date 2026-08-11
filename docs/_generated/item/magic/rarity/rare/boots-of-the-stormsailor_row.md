@@ -1,0 +1,1 @@
+| [Boots of the Stormsailor](/item/magic/rarity/rare/boots-of-the-stormsailor.md) | Clothing (Boots) | Rare | No |

@@ -1,0 +1,1 @@
+| [Pole of Collapsing](/item/magic/rarity/common/pole-of-collapsing.md) | Wondrous Item | Common | No |

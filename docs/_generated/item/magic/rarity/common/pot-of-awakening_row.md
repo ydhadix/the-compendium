@@ -1,0 +1,1 @@
+| [Pot of Awakening](/item/magic/rarity/common/pot-of-awakening.md) | Wondrous Item | Common | No |

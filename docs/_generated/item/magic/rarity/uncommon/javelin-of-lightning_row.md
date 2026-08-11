@@ -1,0 +1,1 @@
+| [Javelin of Lightning](/item/magic/rarity/uncommon/javelin-of-lightning.md) | Weapon (Staff) | Uncommon | No |

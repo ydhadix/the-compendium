@@ -1,0 +1,1 @@
+| [Cast-Off Armor](/item/magic/rarity/common/cast-off-armor.md) | Armor (Any) | Common | No |

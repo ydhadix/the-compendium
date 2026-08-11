@@ -1,1 +1,0 @@
-| [Boots of Dancing](/item/magic/rare/boots-of-dancing.md) | Clothing (Boots) | Rare | No |

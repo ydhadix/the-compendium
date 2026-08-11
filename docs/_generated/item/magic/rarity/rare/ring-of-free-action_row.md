@@ -1,0 +1,1 @@
+| [Ring of Free Action](/item/magic/rarity/rare/ring-of-free-action.md) | Clothing (Jewelry) | Rare | Yes |

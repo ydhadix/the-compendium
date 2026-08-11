@@ -1,0 +1,1 @@
+| [Lantern of Revealing](/item/magic/rarity/uncommon/lantern-of-revealing.md) | Wondrous Item (Hooded or Bullseye Lantern) | Uncommon | No |

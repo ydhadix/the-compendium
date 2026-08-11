@@ -1,10 +1,10 @@
 """Generate the straightforward metadata index tables from one declarative spec per domain.
 
-Races, items, magic items, and protocols are the same task: read each card, extract a fixed set of
-columns, partition the cards by their source folder, and write one table per folder into the mirror.
-They differ only in their columns, grouping, sort, preamble, and whether rows are exported for
-cherry-picking — all captured in the TABLES specs below. Spells and the bestiary keep their own
-scripts: they run genuinely different algorithms (dual per-level/per-class tables with a level rail;
+Races, items, and protocols are the same task: read each card, extract a fixed set of columns,
+partition the cards by their source folder, and write one flat table per folder into the mirror. They
+differ only in their columns, sort, preamble, and whether rows are exported for cherry-picking — all
+captured in the TABLES specs below. Spells, magic items, and the bestiary keep their own scripts:
+they run genuinely different algorithms (the same rows grouped twice, on two independent axes;
 multi-block variant splitting with demoted bodies), not just different columns.
 """
 
@@ -12,18 +12,13 @@ from collections import namedtuple
 
 import genSnippetCommon as C
 
-FLAT = "flat"
-LETTER = "letter"
-
 # A table column: `key` pulls a `| Key | Value |` metadata cell; `fn` derives the cell from the card.
 Column = namedtuple("Column", "header key fn")
-# A domain: where its cards live, its columns, how each folder's table is grouped/sorted, an optional
-# table preamble, whether per-card rows are exported, and the mirror roots to prune stale snippets from.
-TableSpec = namedtuple("TableSpec", "name sources columns grouping sortKey preamble exportRows pruneRoots")
+# A domain: where its cards live, its columns, how each folder's table is sorted, an optional table
+# preamble, whether per-card rows are exported, and the mirror roots to prune stale snippets from.
+TableSpec = namedtuple("TableSpec", "name sources columns sortKey preamble exportRows pruneRoots")
 
 PROTOCOL_LEGEND = "- Durations with `(C)` require Concentration."
-RARITY_ATTUNE_MARK = ", Attunement"
-RARITY_CONSUMABLE_MARK = ", Consumable"
 
 
 def meta(header, key):
@@ -91,35 +86,6 @@ def itemValueCell(card):
    return card.subtitle.split(", ")[-1].strip()
 
 
-# --- Magic items -------------------------------------------------------------------------------
-def rarityDisplay(card):
-   """Display rarity from the card's rarity subdir, e.g. 'very-rare' -> 'Very Rare'."""
-   words = [word.capitalize() for word in card.path.parent.name.split("-")]
-   return " ".join(words)
-
-
-def rarityBody(card):
-   """The subtitle with its leading '<Rarity> ' prefix removed."""
-   prefix = rarityDisplay(card) + " "
-   return card.subtitle[len(prefix):] if card.subtitle.startswith(prefix) else card.subtitle
-
-
-def magicTypeCell(card):
-   """Magic-item type: the subtitle body up to the Attunement mark, sans a trailing Consumable mark."""
-   body = rarityBody(card)
-   rawType = (body.split(RARITY_ATTUNE_MARK, 1)[0] if RARITY_ATTUNE_MARK in body else body).strip()
-   trimmed = rawType[:-len(RARITY_CONSUMABLE_MARK)] if rawType.endswith(RARITY_CONSUMABLE_MARK) else rawType
-   return trimmed.strip()
-
-
-def magicAttuneCell(card):
-   """Attunement cell: 'No', or 'Yes' plus any qualifier after the Attunement mark."""
-   body = rarityBody(card)
-   hasAttune = RARITY_ATTUNE_MARK in body
-   qualifier = body.split(RARITY_ATTUNE_MARK, 1)[1].strip() if hasAttune else ""
-   return ("Yes " + qualifier).strip() if hasAttune else "No"
-
-
 # --- Protocols ---------------------------------------------------------------------------------
 def protocolLevel(card):
    """Numeric spell level from a protocol subtitle: 0 for a Cantrip, else the '3rd-Level' number."""
@@ -166,7 +132,6 @@ TABLES = (
          meta("Hit Points", "Hit Points"),
          meta("Senses", "Senses"),
       ),
-      grouping=FLAT,
       sortKey=byTitle,
       preamble="",
       exportRows=False,
@@ -180,30 +145,10 @@ TABLES = (
          derived("Type", itemTypeCell),
          derived("Value", itemValueCell),
       ),
-      grouping=FLAT,
       sortKey=byTitle,
       preamble="",
       exportRows=True,
       pruneRoots=("item/gear", "item/material", "item/trade"),
-   ),
-   TableSpec(
-      name="Magic items",
-      sources=(
-         "item/magic/common/*.md", "item/magic/uncommon/*.md",
-         "item/magic/rare/*.md", "item/magic/very-rare/*.md",
-         "item/magic/legendary/*.md",
-      ),
-      columns=(
-         derived("Item", C.link),
-         derived("Type", magicTypeCell),
-         derived("Rarity", rarityDisplay),
-         derived("Attunement", magicAttuneCell),
-      ),
-      grouping=LETTER,
-      sortKey=byTitle,
-      preamble="",
-      exportRows=True,
-      pruneRoots=("item/magic",),
    ),
    TableSpec(
       name="Protocols",
@@ -217,7 +162,6 @@ TABLES = (
          meta("Target", "Target"),
          derived("Duration", protocolDurationCell),
       ),
-      grouping=FLAT,
       sortKey=byProtocolLevelThenTitle,
       preamble=PROTOCOL_LEGEND,
       exportRows=True,
@@ -247,16 +191,10 @@ def rowText(spec, card):
 
 
 def folderTable(spec, entries):
-   """One folder's table from its [(card, rowText), ...] entries, grouped per the spec."""
-   header = specHeader(spec)
-   if spec.grouping == LETTER:
-      records = [(card.title, C.rowInclude(card.path)) for card, row in entries]
-      text = C.letterGrouped(header, records)
-   else:
-      ordered = sorted(entries, key=lambda entry: spec.sortKey(entry[0]))
-      rows = [C.rowInclude(card.path) if spec.exportRows else row for card, row in ordered]
-      text = C.tableBlock(header, rows, spec.preamble)
-   return text
+   """One folder's table from its [(card, rowText), ...] entries, sorted per the spec."""
+   ordered = sorted(entries, key=lambda entry: spec.sortKey(entry[0]))
+   rows = [C.rowInclude(card.path) if spec.exportRows else row for card, row in ordered]
+   return C.tableBlock(specHeader(spec), rows, spec.preamble)
 
 
 def buildSpec(spec):

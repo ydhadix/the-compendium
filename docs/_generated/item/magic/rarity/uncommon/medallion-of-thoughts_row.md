@@ -1,0 +1,1 @@
+| [Medallion of Thoughts](/item/magic/rarity/uncommon/medallion-of-thoughts.md) | Clothing (Jewelry) | Uncommon | Yes |

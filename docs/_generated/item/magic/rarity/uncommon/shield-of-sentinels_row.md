@@ -1,0 +1,1 @@
+| [Shield of Sentinels](/item/magic/rarity/uncommon/shield-of-sentinels.md) | Shield (Any) | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Shield of Repulsion](/item/magic/rarity/uncommon/shield-of-repulsion.md) | Shield (Any) | Uncommon | No |

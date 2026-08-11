@@ -1,0 +1,1 @@
+| [Portal Compass](/item/magic/rarity/uncommon/portal-compass.md) | Wondrous Item | Uncommon | No |

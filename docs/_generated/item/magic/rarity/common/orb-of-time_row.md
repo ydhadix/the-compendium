@@ -1,0 +1,1 @@
+| [Orb of Time](/item/magic/rarity/common/orb-of-time.md) | Spellcasting Focus (Arcane Focus) | Common | No |

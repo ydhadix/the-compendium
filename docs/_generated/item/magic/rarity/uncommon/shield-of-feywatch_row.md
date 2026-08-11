@@ -1,0 +1,1 @@
+| [Shield of Feywatch](/item/magic/rarity/uncommon/shield-of-feywatch.md) | Shield (Any) | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Frostburn Weapon](/item/magic/rarity/very-rare/frostburn-weapon.md) | Weapon (Thrown) | Very Rare | No |

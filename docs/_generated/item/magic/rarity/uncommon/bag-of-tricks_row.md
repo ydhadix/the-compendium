@@ -1,0 +1,1 @@
+| [Bag of Tricks](/item/magic/rarity/uncommon/bag-of-tricks.md) | Container (Pouch) | Uncommon | No |

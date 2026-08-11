@@ -1,0 +1,1 @@
+| [Wand of Fireballs](/item/magic/rarity/rare/wand-of-fireballs.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes (Spellcaster) |

@@ -1,1 +1,0 @@
-| [Enspelled Staff](/item/magic/very-rare/enspelled-staff.md) | Spellcasting Focus (Any) | Very Rare | Yes (Spellcaster) |

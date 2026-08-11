@@ -1,0 +1,1 @@
+| [Boots of Elvenkind](/item/magic/rarity/uncommon/boots-of-elvenkind.md) | Clothing (Boots) | Uncommon | No |

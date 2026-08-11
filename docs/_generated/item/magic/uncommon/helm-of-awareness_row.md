@@ -1,1 +1,0 @@
-| [Helm of Awareness](/item/magic/uncommon/helm-of-awareness.md) | Clothing (Hat) | Uncommon | No |

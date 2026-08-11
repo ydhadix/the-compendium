@@ -1,1 +1,0 @@
-| [Mystery Key](/item/magic/common/mystery-key.md) | Wondrous Item | Common | No |

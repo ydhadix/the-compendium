@@ -1,0 +1,1 @@
+| [Veteran's Cane](/item/magic/rarity/common/veterans-cane.md) | Weapon (Blade) | Common | No |

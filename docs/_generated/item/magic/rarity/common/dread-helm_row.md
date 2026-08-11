@@ -1,0 +1,1 @@
+| [Dread Helm](/item/magic/rarity/common/dread-helm.md) | Clothing (Hat) | Common | No |

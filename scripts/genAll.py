@@ -2,18 +2,20 @@
 
     python3 scripts/genAll.py
 
-Runs the metadata index-table generators — genTables (races, items, magic items, protocols),
+Runs the metadata index-table generators — genTables (races, items, protocols), genMagicItems,
 genSpells, and genBestiary — plus the generic inline-hub lister. Each is idempotent and
 self-pruning, so this is safe to run any time sources change.
 """
 
 import genBestiary
 import genInlineHub
+import genMagicItems
 import genSpells
 import genTables
 
 GENERATORS = (
    genTables,
+   genMagicItems,
    genSpells,
    genBestiary,
    genInlineHub,

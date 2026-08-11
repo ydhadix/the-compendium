@@ -1,1 +1,0 @@
-| [Enspelled Staff](/item/magic/uncommon/enspelled-staff.md) | Spellcasting Focus (Any) | Uncommon | Yes (Spellcaster) |

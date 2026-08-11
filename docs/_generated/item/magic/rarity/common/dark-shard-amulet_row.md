@@ -1,0 +1,1 @@
+| [Dark Shard Amulet](/item/magic/rarity/common/dark-shard-amulet.md) | Spellcasting Focus (Arcane Focus) | Common | Yes (Warlock) |

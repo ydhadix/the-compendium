@@ -1,1 +1,0 @@
-| [Ring of Starmetal](/item/magic/rare/ring-of-starmetal.md) | Clothing (Jewelry) | Rare | Yes |

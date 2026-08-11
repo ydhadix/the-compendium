@@ -1,0 +1,1 @@
+| [Rival Coin](/item/magic/rarity/common/rival-coin.md) | Wondrous Item | Common | No |

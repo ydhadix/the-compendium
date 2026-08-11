@@ -1,0 +1,1 @@
+| [Wand of Magic Detection](/item/magic/rarity/uncommon/wand-of-magic-detection.md) | Spellcasting Focus (Arcane Focus) | Uncommon | No |

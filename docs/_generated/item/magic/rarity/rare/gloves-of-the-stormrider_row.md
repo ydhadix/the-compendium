@@ -1,0 +1,1 @@
+| [Gloves of the Stormrider](/item/magic/rarity/rare/gloves-of-the-stormrider.md) | Clothing (Gloves) | Rare | Yes |

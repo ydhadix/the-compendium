@@ -1,0 +1,1 @@
+| [Helm of Telepathy](/item/magic/rarity/uncommon/helm-of-telepathy.md) | Clothing (Hat) | Uncommon | Yes |

@@ -1,0 +1,1 @@
+| [Champion's Greatbow](/item/magic/rarity/rare/champions-greatbow.md) | Weapon (Heavy, Ranged Weapon) | Rare | No |

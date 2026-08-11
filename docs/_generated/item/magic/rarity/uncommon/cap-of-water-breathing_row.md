@@ -1,0 +1,1 @@
+| [Cap of Water Breathing](/item/magic/rarity/uncommon/cap-of-water-breathing.md) | Clothing (Hat) | Uncommon | No |

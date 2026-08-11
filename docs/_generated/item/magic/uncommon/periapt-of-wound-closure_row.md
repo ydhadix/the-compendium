@@ -1,1 +1,0 @@
-| [Periapt of Wound Closure](/item/magic/uncommon/periapt-of-wound-closure.md) | Clothing (Jewelry) | Uncommon | Yes |

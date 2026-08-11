@@ -1,0 +1,1 @@
+| [Medusan Signet](/item/magic/rarity/uncommon/medusan-signet.md) | Clothing (Jewelry) | Uncommon | No |

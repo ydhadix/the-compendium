@@ -1,0 +1,1 @@
+| [Radiance](/item/magic/rarity/unique/radiance.md) | Spellcasting Focus (Arcane Focus, Holy Symbol) | Unique | Yes (Spellcaster) |

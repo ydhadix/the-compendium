@@ -1,1 +1,0 @@
-| [Elemental Gem](/item/magic/uncommon/elemental-gem.md) | Wondrous Item | Uncommon | No |

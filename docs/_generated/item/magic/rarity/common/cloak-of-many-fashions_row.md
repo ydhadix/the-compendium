@@ -1,0 +1,1 @@
+| [Cloak of Many Fashions](/item/magic/rarity/common/cloak-of-many-fashions.md) | Clothing (Cloak) | Common | No |

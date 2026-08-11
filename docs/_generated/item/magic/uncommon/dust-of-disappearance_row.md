@@ -1,1 +1,0 @@
-| [Dust of Disappearance](/item/magic/uncommon/dust-of-disappearance.md) | Wondrous Item | Uncommon | No |

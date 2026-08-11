@@ -1,0 +1,1 @@
+| [Smoldering Armor](/item/magic/rarity/common/smoldering-armor.md) | Armor (Any) | Common | No |

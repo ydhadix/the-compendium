@@ -1,0 +1,1 @@
+| [Arrow-Catching Shield](/item/magic/rarity/rare/arrow-catching-shield.md) | Shield (Any) | Rare | Yes |

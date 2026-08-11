@@ -1,0 +1,1 @@
+| [Boots of Glacierpress](/item/magic/rarity/very-rare/boots-of-glacierpress.md) | Clothing (Boots) | Very Rare | No |

@@ -1,0 +1,1 @@
+| [Dagger of Venom](/item/magic/rarity/uncommon/dagger-of-venom.md) | Weapon (Sidearm) | Uncommon | No |

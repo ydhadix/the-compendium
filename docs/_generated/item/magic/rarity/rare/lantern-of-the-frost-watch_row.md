@@ -1,0 +1,1 @@
+| [Lantern of the Frost Watch](/item/magic/rarity/rare/lantern-of-the-frost-watch.md) | Wondrous Item (Hooded Lantern) | Rare | No |

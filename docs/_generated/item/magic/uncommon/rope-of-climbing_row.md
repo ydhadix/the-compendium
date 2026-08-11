@@ -1,1 +1,0 @@
-| [Rope of Climbing](/item/magic/uncommon/rope-of-climbing.md) | Wondrous Item | Uncommon | No |

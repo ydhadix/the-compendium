@@ -1,0 +1,1 @@
+| [Staff of the Adder](/item/magic/rarity/uncommon/staff-of-the-adder.md) | Weapon (Staff) | Uncommon | Yes |

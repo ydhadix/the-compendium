@@ -1,0 +1,1 @@
+| [Pipes of Haunting](/item/magic/rarity/uncommon/pipes-of-haunting.md) | Wondrous Item (Musical Instrument) | Uncommon | No |

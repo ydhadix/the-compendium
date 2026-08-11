@@ -1,0 +1,1 @@
+| [Bag of Holding](/item/magic/rarity/uncommon/bag-of-holding.md) | Container (Backpack) | Uncommon | No |

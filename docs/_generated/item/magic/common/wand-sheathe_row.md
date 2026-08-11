@@ -1,1 +1,0 @@
-| [Wand Sheathe](/item/magic/common/wand-sheathe.md) | Wondrous Item | Common | Yes (Construct) |

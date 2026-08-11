@@ -1,0 +1,1 @@
+| [Armor of Weightlessness](/item/magic/rarity/uncommon/armor-of-weightlessness.md) | Armor (Any) | Uncommon | Yes |

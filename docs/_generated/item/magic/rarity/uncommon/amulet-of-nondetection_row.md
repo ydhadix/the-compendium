@@ -1,0 +1,1 @@
+| [Amulet of Nondetection](/item/magic/rarity/uncommon/amulet-of-nondetection.md) | Clothing (Jewelry) | Uncommon | Yes |

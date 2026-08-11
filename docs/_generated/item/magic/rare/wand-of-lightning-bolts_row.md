@@ -1,1 +1,0 @@
-| [Wand of Lightning Bolts](/item/magic/rare/wand-of-lightning-bolts.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes (Spellcaster) |

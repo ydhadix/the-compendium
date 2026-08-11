@@ -1,0 +1,1 @@
+| [Wind Fan](/item/magic/rarity/uncommon/wind-fan.md) | Wondrous Item | Uncommon | No |

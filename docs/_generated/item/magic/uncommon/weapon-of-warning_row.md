@@ -1,1 +1,0 @@
-| [Weapon of Warning](/item/magic/uncommon/weapon-of-warning.md) | Weapon (Any) | Uncommon | Yes |

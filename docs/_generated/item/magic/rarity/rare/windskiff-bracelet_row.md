@@ -1,0 +1,1 @@
+| [Windskiff Bracelet](/item/magic/rarity/rare/windskiff-bracelet.md) | Clothing (Jewelry) | Rare | No |

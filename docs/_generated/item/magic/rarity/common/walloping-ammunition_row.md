@@ -1,0 +1,1 @@
+| [Walloping Ammunition](/item/magic/rarity/common/walloping-ammunition.md) | Weapon (Ammunition) | Common | No |

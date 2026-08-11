@@ -1,0 +1,1 @@
+| [Champion's Weapon](/item/magic/rarity/uncommon/champions-weapon.md) | Weapon (Any) | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Deck of Illusions](/item/magic/rarity/uncommon/deck-of-illusions.md) | Wondrous Item | Uncommon | No |

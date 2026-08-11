@@ -1,0 +1,1 @@
+| [Cloak of the Manta Ray](/item/magic/rarity/uncommon/cloak-of-the-manta-ray.md) | Clothing (Cloak) | Uncommon | No |

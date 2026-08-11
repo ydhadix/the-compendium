@@ -1,0 +1,1 @@
+| [Ring of Warmth](/item/magic/rarity/uncommon/ring-of-warmth.md) | Clothing (Jewelry) | Uncommon | Yes |

@@ -1,0 +1,1 @@
+| [Healer's Voice](/item/magic/rarity/rare/healers-voice.md) | Clothing (Jewelry) | Rare | No |

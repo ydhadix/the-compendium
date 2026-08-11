@@ -1,0 +1,1 @@
+| [Staff of Adornment](/item/magic/rarity/common/staff-of-adornment.md) | Weapon (Staff) | Common | No |

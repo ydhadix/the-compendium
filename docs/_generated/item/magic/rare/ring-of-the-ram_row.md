@@ -1,1 +1,0 @@
-| [Ring of the Ram](/item/magic/rare/ring-of-the-ram.md) | Clothing (Jewelry) | Rare | Yes |

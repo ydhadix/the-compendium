@@ -1,0 +1,1 @@
+| [Armor of Gleaming](/item/magic/rarity/common/armor-of-gleaming.md) | Armor (Any) | Common | No |

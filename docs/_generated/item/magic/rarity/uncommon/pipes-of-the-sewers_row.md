@@ -1,0 +1,1 @@
+| [Pipes of the Sewers](/item/magic/rarity/uncommon/pipes-of-the-sewers.md) | Wondrous Item (Musical Instrument) | Uncommon | Yes |

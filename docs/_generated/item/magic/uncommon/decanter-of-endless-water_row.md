@@ -1,1 +1,0 @@
-| [Decanter of Endless Water](/item/magic/uncommon/decanter-of-endless-water.md) | Container (Flask) | Uncommon | No |

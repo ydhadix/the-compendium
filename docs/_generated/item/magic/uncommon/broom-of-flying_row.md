@@ -1,1 +1,0 @@
-| [Broom of Flying](/item/magic/uncommon/broom-of-flying.md) | Wondrous Item | Uncommon | Yes |

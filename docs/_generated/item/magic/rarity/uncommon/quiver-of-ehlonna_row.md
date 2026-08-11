@@ -1,0 +1,1 @@
+| [Quiver of Ehlonna](/item/magic/rarity/uncommon/quiver-of-ehlonna.md) | Container (Quiver) | Uncommon | No |

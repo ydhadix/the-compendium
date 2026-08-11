@@ -1,0 +1,1 @@
+| [Eversmoking Bottle](/item/magic/rarity/uncommon/eversmoking-bottle.md) | Container (Flask) | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Ring of Jumping](/item/magic/rarity/uncommon/ring-of-jumping.md) | Clothing (Jewelry) | Uncommon | Yes |

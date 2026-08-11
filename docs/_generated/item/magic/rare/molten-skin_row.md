@@ -1,1 +1,0 @@
-| [Molten Skin](/item/magic/rare/molten-skin.md) | Armor (Medium or Heavy) | Rare | No |

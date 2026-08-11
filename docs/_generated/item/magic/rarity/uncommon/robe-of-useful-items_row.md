@@ -1,0 +1,1 @@
+| [Robe of Useful Items](/item/magic/rarity/uncommon/robe-of-useful-items.md) | Clothing (Clothes) | Uncommon | No |

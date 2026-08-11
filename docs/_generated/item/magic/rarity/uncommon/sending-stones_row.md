@@ -1,0 +1,1 @@
+| [Sending Stones](/item/magic/rarity/uncommon/sending-stones.md) | Wondrous Item | Uncommon | No |

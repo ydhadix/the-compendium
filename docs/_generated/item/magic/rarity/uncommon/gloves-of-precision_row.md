@@ -1,0 +1,1 @@
+| [Gloves of Precision](/item/magic/rarity/uncommon/gloves-of-precision.md) | Clothing (Gloves) | Uncommon | No |

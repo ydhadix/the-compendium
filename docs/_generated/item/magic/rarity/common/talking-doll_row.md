@@ -1,0 +1,1 @@
+| [Talking Doll](/item/magic/rarity/common/talking-doll.md) | Wondrous Item | Common | Yes |

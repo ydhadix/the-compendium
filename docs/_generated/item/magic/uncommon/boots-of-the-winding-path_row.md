@@ -1,1 +1,0 @@
-| [Boots of the Winding Path](/item/magic/uncommon/boots-of-the-winding-path.md) | Clothing (Boots) | Uncommon | Yes |

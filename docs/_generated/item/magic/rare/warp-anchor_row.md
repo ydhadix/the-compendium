@@ -1,1 +1,0 @@
-| [Warp Anchor](/item/magic/rare/warp-anchor.md) | Wondrous Item | Rare | No |

@@ -1,0 +1,1 @@
+| [Shield of Protectors](/item/magic/rarity/uncommon/shield-of-protectors.md) | Shield (Any) | Uncommon | No |

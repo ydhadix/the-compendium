@@ -1,1 +1,0 @@
-| [Kinetic Bow](/item/magic/rare/kinetic-bowstring.md) | Weapon (Crossbow or Bow) | Rare | No |

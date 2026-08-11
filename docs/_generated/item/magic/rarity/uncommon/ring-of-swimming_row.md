@@ -1,0 +1,1 @@
+| [Ring of Swimming](/item/magic/rarity/uncommon/ring-of-swimming.md) | Clothing (Jewelry) | Uncommon | No |

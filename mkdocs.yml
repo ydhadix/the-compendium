@@ -45,6 +45,7 @@ not_in_nav: | # collection dirs whose entry pages aren't in nav
   character/class/*/*/*
   character/race/*
   character/feat/*/*
+  item/magic/rarity/*/*
   item/*/*/*
   item/*/*
   spell/level/*/*
@@ -171,13 +172,25 @@ nav:
       - Armor:                      item/armor.md
       - Magic Items:
         - Infusion Overview:        item/magic/index.md
-        - Common:                   item/magic/common.md
-        - Uncommon:                 item/magic/uncommon.md
-        - Rare:                     item/magic/rare.md
-        - Very Rare:                item/magic/very-rare.md
-        - Legendary:                item/magic/legendary.md
-        - Artifacts:                item/magic/artifact.md
-        - Unique:                   item/magic/unique.md
+        - Infusions by Rarity:
+          - Overview:               item/magic/rarity/index.md
+          - Common:                 item/magic/rarity/common.md
+          - Uncommon:               item/magic/rarity/uncommon.md
+          - Rare:                   item/magic/rarity/rare.md
+          - Very Rare:              item/magic/rarity/very-rare.md
+          - Legendary:              item/magic/rarity/legendary.md
+          - Artifacts:              item/magic/rarity/artifact.md
+          - Unique:                 item/magic/rarity/unique.md
+        - Infusions by Item Type:
+          - Overview:               item/magic/type/index.md
+          - Armor:                  item/magic/type/armor.md
+          - Clothing:               item/magic/type/clothing.md
+          - Containers:             item/magic/type/container.md
+          - Shields:                item/magic/type/shield.md
+          - Spellcasting Focuses:   item/magic/type/spell-focus.md
+          - Tools:                  item/magic/type/tool.md
+          - Weapons:                item/magic/type/weapon.md
+          - Wondrous Items:         item/magic/type/wondrous.md
 
     - Spell Selection:
       - Spell Overview:             spell/index.md

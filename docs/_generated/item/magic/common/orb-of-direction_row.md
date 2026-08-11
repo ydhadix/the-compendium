@@ -1,1 +1,0 @@
-| [Orb of Direction](/item/magic/common/orb-of-direction.md) | Spellcasting Focus (Arcane Focus) | Common | No |

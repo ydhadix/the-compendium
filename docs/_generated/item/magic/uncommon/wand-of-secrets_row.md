@@ -1,1 +1,0 @@
-| [Wand of Secrets](/item/magic/uncommon/wand-of-secrets.md) | Spellcasting Focus (Arcane Focus) | Uncommon | No |

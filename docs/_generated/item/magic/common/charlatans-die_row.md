@@ -1,1 +1,0 @@
-| [Charlatan's Die](/item/magic/common/charlatans-die.md) | Wondrous Item | Common | Yes |

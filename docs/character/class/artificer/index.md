@@ -58,13 +58,13 @@ The [Artificer Table](#class-table) shows how many items you can infuse. To infu
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/uncommon/alchemy-jug_row.md"
---8<-- "_generated/item/magic/uncommon/cap-of-water-breathing_row.md"
---8<-- "_generated/item/magic/uncommon/helm-of-awareness_row.md"
---8<-- "_generated/item/magic/uncommon/ring-of-mind-sharpening_row.md"
---8<-- "_generated/item/magic/uncommon/sending-stones_row.md"
---8<-- "_generated/item/magic/uncommon/wand-of-secrets_row.md"
---8<-- "_generated/item/magic/uncommon/weapon-of-returning_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/alchemy-jug_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/cap-of-water-breathing_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/helm-of-awareness_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/ring-of-mind-sharpening_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/sending-stones_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/wand-of-secrets_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/weapon-of-returning_row.md"
 | [Any Artisan's Tool](/item/trade/index.md#artisans-tools) | Tool (Artisan's Tool) | — | — |
 | [+1 Weapon](/item/weapon.md) | Weapon (Any) | — | — |
 | [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
@@ -152,16 +152,16 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/uncommon/armor-of-magical-strength_row.md"
---8<-- "_generated/item/magic/uncommon/boots-of-the-winding-path_row.md"
---8<-- "_generated/item/magic/uncommon/cloak-of-the-manta-ray_row.md"
---8<-- "_generated/item/magic/uncommon/eyes-of-minute-seeing_row.md"
---8<-- "_generated/item/magic/uncommon/lantern-of-revealing_row.md"
---8<-- "_generated/item/magic/uncommon/pipes-of-haunting_row.md"
---8<-- "_generated/item/magic/uncommon/ring-of-swimming_row.md"
---8<-- "_generated/item/magic/uncommon/shield-of-repulsion_row.md"
---8<-- "_generated/item/magic/uncommon/wand-of-magic-missiles_row.md"
---8<-- "_generated/item/magic/uncommon/weapon-of-radiance_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/armor-of-magical-strength_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/boots-of-the-winding-path_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/cloak-of-the-manta-ray_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/eyes-of-minute-seeing_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/lantern-of-revealing_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/pipes-of-haunting_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/ring-of-swimming_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/shield-of-repulsion_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/wand-of-magic-missiles_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/weapon-of-radiance_row.md"
 | [+1 Armor](/item/armor.md) | Armor (Any) | — | — |
 
 
@@ -183,7 +183,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
-| [Any Uncommon Infusion](/item/magic/uncommon.md) | Varies | Uncommon | Varies |
+| [Any Uncommon Infusion](/item/magic/rarity/uncommon.md) | Varies | Uncommon | Varies |
 | [+2 Weapon](/item/weapon.md) | Weapon (Any) | — | — |
 | [+2 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
 | [+2 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
@@ -210,9 +210,9 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rare/arrow-catching-shield_row.md"
---8<-- "_generated/item/magic/rare/ring-of-free-action_row.md"
---8<-- "_generated/item/magic/rare/ring-of-the-ram_row.md"
+--8<-- "_generated/item/magic/rarity/rare/arrow-catching-shield_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ring-of-free-action_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ring-of-the-ram_row.md"
 | [+1 Armor](/item/armor.md) | Armor (Any) | — | — |
 
 

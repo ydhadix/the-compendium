@@ -1,1 +1,0 @@
-| [Shield of Expression](/item/magic/common/shield-of-expression.md) | Shield (Any) | Common | No |

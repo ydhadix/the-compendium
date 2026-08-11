@@ -1,0 +1,1 @@
+| [Dust of Sneezing and Choking](/item/magic/rarity/uncommon/dust-of-sneezing-and-choking.md) | Wondrous Item | Uncommon | No |

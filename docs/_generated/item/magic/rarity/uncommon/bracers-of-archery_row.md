@@ -1,0 +1,1 @@
+| [Bracers of Archery](/item/magic/rarity/uncommon/bracers-of-archery.md) | Clothing (Bracers) | Uncommon | Yes |

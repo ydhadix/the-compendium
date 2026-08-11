@@ -1,0 +1,1 @@
+| [Amulet of Ideals](/item/magic/rarity/rare/amulet-of-ideals.md) | Spellcasting Focus (Holy Symbol) | Rare | Yes (Cleric or Paladin) |

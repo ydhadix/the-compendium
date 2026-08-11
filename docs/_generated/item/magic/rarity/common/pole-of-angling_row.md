@@ -1,0 +1,1 @@
+| [Pole of Angling](/item/magic/rarity/common/pole-of-angling.md) | Wondrous Item | Common | No |

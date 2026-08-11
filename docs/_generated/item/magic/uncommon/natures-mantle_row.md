@@ -1,1 +1,0 @@
-| [Nature's Mantle](/item/magic/uncommon/natures-mantle.md) | Clothing (Cloak) | Uncommon | Yes (Druid or Ranger) |

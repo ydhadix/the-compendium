@@ -1,0 +1,1 @@
+| [Headband of Intellect](/item/magic/rarity/uncommon/headband-of-intellect.md) | Clothing (Jewelry) | Uncommon | Yes |

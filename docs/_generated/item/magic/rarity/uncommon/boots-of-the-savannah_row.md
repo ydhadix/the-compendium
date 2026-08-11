@@ -1,0 +1,1 @@
+| [Boots of the Savannah](/item/magic/rarity/uncommon/boots-of-the-savannah.md) | Clothing (Boots) | Uncommon | Yes |

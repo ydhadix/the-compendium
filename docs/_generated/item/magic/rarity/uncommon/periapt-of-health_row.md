@@ -1,0 +1,1 @@
+| [Periapt of Health](/item/magic/rarity/uncommon/periapt-of-health.md) | Clothing (Jewelry) | Uncommon | Yes |

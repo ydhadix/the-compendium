@@ -1,0 +1,1 @@
+| [Cloak of Protection](/item/magic/rarity/uncommon/cloak-of-protection.md) | Clothing (Cloak) | Uncommon | Yes |

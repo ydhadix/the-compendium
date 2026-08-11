@@ -1,0 +1,1 @@
+| [Necklace of Adaptation](/item/magic/rarity/uncommon/necklace-of-adaptation.md) | Clothing (Jewelry) | Uncommon | Yes |

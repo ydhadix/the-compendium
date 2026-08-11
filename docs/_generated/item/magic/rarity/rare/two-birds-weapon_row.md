@@ -1,0 +1,1 @@
+| [Two-Birds Weapon](/item/magic/rarity/rare/two-birds-weapon.md) | Weapon (Ranged or Thrown) | Rare | No |

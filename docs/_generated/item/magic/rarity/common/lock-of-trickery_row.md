@@ -1,0 +1,1 @@
+| [Lock of Trickery](/item/magic/rarity/common/lock-of-trickery.md) | Wondrous Item | Common | No |

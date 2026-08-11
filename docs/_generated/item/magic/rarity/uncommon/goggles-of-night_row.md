@@ -1,0 +1,1 @@
+| [Goggles of Night](/item/magic/rarity/uncommon/goggles-of-night.md) | Wondrous Item | Uncommon | No |

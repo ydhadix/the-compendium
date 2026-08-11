@@ -1,0 +1,1 @@
+| [Trident of Fish Command](/item/magic/rarity/uncommon/trident-of-fish-command.md) | Weapon (Staff) | Uncommon | Yes |

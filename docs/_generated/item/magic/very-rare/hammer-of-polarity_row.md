@@ -1,1 +1,0 @@
-| [Hammer of Polarity](/item/magic/very-rare/hammer-of-polarity.md) | Weapon (Hammer) | Very Rare | Yes (Spellcaster) |

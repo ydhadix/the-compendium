@@ -1,0 +1,1 @@
+| [Staff of Flowers](/item/magic/rarity/common/staff-of-flowers.md) | Weapon (Staff) | Common | No |

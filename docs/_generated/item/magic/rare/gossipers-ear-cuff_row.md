@@ -1,1 +1,0 @@
-| [Gossiper's Ear Cuff](/item/magic/rare/gossipers-ear-cuff.md) | Clothing (Jewelry) | Rare | No |

@@ -1,0 +1,1 @@
+| [Immovable Rod](/item/magic/rarity/uncommon/immovable-rod.md) | Wondrous Item | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Cloak of Billowing](/item/magic/rarity/common/cloak-of-billowing.md) | Clothing (Cloak) | Common | No |

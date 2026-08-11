@@ -1,1 +1,0 @@
-| [Weapon of Radiance](/item/magic/uncommon/weapon-of-radiance.md) | Weapon (Any) | Uncommon | Yes |
