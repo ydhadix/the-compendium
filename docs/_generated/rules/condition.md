@@ -49,3 +49,5 @@
 --8<-- "rules/_condition/stunned.md"
 
 --8<-- "rules/_condition/unconscious.md"
+
+--8<-- "rules/_condition/withering.md"

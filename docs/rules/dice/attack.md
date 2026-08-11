@@ -50,44 +50,41 @@ The minimum number to score a Critical Hit decreases each time your **Critical H
 For an unnamed NPC, a Critical Hit maximizes the attack's Damage Roll: each Damage Die is treated as rolling its highest value.
 
 #### Player Critical Hits
-For a named NPC or a player character, a Critical Hit can be more devastating, amplified by the Damage Type used and the Enemy's Armor and Creature Type.
+After a player or named NPC rolls a Critical Hit, choose one of the Damage Types the attack would deal and roll an additional d20.  The Damage Type determines whether the additional d20 gains Advantage, and what Condition, if any, the Critical Hit applies.  The d20 roll sets the Critical Hit's damage, Condition Duration, and Condition Die.
 
-##### Critical Hit Table
-After you roll a Critical Hit, choose one of the Damage Types the attack would deal and roll an additional d20.  If the Damage Type is effective against the target, you gain Advantage on this roll.  The Critical Hit Table shows the additional effect and how to apply damage based on the result.
+A Condition from a Critical Hit lasts no longer than the roll's duration.  Before their turn ends, a creature with a feature that can automatically succeed on a Saving Throw _(such as Legendary Resistance or Indomitable)_ can use it to end the condition early.
 
-| Damage Type | 1 | 2-10 | 11-15 | 16-17 | 18-19 | 20 |
-|---|---|---|---|---|---|---|
-| Damage      | **Max** | **Max** | **Max + Normal Roll** | **Max + Normal Roll** | **2 × Max** | **2 × Max** |
-| Bludgeoning | — |  |  |  |  |  |
-| Piercing    | — |  |  |  |  |  |
-| Slashing    | — |  |  |  |  |  |
-| Acid        | — |  |  |  |  |  |
-| Cold        | — |  |  |  |  |  |
-| Fire        | — |  |  |  |  |  |
-| Lightning   | — |  |  |  |  |  |
-| Poison      | — |  |  |  |  |  |
-| Thunder     | — |  |  |  |  |  |
-| Psychic     | — |  |  |  |  |  |
-| Radiant     | — |  |  |  |  |  |
-| Necrotic    | — |  |  |  |  |  |
-| Force       | — |  |  |  |  |  |
+| Damage Type | Advantage Against... | Critical Condition | Major Condition |
+|---|---|---|---|
+| Bludgeoning | Heavy Armor | Dazed | Stunned |
+| Piercing    | Medium Armor | Immobile | Restrained |
+| Slashing    | Unarmored, Light Armor | Bleeding | Bleeding |
+| Acid        | Constructs | Corroding | Corroding |
+| Cold        | Oozes, Plants | Immobile | Restrained |
+| Fire        | Beasts, Plants | Burning | Burning |
+| Lightning   | Medium Armor, Heavy Armor | Immobile | Paralyzed |
+| Poison      | Giants, Humanoids | Sickened | Paralyzed |
+| Thunder     | Elementals, Oozes | Dazed | Stunned |
+| Force       | — | Incapacitated | Stunned |
+| Necrotic    | Celestials | Withering | Paralyzed |
+| Psychic     | Beasts, Monstrosities | Frightened | Unconscious |
+| Radiant     | Fiends, Undead | Blinded | Stunned |
 
-##### Major Critical Hit Table
-After you roll a **20** on the Critical Hit Table, roll again on the Major Critical Hit Table.  The Table's effects are also added to the Critical Hit.
+| Critical d20 | Damage | Condition Duration | Bleed / Wither Die | Burn / Caustic Die |
+|---|---|---|---|---|
+| 1-10  | **Max** | — | — | — |
+| 11-15 | **Max + Roll** | 1 Round | **1d8** | **1d8** |
+| 16-17 | **Max + Roll** | 2 Rounds | **1d8** | **2d6** |
+| 18-19 | **2 × Max** | 2 Rounds | **1d8** | **2d6** |
+| 20    | **2 × Max** | 3 Rounds | **1d10** | **2d10** |
 
-| Damage Type | 1 | 2-10 | 11-15 | 16-17 | 18-19 | 20 |
-|---|---|---|---|---|---|---|
-| Damage      | — | — | **+ Normal Roll** | **+ Max** | **+ Max** | Drop to **0** HP |
-| Bludgeoning | — |  |  |  |  | — |
-| Piercing    | — |  |  |  |  | — |
-| Slashing    | — |  |  |  |  | — |
-| Acid        | — |  |  |  |  | — |
-| Cold        | — |  |  |  |  | — |
-| Fire        | — |  |  |  |  | — |
-| Lightning   | — |  |  |  |  | — |
-| Poison      | — |  |  |  |  | — |
-| Thunder     | — |  |  |  |  | — |
-| Psychic     | — |  |  |  |  | — |
-| Radiant     | — |  |  |  |  | — |
-| Necrotic    | — |  |  |  |  | — |
-| Force       | — |  |  |  |  | — |
+##### Major Critical Hit
+After you roll a **20** on the Critical Hit Table, roll again on the Major Critical Hit Table, keeping Advantage if the Damage Type is effective.  Its damage, duration, and Condition are added to the Critical Hit _(each condition applied keeps its own duration)_.
+
+| Major d20 | Damage | Condition Duration | Bleed / Wither Die | Burn / Caustic Die |
+|---|---|---|---|---|
+| 1-10  | — | 1 Round | **1d8** | **1d8** |
+| 11-15 | **+Roll** | 1 Round | **1d8** | **1d8** |
+| 16-17 | **+Roll** | 2 Rounds | **1d8** | **2d6** |
+| 18-19 | **+Max** | 3 Rounds | **1d10** | **2d10** |
+| 20    | Drop to **0** HP | — | — | — |
