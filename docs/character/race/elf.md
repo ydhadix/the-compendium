@@ -13,6 +13,8 @@
 | Protections | Charm |
 | Senses | Darkvision _(**60** ft.)_ |
 
+Elf and dark elf characters can be named with the [elven name generator](/character/race/name/elf.md) and the [dark elf name generator](/character/race/name/dark-elf.md).
+
 ## Elf Features
 ### Keen Senses
 You gain Insight, Perception, or Survival Proficiency.
