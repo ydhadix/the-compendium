@@ -2,7 +2,7 @@
 Uncommon Clothing (Jewelry), Attunement (Spellcaster)
 { .subtitle }
 
-#### Quick Recovery
+##### Quick Recovery
 Bonus Action, 1 use per Day
 { .subtitle }
 

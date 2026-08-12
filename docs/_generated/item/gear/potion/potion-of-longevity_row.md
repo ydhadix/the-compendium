@@ -1,0 +1,1 @@
+| [Potion of Longevity](/item/gear/potion/potion-of-longevity.md) | Potion | 20,000 gold |

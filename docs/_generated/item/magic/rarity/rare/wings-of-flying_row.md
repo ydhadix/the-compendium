@@ -1,0 +1,1 @@
+| [Wings of Flying](/item/magic/rarity/rare/wings-of-flying.md) | Clothing (Cloak) | Rare | Yes |

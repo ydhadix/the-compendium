@@ -2,7 +2,7 @@
 Rare Clothing (Boots)
 { .subtitle }
 
-#### Stormstride
+##### Stormstride
 Free Action, 1 use per Day
 { .subtitle }
 

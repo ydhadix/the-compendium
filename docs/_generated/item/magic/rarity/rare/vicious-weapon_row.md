@@ -1,0 +1,1 @@
+| [Vicious Weapon](/item/magic/rarity/rare/vicious-weapon.md) | Weapon (Any) | Rare | No |

@@ -2,7 +2,7 @@
 Uncommon Clothing (Gloves), Attunement
 { .subtitle }
 
-#### Catch Missile
+##### Catch Missile
 Reaction
 { .subtitle }
 

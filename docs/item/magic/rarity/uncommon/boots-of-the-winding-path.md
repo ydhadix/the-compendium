@@ -2,7 +2,7 @@
 Uncommon Clothing (Boots), Attunement
 { .subtitle }
 
-#### Retrace
+##### Retrace
 Bonus Action
 { .subtitle }
 

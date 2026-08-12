@@ -1,0 +1,1 @@
+| [Sword of Life Stealing](/item/magic/rarity/rare/sword-of-life-stealing.md) | Weapon (Blade or Fence) | Rare | Yes |

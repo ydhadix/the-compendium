@@ -4,7 +4,7 @@ Tool, 2 gold
 
 A set of Manacles comes with a key used to lock or unlock them.
 
-###### Bind
+##### Bind
 Utilize Action
 { .subtitle }
 

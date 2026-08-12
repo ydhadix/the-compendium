@@ -1,0 +1,1 @@
+| [Swan Boat Token](/item/magic/rarity/rare/swan-boat-token.md) | Wondrous Item | Rare | No |

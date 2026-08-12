@@ -4,7 +4,7 @@ Potion, Consumable, 200 gold
 
 This jar holds **1d4 + 1** doses of ointment.
 
-#### Apply Dose
+##### Apply Dose
 Utilize Action
 { .subtitle }
 

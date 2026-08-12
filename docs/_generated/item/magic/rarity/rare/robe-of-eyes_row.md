@@ -1,0 +1,1 @@
+| [Robe of Eyes](/item/magic/rarity/rare/robe-of-eyes.md) | Clothing (Clothes) | Rare | Yes |

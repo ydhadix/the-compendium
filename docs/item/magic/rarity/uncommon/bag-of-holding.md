@@ -6,7 +6,7 @@ This bag's interior is larger than its outside dimensions. It can hold up to **5
 
 If the bag is overloaded, pierced, or torn, it is destroyed and its contents scatter randomly within **20** feet.  If the bag is turned inside out, its contents spill forth unharmed.
 
-#### Retrieve Item
+##### Retrieve Item
 Utilize Action
 { .subtitle }
 

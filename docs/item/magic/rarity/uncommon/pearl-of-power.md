@@ -2,7 +2,7 @@
 Uncommon Clothing (Jewelry), Attunement (Spellcaster)
 { .subtitle }
 
-#### Recover Slot
+##### Recover Slot
 Magic Action, 1 use per Day
 { .subtitle }
 

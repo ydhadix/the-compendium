@@ -1,4 +1,4 @@
-Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · Very Rare · Legendary · [Artifact](#artifact) · Unique
+Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · [Artifact](#artifact) · Unique · Cursed
 { .keyword-jump }
 
 ## Common
@@ -34,6 +34,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · Very Ra
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/alchemy-jug_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/anchor-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/broom-of-flying_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/dancing-broom_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/deck-of-illusions_row.md"
@@ -42,7 +43,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · Very Ra
 --8<-- "_generated/item/magic/rarity/uncommon/dust-of-dryness_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/dust-of-sneezing-and-choking_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/elemental-gem_row.md"
---8<-- "_generated/item/magic/rarity/uncommon/feather-token_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/fan-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/first-mates-scabbard_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/gem-of-brightness_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/goggles-of-night_row.md"
@@ -58,16 +59,66 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · Very Ra
 --8<-- "_generated/item/magic/rarity/uncommon/saddle-of-the-cavalier_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/sending-stones_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/silver-raven-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/tree-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/wind-fan_row.md"
 
 ## Rare
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
+--8<-- "_generated/item/magic/rarity/rare/bead-of-force_row.md"
+--8<-- "_generated/item/magic/rarity/rare/bird-token_row.md"
+--8<-- "_generated/item/magic/rarity/rare/bronze-griffon-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/rare/chime-of-opening_row.md"
+--8<-- "_generated/item/magic/rarity/rare/cube-of-force_row.md"
+--8<-- "_generated/item/magic/rarity/rare/cube-of-summoning_row.md"
+--8<-- "_generated/item/magic/rarity/rare/dimensional-shackles_row.md"
 --8<-- "_generated/item/magic/rarity/rare/docent_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ebony-fly-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/rare/elemental-vessel_row.md"
+--8<-- "_generated/item/magic/rarity/rare/gem-of-seeing_row.md"
+--8<-- "_generated/item/magic/rarity/rare/golden-lions-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/rare/horn-of-blasting_row.md"
+--8<-- "_generated/item/magic/rarity/rare/horn-of-valhalla_row.md"
+--8<-- "_generated/item/magic/rarity/rare/horseshoes-of-speed_row.md"
+--8<-- "_generated/item/magic/rarity/rare/instant-fortress_row.md"
+--8<-- "_generated/item/magic/rarity/rare/instrument-of-the-bards_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ioun-stone_row.md"
+--8<-- "_generated/item/magic/rarity/rare/iron-bands_row.md"
 --8<-- "_generated/item/magic/rarity/rare/item-of-resistance_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ivory-goats-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/lantern-of-the-frost-watch_row.md"
+--8<-- "_generated/item/magic/rarity/rare/marble-elephant-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/rare/onyx-dog-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/rare/rope-of-entanglement_row.md"
+--8<-- "_generated/item/magic/rarity/rare/serpentine-owl-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/rare/swan-boat-token_row.md"
 --8<-- "_generated/item/magic/rarity/rare/warp-anchor_row.md"
+--8<-- "_generated/item/magic/rarity/rare/whip-token_row.md"
+
+## Very Rare
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/rarity/very-rare/candle-of-invocation_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/carpet-of-flying_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/efreeti-bottle_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/horn-of-valhalla_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/horseshoes-of-a-zephyr_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/instrument-of-the-bards_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/ioun-stone_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/manual-of-golems_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/marvelous-pigments_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/mirror-of-life-trapping_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/obsidian-steed-figurine_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/tome-of-mastery_row.md"
+
+## Legendary
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/rarity/legendary/horn-of-valhalla_row.md"
+--8<-- "_generated/item/magic/rarity/legendary/ioun-stone_row.md"
 
 ## Artifact
 

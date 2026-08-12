@@ -1,0 +1,1 @@
+| [Energy Bow](/item/magic/rarity/rare/energy-bow.md) | Weapon (Bow) | Rare | Yes |

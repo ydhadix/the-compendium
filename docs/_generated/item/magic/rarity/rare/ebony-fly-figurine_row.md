@@ -1,0 +1,1 @@
+| [Ebony Fly Figurine](/item/magic/rarity/rare/ebony-fly-figurine.md) | Wondrous Item | Rare | No |

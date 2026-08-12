@@ -1,0 +1,1 @@
+| [Frost Brand](/item/magic/rarity/rare/frost-brand.md) | Weapon (Blade or Fence) | Rare | Yes |

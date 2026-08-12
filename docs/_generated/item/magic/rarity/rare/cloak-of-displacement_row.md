@@ -1,0 +1,1 @@
+| [Cloak of Displacement](/item/magic/rarity/rare/cloak-of-displacement.md) | Clothing (Cloak) | Rare | Yes |

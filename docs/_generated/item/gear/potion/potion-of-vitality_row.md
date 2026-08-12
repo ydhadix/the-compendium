@@ -1,0 +1,1 @@
+| [Potion of Vitality](/item/gear/potion/potion-of-vitality.md) | Potion | 20,000 gold |

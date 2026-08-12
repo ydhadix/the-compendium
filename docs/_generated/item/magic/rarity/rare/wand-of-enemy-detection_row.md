@@ -1,0 +1,1 @@
+| [Wand of Enemy Detection](/item/magic/rarity/rare/wand-of-enemy-detection.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes |

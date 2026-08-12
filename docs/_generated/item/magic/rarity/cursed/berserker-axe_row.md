@@ -1,0 +1,1 @@
+| [Berserker Axe](/item/magic/rarity/cursed/berserker-axe.md) | Weapon (Blade or Polearm) | Cursed | Yes |

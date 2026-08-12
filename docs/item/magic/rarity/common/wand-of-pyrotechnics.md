@@ -5,7 +5,7 @@ Common Spellcasting Focus (Arcane Focus)
 **7** Charges (regain **1d6 + 1** per Day)
 { .subtitle }
 
-#### Spark
+##### Spark
 Magic Action, 1 Charge
 { .subtitle }
 

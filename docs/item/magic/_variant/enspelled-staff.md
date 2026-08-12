@@ -3,7 +3,7 @@
 
 This staff holds a single Spell.  The Spell Level determines this staff's rarity.
 
-#### Cast
+##### Cast
 Magic Action, 1 Charge
 { .subtitle }
 

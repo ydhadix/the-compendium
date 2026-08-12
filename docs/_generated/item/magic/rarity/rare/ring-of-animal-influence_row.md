@@ -1,0 +1,1 @@
+| [Ring of Animal Influence](/item/magic/rarity/rare/ring-of-animal-influence.md) | Clothing (Jewelry) | Rare | No |

@@ -1,0 +1,1 @@
+| [Folding Boat](/item/magic/rarity/rare/folding-boat.md) | Container (Box) | Rare | No |

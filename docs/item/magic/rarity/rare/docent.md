@@ -11,13 +11,13 @@ Your Companion gains the following effects:
 - It gains Expertise in two of Arcana, History, Medicine, Nature, or Perception.
 - It can speak any language it understands.
 
-#### Learn Language
+##### Learn Language
 Reaction, 1 use
 { .subtitle }
 
 After your Companion hears or reads a language it doesn't know, it can instantly learn that language.
 
-#### Cast
+##### Cast
 Magic Action
 { .subtitle }
 

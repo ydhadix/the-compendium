@@ -1,0 +1,1 @@
+| [Wand of Binding](/item/magic/rarity/rare/wand-of-binding.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes |

@@ -1,0 +1,1 @@
+| [Cape of the Mountebank](/item/magic/rarity/rare/cape-of-the-mountebank.md) | Clothing (Cloak) | Rare | No |

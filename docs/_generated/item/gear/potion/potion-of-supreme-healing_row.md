@@ -1,0 +1,1 @@
+| [Potion of Supreme Healing](/item/gear/potion/potion-of-supreme-healing.md) | Potion | 20,000 gold |

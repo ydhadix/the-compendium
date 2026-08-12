@@ -6,7 +6,7 @@ This potion comes in a Vial.
 
 After consuming this potion, you gain the following Action for **1** hour.
 
-#### Breathe Fire
+##### Breathe Fire
 Bonus Action, 3 uses
 { .subtitle }
 

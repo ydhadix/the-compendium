@@ -1,1 +1,0 @@
-| [Potion of Hill Giant Strength](/item/gear/potion/potion-of-hill-giant-strength.md) | Potion | 200 gold |

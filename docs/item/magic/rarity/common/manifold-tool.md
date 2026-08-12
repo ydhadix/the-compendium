@@ -2,13 +2,13 @@
 Common Wondrous Item, Attunement (Artificer)
 { .subtitle }
 
-#### Transform Tool
+##### Transform Tool
 Magic Action
 { .subtitle }
 
 You can transform this tool into any Artisan's Tool you have Proficiency with.
 
-#### Gain Proficiency
+##### Gain Proficiency
 Magic Action, 1 use per Day
 { .subtitle }
 

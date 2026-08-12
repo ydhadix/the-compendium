@@ -2,7 +2,7 @@
 Rare Weapon (Crossbow or Bow)
 { .subtitle }
 
-#### Amplify
+##### Amplify
 Free Action, 1 use per Turn
 { .subtitle }
 

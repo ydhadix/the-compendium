@@ -1,0 +1,1 @@
+| [Handy Haversack](/item/magic/rarity/rare/handy-haversack.md) | Container (Backpack) | Rare | No |

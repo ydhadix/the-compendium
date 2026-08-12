@@ -1,0 +1,1 @@
+| [Potion of Mind Reading](/item/gear/potion/potion-of-mind-reading.md) | Potion | 2,000 gold |

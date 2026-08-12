@@ -1,0 +1,1 @@
+| [Belt of Dwarvenkind](/item/magic/rarity/rare/belt-of-dwarvenkind.md) | Clothing (Belt) | Rare | Yes |

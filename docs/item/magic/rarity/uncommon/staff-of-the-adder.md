@@ -2,7 +2,7 @@
 Uncommon Weapon (Staff), Attunement
 { .subtitle }
 
-#### Animate Head
+##### Animate Head
 Bonus Action
 { .subtitle }
 

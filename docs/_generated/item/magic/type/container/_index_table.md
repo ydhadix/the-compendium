@@ -1,4 +1,4 @@
-Rarity · Common · [Uncommon](#uncommon) · Rare · Very Rare · Legendary · Artifact · Unique
+Rarity · Common · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · Legendary · Artifact · Unique · Cursed
 { .keyword-jump }
 
 ## Uncommon
@@ -11,3 +11,18 @@ Rarity · Common · [Uncommon](#uncommon) · Rare · Very Rare · Legendary · A
 --8<-- "_generated/item/magic/rarity/uncommon/eversmoking-bottle_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/magic-pocket_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/quiver-of-ehlonna_row.md"
+
+## Rare
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/rarity/rare/bag-of-beans_row.md"
+--8<-- "_generated/item/magic/rarity/rare/folding-boat_row.md"
+--8<-- "_generated/item/magic/rarity/rare/handy-haversack_row.md"
+--8<-- "_generated/item/magic/rarity/rare/portable-hole_row.md"
+
+## Very Rare
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/rarity/very-rare/bag-of-devouring_row.md"

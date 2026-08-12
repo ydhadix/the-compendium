@@ -1,0 +1,1 @@
+| [Quarterstaff of the Acrobat](/item/magic/rarity/rare/quarterstaff-of-the-acrobat.md) | Weapon (Staff) | Rare | Yes |

@@ -1,0 +1,1 @@
+| [Scimitar of Speed](/item/magic/rarity/rare/scimitar-of-speed.md) | Weapon (Fence) | Rare | Yes |

@@ -1,0 +1,1 @@
+| [Instant Fortress](/item/magic/rarity/rare/instant-fortress.md) | Wondrous Item | Rare | Yes |

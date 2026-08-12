@@ -4,7 +4,7 @@ Rare Clothing (Cloak)
 
 You can target objects and constructs with healing spells.
 
-#### Summon Tools
+##### Summon Tools
 Utilize Action
 { .subtitle }
 

@@ -4,7 +4,7 @@ Potion, Consumable, 25 gold
 
 This potion comes in a Vial.
 
-###### Throw
+##### Throw
 A Vial filled with Acid can be wielded as a Simple Melee Weapon with Thrown _(**20**/**60** feet)_.
 
 | | |

@@ -1,0 +1,1 @@
+| [Weapon of Disruption](/item/magic/rarity/rare/weapon-of-disruption.md) | Weapon (Any) | Rare | Yes |

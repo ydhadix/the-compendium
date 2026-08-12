@@ -1,0 +1,1 @@
+| [Potion of Greater Invisibility](/item/gear/potion/potion-of-greater-invisibility.md) | Potion | 20,000 gold |

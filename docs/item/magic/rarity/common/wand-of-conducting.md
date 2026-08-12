@@ -2,7 +2,7 @@
 Common Spellcasting Focus (Arcane Focus)
 { .subtitle }
 
-#### Conduct
+##### Conduct
 Magic Action, 3 uses per Day
 { .subtitle }
 

@@ -9,25 +9,25 @@ This weapon can be used as a Spellcasting Focus. Spells you cast add your Spellc
 
 This weapon deals an additional **1d6** Lightning Damage and has Thrown _(**20**/**60**)_. After a Ranged Attack with this weapon hits or misses, it returns to your hand.
 
-#### Magnetic Compass
+##### Magnetic Compass
 Magic Action
 { .subtitle }
 
 While you aren't holding this weapon, it hovers within your Reach, remaining upright and leaving your hands free. The weapon moves around you to indicate magnetic north.  You can use this Action again to disable this effect.
 
-#### Attraction Point
+##### Attraction Point
 Free Action, 1 use per Turn
 { .subtitle }
 
 After you hit a target up to your Size with this weapon, you can propel the target up to **10** feet closer or knock the target Prone.
 
-#### Cast
+##### Cast
 Reaction, 1 Charge
 { .subtitle }
 
 You can cast _Shield_.
 
-#### Emergency Repulsion
+##### Emergency Repulsion
 Reaction, 4 Charges
 { .subtitle }
 

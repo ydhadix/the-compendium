@@ -1,0 +1,1 @@
+| [Rod of Absorption](/item/magic/rarity/very-rare/rod-of-absorption.md) | Spellcasting Focus (Arcane Focus) | Very Rare | Yes |

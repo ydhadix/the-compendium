@@ -2,7 +2,7 @@
 Tool, 1 gold
 { .subtitle }
 
-###### Tie Knot
+##### Tie Knot
 Utilize Action
 { .subtitle }
 
@@ -12,7 +12,7 @@ You can make a Precision Check _(DC **10**)_.
 |---|---|
 | **Success** | You tie a knot with the Rope. |
 
-###### Bind
+##### Bind
 Utilize Action
 { .subtitle }
 

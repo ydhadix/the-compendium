@@ -1,0 +1,1 @@
+| [Cube of Summoning](/item/magic/rarity/rare/cube-of-summoning.md) | Wondrous Item | Rare | No |

@@ -4,7 +4,7 @@ Common Wondrous Item
 
 Each Rival Coin depicts two famous rivals, one on each face.
 
-#### Toss Coin
+##### Toss Coin
 Magic Action, 1 use per Day
 { .subtitle }
 

@@ -1,0 +1,1 @@
+| [Weapon of Terror](/item/magic/rarity/rare/weapon-of-terror.md) | Weapon (Any) | Rare | Yes |

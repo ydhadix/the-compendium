@@ -1,0 +1,1 @@
+| [Ring of Regeneration](/item/magic/rarity/very-rare/ring-of-regeneration.md) | Clothing (Jewelry) | Very Rare | Yes |

@@ -1,0 +1,1 @@
+| [Necklace of Prayer Beads](/item/magic/rarity/rare/necklace-of-prayer-beads.md) | Clothing (Jewelry) | Rare | Yes (Cleric, Druid, or Paladin) |

@@ -5,13 +5,13 @@ Rare Spellcasting Focus (Holy Symbol), Attunement (Cleric or Paladin)
 **5** Charges (regain **1d4 + 1** per Day)
 { .subtitle }
 
-#### Devotion
+##### Devotion
 Free Action, 1 use per Day
 { .subtitle }
 
 You use your Channel Divinity without expending one of its uses.
 
-#### Ideation
+##### Ideation
 Free Action, 1 or more Charges
 { .subtitle }
 

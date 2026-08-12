@@ -1,0 +1,1 @@
+| [Horn of Blasting](/item/magic/rarity/rare/horn-of-blasting.md) | Wondrous Item (Musical Instrument) | Rare | No |

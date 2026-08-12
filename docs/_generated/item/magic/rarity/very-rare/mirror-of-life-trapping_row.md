@@ -1,0 +1,1 @@
+| [Mirror of Life Trapping](/item/magic/rarity/very-rare/mirror-of-life-trapping.md) | Wondrous Item | Very Rare | No |

@@ -1,0 +1,1 @@
+| [Tentacle Rod](/item/magic/rarity/rare/tentacle-rod.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes |

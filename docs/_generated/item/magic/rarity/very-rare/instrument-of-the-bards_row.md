@@ -1,0 +1,1 @@
+| [Instrument of the Bards](/item/magic/rarity/very-rare/instrument-of-the-bards.md) | Wondrous Item (Musical Instrument) | Very Rare | Yes (Bard) |

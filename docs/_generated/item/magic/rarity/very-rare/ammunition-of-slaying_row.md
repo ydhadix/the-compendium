@@ -1,0 +1,1 @@
+| [Ammunition of Slaying](/item/magic/rarity/very-rare/ammunition-of-slaying.md) | Weapon (Ammunition) | Very Rare | No |

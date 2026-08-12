@@ -1,4 +1,4 @@
-Rarity · Common · [Uncommon](#uncommon) · Rare · Very Rare · Legendary · Artifact · Unique
+Rarity · Common · [Uncommon](#uncommon) · Rare · Very Rare · Legendary · Artifact · Unique · Cursed
 { .keyword-jump }
 
 ## Uncommon

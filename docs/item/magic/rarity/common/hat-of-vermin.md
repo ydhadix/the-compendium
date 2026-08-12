@@ -2,7 +2,7 @@
 Common Clothing (Hat)
 { .subtitle }
 
-#### Summon Vermin
+##### Summon Vermin
 Magic Action, 3 uses per Day
 { .subtitle }
 

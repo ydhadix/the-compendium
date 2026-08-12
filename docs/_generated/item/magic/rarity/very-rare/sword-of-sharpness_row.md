@@ -1,0 +1,1 @@
+| [Sword of Sharpness](/item/magic/rarity/very-rare/sword-of-sharpness.md) | Weapon (Blade or Fence) | Very Rare | Yes |

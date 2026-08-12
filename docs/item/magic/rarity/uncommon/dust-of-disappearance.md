@@ -2,7 +2,7 @@
 Uncommon Wondrous Item, Consumable
 { .subtitle }
 
-#### Scatter Dust
+##### Scatter Dust
 Utilize Action
 { .subtitle }
 

@@ -2,7 +2,7 @@
 Tool, 2 gold
 { .subtitle }
 
-###### Hook
+##### Hook
 Utilize Action
 { .subtitle }
 

@@ -1,0 +1,1 @@
+| [Potion of Clairvoyance](/item/gear/potion/potion-of-clairvoyance.md) | Potion | 2,000 gold |

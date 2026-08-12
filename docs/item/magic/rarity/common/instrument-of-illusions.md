@@ -2,7 +2,7 @@
 Common Wondrous Item
 { .subtitle }
 
-#### Play
+##### Play
 Magic Action
 { .subtitle }
 

@@ -1,0 +1,1 @@
+| [Bag of Beans](/item/magic/rarity/rare/bag-of-beans.md) | Container (Bag) | Rare | No |

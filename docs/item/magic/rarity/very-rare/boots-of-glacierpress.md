@@ -7,7 +7,7 @@ Very Rare Clothing (Boots)
 
 Your movement doesn't provoke Opportunity Attacks, and you can move in a straight line through the space of any Huge or smaller creature.
 
-#### Glacial Surge
+##### Glacial Surge
 Free Action, 1 Charge
 { .subtitle }
 

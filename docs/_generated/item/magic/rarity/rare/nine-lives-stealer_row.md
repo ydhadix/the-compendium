@@ -1,0 +1,1 @@
+| [Nine Lives Stealer](/item/magic/rarity/rare/nine-lives-stealer.md) | Weapon (Any) | Rare | Yes |

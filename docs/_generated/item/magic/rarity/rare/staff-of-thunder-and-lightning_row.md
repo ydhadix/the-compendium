@@ -1,0 +1,1 @@
+| [Staff of Thunder and Lightning](/item/magic/rarity/rare/staff-of-thunder-and-lightning.md) | Weapon (Staff) | Rare | Yes |

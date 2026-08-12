@@ -1,0 +1,1 @@
+| [Hat of Many Spells](/item/magic/rarity/very-rare/hat-of-many-spells.md) | Clothing (Hat) | Very Rare | Yes (Wizard) |

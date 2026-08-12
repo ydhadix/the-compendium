@@ -6,13 +6,13 @@ This weapon emits Bright Light out to **20** feet and Dim Light **20** feet furt
 
 This weapon deals an additional **1d6** Cold Damage, and a creature in its space gains Fire Resistance.
 
-#### Phase Shift
+##### Phase Shift
 Bonus Action
 { .subtitle }
 
 You can replace the additional Cold Damage with Fire Damage, and the Fire Resistance with Cold Resistance.
 
-#### Cast
+##### Cast
 Bonus Action, 1 use per Day
 { .subtitle }
 

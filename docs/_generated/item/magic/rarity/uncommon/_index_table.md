@@ -7,6 +7,7 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/alchemy-jug_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/amulet-of-nondetection_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/anchor-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/armor-of-magical-strength_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/armor-of-weightlessness_row.md"
 
@@ -45,6 +46,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/dancing-broom_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/decanter-of-endless-water_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/deck-of-illusions_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/dragon-slayer_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/driftglobe_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/dust-of-disappearance_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/dust-of-dryness_row.md"
@@ -55,6 +57,7 @@
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/elemental-gem_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/elven-chain_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/enspelled-armor_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/enspelled-staff_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/enspelled-weapon_row.md"
@@ -68,7 +71,7 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rarity/uncommon/feather-token_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/fan-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/first-mates-scabbard_row.md"
 
 ## G
@@ -77,6 +80,8 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/gauntlets-of-ogre-power_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/gem-of-brightness_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/giant-slayer_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/glamoured-armor_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/gloves-of-missile-snaring_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/gloves-of-precision_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/gloves-of-swimming-and-climbing_row.md"
@@ -168,19 +173,21 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/saddle-of-the-cavalier_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/sending-stones_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/sentinel-shield_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/shield-of-feywatch_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/shield-of-protectors_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/shield-of-repulsion_row.md"
---8<-- "_generated/item/magic/rarity/uncommon/shield-of-sentinels_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/silver-raven-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/staff-of-the-adder_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/staff-of-the-python_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/stone-of-good-luck_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/sun-blade_row.md"
 
 ## T
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
+--8<-- "_generated/item/magic/rarity/uncommon/tree-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/trident-of-fish-command_row.md"
 
 ## W
@@ -197,6 +204,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/weapon-of-radiance_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/weapon-of-repeating_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/weapon-of-returning_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/weapon-of-smiting_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/weapon-of-warning_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/wind-fan_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/winged-boots_row.md"

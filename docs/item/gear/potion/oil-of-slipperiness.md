@@ -4,7 +4,7 @@ Potion, Consumable, 200 gold
 
 This potion comes in a Vial.
 
-#### Apply
+##### Apply
 10 minutes
 { .subtitle }
 
@@ -12,7 +12,7 @@ You can apply this oil to a creature within Reach.  The creature gains the effec
 
 One vial coats a Medium or smaller creature and its equipment; each Size above Medium needs another vial.
 
-#### Pour
+##### Pour
 Utilize Action
 { .subtitle }
 

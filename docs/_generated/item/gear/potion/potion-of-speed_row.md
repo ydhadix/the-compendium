@@ -1,0 +1,1 @@
+| [Potion of Speed](/item/gear/potion/potion-of-speed.md) | Potion | 20,000 gold |

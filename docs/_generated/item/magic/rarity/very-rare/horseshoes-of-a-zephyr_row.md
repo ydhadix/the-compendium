@@ -1,0 +1,1 @@
+| [Horseshoes of a Zephyr](/item/magic/rarity/very-rare/horseshoes-of-a-zephyr.md) | Wondrous Item | Very Rare | No |

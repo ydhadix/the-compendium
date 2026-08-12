@@ -1,0 +1,1 @@
+| [Staff of Swarming Insects](/item/magic/rarity/rare/staff-of-swarming-insects.md) | Weapon (Staff) | Rare | Yes (Spellcaster) |

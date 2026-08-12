@@ -5,7 +5,7 @@ Uncommon Clothing (Jewelry)
 **1** use
 { .subtitle }
 
-#### Stone Savior
+##### Stone Savior
 Free Action, 1 use
 { .subtitle }
 

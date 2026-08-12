@@ -1,0 +1,1 @@
+| [Fan Token](/item/magic/rarity/uncommon/fan-token.md) | Wondrous Item | Uncommon | No |

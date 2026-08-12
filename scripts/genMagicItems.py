@@ -20,7 +20,7 @@ import genSnippetCommon as C
 Record = namedtuple("Record", "rarity title itemType row")
 
 # Rarity folders under the source root, weakest first — also the order of the rarity rail.
-RARITIES = ("common", "uncommon", "rare", "very-rare", "legendary", "artifact", "unique")
+RARITIES = ("common", "uncommon", "rare", "very-rare", "legendary", "artifact", "unique", "cursed")
 HEADER = ("Item", "Type", "Rarity", "Attunement")
 # Item types, as (subtitle head, page slug). The head is the type word(s) before any parenthetical
 # subtype; slugs match the mundane gear folders each type mirrors.

@@ -1,0 +1,1 @@
+| [Iron Bands](/item/magic/rarity/rare/iron-bands.md) | Wondrous Item | Rare | No |

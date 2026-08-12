@@ -4,7 +4,7 @@ Tool, 10 gold
 
 A Lock comes with a key used to lock or unlock it.
 
-###### Pick Lock
+##### Pick Lock
 Utilize Action
 { .subtitle }
 

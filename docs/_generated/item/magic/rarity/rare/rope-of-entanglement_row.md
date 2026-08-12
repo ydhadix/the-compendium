@@ -1,0 +1,1 @@
+| [Rope of Entanglement](/item/magic/rarity/rare/rope-of-entanglement.md) | Wondrous Item | Rare | No |

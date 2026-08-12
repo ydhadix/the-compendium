@@ -1,0 +1,1 @@
+| [Dimensional Shackles](/item/magic/rarity/rare/dimensional-shackles.md) | Wondrous Item | Rare | No |

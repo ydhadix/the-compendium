@@ -5,7 +5,7 @@ Uncommon Spellcasting Focus (Arcane Focus)
 **3** Charges (regain **1d3** per Day)
 { .subtitle }
 
-#### Reveal Secrets
+##### Reveal Secrets
 Magic Action, 1 Charge
 { .subtitle }
 

@@ -2,7 +2,7 @@
 Common Clothing (Cloak)
 { .subtitle }
 
-#### Restyle
+##### Restyle
 Bonus Action
 { .subtitle }
 

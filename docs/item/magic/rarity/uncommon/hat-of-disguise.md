@@ -2,7 +2,7 @@
 Uncommon Clothing (Hat), Attunement
 { .subtitle }
 
-#### Cast
+##### Cast
 Magic Action
 { .subtitle }
 

@@ -1,0 +1,1 @@
+| [Candle of Invocation](/item/magic/rarity/very-rare/candle-of-invocation.md) | Wondrous Item | Very Rare | Yes |

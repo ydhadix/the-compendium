@@ -1,0 +1,1 @@
+| [Staff of Power](/item/magic/rarity/very-rare/staff-of-power.md) | Weapon (Staff) | Very Rare | Yes (Spellcaster) |

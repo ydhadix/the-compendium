@@ -6,7 +6,7 @@ Your Initiative Checks gain Advantage.
 
 After you roll Initiative, if you are first in the Initiative Order, your Speed increases by **15** feet until the end of your next Turn.
 
-#### First Light
+##### First Light
 Bonus Action
 { .subtitle }
 

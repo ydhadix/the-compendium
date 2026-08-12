@@ -1,0 +1,1 @@
+| [Potion of Gaseous Form](/item/gear/potion/potion-of-gaseous-form.md) | Potion | 2,000 gold |

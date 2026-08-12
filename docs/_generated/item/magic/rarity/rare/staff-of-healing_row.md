@@ -1,0 +1,1 @@
+| [Staff of Healing](/item/magic/rarity/rare/staff-of-healing.md) | Weapon (Staff) | Rare | Yes (Spellcaster) |

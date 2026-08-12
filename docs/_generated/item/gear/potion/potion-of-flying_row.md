@@ -1,0 +1,1 @@
+| [Potion of Flying](/item/gear/potion/potion-of-flying.md) | Potion | 20,000 gold |

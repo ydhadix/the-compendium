@@ -1,0 +1,1 @@
+| [Lute of Thunderous Thumping](/item/magic/rarity/very-rare/lute-of-thunderous-thumping.md) | Weapon (Staff) | Very Rare | No |

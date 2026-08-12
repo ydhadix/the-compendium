@@ -1,0 +1,1 @@
+| [Belt of Giant Strength](/item/magic/rarity/very-rare/belt-of-giant-strength.md) | Clothing (Belt) | Very Rare | Yes |

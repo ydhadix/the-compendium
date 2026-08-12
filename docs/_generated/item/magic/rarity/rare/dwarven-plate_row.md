@@ -1,0 +1,1 @@
+| [Dwarven Plate](/item/magic/rarity/rare/dwarven-plate.md) | Armor (Plate) | Rare | No |

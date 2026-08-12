@@ -2,7 +2,7 @@
 Other, Consumable, 5 gold
 { .subtitle }
 
-###### Stabilize
+##### Stabilize
 Utilize Action, 10 uses
 { .subtitle }
 

@@ -1,0 +1,1 @@
+| [Shield of Missile Attraction](/item/magic/rarity/cursed/shield-of-missile-attraction.md) | Shield (Any) | Cursed | Yes |

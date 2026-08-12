@@ -5,7 +5,7 @@ Uncommon Wondrous Item, Consumable
 **1d6 + 4** uses
 { .subtitle }
 
-#### Absorb Water
+##### Absorb Water
 Utilize Action, 1 use
 { .subtitle }
 
@@ -17,7 +17,7 @@ Utilize Action
 
 A creature can smash the pellet, destroying it and releasing the absorbed water.
 
-#### Parch Elemental
+##### Parch Elemental
 Utilize Action, 1 use
 { .subtitle }
 

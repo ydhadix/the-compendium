@@ -1,0 +1,1 @@
+| [Sword of Wounding](/item/magic/rarity/rare/sword-of-wounding.md) | Weapon (Blade or Fence) | Rare | Yes |

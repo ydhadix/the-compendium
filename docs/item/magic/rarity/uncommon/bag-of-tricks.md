@@ -4,7 +4,7 @@ Uncommon Container (Pouch)
 
 Reaching inside this bag reveals a small, fuzzy object. Each Bag of Tricks comes in one of three colors ([Gray](#gray), [Rust](#rust), or [Tan](#tan)), which determines the creatures it produces.
 
-#### Summon Trick
+##### Summon Trick
 Magic Action, 3 uses per Day
 { .subtitle }
 

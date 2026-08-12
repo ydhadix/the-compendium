@@ -1,0 +1,1 @@
+| [Staff of Fire](/item/magic/rarity/very-rare/staff-of-fire.md) | Weapon (Staff) | Very Rare | Yes (Spellcaster) |

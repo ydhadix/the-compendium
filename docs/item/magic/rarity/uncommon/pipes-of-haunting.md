@@ -5,7 +5,7 @@ Uncommon Wondrous Item (Musical Instrument)
 **3** Charges (regain **1d3** per Day)
 { .subtitle }
 
-#### Haunt
+##### Haunt
 Magic Action, 1 Charge
 { .subtitle }
 

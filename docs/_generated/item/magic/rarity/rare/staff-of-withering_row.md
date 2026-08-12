@@ -1,0 +1,1 @@
+| [Staff of Withering](/item/magic/rarity/rare/staff-of-withering.md) | Weapon (Staff) | Rare | Yes (Spellcaster) |

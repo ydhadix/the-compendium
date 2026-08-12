@@ -5,13 +5,13 @@ Uncommon Armor (Any), Attunement (Spellcaster)
 **6** Charges (regain **1d6** per Day)
 { .subtitle }
 
-#### Empower
+##### Empower
 Free Action, 1 Charge
 { .subtitle }
 
 Before you make a Strength Check or Fortitude Save, you can add your Spellcasting Ability to the total.
 
-#### Bulwark
+##### Bulwark
 Reaction, 1 Charge
 { .subtitle }
 

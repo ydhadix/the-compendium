@@ -2,7 +2,7 @@
 Tool, 5 gold
 { .subtitle }
 
-###### Bind
+##### Bind
 Utilize Action
 { .subtitle }
 

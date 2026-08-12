@@ -1,0 +1,1 @@
+| [Glamoured Armor](/item/magic/rarity/uncommon/glamoured-armor.md) | Armor (Any) | Uncommon | No |

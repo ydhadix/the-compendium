@@ -4,7 +4,7 @@ Other, Consumable, 1 copper
 
 While lit, a Torch burns for **1** hour and emits Bright Light out to **20** feet and Dim Light **20** feet further.
 
-###### Throw
+##### Throw
 A lit Torch can be wielded as a Simple Melee Weapon with Thrown _(**15** feet)_.
 
 | | |

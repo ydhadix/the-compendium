@@ -7,7 +7,7 @@ Uncommon Wondrous Item (Musical Instrument), Attunement
 
 Rats are never your Enemy unless you harm them.
 
-#### Call Swarm
+##### Call Swarm
 Magic Action, 1–3 Charges
 { .subtitle }
 

@@ -5,7 +5,7 @@ Common Wondrous Item
 **10** Charges (regain **1d6 + 4** per Day)
 { .subtitle }
 
-#### Season
+##### Season
 Magic Action, 1 Charge
 { .subtitle }
 

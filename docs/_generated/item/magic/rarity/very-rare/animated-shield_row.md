@@ -1,0 +1,1 @@
+| [Animated Shield](/item/magic/rarity/very-rare/animated-shield.md) | Shield (Any) | Very Rare | Yes |

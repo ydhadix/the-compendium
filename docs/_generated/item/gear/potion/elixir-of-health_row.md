@@ -1,0 +1,1 @@
+| [Elixir of Health](/item/gear/potion/elixir-of-health.md) | Potion | 2,000 gold |

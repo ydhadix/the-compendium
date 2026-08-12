@@ -2,7 +2,7 @@
 Common Wondrous Item
 { .subtitle }
 
-#### Scribe
+##### Scribe
 Magic Action, 3 uses per Day
 { .subtitle }
 

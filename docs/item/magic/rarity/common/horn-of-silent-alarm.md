@@ -5,7 +5,7 @@ Common Wondrous Item
 **4** Charges (regain **1d4** per Day)
 { .subtitle }
 
-#### Sound the Horn
+##### Sound the Horn
 Magic Action, 1 Charge
 { .subtitle }
 

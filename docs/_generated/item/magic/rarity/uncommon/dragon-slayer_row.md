@@ -1,0 +1,1 @@
+| [Dragon Slayer](/item/magic/rarity/uncommon/dragon-slayer.md) | Weapon (Any) | Uncommon | No |

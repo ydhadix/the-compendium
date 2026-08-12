@@ -1,0 +1,1 @@
+| [Potion of Giant Strength](/item/gear/potion/potion-of-giant-strength.md) | Potion | Value Varies |

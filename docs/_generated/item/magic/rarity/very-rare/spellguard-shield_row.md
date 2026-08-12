@@ -1,0 +1,1 @@
+| [Spellguard Shield](/item/magic/rarity/very-rare/spellguard-shield.md) | Shield (Any) | Very Rare | Yes |

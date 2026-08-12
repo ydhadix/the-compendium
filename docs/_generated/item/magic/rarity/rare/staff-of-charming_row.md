@@ -1,0 +1,1 @@
+| [Staff of Charming](/item/magic/rarity/rare/staff-of-charming.md) | Weapon (Staff) | Rare | Yes (Spellcaster) |

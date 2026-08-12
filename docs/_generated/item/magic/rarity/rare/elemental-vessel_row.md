@@ -1,0 +1,1 @@
+| [Elemental Vessel](/item/magic/rarity/rare/elemental-vessel.md) | Wondrous Item | Rare | No |

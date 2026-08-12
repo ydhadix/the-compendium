@@ -1,0 +1,1 @@
+| [Onyx Dog Figurine](/item/magic/rarity/rare/onyx-dog-figurine.md) | Wondrous Item | Rare | No |

@@ -1,0 +1,1 @@
+| [Manual of Golems](/item/magic/rarity/very-rare/manual-of-golems.md) | Wondrous Item | Very Rare | No |

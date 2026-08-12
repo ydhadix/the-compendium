@@ -2,7 +2,7 @@
 Uncommon Clothing (Hat)
 { .subtitle }
 
-#### Cast
+##### Cast
 Magic Action
 { .subtitle }
 

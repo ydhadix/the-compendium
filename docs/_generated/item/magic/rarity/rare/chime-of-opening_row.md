@@ -1,0 +1,1 @@
+| [Chime of Opening](/item/magic/rarity/rare/chime-of-opening.md) | Wondrous Item | Rare | No |

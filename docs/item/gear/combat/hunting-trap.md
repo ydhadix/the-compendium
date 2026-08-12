@@ -2,7 +2,7 @@
 Other, 2 gold
 { .subtitle }
 
-###### Set
+##### Set
 Utilize Action
 { .subtitle }
 

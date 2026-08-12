@@ -2,7 +2,7 @@
 Common Armor (Any)
 { .subtitle }
 
-#### Doff
+##### Doff
 Magic Action
 { .subtitle }
 

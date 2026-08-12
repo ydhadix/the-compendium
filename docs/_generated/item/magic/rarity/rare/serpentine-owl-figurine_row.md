@@ -1,0 +1,1 @@
+| [Serpentine Owl Figurine](/item/magic/rarity/rare/serpentine-owl-figurine.md) | Wondrous Item | Rare | No |

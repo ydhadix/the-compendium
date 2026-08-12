@@ -4,7 +4,7 @@ Uncommon Wondrous Item, Consumable
 
 This item contains a mote of elemental energy.  The gemstone determines the type of Elemental.
 
-#### Release
+##### Release
 Utilize Action
 { .subtitle }
 

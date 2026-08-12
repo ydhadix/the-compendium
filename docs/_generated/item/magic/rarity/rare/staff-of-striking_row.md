@@ -1,0 +1,1 @@
+| [Staff of Striking](/item/magic/rarity/rare/staff-of-striking.md) | Weapon (Staff) | Rare | Yes |

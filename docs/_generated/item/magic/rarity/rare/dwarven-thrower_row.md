@@ -1,0 +1,1 @@
+| [Dwarven Thrower](/item/magic/rarity/rare/dwarven-thrower.md) | Weapon (Hammer) | Rare | Yes (Dwarf or Belt of Dwarvenkind) |

@@ -1,0 +1,1 @@
+| [Golden Lions Figurine](/item/magic/rarity/rare/golden-lions-figurine.md) | Wondrous Item | Rare | No |

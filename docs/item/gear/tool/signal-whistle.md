@@ -2,7 +2,7 @@
 Tool, 5 copper
 { .subtitle }
 
-###### Signal
+##### Signal
 Utilize Action
 { .subtitle }
 

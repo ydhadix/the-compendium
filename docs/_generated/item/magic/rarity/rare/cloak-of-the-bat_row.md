@@ -1,0 +1,1 @@
+| [Cloak of the Bat](/item/magic/rarity/rare/cloak-of-the-bat.md) | Clothing (Cloak) | Rare | Yes |

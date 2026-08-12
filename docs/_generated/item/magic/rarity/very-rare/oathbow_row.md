@@ -1,0 +1,1 @@
+| [Oathbow](/item/magic/rarity/very-rare/oathbow.md) | Weapon (Bow) | Very Rare | Yes |

@@ -2,7 +2,7 @@
 Common Wondrous Item
 { .subtitle }
 
-#### Collapse
+##### Collapse
 Magic Action
 { .subtitle }
 

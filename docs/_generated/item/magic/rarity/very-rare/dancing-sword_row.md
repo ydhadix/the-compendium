@@ -1,0 +1,1 @@
+| [Dancing Sword](/item/magic/rarity/very-rare/dancing-sword.md) | Weapon (Blade or Fence) | Very Rare | Yes |

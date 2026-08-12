@@ -2,7 +2,7 @@
 Uncommon Wondrous Item
 { .subtitle }
 
-#### Name Liquid
+##### Name Liquid
 Magic Action, 1 use per Day
 { .subtitle }
 
@@ -21,7 +21,7 @@ You can choose one of the following liquids for this item's Pour property.
 | Salt Water | 12 gallons |
 | Wine | 1 gallon |
 
-#### Pour
+##### Pour
 Utilize Action
 { .subtitle }
 

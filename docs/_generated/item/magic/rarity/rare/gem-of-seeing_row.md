@@ -1,0 +1,1 @@
+| [Gem of Seeing](/item/magic/rarity/rare/gem-of-seeing.md) | Wondrous Item | Rare | Yes |

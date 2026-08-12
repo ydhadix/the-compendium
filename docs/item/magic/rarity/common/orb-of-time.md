@@ -2,7 +2,7 @@
 Common Spellcasting Focus (Arcane Focus)
 { .subtitle }
 
-#### Sense Time
+##### Sense Time
 Magic Action
 { .subtitle }
 

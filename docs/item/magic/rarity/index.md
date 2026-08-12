@@ -9,3 +9,4 @@
 | [Legendary](legendary.md) |
 | [Artifact](artifact.md) |
 | [Unique](unique.md) |
+| [Cursed](cursed.md) |

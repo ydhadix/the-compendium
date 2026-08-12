@@ -2,7 +2,7 @@
 Uncommon Clothing (Clothes)
 { .subtitle }
 
-#### Detach Patch
+##### Detach Patch
 Magic Action
 { .subtitle }
 

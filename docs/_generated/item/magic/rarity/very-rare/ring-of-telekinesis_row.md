@@ -1,0 +1,1 @@
+| [Ring of Telekinesis](/item/magic/rarity/very-rare/ring-of-telekinesis.md) | Clothing (Jewelry) | Very Rare | Yes |

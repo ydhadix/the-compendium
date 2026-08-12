@@ -2,7 +2,7 @@
 Tool, 1 gold
 { .subtitle }
 
-###### Ring
+##### Ring
 Utilize Action
 { .subtitle }
 

@@ -1,0 +1,1 @@
+| [Ioun Stone](/item/magic/rarity/legendary/ioun-stone.md) | Wondrous Item | Legendary | Yes |

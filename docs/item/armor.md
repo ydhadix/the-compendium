@@ -39,7 +39,7 @@ While **Unarmored**, your Armor Class is only based on your Dexterity and Profic
 | Unarmored | 8 + DEX + PB | — | — | 4 | — | — |
 
 #### Natural Armor
-**Natural Armor** is part of a creature's body that makes them particularly hard to hit.  Natural Armor usually uses the defenses of Light, Medium, or Heavy Armor, but the creature is still considered Unarmored.
+**Natural Armor** is part of a creature's body that makes them particularly hard to hit.  Natural Armor usually uses the defenses of Light, Medium, or Heavy Armor.
 
 ### Light Armor
 **Light Armor** keeps your full Dexterity bonus to Armor Class and has no Stealth penalty.

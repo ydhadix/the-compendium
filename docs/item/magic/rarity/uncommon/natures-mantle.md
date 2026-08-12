@@ -4,7 +4,7 @@ Uncommon Clothing (Cloak), Attunement (Druid or Ranger)
 
 This cloak is a Druidic Focus.
 
-#### Nature's Veil
+##### Nature's Veil
 Bonus Action
 { .subtitle }
 

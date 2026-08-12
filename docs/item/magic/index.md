@@ -39,7 +39,11 @@ An item regains Charges each Day, either a fixed number or a rolled amount noted
 A **Command Word** is a word or phrase you must audibly speak aloud to use some of this item's effects, similar to a spell's Verbal Component.
 
 ### Cursed Items
-A **Cursed** item has a hidden, detrimental effect. Most methods of identifying items don't reveal curses, and you can't voluntarily end your Attunement to it without _Remove Curse_ or similar magic.
+**Cursed** items have a hidden, usually detrimental effect. Most methods of identifying an item don't reveal its curse.
+
+Every Cursed item requires Attunement. You can't voluntarily end your Attunement to a Cursed item without _Remove Curse_ or similar magic.
+
+Cursed infusions can't be crafted, transferred, or removed without specific methods determined by your DM.
 
 ### Infusing Items
 **Infusing** is how a character weaves magic into an item.  An item can have up to **2** Infusions at a time, and only **1** of them can require Attunement.
@@ -68,4 +72,3 @@ You can permanently remove an Infusion from a Magic Item with **8** hours of wor
 
 #### Transferring Infusions
 You can transfer an Infusion to another appropriate item, provided you have Proficiency in Arcana. Doing so costs no gold and takes half the time a new Infusion of the same Rarity would take.
-

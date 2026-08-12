@@ -4,7 +4,7 @@ Tool, 1 gold
 
 Iron Spikes come in bundles of **10**.
 
-###### Drive
+##### Drive
 Utilize Action
 { .subtitle }
 

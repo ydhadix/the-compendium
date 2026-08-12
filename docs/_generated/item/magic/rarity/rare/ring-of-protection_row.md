@@ -1,0 +1,1 @@
+| [Ring of Protection](/item/magic/rarity/rare/ring-of-protection.md) | Clothing (Jewelry) | Rare | Yes |

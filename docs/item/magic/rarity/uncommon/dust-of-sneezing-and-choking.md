@@ -4,7 +4,7 @@ Uncommon Wondrous Item, Consumable
 
 This dust resembles Dust of Disappearance.  _Identify_ reveals its true nature.
 
-#### Scatter Dust
+##### Scatter Dust
 Utilize Action
 { .subtitle }
 

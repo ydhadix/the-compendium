@@ -1,0 +1,1 @@
+| [Marble Elephant Figurine](/item/magic/rarity/rare/marble-elephant-figurine.md) | Wondrous Item | Rare | No |

@@ -1,0 +1,1 @@
+| [Rod of Alertness](/item/magic/rarity/very-rare/rod-of-alertness.md) | Spellcasting Focus (Arcane Focus) | Very Rare | Yes |

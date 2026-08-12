@@ -1,0 +1,1 @@
+| [Bird Token](/item/magic/rarity/rare/bird-token.md) | Wondrous Item | Rare | No |

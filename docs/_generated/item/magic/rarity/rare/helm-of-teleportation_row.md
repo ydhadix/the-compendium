@@ -1,0 +1,1 @@
+| [Helm of Teleportation](/item/magic/rarity/rare/helm-of-teleportation.md) | Clothing (Hat) | Rare | Yes |

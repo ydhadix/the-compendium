@@ -4,7 +4,7 @@ Other, 1 gold
 
 Ball Bearings come in a Pouch.
 
-###### Scatter
+##### Scatter
 Utilize Action
 { .subtitle }
 

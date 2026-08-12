@@ -4,7 +4,7 @@ Uncommon Weapon (Staff)
 
 Before you deal damage using this weapon, you can replace its Piercing Damage with Lightning Damage.
 
-#### Lightning Bolt
+##### Lightning Bolt
 Magic Action, 1 use per Day
 { .subtitle }
 

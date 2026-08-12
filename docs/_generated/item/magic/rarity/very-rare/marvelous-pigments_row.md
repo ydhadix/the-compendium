@@ -1,0 +1,1 @@
+| [Marvelous Pigments](/item/magic/rarity/very-rare/marvelous-pigments.md) | Wondrous Item | Very Rare | No |

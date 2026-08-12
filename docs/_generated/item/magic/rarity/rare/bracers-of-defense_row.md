@@ -1,0 +1,1 @@
+| [Bracers of Defense](/item/magic/rarity/rare/bracers-of-defense.md) | Clothing (Bracers) | Rare | Yes |

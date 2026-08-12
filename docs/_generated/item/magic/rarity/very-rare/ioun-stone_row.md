@@ -1,0 +1,1 @@
+| [Ioun Stone](/item/magic/rarity/very-rare/ioun-stone.md) | Wondrous Item | Very Rare | Yes |

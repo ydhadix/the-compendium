@@ -1,0 +1,1 @@
+| [Cloak of Arachnida](/item/magic/rarity/very-rare/cloak-of-arachnida.md) | Clothing (Cloak) | Very Rare | Yes |

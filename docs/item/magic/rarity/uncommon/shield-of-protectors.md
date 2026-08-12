@@ -2,7 +2,7 @@
 Uncommon Shield (Any)
 { .subtitle }
 
-#### Protector's Ward
+##### Protector's Ward
 Reaction, 1 use per Day
 { .subtitle }
 

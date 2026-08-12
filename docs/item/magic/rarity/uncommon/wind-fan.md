@@ -2,7 +2,7 @@
 Uncommon Wondrous Item
 { .subtitle }
 
-#### Cast
+##### Cast
 Magic Action, 3 uses per Day
 { .subtitle }
 

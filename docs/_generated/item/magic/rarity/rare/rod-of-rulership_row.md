@@ -1,0 +1,1 @@
+| [Rod of Rulership](/item/magic/rarity/rare/rod-of-rulership.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes |

@@ -1,0 +1,1 @@
+| [Potion of Heroism](/item/gear/potion/potion-of-heroism.md) | Potion | 2,000 gold |

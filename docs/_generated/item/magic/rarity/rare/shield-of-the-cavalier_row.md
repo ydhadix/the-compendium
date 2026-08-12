@@ -1,0 +1,1 @@
+| [Shield of the Cavalier](/item/magic/rarity/rare/shield-of-the-cavalier.md) | Shield (Any) | Rare | Yes |

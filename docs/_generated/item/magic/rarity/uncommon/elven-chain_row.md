@@ -1,0 +1,1 @@
+| [Elven Chain](/item/magic/rarity/uncommon/elven-chain.md) | Armor (Chain) | Uncommon | No |

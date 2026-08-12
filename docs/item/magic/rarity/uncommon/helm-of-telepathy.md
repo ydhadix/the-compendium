@@ -4,7 +4,7 @@ Uncommon Clothing (Hat), Attunement
 
 You gain **30** feet of Telepathy.
 
-#### Cast
+##### Cast
 Magic Action, 1 use each per Day
 { .subtitle }
 

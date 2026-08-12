@@ -4,7 +4,7 @@ Other, 5 gold
 
 A Hooded Lantern burns Oil as fuel. While lit, a Hooded Lantern emits Bright Light out to **30** feet and Dim Light **30** feet further.
 
-###### Adjust Hood
+##### Adjust Hood
 Bonus Action
 { .subtitle }
 

@@ -2,7 +2,7 @@
 Common Spellcasting Focus (Arcane Focus), Attunement (Warlock)
 { .subtitle }
 
-#### Recover Slot
+##### Recover Slot
 Magic Action, 1 use per Day
 { .subtitle }
 

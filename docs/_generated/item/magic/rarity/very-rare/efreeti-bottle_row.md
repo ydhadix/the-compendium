@@ -1,0 +1,1 @@
+| [Efreeti Bottle](/item/magic/rarity/very-rare/efreeti-bottle.md) | Wondrous Item | Very Rare | No |

@@ -1,0 +1,1 @@
+| [Wand of Fear](/item/magic/rarity/rare/wand-of-fear.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes |

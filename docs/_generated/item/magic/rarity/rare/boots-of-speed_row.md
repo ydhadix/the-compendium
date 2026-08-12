@@ -1,0 +1,1 @@
+| [Boots of Speed](/item/magic/rarity/rare/boots-of-speed.md) | Clothing (Boots) | Rare | Yes |

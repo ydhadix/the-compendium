@@ -6,7 +6,7 @@ You gain Immunity to magic that reads your thoughts, determines whether you are 
 
 After you die while attuned to the ring, your soul enters it, provided the ring doesn't already house a soul.  While your soul is inside, you can communicate telepathically with whoever wears the ring, and you can choose to remain or depart for the afterlife.
 
-#### Conceal Ring
+##### Conceal Ring
 Magic Action
 { .subtitle }
 

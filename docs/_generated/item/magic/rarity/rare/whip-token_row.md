@@ -1,0 +1,1 @@
+| [Whip Token](/item/magic/rarity/rare/whip-token.md) | Wondrous Item | Rare | No |

@@ -1,0 +1,1 @@
+| [Crystal Ball](/item/magic/rarity/very-rare/crystal-ball.md) | Spellcasting Focus (Arcane Focus) | Very Rare | Yes |

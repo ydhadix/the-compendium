@@ -1,0 +1,1 @@
+| [Helm of Brilliance](/item/magic/rarity/very-rare/helm-of-brilliance.md) | Clothing (Hat) | Very Rare | Yes |

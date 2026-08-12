@@ -2,7 +2,7 @@
 Common Spellcasting Focus (Arcane Focus), Attunement (Wizard)
 { .subtitle }
 
-#### Cast Cantrip
+##### Cast Cantrip
 Magic Action, 1 use per Day
 { .subtitle }
 

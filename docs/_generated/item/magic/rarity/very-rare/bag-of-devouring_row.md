@@ -1,0 +1,1 @@
+| [Bag of Devouring](/item/magic/rarity/very-rare/bag-of-devouring.md) | Container (Bag) | Very Rare | No |

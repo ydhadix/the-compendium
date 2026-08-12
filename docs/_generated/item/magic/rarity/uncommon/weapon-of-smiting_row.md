@@ -1,0 +1,1 @@
+| [Weapon of Smiting](/item/magic/rarity/uncommon/weapon-of-smiting.md) | Weapon (Any) | Uncommon | No |

@@ -1,0 +1,1 @@
+| [Robe of Stars](/item/magic/rarity/very-rare/robe-of-stars.md) | Clothing (Clothes) | Very Rare | Yes |

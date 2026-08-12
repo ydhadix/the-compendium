@@ -1,0 +1,1 @@
+| [Staff of Frost](/item/magic/rarity/very-rare/staff-of-frost.md) | Weapon (Staff) | Very Rare | Yes (Spellcaster) |

@@ -51,7 +51,7 @@ Your Armor Class increases by **1**, and you always know which way is north.
 #### Dimensional Anchor
 You gain Planar Travel Protection.
 
-#### Dimensional Smite
+##### Dimensional Smite
 Free Action, 1 Charge
 { .subtitle }
 
@@ -73,13 +73,13 @@ This ovular, golden loop detects and manipulates interdimensional portals.
 
 Your Will Saves increase by **1**, and other creatures don't gain Advantage on Attack Rolls against you as a result of being unseen.
 
-#### Portal Sense
+##### Portal Sense
 Magic Action
 { .subtitle }
 
 You can cast _Detect Portal_ without a Spell Slot.
 
-#### Portal Cracker
+##### Portal Cracker
 Magic Action, 1 Charge
 { .subtitle }
 
@@ -101,13 +101,13 @@ This set of intricate, platinum gears calculate the shortest path to a destinati
 
 Your Attack Rolls increase by **1**, and Difficult Terrain doesn't cost you extra movement.
 
-#### Fast Traveler
+##### Fast Traveler
 Magic Action
 { .subtitle }
 
 You can cast _Longstrider_, targeting yourself, without a Spell Slot.
 
-#### Far Traveler
+##### Far Traveler
 Free Action, 1 Charge
 { .subtitle }
 
@@ -127,13 +127,13 @@ Your Reflex Saves increase by **1**, and you can accurately recall anything you 
 #### Rebound Code
 After you become Stabilized with **0** Hit Points, you heal by **CON** and gain **1** stack of Exhaustion.
 
-#### Recall Code
+##### Recall Code
 Magic Action
 { .subtitle }
 
 You record your current location in the rotor.
 
-#### Recall Signal
+##### Recall Signal
 Bonus Action, 1 Charge
 { .subtitle }
 
@@ -150,19 +150,19 @@ This set of shimmering brass dials and gears track the passage of time across di
 
 Your Spell Save DC increases by **1**, and you always know what hour of the day it is.
 
-#### Time Share
+##### Time Share
 Free Action
 { .subtitle }
 
 After you roll Initiative, you can swap your Initiative with one Ally in the same combat. You can't make this swap if you or the Ally are Incapacitated.
 
-#### Time Snare
+##### Time Snare
 Reaction, 1 Charge
 { .subtitle }
 
 Before a creature rolls a **d20**, you can record the result and reroll the die. A recorded result doesn't carry between Days.
 
-#### Time Slip
+##### Time Slip
 Reaction, 1 recorded result
 { .subtitle }
 
@@ -182,7 +182,7 @@ Your Fortitude Saves increase by **1**, and you don't need to eat or drink.
 #### Certain Fate
 Your Ranged Attack Rolls ignore Half Cover and Three-Quarters Cover.
 
-#### Assert Fate
+##### Assert Fate
 Reaction, 1 Charge
 { .subtitle }
 

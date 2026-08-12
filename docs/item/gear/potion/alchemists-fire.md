@@ -4,7 +4,7 @@ Potion, Consumable, 50 gold
 
 This potion comes in a Vial.
 
-###### Throw
+##### Throw
 A Vial filled with Alchemist's Fire can be wielded as a Simple Melee Weapon with Thrown _(**20**/**60** feet)_.
 
 | | |

@@ -1,0 +1,1 @@
+| [Wand of Polymorph](/item/magic/rarity/very-rare/wand-of-polymorph.md) | Spellcasting Focus (Arcane Focus) | Very Rare | Yes (Spellcaster) |

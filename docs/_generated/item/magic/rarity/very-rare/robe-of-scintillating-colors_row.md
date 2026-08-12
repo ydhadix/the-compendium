@@ -1,0 +1,1 @@
+| [Robe of Scintillating Colors](/item/magic/rarity/very-rare/robe-of-scintillating-colors.md) | Clothing (Clothes) | Very Rare | Yes |

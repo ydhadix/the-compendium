@@ -1,0 +1,1 @@
+| [Cube of Force](/item/magic/rarity/rare/cube-of-force.md) | Wondrous Item | Rare | Yes |

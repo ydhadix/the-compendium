@@ -4,7 +4,7 @@ Potion, Consumable, 5 gold
 
 This potion comes in a Vial.
 
-###### Apply
+##### Apply
 Utilize Action
 { .subtitle }
 

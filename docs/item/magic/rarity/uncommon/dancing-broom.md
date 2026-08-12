@@ -2,7 +2,7 @@
 Uncommon Wondrous Item, Attunement
 { .subtitle }
 
-#### Animate Broom
+##### Animate Broom
 Bonus Action
 { .subtitle }
 

@@ -4,13 +4,13 @@ Tool, 25 gold
 
 A Climber's Kit includes boot tips, gloves, pitons, and a harness.
 
-###### Anchor
+##### Anchor
 Utilize Action
 { .subtitle }
 
 You can anchor yourself in place. While anchored, you can't be moved more than **25** feet from the anchor point.
 
-###### Unanchor
+##### Unanchor
 Bonus Action
 { .subtitle }
 

@@ -5,13 +5,13 @@ Uncommon Weapon (Any), Attunement
 **4** Charges (regain **1d4** per Day)
 { .subtitle }
 
-#### Illuminate
+##### Illuminate
 Bonus Action
 { .subtitle }
 
 This item emits light as the _Light_ Spell.
 
-#### Flash
+##### Flash
 Reaction, 1 Charge
 { .subtitle }
 

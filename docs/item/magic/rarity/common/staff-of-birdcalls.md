@@ -5,7 +5,7 @@ Common Weapon (Staff)
 **10** Charges (regain **1d6 + 4** per Day)
 { .subtitle }
 
-#### Birdcall
+##### Birdcall
 Magic Action, 1 Charge
 { .subtitle }
 

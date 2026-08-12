@@ -1,0 +1,1 @@
+| [Obsidian Steed Figurine](/item/magic/rarity/very-rare/obsidian-steed-figurine.md) | Wondrous Item | Very Rare | No |

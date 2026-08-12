@@ -1,0 +1,1 @@
+| [Bead of Force](/item/magic/rarity/rare/bead-of-force.md) | Wondrous Item | Rare | No |

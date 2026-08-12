@@ -1,0 +1,1 @@
+| [Thunderous Greatclub](/item/magic/rarity/very-rare/thunderous-greatclub.md) | Weapon (Hammer) | Very Rare | Yes |

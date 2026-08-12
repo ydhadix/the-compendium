@@ -1,0 +1,1 @@
+| [Sun Blade](/item/magic/rarity/uncommon/sun-blade.md) | Weapon (Blade) | Uncommon | Yes |

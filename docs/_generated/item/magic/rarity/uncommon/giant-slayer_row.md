@@ -1,0 +1,1 @@
+| [Giant Slayer](/item/magic/rarity/uncommon/giant-slayer.md) | Weapon (Any) | Uncommon | No |

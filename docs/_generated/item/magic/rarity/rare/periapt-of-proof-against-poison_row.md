@@ -1,0 +1,1 @@
+| [Periapt of Proof against Poison](/item/magic/rarity/rare/periapt-of-proof-against-poison.md) | Clothing (Jewelry) | Rare | Yes |

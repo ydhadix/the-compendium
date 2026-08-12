@@ -1,0 +1,1 @@
+| [Flame Tongue](/item/magic/rarity/rare/flame-tongue.md) | Weapon (Melee) | Rare | Yes |

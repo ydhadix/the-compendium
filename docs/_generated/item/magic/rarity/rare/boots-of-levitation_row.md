@@ -1,0 +1,1 @@
+| [Boots of Levitation](/item/magic/rarity/rare/boots-of-levitation.md) | Clothing (Boots) | Rare | Yes |

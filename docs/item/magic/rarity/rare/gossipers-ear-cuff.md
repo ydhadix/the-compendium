@@ -4,7 +4,7 @@ Rare Clothing (Jewelry)
 
 You can hear the message of any spell that targets a creature within **120** feet of you _(such as_ Message _or_ Sending, _but not Telepathy)_.
 
-#### Cast
+##### Cast
 Bonus Action
 { .subtitle }
 

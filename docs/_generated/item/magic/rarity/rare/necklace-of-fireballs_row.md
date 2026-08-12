@@ -1,0 +1,1 @@
+| [Necklace of Fireballs](/item/magic/rarity/rare/necklace-of-fireballs.md) | Clothing (Jewelry) | Rare | No |

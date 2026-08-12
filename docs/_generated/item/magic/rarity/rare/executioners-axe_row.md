@@ -1,0 +1,1 @@
+| [Executioner's Axe](/item/magic/rarity/rare/executioners-axe.md) | Weapon (Blade or Polearm) | Rare | No |

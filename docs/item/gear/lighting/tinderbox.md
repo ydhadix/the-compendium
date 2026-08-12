@@ -4,7 +4,7 @@ Other, 5 silver
 
 A Tinderbox is a small container holding flint, fire, steel, and tinder used to kindle a fire.
 
-###### Ignite
+##### Ignite
 Bonus Action
 { .subtitle }
 

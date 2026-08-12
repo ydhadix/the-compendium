@@ -1,0 +1,1 @@
+| [Ring of X-ray Vision](/item/magic/rarity/rare/ring-of-x-ray-vision.md) | Clothing (Jewelry) | Rare | Yes |

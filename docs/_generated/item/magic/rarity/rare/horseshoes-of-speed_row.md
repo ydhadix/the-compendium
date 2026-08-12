@@ -1,0 +1,1 @@
+| [Horseshoes of Speed](/item/magic/rarity/rare/horseshoes-of-speed.md) | Wondrous Item | Rare | No |

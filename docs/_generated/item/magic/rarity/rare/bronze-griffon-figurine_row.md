@@ -1,0 +1,1 @@
+| [Bronze Griffon Figurine](/item/magic/rarity/rare/bronze-griffon-figurine.md) | Wondrous Item | Rare | No |

@@ -1,0 +1,1 @@
+| [Wand of Paralysis](/item/magic/rarity/rare/wand-of-paralysis.md) | Spellcasting Focus (Arcane Focus) | Rare | Yes (Spellcaster) |

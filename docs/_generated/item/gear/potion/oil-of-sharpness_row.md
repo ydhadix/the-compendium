@@ -1,0 +1,1 @@
+| [Oil of Sharpness](/item/gear/potion/oil-of-sharpness.md) | Potion | 20,000 gold |

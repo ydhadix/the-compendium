@@ -2,7 +2,7 @@
 Uncommon Wondrous Item
 { .subtitle }
 
-#### Strike First
+##### Strike First
 Bonus Action, 1 use per Day
 { .subtitle }
 

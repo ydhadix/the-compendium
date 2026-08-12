@@ -3,7 +3,7 @@
 
 This weapon holds a single Conjuration, Divination, Evocation, Necromancy, or Transmutation Spell.  The Spell Level determines this weapon's rarity, Spell Save DC, and Spell Attack Bonus.
 
-#### Cast
+##### Cast
 Magic Action, 1 Charge
 { .subtitle }
 

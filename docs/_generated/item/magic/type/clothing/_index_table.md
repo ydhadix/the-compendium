@@ -1,4 +1,4 @@
-Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · Artifact · Unique
+Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · Artifact · Unique · Cursed
 { .keyword-jump }
 
 ## Common
@@ -68,29 +68,59 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/amulet-of-health_row.md"
+--8<-- "_generated/item/magic/rarity/rare/belt-of-dwarvenkind_row.md"
+--8<-- "_generated/item/magic/rarity/rare/belt-of-giant-strength_row.md"
 --8<-- "_generated/item/magic/rarity/rare/boots-of-dancing_row.md"
+--8<-- "_generated/item/magic/rarity/rare/boots-of-levitation_row.md"
+--8<-- "_generated/item/magic/rarity/rare/boots-of-speed_row.md"
 --8<-- "_generated/item/magic/rarity/rare/boots-of-the-stormsailor_row.md"
+--8<-- "_generated/item/magic/rarity/rare/bracers-of-defense_row.md"
+--8<-- "_generated/item/magic/rarity/rare/cape-of-the-mountebank_row.md"
+--8<-- "_generated/item/magic/rarity/rare/cloak-of-displacement_row.md"
+--8<-- "_generated/item/magic/rarity/rare/cloak-of-the-bat_row.md"
 --8<-- "_generated/item/magic/rarity/rare/engineers-greatcoat_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gloves-of-healing_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gloves-of-the-stormrider_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gossipers-ear-cuff_row.md"
 --8<-- "_generated/item/magic/rarity/rare/healers-voice_row.md"
+--8<-- "_generated/item/magic/rarity/rare/helm-of-teleportation_row.md"
+--8<-- "_generated/item/magic/rarity/rare/mantle-of-spell-resistance_row.md"
+--8<-- "_generated/item/magic/rarity/rare/necklace-of-fireballs_row.md"
+--8<-- "_generated/item/magic/rarity/rare/necklace-of-prayer-beads_row.md"
+--8<-- "_generated/item/magic/rarity/rare/periapt-of-proof-against-poison_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ring-of-animal-influence_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ring-of-evasion_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ring-of-feather-falling_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ring-of-free-action_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ring-of-protection_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ring-of-spell-storing_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ring-of-starmetal_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ring-of-the-ram_row.md"
+--8<-- "_generated/item/magic/rarity/rare/ring-of-x-ray-vision_row.md"
+--8<-- "_generated/item/magic/rarity/rare/robe-of-eyes_row.md"
 --8<-- "_generated/item/magic/rarity/rare/windskiff-bracelet_row.md"
+--8<-- "_generated/item/magic/rarity/rare/wings-of-flying_row.md"
 
 ## Very Rare
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
+--8<-- "_generated/item/magic/rarity/very-rare/amulet-of-the-planes_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/belt-of-giant-strength_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/boots-of-glacierpress_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/cloak-of-arachnida_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/collar-of-power_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/hat-of-many-spells_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/helm-of-brilliance_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/ring-of-regeneration_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/ring-of-shooting-stars_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/ring-of-telekinesis_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/robe-of-scintillating-colors_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/robe-of-stars_row.md"
 
 ## Legendary
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
+--8<-- "_generated/item/magic/rarity/legendary/belt-of-giant-strength_row.md"
 --8<-- "_generated/item/magic/rarity/legendary/belt-of-pocket-monsters_row.md"

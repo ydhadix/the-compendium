@@ -2,7 +2,7 @@
 Common Wondrous Item
 { .subtitle }
 
-#### Steady Hand
+##### Steady Hand
 Free Action, 1 use per Day
 { .subtitle }
 

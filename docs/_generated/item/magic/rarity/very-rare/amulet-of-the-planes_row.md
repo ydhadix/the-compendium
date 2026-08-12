@@ -1,0 +1,1 @@
+| [Amulet of the Planes](/item/magic/rarity/very-rare/amulet-of-the-planes.md) | Clothing (Jewelry) | Very Rare | Yes |

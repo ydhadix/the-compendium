@@ -1,0 +1,1 @@
+| [Tome of Mastery](/item/magic/rarity/very-rare/tome-of-mastery.md) | Wondrous Item | Very Rare | No |

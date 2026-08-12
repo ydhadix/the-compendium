@@ -1,0 +1,1 @@
+| [Horn of Valhalla](/item/magic/rarity/very-rare/horn-of-valhalla.md) | Wondrous Item (Musical Instrument) | Very Rare | No |

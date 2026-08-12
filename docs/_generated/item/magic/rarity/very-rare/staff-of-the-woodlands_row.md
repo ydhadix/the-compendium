@@ -1,0 +1,1 @@
+| [Staff of the Woodlands](/item/magic/rarity/very-rare/staff-of-the-woodlands.md) | Weapon (Staff) | Very Rare | Yes (Druid) |

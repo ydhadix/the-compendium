@@ -1,0 +1,1 @@
+| [Portable Hole](/item/magic/rarity/rare/portable-hole.md) | Container (Cloth) | Rare | No |

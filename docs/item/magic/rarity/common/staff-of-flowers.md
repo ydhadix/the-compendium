@@ -5,7 +5,7 @@ Common Weapon (Staff)
 **10** Charges (regain **1d6 + 4** per Day)
 { .subtitle }
 
-#### Sprout Flower
+##### Sprout Flower
 Magic Action, 1 Charge
 { .subtitle }
 

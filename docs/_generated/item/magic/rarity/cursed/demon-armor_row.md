@@ -1,0 +1,1 @@
+| [Demon Armor](/item/magic/rarity/cursed/demon-armor.md) | Armor (Any) | Cursed | Yes |

@@ -1,0 +1,1 @@
+| [Carpet of Flying](/item/magic/rarity/very-rare/carpet-of-flying.md) | Wondrous Item | Very Rare | No |

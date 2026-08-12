@@ -181,6 +181,7 @@ nav:
           - Legendary:              item/magic/rarity/legendary.md
           - Artifacts:              item/magic/rarity/artifact.md
           - Unique:                 item/magic/rarity/unique.md
+          - Cursed:                 item/magic/rarity/cursed.md
         - Infusions by Item Type:
           - Overview:               item/magic/type/index.md
           - Armor:                  item/magic/type/armor.md

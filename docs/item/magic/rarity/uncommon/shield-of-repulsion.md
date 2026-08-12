@@ -5,7 +5,7 @@ Uncommon Shield (Any)
 **4** Charges (regain **1d4** per Day)
 { .subtitle }
 
-#### Repulse
+##### Repulse
 Reaction, 1 Charge
 { .subtitle }
 

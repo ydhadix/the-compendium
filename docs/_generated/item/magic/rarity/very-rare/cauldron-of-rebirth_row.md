@@ -1,0 +1,1 @@
+| [Cauldron of Rebirth](/item/magic/rarity/very-rare/cauldron-of-rebirth.md) | Spellcasting Focus (Any) | Very Rare | Yes (Druid or Warlock) |

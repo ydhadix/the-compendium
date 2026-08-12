@@ -3,7 +3,7 @@
 
 This armor holds a single Abjuration or Illusion Spell.  The Spell Level determines this armor's rarity, Spell Save DC, and Spell Attack Bonus.
 
-#### Cast
+##### Cast
 Magic Action, 1 Charge
 { .subtitle }
 

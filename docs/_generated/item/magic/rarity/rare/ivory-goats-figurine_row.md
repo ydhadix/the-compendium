@@ -1,0 +1,1 @@
+| [Ivory Goats Figurine](/item/magic/rarity/rare/ivory-goats-figurine.md) | Wondrous Item | Rare | No |

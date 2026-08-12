@@ -1,0 +1,1 @@
+| [Rod of Security](/item/magic/rarity/very-rare/rod-of-security.md) | Spellcasting Focus (Arcane Focus) | Very Rare | No |
