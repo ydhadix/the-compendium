@@ -45,6 +45,7 @@ A Special Facility is a location that helps characters work on specific tasks th
 | [Kitchen](kitchen.md) | — | Prepare meals that fortify your allies. |
 | [Shrine](shrine.md) | Spellcasting with a Holy Symbol | A holy site for blessings and divine aid. |
 | [Storehouse](storehouse.md) | — | Stockpile trade goods to buy and sell. |
+| [Studio](studio.md) | Spellcasting with a Musical Instrument | `Description TBD` |
 | [Study](study.md) | — | A quiet place for research and scribing. |
 | [Training Yard](training-yard.md) | Fighting Style | Drill recruits and hone martial skill. |
 | [Workshop](workshop.md) | — | Craft mundane gear and clever inventions. |
