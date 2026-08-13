@@ -2,17 +2,17 @@
 Large Celestial, Fey, or Fiend, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (10 + CON) × Spell Level | **Hit Dice** | 1d10 per Spell Level |
-| AC | 8 + DEX + PB + Spell Level | **DR** | 0 |
-| Armor | — | **Resistance** | — |
-| Protection | — | **Immunity** | — |
+| Defenses | |
+|---|---|
+| HP | **24** _[(10 + CON) × Spell Level]_ |
+| Hit Dice | 1d10 per Spell Level |
+| AC | **11 + PB** _[8 + DEX + Spell Level + PB]_ |
+| Armor | Unarmored |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +4 | **DEX** | +1 | **CON** | +2 |
-| INT | -2 | **WIS** | +1 | **CHA** | -1 |
+| **STR** | +4 | **DEX** | +1 | **CON** | +2 |
+| **INT** | -2 | **WIS** | +1 | **CHA** | -1 |
 
 | Traits | |
 |---|---|
@@ -29,11 +29,11 @@ Large Celestial, Fey, or Fiend, Neutral
 | Slam | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + STR + Spell Level** Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) Damage.  The Damage Type is determined by your steed's Creature Type. |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 6** Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) Damage _[1d8 + STR + Spell Level]_.  The Damage Type is determined by your steed's Creature Type. |
 
 | Bonus Actions | |
 |---|---|
-| Fell Glare (Fiend Only) | _1 use per Long Rest:_ One creature within **60** feet makes a Will Save _(DC **your Spell Save DC**)_.  On a failure, the steed frightens the target until the end of your next Turn. |
+| Fell Glare (Fiend Only) | _1 use per Long Rest:_ One creature within **60** feet makes a Will Save _(DC **Spell Save DC**)_.  On a failure, the steed frightens the target until the end of your next Turn. |
 | Fey Step (Fey Only) | _1 use per Long Rest:_ The steed teleports up to **60** feet, teleporting its rider with it. |
 | Healing Touch (Celestial Only) | _1 use per Long Rest:_ One creature within Reach heals by **2d8 + Spell Level**. |

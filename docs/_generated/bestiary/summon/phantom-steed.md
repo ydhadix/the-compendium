@@ -2,17 +2,19 @@
 Large Construct, Unaligned
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (10 + CON) × Spell Level | **Hit Dice** | 1d10 per Spell Level |
-| AC | 8 + DEX + PB + Spell Level | **DR** | 0 |
-| Armor | — | **Resistance** | — |
-| Protection | — | **Immunity** | Poison, Psychic; Charm, Exhaustion, Fear, Sickness, Paralysis |
+| Defenses | |
+|---|---|
+| HP | **33** _[(10 + CON) × Spell Level]_ |
+| Hit Dice | 1d10 per Spell Level |
+| AC | **12 + PB** _[8 + DEX + Spell Level + PB]_ |
+| Armor | Unarmored |
+| Immunity | Poison, Psychic |
+| Condition Immunity | Charm, Exhaustion, Fear, Sickness, Paralysis |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +3 | **DEX** | +1 | **CON** | +1 |
-| INT | -4 | **WIS** | +0 | **CHA** | -2 |
+| **STR** | +3 | **DEX** | +1 | **CON** | +1 |
+| **INT** | -4 | **WIS** | +0 | **CHA** | -2 |
 
 | Traits | |
 |---|---|
@@ -25,5 +27,5 @@ Large Construct, Unaligned
 | Slam | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + STR** Bludgeoning |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 3** Bludgeoning Damage _[1d8 + STR]_ |

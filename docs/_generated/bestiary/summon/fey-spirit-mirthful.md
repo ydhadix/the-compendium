@@ -2,17 +2,18 @@
 Small Fey, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (8 + CON) × Spell Level | **Hit Dice** | 1d8 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Charm |
+| Defenses | |
+|---|---|
+| HP | **30** _[(8 + CON) × Spell Level]_ |
+| Hit Dice | 1d8 per Spell Level |
+| AC | **16 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Condition Immunity | Charm |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +1 | **DEX** | +3 | **CON** | +2 |
-| INT | +2 | **WIS** | +0 | **CHA** | +3 |
+| **STR** | +1 | **DEX** | +3 | **CON** | +2 |
+| **INT** | +2 | **WIS** | +0 | **CHA** | +3 |
 
 | Traits | |
 |---|---|
@@ -29,9 +30,9 @@ Small Fey, Neutral
 | Fey Blade | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **2d6 + DEX + Spell Level** Force Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **2d6 + 6** Force Damage _[2d6 + DEX + Spell Level]_ |
 
 | Bonus Actions | |
 |---|---|
-| Fey Step | The spirit teleports up to **30** feet, then one creature within **10** feet makes a Will Save; on a failure, the summoner charms the target for **1** minute or until the target takes damage. |
+| Fey Step | The spirit teleports up to **30** feet, then one creature within **10** feet makes a Will Save _(DC **Spell Save DC**)_; on a failure, the summoner charms the target for **1** minute or until the target takes damage. |

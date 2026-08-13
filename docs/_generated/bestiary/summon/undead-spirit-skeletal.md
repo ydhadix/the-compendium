@@ -2,17 +2,19 @@
 Medium Undead, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (6 + CON) × Spell Level | **Hit Dice** | 1d6 per Spell Level |
-| AC | 11 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Necrotic, Poison; Exhaustion, Fear, Sickness, Paralysis |
+| Defenses | |
+|---|---|
+| HP | **24** _[(6 + CON) × Spell Level]_ |
+| Hit Dice | 1d6 per Spell Level |
+| AC | **17 + PB** _[11 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Immunity | Necrotic, Poison |
+| Condition Immunity | Exhaustion, Fear, Sickness, Paralysis |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +1 | **DEX** | +3 | **CON** | +2 |
-| INT | -3 | **WIS** | +0 | **CHA** | -1 |
+| **STR** | +1 | **DEX** | +3 | **CON** | +2 |
+| **INT** | -3 | **WIS** | +0 | **CHA** | -1 |
 
 | Traits | |
 |---|---|
@@ -29,5 +31,5 @@ Medium Undead, Neutral
 | Grave Bolt | Ranged Attack |
 |---|---|
 | Range | 150 ft. |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **2d4 + DEX + Spell Level** Necrotic Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **2d4 + 6** Necrotic Damage _[2d4 + DEX + Spell Level]_ |

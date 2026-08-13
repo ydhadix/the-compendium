@@ -2,17 +2,19 @@
 Small Construct, Unaligned
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | 24 | **Hit Dice** | 4d6 |
-| AC | 8 + DEX + PB | **DR** | — |
-| Armor | — | **Resistance** | — |
-| Protection | — | **Immunity** | Poison, Psychic; Charm, Deafness, Exhaustion, Fear, Sickness, Paralysis, Petrification |
+| Defenses | |
+|---|---|
+| HP | **24** _[(6 + CON) × 4]_ |
+| Hit Dice | 4d6 |
+| AC | **13** _[8 + DEX + PB]_ |
+| Armor | Unarmored |
+| Immunity | Poison, Psychic |
+| Condition Immunity | Charm, Deafness, Exhaustion, Fear, Sickness, Paralysis, Petrification |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +0 | **DEX** | +3 | **CON** | +0 |
-| INT | -5 | **WIS** | -3 | **CHA** | -5 |
+| **STR** | +0 | **DEX** | +3 | **CON** | +0 |
+| **INT** | -5 | **WIS** | -3 | **CHA** | -5 |
 
 | Traits | |
 |---|---|
@@ -31,5 +33,5 @@ Small Construct, Unaligned
 | Slam | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **DEX + PB** to hit |
-| Damage | **1d4 + DEX** Bludgeoning Damage |
+| Attack | **+5** to hit _[DEX + PB]_ |
+| Damage | **1d4 + 3** Bludgeoning Damage _[1d4 + DEX]_ |

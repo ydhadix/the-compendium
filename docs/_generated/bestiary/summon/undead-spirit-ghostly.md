@@ -2,17 +2,19 @@
 Medium Undead, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (8 + CON) × Spell Level | **Hit Dice** | 1d8 per Spell Level |
-| AC | 11 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Necrotic, Poison; Exhaustion, Fear, Sickness, Paralysis |
+| Defenses | |
+|---|---|
+| HP | **30** _[(8 + CON) × Spell Level]_ |
+| Hit Dice | 1d8 per Spell Level |
+| AC | **17 + PB** _[11 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Immunity | Necrotic, Poison |
+| Condition Immunity | Exhaustion, Fear, Sickness, Paralysis |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +1 | **DEX** | +3 | **CON** | +2 |
-| INT | -3 | **WIS** | +0 | **CHA** | -1 |
+| **STR** | +1 | **DEX** | +3 | **CON** | +2 |
+| **INT** | -3 | **WIS** | +0 | **CHA** | -1 |
 
 | Traits | |
 |---|---|
@@ -30,6 +32,6 @@ Medium Undead, Neutral
 | Deathly Touch | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + DEX + Spell Level** Necrotic Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 6** Necrotic Damage _[1d8 + DEX + Spell Level]_ |
 | Effect | After this attack deals damage, the spirit frightens the target until the start of the spirit's next Turn. |

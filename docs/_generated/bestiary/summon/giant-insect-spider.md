@@ -2,17 +2,17 @@
 Large Beast, Unaligned
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (8 + CON) × Spell Level | **Hit Dice** | 1d8 per Spell Level |
-| AC | 11 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | — |
+| Defenses | |
+|---|---|
+| HP | **40** _[(8 + CON) × Spell Level]_ |
+| Hit Dice | 1d8 per Spell Level |
+| AC | **16 + PB** _[11 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +3 | **DEX** | +1 | **CON** | +2 |
-| INT | -3 | **WIS** | +2 | **CHA** | -4 |
+| **STR** | +3 | **DEX** | +1 | **CON** | +2 |
+| **INT** | -3 | **WIS** | +2 | **CHA** | -4 |
 
 | Traits | |
 |---|---|
@@ -29,12 +29,12 @@ Large Beast, Unaligned
 | Poison Jab | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d6 + STR + Spell Level** Piercing Damage and **1d4** Poison Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d6 + 7** Piercing Damage _[1d6 + STR + Spell Level]_ and **1d4** Poison Damage |
 
 | Web Bolt | Ranged Attack |
 |---|---|
 | Range | 60 ft. |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d10 + STR + Spell Level** Bludgeoning Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d10 + 7** Bludgeoning Damage _[1d10 + STR + Spell Level]_ |
 | Effect | After this attack deals damage, the insect immobilizes the target until the start of the insect's next Turn. |

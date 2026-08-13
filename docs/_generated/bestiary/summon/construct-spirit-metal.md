@@ -2,17 +2,20 @@
 Medium Construct, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (10 + CON) × Spell Level | **Hit Dice** | 1d10 per Spell Level |
-| AC | 12 + PB + Spell Level | **DR** | -STR |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Poison, Psychic; Charm, Exhaustion, Fear, Sickness, Paralysis |
+| Defenses | |
+|---|---|
+| HP | **42** _[(10 + CON) × Spell Level]_ |
+| Hit Dice | 1d10 per Spell Level |
+| AC | **15 + PB** _[12 + Spell Level + PB]_ |
+| DR | -STR |
+| Armor | Natural |
+| Immunity | Poison, Psychic |
+| Condition Immunity | Charm, Exhaustion, Fear, Sickness, Paralysis |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +4 | **DEX** | +0 | **CON** | +4 |
-| INT | +2 | **WIS** | +0 | **CHA** | -3 |
+| **STR** | +4 | **DEX** | +0 | **CON** | +4 |
+| **INT** | +2 | **WIS** | +0 | **CHA** | -3 |
 
 | Traits | |
 |---|---|
@@ -30,5 +33,5 @@ Medium Construct, Neutral
 | Slam | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + STR + Spell Level** Bludgeoning Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 7** Bludgeoning Damage _[1d8 + STR + Spell Level]_ |

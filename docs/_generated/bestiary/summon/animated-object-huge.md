@@ -2,17 +2,19 @@
 Huge Construct, Unaligned
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | 40 | **Hit Dice** | 1d12 per Spell Level |
-| AC | 12 + DEX + PB | **DR** | 0 |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Poison, Psychic; Blindness, Charm, Deafness, Exhaustion, Fear, Sickness, Paralysis, Petrification |
+| Defenses | |
+|---|---|
+| HP | **40** |
+| Hit Dice | 1d12 per Spell Level |
+| AC | **12 + PB** _[12 + DEX + PB]_ |
+| Armor | Natural |
+| Immunity | Poison, Psychic |
+| Condition Immunity | Blindness, Charm, Deafness, Exhaustion, Fear, Sickness, Paralysis, Petrification |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +3 | **DEX** | +0 | **CON** | +0 |
-| INT | -4 | **WIS** | -4 | **CHA** | -5 |
+| **STR** | +3 | **DEX** | +0 | **CON** | +0 |
+| **INT** | -4 | **WIS** | -4 | **CHA** | -5 |
 
 | Traits | |
 |---|---|
@@ -25,5 +27,5 @@ Huge Construct, Unaligned
 | Slam | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **2d12 + Spell Level + Spellcasting Ability** Force Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **2d12 + 3 + Spell Ability** Force Damage _[2d12 + Spell Level + Spell Ability]_ |

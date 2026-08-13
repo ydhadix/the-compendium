@@ -11,17 +11,18 @@ An **Aberrant Spirit** is a Companion conjured by the [Summon Aberration](/spell
 Medium Aberration, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (8 + CON) × Spell Level | **Hit Dice** | 1d8 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Psychic |
+| Defenses | |
+|---|---|
+| HP | **40** _[(8 + CON) × Spell Level]_ |
+| Hit Dice | 1d8 per Spell Level |
+| AC | **14 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Immunity | Psychic |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +3 | **DEX** | +0 | **CON** | +2 |
-| INT | +3 | **WIS** | +0 | **CHA** | -2 |
+| **STR** | +3 | **DEX** | +0 | **CON** | +2 |
+| **INT** | +3 | **WIS** | +0 | **CHA** | -2 |
 
 | Traits | |
 |---|---|
@@ -38,25 +39,26 @@ Medium Aberration, Neutral
 | Eye Ray | Ranged Attack |
 |---|---|
 | Range | 150 ft. |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + INT + Spell Level** Psychic Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 7** Psychic Damage _[1d8 + INT + Spell Level]_ |
 
 
 ### Aberrant Spirit: Mind Flayer
 Medium Aberration, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (8 + CON) × Spell Level | **Hit Dice** | 1d8 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Psychic |
+| Defenses | |
+|---|---|
+| HP | **40** _[(8 + CON) × Spell Level]_ |
+| Hit Dice | 1d8 per Spell Level |
+| AC | **14 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Immunity | Psychic |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +3 | **DEX** | +0 | **CON** | +2 |
-| INT | +3 | **WIS** | +0 | **CHA** | -2 |
+| **STR** | +3 | **DEX** | +0 | **CON** | +2 |
+| **INT** | +3 | **WIS** | +0 | **CHA** | -2 |
 
 | Traits | |
 |---|---|
@@ -67,32 +69,33 @@ Medium Aberration, Neutral
 
 | Features | |
 |---|---|
-| Whispering Aura | After the spirit's Turn starts, each creature in a **5**-foot Aura makes a Will Save; on a failure, the spirit deals **2d6** Psychic Damage. |
+| Whispering Aura | After the spirit's Turn starts, each creature in a **5**-foot Aura makes a Will Save _(DC **Spell Save DC**)_; on a failure, the spirit deals **2d6** Psychic Damage. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions
 | Psychic Slam | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + STR + Spell Level** Psychic Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 7** Psychic Damage _[1d8 + STR + Spell Level]_ |
 
 
 ### Aberrant Spirit: Slaad
 Medium Aberration, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (8 + CON) × Spell Level | **Hit Dice** | 1d8 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Psychic |
+| Defenses | |
+|---|---|
+| HP | **40** _[(8 + CON) × Spell Level]_ |
+| Hit Dice | 1d8 per Spell Level |
+| AC | **14 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Immunity | Psychic |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +3 | **DEX** | +0 | **CON** | +2 |
-| INT | +3 | **WIS** | +0 | **CHA** | -2 |
+| **STR** | +3 | **DEX** | +0 | **CON** | +2 |
+| **INT** | +3 | **WIS** | +0 | **CHA** | -2 |
 
 | Traits | |
 |---|---|
@@ -110,6 +113,6 @@ Medium Aberration, Neutral
 | Claw | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d10 + STR + Spell Level** Slashing Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d10 + 7** Slashing Damage _[1d10 + STR + Spell Level]_ |
 | Effect | After this attack deals damage, the target can't heal until the start of the spirit's next Turn. |

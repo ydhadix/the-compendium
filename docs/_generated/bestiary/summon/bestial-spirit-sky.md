@@ -2,17 +2,17 @@
 Small Beast, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (6 + CON) × Spell Level | **Hit Dice** | 1d6 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | 0 |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | — |
+| Defenses | |
+|---|---|
+| HP | **18** _[(6 + CON) × Spell Level]_ |
+| Hit Dice | 1d6 per Spell Level |
+| AC | **12 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +4 | **DEX** | +0 | **CON** | +3 |
-| INT | -3 | **WIS** | +2 | **CHA** | -3 |
+| **STR** | +4 | **DEX** | +0 | **CON** | +3 |
+| **INT** | -3 | **WIS** | +2 | **CHA** | -3 |
 
 | Traits | |
 |---|---|
@@ -30,5 +30,5 @@ Small Beast, Neutral
 | Beast Strike | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + STR + Spell Level** Bludgeoning, Piercing, or Slashing Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 6** Bludgeoning, Piercing, or Slashing Damage _[1d8 + STR + Spell Level]_ |

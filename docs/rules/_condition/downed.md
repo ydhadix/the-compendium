@@ -1,4 +1,6 @@
 ##### Downed
+A player character or a named NPC is Downed at **0** Hit Points.  Any other creature dies.
+
 - You are Dazed and Prone.
 - Your Concentration is broken.
 - You drop anything you're holding.

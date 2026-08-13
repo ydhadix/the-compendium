@@ -10,7 +10,10 @@ Abilities, Resistance, Vulnerability and other effects can add bonuses, penaltie
 Roll the Damage Dice and add the modifiers.  You reduce the target's Hit Points by the total _(minimum **0**)_.
 
 ## Hit Points
-**Hit Points** represent a creature's physical health, luck, stamina, and resolve.  When you take damage, you lose that many Hit Points; when you heal, you regain them, up to your **Hit Point Maximum**. At **0** Hit Points, you are Downed.
+**Hit Points** represent a creature's physical health, luck, stamina, and resolve.  When you take damage, you lose that many Hit Points; when you heal, you regain them, up to your **Hit Point Maximum**.
+
+### Reaching 0 Hit Points
+At **0** Hit Points, a player character or a named NPC is Downed.  Any other creature dies.
 
 ### Temporary Hit Points
 **Temporary Hit Points** are wells of additional health that prevent you from losing actual Hit Points until you finish a Long Rest.  You can only have one pool of Temporary Hit Points at a time; if you gain Temporary Hit Points again, you choose one to keep.

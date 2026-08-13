@@ -2,17 +2,17 @@
 Small Beast, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (4 + CON) × Level | **Hit Dice** | 1d4 per Level |
-| AC | 11 + DEX + PB | **DR** | 0 |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | — |
+| Defenses | |
+|---|---|
+| HP | **15** _[(4 + CON) × Level]_ |
+| Hit Dice | 1d4 per Level |
+| AC | **14 + PB** _[11 + DEX + PB]_ |
+| Armor | Natural |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | -2 | **DEX** | +3 | **CON** | +1 |
-| INT | -1 | **WIS** | +2 | **CHA** | +0 |
+| **STR** | -2 | **DEX** | +3 | **CON** | +1 |
+| **INT** | -1 | **WIS** | +2 | **CHA** | +0 |
 
 | Traits | |
 |---|---|
@@ -29,5 +29,5 @@ Small Beast, Neutral
 | Beast Strike | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d4 + DEX + your Spellcasting Ability** Bludgeoning, Piercing, or Slashing Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d4 + 3 + Spell Ability** Bludgeoning, Piercing, or Slashing Damage _[1d4 + DEX + Spell Ability]_ |

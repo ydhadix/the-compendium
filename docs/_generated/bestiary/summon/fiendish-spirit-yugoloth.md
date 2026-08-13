@@ -2,17 +2,21 @@
 Large Fiend, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (12 + CON) × Spell Level | **Hit Dice** | 1d12 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | Fire |
-| Protection | — | **Immunity** | Poison; Sickness |
+| Defenses | |
+|---|---|
+| HP | **84** _[(12 + CON) × Spell Level]_ |
+| Hit Dice | 1d12 per Spell Level |
+| AC | **19 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Resistance | Fire |
+| Immunity | Poison |
+| Protection | Magic |
+| Condition Immunity | Sickness |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +1 | **DEX** | +3 | **CON** | +2 |
-| INT | +0 | **WIS** | +0 | **CHA** | +3 |
+| **STR** | +1 | **DEX** | +3 | **CON** | +2 |
+| **INT** | +0 | **WIS** | +0 | **CHA** | +3 |
 
 | Traits | |
 |---|---|
@@ -23,13 +27,12 @@ Large Fiend, Neutral
 
 | Features | |
 |---|---|
-| Magic Resistance | The spirit has Magic Protection. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions
 | Claws | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + DEX + Spell Level** Slashing Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 9** Slashing Damage _[1d8 + DEX + Spell Level]_ |
 | Effect | After this attack, the spirit can teleport up to **30** feet. |

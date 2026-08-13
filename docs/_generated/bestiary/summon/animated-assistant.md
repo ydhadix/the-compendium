@@ -2,17 +2,19 @@
 Tiny Construct, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (4 + CON) × Level | **Hit Dice** | 1d4 per Level |
-| AC | 10 + DEX + PB | **DR** | — |
-| Armor | Natural | **Resistance** | — |
-| Protection | — | **Immunity** | Exhaustion, Poison, Psychic, Sickness |
+| Defenses | |
+|---|---|
+| HP | **5** _[(4 + CON) × Level]_ |
+| Hit Dice | 1d4 per Level |
+| AC | **12 + PB** _[10 + DEX + PB]_ |
+| Armor | Natural |
+| Immunity | Poison, Psychic |
+| Condition Immunity | Exhaustion, Sickness |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | -3 | **DEX** | +2 | **CON** | +1 |
-| INT | +0 | **WIS** | +0 | **CHA** | -2 |
+| **STR** | -3 | **DEX** | +2 | **CON** | +1 |
+| **INT** | +0 | **WIS** | +0 | **CHA** | -2 |
 
 | Traits | |
 |---|---|
@@ -31,5 +33,5 @@ Tiny Construct, Neutral
 | Force Strike | Melee or Ranged Attack |
 |---|---|
 | Range | Reach / 30 ft. |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d6 + DEX** Force Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d6 + 2** Force Damage _[1d6 + DEX]_ |

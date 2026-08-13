@@ -2,17 +2,19 @@
 Large Dragon, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (10 + CON) × Spell Level | **Hit Dice** | 1d10 per Spell Level |
-| AC | 11 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | Acid, Cold, Fire, Lightning, Poison |
-| Protection | — | **Immunity** | Charm, Fear, Sickness |
+| Defenses | |
+|---|---|
+| HP | **65** _[(10 + CON) × Spell Level]_ |
+| Hit Dice | 1d10 per Spell Level |
+| AC | **18 + PB** _[11 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Resistance | Acid, Cold, Fire, Lightning, Poison |
+| Condition Immunity | Charm, Fear, Sickness |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +4 | **DEX** | +2 | **CON** | +3 |
-| INT | +0 | **WIS** | +2 | **CHA** | +2 |
+| **STR** | +4 | **DEX** | +2 | **CON** | +3 |
+| **INT** | +0 | **WIS** | +2 | **CHA** | +2 |
 
 | Traits | |
 |---|---|
@@ -30,9 +32,9 @@ Large Dragon, Neutral
 | Rend | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d6 + STR + Spell Level** Piercing Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d6 + 9** Piercing Damage _[1d6 + STR + Spell Level]_ |
 
 | Breath Weapon | Normal Action |
 |---|---|
-| | Everything in a **30**-foot Cone makes a Reflex Save; on a failure, you deal **2d6 + Spell Level** damage of the chosen Shared Resistance type, or half as much on a success. |
+| | Everything in a **30**-foot Cone makes a Reflex Save _(DC **Spell Save DC**)_; on a failure, you deal **2d6 + Spell Level** damage of the chosen Shared Resistance type, or half as much on a success. |

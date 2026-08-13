@@ -21,7 +21,7 @@ Everything stays, but it still changes<br>Ever so slightly, daily and nightly<br
 |---|---|---|
 | Introduction | In My Dreams (Cudder Anthem) | Kid Cudi |
 | Theme | Theseus | The Oh Hellos |
-| Struggle | Rubik's Cube | Athlete |
+| Struggle | Full Disclosure | Zach Callison |
 | Growth | Oh, Sleeper | The Arcadian Wild |
 | Future | lessons | Lilli Furfaro |
 
@@ -135,7 +135,7 @@ Everything stays, but it still changes<br>Ever so slightly, daily and nightly<br
 |---|---|---|
 | The Order | Wolves of the Revolution | The Arcadian Wild |
 | Aurelio Alcázar IV | Silence, A Stranger | The Arcadian Wild |
-| Lieutenant Uzhari Vile | Petrified | Fort Minor |
+| Lieutenant Uzhari Vile | Medusa | Dirty Heads |
 | Lieutenant Thazara | Save Yourself, I'll Hold Them Back | My Chemical Romance |
 | Lieutenant Severance "Big Red" | Crimson Echo | Apukat, Fractal Kin, State of Inertia |
 
@@ -160,7 +160,8 @@ Everything stays, but it still changes<br>Ever so slightly, daily and nightly<br
 | The House of Kings | Stained Glass | Danny Schmidt |
 | King Halcyon Ioun | I Remember You | The Marcus Hedges Trend Orchestra |
 | Prince Hesperius Ioun | Everything Stays | Olivia Olson |
-| Princess Phospheria Iona | Lighthouse | The Hush Sound |
+| Princess Phospheria Iona |  |  |
+| Yonder & The Wanderer | A Place I Don't Know | Daniel Olsén, Jonathan Eng, Linnea Olsson |
 
 | Outro | | |
 |---|---|---|

@@ -11,17 +11,21 @@ A **Fiendish Spirit** is a Companion conjured by the [Summon Fiend](/spell/level
 Large Fiend, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (10 + CON) × Spell Level | **Hit Dice** | 1d10 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | Fire |
-| Protection | — | **Immunity** | Poison; Sickness |
+| Defenses | |
+|---|---|
+| HP | **72** _[(10 + CON) × Spell Level]_ |
+| Hit Dice | 1d10 per Spell Level |
+| AC | **19 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Resistance | Fire |
+| Immunity | Poison |
+| Protection | Magic |
+| Condition Immunity | Sickness |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +1 | **DEX** | +3 | **CON** | +2 |
-| INT | +0 | **WIS** | +0 | **CHA** | +3 |
+| **STR** | +1 | **DEX** | +3 | **CON** | +2 |
+| **INT** | +0 | **WIS** | +0 | **CHA** | +3 |
 
 | Traits | |
 |---|---|
@@ -32,33 +36,36 @@ Large Fiend, Neutral
 
 | Features | |
 |---|---|
-| Magic Resistance | The spirit has Magic Protection. |
-| Death Throes | After the Spell ends, the spirit explodes.  Everything in a **10**-foot Aura makes a Reflex Save; on a failure, you deal **2d10 + Spell Level** Fire Damage, or half as much on a success. |
+| Death Throes | After the Spell ends, the spirit explodes.  Everything in a **10**-foot Aura makes a Reflex Save _(DC **Spell Save DC**)_; on a failure, you deal **2d10 + Spell Level** Fire Damage, or half as much on a success. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions
 | Bite | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d12 + DEX + Spell Level** Necrotic Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d12 + 9** Necrotic Damage _[1d12 + DEX + Spell Level]_ |
 
 
 ### Fiendish Spirit: Devil
 Large Fiend, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (8 + CON) × Spell Level | **Hit Dice** | 1d8 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | Fire |
-| Protection | — | **Immunity** | Poison; Sickness |
+| Defenses | |
+|---|---|
+| HP | **60** _[(8 + CON) × Spell Level]_ |
+| Hit Dice | 1d8 per Spell Level |
+| AC | **19 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Resistance | Fire |
+| Immunity | Poison |
+| Protection | Magic |
+| Condition Immunity | Sickness |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +1 | **DEX** | +3 | **CON** | +2 |
-| INT | +0 | **WIS** | +0 | **CHA** | +3 |
+| **STR** | +1 | **DEX** | +3 | **CON** | +2 |
+| **INT** | +0 | **WIS** | +0 | **CHA** | +3 |
 
 | Traits | |
 |---|---|
@@ -69,32 +76,35 @@ Large Fiend, Neutral
 
 | Features | |
 |---|---|
-| Magic Resistance | The spirit has Magic Protection. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions
 | Fiery Strike | Melee or Ranged Attack |
 |---|---|
 | Range | Reach or 150 ft. |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **2d6 + DEX + Spell Level** Fire Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **2d6 + 9** Fire Damage _[2d6 + DEX + Spell Level]_ |
 
 
 ### Fiendish Spirit: Yugoloth
 Large Fiend, Neutral
 { .subtitle }
 
-| Defenses | | | |
-|---|---|---|---|
-| HP | (12 + CON) × Spell Level | **Hit Dice** | 1d12 per Spell Level |
-| AC | 10 + DEX + PB + Spell Level | **DR** | — |
-| Armor | Natural | **Resistance** | Fire |
-| Protection | — | **Immunity** | Poison; Sickness |
+| Defenses | |
+|---|---|
+| HP | **84** _[(12 + CON) × Spell Level]_ |
+| Hit Dice | 1d12 per Spell Level |
+| AC | **19 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural |
+| Resistance | Fire |
+| Immunity | Poison |
+| Protection | Magic |
+| Condition Immunity | Sickness |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | +1 | **DEX** | +3 | **CON** | +2 |
-| INT | +0 | **WIS** | +0 | **CHA** | +3 |
+| **STR** | +1 | **DEX** | +3 | **CON** | +2 |
+| **INT** | +0 | **WIS** | +0 | **CHA** | +3 |
 
 | Traits | |
 |---|---|
@@ -105,13 +115,12 @@ Large Fiend, Neutral
 
 | Features | |
 |---|---|
-| Magic Resistance | The spirit has Magic Protection. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions
 | Claws | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + DEX + Spell Level** Slashing Damage |
+| Attack | **+Spell Attack** to hit |
+| Damage | **1d8 + 9** Slashing Damage _[1d8 + DEX + Spell Level]_ |
 | Effect | After this attack, the spirit can teleport up to **30** feet. |
