@@ -16,12 +16,12 @@ Small Construct, Unaligned
 | Abilities | | | | | |
 |---|---|---|---|---|---|
 | STR | +0 | **DEX** | +3 | **CON** | +0 |
-| INT | -5 | **WIS** | -3 | **CHA** | −5 |
+| INT | -5 | **WIS** | -3 | **CHA** | -5 |
 
 | Traits | |
 |---|---|
 | Languages | — |
-| Senses | Blindsight 60 ft. (blind otherwise) |
+| Senses | Blindsight (60 ft.), blind otherwise |
 | Speed | 5 ft., Hover 50 ft. |
 | Reach | 5 ft. |
 | Level | 1 |
@@ -35,5 +35,5 @@ Small Construct, Unaligned
 | Slam | Melee Attack |
 |---|---|
 | Range | Reach |
-| Attack | DEX + PB |
-| Damage | 1d4 + DEX Bludgeoning Damage |
+| Attack | **DEX + PB** to hit |
+| Damage | **1d4 + DEX** Bludgeoning Damage |

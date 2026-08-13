@@ -25,7 +25,7 @@ Medium Elemental, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Primordial; Understands and speaks the Languages you know |
+| Languages | Primordial; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 40 ft., Hover 40 ft. |
 | Reach | 5 ft. |
@@ -41,6 +41,7 @@ Medium Elemental, Neutral
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d10 + STR + Spell Level** Lightning Damage |
+
 
 ### Elemental Spirit: Earth
 Medium Elemental, Neutral
@@ -60,7 +61,7 @@ Medium Elemental, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Primordial; Understands and speaks the Languages you know |
+| Languages | Primordial; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 40 ft., Burrow 40 ft. |
 | Reach | 5 ft. |
@@ -75,6 +76,7 @@ Medium Elemental, Neutral
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d10 + STR + Spell Level** Bludgeoning Damage |
+
 
 ### Elemental Spirit: Fire
 Medium Elemental, Neutral
@@ -94,7 +96,7 @@ Medium Elemental, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Primordial; Understands and speaks the Languages you know |
+| Languages | Primordial; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 40 ft. |
 | Reach | 5 ft. |
@@ -110,6 +112,7 @@ Medium Elemental, Neutral
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d10 + STR + Spell Level** Fire Damage |
+
 
 ### Elemental Spirit: Water
 Medium Elemental, Neutral
@@ -129,7 +132,7 @@ Medium Elemental, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Primordial; Understands and speaks the Languages you know |
+| Languages | Primordial; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 40 ft., Swim 40 ft. |
 | Reach | 5 ft. |

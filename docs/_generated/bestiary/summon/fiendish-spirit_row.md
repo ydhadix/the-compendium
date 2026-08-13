@@ -1,0 +1,1 @@
+| [Fiendish Spirit](/bestiary/summon/fiendish-spirit.md) | [Demon](/bestiary/summon/fiendish-spirit.md#fiendish-spirit-demon), [Devil](/bestiary/summon/fiendish-spirit.md#fiendish-spirit-devil), [Yugoloth](/bestiary/summon/fiendish-spirit.md#fiendish-spirit-yugoloth) | [Summon Fiend](/spell/level/6/summon-fiend.md) |

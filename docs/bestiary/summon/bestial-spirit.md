@@ -42,6 +42,7 @@ Small Beast, Neutral
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d8 + STR + Spell Level** Bludgeoning, Piercing, or Slashing Damage |
 
+
 ### Bestial Spirit: Sea
 Small Beast, Neutral
 { .subtitle }
@@ -104,7 +105,7 @@ Small Beast, Neutral
 
 | Features | |
 |---|---|
-| Flyby | The spirit's movement doesn't trigger opportunity attacks. |
+| Flyby | The spirit's movement doesn't trigger Opportunity Attacks. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions

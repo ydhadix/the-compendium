@@ -34,4 +34,4 @@ Large Beast, Unaligned
 
 | Bonus Actions | |
 |---|---|
-| Venomous Spew | One creature within 10 feet makes a Fortitude Save; on a failure, the insect sickens the target until the start of the insect's next turn. |
+| Venomous Spew | One creature within **10** feet makes a Fortitude Save; on a failure, the insect sickens the target until the start of the insect's next Turn. |

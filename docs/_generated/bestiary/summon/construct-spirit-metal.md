@@ -16,14 +16,14 @@ Medium Construct, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands and speaks the Languages you know |
+| Languages | Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 30 ft. |
 | Reach | 5 ft. |
 
 | Features | |
 |---|---|
-| Heated Body | After a creature hits the spirit with a Melee Attack or starts its turn grappled by, or grappling, the spirit, the spirit deals **1d10** Fire Damage to it. |
+| Heated Body | After a creature hits the spirit with a Melee Attack or starts its Turn grappled by, or grappling, the spirit, the spirit deals **1d10** Fire Damage to it. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions

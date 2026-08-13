@@ -27,4 +27,8 @@ Add **1** target per additional Spell Level.
 
 The Spell Level determines the objects' Slam damage.
 
---8<-- "_generated/bestiary/summon/animated-object.md"
+--8<-- "_generated/bestiary/summon/animated-object-medium-or-smaller.md"
+
+--8<-- "_generated/bestiary/summon/animated-object-large.md"
+
+--8<-- "_generated/bestiary/summon/animated-object-huge.md"

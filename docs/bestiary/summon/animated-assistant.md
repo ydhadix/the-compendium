@@ -20,8 +20,8 @@ Tiny Construct, Neutral
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| STR | −3 | **DEX** | +2 | **CON** | +1 |
-| INT | +0 | **WIS** | +0 | **CHA** | −2 |
+| STR | -3 | **DEX** | +2 | **CON** | +1 |
+| INT | +0 | **WIS** | +0 | **CHA** | -2 |
 
 | Traits | |
 |---|---|

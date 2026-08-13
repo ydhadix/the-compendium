@@ -1,0 +1,1 @@
+| [Celestial Spirit](/bestiary/summon/celestial-spirit.md) | [Avenger](/bestiary/summon/celestial-spirit.md#celestial-spirit-avenger), [Defender](/bestiary/summon/celestial-spirit.md#celestial-spirit-defender) | [Summon Celestial](/spell/level/5/summon-celestial.md) |

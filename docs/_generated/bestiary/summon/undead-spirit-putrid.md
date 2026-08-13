@@ -23,7 +23,7 @@ Medium Undead, Neutral
 
 | Features | |
 |---|---|
-| Festering Aura | After the spirit's Turn starts, each creature within a 5-foot Aura makes a Fortitude Save; on a failure, a target is sickened until the start of the spirit's next Turn. |
+| Festering Aura | After the spirit's Turn starts, each creature within a **5**-foot Aura makes a Fortitude Save; on a failure, the target is sickened until the start of the spirit's next Turn. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions

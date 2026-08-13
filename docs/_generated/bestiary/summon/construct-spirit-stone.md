@@ -16,14 +16,14 @@ Medium Construct, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands and speaks the Languages you know |
+| Languages | Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 30 ft. |
 | Reach | 5 ft. |
 
 | Features | |
 |---|---|
-| Stony Lethargy | After a creature's Turn starts within 10 feet, it makes a Will Save against your Spell Save DC; on a failure, the spirit dazes the target until the start of the target's next turn. |
+| Stony Lethargy | After a creature's Turn starts within **10** feet, it makes a Will Save against your Spell Save DC; on a failure, the spirit dazes the target until the start of the target's next Turn. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions

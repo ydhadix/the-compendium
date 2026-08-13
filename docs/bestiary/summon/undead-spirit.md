@@ -32,7 +32,7 @@ Medium Undead, Neutral
 
 | Features | |
 |---|---|
-| Incorporeal Passage | The spirit can move through other creatures and objects as Difficult Terrain. Before the spirit ends its Turn inside an object, it is propelled to the nearest unoccupied space and takes **1d10** Force damage for every **5** feet moved. |
+| Incorporeal Passage | The spirit can move through other creatures and objects as Difficult Terrain. Before the spirit ends its Turn inside an object, it is propelled to the nearest unoccupied space and takes **1d10** Force Damage for every **5** feet moved. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions
@@ -69,7 +69,7 @@ Medium Undead, Neutral
 
 | Features | |
 |---|---|
-| Festering Aura | After the spirit's Turn starts, each creature within a 5-foot Aura makes a Fortitude Save; on a failure, a target is sickened until the start of the spirit's next Turn. |
+| Festering Aura | After the spirit's Turn starts, each creature within a **5**-foot Aura makes a Fortitude Save; on a failure, the target is sickened until the start of the spirit's next Turn. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions

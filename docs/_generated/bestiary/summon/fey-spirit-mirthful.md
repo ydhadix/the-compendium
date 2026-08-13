@@ -16,7 +16,7 @@ Small Fey, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Sylvan; Understands and speaks the Languages you know |
+| Languages | Sylvan; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 30 ft., Fly 30 ft. |
 | Reach | 5 ft. |
@@ -34,4 +34,4 @@ Small Fey, Neutral
 
 | Bonus Actions | |
 |---|---|
-| Fey Step | The spirit teleports up to 30 feet, then one creature within 10 feet makes a Will Save; on a failure, the summoner charms the target for 1 minute or until the target takes damage. |
+| Fey Step | The spirit teleports up to **30** feet, then one creature within **10** feet makes a Will Save; on a failure, the summoner charms the target for **1** minute or until the target takes damage. |

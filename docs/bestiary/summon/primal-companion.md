@@ -25,7 +25,7 @@ Medium Beast, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands the languages you know, but can't speak |
+| Languages | Understands the Languages you know, but can't speak |
 | Senses | Darkvision 60 ft. |
 | Speed | 40 ft., Climb 40 ft. |
 | Reach | 5 ft. |
@@ -35,8 +35,9 @@ Medium Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + STR + your Spell Ability** Bludgeoning, Piercing, or Slashing Damage |
+| Damage | **1d8 + STR + your Spellcasting Ability** Bludgeoning, Piercing, or Slashing Damage |
 | Effect | Before this Attack deals damage, if the companion moved at least **20** feet in a straight line towards the target, add **1d6** damage.  After dealing this damage, if the target is no more than **1** Size Category larger, the companion knocks it Prone. |
+
 
 ### Primal Companion: Sea
 Medium Beast, Neutral
@@ -56,7 +57,7 @@ Medium Beast, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands the languages you know, but can't speak |
+| Languages | Understands the Languages you know, but can't speak |
 | Senses | Darkvision 90 ft. |
 | Speed | 5 ft., Swim 60 ft. |
 | Reach | 5 ft. |
@@ -66,8 +67,9 @@ Medium Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
-| Damage | **1d6 + STR + your Spell Ability** Bludgeoning, Piercing, or Slashing Damage |
-| Effect | After this Attack hits, the companion grapples the target.  The companion's Checks to prevent the target from escaping increase by **Spell Ability**. |
+| Damage | **1d6 + STR + your Spellcasting Ability** Bludgeoning, Piercing, or Slashing Damage |
+| Effect | After this Attack hits, the companion grapples the target.  The companion's Checks to prevent the target from escaping increase by **Spellcasting Ability**. |
+
 
 ### Primal Companion: Sky
 Small Beast, Neutral
@@ -87,7 +89,7 @@ Small Beast, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands the languages you know, but can't speak |
+| Languages | Understands the Languages you know, but can't speak |
 | Senses | Darkvision 60 ft. |
 | Speed | 10 ft., Fly 60 ft. |
 | Reach | 5 ft. |
@@ -101,4 +103,4 @@ Small Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
-| Damage | **1d4 + DEX + your Spell Ability** Bludgeoning, Piercing, or Slashing Damage |
+| Damage | **1d4 + DEX + your Spellcasting Ability** Bludgeoning, Piercing, or Slashing Damage |

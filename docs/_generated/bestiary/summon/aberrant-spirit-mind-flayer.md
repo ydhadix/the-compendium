@@ -23,7 +23,7 @@ Medium Aberration, Neutral
 
 | Features | |
 |---|---|
-| Whispering Aura | After the spirit's Turn starts, each creature in a 5-foot Aura makes a Will Save; on a failure, the spirit deals **2d6** Psychic Damage. |
+| Whispering Aura | After the spirit's Turn starts, each creature in a **5**-foot Aura makes a Will Save; on a failure, the spirit deals **2d6** Psychic Damage. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions

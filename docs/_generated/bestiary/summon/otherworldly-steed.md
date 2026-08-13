@@ -23,7 +23,7 @@ Large Celestial, Fey, or Fiend, Neutral
 
 | Features | |
 |---|---|
-| Life Bond | After a spell heals you, if the steed is within Reach, it heals by the same amount. |
+| Life Bond | After a Spell heals you, if the steed is within Reach, it heals by the same amount. |
 
 ###### Actions
 | Slam | Melee Attack |
@@ -34,6 +34,6 @@ Large Celestial, Fey, or Fiend, Neutral
 
 | Bonus Actions | |
 |---|---|
-| Fell Glare (Fiend Only) | _1 use per Long Rest:_ One creature within 60 feet makes a Will save (DC **your Spell Save DC**).  On a failed save, the steed frightens the target until the end of your next turn. |
+| Fell Glare (Fiend Only) | _1 use per Long Rest:_ One creature within **60** feet makes a Will Save _(DC **your Spell Save DC**)_.  On a failure, the steed frightens the target until the end of your next Turn. |
 | Fey Step (Fey Only) | _1 use per Long Rest:_ The steed teleports up to **60** feet, teleporting its rider with it. |
 | Healing Touch (Celestial Only) | _1 use per Long Rest:_ One creature within Reach heals by **2d8 + Spell Level**. |

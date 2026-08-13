@@ -26,7 +26,7 @@ Tiny Construct, Unaligned
 | Traits | |
 |---|---|
 | Languages | Understands the Languages you know, but can't speak |
-| Senses | Blindsight 60 ft. (blind otherwise) |
+| Senses | Blindsight (60 ft.), blind otherwise |
 | Speed | 30 ft., Climb 30 ft. |
 | Reach | 5 ft. |
 
@@ -35,4 +35,4 @@ Tiny Construct, Unaligned
 |---|---|
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
-| Damage | **1d4 + DEX** Bludgeoning Damage. |
+| Damage | **1d4 + DEX** Bludgeoning Damage |

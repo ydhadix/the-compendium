@@ -25,7 +25,7 @@ Small Fey, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Sylvan; Understands and speaks the Languages you know |
+| Languages | Sylvan; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 30 ft., Fly 30 ft. |
 | Reach | 5 ft. |
@@ -43,7 +43,8 @@ Small Fey, Neutral
 
 | Bonus Actions | |
 |---|---|
-| Fey Step | The spirit teleports up to 30 feet, then the spirit's next Attack gains Advantage before the end of the Turn. |
+| Fey Step | The spirit teleports up to **30** feet, then the spirit's next Attack gains Advantage before the end of the Turn. |
+
 
 ### Fey Spirit: Mirthful
 Small Fey, Neutral
@@ -63,7 +64,7 @@ Small Fey, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Sylvan; Understands and speaks the Languages you know |
+| Languages | Sylvan; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 30 ft., Fly 30 ft. |
 | Reach | 5 ft. |
@@ -81,7 +82,8 @@ Small Fey, Neutral
 
 | Bonus Actions | |
 |---|---|
-| Fey Step | The spirit teleports up to 30 feet, then one creature within 10 feet makes a Will Save; on a failure, the summoner charms the target for 1 minute or until the target takes damage. |
+| Fey Step | The spirit teleports up to **30** feet, then one creature within **10** feet makes a Will Save; on a failure, the summoner charms the target for **1** minute or until the target takes damage. |
+
 
 ### Fey Spirit: Tricksy
 Small Fey, Neutral
@@ -101,7 +103,7 @@ Small Fey, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Sylvan; Understands and speaks the Languages you know |
+| Languages | Sylvan; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 30 ft., Fly 30 ft. |
 | Reach | 5 ft. |
@@ -119,4 +121,4 @@ Small Fey, Neutral
 
 | Bonus Actions | |
 |---|---|
-| Fey Step | The spirit teleports up to 30 feet, then a 10-foot Cube within the spirit's Reach fills with Magical Darkness until the end of the spirit's next Turn. |
+| Fey Step | The spirit teleports up to **30** feet, then a **10**-foot Cube within the spirit's Reach fills with Magical Darkness until the end of the spirit's next Turn. |

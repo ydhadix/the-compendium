@@ -23,7 +23,7 @@ Medium Undead, Neutral
 
 | Features | |
 |---|---|
-| Incorporeal Passage | The spirit can move through other creatures and objects as Difficult Terrain. Before the spirit ends its Turn inside an object, it is propelled to the nearest unoccupied space and takes **1d10** Force damage for every **5** feet moved. |
+| Incorporeal Passage | The spirit can move through other creatures and objects as Difficult Terrain. Before the spirit ends its Turn inside an object, it is propelled to the nearest unoccupied space and takes **1d10** Force Damage for every **5** feet moved. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions

@@ -41,6 +41,7 @@ Medium Aberration, Neutral
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d8 + INT + Spell Level** Psychic Damage |
 
+
 ### Aberrant Spirit: Mind Flayer
 Medium Aberration, Neutral
 { .subtitle }
@@ -66,7 +67,7 @@ Medium Aberration, Neutral
 
 | Features | |
 |---|---|
-| Whispering Aura | After the spirit's Turn starts, each creature in a 5-foot Aura makes a Will Save; on a failure, the spirit deals **2d6** Psychic Damage. |
+| Whispering Aura | After the spirit's Turn starts, each creature in a **5**-foot Aura makes a Will Save; on a failure, the spirit deals **2d6** Psychic Damage. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions
@@ -75,6 +76,7 @@ Medium Aberration, Neutral
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d8 + STR + Spell Level** Psychic Damage |
+
 
 ### Aberrant Spirit: Slaad
 Medium Aberration, Neutral
@@ -110,4 +112,4 @@ Medium Aberration, Neutral
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d10 + STR + Spell Level** Slashing Damage |
-| Effect | After this attack deals Damage, the target target can't heal until the start of the spirit's next Turn. |
+| Effect | After this attack deals damage, the target can't heal until the start of the spirit's next Turn. |

@@ -16,7 +16,7 @@ Medium Beast, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands the languages you know, but can't speak |
+| Languages | Understands the Languages you know, but can't speak |
 | Senses | Darkvision 60 ft. |
 | Speed | 40 ft., Climb 40 ft. |
 | Reach | 5 ft. |
@@ -26,5 +26,5 @@ Medium Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
-| Damage | **1d8 + STR + your Spell Ability** Bludgeoning, Piercing, or Slashing Damage |
+| Damage | **1d8 + STR + your Spellcasting Ability** Bludgeoning, Piercing, or Slashing Damage |
 | Effect | Before this Attack deals damage, if the companion moved at least **20** feet in a straight line towards the target, add **1d6** damage.  After dealing this damage, if the target is no more than **1** Size Category larger, the companion knocks it Prone. |

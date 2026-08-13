@@ -16,7 +16,7 @@ Medium Elemental, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Primordial; Understands and speaks the Languages you know |
+| Languages | Primordial; Understands the Languages you know |
 | Senses | Darkvision (60 ft.) |
 | Speed | 40 ft., Hover 40 ft. |
 | Reach | 5 ft. |

@@ -1,4 +1,4 @@
-0-9 · [A](#a) · [B](#b) · [C](#c) · D · [E](#e) · [F](#f) · [G](#g) · H · I · J · K · L · M · N · [O](#o) · [P](#p) · Q · R · S · T · [U](#u) · V · W · X · Y · Z
+0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · H · I · J · K · L · M · N · [O](#o) · [P](#p) · Q · R · S · T · [U](#u) · V · W · X · Y · Z
 { .keyword-jump }
 
 ## A
@@ -7,6 +7,7 @@
 |---|---|---|
 --8<-- "_generated/bestiary/summon/aberrant-spirit_row.md"
 --8<-- "_generated/bestiary/summon/animated-assistant_row.md"
+--8<-- "_generated/bestiary/summon/animated-object_row.md"
 --8<-- "_generated/bestiary/summon/animated-servant_row.md"
 
 ## B
@@ -19,7 +20,14 @@
 
 | Summon | Variants | Source |
 |---|---|---|
+--8<-- "_generated/bestiary/summon/celestial-spirit_row.md"
 --8<-- "_generated/bestiary/summon/construct-spirit_row.md"
+
+## D
+
+| Summon | Variants | Source |
+|---|---|---|
+--8<-- "_generated/bestiary/summon/draconic-spirit_row.md"
 
 ## E
 
@@ -32,6 +40,7 @@
 | Summon | Variants | Source |
 |---|---|---|
 --8<-- "_generated/bestiary/summon/fey-spirit_row.md"
+--8<-- "_generated/bestiary/summon/fiendish-spirit_row.md"
 
 ## G
 

@@ -1,0 +1,1 @@
+| [Animated Object](/bestiary/summon/animated-object.md) | [Medium or Smaller](/bestiary/summon/animated-object.md#animated-object-medium-or-smaller), [Large](/bestiary/summon/animated-object.md#animated-object-large), [Huge](/bestiary/summon/animated-object.md#animated-object-huge) | [Animate Objects](/spell/level/3/animate-objects.md) |

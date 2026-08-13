@@ -23,7 +23,7 @@ Small Beast, Neutral
 
 | Features | |
 |---|---|
-| Flyby | The spirit's movement doesn't trigger opportunity attacks. |
+| Flyby | The spirit's movement doesn't trigger Opportunity Attacks. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions

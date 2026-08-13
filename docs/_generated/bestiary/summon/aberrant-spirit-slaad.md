@@ -32,4 +32,4 @@ Medium Aberration, Neutral
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
 | Damage | **1d10 + STR + Spell Level** Slashing Damage |
-| Effect | After this attack deals Damage, the target target can't heal until the start of the spirit's next Turn. |
+| Effect | After this attack deals damage, the target can't heal until the start of the spirit's next Turn. |

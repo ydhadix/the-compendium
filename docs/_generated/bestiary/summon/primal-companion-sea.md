@@ -16,7 +16,7 @@ Medium Beast, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands the languages you know, but can't speak |
+| Languages | Understands the Languages you know, but can't speak |
 | Senses | Darkvision 90 ft. |
 | Speed | 5 ft., Swim 60 ft. |
 | Reach | 5 ft. |
@@ -26,5 +26,5 @@ Medium Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
-| Damage | **1d6 + STR + your Spell Ability** Bludgeoning, Piercing, or Slashing Damage |
-| Effect | After this Attack hits, the companion grapples the target.  The companion's Checks to prevent the target from escaping increase by **Spell Ability**. |
+| Damage | **1d6 + STR + your Spellcasting Ability** Bludgeoning, Piercing, or Slashing Damage |
+| Effect | After this Attack hits, the companion grapples the target.  The companion's Checks to prevent the target from escaping increase by **Spellcasting Ability**. |

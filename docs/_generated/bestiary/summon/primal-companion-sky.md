@@ -16,7 +16,7 @@ Small Beast, Neutral
 
 | Traits | |
 |---|---|
-| Languages | Understands the languages you know, but can't speak |
+| Languages | Understands the Languages you know, but can't speak |
 | Senses | Darkvision 60 ft. |
 | Speed | 10 ft., Fly 60 ft. |
 | Reach | 5 ft. |
@@ -30,4 +30,4 @@ Small Beast, Neutral
 |---|---|
 | Range | Reach |
 | Attack | **+your Spell Attack** to hit |
-| Damage | **1d4 + DEX + your Spell Ability** Bludgeoning, Piercing, or Slashing Damage |
+| Damage | **1d4 + DEX + your Spellcasting Ability** Bludgeoning, Piercing, or Slashing Damage |
