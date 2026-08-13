@@ -1,4 +1,4 @@
-Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · 6th
+Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · [6th](#6th-level)
 { .keyword-jump }
 
 - Components with `($)` require valuable components. Components with `($C)` consume those components.
@@ -126,3 +126,19 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/5/raise-dead_row.md"
 --8<-- "_generated/spell/level/5/scrying_row.md"
 --8<-- "_generated/spell/level/5/summon-celestial_row.md"
+
+## 6th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+--8<-- "_generated/spell/level/6/blade-barrier_row.md"
+--8<-- "_generated/spell/level/6/create-undead_row.md"
+--8<-- "_generated/spell/level/6/find-the-path_row.md"
+--8<-- "_generated/spell/level/6/forbiddance_row.md"
+--8<-- "_generated/spell/level/6/harm_row.md"
+--8<-- "_generated/spell/level/6/heal_row.md"
+--8<-- "_generated/spell/level/6/heroes-feast_row.md"
+--8<-- "_generated/spell/level/6/planar-ally_row.md"
+--8<-- "_generated/spell/level/6/sunbeam_row.md"
+--8<-- "_generated/spell/level/6/true-seeing_row.md"
+--8<-- "_generated/spell/level/6/word-of-recall_row.md"

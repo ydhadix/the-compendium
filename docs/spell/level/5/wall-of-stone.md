@@ -12,9 +12,9 @@
 | Duration | 10 minutes (Concentration) |
 
 ##### Spell Effect
-You create a nonmagical wall of solid stone, in any shape, formed of ten contiguous **10**-foot-by-**10**-foot panels **6** inches thick, or **10**-foot-by-**20**-foot panels **3** inches thick.
+You create a nonmagical wall of solid stone, in any shape, formed of **10** contiguous **10**-foot-by-**10**-foot panels **6** inches thick, or **10**-foot-by-**20**-foot panels **3** inches thick.
 
-The wall must merge with and be supported by existing stone.  A creature in the wall's space when it appears is moved to one side of your choice.
+The wall must merge with and be supported by existing stone.  Before the wall appears, you propel everything in the wall's space to one side of the wall.
 
 If a creature would be fully enclosed by the wall, it makes a Reflex Save;  on a success, it can use its Reaction to move up to its Speed to escape the enclosure.
 

@@ -1,0 +1,1 @@
+| [Planar Ally](/spell/level/6/planar-ally.md) | Conjuration | V, S | 10 minutes | 60 ft. | — | — |

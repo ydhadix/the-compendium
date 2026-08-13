@@ -1,0 +1,1 @@
+| [Flesh to Stone](/spell/level/6/flesh-to-stone.md) | Transmutation | V, S, M | Magic Action | 60 ft. | One non-Construct creature | 1 minute (C) |

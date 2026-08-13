@@ -203,7 +203,7 @@ nav:
         - 3rd-Level:                spell/level/3/index.md
         - 4th-Level:                spell/level/4/index.md
         - 5th-Level:                spell/level/5/index.md
-        - 6th-Level (WIP):                spell/level/6/index.md
+        - 6th-Level:                spell/level/6/index.md
       - Spells by Class:
         - Overview:                 spell/class/index.md
         - Artificer:                spell/class/artificer.md

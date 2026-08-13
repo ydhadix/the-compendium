@@ -1,0 +1,1 @@
+| [Circle of Death](/spell/level/6/circle-of-death.md) | Necromancy | V, S, M ($) | Magic Action | 150 ft. | Each creature in a 60-ft. radius Sphere | — |

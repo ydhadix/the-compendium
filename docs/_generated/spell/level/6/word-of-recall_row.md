@@ -1,0 +1,1 @@
+| [Word of Recall](/spell/level/6/word-of-recall.md) | Conjuration | V | Magic Action | 5 ft. | You and up to 5 Allies | — |

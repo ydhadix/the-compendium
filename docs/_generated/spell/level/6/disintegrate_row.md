@@ -1,0 +1,1 @@
+| [Disintegrate](/spell/level/6/disintegrate.md) | Transmutation | V, S, M | Magic Action | 60 ft. | One creature, nonmagical object, or creation of magical force | — |

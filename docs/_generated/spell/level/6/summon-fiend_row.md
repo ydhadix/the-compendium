@@ -1,0 +1,1 @@
+| [Summon Fiend](/spell/level/6/summon-fiend.md) | Conjuration | V, S, M ($) | Magic Action | 90 ft. | — | 1 hour (C) |

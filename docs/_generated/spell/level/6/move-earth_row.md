@@ -1,0 +1,1 @@
+| [Move Earth](/spell/level/6/move-earth.md) | Transmutation | V, S, M | Magic Action | 120 ft. | A 5- to 40-ft. Square | 2 hours (C) |

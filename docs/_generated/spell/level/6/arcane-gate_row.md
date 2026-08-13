@@ -1,0 +1,1 @@
+| [Arcane Gate](/spell/level/6/arcane-gate.md) | Conjuration | V, S | Magic Action | 500 ft. | — | 10 minutes (C) |

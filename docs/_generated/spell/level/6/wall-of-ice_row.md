@@ -1,0 +1,1 @@
+| [Wall of Ice](/spell/level/6/wall-of-ice.md) | Evocation | V, S, M | Magic Action | 120 ft. | — | 10 minutes (C) |

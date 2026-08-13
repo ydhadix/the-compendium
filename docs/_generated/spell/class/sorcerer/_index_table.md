@@ -1,4 +1,4 @@
-Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · 6th
+Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · [6th](#6th-level)
 { .keyword-jump }
 
 - Components with `($)` require valuable components. Components with `($C)` consume those components.
@@ -192,3 +192,20 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/5/telekinesis_row.md"
 --8<-- "_generated/spell/level/5/teleportation-circle_row.md"
 --8<-- "_generated/spell/level/5/wall-of-stone_row.md"
+
+## 6th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+--8<-- "_generated/spell/level/6/arcane-gate_row.md"
+--8<-- "_generated/spell/level/6/chain-lightning_row.md"
+--8<-- "_generated/spell/level/6/circle-of-death_row.md"
+--8<-- "_generated/spell/level/6/disintegrate_row.md"
+--8<-- "_generated/spell/level/6/eyebite_row.md"
+--8<-- "_generated/spell/level/6/flesh-to-stone_row.md"
+--8<-- "_generated/spell/level/6/freezing-sphere_row.md"
+--8<-- "_generated/spell/level/6/globe-of-invulnerability_row.md"
+--8<-- "_generated/spell/level/6/mass-suggestion_row.md"
+--8<-- "_generated/spell/level/6/move-earth_row.md"
+--8<-- "_generated/spell/level/6/sunbeam_row.md"
+--8<-- "_generated/spell/level/6/true-seeing_row.md"

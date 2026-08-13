@@ -1,0 +1,1 @@
+| [Mass Suggestion](/spell/level/6/mass-suggestion.md) | Enchantment | V, M | Magic Action | 60 ft. | up to 12 creatures who understand you | 24 hours |

@@ -1,0 +1,1 @@
+| [Bubbling Cauldron](/spell/level/6/bubbling-cauldron.md) | Conjuration | V, S, M ($) | Magic Action | 5 ft. | — | 10 minutes |

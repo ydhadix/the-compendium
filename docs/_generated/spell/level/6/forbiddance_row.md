@@ -1,0 +1,1 @@
+| [Forbiddance](/spell/level/6/forbiddance.md) | Abjuration | V, S, M ($) | 10 minutes (R) | Reach | A 5- to 200-ft. Cube | 24 hours |

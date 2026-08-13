@@ -1,0 +1,1 @@
+| [Wind Walk](/spell/level/6/wind-walk.md) | Transmutation | V, S, M | 1 minute | 30 ft. | You and up to 10 Allies | 8 hours |

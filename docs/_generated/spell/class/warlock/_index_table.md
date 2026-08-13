@@ -1,4 +1,4 @@
-Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · 6th
+Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · [6th](#6th-level)
 { .keyword-jump }
 
 - Components with `($)` require valuable components. Components with `($C)` consume those components.
@@ -122,3 +122,15 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/5/storm-of-radiance_row.md"
 --8<-- "_generated/spell/level/5/synaptic-static_row.md"
 --8<-- "_generated/spell/level/5/teleportation-circle_row.md"
+
+## 6th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+--8<-- "_generated/spell/level/6/arcane-gate_row.md"
+--8<-- "_generated/spell/level/6/bubbling-cauldron_row.md"
+--8<-- "_generated/spell/level/6/circle-of-death_row.md"
+--8<-- "_generated/spell/level/6/create-undead_row.md"
+--8<-- "_generated/spell/level/6/eyebite_row.md"
+--8<-- "_generated/spell/level/6/summon-fiend_row.md"
+--8<-- "_generated/spell/level/6/true-seeing_row.md"

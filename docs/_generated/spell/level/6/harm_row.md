@@ -1,0 +1,1 @@
+| [Harm](/spell/level/6/harm.md) | Necromancy | V, S | Magic Action | 60 ft. | One creature | — |

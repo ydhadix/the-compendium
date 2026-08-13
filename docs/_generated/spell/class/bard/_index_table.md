@@ -1,4 +1,4 @@
-Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · 6th
+Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · [6th](#6th-level)
 { .keyword-jump }
 
 - Components with `($)` require valuable components. Components with `($C)` consume those components.
@@ -159,3 +159,16 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/5/synaptic-static_row.md"
 --8<-- "_generated/spell/level/5/telepathic-bond_row.md"
 --8<-- "_generated/spell/level/5/teleportation-circle_row.md"
+
+## 6th-Level
+
+| Spell | School | Components | Cast Time | Range | Target | Duration |
+|---|---|---|---|---|---|---|
+--8<-- "_generated/spell/level/6/eyebite_row.md"
+--8<-- "_generated/spell/level/6/find-the-path_row.md"
+--8<-- "_generated/spell/level/6/guards-and-wards_row.md"
+--8<-- "_generated/spell/level/6/heroes-feast_row.md"
+--8<-- "_generated/spell/level/6/irresistible-dance_row.md"
+--8<-- "_generated/spell/level/6/mass-suggestion_row.md"
+--8<-- "_generated/spell/level/6/programmed-illusion_row.md"
+--8<-- "_generated/spell/level/6/true-seeing_row.md"

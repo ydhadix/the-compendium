@@ -1,0 +1,1 @@
+| [Find the Path](/spell/level/6/find-the-path.md) | Divination | V, S, M ($) | 1 minute | — | Self | 24 hours (C) |
