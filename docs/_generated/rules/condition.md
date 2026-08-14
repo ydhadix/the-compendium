@@ -1,5 +1,7 @@
 --8<-- "rules/_condition/anchored.md"
 
+--8<-- "rules/_condition/asleep.md"
+
 --8<-- "rules/_condition/bleeding.md"
 
 --8<-- "rules/_condition/blinded.md"

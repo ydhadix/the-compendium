@@ -20,7 +20,7 @@ Elf and dark elf characters can be named with the [elven name generator](/charac
 You gain Insight, Perception, or Survival Proficiency.
 
 ### Trance
-You don't need to sleep, and magic can't put you to sleep.
+You don't need to sleep, and you gain Sleep Immunity.
 
 You can finish a Long Rest in **4** hours if you spend those hours in a trancelike meditation. You remain conscious.
 

@@ -1,0 +1,1 @@
+| [Owlbear](/bestiary/level/6/owlbear.md) | 6 | Monstrosity |

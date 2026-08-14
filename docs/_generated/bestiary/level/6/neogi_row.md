@@ -1,0 +1,1 @@
+| [Neogi](/bestiary/level/6/neogi.md) | 6 | Aberration |

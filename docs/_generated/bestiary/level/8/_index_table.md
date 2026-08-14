@@ -1,4 +1,4 @@
-0-9 · [A](#a) · [B](#b) · C · D · [E](#e) · [F](#f) · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · U · V · [W](#w) · X · Y · Z
+0-9 · [A](#a) · [B](#b) · C · D · [E](#e) · [F](#f) · G · H · I · J · K · L · M · N · O · P · Q · R · S · T · [U](#u) · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
 ## A
@@ -24,6 +24,12 @@
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/fire-elemental_row.md"
+
+## U
+
+| Creature | Level | Type |
+|---|---|---|
+--8<-- "_generated/bestiary/level/8/umber-hulk_row.md"
 
 ## W
 

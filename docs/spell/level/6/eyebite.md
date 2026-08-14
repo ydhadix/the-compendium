@@ -21,7 +21,7 @@ Your eyes become an inky void for the duration.  The target makes a Will Save.
 
 | | |
 |---|---|
-| Asleep | You knock the target Unconscious.  This effect ends if the target takes damage or a creature with the target within its Reach Utilizes to shake it awake. |
+| Asleep | You put the target to Sleep. |
 | Panicked | You frighten the target.  While Frightened by you, it must Dash away from you by the safest route while it is its Turn.  This effect ends after the target ends its Turn at least **60** feet from you where it can't see you. |
 | Sickened | You sicken the target. |
 

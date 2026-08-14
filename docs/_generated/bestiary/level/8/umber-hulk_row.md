@@ -1,0 +1,1 @@
+| [Umber Hulk](/bestiary/level/8/umber-hulk.md) | 8 | Monstrosity |

@@ -1,0 +1,1 @@
+| [Gray Render](/bestiary/level/15/gray-render.md) | 15 | Monstrosity |

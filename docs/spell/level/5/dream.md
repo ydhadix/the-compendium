@@ -14,7 +14,7 @@
 ##### Spell Effect
 You, or an Ally within Reach, becomes a dream messenger, entering a trance in which it is Incapacitated and Immobile.
 
-While the target sleeps, the messenger appears in its dreams, can converse with it, and can shape the dream's environment.  The target recalls the dream on waking.
+While the target is asleep, the messenger appears in its dreams, can converse with it, and can shape the dream's environment.  The target recalls the dream on waking.
 
 The messenger can end this Spell at any time _(no action required)_.
 

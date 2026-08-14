@@ -23,10 +23,8 @@ Before the target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|
-| Fail | You knock the target Unconscious. |
+| Fail | You put the target to Sleep. |
 | Success | This effect ends on the target. |
-
-This effect also ends on a target if it takes damage or a creature with the target within its Reach Utilizes to shake it awake.
 
 ##### At Higher Levels
 Add **5** feet to the radius per additional Spell Level.
