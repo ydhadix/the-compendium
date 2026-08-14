@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
-| Target | One CR 0 Beast |
+| Target | One Level 0 Beast |
 | Duration | 24 hours |
 
 ##### Spell Effect

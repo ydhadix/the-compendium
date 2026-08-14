@@ -45,7 +45,7 @@ You throw an unlinked ball at a Beast or Monstrosity within **30** feet.  The ta
 | Success | No effect. |
 
 ###### Capture Saves
-- A Capture Save adds the creature's Challenge Rating to the total instead of an Ability or Proficiency Bonus.
+- A Capture Save adds the creature's Level to the total instead of an Ability or Proficiency Bonus.
 - The creature automatically succeeds unless it is Incapacitated, Downed, Stabilized, or an Ally.
 - The Capture Save gains Advantage if the creature has more than **0** Hit Points.
 
