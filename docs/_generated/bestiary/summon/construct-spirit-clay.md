@@ -35,6 +35,6 @@ Medium Construct, Neutral
 | Attack | **+Spell Attack** to hit |
 | Damage | **1d8 + 7** Bludgeoning Damage _[1d8 + STR + Spell Level]_ |
 
-| Berserk Lashing | Reaction, after the spirit takes damage |
+| Reactions | |
 |---|---|
-| | The spirit makes a Slam Attack against the source of the damage.  If it can't, the spirit moves up to half its Speed toward that source without provoking Opportunity Attacks. |
+| Berserk Lashing | After the spirit takes damage, it makes a Slam Attack against the source of the damage.  If it can't, it moves up to half its Speed toward that source without provoking Opportunity Attacks. |

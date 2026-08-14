@@ -1,0 +1,1 @@
+| [Giant Shark](/bestiary/level/8/giant-shark.md) | 8 | Beast |

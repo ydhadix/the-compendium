@@ -1,0 +1,1 @@
+| [Octopus](/bestiary/level/0/octopus.md) | 0 | Beast |

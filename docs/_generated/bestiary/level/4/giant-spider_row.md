@@ -1,0 +1,1 @@
+| [Giant Spider](/bestiary/level/4/giant-spider.md) | 4 | Beast |

@@ -1,0 +1,1 @@
+| [Saber-Toothed Tiger](/bestiary/level/5/saber-toothed-tiger.md) | 5 | Beast |

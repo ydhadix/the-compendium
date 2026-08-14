@@ -1,0 +1,1 @@
+| [Triceratops](/bestiary/level/8/triceratops.md) | 8 | Beast |

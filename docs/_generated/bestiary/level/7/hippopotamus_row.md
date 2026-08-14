@@ -1,0 +1,1 @@
+| [Hippopotamus](/bestiary/level/7/hippopotamus.md) | 7 | Beast |

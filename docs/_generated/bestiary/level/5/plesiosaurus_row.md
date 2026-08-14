@@ -1,0 +1,1 @@
+| [Plesiosaurus](/bestiary/level/5/plesiosaurus.md) | 5 | Beast |

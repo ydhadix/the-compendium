@@ -1,0 +1,1 @@
+| [Blood Hawk](/bestiary/level/1/blood-hawk.md) | 1 | Beast |

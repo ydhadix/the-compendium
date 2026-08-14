@@ -1,0 +1,1 @@
+| [Vulture](/bestiary/level/0/vulture.md) | 0 | Beast |

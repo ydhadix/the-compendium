@@ -1,0 +1,1 @@
+| [Giant Seahorse](/bestiary/level/3/giant-seahorse.md) | 3 | Beast |

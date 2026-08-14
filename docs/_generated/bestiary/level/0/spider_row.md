@@ -1,0 +1,1 @@
+| [Spider](/bestiary/level/0/spider.md) | 0 | Beast |

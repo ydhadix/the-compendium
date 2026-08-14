@@ -17,7 +17,7 @@ A **Swarm** is a group of many Tiny or Small creatures treated as a single creat
 - Its Strength increases by **2**.
 - Its Hit Die increases one step _(along d4, d6, d8, d10, d12, d20)_.
 - Its Level is set by the effect that produces it, and its Hit Dice, Hit Points, Armor Class, and Attack Roll follow from that Level as normal.
-- It makes a single attack that deals its member's damage dice for each Level of the Swarm _(the attack's Ability is only added once)_.
+- It makes a single attack that deals its member's damage dice for each Level of the Swarm, to a minimum of **1d4** per Level _(the attack's Ability is only added once)_.
 - It deals half damage while Bloodied.
 - It can occupy another creature's space and vice versa, and it can move through any opening large enough for one of its members.
 - It can't regain Hit Points or gain Temporary Hit Points.

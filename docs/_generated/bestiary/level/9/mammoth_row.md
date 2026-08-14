@@ -1,0 +1,1 @@
+| [Mammoth](/bestiary/level/9/mammoth.md) | 9 | Beast |

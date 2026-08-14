@@ -1,0 +1,1 @@
+| [Crocodile](/bestiary/level/3/crocodile.md) | 3 | Beast |

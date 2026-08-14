@@ -1,0 +1,1 @@
+| [Crab](/bestiary/level/0/crab.md) | 0 | Beast |

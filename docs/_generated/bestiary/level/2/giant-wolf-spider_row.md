@@ -1,0 +1,1 @@
+| [Giant Wolf Spider](/bestiary/level/2/giant-wolf-spider.md) | 2 | Beast |

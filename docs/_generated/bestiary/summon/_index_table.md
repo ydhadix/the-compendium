@@ -47,6 +47,7 @@
 | Summon | Variants | Source |
 |---|---|---|
 --8<-- "_generated/bestiary/summon/giant-insect_row.md"
+--8<-- "_generated/bestiary/summon/gray-render-companion_row.md"
 
 ## O
 

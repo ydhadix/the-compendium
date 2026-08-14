@@ -1,0 +1,1 @@
+| [Hyena](/bestiary/level/0/hyena.md) | 0 | Beast |

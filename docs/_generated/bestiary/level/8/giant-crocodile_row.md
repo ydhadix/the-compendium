@@ -1,0 +1,1 @@
+| [Giant Crocodile](/bestiary/level/8/giant-crocodile.md) | 8 | Beast |

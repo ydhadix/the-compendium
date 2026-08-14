@@ -1,0 +1,1 @@
+| [Almiraj](/bestiary/level/0/almiraj.md) | 0 | Monstrosity |

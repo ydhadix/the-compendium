@@ -1,0 +1,1 @@
+| [Giant Squid](/bestiary/level/9/giant-squid.md) | 9 | Beast |

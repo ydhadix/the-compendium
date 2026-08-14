@@ -1,0 +1,1 @@
+| [Killer Whale](/bestiary/level/6/killer-whale.md) | 6 | Beast |

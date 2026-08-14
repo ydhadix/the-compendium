@@ -1,0 +1,1 @@
+| [Tressym](/bestiary/level/0/tressym.md) | 0 | Monstrosity |

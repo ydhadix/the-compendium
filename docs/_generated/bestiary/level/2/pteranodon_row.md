@@ -1,0 +1,1 @@
+| [Pteranodon](/bestiary/level/2/pteranodon.md) | 2 | Beast |

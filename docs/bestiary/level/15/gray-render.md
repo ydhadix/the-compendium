@@ -48,6 +48,6 @@ Large Monstrosity, Chaotic Neutral
 | Attack | **+9** to hit _[STR + PB]_ |
 | Damage | **2d8 + 4** Slashing Damage _[2d8 + STR]_, and an additional **3d6** Bludgeoning Damage if the target is Prone |
 
-| Bloody Rampage | Reaction, after the gray render takes damage |
+| Reactions | |
 |---|---|
-| | The gray render makes one Claw attack against a random creature within its Reach, other than its master. |
+| Bloody Rampage | After the gray render takes damage, it makes one Claw attack against a random creature within its Reach, other than its master. |

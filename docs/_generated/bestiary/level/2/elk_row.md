@@ -1,0 +1,1 @@
+| [Elk](/bestiary/level/2/elk.md) | 2 | Beast |

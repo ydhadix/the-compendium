@@ -1,0 +1,1 @@
+| [Piranha](/bestiary/level/0/piranha.md) | 0 | Beast |

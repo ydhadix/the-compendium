@@ -1,0 +1,1 @@
+| [Giant Crab](/bestiary/level/1/giant-crab.md) | 1 | Beast |

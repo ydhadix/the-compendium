@@ -1,0 +1,1 @@
+| [Pony](/bestiary/level/1/pony.md) | 1 | Beast |

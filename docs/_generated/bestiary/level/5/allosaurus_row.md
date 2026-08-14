@@ -1,0 +1,1 @@
+| [Allosaurus](/bestiary/level/5/allosaurus.md) | 5 | Beast |

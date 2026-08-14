@@ -29,6 +29,6 @@ Medium Plant, Unaligned
 | Proficiency Bonus | +2 |
 
 #### Actions
-| Shriek | Reaction, after a creature or a source of Bright Light moves within **30** feet |
+| Reactions | |
 |---|---|
-| | The shrieker emits a shriek audible out to **300** feet for **1** minute or until it dies. |
+| Shriek | After a creature or a source of Bright Light moves within **30** feet, the shrieker emits a shriek audible out to **300** feet for **1** minute or until it dies. |

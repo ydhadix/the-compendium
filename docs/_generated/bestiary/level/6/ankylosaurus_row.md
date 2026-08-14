@@ -1,0 +1,1 @@
+| [Ankylosaurus](/bestiary/level/6/ankylosaurus.md) | 6 | Beast |

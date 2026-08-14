@@ -1,0 +1,1 @@
+| [Giant Frog](/bestiary/level/2/giant-frog.md) | 2 | Beast |

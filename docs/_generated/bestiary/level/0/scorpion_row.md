@@ -1,0 +1,1 @@
+| [Scorpion](/bestiary/level/0/scorpion.md) | 0 | Beast |

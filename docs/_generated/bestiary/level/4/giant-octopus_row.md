@@ -1,0 +1,1 @@
+| [Giant Octopus](/bestiary/level/4/giant-octopus.md) | 4 | Beast |

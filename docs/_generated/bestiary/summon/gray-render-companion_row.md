@@ -1,0 +1,1 @@
+| [Gray Render Companion](/bestiary/summon/gray-render-companion.md) | — | [Belt of Pocket Monsters](/item/magic/rarity/legendary/belt-of-pocket-monsters.md) |

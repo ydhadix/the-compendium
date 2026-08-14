@@ -30,3 +30,7 @@ Medium Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[DEX + PB]_ |
 | Damage | **1d6 + 3** Slashing Damage _[1d6 + DEX]_ |
+
+| Bonus Actions | |
+|---|---|
+| Nimble Escape | The panther Disengages or Hides. |

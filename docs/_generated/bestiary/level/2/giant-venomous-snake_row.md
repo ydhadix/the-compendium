@@ -1,0 +1,1 @@
+| [Giant Venomous Snake](/bestiary/level/2/giant-venomous-snake.md) | 2 | Beast |

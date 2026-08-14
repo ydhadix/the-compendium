@@ -1,0 +1,1 @@
+| [Reef Shark](/bestiary/level/3/reef-shark.md) | 3 | Beast |

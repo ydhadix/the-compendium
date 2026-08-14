@@ -1,0 +1,1 @@
+| [Draft Horse](/bestiary/level/2/draft-horse.md) | 2 | Beast |

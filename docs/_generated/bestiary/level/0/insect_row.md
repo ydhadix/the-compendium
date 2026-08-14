@@ -1,0 +1,1 @@
+| [Insect](/bestiary/level/0/insect.md) | 0 | Beast |

@@ -1,0 +1,1 @@
+| [Deer](/bestiary/level/0/deer.md) | 0 | Beast |

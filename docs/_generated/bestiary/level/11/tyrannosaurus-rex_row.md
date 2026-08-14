@@ -1,0 +1,1 @@
+| [Tyrannosaurus Rex](/bestiary/level/11/tyrannosaurus-rex.md) | 11 | Beast |

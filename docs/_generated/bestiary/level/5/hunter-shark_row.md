@@ -1,0 +1,1 @@
+| [Hunter Shark](/bestiary/level/5/hunter-shark.md) | 5 | Beast |

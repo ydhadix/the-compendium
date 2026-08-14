@@ -1,0 +1,1 @@
+| [Giant Fire Beetle](/bestiary/level/0/giant-fire-beetle.md) | 0 | Beast |

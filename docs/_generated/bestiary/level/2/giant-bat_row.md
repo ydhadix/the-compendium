@@ -1,0 +1,1 @@
+| [Giant Bat](/bestiary/level/2/giant-bat.md) | 2 | Beast |

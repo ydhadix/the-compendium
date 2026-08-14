@@ -1,0 +1,1 @@
+| [Giant Ape](/bestiary/level/10/giant-ape.md) | 10 | Beast |

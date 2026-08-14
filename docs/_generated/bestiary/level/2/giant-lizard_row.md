@@ -1,0 +1,1 @@
+| [Giant Lizard](/bestiary/level/2/giant-lizard.md) | 2 | Beast |

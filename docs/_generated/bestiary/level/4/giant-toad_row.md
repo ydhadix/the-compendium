@@ -1,0 +1,1 @@
+| [Giant Toad](/bestiary/level/4/giant-toad.md) | 4 | Beast |

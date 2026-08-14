@@ -1,0 +1,1 @@
+| [Wolf](/bestiary/level/2/wolf.md) | 2 | Beast |

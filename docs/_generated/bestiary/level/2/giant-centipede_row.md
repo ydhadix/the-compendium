@@ -1,0 +1,1 @@
+| [Giant Centipede](/bestiary/level/2/giant-centipede.md) | 2 | Beast |

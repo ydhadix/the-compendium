@@ -30,3 +30,7 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[STR + PB]_ |
 | Damage | **2d6 + 3** Piercing Damage _[2d6 + STR]_ |
+
+| Bonus Actions | |
+|---|---|
+| Rampage | **1 use per Long Rest:** After the hyena deals damage to a Bloodied creature, it moves up to half its Speed and makes one Bite attack. |

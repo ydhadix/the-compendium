@@ -1,0 +1,1 @@
+| [Seahorse](/bestiary/level/0/seahorse.md) | 0 | Beast |

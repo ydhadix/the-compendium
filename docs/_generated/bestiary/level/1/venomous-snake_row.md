@@ -1,0 +1,1 @@
+| [Venomous Snake](/bestiary/level/1/venomous-snake.md) | 1 | Beast |

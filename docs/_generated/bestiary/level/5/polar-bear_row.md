@@ -1,0 +1,1 @@
+| [Polar Bear](/bestiary/level/5/polar-bear.md) | 5 | Beast |

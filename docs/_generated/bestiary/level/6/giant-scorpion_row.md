@@ -1,0 +1,1 @@
+| [Giant Scorpion](/bestiary/level/6/giant-scorpion.md) | 6 | Beast |
