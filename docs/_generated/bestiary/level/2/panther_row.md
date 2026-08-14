@@ -1,0 +1,1 @@
+| [Panther](/bestiary/level/2/panther.md) | 2 | Beast |

@@ -7,7 +7,7 @@ Large Celestial, Neutral
 | HP | **65** _[(10 + CON) × Spell Level]_ |
 | Hit Dice | 1d10 per Spell Level |
 | AC | **16 + PB** _[9 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Resistance | Radiant |
 | Condition Immunity | Charm, Fear |
 

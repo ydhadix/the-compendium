@@ -6,8 +6,8 @@ Medium Undead, Neutral
 |---|---|
 | HP | **30** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
-| AC | **17 + PB** _[11 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| AC | **16 + PB** _[10 + DEX + Spell Level + PB]_ |
+| Armor | Natural (Light) |
 | Immunity | Necrotic, Poison |
 | Condition Immunity | Exhaustion, Fear, Sickness, Paralysis |
 

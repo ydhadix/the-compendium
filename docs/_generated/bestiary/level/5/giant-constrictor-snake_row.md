@@ -1,0 +1,1 @@
+| [Giant Constrictor Snake](/bestiary/level/5/giant-constrictor-snake.md) | 5 | Beast |

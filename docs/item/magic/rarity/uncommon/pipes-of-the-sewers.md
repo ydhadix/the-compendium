@@ -11,7 +11,7 @@ Rats are never your Enemy unless you harm them.
 Magic Action, 1–3 Charges
 { .subtitle }
 
-You can play the pipes, calling forth one Swarm of Rats per Charge expended, provided enough rats are within half a mile _(a wasted Charge otherwise)_. A called swarm moves toward the music by the shortest route but isn't otherwise under your control.
+You can play the pipes, calling forth one Level 2 Swarm of Rats per Charge expended, provided enough rats are within half a mile _(a wasted Charge otherwise)_. A called swarm moves toward the music by the shortest route but isn't otherwise under your control.
 
 After a Swarm of Rats not under another creature's control comes within **30** feet while you play, it makes a Will Save _(DC **13**)_.
 

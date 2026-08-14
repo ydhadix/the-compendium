@@ -1,0 +1,1 @@
+| [Owl](/bestiary/level/0/owl.md) | 0 | Beast |

@@ -7,7 +7,8 @@ Huge Construct, Unaligned
 | HP | **40** |
 | Hit Dice | 1d12 per Spell Level |
 | AC | **12 + PB** _[12 + DEX + PB]_ |
-| Armor | Natural |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 | Immunity | Poison, Psychic |
 | Condition Immunity | Blindness, Charm, Deafness, Exhaustion, Fear, Sickness, Paralysis, Petrification |
 

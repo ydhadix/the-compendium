@@ -1,0 +1,1 @@
+| [Giant Wasp](/bestiary/level/3/giant-wasp.md) | 3 | Beast |

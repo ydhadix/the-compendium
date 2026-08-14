@@ -1,0 +1,1 @@
+| [Griffon](/bestiary/level/5/griffon.md) | 5 | Monstrosity |

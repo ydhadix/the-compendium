@@ -1,0 +1,1 @@
+| [Air Elemental](/bestiary/level/8/air-elemental.md) | 8 | Elemental |

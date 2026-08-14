@@ -15,8 +15,9 @@ Large Beast, Unaligned
 |---|---|
 | HP | **40** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
-| AC | **16 + PB** _[11 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| AC | **17 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
@@ -54,8 +55,9 @@ Large Beast, Unaligned
 |---|---|
 | HP | **40** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
-| AC | **16 + PB** _[11 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| AC | **17 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
@@ -96,8 +98,9 @@ Large Beast, Unaligned
 |---|---|
 | HP | **40** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
-| AC | **16 + PB** _[11 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| AC | **17 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|

@@ -1,0 +1,1 @@
+| [Bat](/bestiary/level/0/bat.md) | 0 | Beast |

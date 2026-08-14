@@ -1,0 +1,1 @@
+| [Giant Owl](/bestiary/level/2/giant-owl.md) | 2 | Celestial |

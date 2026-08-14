@@ -7,7 +7,7 @@ Tiny Construct, Unaligned
 | HP | **10** |
 | Hit Dice | 1d4 per Spell Level |
 | AC | **13 + PB** _[10 + DEX + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Immunity | Poison, Psychic |
 | Condition Immunity | Blindness, Charm, Deafness, Exhaustion, Fear, Sickness, Paralysis, Petrification |
 

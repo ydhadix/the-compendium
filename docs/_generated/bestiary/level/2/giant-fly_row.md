@@ -1,0 +1,1 @@
+| [Giant Fly](/bestiary/level/2/giant-fly.md) | 2 | Beast |

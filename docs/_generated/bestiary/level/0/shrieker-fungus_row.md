@@ -1,0 +1,1 @@
+| [Shrieker Fungus](/bestiary/level/0/shrieker-fungus.md) | 0 | Plant |

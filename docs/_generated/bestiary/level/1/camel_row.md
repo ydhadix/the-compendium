@@ -1,0 +1,1 @@
+| [Camel](/bestiary/level/1/camel.md) | 1 | Beast |

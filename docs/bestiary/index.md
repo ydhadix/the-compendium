@@ -3,6 +3,27 @@
 ## Features
 **Features** are the special techniques and effects a creature uses to interact with the world and defend themselves in combat.
 
+### Recharge
+A **Recharge** effect lists a die result alongside its cost, such as `Recharge 5–6`. Using the effect expends it, and it can't be used again until it recharges.
+
+After the user's Turn ends while the effect is expended, they roll **1d6**. On a result within the listed range, the effect recharges and can be used again. It also recharges after a Short Rest.
+
+Rolling at the end of a Turn means a recharged effect is available for the whole of the next Round, so everyone can see it coming and has time to respond.
+
+### Swarm
+A **Swarm** is a group of many Tiny or Small creatures treated as a single creature, and it uses its member's stat block with the following changes:
+
+- Its Size is Medium, or Large if its members fly.
+- Its Strength increases by **2**.
+- Its Hit Die increases one step _(along d4, d6, d8, d10, d12, d20)_.
+- Its Level is set by the effect that produces it, and its Hit Dice, Hit Points, Armor Class, and Attack Roll follow from that Level as normal.
+- It makes a single attack that deals its member's damage dice for each Level of the Swarm _(the attack's Ability is only added once)_.
+- It deals half damage while Bloodied.
+- It can occupy another creature's space and vice versa, and it can move through any opening large enough for one of its members.
+- It can't regain Hit Points or gain Temporary Hit Points.
+- It gains Bludgeoning, Piercing, and Slashing Resistance.
+- It gains Charm, Fear, Grapple, Paralysis, Petrification, Prone, Restraint, and Stun Immunity.
+
 ## Traits
 **Traits** are the measurable facts that define a creature on a stat block or character sheet.
 
@@ -66,6 +87,18 @@ A creature's **Reach** is how far it can manipulate objects and use any item, we
 | Sylvan | Fey |
 | Thieves' Cant | Rogues |
 | Undercommon | Underdark citizens |
+
+###### Primordial Dialects
+**Primordial** is spoken in four dialects, one for each of the primary elements.
+
+| Dialect | Typical Speakers |
+|---|---|
+| Aquan | creatures of water |
+| Auran | creatures of air |
+| Ignan | creatures of fire |
+| Terran | creatures of earth |
+
+The dialects share a common root, and a speaker of any one of them understands the other three. Which dialect a creature speaks says nothing about who it can talk to, but a great deal about where it came from.
 
 #### Other Languages
 Other Languages exist, but knowledge of them is rare outside their native speakers.  Your background or experiences during an adventure may let you learn them.

@@ -1,0 +1,1 @@
+| [Bulette](/bestiary/level/8/bulette.md) | 8 | Monstrosity |

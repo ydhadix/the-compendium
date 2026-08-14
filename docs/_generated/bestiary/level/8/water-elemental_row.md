@@ -1,0 +1,1 @@
+| [Water Elemental](/bestiary/level/8/water-elemental.md) | 8 | Elemental |

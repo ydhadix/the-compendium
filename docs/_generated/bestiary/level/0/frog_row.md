@@ -1,0 +1,1 @@
+| [Frog](/bestiary/level/0/frog.md) | 0 | Beast |

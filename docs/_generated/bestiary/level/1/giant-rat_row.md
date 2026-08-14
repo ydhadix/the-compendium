@@ -1,0 +1,1 @@
+| [Giant Rat](/bestiary/level/1/giant-rat.md) | 1 | Beast |

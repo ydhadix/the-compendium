@@ -1,0 +1,1 @@
+| [Mule](/bestiary/level/1/mule.md) | 1 | Beast |

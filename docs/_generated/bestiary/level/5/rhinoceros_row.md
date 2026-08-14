@@ -1,0 +1,1 @@
+| [Rhinoceros](/bestiary/level/5/rhinoceros.md) | 5 | Beast |

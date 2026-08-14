@@ -1,0 +1,1 @@
+| [Ghast](/bestiary/level/5/ghast.md) | 5 | Undead |

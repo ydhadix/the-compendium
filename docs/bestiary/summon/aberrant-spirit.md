@@ -16,7 +16,7 @@ Medium Aberration, Neutral
 | HP | **40** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
 | AC | **14 + PB** _[10 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Immunity | Psychic |
 
 | Abilities | | | | | |
@@ -52,7 +52,7 @@ Medium Aberration, Neutral
 | HP | **40** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
 | AC | **14 + PB** _[10 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Immunity | Psychic |
 
 | Abilities | | | | | |
@@ -89,7 +89,7 @@ Medium Aberration, Neutral
 | HP | **40** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
 | AC | **14 + PB** _[10 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Immunity | Psychic |
 
 | Abilities | | | | | |

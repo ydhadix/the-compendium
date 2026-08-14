@@ -1,0 +1,1 @@
+| [Wight](/bestiary/level/6/wight.md) | 6 | Undead |

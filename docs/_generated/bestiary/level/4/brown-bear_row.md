@@ -1,0 +1,1 @@
+| [Brown Bear](/bestiary/level/4/brown-bear.md) | 4 | Beast |

@@ -4,29 +4,32 @@ Medium Elemental, Neutral
 
 | Defenses | |
 |---|---|
-| HP | **52** _[(10 + CON) × Spell Level]_ |
-| Hit Dice | 1d10 per Spell Level |
-| AC | **16 + PB** _[12 + Spell Level + PB]_ |
-| DR | -STR |
-| Armor | Natural |
+| HP | **64** _[(12 + CON) × Spell Level]_ |
+| Hit Dice | 1d12 per Spell Level |
+| AC | **16 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
+| Vulnerability | Thunder |
 | Resistance | Piercing, Slashing |
 | Immunity | Poison |
-| Condition Immunity | Exhaustion, Sickness, Paralysis, Petrification |
+| Condition Immunity | Exhaustion, Paralysis, Petrification, Sickness |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
-| **STR** | +4 | **DEX** | +2 | **CON** | +3 |
-| **INT** | -3 | **WIS** | +0 | **CHA** | +3 |
+| **STR** | +4 | **DEX** | +0 | **CON** | +4 |
+| **INT** | -3 | **WIS** | +0 | **CHA** | -3 |
 
 | Traits | |
 |---|---|
-| Languages | Primordial; Understands the Languages you know |
-| Senses | Darkvision (60 ft.) |
-| Speed | 40 ft., Burrow 40 ft. |
+| Languages | Primordial (Terran); Understands the Languages you know |
+| Senses | Darkvision (60 ft.), Tremorsense (30 ft.) |
+| Speed | 30 ft., Burrow 30 ft. |
 | Reach | 5 ft. |
 
 | Features | |
 |---|---|
+| Earth Glide | The spirit can Burrow through nonmagical, unworked earth and stone without disturbing it. |
+| Siege Monster | The spirit deals double damage to objects and structures. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 ###### Actions

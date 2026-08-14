@@ -8,8 +8,8 @@ Small Construct, Unaligned
 
 | Defenses | |
 |---|---|
-| HP | **24** _[(6 + CON) × 4]_ |
-| Hit Dice | 4d6 |
+| HP | **18** _[(6 + CON) × (Level + 1)]_ |
+| Hit Dice | 2d6 |
 | AC | **13** _[8 + DEX + PB]_ |
 | Armor | Unarmored |
 | Immunity | Poison, Psychic |
@@ -26,7 +26,7 @@ Small Construct, Unaligned
 | Senses | Blindsight (60 ft.), blind otherwise |
 | Speed | 5 ft., Hover 50 ft. |
 | Reach | 5 ft. |
-| Level | 1 |
+| Level | 2 |
 | Proficiency Bonus | +2 |
 
 | Features | |

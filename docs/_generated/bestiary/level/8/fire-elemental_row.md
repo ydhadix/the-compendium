@@ -1,0 +1,1 @@
+| [Fire Elemental](/bestiary/level/8/fire-elemental.md) | 8 | Elemental |

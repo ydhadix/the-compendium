@@ -1,0 +1,1 @@
+| [Berserker](/bestiary/level/5/berserker.md) | 5 | Humanoid |

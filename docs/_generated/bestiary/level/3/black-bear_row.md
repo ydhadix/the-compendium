@@ -1,0 +1,1 @@
+| [Black Bear](/bestiary/level/3/black-bear.md) | 3 | Beast |

@@ -1,0 +1,1 @@
+| [Giant Badger](/bestiary/level/2/giant-badger.md) | 2 | Beast |

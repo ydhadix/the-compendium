@@ -1,0 +1,1 @@
+| [Awakened Shrub](/bestiary/level/0/awakened-shrub.md) | 0 | Plant |

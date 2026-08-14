@@ -1,0 +1,1 @@
+| [Mastiff](/bestiary/level/1/mastiff.md) | 1 | Beast |

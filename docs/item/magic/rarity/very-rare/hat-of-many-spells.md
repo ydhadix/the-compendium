@@ -25,6 +25,6 @@ Before you cast a Wizard Spell of 1st Level or higher that you don't know, of a 
 | 71–75 | You are Petrified until the end of your next Turn. |
 | 76–80 | You pull a nonmagical object from the hat.  Roll **1d4**: on a **1**, a Dagger; on a **2**, a Rope with a Grappling Hook tied to one end; on a **3**, a bag of Caltrops; on a **4**, a gem worth **50** gold. |
 | 81–85 | A creature appears in the nearest unoccupied space, acts as it normally would, and disappears after **1** hour or after it drops to **0** Hit Points.  Roll **1d4**: on a **1**, a Camel; on a **2**, a Constrictor Snake; on a **3**, an Elephant; on a **4**, a Mule. |
-| 86–90 | An Enemy Swarm of Bats flies out of the hat, occupies your space, and Attacks you. |
+| 86–90 | An Enemy Level 2 Swarm of Bats flies out of the hat, occupies your space, and Attacks you. |
 | 91–95 | A vertical **10**-foot-diameter two-way portal to another plane opens in an unoccupied space within **30** feet and remains until the end of your next Turn. |
 | 96–00 | You pull a magic item from the hat, which disappears after **1** hour unless consumed or destroyed.  Roll **1d6**: on a **1** to **3**, a Common item; on a **4** or **5**, an Uncommon item; on a **6**, a Rare item. |

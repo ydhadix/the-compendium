@@ -1,0 +1,1 @@
+| [Constrictor Snake](/bestiary/level/2/constrictor-snake.md) | 2 | Beast |

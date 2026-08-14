@@ -1,0 +1,1 @@
+| [Giant Weasel](/bestiary/level/1/giant-weasel.md) | 1 | Beast |

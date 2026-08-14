@@ -1,0 +1,1 @@
+| [Zombie](/bestiary/level/2/zombie.md) | 2 | Undead |

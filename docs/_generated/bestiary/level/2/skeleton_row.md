@@ -1,0 +1,1 @@
+| [Skeleton](/bestiary/level/2/skeleton.md) | 2 | Undead |

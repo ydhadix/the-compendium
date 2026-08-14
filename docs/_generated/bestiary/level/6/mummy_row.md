@@ -1,0 +1,1 @@
+| [Mummy](/bestiary/level/6/mummy.md) | 6 | Undead |

@@ -1,0 +1,1 @@
+| [Badger](/bestiary/level/0/badger.md) | 0 | Beast |

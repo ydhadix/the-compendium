@@ -6,8 +6,8 @@ Small Beast, Neutral
 |---|---|
 | HP | **15** _[(4 + CON) × Level]_ |
 | Hit Dice | 1d4 per Level |
-| AC | **14 + PB** _[11 + DEX + PB]_ |
-| Armor | Natural |
+| AC | **13 + PB** _[10 + DEX + PB]_ |
+| Armor | Natural (Light) |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|

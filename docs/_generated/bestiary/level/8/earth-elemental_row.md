@@ -1,0 +1,1 @@
+| [Earth Elemental](/bestiary/level/8/earth-elemental.md) | 8 | Elemental |

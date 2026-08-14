@@ -16,7 +16,7 @@ Tiny Construct, Neutral
 | HP | **5** _[(4 + CON) × Level]_ |
 | Hit Dice | 1d4 per Level |
 | AC | **12 + PB** _[10 + DEX + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Immunity | Poison, Psychic |
 | Condition Immunity | Exhaustion, Sickness |
 

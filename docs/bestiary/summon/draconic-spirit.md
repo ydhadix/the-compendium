@@ -15,8 +15,9 @@ Large Dragon, Neutral
 |---|---|
 | HP | **65** _[(10 + CON) × Spell Level]_ |
 | Hit Dice | 1d10 per Spell Level |
-| AC | **18 + PB** _[11 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| AC | **19 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 | Resistance | Acid, Cold, Fire, Lightning, Poison |
 | Condition Immunity | Charm, Fear, Sickness |
 

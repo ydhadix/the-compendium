@@ -1,0 +1,1 @@
+| [Weasel](/bestiary/level/0/weasel.md) | 0 | Beast |

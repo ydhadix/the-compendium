@@ -1,0 +1,1 @@
+| [Giant Goat](/bestiary/level/3/giant-goat.md) | 3 | Beast |

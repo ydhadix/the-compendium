@@ -221,7 +221,17 @@ nav:
       - Bestiary of Summons:        bestiary/summon/index.md
       - Bestiary by Level:
         - Creature Level Overview:  bestiary/level/index.md
+        - Level 0:                  bestiary/level/0/index.md
         - Level 1:                  bestiary/level/1/index.md
+        - Level 2:                  bestiary/level/2/index.md
+        - Level 3:                  bestiary/level/3/index.md
+        - Level 4:                  bestiary/level/4/index.md
+        - Level 5:                  bestiary/level/5/index.md
+        - Level 6:                  bestiary/level/6/index.md
+        - Level 7:                  bestiary/level/7/index.md
+        - Level 8:                  bestiary/level/8/index.md
+        - Level 12:                 bestiary/level/12/index.md
+        - Level 14:                 bestiary/level/14/index.md
       - Bestiary by Type:
         - Creature Type Overview:   bestiary/type/index.md
         - Aberration:               bestiary/type/aberration.md

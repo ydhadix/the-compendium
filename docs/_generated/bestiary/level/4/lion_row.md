@@ -1,0 +1,1 @@
+| [Lion](/bestiary/level/4/lion.md) | 4 | Beast |

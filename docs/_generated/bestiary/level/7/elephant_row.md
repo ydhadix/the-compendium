@@ -1,0 +1,1 @@
+| [Elephant](/bestiary/level/7/elephant.md) | 7 | Beast |

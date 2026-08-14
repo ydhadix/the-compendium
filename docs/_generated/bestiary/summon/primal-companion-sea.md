@@ -6,8 +6,9 @@ Medium Beast, Neutral
 |---|---|
 | HP | **24** _[(6 + CON) × Level]_ |
 | Hit Dice | 1d6 per Level |
-| AC | **13 + PB** _[11 + DEX + PB]_ |
-| Armor | Natural |
+| AC | **14 + PB** _[12 + DEX + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 
 | Abilities | | | | | |
 |---|---|---|---|---|---|
@@ -27,4 +28,4 @@ Medium Beast, Neutral
 | Range | Reach |
 | Attack | **+Spell Attack** to hit |
 | Damage | **1d6 + 2 + Spell Ability** Bludgeoning, Piercing, or Slashing Damage _[1d6 + STR + Spell Ability]_ |
-| Effect | After this Attack hits, the companion grapples the target.  The companion's Checks to prevent the target from escaping increase by **Spellcasting Ability**. |
+| Effect | After this attack hits, the companion grapples the target.  The companion's Checks to prevent the target from escaping increase by **Spellcasting Ability**. |

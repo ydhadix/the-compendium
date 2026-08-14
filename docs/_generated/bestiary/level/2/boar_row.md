@@ -1,0 +1,1 @@
+| [Boar](/bestiary/level/2/boar.md) | 2 | Beast |

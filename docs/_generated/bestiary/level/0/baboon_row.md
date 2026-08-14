@@ -1,0 +1,1 @@
+| [Baboon](/bestiary/level/0/baboon.md) | 0 | Beast |

@@ -1,0 +1,1 @@
+| [Animated Broom](/bestiary/level/2/animated-broom.md) | 2 | Construct |

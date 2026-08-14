@@ -1,0 +1,1 @@
+| [Nightmare](/bestiary/level/6/nightmare.md) | 6 | Fiend |

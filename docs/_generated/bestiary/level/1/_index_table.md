@@ -1,20 +1,22 @@
-0-9 · [A](#a) · B · C · D · E · F · G · H · I · J · K · L · M · N · O · P · Q · R · [S](#s) · T · U · V · W · X · Y · [Z](#z)
+0-9 · A · B · [C](#c) · D · E · F · [G](#g) · H · I · J · K · L · [M](#m) · N · O · P · Q · R · S · T · U · V · W · X · Y · Z
 { .keyword-jump }
 
-## A
+## C
 
 | Creature | Level | Type |
 |---|---|---|
---8<-- "_generated/bestiary/level/1/animated-broom_row.md"
+--8<-- "_generated/bestiary/level/1/camel_row.md"
 
-## S
-
-| Creature | Level | Type |
-|---|---|---|
---8<-- "_generated/bestiary/level/1/skeleton_row.md"
-
-## Z
+## G
 
 | Creature | Level | Type |
 |---|---|---|
---8<-- "_generated/bestiary/level/1/zombie_row.md"
+--8<-- "_generated/bestiary/level/1/giant-rat_row.md"
+--8<-- "_generated/bestiary/level/1/giant-weasel_row.md"
+
+## M
+
+| Creature | Level | Type |
+|---|---|---|
+--8<-- "_generated/bestiary/level/1/mastiff_row.md"
+--8<-- "_generated/bestiary/level/1/mule_row.md"

@@ -39,6 +39,7 @@
 | [Ancestry Feat](/character/feat/ancestry.md) | Feat |
 | [Anchored](/rules/condition.md#anchored) | Condition |
 | [Aptitude](/rules/dice/index.md#degrees-of-proficiency) | Proficiency |
+| [Aquan](/bestiary/index.md#primordial-dialects) | Primordial Dialect |
 | [Arcana](/rules/dice/check.md#skills) | Skill |
 | [Arcane Focus](/item/gear/spell-focus/arcane-focus.md) | Spellcasting Focus |
 | [Area](/rules/target.md#areas) | Targets |
@@ -51,6 +52,7 @@
 | [Attack Action](/rules/action.md#attack) | Normal Action |
 | [Attack Roll](/rules/dice/attack.md) | Dice Roll |
 | [Attunement](/item/magic/index.md#attunement) | Infusion |
+| [Auran](/bestiary/index.md#primordial-dialects) | Primordial Dialect |
 | [Aura](/rules/target.md#areas) | Area |
 
 ### B
@@ -281,6 +283,7 @@
 ### I
 | Keyword | Location |
 |---|---|
+| [Ignan](/bestiary/index.md#primordial-dialects) | Primordial Dialect |
 | [Illusion](/spell/index.md#schools-of-magic) | School of Magic |
 | [Immobile](/rules/condition.md#immobile) | Condition |
 | [Immunity](/rules/dice/damage.md#immunity) | Damage Roll |
@@ -452,6 +455,7 @@
 | [Reach](/item/weapon.md#reach) | Weapon Property |
 | [Reaction](/rules/action.md#reactions) | Action |
 | [Ready Action](/rules/action.md#ready) | Normal Action |
+| [Recharge](/bestiary/index.md#recharge) | Creature Feature |
 | [Reflex](/rules/dice/save.md#types-of-saves) | Saving Throw |
 | [Religion](/rules/dice/check.md#skills) | Skill |
 | [Reroll](/rules/dice/index.md#rerolls) | Dice Roll |
@@ -523,6 +527,7 @@
 | [Summon](/bestiary/summon/index.md) | NPC |
 | [Sunlight](/rules/target.md#sunlight) | Visibility |
 | [Survival](/rules/dice/check.md#skills) | Skill |
+| [Swarm](/bestiary/index.md#swarm) | Creature Feature |
 | [Swim](/rules/movement.md#swimming) | Movement |
 | [Swim Speed](/rules/movement.md#swimming) | Speed |
 | [Sylvan](/bestiary/index.md#exotic-languages) | Exotic Language |
@@ -532,6 +537,7 @@
 | Keyword | Location |
 |---|---|
 | [Target](/rules/target.md) | Target |
+| [Terran](/bestiary/index.md#primordial-dialects) | Primordial Dialect |
 | [Telepathy](/bestiary/index.md#telepathy) | Language |
 | [Temporary Hit Points](/rules/dice/damage.md#temporary-hit-points) | Hit Points |
 | [Tenday](/rules/rest.md#time) | Time |

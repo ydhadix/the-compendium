@@ -1,0 +1,1 @@
+| [Giant Elk](/bestiary/level/5/giant-elk.md) | 5 | Celestial |

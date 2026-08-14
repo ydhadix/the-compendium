@@ -1,0 +1,1 @@
+| [Ghoul](/bestiary/level/4/ghoul.md) | 4 | Undead |

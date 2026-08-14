@@ -16,7 +16,7 @@ Large Fiend, Neutral
 | HP | **72** _[(10 + CON) × Spell Level]_ |
 | Hit Dice | 1d10 per Spell Level |
 | AC | **19 + PB** _[10 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Resistance | Fire |
 | Immunity | Poison |
 | Protection | Magic |
@@ -56,7 +56,7 @@ Large Fiend, Neutral
 | HP | **60** _[(8 + CON) × Spell Level]_ |
 | Hit Dice | 1d8 per Spell Level |
 | AC | **19 + PB** _[10 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Resistance | Fire |
 | Immunity | Poison |
 | Protection | Magic |
@@ -95,7 +95,7 @@ Large Fiend, Neutral
 | HP | **84** _[(12 + CON) × Spell Level]_ |
 | Hit Dice | 1d12 per Spell Level |
 | AC | **19 + PB** _[10 + DEX + Spell Level + PB]_ |
-| Armor | Natural |
+| Armor | Natural (Light) |
 | Resistance | Fire |
 | Immunity | Poison |
 | Protection | Magic |

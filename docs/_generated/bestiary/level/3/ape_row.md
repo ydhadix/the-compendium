@@ -1,0 +1,1 @@
+| [Ape](/bestiary/level/3/ape.md) | 3 | Beast |

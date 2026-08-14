@@ -1,0 +1,1 @@
+| [Riding Horse](/bestiary/level/2/riding-horse.md) | 2 | Beast |

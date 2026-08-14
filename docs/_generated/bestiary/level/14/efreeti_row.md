@@ -1,0 +1,1 @@
+| [Efreeti](/bestiary/level/14/efreeti.md) | 14 | Elemental |

@@ -15,9 +15,9 @@ Medium Construct, Neutral
 |---|---|
 | HP | **42** _[(10 + CON) × Spell Level]_ |
 | Hit Dice | 1d10 per Spell Level |
-| AC | **15 + PB** _[12 + Spell Level + PB]_ |
-| DR | -STR |
-| Armor | Natural |
+| AC | **15 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 | Immunity | Poison, Psychic |
 | Condition Immunity | Charm, Exhaustion, Fear, Sickness, Paralysis |
 
@@ -57,9 +57,9 @@ Medium Construct, Neutral
 |---|---|
 | HP | **42** _[(10 + CON) × Spell Level]_ |
 | Hit Dice | 1d10 per Spell Level |
-| AC | **15 + PB** _[12 + Spell Level + PB]_ |
-| DR | -STR |
-| Armor | Natural |
+| AC | **15 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 | Immunity | Poison, Psychic |
 | Condition Immunity | Charm, Exhaustion, Fear, Sickness, Paralysis |
 
@@ -96,9 +96,9 @@ Medium Construct, Neutral
 |---|---|
 | HP | **42** _[(10 + CON) × Spell Level]_ |
 | Hit Dice | 1d10 per Spell Level |
-| AC | **15 + PB** _[12 + Spell Level + PB]_ |
-| DR | -STR |
-| Armor | Natural |
+| AC | **15 + PB** _[12 + DEX + Spell Level + PB]_ |
+| DR | **1** _[STR (max 1)]_ |
+| Armor | Natural (Medium) |
 | Immunity | Poison, Psychic |
 | Condition Immunity | Charm, Exhaustion, Fear, Sickness, Paralysis |
 

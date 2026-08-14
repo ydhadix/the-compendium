@@ -1,0 +1,1 @@
+| [Tiger](/bestiary/level/4/tiger.md) | 4 | Beast |

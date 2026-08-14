@@ -1,0 +1,1 @@
+| [Giant Boar](/bestiary/level/5/giant-boar.md) | 5 | Beast |

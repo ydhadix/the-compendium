@@ -1,0 +1,1 @@
+| [Giant Hyena](/bestiary/level/4/giant-hyena.md) | 4 | Beast |

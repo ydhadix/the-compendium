@@ -1,0 +1,1 @@
+| [Jackal](/bestiary/level/0/jackal.md) | 0 | Beast |

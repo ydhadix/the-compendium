@@ -1,0 +1,1 @@
+| [Axe Beak](/bestiary/level/2/axe-beak.md) | 2 | Monstrosity |

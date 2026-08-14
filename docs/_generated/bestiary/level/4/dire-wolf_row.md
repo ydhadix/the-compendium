@@ -1,0 +1,1 @@
+| [Dire Wolf](/bestiary/level/4/dire-wolf.md) | 4 | Beast |
