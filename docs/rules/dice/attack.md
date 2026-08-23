@@ -1,5 +1,5 @@
 # Attack Rolls
-An **Attack Roll** determines the outcome when you attempt to hit a creature with a weapon or spell.
+An **Attack Roll** determines the outcome when you attempt to hit a creature with a weapon or Spell.
 { .subtitle }
 
 ## Making an Attack
@@ -35,7 +35,7 @@ A Ranged Attack lists its range in feet.  The first number is the **Normal Range
 Ranged Attacks against a target beyond Normal Range, but within Long Range, gain Disadvantage.
 
 #### Melee Penalty
-While you are within an Enemy's Reach, your Ranged Attacks gain Disadvantage.
+While you are within an Enemy's Reach, you gain Disadvantage on Ranged Attacks.
 
 ### Nonlethal Attacks
 You can declare any Melee attack as **Nonlethal** when you make it.  If a Nonlethal attack reduces the target to **0** Hit Points, the target becomes Stable instead of Downed.
@@ -50,7 +50,7 @@ The minimum number to score a Critical Hit decreases each time your **Critical H
 For an unnamed NPC, a Critical Hit maximizes the attack's Damage Roll: each Damage Die is treated as rolling its highest value.
 
 #### Player Critical Hits
-After a player or named NPC rolls a Critical Hit, choose one of the Damage Types the attack would deal and roll an additional d20.  The Damage Type determines whether the additional d20 gains Advantage, and what Condition, if any, the Critical Hit applies.  The d20 roll sets the Critical Hit's damage, Condition Duration, and Condition Die.
+After a player or named NPC rolls a Critical Hit, choose **1** of the Damage Types the attack would deal and roll an additional d20.  The Damage Type determines whether you gain Advantage on the additional d20, and what Condition, if any, the Critical Hit applies.  The d20 roll sets the Critical Hit's damage, Condition Duration, and Condition Die.
 
 A Condition from a Critical Hit lasts no longer than the roll's duration.  Before their turn ends, a creature with a feature that can automatically succeed on a Saving Throw _(such as Legendary Resistance or Indomitable)_ can use it to end the condition early.
 

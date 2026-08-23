@@ -8,21 +8,22 @@
 | Components | V, S |
 | Casting Time | 1 minute |
 | Range | Reach |
-| Target | One Tiny, nonmagical object |
+| Area | |
+| Target | **1** Tiny, nonmagical Object |
 | Duration | 8 hours |
 
-##### Spell Effect
-You transform the target into a Companion Animated Servant.
+---
+
+You transform each target into an Animated Servant Companion.
 
 If the servant drops to **0** Hit Points, it is destroyed.
 
-###### Command
-Bonus Action
-{ .subtitle }
+##### Command
+**Bonus Action:** You can command the servant to move and take any Action available to it.
 
-You can command the servant to move and take any Action available to it.
-
-##### At Higher Levels
+#### At Higher Levels
 Add **2** targets per additional Spell Level.
+
+---
 
 --8<-- "_generated/bestiary/summon/animated-servant.md"

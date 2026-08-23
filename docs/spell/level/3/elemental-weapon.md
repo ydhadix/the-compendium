@@ -8,15 +8,17 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One weapon |
+| Area | |
+| Target | **1** Weapon |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
+---
+
 Choose an Elemental Damage Type.
 
 The target's Attack and Damage Rolls increase by **1**, and it deals an additional **1d4** damage of the chosen type.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d4** damage per additional Spell Level.
 
 When Upcast to 5th- or 6th-Level, its Attack and Damage Rolls instead increase by **2**.

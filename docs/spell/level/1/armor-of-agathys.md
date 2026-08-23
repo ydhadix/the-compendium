@@ -8,15 +8,18 @@
 | Components | V, S, M |
 | Casting Time | Bonus Action |
 | Range | — |
+| Area | |
 | Target | Self |
 | Duration | 1 hour |
 
-##### Spell Effect
+---
+
 You gain **5** Temporary Hit Points.
 
-After you are hit by a Melee Attack, the attacker takes **5** Cold Damage.
+After you are hit by a Melee Attack, you deal **5** Cold Damage to the attacker.
 
+#### Ending Early
 This Spell ends if you have no Temporary Hit Points.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **5** Temporary Hit Points and **5** damage per additional Spell Level.

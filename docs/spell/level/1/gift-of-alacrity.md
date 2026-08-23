@@ -8,8 +8,10 @@
 | Components | V, S |
 | Casting Time | 1 minute |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 8 hours |
 
-##### Spell Effect
+---
+
 The target's Initiative Checks increase by **1d8**.

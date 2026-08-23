@@ -1,1 +1,1 @@
-| [Bless](/spell/level/1/bless.md) | Enchantment | V, S, M | Magic Action | 30 ft. | Up to 3 creatures | 1 minute (C) |
+| [Bless](/spell/level/1/bless.md) | Enchantment | V, S, M | Magic Action | 30 ft. | — | Up to **3** Creatures | 1 minute (C) |

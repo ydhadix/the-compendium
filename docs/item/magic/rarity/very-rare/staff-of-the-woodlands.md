@@ -20,7 +20,4 @@ You can cast the following Spells:
 | _Wall of Thorns_ | Magic Action | **6** Charges |
 
 ##### Tree Form
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can plant one end of this staff in earth in an unoccupied space, transforming it into a tree **60** feet tall with a **5**-foot-diameter trunk and branches spreading in a **20**-foot radius.  While touching the tree, you can use this Action again to revert it, dropping any creature in it.
+**Magic Action; 1 Charge:** You can plant one end of this staff in earth, transforming it into a tree **60** feet tall with a **5**-foot-diameter trunk and branches spreading in a **20**-foot radius.  While touching the tree, you can use this Action again to revert it, dropping any creature in it.

@@ -8,10 +8,15 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 10 ft. |
-| Target | One Large or larger inanimate plant |
+| Area | — |
+| Target | **1** Large or larger Plant Object |
 | Duration | 10 minutes |
 
-##### Spell Effect
-You link the target to another plant on the same plane at any distance, which you have seen or touched before.
+---
 
-For the duration, a creature can spend **5** feet of movement to step into one of the linked plants and exit from the other.
+You link each target to another Plant Object on the same plane at any distance, which you have seen or touched before.
+
+##### Step Through
+Any Creature that can reach a linked plant can take this Action.
+
+**Free Action; 5 feet of movement:** The creature steps into one of the linked plants and exits from the other.

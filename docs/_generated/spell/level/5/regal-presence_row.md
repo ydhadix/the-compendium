@@ -1,1 +1,1 @@
-| [Regal Presence](/spell/level/5/regal-presence.md) | Enchantment | V, S, M | Magic Action | — | Each creature you choose in a 10-ft. Aura | 1 minute (C) |
+| [Regal Presence](/spell/level/5/regal-presence.md) | Enchantment | V, S, M | Magic Action | — | A 10-ft. Aura | Each Creature you choose | 1 minute (C) |

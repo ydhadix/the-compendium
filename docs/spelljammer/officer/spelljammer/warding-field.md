@@ -10,5 +10,6 @@ Abjuration Cantrip
 | Target | Self |
 | Duration | Until the end of your next Turn (Concentration) |
 
-##### Protocol Effect
+---
+
 Your Ship's Armor Class increases by **PB**.

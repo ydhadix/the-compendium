@@ -1,7 +1,5 @@
 ### Potion of Superior Healing
-Potion, Consumable, 2,000 gold
+Potion (Ingested), Consumable, 2,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, you heal by **8d4 + 8**.
+The target heals by **8d4 + 8**.

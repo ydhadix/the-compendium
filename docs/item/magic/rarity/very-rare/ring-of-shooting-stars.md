@@ -6,7 +6,7 @@ Very Rare Clothing (Jewelry), Attunement (Spellcaster)
 { .subtitle }
 
 ##### Cast
-You can cast the following spells:
+You can cast the following Spells:
 
 | Spell | Action | Charges |
 |---|---|---|
@@ -20,27 +20,21 @@ You can cast the following spells:
 Increase the Spell Level by **1** for each additional Charge expended.
 
 ##### Shooting Stars
-Magic Action, 1–3 Charges
-{ .subtitle }
-
-For each Charge expended, you can choose a **10**-foot radius Sphere within **60** feet. Everything in those Spheres makes a Reflex Save.
+**Magic Action; 1–3 Charges:** For each Charge expended, you can choose a **10**-foot radius Sphere within **60** feet. Everything in the area makes a Reflex Save _(DC **Spell Save DC**)_.
 
 | | |
 |---|---|
-| Fail | The target takes **5d4** Radiant Damage. |
-| Success | The target takes half as much. |
+| Fail | You deal **5d4** Radiant Damage. |
+| Success | You deal half as much damage. |
 
 ##### Celestial Body
-After each Long Rest, choose one of the following effects:
+After a Long Rest, choose **1** of the following effects:
 
-| Effect | Benefit |
+| Effect | |
 |---|---|
-| Sun | Before you cast a Spell that deals Fire Damage, you can change it to Radiant Damage, or vice versa. |
-| Moon | After you use magic to heal another creature, you can gain Temporary Hit Points equal to your Spellcasting Ability. While you have these Temporary Hit Points, you gain Fear Immunity. |
-| Meteor | After you use Shooting Stars, you can teleport to a space in any of the chosen Areas. |
+| Sun | **Free Action:** Before you cast a Spell, you can replace every instance of the Fire Damage Type in it with the Radiant Damage Type, or the reverse. |
+| Moon | **Free Action:** After you use magic to heal another creature, you can gain **Spellcasting Ability** Temporary Hit Points. While you have these Temporary Hit Points, you gain Fear Immunity. |
+| Meteor | **Free Action:** After you use Shooting Stars, you can teleport to a space in any of the areas. |
 
 ###### Change Sign
-Bonus Action, 1 Charge
-{ .subtitle }
-
-You can change your Celestial Body effect.
+**Bonus Action; 1 Charge:** You can change your Celestial Body effect.

@@ -5,15 +5,24 @@
 | | |
 |---|---|
 | Classes | Wizard |
-| Components | V, S, M _(a shard of glass)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
+| Area | Special |
 | Target | — |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
-You create an Invisible wall of force.  The wall can be a dome or globe up to a **10**-foot-radius Sphere, or a flat surface of **10** contiguous **10**-foot-by-**10**-foot panels, in any orientation.
+---
 
-The wall is a quarter inch thick and lasts for the duration.  Before the wall appears, you propel everything in the wall's space to one side of the wall.
+Choose **1** of the following forms:
 
-Nothing can pass through the wall, and it also blocks teleportation and travel through the Ethereal Plane.  It is immune to all damage and can't be dispelled by _Dispel Magic_, but a _Disintegrate_ Spell destroys it instantly.
+| Form | |
+|---|---|
+| Wall | A flat surface of up to **10** contiguous **10**-foot-by-**10**-foot panels, in any orientation |
+| Dome | All or part of up to a **10**-foot-radius Sphere |
+
+You conjure a **¼**-inch thick, Invisible barrier of magical force in the chosen form.
+
+The barrier has Immunity to all damage and can't be dispelled by _Dispel Magic_.  Nothing can pass through the barrier, including Attacks and other effects, and it also blocks teleportation and travel through the Ethereal Plane.
+
+Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.

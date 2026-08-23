@@ -2,8 +2,8 @@
 - Cast Times with `(R)` can be cast as a Ritual.
 - Durations with `(C)` require Concentration.
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/1/absorb-elements_row.md"
 --8<-- "_generated/spell/level/1/acid-arrow_row.md"
 --8<-- "_generated/spell/level/1/air-bubble_row.md"

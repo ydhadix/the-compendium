@@ -6,13 +6,7 @@ Uncommon Armor (Any), Attunement (Spellcaster)
 { .subtitle }
 
 ##### Empower
-Free Action, 1 Charge
-{ .subtitle }
-
-Before you make a Strength Check or Fortitude Save, you can add your Spellcasting Ability to the total.
+**Free Action; 1 Charge:** Before you make a Strength Check or Fortitude Save, you can add your Spellcasting Ability to the total.
 
 ##### Bulwark
-Reaction, 1 Charge
-{ .subtitle }
-
-Before you are propelled or knocked Prone, you can become Anchored until the end of the turn or you end this effect _(no action required)_.
+**Reaction:** Before you are propelled or knocked Prone, you can become Anchored until the end of the Turn or you end this effect _(no action required)_.

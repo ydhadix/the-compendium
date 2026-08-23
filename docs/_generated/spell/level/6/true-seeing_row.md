@@ -1,1 +1,1 @@
-| [True Seeing](/spell/level/6/true-seeing.md) | Divination | V, S, M ($C) | Magic Action | Reach | One Ally | 1 hour |
+| [True Seeing](/spell/level/6/true-seeing.md) | Divination | V, S, M ($C) | Magic Action | Reach | — | **1** Creature | 1 hour |

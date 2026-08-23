@@ -5,11 +5,8 @@ Very Rare Clothing (Cloak), Attunement
 You gain the following effects:
 
 - You gain Poison Resistance.
-- You gain a Spider Climb Speed equal to your Speed, leaving your hands free.
-- You can't be caught in webs, and treat webs as Difficult Terrain.
+- You gain a Spider Climb Speed equal to your Speed.
+- You ignore movement penalties caused by webs.
 
 ##### Cast
-Magic Action, 1 use per Day
-{ .subtitle }
-
-You can cast _Web_ _(DC **17**)_, filling twice its normal area.
+**Magic Action; Once per Day:** You can cast _Web_ _(DC **17**)_, filling twice its normal area.

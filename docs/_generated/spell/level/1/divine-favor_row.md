@@ -1,1 +1,1 @@
-| [Divine Favor](/spell/level/1/divine-favor.md) | Transmutation | V, S | Bonus Action | — | Self | 1 minute |
+| [Divine Favor](/spell/level/1/divine-favor.md) | Transmutation | V, S | Bonus Action | — | — | Self | 1 minute |

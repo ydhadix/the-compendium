@@ -8,14 +8,15 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | — |
+| Area | |
 | Target | — |
 | Duration | 24 hours |
 
-##### Spell Effect
+---
+
 **10** magical berries appear in your hand.
 
-###### Eat
-Bonus Action
-{ .utilize }
+##### Eat
+Any Creature holding a berry can take this Action.
 
-A creature holding a berry can eat it to heal by **1** and gain enough nourishment to sustain itself for **1** day.
+**Bonus Action:** The creature eats it to heal by **1** and gain enough nourishment to sustain itself for **1** day.

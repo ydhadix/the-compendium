@@ -14,25 +14,23 @@ Barbarians who follow the Path of the Wild Heart see themselves as kin to the be
 You learn _Beast Sense_ and _Speak with Animals_ and can cast them as Rituals.
 
 ### 3: Rage of the Wilds
-After Raging, you can choose one of the following effects:
-##### Bear
-While Raging, you gain Elemental Resistance.
-##### Eagle
-Bonus Action
-{ .subtitle }
+After Raging, you choose **1** of the following effects to gain while Raging.
 
-You can Disengage and Dash.
-##### Wolf
-While Raging, your Allies gain Advantage on Attack Rolls against creatures within your Reach.
+| Effect | |
+|---|---|
+| Bear | You gain Elemental Resistance. |
+| Eagle | **Bonus Action:** You can Disengage and Dash. |
+| Wolf | Your Allies gain Advantage on Attack Rolls against creatures within your Reach. |
 
 ### 6: Aspect of the Wilds
-You gain one of the following effects:
-##### Owl
-You gain **60** feet of Darkvision.
-##### Panther
-You gain a Climb Speed equal to your Speed.
-##### Salmon
-You gain a Swim Speed equal to your Speed.
+You gain **1** of the following effects.
+
+| Effect | |
+|---|---|
+| Owl | You gain **60** feet of Darkvision. |
+| Panther | You gain a Climb Speed equal to your Speed. |
+| Salmon | You gain a Swim Speed equal to your Speed. |
+
 #### Changing Aspects
 After a Long Rest, you can replace your chosen Aspect.
 
@@ -40,10 +38,10 @@ After a Long Rest, you can replace your chosen Aspect.
 ### 9: Power of the Wilds
 You learn _Commune with Nature_ and can cast it as a Ritual.
 
-After Raging, you can choose one of the following effects:
-##### Falcon
-While Raging and in Unarmored Stance, you gain a Fly Speed equal to your Speed.
-##### Lion
-While Raging, Enemies within Reach gain Disadvantage on Attack Rolls against other creatures.
-##### Ram
-After you damage a target up to one size larger than you with a Melee Attack while Raging, you can knock the target Prone.
+After Raging, you choose **1** of the following effects to gain while Raging.
+
+| Effect | |
+|---|---|
+| Falcon | While in Unarmored Stance, you gain a Fly Speed equal to your Speed. |
+| Lion | Enemies within Reach gain Disadvantage on Attack Rolls against other creatures. |
+| Ram | **Free Action:** After you damage a target up to **1** Size larger than you with a Melee Attack, you can knock the target Prone. |

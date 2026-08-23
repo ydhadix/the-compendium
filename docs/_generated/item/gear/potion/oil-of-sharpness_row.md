@@ -1,1 +1,1 @@
-| [Oil of Sharpness](/item/gear/potion/oil-of-sharpness.md) | Potion | 20,000 gold |
+| [Oil of Sharpness](/item/gear/potion/oil-of-sharpness.md) | Potion (Contact) | 20,000 gold |

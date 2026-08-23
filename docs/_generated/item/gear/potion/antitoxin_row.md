@@ -1,1 +1,1 @@
-| [Antitoxin](/item/gear/potion/antitoxin.md) | Potion | 50 gold |
+| [Antitoxin](/item/gear/potion/antitoxin.md) | Potion (Ingested) | 50 gold |

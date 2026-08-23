@@ -1,1 +1,1 @@
-| [Continual Flame](/spell/level/1/continual-flame.md) | Evocation | V, S, M ($C) | Magic Action | Reach | One object | Until dispelled |
+| [Continual Flame](/spell/level/1/continual-flame.md) | Evocation | V, S, M ($C) | Magic Action | Reach | — | **1** Object | Until dispelled |

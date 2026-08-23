@@ -8,23 +8,26 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target makes a Will Save.
+---
+
+Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You deal **4d10** Psychic Damage, and the target's Ability Checks and Attack Rolls gain Disadvantage. |
-| Success | You deal half as much damage, then this effect ends. |
+| Fail | You deal **4d10** Psychic Damage, and the target gains Disadvantage on Ability Checks and Attack Rolls. |
+| Success | You deal half as much damage, then this Spell ends on the target. |
 
-Before each of the target's Turns ends, it repeats this Saving Throw.
+#### Ending Early
+Before a target's Turn ends, it makes a Will Save.
 
 | | |
 |---|---|
 | Fail | You deal **4d10** Psychic Damage. |
-| Success | This effect ends on the target. |
+| Success | This Spell ends on the target. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d10** damage per additional Spell Level.

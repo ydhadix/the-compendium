@@ -1,1 +1,1 @@
-| [Dimension Door](/spell/level/4/dimension-door.md) | Conjuration | V | Magic Action | 500 ft. | Self, and one Allied creature within Reach | — |
+| [Dimension Door](/spell/level/4/dimension-door.md) | Conjuration | V | Magic Action | 500 ft. | — | Self, and up to **1** Ally within Reach | — |

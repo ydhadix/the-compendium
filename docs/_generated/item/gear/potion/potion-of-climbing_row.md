@@ -1,1 +1,1 @@
-| [Potion of Climbing](/item/gear/potion/potion-of-climbing.md) | Potion | 50 gold |
+| [Potion of Climbing](/item/gear/potion/potion-of-climbing.md) | Potion (Ingested) | 50 gold |

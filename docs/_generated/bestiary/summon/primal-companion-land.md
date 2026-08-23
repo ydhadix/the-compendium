@@ -28,4 +28,4 @@ Medium Beast, Neutral
 | Range | Reach |
 | Attack | **+Spell Attack** to hit |
 | Damage | **1d8 + 2 + Spell Ability** Bludgeoning, Piercing, or Slashing Damage _[1d8 + STR + Spell Ability]_ |
-| Effect | Before this attack deals damage, if the companion moved at least **20** feet in a straight line towards the target, add **1d6** damage.  After dealing this damage, if the target is no more than **1** Size Category larger, the companion knocks it Prone. |
+| Effect | Before this attack deals damage, if the companion moved at least **20** feet in a straight line toward the target, add **1d6** damage.  After dealing this damage, if the target is no more than **1** Size larger than the companion, the companion knocks the target Prone. |

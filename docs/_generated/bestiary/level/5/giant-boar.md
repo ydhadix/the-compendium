@@ -26,7 +26,7 @@ Large Beast, Unaligned
 
 | Features | |
 |---|---|
-| Bloodied Fury | While Bloodied, the boar's Melee Attack Rolls gain Advantage. |
+| Bloodied Fury | While Bloodied, the boar gains Advantage on Melee Attack Rolls. |
 
 ###### Actions
 | Gore | Melee Attack |
@@ -34,4 +34,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+6** to hit _[STR + PB]_ |
 | Damage | **2d6 + 3** Piercing Damage _[2d6 + STR]_ |
-| Effect | Before this attack deals damage, if the boar moved at least **20** feet in a straight line toward a Large or smaller target, it deals an additional **2d6** damage.  After dealing this damage, the boar knocks the target Prone. |
+| Effect | Before this attack deals damage, if the boar moved at least **20** feet in a straight line toward a target of the boar's Size or smaller, it deals an additional **2d6** damage.  After dealing this damage, the boar knocks the target Prone. |

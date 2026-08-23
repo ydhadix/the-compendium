@@ -30,4 +30,4 @@ Medium Beast, Unaligned
 | Range | Reach |
 | Attack | **+3** to hit _[STR + PB]_ |
 | Damage | **1d6 + 1** Piercing Damage _[1d6 + STR]_ |
-| Effect | After this attack deals damage, the mastiff knocks a Medium or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is the mastiff's Size or smaller, the mastiff knocks the target Prone. |

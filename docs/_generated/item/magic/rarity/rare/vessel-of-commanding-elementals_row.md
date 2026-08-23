@@ -1,0 +1,1 @@
+| [Vessel of Commanding Elementals](/item/magic/rarity/rare/vessel-of-commanding-elementals.md) | Wondrous Item | Rare | No |

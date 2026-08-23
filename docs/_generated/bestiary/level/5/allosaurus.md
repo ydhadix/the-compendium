@@ -36,4 +36,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+7** to hit _[STR + PB]_ |
 | Damage | **1d8 + 4** Slashing Damage _[1d8 + STR]_ |
-| Effect | After this attack deals damage, if the allosaurus moved at least **30** feet in a straight line toward a Large or smaller target, it knocks the target Prone. |
+| Effect | After this attack deals damage, if the allosaurus moved at least **30** feet in a straight line toward a target of the allosaurus's Size or smaller, it knocks the target Prone. |

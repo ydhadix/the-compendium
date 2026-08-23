@@ -1,1 +1,1 @@
-| [Death Ward](/spell/level/4/death-ward.md) | Abjuration | V, S | Magic Action | Reach | One creature | 8 hours |
+| [Death Ward](/spell/level/4/death-ward.md) | Abjuration | V, S | Magic Action | Reach | — | **1** Creature | 8 hours |

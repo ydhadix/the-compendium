@@ -6,10 +6,7 @@ Very Rare Clothing (Clothes), Attunement
 { .subtitle }
 
 ##### Scintillate
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can display a shifting pattern of dazzling hues until the end of your next Turn.  The robe emits Bright Light out to **30** feet and Dim Light **30** feet further, and Attack Rolls against you gain Disadvantage.
+**Magic Action; 1 Charge:** You can display a shifting pattern of dazzling hues until the end of your next Turn.  The robe emits Bright Light out to **30** feet and Dim Light **30** feet further, and creatures gain Disadvantage on Attack Rolls against you.
 
 Each creature in the Bright Light makes a Will Save _(DC **17**)_.
 

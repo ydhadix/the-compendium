@@ -1,1 +1,1 @@
-| [Charm Monster](/spell/level/4/charm-monster.md) | Enchantment | V, S | Magic Action | 30 ft. | One creature | 1 hour |
+| [Charm Monster](/spell/level/4/charm-monster.md) | Enchantment | V, S | Magic Action | 30 ft. | — | **1** Creature | 1 hour |

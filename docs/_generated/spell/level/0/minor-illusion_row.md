@@ -1,1 +1,1 @@
-| [Minor Illusion](/spell/level/0/minor-illusion.md) | Illusion | S, M | Magic Action | 30 ft. | — | 1 minute |
+| [Minor Illusion](/spell/level/0/minor-illusion.md) | Illusion | S, M | Magic Action | 30 ft. | — | — | 1 minute |

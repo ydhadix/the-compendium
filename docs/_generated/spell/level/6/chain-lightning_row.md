@@ -1,1 +1,1 @@
-| [Chain Lightning](/spell/level/6/chain-lightning.md) | Evocation | V, S, M | Magic Action | 150 ft. | One creature or object, and up to 3 more within 30 ft. of it | — |
+| [Chain Lightning](/spell/level/6/chain-lightning.md) | Evocation | V, S, M | Magic Action | 150 ft. | — | **1** Creature or Object, and up to **3** more within 30 ft. of it | — |

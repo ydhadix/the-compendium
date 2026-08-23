@@ -1,1 +1,1 @@
-| [Find the Path](/spell/level/6/find-the-path.md) | Divination | V, S, M ($) | 1 minute | — | Self | 24 hours (C) |
+| [Find the Path](/spell/level/6/find-the-path.md) | Divination | V, S, M ($) | 1 minute | The same Plane | — | **1** Location you are familiar with | 24 hours (C) |

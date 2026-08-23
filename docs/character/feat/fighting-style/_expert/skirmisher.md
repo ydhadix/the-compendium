@@ -1,9 +1,6 @@
 ### Skirmisher
 
-Opportunity Attacks gain Disadvantage against you.
+Opportunity Attacks against you gain Disadvantage.
 
-#### Fast Feet
-Bonus Action
-{ .subtitle }
-
-You can Dash.
+##### Fast Feet
+**Bonus Action:** You can Dash.

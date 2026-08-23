@@ -4,11 +4,8 @@ Prerequisite: Goliath (Frost Ancestry)
 
 You gain Cold Resistance.
 
-#### Frigid Rebuke
-Reaction, Proficiency Bonus uses per Long Rest
-{ .subtitle }
-
-After a creature within **30** feet deals damage to you, the target makes a Fortitude Save _(DC **8 + CON + PB**)_.
+##### Frigid Rebuke
+**Reaction; PB times per Long Rest:** After a creature within **30** feet deals damage to you, you can force the target to make a Fortitude Save _(DC **8 + CON + PB**)_.
 
 | | |
 |---|---|

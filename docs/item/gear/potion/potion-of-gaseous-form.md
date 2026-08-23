@@ -1,13 +1,8 @@
 ### Potion of Gaseous Form
-Potion, Consumable, 2,000 gold
+Potion (Ingested), Consumable, 2,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, you gain the effect of _Gaseous Form_ _(without Concentration)_ for **1** hour.
+The target gains the effect of _Gaseous Form_ for **1** hour _(no Concentration required)_.
 
 ##### Disperse
-Bonus Action
-{ .subtitle }
-
-You can end this effect.
+**Bonus Action:** You can end this effect.

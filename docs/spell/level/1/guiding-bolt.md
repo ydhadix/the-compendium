@@ -8,15 +8,17 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | One thing |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | Until the end of your next Turn |
 
-##### Spell Effect
-You make a Ranged Spell Attack against the target.
+---
+
+You make a Ranged Spell Attack against each target.
 
 | | |
 |---|---|
-| Hit | You deal **4d6** Radiant Damage, and the next Attack Roll against the target gains Advantage, then this effect ends. |
+| Hit | You deal **4d6** Radiant Damage, and the next creature to attack the target gains Advantage on the Attack Roll, then this Spell ends on the target. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d6** damage per additional Spell Level.

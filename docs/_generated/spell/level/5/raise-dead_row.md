@@ -1,1 +1,1 @@
-| [Raise Dead](/spell/level/5/raise-dead.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One non-Undead creature that died within the past 10 days | — |
+| [Raise Dead](/spell/level/5/raise-dead.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | — | **1** Corpse that died within the past 10 days | — |

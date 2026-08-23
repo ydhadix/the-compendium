@@ -8,11 +8,13 @@
 | Components | V, S, M _(consumes a pearl worth 100 Gold)_ |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
-After the target rolls a d20, it can roll an additional d20 and choose which to use, then this effect ends.
+---
 
-##### At Higher Levels
+After the target rolls a d20, it can roll an additional d20 and choose which to use, then this Spell ends on the target.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

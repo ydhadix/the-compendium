@@ -10,12 +10,15 @@ Evocation Cantrip
 | Target | A Ship |
 | Duration | — |
 
-##### Protocol Effect
+---
+
 You make a Ranged Spell Attack against the target.
 
 | | |
 |---|---|
 | Hit | You deal **3d10** Force Damage. |
 
-##### At Higher Levels
+---
+
+#### At Higher Levels
 Add **2d10** Force Damage at Level 5, Level 11, and Level 17.

@@ -1,1 +1,1 @@
-| [Dominate Beast](/spell/level/4/dominate-beast.md) | Enchantment | V, S | Magic Action | 60 ft. | One Beast | 1 minute (C) |
+| [Dominate Beast](/spell/level/4/dominate-beast.md) | Enchantment | V, S | Magic Action | 60 ft. | — | **1** Beast | 1 minute (C) |

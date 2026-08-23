@@ -1,1 +1,1 @@
-| [Expeditious Retreat](/spell/level/1/expeditious-retreat.md) | Transmutation | V, S | Bonus Action | — | Self | 10 minutes (C) |
+| [Expeditious Retreat](/spell/level/1/expeditious-retreat.md) | Transmutation | V, S | Bonus Action | — | — | Self | 10 minutes (C) |

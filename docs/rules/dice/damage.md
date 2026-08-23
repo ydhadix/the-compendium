@@ -16,7 +16,7 @@ Roll the Damage Dice and add the modifiers.  You reduce the target's Hit Points 
 At **0** Hit Points, a player character or a named NPC is Downed.  Any other creature dies.
 
 ### Temporary Hit Points
-**Temporary Hit Points** are wells of additional health that prevent you from losing actual Hit Points until you finish a Long Rest.  You can only have one pool of Temporary Hit Points at a time; if you gain Temporary Hit Points again, you choose one to keep.
+**Temporary Hit Points** are wells of additional health that prevent you from losing actual Hit Points until you finish a Long Rest.  You can only have one pool of Temporary Hit Points at a time; if you gain Temporary Hit Points again, you choose **1** to keep.
 
 ### Bloodied
 While your Hit Points are half your Hit Point Maximum or lower, you are **Bloodied**. Being Bloodied has no effect on its own, but some effects grow stronger against a Bloodied creature or trigger when a creature becomes Bloodied.

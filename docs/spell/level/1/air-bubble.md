@@ -8,11 +8,13 @@
 | Components | S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 24 hours |
 
-##### Spell Effect
-The target can breathe normally.
+---
 
-##### At Higher Levels
+Each target can breathe normally.
+
+#### At Higher Levels
 Add **2** targets per additional Spell Level.

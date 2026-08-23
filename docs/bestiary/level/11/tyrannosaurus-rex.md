@@ -39,11 +39,11 @@ Huge Beast, Unaligned
 | Range | 10 ft. |
 | Attack | **+11** to hit _[STR + PB]_ |
 | Damage | **4d12 + 7** Piercing Damage _[4d12 + STR]_ |
-| Effect | After this attack deals damage, the tyrannosaurus grapples a Large or smaller target.  While Grappled this way, the target is Restrained. |
+| Effect | After this attack deals damage, the tyrannosaurus grapples a target at least **1** Size smaller than the tyrannosaurus.  While Grappled this way, the target is Restrained. |
 
 | Tail | Melee Attack |
 |---|---|
 | Range | 15 ft. |
 | Attack | **+11** to hit _[STR + PB]_ |
 | Damage | **4d8 + 7** Bludgeoning Damage _[4d8 + STR]_ |
-| Effect | After this attack deals damage, the tyrannosaurus knocks a Huge or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is the tyrannosaurus's Size or smaller, the tyrannosaurus knocks the target Prone. |

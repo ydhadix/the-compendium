@@ -8,8 +8,10 @@
 | Components | V, S, M |
 | Casting Time | Bonus Action |
 | Range | 60 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
+---
+
 The target's Armor Class increases by **2**.

@@ -17,7 +17,7 @@ A character without an Officer role acts as a passenger or crew and doesn't take
 Most of an adventurer's normal features are ineffective at the scale Ships operate. Even so, an Officer can spend their Ship Action to instead take one Normal Action or Bonus Action, or to cast a Spell with a Casting Time of **1** minute or less. Officers keep their Reaction, as normal.
 
 ###### Prevented Actions
-While a Ship is affected by an effect that prevents Actions, such as being Incapacitated, an Officer is still chosen on the Ship's Turns, but that Officer forgoes their Action.
+While a Ship is affected by an effect that prevents Actions, such as being Incapacitated, an Officer is still chosen on the Ship's Turns, but that Officer takes no Action.
 
 ## Encounter Scale
 Time and distance in a Ship Encounter aren't strictly measured in minutes, feet, squares, or tiles; Ships in the astral sea travel vast distances, and move faster than ships their size could in atmosphere.

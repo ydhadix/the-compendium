@@ -1,1 +1,1 @@
-| [Mislead](/spell/level/5/mislead.md) | Illusion | S | Magic Action | — | Self | 1 hour (C) |
+| [Mislead](/spell/level/5/mislead.md) | Illusion | S | Magic Action | — | — | Self | 1 hour (C) |

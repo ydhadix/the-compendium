@@ -6,15 +6,12 @@ Rare Weapon (Staff), Attunement (Spellcaster)
 { .subtitle }
 
 ##### Insect Cloud
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can fill a **30**-foot Aura with a swarm of harmless flying insects for **10** minutes, making the area Heavily Obscured for everything but you.  A strong wind disperses the swarm and ends this effect.
+**Magic Action; 1 Charge:** You can fill a **30**-foot Aura with a swarm of harmless flying insects for **10** minutes, making the area Heavily Obscured for everything but you.  A strong wind disperses the swarm and ends this effect.
 
 ##### Cast
 You can cast the following Spells:
 
 | Spell | Action | Charges |
 |---|---|---|
-| _Giant Insect_ | Magic Action | **4** Charges |
+| _Summon Giant Insect_ | Magic Action | **4** Charges |
 | _Insect Plague_ | Magic Action | **5** Charges |

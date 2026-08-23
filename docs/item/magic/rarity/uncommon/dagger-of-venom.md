@@ -3,16 +3,10 @@ Uncommon Weapon (Sidearm)
 { .subtitle }
 
 ##### Coat Weapon
-Bonus Action, 1 use per Day
-{ .subtitle }
-
-You can coat this weapon in venom.  Once applied, the poison retains potency for **1** minute or until its Envenom damage is dealt, whichever comes first.
+**Bonus Action; Once per Day:** You can coat this weapon in venom.  The poison retains potency for **1** minute or until you hit a creature with this weapon, whichever comes first.
 
 ###### Envenom
-Free Action
-{ .subtitle }
-
-Before you deal damage with this weapon, the target makes a Fortitude Save _(DC **13**)_.
+The next time you hit a creature with this weapon, the target makes a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

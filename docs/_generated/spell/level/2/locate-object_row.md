@@ -1,1 +1,1 @@
-| [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Magic Action (R) | 1,000 ft. | Special | 10 minutes (C) |
+| [Locate Object](/spell/level/2/locate-object.md) | Divination | V, S, M | Magic Action (R) | 1,000 ft. | — | Special | 10 minutes (C) |

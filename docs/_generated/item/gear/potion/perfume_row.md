@@ -1,1 +1,1 @@
-| [Perfume](/item/gear/potion/perfume.md) | Potion | 5 gold |
+| [Perfume](/item/gear/potion/perfume.md) | Potion (Contact) | 5 gold |

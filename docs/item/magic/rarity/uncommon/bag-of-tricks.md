@@ -4,23 +4,7 @@ Uncommon Container (Pouch)
 
 Reaching inside this bag reveals a small, fuzzy object. Each Bag of Tricks comes in one of three colors ([Gray](#gray), [Rust](#rust), or [Tan](#tan)), which determines the creatures it produces.
 
-##### Summon Trick
-Magic Action, 3 uses per Day
-{ .subtitle }
-
-You can pull the fuzzy object from the bag and throw it up to **20** feet, where it becomes a Companion creature determined by rolling **1d8** on your bag's color table below.  The creature disappears after this item recharges or after the creature drops to **0** Hit Points.
-
-###### Command
-Bonus Action
-{ .subtitle }
-
-You can command the creature to move and take any Action available to it.
-
----
-
-#### Variants
-
-##### Gray
+#### Gray
 | 1d8 | Creature |
 |---|---|
 | 1 | Weasel |
@@ -32,7 +16,7 @@ You can command the creature to move and take any Action available to it.
 | 7 | Dire Wolf |
 | 8 | Giant Elk |
 
-##### Rust
+#### Rust
 | 1d8 | Creature |
 |---|---|
 | 1 | Rat |
@@ -44,7 +28,7 @@ You can command the creature to move and take any Action available to it.
 | 7 | Lion |
 | 8 | Brown Bear |
 
-##### Tan
+#### Tan
 | 1d8 | Creature |
 |---|---|
 | 1 | Jackal |
@@ -55,3 +39,11 @@ You can command the creature to move and take any Action available to it.
 | 6 | Giant Weasel |
 | 7 | Giant Hyena |
 | 8 | Tiger |
+
+---
+
+##### Summon Trick
+**Magic Action; 3 times per Day:** You can pull the fuzzy object from the bag and throw it up to **20** feet, where it becomes a Companion creature determined by rolling **1d8** on your bag's color table.  The creature disappears after this item recharges or after the creature drops to **0** Hit Points.
+
+###### Command
+**Bonus Action:** You can command the creature to move and take any Action available to it.

@@ -6,7 +6,4 @@ Common Spellcasting Focus (Arcane Focus)
 { .subtitle }
 
 ##### Spark
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can create a harmless burst of multicolored light at a point up to **120** feet away, accompanied by a crackling noise audible out to **300** feet.
+**Magic Action; 1 Charge:** You can create a harmless burst of multicolored light at a point up to **120** feet away, accompanied by a crackling noise audible out to **300** feet.

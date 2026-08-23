@@ -30,7 +30,7 @@ Medium Beast, Unaligned
 
 | Features | |
 |---|---|
-| Pack Tactics | The hyena's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The hyena gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 
 #### Actions
 | Bite | Melee Attack |

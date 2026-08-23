@@ -20,7 +20,7 @@ A Facility's Size is its area in **5**-foot squares. That area can spread across
 | Vast | 16 squares | 36 squares |
 
 ### Basic Facilities
-A Basic Facility has no explicit benefits, but makes a Bastion more comfortable to inhabit. A Basic Facility can resemble a Special Facility, but doesn't grant its benefits.  Each Bastion starts with one Cramped and one Roomy Basic Facility. 
+A Basic Facility has no explicit effects, but makes a Bastion more comfortable to inhabit. A Basic Facility can resemble a Special Facility, but doesn't grant its effects.  Each Bastion starts with one Cramped and one Roomy Basic Facility.
 
 #### Adding Basic Facilities
 You can add new Basic Facilities or enlarge existing ones by spending money.  The completed facility is available the next Day — paying the cost completes efforts that a Bastion's Hirelings have undertaken in the background.
@@ -34,7 +34,7 @@ Upgrading a Basic Facility increases its Size and costs the difference between i
 | Vast | 3,000 gold |
 
 ### Special Facilities
-A Special Facility is a location that helps characters work on specific tasks that help them while adventuring.  Each Bastion starts with **2** Special Facilities. 
+A Special Facility is a location that helps characters work on specific tasks that help them while adventuring.  Each Bastion starts with **2** Special Facilities.
 
 | Facility | Prerequisite | Description |
 |---|---|---|
@@ -67,7 +67,7 @@ Unlike Basic Facilities, Special Facilities can't be bought; you gain more at sp
 When you gain a Level, you can change one of your Special Facilities.
 
 #### Upgrading Special Facilities
-Upgrading a Special Facility increases its Size and costs the difference between its current Size and its new Size.  Each facility also gives additional benefits as its size increases.
+Upgrading a Special Facility increases its Size and costs the difference between its current Size and its new Size.  Each facility also gives additional effects as its size increases.
 
 | Size | Cost |
 |---|---|

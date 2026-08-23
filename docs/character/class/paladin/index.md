@@ -55,7 +55,7 @@ When you choose Paladin as your Secondary Class, you gain the following proficie
 
 ### 1: Fighting Style
 You learn Fighting Styles.  The [Paladin Table](#class-table) shows how many Fighting Styles you know.
-###### Changing Fighting Styles
+#### Changing Fighting Styles
 Whenever you level up, you can change one of your Fighting Styles.
 
 ### 2: Spellcasting
@@ -90,7 +90,9 @@ After a Long Rest, you regain all your Spell Slots.
 
 
 ### 3: Paladin Subclass
-Choose a Paladin Subclass. Your subclass grants you a feature at this level.
+Choose a Paladin Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|

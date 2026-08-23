@@ -5,19 +5,25 @@
 | | |
 |---|---|
 | Classes | Bard, Cleric, Druid |
-| Components | V, S, M _(a leather strap)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One Ally |
+| Area | |
+| Target | **1** Ally |
 | Duration | 1 hour |
 
-##### Spell Effect
-The target gains the following benefits:
+---
 
-- Difficult Terrain doesn't cost it extra movement.
-- Spells and magical effects can't reduce its Speed or cause it to be Paralyzed or Restrained.
+Each target gains the following effects:
+
+- It ignores Difficult Terrain.
+- Magical effects can't reduce its Speeds, paralyze it, or restrain it.
 - It gains a Swim Speed equal to its Speed.
-- It can spend **5** feet of movement to escape nonmagical restraints or a Grapple.
 
-##### At Higher Levels
+##### Slip Out
+Each target can take this Action.
+
+**Free Action; 5 feet of movement:** The target escapes from a nonmagical restraint or a Grapple.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

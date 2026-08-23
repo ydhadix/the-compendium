@@ -8,10 +8,13 @@ Evocation Cantrip
 | Components | V, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One Large or smaller object |
+| Area | |
+| Target | **1** Large or smaller Object |
 | Duration | 1 hour |
 
-##### Spell Effect
-The target emits Bright Light out to **20** feet and Dim Light **20** feet further.
+---
 
+Each target emits Bright Light out to **20** feet and Dim Light **20** feet further.
+
+#### Ending Early
 This Spell ends if you cast it again.

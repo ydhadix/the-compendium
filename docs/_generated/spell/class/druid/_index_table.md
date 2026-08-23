@@ -7,8 +7,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## Cantrips
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/0/druidcraft_row.md"
 --8<-- "_generated/spell/level/0/elementalism_row.md"
 --8<-- "_generated/spell/level/0/frostbite_row.md"
@@ -30,8 +30,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 1st-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/1/absorb-elements_row.md"
 --8<-- "_generated/spell/level/1/air-bubble_row.md"
 --8<-- "_generated/spell/level/1/animal-friendship_row.md"
@@ -66,8 +66,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 2nd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/2/aid_row.md"
 --8<-- "_generated/spell/level/2/animal-messenger_row.md"
 --8<-- "_generated/spell/level/2/barkskin_row.md"
@@ -92,8 +92,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 3rd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/3/aura-of-vitality_row.md"
 --8<-- "_generated/spell/level/3/call-lightning_row.md"
 --8<-- "_generated/spell/level/3/conjure-animals_row.md"
@@ -122,8 +122,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 4th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/4/blight_row.md"
 --8<-- "_generated/spell/level/4/charm-monster_row.md"
 --8<-- "_generated/spell/level/4/confusion_row.md"
@@ -134,19 +134,19 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/4/fire-shield_row.md"
 --8<-- "_generated/spell/level/4/fount-of-moonlight_row.md"
 --8<-- "_generated/spell/level/4/freedom-of-movement_row.md"
---8<-- "_generated/spell/level/4/giant-insect_row.md"
 --8<-- "_generated/spell/level/4/grasping-vine_row.md"
 --8<-- "_generated/spell/level/4/hallucinatory-terrain_row.md"
 --8<-- "_generated/spell/level/4/ice-storm_row.md"
 --8<-- "_generated/spell/level/4/polymorph_row.md"
 --8<-- "_generated/spell/level/4/stoneskin_row.md"
 --8<-- "_generated/spell/level/4/summon-elemental_row.md"
+--8<-- "_generated/spell/level/4/summon-giant-insect_row.md"
 --8<-- "_generated/spell/level/4/wall-of-fire_row.md"
 
 ## 5th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/5/antilife-shell_row.md"
 --8<-- "_generated/spell/level/5/awaken_row.md"
 --8<-- "_generated/spell/level/5/cone-of-cold_row.md"
@@ -163,8 +163,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 6th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/6/conjure-fey_row.md"
 --8<-- "_generated/spell/level/6/find-the-path_row.md"
 --8<-- "_generated/spell/level/6/flesh-to-stone_row.md"

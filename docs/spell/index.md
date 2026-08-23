@@ -31,7 +31,7 @@ Each class with a Spellcasting feature has its own **Spell List**, which determi
 How you gain a Spell determines how you cast it and whether you can change it later.
 
 #### Prepared Spells
-The Spellcasting feature lets you **Prepare** Spells from the class's Spell List; it sets how many you prepare, when you can change them, and how many at a time. You can't prepare a Spell of a higher Level than the highest Spell Slot you have from the class you prepare it with.
+The Spellcasting feature lets you **Prepare** Spells from the class's Spell List; it sets how many you prepare, when you can change them, and how many at a time. You can't prepare a Spell if its Level is higher than the highest Spell Slot you have from the class you prepare it with.
 
 #### Learned Spells
 Features from your Race, Class, or Feats let you **Learn** Spells. A Spell learned from a Class Feature is also treated as though it were on that class's Spell List.
@@ -60,7 +60,7 @@ When you cast a Spell using a Spell Slot higher than the Spell's Level, you **Up
 Spell **Components** are the words, gestures, and materials a caster must supply to cast a Spell. If you can't provide one or more of a Spell's Components, you can't cast it.
 
 #### Verbal
-A **Verbal** Component is a string of words spoken at a normal speaking voice. A creature that can't speak, or that is within an area of magical silence, can't cast a Spell with a Verbal Component.
+A **Verbal** Component is a string of words spoken at a normal speaking voice. A Creature that can't speak, or that is within an area of magical silence, can't cast a Spell with a Verbal Component.
 
 #### Somatic
 A **Somatic** Component is a gesture performed with at least one hand.
@@ -115,16 +115,16 @@ The effects of different Spells add together while their Durations overlap. If m
 
 
 ### Identifying Spells
-While a Spell's effect is observable, you can Study to identify it, making an Arcana check _(DC **15**)_. On a success, you learn the name of the Spell that created the effect.
+While a Spell's effect is observable, you can Study to identify it, making an Arcana Check _(DC **15**)_. On a success, you learn the name of the Spell that created the effect.
 
 Before a creature you can see casts a Spell, you can take that Study Action as a Reaction. After you do, you can use a second Reaction that triggers when the Spell is cast _(no additional action required)_.
 
 
 ### Multiclass Spellcasting
-If you gain the Spellcasting Feature from both your Primary and Secondary Classes, your Spell Slot capacity depends on your individual Levels in those classes. Spellcasting variants, such as Pact Magic and Sorcery, do not count towards multiclass Spellcasting.
+If you gain the Spellcasting Feature from both your Primary and Secondary Classes, your Spell Slot capacity depends on your individual Levels in those classes. Spellcasting variants, such as Pact Magic and Sorcery, don't count toward multiclass Spellcasting.
 
 | Class | Multiplier |
-|---|---| 
+|---|---|
 | Artificer | × ½ |
 | Bard | × 1 |
 | Cleric | × 1 |
@@ -136,7 +136,7 @@ If you gain the Spellcasting Feature from both your Primary and Secondary Classe
 | Wizard | × 1 |
 
 #### Spellcaster Level
-To determine your Spell Slots, multiply each of your class Levels by its multiplier above, total them, and consult the table below. You prepare Spells for each class separately, and cast each with that class's Spellcasting Ability.
+To determine your Spell Slots, multiply each of your class Levels by its Multiplier, total them, and consult the Spellcaster Level table. You prepare Spells for each class separately, and cast each with that class's Spellcasting Ability.
 
 | Spellcaster Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|---|---|---|---|---|---|---|---|

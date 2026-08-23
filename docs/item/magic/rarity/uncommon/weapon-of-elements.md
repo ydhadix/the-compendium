@@ -4,4 +4,6 @@ Uncommon Weapon (Any)
 
 Each Weapon of Elements has an Elemental Damage Type.
 
-Before you deal damage with this weapon, you can change it to this weapon's Damage Type.
+---
+
+This weapon can deal its Elemental Damage Type instead of its normal Damage Type.

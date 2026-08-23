@@ -1,1 +1,1 @@
-| [Slow](/spell/level/3/slow.md) | Transmutation | V, S, M | Magic Action | 120 ft. | Up to six creatures | 1 minute (C) |
+| [Slow](/spell/level/3/slow.md) | Transmutation | V, S, M | Magic Action | 120 ft. | — | Up to **6** Creatures | 1 minute (C) |

@@ -6,7 +6,4 @@ Uncommon Clothing (Jewelry), Attunement
 { .subtitle }
 
 ##### Cast
-Magic Action, 1 or more Charges
-{ .subtitle }
-
-You can cast _Charm Person_ _(DC **13**)_. Increase the Spell Level by **1** for each additional Charge expended.
+**Magic Action; 1 or more Charges:** You can cast _Charm Person_ _(DC **13**)_. Increase the Spell Level by **1** for each additional Charge expended.

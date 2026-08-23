@@ -30,4 +30,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+8** to hit _[STR + PB]_ |
 | Damage | **2d8 + 5** Piercing Damage _[2d8 + STR]_ |
-| Effect | Before this attack deals damage, if the rhinoceros moved at least **20** feet in a straight line toward a Large or smaller target, it deals an additional **2d8** damage.  After dealing this damage, the rhinoceros knocks the target Prone. |
+| Effect | Before this attack deals damage, if the rhinoceros moved at least **20** feet in a straight line toward a target of the rhinoceros's Size or smaller, it deals an additional **2d8** damage.  After dealing this damage, the rhinoceros knocks the target Prone. |

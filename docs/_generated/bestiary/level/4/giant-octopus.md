@@ -34,7 +34,7 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[STR + PB]_ |
 | Damage | **2d6 + 3** Bludgeoning Damage _[2d6 + STR]_ |
-| Effect | After this attack deals damage, the octopus grapples a Medium or smaller target in all eight tentacles.  While Grappled this way, the target is Restrained. |
+| Effect | After this attack deals damage, the octopus grapples a target at least **1** Size smaller than the octopus in all eight tentacles.  While Grappled this way, the target is Restrained. |
 
 | Reactions | |
 |---|---|

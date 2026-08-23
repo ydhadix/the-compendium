@@ -3,7 +3,4 @@ Uncommon Clothing (Hat)
 { .subtitle }
 
 ##### Cast
-Magic Action
-{ .subtitle }
-
-You can cast _Comprehend Languages_.
+**Magic Action:** You can cast _Comprehend Languages_.

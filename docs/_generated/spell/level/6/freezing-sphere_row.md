@@ -1,1 +1,1 @@
-| [Freezing Sphere](/spell/level/6/freezing-sphere.md) | Evocation | V, S, M | Magic Action | 300 ft. | Each creature in a 60-ft. radius Sphere | — |
+| [Freezing Sphere](/spell/level/6/freezing-sphere.md) | Evocation | V, S, M | Magic Action | 300 ft., or Reach | A 60-ft. radius Sphere | Each Creature and Object | — |

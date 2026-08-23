@@ -6,16 +6,10 @@ Uncommon Weapon (Any), Attunement
 { .subtitle }
 
 ##### Illuminate
-Bonus Action
-{ .subtitle }
-
-This item emits light as the _Light_ Spell.
+**Bonus Action:** You can give this item the effect of _Light_ for **1** hour, or until you use this Action again.
 
 ##### Flash
-Reaction, 1 Charge
-{ .subtitle }
-
-Before you are attacked, you can make the attacker make a Fortitude Save _(DC **13**)_.
+**Reaction; 1 Charge:** Before you are attacked, you can force the attacker to make a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

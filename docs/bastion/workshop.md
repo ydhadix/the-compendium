@@ -4,10 +4,10 @@
 |---|---|
 | Prerequisite | — |
 | Hirelings | 1 |
-| Tools | Three from the list below |
-| Skills | — | 
+| Tools | Three Artisan's Tools |
+| Skills | — |
 
-When you create this facility, choose three of the following Artisan's Tools:
+When you create this facility, choose **3** of the following Artisan's Tools:
 
 - Carpenter's Tools
 - Cobbler's Tools

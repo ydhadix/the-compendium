@@ -8,16 +8,18 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | — |
 
-##### Spell Effect
-The target makes a Will Save.
+---
+
+Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You deal **4d4** Psychic Damage, and the target immediately uses its Reaction to make a Melee Attack against another creature within its Reach.<br>If the target can't make the Attack, its next Attack Roll instead gains Disadvantage before the start of your next Turn. |
+| Fail | You deal **4d4** Psychic Damage, and the target immediately uses its Reaction to make a Melee Attack against another creature within its Reach.<br>If the target can't make the Attack, it instead gains Disadvantage on its next Attack Roll before the start of your next Turn. |
 | Success | You deal half as much damage. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d4** damage per additional Spell Level.

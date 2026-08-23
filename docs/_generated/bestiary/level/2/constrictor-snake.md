@@ -33,4 +33,4 @@ Large Beast, Unaligned
 
 | Constrict | Normal Action |
 |---|---|
-| | One Medium or smaller creature within Reach makes a Fortitude Save _(DC **12** [8 + STR + PB])_; on a failure, the snake deals **3d4** Bludgeoning Damage and grapples the target. |
+| | One creature within Reach that is at least **1** Size smaller than the snake makes a Fortitude Save _(DC **12** [8 + STR + PB])_; on a failure, the snake deals **3d4** Bludgeoning Damage and grapples the target. |

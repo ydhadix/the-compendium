@@ -1,1 +1,1 @@
-| [Potion of Lesser Invisibility](/item/gear/potion/potion-of-invisibility.md) | Potion | 2,000 gold |
+| [Potion of Lesser Invisibility](/item/gear/potion/potion-of-invisibility.md) | Potion (Ingested) | 2,000 gold |

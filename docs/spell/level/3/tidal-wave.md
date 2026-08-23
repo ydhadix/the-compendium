@@ -8,10 +8,12 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | Everything in a 30-ft. × 10-ft. Line |
+| Area | |
+| Target | Each Creature or Object in a 30-ft. × 10-ft. Line |
 | Duration | — |
 
-##### Spell Effect
+---
+
 Each target makes a Reflex Save.
 
 | | |

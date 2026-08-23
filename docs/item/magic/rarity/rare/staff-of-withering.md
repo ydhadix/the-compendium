@@ -6,12 +6,9 @@ Rare Weapon (Staff), Attunement (Spellcaster)
 { .subtitle }
 
 ##### Wither
-Free Action, 1 Charge
-{ .subtitle }
-
-After you hit with this weapon, you can deal an additional **2d10** Necrotic Damage to the target.  The target then makes a Fortitude Save _(DC **15**)_.
+**Free Action; 1 Charge:** Before you deal damage with this weapon, you can add **2d10** Necrotic Damage.  After you deal that damage, the target makes a Fortitude Save _(DC **Spell Save DC**)_.
 
 | | |
 |---|---|
-| Fail | The target's Strength and Constitution Checks and Fortitude Saves gain Disadvantage for **1** hour. |
+| Fail | The target gains Disadvantage on Strength and Constitution Checks and Fortitude Saves for **1** hour. |
 | Success | No effect. |

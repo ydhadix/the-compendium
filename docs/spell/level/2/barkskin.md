@@ -8,8 +8,10 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
+---
+
 The target's Armor Class becomes **15 + PB**, unless it is already higher.

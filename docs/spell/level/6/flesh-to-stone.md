@@ -5,20 +5,26 @@
 | | |
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
-| Components | V, S, M _(a cockatrice feather)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One non-Construct creature |
+| Area | — |
+| Target | **1** non-Construct Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target makes a Fortitude Save.
+---
+
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You restrain the target for the duration. |
+| Fail | You restrain the target. |
 | Success | The target's Speed becomes **0** feet until the start of your next Turn. |
 
-Before each of the target's Turns ends, it repeats this Saving Throw until it accumulates three successes or three failures.  On three successes, this effect ends on the target; on three failures, you petrify it for the duration.
+#### Ending Early
+Before a target's Turn ends, it makes a Fortitude Save.
 
-If you maintain Concentration for the full duration, the target remains Petrified until _Greater Restoration_ or similar magic ends the condition.
+After it fails **3** Saving Throws against this Spell, you petrify it.  After it succeeds on **3**, this Spell ends on that target.
+
+#### Permanence
+If this Spell lasts the full duration, the effect lasts until dispelled _(no Concentration required)_.

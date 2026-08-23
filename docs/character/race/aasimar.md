@@ -6,7 +6,7 @@
 |---|---|
 | Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid and Celestial |
-| Size Category | Medium or Small |
+| Size | Medium or Small |
 | Speed | **30** ft. |
 | Reach | **5** ft. |
 | Hit Points | **8** |
@@ -18,9 +18,11 @@
 Bonus Action, 1 use per Long Rest
 { .subtitle }
 
-Choose one of the following revelations. You can choose a different revelation each time you use this feature.
+Choose **1** of the following revelations.
 
-You gain the following benefits for **1** minute or until you end this effect _(no action required)_:
+You can choose a different revelation each time you use this feature.
+
+You gain the following effects for **1** minute or until you end this effect _(no action required)_:
 
 - You have the revelation's effects.
 - Before you deal damage, you can add **PB** Necrotic or Radiant Damage.

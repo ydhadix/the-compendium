@@ -8,20 +8,25 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
-The target and everything it's wearing and carrying takes a gaseous form.  While in this form, the target:
+---
 
-- gains a **10**-foot Hover Speed and loses all other Speeds.
-- can enter and occupy another creature's space and pass through narrow openings, but treats liquids as solid surfaces.
-- gains Bludgeoning, Piercing, and Slashing Resistance.
-- gains Prone Immunity.
-- gains Fortitude and Reflex Protection.
-- can't talk, attack, cast Spells, or interact with objects.
+Each target and everything it's wearing and carrying takes a gaseous form.
 
-This effect ends on the target if it has **0** Hit Points.
+While in gaseous form, the target gains the following effects:
 
-##### At Higher Levels
+- It gains a **10**-foot Hover Speed and loses all other Speeds.
+- It can enter and occupy another creature's space and pass through narrow openings, but it treats liquids as solid surfaces.
+- It gains Bludgeoning, Piercing, and Slashing Resistance.
+- It gains Prone Immunity.
+- It gains Fortitude and Reflex Protection.
+- It can't talk, attack, cast Spells, or interact with objects.
+
+#### Ending Early
+This Spell ends on a target if it has **0** Hit Points.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

@@ -1,1 +1,1 @@
-| [Dissonant Whispers](/spell/level/1/dissonant-whispers.md) | Enchantment | V | Magic Action | 60 ft. | One creature | — |
+| [Dissonant Whispers](/spell/level/1/dissonant-whispers.md) | Enchantment | V | Magic Action | 60 ft. | — | **1** Creature | — |

@@ -10,5 +10,6 @@
 | Target | Self |
 | Duration | — |
 
-##### Protocol Effect
+---
+
 Your Ship briefly slips into the Ethereal Plane, avoiding the triggering damage.

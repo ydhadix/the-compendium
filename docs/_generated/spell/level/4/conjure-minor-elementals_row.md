@@ -1,1 +1,1 @@
-| [Conjure Minor Elementals](/spell/level/4/conjure-minor-elementals.md) | Conjuration | V, S | Magic Action | — | Anything you choose in a 15-ft. Aura | 10 minutes (C) |
+| [Conjure Minor Elementals](/spell/level/4/conjure-minor-elementals.md) | Conjuration | V, S | Magic Action | — | — | Each Creature or Object you choose in a 15-ft. Aura | 10 minutes (C) |

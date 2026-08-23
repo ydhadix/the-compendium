@@ -44,4 +44,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[STR + PB]_ |
 | Damage | **1d4 + 3** Slashing Damage _[1d4 + STR]_ |
-| Effect | After this attack deals damage, the bear knocks a Large or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is the bear's Size or smaller, the bear knocks the target Prone. |

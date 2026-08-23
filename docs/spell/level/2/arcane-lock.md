@@ -8,11 +8,13 @@
 | Components | V, S, M _(consumes gold dust worth 25 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One closed door, window, container, or other opening |
+| Area | |
+| Target | **1** closed Door, Window, Container, or other opening |
 | Duration | Until dispelled |
 
-##### Spell Effect
-The target can't be unlocked or opened by nonmagical means.
+---
+
+Each target can't be unlocked or opened by nonmagical means.
 
 You can designate creatures that ignore this effect.
 

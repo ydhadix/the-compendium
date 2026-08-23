@@ -5,7 +5,4 @@ Uncommon Clothing (Cloak), Attunement (Druid or Ranger)
 This cloak is a Druidic Focus.
 
 ##### Nature's Veil
-Bonus Action
-{ .subtitle }
-
-While you are Lightly Obscured, you can Hide and remain hidden even while being directly observed.
+**Bonus Action:** While you are Lightly Obscured, you can Hide and remain hidden even while being directly observed.

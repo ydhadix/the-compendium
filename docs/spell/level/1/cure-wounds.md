@@ -8,11 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | — |
 
-##### Spell Effect
-You heal the target by **2d8 + Spellcasting Ability**.
+---
 
-##### At Higher Levels
+You heal each target by **2d8 + Spellcasting Ability**.
+
+#### At Higher Levels
 Add **2d8** to the healing per additional Spell Level.

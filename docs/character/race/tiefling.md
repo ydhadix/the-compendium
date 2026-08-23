@@ -6,7 +6,7 @@
 |---|---|
 | Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid and Fiend |
-| Size Category | Medium or Small |
+| Size | Medium or Small |
 | Speed | **30** ft. |
 | Reach | **5** ft. |
 | Hit Points | **8** |
@@ -19,14 +19,13 @@
 You gain Deception, Intimidation, or Persuasion Proficiency.
 
 ### Fiendish Ancestry
-Choose an ancestry. Each ancestry has different spells and determines the type of your Resistance.
-###### Learned Spells
-You learn this ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
-###### Free Casting
-1 use each per Long Rest
-{ .subtitle }
+Choose an ancestry.
 
-You can cast one of this ancestry's Spells without a Spell Slot.
+Each ancestry has different Spells and determines the type of your Resistance.
+You learn this ancestry's Spells at the corresponding Levels. You can cast those Spells using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+
+##### Free Casting
+**Once each per Long Rest:** You can cast one of this ancestry's Spells without a Spell Slot.
 
 ##### Abyssal Tiefling
 You gain Poison Resistance.

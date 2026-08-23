@@ -8,13 +8,21 @@
 | Components | V |
 | Casting Time | Bonus Action, when you hit with a Melee Weapon Attack |
 | Range | — |
+| Area | |
 | Target | The target of the Attack |
 | Duration | 1 minute |
 
-##### Spell Effect
+---
+
 You deal **1d6** Fire Damage.
 
-After each of the target's Turns starts, you deal **1d6** Fire Damage and it makes a Fortitude Save.  On a success, this effect ends on the target.
+#### Ending Early
+After a target's Turn starts, you deal **1d6** Fire Damage and it makes a Fortitude Save.
 
-##### At Higher Levels
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This Spell ends on the target. |
+
+#### At Higher Levels
 Add **1d6** Fire Damage per additional Spell Level.

@@ -1,1 +1,1 @@
-| [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | One creature | 30 days |
+| [Geas](/spell/level/5/geas.md) | Enchantment | V | 1 minute | 60 ft. | — | **1** Creature who understands you | 30 days |

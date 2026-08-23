@@ -1,1 +1,1 @@
-| [Potion of Animal Friendship](/item/gear/potion/potion-of-animal-friendship.md) | Potion | 200 gold |
+| [Potion of Animal Friendship](/item/gear/potion/potion-of-animal-friendship.md) | Potion (Ingested) | 200 gold |

@@ -1,1 +1,1 @@
-| [Lightning Lure](/spell/level/0/lightning-lure.md) | Evocation | V | Magic Action | 30 ft. | One thing | — |
+| [Lightning Lure](/spell/level/0/lightning-lure.md) | Evocation | V | Magic Action | 30 ft. | — | **1** Creature or Object | — |

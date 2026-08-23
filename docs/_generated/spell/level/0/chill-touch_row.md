@@ -1,1 +1,1 @@
-| [Chill Touch](/spell/level/0/chill-touch.md) | Necromancy | V, S | Magic Action | Reach | One thing | Until the end of your next Turn |
+| [Chill Touch](/spell/level/0/chill-touch.md) | Necromancy | V, S | Magic Action | Reach | — | **1** Creature or Object | Until the end of your next Turn |

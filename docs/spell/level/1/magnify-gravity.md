@@ -8,10 +8,12 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | Everything in a 10-ft. radius Sphere |
+| Area | |
+| Target | Each Creature or Object in a 10-ft. radius Sphere |
 | Duration | Until the end of your next Turn |
 
-##### Spell Effect
+---
+
 Each target makes a Fortitude Save.
 
 | | |
@@ -21,11 +23,10 @@ Each target makes a Fortitude Save.
 
 Objects in the area that aren't worn or carried can't be moved or picked up.
 
-###### Overpower
-Free Action
-{ .subtitle }
+##### Overpower
+Any Creature can take this Action.
 
-A creature can make an Athletics Check against your Spell Save DC to end this effect on such an object.
+**Free Action:** The creature makes an Athletics Check against your Spell Save DC to end this effect on such an object.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d8** damage and **5** feet to the radius per additional Spell Level.

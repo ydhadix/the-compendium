@@ -1,5 +1,5 @@
 # Backgrounds
-A **Background** represents the life a character led before adventuring.  You can create your own background, or you can modify one of the backgrounds below to suit your character.
+A **Background** represents the life a character led before adventuring.  You can create your own background, or you can modify an existing background to suit your character.
 { .subtitle }
 
 ## Parts of a Background
@@ -39,7 +39,7 @@ Each background includes the following parts:
 | Abilities | Strength, Dexterity, Intelligence |
 | Feat | Crafter |
 | Skill | Perception, Persuasion |
-| Trade | choose one Artisan's Tool |
+| Trade | choose **1** Artisan's Tool |
 | Expertise | Persuasion |
 | Languages | Common, one Standard, one Exotic |
 
@@ -71,7 +71,7 @@ Each background includes the following parts:
 | Abilities | Dexterity, Constitution, Intelligence |
 | Feat | Alert |
 | Skill | Precision, Stealth |
-| Trade | choose one Gaming Set |
+| Trade | choose **1** Gaming Set |
 | Expertise | Precision |
 | Languages | Common, one Standard, one Exotic |
 
@@ -89,7 +89,7 @@ Each background includes the following parts:
 | Abilities | Strength, Dexterity, Charisma |
 | Feat | Musician |
 | Skill | Acrobatics, Performance |
-| Trade | choose one Musical Instrument |
+| Trade | choose **1** Musical Instrument |
 | Expertise | Performance |
 | Languages | Common, one Standard, one Exotic |
 
@@ -124,7 +124,7 @@ Each background includes the following parts:
 | Abilities | Strength, Intelligence, Wisdom |
 | Feat | Alert |
 | Skill | Athletics, Persuasion |
-| Trade | choose one Gaming Set |
+| Trade | choose **1** Gaming Set |
 | Expertise | Athletics |
 | Languages | Common, one Standard, one Exotic |
 
@@ -196,7 +196,7 @@ Each background includes the following parts:
 | Abilities | Strength, Intelligence, Charisma |
 | Feat | Skilled |
 | Skill | History, Persuasion |
-| Trade | choose one Gaming Set |
+| Trade | choose **1** Gaming Set |
 | Expertise | Persuasion |
 | Languages | Common, one Standard, one Exotic |
 
@@ -263,7 +263,7 @@ Each background includes the following parts:
 | Abilities | Strength, Dexterity, Constitution |
 | Feat | Savage |
 | Skill | Athletics, Intimidation |
-| Trade | choose one Gaming Set |
+| Trade | choose **1** Gaming Set |
 | Expertise | Intimidation |
 | Languages | Common, one Standard, one Exotic |
 

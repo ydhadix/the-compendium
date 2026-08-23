@@ -8,13 +8,16 @@
 | Components | V, M |
 | Casting Time | Reaction, when a creature falls |
 | Range | 60 ft. |
-| Target | Up to 5 falling creatures |
+| Area | |
+| Target | Up to **5** falling Creatures |
 | Duration | 1 minute |
 
-##### Spell Effect
-The target's descent slows to **60** feet. The target takes no damage from the fall.
+---
 
-After the target lands, this effect ends on it.
+The target's descent slows to **60** feet. Each target takes no damage from the fall.
 
-##### At Higher Levels
+#### Ending Early
+This Spell ends on a target after it lands.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

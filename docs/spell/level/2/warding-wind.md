@@ -8,14 +8,16 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | — |
-| Target | 10-ft. Aura |
+| Area | |
+| Target | A 10-ft. Aura |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
-You create strong wind in the area. The area has the following effects:
+---
+
+You create strong wind in the area. The area gains the following effects:
 
 - Vapor, fog, and gas are dispersed.
 - Unprotected flames are extinguished.
 - Each target is Deafened.
 - The area is Difficult Terrain for creatures other than you.
-- Ranged Weapon Attacks gain Disadvantage if they pass through the area.
+- Creatures gain Disadvantage on Ranged Weapon Attacks that pass through the area.

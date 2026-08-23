@@ -2,8 +2,5 @@
 Rare Armor (Plate)
 { .subtitle }
 
-##### Root
-Reaction
-{ .subtitle }
-
-Before you are propelled along the ground, you can become Anchored until the end of the turn or you end this effect _(no action required)_.
+##### Bulwark
+**Reaction:** Before you are propelled along the ground, you can become Anchored until the end of the Turn or you end this effect _(no action required)_.

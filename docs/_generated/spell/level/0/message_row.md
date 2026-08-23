@@ -1,1 +1,1 @@
-| [Message](/spell/level/0/message.md) | Transmutation | S, M | Magic Action | 120 ft. | One creature | — |
+| [Message](/spell/level/0/message.md) | Transmutation | S, M | Magic Action | 120 ft. | — | **1** Creature | — |

@@ -3,7 +3,4 @@ Very Rare Clothing (Jewelry), Attunement
 { .subtitle }
 
 ##### Cast
-Magic Action
-{ .subtitle }
-
-You can cast _Telekinesis_.
+**Magic Action:** You can cast _Telekinesis_.

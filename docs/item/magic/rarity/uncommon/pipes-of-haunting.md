@@ -6,14 +6,11 @@ Uncommon Wondrous Item (Musical Instrument)
 { .subtitle }
 
 ##### Haunt
-Magic Action, 1 Charge
-{ .subtitle }
-
-Each creature you choose within **30** feet makes a Will Save _(DC **13**)_.
+**Magic Action; 1 Charge:** You can force each creature you choose within **30** feet to make a Will Save _(DC **13**)_.
 
 | | |
 |---|---|
 | Fail | The target is Frightened by you for **1** minute. |
 | Success | The target gains Immunity to this item's effects for **24** hours. |
 
-Before each of a Frightened target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before a Frightened target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.

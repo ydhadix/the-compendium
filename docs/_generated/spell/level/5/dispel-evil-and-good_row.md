@@ -1,1 +1,0 @@
-| [Dispel Evil and Good](/spell/level/5/dispel-evil-and-good.md) | Abjuration | V, S, M | Magic Action | — | Self | 1 minute (C) |

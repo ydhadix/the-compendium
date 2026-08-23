@@ -8,10 +8,12 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | Everything in a 15-ft. Cube |
+| Area | |
+| Target | Each Creature or Object in a 15-ft. Cube |
 | Duration | — |
 
-##### Spell Effect
+---
+
 Each target makes a Fortitude Save.
 
 | | |
@@ -21,5 +23,5 @@ Each target makes a Fortitude Save.
 
 This Spell's thunder is audible out to **300** feet.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d8** damage and **5** feet to the Cube per additional Spell Level.

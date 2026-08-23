@@ -1,1 +1,1 @@
-| [Spellflare](/spell/level/1/spellflare.md) | Evocation | V, S | Magic Action | 60 ft. | One thing | — |
+| [Spellflare](/spell/level/1/spellflare.md) | Evocation | V, S | Magic Action | 60 ft. | — | **1** Creature or Object | — |

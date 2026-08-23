@@ -49,4 +49,4 @@ Large Elemental, True Neutral
 | Range | 60 ft. |
 | Attack | **+8** to hit _[STR + PB]_ |
 | Damage | **1d6 + 5** Bludgeoning Damage _[1d6 + STR]_ |
-| Effect | After this attack deals damage, the elemental knocks a Large or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is the elemental's Size or smaller, the elemental knocks the target Prone. |

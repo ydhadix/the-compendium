@@ -1,1 +1,1 @@
-| [Sapping Sting](/spell/level/0/sapping-sting.md) | Necromancy | V, S | Magic Action | 30 ft. | One thing | — |
+| [Sapping Sting](/spell/level/0/sapping-sting.md) | Necromancy | V, S | Magic Action | 30 ft. | — | **1** Creature or Object | — |

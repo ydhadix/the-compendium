@@ -3,10 +3,7 @@ Rare Wondrous Item (Musical Instrument)
 { .subtitle }
 
 ##### Blast
-Magic Action
-{ .subtitle }
-
-You can blow the horn, emitting a blast in a **30**-foot Cone audible out to **600** feet.  Everything in the Cone makes a Fortitude Save _(DC **15**)_.
+**Magic Action:** You can blow the horn, emitting a blast in a **30**-foot Cone audible out to **600** feet.  Everything in the Cone makes a Fortitude Save _(DC **15**)_.
 
 | | |
 |---|---|

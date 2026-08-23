@@ -8,8 +8,10 @@
 | Components | V, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
-The target can understand any language it hears or sees, and any creature that understands at least one language can understand anything the target says or signs.
+---
+
+Each target can understand any language it hears or sees, and any Creature that understands at least one language can understand anything the target says or signs.

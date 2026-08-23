@@ -5,20 +5,27 @@
 | | |
 |---|---|
 | Classes | Druid |
-| Components | V, S, M _(a candle)_ |
+| Components | V, S, M |
 | Casting Time | 1 minute |
 | Range | 30 ft. |
-| Target | You and up to 10 Allies |
+| Area | — |
+| Target | You and up to **10** Allies |
 | Duration | 8 hours |
 
-##### Spell Effect
-Each target takes a gaseous cloud form.  While in this form, a target:
+---
 
-- gains a **300**-foot Hover Speed and loses all other Speeds.
-- gains Bludgeoning, Piercing, and Slashing Resistance.
-- gains Prone Immunity.
-- can take only the Dash Action or a Magic Action to change form.
+Each target and everything it's wearing and carrying takes a cloud form.
 
-Changing between cloud form and normal form takes **1** minute, during which the target is Stunned.
+While in cloud form, a target gains the following effects:
 
-If a target is flying in cloud form when this Spell ends, it descends **60** feet per Round for **1** minute and lands safely.  If it hasn't landed by then, it falls the remaining distance.
+- It gains a **300**-foot Hover Speed and loses all other Speeds.
+- It gains Bludgeoning, Piercing, and Slashing Resistance.
+- It gains Prone Immunity.
+- It can take only the Dash Action.
+
+After this Spell ends, a flying target in cloud form gains the effect of _Feather Fall_.
+
+##### Change Form
+Any target can take this Action.
+
+**Utilize Action:** The target can stun themselves for **1** minute.  Then, it enters or leaves cloud form.

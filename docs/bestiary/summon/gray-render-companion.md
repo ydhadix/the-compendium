@@ -33,7 +33,7 @@ Large Monstrosity, Neutral
 
 | Features | |
 |---|---|
-| Devoted | The companion's Attack Rolls gain Advantage against a target within **5** feet of you. |
+| Devoted | The companion gains Advantage on Attack Rolls against a target within **5** feet of you. |
 
 #### Actions
 | Rend | Melee Attack |
@@ -41,7 +41,7 @@ Large Monstrosity, Neutral
 | Range | Reach |
 | Attack | **+Spell Attack** to hit |
 | Damage | **1d10 + 3 + Spell Ability** Slashing Damage _[1d10 + STR + Spell Ability]_ |
-| Effect | Before this attack deals damage, if the target is Prone, it deals an additional **1d6** damage.  After dealing this damage, the companion knocks a Medium or smaller target Prone. |
+| Effect | Before this attack deals damage, if the target is Prone, it deals an additional **1d6** damage.  After dealing this damage, if the target is at least **1** Size smaller than the companion, the companion knocks the target Prone. |
 
 | Reactions | |
 |---|---|

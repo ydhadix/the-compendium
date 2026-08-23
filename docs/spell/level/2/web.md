@@ -8,10 +8,12 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | Everything in a 20-ft. Cube |
+| Area | |
+| Target | Each Creature or Object in a 20-ft. Cube |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
+---
+
 You summon sticky webbing in the area, which is Difficult Terrain and Lightly Obscured.
 
 The webs are flammable. Any **5**-foot Cube of webs exposed to fire burns away in **1** Round, dealing **2d4** Fire Damage to everything that starts its Turn in the fire.
@@ -20,5 +22,11 @@ After a target enters the area _(including when this Spell is cast)_, it makes a
 
 | | |
 |---|---|
-| Fail | You restrain the target. A creature with the target within its Reach can Utilize to make an Athletics Check against your Spell Save DC; on a success, this effect ends on the target. |
+| Fail | You restrain the target. |
 | Success | No effect. |
+
+#### Ending Early
+##### Escape
+Any Creature that can reach a restrained target can take this Action.
+
+**Utilize Action:** The creature makes an Athletics Check against your Spell Save DC.  On a success, this effect ends on that target.

@@ -1,34 +1,25 @@
 ### Planar Wanderer
 
-#### Damage Resistance
-After a Long Rest, choose Acid, Cold, or Fire Damage. Until your next Long Rest, you gain Resistance to the chosen Damage Type.
+After you finish a Long Rest, you can choose Acid, Cold, or Fire Damage. Until your next Long Rest, you gain Resistance to the chosen Damage Type.
 
-#### Portal Cracker
-Magic Action
-{ .subtitle }
+You learn _Detect Portal_. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
-You can choose a portal within your Reach and make an Arcana Check _(DC **20**)_.
+##### Free Casting
+**Once per Long Rest:** You can cast _Detect Portal_ without a Spell Slot or Concentration.
+
+##### Command Portal
+**Magic Action:** You can choose a portal within your Reach and make an Arcana Check _(DC **20**)_.
 
 | | |
 |---|---|
 | Success | For **1** hour, the portal is forced open or closed. |
 
-#### Revert Portal
-Magic Action
-{ .subtitle }
+###### Revert Portal
+Any creature holding the portal's key can take this Action.
 
-A creature holding the portal's key can make an Arcana Check _(DC **20**)_ to end this effect.
+**Magic Action:** The creature makes an Arcana Check _(DC **20**)_.
 
 | | |
 |---|---|
 | Success | This effect ends. |
 | Fail | You deal **3d8** Psychic Damage. The target can't attempt this Ability Check on the same portal again until it finishes a Long Rest. |
-
-#### Portal Sense
-You learn the _Detect Portal_ Spell. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
-
-###### Free Casting
-1 use per Long Rest
-{ .subtitle }
-
-You can cast _Detect Portal_ without a Spell Slot or Concentration.

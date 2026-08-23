@@ -5,11 +5,13 @@
 | | |
 |---|---|
 | Classes | Bard, Wizard |
-| Components | V, S, M _(two eggs)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
-| Target | Up to 8 Allies |
+| Area | — |
+| Target | Up to **8** Allies |
 | Duration | 1 hour |
 
-##### Spell Effect
-While on the same plane, each target gains Telepathy with each other target.
+---
+
+Each target gains Telepathy with each other target.

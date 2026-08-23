@@ -86,7 +86,9 @@ After a Long Rest, you regain all your Spell Slots.
 
 
 ### 3: Wizard Subclass
-Choose a Wizard Subclass. Your subclass grants you a feature at this level.
+Choose a Wizard Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|

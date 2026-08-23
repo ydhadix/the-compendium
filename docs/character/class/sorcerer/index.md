@@ -54,7 +54,7 @@ When you choose Sorcerer as your Secondary Class, you gain the following profici
 ## Class Features
 
 ### 1: Spellcasting (Sorcery)
-| Level | Cantrips Known | Spells Prepared | Sorcery Points | 
+| Level | Cantrips Known | Spells Prepared | Sorcery Points |
 |---|---|---|---|
 |  1 | 4 |  2 |  5 |
 |  2 | 4 |  4 |  8 |
@@ -77,7 +77,9 @@ The Spellcasting table shows how many Cantrips you know and how many Spells you 
 ###### Changing Spells
 Whenever you gain a Level, you can replace one of your known Cantrips and one of your Prepared Spells.
 #### Spell Slots
-Before you cast a Spell, you can expend Sorcery Points to create the required Spell Slot. The Spellcasting table shows how many Sorcery Points you have.
+The Spellcasting table shows how many Sorcery Points you have.
+##### Create Spell Slot
+**Free Action:** Before you cast a Spell, you can expend Sorcery Points to create the required Spell Slot.
 
 | Spell Level | Sorcery Points | Minimum Sorcerer Level |
 |---|---|---|
@@ -96,7 +98,9 @@ After a Long Rest, you regain all your Sorcery Points.
 
 
 ### 3: Sorcerer Subclass
-Choose a Sorcerer Subclass. Your subclass grants you a feature at this level.
+Choose a Sorcerer Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|

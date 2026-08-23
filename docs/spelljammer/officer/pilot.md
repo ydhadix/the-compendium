@@ -25,7 +25,7 @@ You make a Piloting check against an Enemy Ship.
 | Success | You move one range closer or farther. |
 
 ### Hold Steady
-Until your next Turn, your Ship gains Advantage on Attacks, but Attacks against your Ship also gain Advantage.
+Until your next Turn, your Ship gains Advantage on Attacks, but creatures also gain Advantage on Attacks against your Ship.
 
 ### Ram
 You make a Piloting check against an Enemy Ship within Close range.
@@ -33,7 +33,7 @@ You make a Piloting check against an Enemy Ship within Close range.
 | | |
 |---|---|
 | Success | You roll **2 × your Size Class** **d10s** and deal the total as Bludgeoning Damage to the Enemy Ship's hull, and half as much to your own hull. |
-| Failure | Until your next Turn, Attacks against your Ship gain Advantage. |
+| Failure | Until your next Turn, creatures gain Advantage on Attacks against your Ship. |
 
 ## Pilot Maneuvers
 A Pilot learns **Maneuvers** based on their Class Levels.  You can use a Maneuver only when its condition is met, provided you expend one of your Maneuver Dice to do so.

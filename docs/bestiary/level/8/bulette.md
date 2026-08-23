@@ -42,7 +42,7 @@ Large Monstrosity, Unaligned
 
 | Deadly Leap | Normal Action |
 |---|---|
-| | The bulette spends **5** feet of movement to jump to a space within **15** feet holding one or more Large or smaller creatures.  Each creature in that space makes a Reflex Save _(DC **15** [8 + STR + PB])_.  On a failure, the bulette deals **3d12** Bludgeoning Damage and knocks the target Prone; on a success, it deals half as much damage and propels the target **5** feet away. |
+| | The bulette spends **5** feet of movement to jump to a space within **15** feet holding one or more creatures of the bulette's Size or smaller.  Each creature in that space makes a Reflex Save _(DC **15** [8 + STR + PB])_.  On a failure, the bulette deals **3d12** Bludgeoning Damage and knocks the target Prone; on a success, it deals half as much damage and propels the target **5** feet away. |
 
 | Bonus Actions | |
 |---|---|

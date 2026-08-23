@@ -38,4 +38,4 @@ Large Monstrosity, Unaligned
 | Range | Reach |
 | Attack | **+7** to hit _[STR + PB]_ |
 | Damage | **1d8 + 4** Piercing Damage _[1d8 + STR]_ |
-| Effect | After this attack hits, the griffon grapples a Medium or smaller target in its front claws. |
+| Effect | After this attack hits, the griffon grapples a target at least **1** Size smaller than the griffon in its front claws. |

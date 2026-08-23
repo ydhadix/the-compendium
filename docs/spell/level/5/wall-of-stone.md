@@ -5,19 +5,27 @@
 | | |
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
-| Components | V, S, M _(a cube of granite)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
+| Area | Special |
 | Target | — |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
-You create a nonmagical wall of solid stone, in any shape, formed of **10** contiguous **10**-foot-by-**10**-foot panels **6** inches thick, or **10**-foot-by-**20**-foot panels **3** inches thick.
+---
 
-The wall must merge with and be supported by existing stone.  Before the wall appears, you propel everything in the wall's space to one side of the wall.
+You conjure a **6**-inch thick barrier of nonmagical stone that must merge with and be supported by existing stone.  The barrier is a flat surface of **10** contiguous **10**-foot-by-**10**-foot panels, in any orientation.
 
-If a creature would be fully enclosed by the wall, it makes a Reflex Save;  on a success, it can use its Reaction to move up to its Speed to escape the enclosure.
+Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.  Then, each target enclosed by the wall makes a Reflex Save.
 
-Each panel is an object with AC **15**, **30** Hit Points per inch of thickness, and Immunity to Poison and Psychic Damage.  Destroying a panel may collapse the panels connected to it.
+| | |
+|---|---|
+| Fail | No effect. |
+| Success | The target can move up to its Speed to escape the enclosure. |
 
-If you maintain Concentration for the full duration, the wall becomes permanent.
+Each panel is an Object with Armor Class **15** and **150** Hit Points.
+
+A panel with **0** Hit Points is destroyed, possibly collapsing the panels connected to it.
+
+#### Permanence
+If this Spell lasts the full duration, the wall becomes permanent.

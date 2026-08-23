@@ -1,1 +1,1 @@
-| [Clairvoyance](/spell/level/3/clairvoyance.md) | Divination | V, S, M ($) | 10 minutes | 1 mile | — | 10 minutes (C) |
+| [Clairvoyance](/spell/level/3/clairvoyance.md) | Divination | V, S, M ($) | 10 minutes | 1 mile | — | — | 10 minutes (C) |

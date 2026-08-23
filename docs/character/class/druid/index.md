@@ -89,7 +89,9 @@ After a Long Rest, you regain all your Spell Slots.
 
 
 ### 3: Druid Subclass
-Choose a Druid Subclass. Your subclass grants you a feature at this level.
+Choose a Druid Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|

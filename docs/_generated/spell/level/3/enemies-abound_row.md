@@ -1,1 +1,1 @@
-| [Enemies Abound](/spell/level/3/enemies-abound.md) | Enchantment | V, S | Magic Action | 120 ft. | One creature | 1 minute (C) |
+| [Enemies Abound](/spell/level/3/enemies-abound.md) | Enchantment | V, S | Magic Action | 120 ft. | — | **1** Creature | 1 minute (C) |

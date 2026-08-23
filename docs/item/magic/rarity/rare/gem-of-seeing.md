@@ -6,7 +6,4 @@ Rare Wondrous Item, Attunement
 { .subtitle }
 
 ##### Peer
-Magic Action, 1 Charge
-{ .subtitle }
-
-You gain **120** feet of Truesight while peering through this gem for **10** minutes.
+**Magic Action; 1 Charge:** While peering through this gem, you can gain **120** feet of Truesight for **10** minutes.

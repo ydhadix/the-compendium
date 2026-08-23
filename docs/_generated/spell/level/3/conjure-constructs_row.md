@@ -1,1 +1,1 @@
-| [Conjure Constructs](/spell/level/3/conjure-constructs.md) | Conjuration | V, S, M | Magic Action | 60 ft. | Everything in a 5-ft. radius Sphere | 10 minutes (C) |
+| [Conjure Constructs](/spell/level/3/conjure-constructs.md) | Conjuration | V, S, M | Magic Action | 60 ft. | — | Each Creature or Object in a 5-ft. radius Sphere | 10 minutes (C) |

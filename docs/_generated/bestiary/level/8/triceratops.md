@@ -34,4 +34,4 @@ Huge Beast, Unaligned
 | Range | Reach |
 | Attack | **+9** to hit _[STR + PB]_ |
 | Damage | **2d12 + 6** Piercing Damage _[2d12 + STR]_ |
-| Effect | Before this attack deals damage, if the triceratops moved at least **20** feet in a straight line toward a Huge or smaller target, it deals an additional **2d8** damage.  After dealing this damage, the triceratops knocks the target Prone. |
+| Effect | Before this attack deals damage, if the triceratops moved at least **20** feet in a straight line toward a target of the triceratops's Size or smaller, it deals an additional **2d8** damage.  After dealing this damage, the triceratops knocks the target Prone. |

@@ -1,1 +1,1 @@
-| [Illusory Script](/spell/level/1/illusory-script.md) | Illusion | S, M ($C) | 1 minute (R) | Reach | Paper, parchment, or another surface | 10 days |
+| [Illusory Script](/spell/level/1/illusory-script.md) | Illusion | S, M ($C) | 1 minute (R) | Reach | — | **1** Paper, Parchment, or an Object you can write on | 10 days |

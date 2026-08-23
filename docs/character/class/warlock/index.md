@@ -86,7 +86,9 @@ After a Short Rest, you regain all your Spell Slots.
 
 
 ### 3: Warlock Subclass
-Choose a Warlock Subclass. Your subclass grants you a feature at this level.
+Choose a Warlock Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|

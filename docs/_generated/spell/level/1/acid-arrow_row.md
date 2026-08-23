@@ -1,1 +1,1 @@
-| [Acid Arrow](/spell/level/1/acid-arrow.md) | Evocation | V, S, M | Magic Action | 90 ft. | One thing | — |
+| [Acid Arrow](/spell/level/1/acid-arrow.md) | Evocation | V, S, M | Magic Action | 90 ft. | — | **1** Creature or Object | — |

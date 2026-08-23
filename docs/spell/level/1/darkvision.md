@@ -8,11 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 8 hours |
 
-##### Spell Effect
-The target gains **120** feet of Darkvision.
+---
 
-##### At Higher Levels
+Each target gains **120** feet of Darkvision.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

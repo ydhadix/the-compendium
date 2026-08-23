@@ -1,1 +1,1 @@
-| [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | One thing within 30 ft. of the vine | 1 minute (C) |
+| [Grasping Vine](/spell/level/4/grasping-vine.md) | Conjuration | V, S | Bonus Action | 60 ft. | — | — | 1 minute (C) |

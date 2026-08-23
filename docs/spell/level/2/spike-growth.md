@@ -8,19 +8,20 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 150 ft. |
-| Target | 20-ft. radius Sphere |
+| Area | |
+| Target | A 20-ft. radius Sphere |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
+---
+
 The area is Difficult Terrain and camouflaged to look natural.
 
-A creature that moves into or within the area takes **2d4** Piercing Damage for every **5** feet it moves.
+You deal **2d4** Piercing Damage to a Creature that moves into or within the area for every **5** feet it moves.
 
-###### Search
-Search Action
-{ .subtitle }
+##### Search
+Any Creature that can see the area can take this Action.
 
-A creature that can see the area can make a Perception or Survival Check against your Spell Save DC.
+**Search Action:** The creature makes a Perception or Survival Check against your Spell Save DC.
 
 | | |
 |---|---|

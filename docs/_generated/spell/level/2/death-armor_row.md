@@ -1,1 +1,1 @@
-| [Death Armor](/spell/level/2/death-armor.md) | Necromancy | V, S, M ($C) | Magic Action | Reach | One creature | 1 hour |
+| [Death Armor](/spell/level/2/death-armor.md) | Necromancy | V, S, M ($C) | Magic Action | Reach | — | **1** Creature | 1 hour |

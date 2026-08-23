@@ -14,18 +14,12 @@ Bards of the College of Lore gather knowledge from every source, from scholarly 
 You gain Proficiency in any **3** Skills.
 
 ### 3: Cutting Words
-Reaction, 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use
-{ .subtitle }
-
-Before a creature within 60 feet makes a Damage Roll or succeeds on an Ability Check or Attack Roll, you can reduce the total by **Inspiration Die**.
+**Reaction; 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use:** Before a creature within 60 feet makes a Damage Roll or succeeds on an Ability Check or Attack Roll, you can reduce the total by **Inspiration Die**.
 
 ### 6: Magical Discovery
 You learn **2** Cleric, Druid, or Wizard Spells as Bard Spells.
-###### Changing Spells
+#### Changing Spells
 Whenever you gain a Level, you can replace one of these Spells.
 
 ### 9: Peerless Skill
-Free Action, 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use
-{ .subtitle }
-
-Before you fail an Ability Check or Attack Roll, you can add **Inspiration Die** to the total.  If the Ability Check or Attack Roll still fails, you don't expend a use of Bardic Inspiration.
+**Free Action; 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use:** Before you fail an Ability Check or Attack Roll, you can add **Inspiration Die** to the total.  If the Ability Check or Attack Roll still fails, you don't expend a use of Bardic Inspiration.

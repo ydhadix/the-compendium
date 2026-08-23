@@ -3,7 +3,4 @@ Uncommon Clothing (Hat), Attunement
 { .subtitle }
 
 ##### Cast
-Magic Action
-{ .subtitle }
-
-You can cast _Disguise Self_.
+**Magic Action:** You can cast _Disguise Self_.

@@ -2,6 +2,6 @@
 Uncommon Weapon (Any), Attunement
 { .subtitle }
 
-While within **30** feet, you and your Allies' Initiative Checks gain Advantage.
+You and your Allies within **30** feet gain Advantage on Initiative Checks.
 
-Before you roll Initiative, you and your Allies within **30** feet wake from nonmagical sleep.
+Before you roll Initiative, your Allies within **30** feet wake from nonmagical sleep.

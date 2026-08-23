@@ -14,7 +14,7 @@ When a creature who meets this facility's Prerequisite finishes a Long Rest in y
 Boon
 { .subtitle }
 
-This gift grants one of the following benefits:
+This gift grants **1** of the following effects:
 
 - You gain Proficiency in one of this Facility's Skills.
 - You learn one Initiate Fighting Style.

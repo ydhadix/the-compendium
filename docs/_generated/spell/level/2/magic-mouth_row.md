@@ -1,1 +1,1 @@
-| [Magic Mouth](/spell/level/2/magic-mouth.md) | Illusion | V, S, M ($C) | 1 minute (R) | 30 ft. | One object | Until dispelled |
+| [Magic Mouth](/spell/level/2/magic-mouth.md) | Illusion | V, S, M ($C) | 1 minute (R) | 30 ft. | — | **1** Object | Until dispelled |

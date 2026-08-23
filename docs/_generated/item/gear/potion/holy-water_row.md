@@ -1,1 +1,1 @@
-| [Holy Water](/item/gear/potion/holy-water.md) | Potion | 25 gold |
+| [Holy Water](/item/gear/potion/holy-water.md) | Potion (Ingested | 25 gold |

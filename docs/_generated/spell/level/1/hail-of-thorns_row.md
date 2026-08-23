@@ -1,1 +1,1 @@
-| [Hail of Thorns](/spell/level/1/hail-of-thorns.md) | Conjuration | V | Bonus Action | — | Everything in a 5-ft. radius Sphere around the target of the Attack | — |
+| [Hail of Thorns](/spell/level/1/hail-of-thorns.md) | Conjuration | V | Bonus Action | — | — | Each Creature or Object in a 5-ft. radius Sphere around the target of the Attack | — |

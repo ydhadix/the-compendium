@@ -1,7 +1,5 @@
 ### Potion of Flying
-Potion, Consumable, 20,000 gold
+Potion (Ingested), Consumable, 20,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, you gain the effect of _Fly_ _(without Concentration)_ for **1** hour.
+The target gains the effect of _Fly_ for **1** hour _(no Concentration required)_.

@@ -8,8 +8,12 @@
 | Components | V, S, M _(a book worth 25 Gold)_ |
 | Casting Time | Magic Action |
 | Range | — |
+| Area | |
 | Target | Self |
 | Duration | 1 hour |
 
-##### Spell Effect
-Choose a Skill. You gain Proficiency in the chosen Skill.
+---
+
+Choose a Skill.
+
+You gain Proficiency in the chosen Skill.

@@ -1,0 +1,1 @@
+| [Basic Poison](/item/gear/potion/basic-poison.md) | Potion (Injury) | 100 gold |

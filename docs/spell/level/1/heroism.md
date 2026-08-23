@@ -8,13 +8,15 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target gains Fear Immunity.
+---
 
-After the target's Turn begins, it gains **Spellcasting Ability** Temporary Hit Points.
+Each target gains Fear Immunity.
 
-##### At Higher Levels
+After the target's Turn starts, it gains **Spellcasting Ability** Temporary Hit Points.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

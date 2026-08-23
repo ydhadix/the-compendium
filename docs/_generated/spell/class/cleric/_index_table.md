@@ -7,8 +7,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## Cantrips
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/0/guidance_row.md"
 --8<-- "_generated/spell/level/0/light_row.md"
 --8<-- "_generated/spell/level/0/mending_row.md"
@@ -22,8 +22,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 1st-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/1/bane_row.md"
 --8<-- "_generated/spell/level/1/bless_row.md"
 --8<-- "_generated/spell/level/1/command_row.md"
@@ -48,8 +48,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 2nd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/2/aid_row.md"
 --8<-- "_generated/spell/level/2/blindness-deafness_row.md"
 --8<-- "_generated/spell/level/2/borrowed-knowledge_row.md"
@@ -68,8 +68,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 3rd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/3/animate-dead_row.md"
 --8<-- "_generated/spell/level/3/aura-of-life_row.md"
 --8<-- "_generated/spell/level/3/aura-of-purity_row.md"
@@ -101,8 +101,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 4th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/4/banishment_row.md"
 --8<-- "_generated/spell/level/4/control-water_row.md"
 --8<-- "_generated/spell/level/4/death-ward_row.md"
@@ -111,11 +111,11 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 5th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/5/circle-of-power_row.md"
 --8<-- "_generated/spell/level/5/contagion_row.md"
---8<-- "_generated/spell/level/5/dispel-evil-and-good_row.md"
+--8<-- "_generated/spell/level/5/dispel-good-and-evil_row.md"
 --8<-- "_generated/spell/level/5/flame-strike_row.md"
 --8<-- "_generated/spell/level/5/geas_row.md"
 --8<-- "_generated/spell/level/5/greater-restoration_row.md"
@@ -129,8 +129,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 6th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/6/blade-barrier_row.md"
 --8<-- "_generated/spell/level/6/create-undead_row.md"
 --8<-- "_generated/spell/level/6/find-the-path_row.md"

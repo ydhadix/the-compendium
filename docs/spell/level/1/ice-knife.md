@@ -8,22 +8,24 @@
 | Components | S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One thing and everything in a 5-ft. radius Sphere around it |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | — |
 
-##### Spell Effect
-You make a Ranged Spell Attack against the first target.
+---
+
+You make a Ranged Spell Attack against each target.
 
 | | |
 |---|---|
 | Hit | You deal **1d10** Piercing Damage. |
 
-Then, each target makes a Reflex Save.
+Then, each Creature or Object in a **5**-foot radius Sphere around each target makes a Reflex Save.
 
 | | |
 |---|---|
 | Fail | You deal **2d6** Cold Damage. |
 | Success | You deal half as much damage. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d6** Cold Damage and **5** feet to the radius per additional Spell Level.

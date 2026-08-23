@@ -26,7 +26,7 @@ Medium Beast, Unaligned
 
 | Features | |
 |---|---|
-| Pack Tactics | The vulture's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The vulture gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 
 ###### Actions
 | Beak | Melee Attack |

@@ -1,1 +1,1 @@
-| [Potion of Superior Healing](/item/gear/potion/potion-of-superior-healing.md) | Potion | 2,000 gold |
+| [Potion of Superior Healing](/item/gear/potion/potion-of-superior-healing.md) | Potion (Ingested) | 2,000 gold |

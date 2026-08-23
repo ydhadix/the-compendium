@@ -1,1 +1,1 @@
-| [Mind Spike](/spell/level/2/mind-spike.md) | Divination | S | Magic Action | 120 ft. | One creature | 1 hour (C) |
+| [Mind Spike](/spell/level/2/mind-spike.md) | Divination | S | Magic Action | 120 ft. | — | **1** Creature | 1 hour (C) |

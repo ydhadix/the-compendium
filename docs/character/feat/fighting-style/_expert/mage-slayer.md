@@ -2,4 +2,5 @@
 
 You gain Concentration Protection.
 
-After you damage a creature, the target gains Disadvantage on Concentration Saves until the end of the Turn.
+##### Concentration Breaker
+**Free Action; Once per Turn:** After you damage a creature, you can give the target Disadvantage on Concentration Saves until the end of the Turn.

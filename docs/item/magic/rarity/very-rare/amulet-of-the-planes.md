@@ -3,10 +3,7 @@ Very Rare Clothing (Jewelry), Attunement
 { .subtitle }
 
 ##### Plane Shift
-Magic Action
-{ .subtitle }
-
-You can name a location you are familiar with on another plane and make an Arcana Check _(DC **17**)_.
+**Magic Action:** You can name a location you are familiar with on another plane and make an Arcana Check _(DC **17**)_.
 
 | | |
 |---|---|

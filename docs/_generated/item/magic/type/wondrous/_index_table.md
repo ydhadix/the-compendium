@@ -75,7 +75,6 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/dimensional-shackles_row.md"
 --8<-- "_generated/item/magic/rarity/rare/docent_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ebony-fly-figurine_row.md"
---8<-- "_generated/item/magic/rarity/rare/elemental-vessel_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gem-of-seeing_row.md"
 --8<-- "_generated/item/magic/rarity/rare/golden-lions-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/horn-of-blasting_row.md"
@@ -93,6 +92,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/rope-of-entanglement_row.md"
 --8<-- "_generated/item/magic/rarity/rare/serpentine-owl-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/swan-boat-token_row.md"
+--8<-- "_generated/item/magic/rarity/rare/vessel-of-commanding-elementals_row.md"
 --8<-- "_generated/item/magic/rarity/rare/warp-anchor_row.md"
 --8<-- "_generated/item/magic/rarity/rare/whip-token_row.md"
 
@@ -102,6 +102,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/candle-of-invocation_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/carpet-of-flying_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/cauldron-of-rebirth_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/efreeti-bottle_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/horn-of-valhalla_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/horseshoes-of-a-zephyr_row.md"

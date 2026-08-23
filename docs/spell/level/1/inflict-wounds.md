@@ -8,15 +8,17 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One thing |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | — |
 
-##### Spell Effect
-You make a Melee Spell Attack against the target.
+---
+
+You make a Melee Spell Attack against each target.
 
 | | |
 |---|---|
 | Hit | You deal **3d10** Necrotic Damage. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d10** damage per additional Spell Level.

@@ -6,7 +6,4 @@ Rare Clothing (Hat), Attunement
 { .subtitle }
 
 ##### Cast
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can cast _Teleport_.
+**Magic Action; 1 Charge:** You can cast _Teleport_.

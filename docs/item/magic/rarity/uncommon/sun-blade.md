@@ -4,16 +4,10 @@ Uncommon Weapon (Blade), Attunement
 
 This item appears to be a sword hilt.  While its blade exists, it functions as a Blade with Finesse, deals Radiant Damage instead of Slashing Damage, and deals an additional **1d8** Radiant Damage to Undead.
 
-The blade emits sunlight as Bright Light out to **15** feet and Dim Light **15** feet further.
+The blade emits Bright Sunlight out to **15** feet and Dim Sunlight **15** feet further.
 
 ##### Ignite
-Bonus Action
-{ .subtitle }
-
-You can bring this weapon's blade of radiance into existence, or make it disappear.
+**Bonus Action:** You can bring this weapon's blade of radiance into existence, or make it disappear.
 
 ##### Adjust Light
-Magic Action
-{ .subtitle }
-
-You can expand or reduce the blade's Bright Light and Dim Light by **5** feet each, to a maximum of **30** feet each or a minimum of **10** feet each.
+**Magic Action:** You can expand or reduce the blade's Bright Light and Dim Light by **5** feet each, to a maximum of **30** feet each or a minimum of **10** feet each.

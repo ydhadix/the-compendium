@@ -8,13 +8,15 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Target | Each creature in a 20-ft. radius Sphere |
+| Area | |
+| Target | Each Creature in a 20-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 The area is Heavily Obscured.
 
-After a target's Turn begins, it makes a Fortitude Save.
+After a target's Turn starts, it makes a Fortitude Save.
 
 | | |
 |---|---|

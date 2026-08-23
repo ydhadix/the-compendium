@@ -2,4 +2,4 @@
 Prerequisite: Level 7 Ranger
 { .subtitle }
 
-While you aren't Deafened, you have **30** feet of Blindsight.
+While you aren't Deafened, you gain **30** feet of Blindsight.

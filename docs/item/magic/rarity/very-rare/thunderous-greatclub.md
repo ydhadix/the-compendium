@@ -2,15 +2,12 @@
 Very Rare Weapon (Hammer), Attunement
 { .subtitle }
 
-Your Strength becomes **5**, unless your Strength is already that high.
+Your Strength becomes **5**, unless your Strength is already higher.
 
 This weapon deals an additional **1d8** Thunder Damage, or an additional **3d8** Thunder Damage to objects.
 
 ##### Clap of Thunder
-Magic Action
-{ .subtitle }
-
-You can strike this weapon against a hard surface, creating a thunderclap audible out to **300** feet and a **30**-foot Cone of thunderous energy.  Everything in the Cone makes a Fortitude Save _(DC **17**)_.
+**Magic Action:** You can strike this weapon against a hard surface, creating a thunderclap audible out to **300** feet and a **30**-foot Cone of thunderous energy.  Everything in the Cone makes a Fortitude Save _(DC **17**)_.
 
 | | |
 |---|---|
@@ -20,10 +17,7 @@ You can strike this weapon against a hard surface, creating a thunderclap audibl
 You deal **3d8** Thunder Damage to nonmagical objects in the Cone.
 
 ##### Earthquake
-Magic Action, 1 use per Day
-{ .subtitle }
-
-You can strike this weapon against the ground, disturbing a **50**-foot radius circle centered on the impact.  You deal **50** Bludgeoning Damage to structures in contact with the ground there, and everything on the ground there makes a Reflex Save _(DC **17**)_.
+**Magic Action; Once per Day:** You can strike this weapon against the ground, disturbing a **50**-foot radius circle centered on the impact.  You deal **50** Bludgeoning Damage to structures in contact with the ground there, and everything on the ground there makes a Reflex Save _(DC **17**)_.
 
 | | |
 |---|---|

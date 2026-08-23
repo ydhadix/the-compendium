@@ -26,7 +26,7 @@ Large Beast, Unaligned
 
 | Features | |
 |---|---|
-| Pack Tactics | The lion's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The lion gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 | Running Leap | With a **10**-foot running start, the lion can Long Jump up to **25** feet. |
 | Multiattack | The lion makes **2** Rend attacks.  It can replace one attack with Roar. |
 

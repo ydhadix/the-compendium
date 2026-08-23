@@ -1,1 +1,1 @@
-| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Magic Action | Reach | One Allied Beast | 10 minutes (C) |
+| [Beast Bond](/spell/level/1/beast-bond.md) | Divination | V, S, M | Magic Action | Reach | — | **1** Allied Beast | 10 minutes (C) |

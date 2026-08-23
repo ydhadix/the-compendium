@@ -8,13 +8,18 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One Beast |
+| Area | |
+| Target | **1** Beast |
 | Duration | 24 hours |
 
-##### Spell Effect
-The target makes a Will Save.
+---
+
+Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You charm the target. This effect ends on the target if you or an Ally damage it. |
+| Fail | You charm the target. |
 | Success | No effect. |
+
+#### Ending Early
+This Spell ends on a target if you or an Ally damage it.

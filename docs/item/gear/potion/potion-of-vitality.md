@@ -1,7 +1,5 @@
 ### Potion of Vitality
-Potion, Consumable, 20,000 gold
+Potion (Ingested), Consumable, 20,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, you remove all your Exhaustion levels and end your Sickened condition.  For **24** hours, each Hit Die you spend heals you by the maximum amount.
+The target's Exhaustion levels are removed, and each Sickness on it ends.  Each Hit Die the target spends heals it by the maximum amount for **24** hours.

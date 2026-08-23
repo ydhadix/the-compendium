@@ -6,7 +6,4 @@ Rare Weapon (Staff), Attunement
 { .subtitle }
 
 ##### Strike
-Free Action, 1–3 Charges
-{ .subtitle }
-
-After you hit with a Melee Attack using this weapon, you can deal an additional **1d6** Force Damage to the target for each Charge expended.
+**Free Action; 1–3 Charges:** Before you deal damage with a Melee Attack using this weapon, you can add **1d6** Force Damage for each Charge expended.

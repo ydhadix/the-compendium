@@ -32,7 +32,7 @@ Small Beast, Neutral
 
 | Features | |
 |---|---|
-| Pack Tactics | The spirit's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The spirit gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 
 #### Actions
@@ -68,7 +68,7 @@ Small Beast, Neutral
 
 | Features | |
 |---|---|
-| Pack Tactics | The spirit's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The spirit gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 | Water Breathing | The spirit can only breathe underwater. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down. |
 

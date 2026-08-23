@@ -1,1 +1,1 @@
-| [Plant Growth](/spell/level/3/plant-growth.md) | Transmutation | V, S | Magic Action | 150 ft. | Special | — |
+| [Plant Growth](/spell/level/3/plant-growth.md) | Transmutation | V, S | Magic Action | 150 ft. | — | Special | — |

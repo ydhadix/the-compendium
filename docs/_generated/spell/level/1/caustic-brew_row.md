@@ -1,1 +1,1 @@
-| [Caustic Brew](/spell/level/1/caustic-brew.md) | Evocation | V, S, M | Magic Action | — | Everything in a 30-ft. × 5-ft. Line | 1 minute (C) |
+| [Caustic Brew](/spell/level/1/caustic-brew.md) | Evocation | V, S, M | Magic Action | — | — | Each Creature or Object in a 30-ft. × 5-ft. Line | 1 minute (C) |

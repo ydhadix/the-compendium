@@ -42,8 +42,8 @@ Large Elemental, True Neutral
 | Range | Reach |
 | Attack | **+7** to hit _[STR + PB]_ |
 | Damage | **2d8 + 4** Bludgeoning Damage _[2d8 + STR]_ |
-| Effect | After this attack deals damage, the elemental knocks a Medium or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is at least **1** Size smaller than the elemental, the elemental knocks the target Prone. |
 
 | Whelm | Normal Action, Recharge 4–6 |
 |---|---|
-| | Each creature in the elemental's space makes a Fortitude Save _(DC **15** [8 + STR + PB])_.  On a failure, the elemental deals **4d8 + 4** Bludgeoning Damage _[4d8 + STR]_ and grapples a Large or smaller target; on a success, it deals half as much damage.  While Grappled this way, the target is Restrained, is Suffocating unless it can breathe water, and takes **2d8** Bludgeoning Damage after the elemental's Turn starts.  The elemental can grapple one Large creature, or **2** Medium or smaller creatures, at a time.  A creature within **5** feet can Utilize to pull a target free with an Athletics Check _(DC **15** [8 + STR + PB])_. |
+| | Each creature in the elemental's space makes a Fortitude Save _(DC **15** [8 + STR + PB])_.  On a failure, the elemental deals **4d8 + 4** Bludgeoning Damage _[4d8 + STR]_ and grapples a target of the elemental's Size or smaller; on a success, it deals half as much damage.  While Grappled this way, the target is Restrained, is Suffocating unless it can breathe water, and takes **2d8** Bludgeoning Damage after the elemental's Turn starts.  The elemental can grapple one creature of the elemental's Size, or **2** creatures at least **1** Size smaller than the elemental, at a time.  A creature within **5** feet can Utilize to pull a target free with an Athletics Check _(DC **15** [8 + STR + PB])_. |

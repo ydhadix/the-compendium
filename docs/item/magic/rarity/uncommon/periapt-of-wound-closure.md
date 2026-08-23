@@ -2,6 +2,6 @@
 Uncommon Clothing (Jewelry), Attunement
 { .subtitle }
 
-After you roll **9** or lower on a Death Saving Throw, you can replace the roll with a **10**.
+Your Death Saving Throws have a minimum Dice Roll of **10**.
 
 Healing you gain from spending Hit Dice becomes doubled.

@@ -44,4 +44,4 @@ Large Elemental, True Neutral
 
 | Whirlwind | Normal Action, Recharge 4–6 |
 |---|---|
-| | One Medium or smaller creature in the elemental's space makes a Fortitude Save _(DC **13** [8 + STR + PB])_.  On a failure, the elemental deals **4d10 + 2** Thunder Damage _[4d10 + STR]_, propels the target up to **20** feet away, and knocks it Prone; on a success, it deals half as much damage. |
+| | One creature in the elemental's space that is at least **1** Size smaller than the elemental makes a Fortitude Save _(DC **13** [8 + STR + PB])_.  On a failure, the elemental deals **4d10 + 2** Thunder Damage _[4d10 + STR]_, propels the target up to **20** feet away, and knocks it Prone; on a success, it deals half as much damage. |

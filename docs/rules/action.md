@@ -2,7 +2,7 @@
 An **Action** is anything you do during an Encounter.
 { .subtitle }
 
-On your Turn, you can take **1** Normal Action, Bonus Action, Object Action, and Reaction.
+On your Turn, you can take **1** Normal Action, Bonus Action, Object Action, and Reaction, and you can take any number of Free Actions.
 
 ### Normal Actions
 A **Normal Action** is the most common kind of Action.
@@ -19,21 +19,21 @@ Your total movement increases by your Speed until the end of the Turn.
 Your movement doesn't trigger Opportunity Attacks until the end of the Turn.
 
 ##### Dodge
-Attack Rolls against you gain Disadvantage and your Reflex Saves gain Advantage until the start of your next Turn, you become Incapacitated, or your Speed becomes **0**.
+Creatures gain Disadvantage on Attack Rolls against you, and you gain Advantage on Reflex Saves, until the start of your next Turn, you become Incapacitated, or your Speed becomes **0**.
 
 ##### Help
 Choose an Ally or an Enemy within your Reach. The corresponding effect lasts until the start of your next Turn.
 
 | | |
 |---|---|
-| Ally | Choose one of your Proficiencies; the Ally's next Ability Check that uses it gains Advantage. |
+| Ally | Choose **1** of your Proficiencies; the Ally's next Ability Check that uses it gains Advantage. |
 | Enemy | The next Attack Roll an Ally makes against the Enemy gains Advantage. |
 
 ##### Hide
 Make a Stealth Check. You become Hidden _(DC **the Stealth Check's total**)_.
 
 ##### Magic
-You use a spell, feature, or item that produces a magical effect.
+You use a Spell, feature, or item that produces a magical effect.
 
 ##### Ready
 Choose another Action and a perceivable trigger for it.
@@ -84,4 +84,4 @@ Unlike other Actions, you can take a Reaction on any creature's Turn, but you ca
 An **Opportunity Attack** is an attack made as a Reaction, and can only by taken when a feature or effect lets you.
 
 ### Free Actions
-A **Free Action** requires no serious effort, and can only be taken when a feature or effect lets you.  Unlike other Actions, you can take any number of Free Actions on your Turn.
+A **Free Action** requires no serious effort, and can only be taken when a feature or effect lets you.

@@ -1,1 +1,1 @@
-| [Programmed Illusion](/spell/level/6/programmed-illusion.md) | Illusion | V, S, M ($) | Magic Action | 120 ft. | A 30-ft. Cube | Until dispelled |
+| [Programmed Illusion](/spell/level/6/programmed-illusion.md) | Illusion | V, S, M ($) | Magic Action | 120 ft. | A 30-ft. Cube | — | Until dispelled |

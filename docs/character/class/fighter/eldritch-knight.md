@@ -44,30 +44,24 @@ After a Long Rest, you regain all your Spell Slots.
 ### 3: War Pact
 You can bond a Weapon into a Pact Weapon. You can only have up to **2** Pact Weapons at a time, and you can't bond with a Weapon that is Attuned or bonded to another creature.
 
-Pact Weapons have the following benefits:
+You can use your Pact Weapons as an Arcane Focus, and while not Incapacitated, you can't be disarmed of your Pact Weapons.
 
-- You can use the Weapon as an Arcane Focus.
-- While not Incapacitated, you can't be disarmed of the Weapon.
-#### Summoning a Weapon
-Bonus Action
-{ .subtitle }
+##### Bond Weapon
+**Bonus Action:** You can turn a Weapon within your Reach into a Pact Weapon.
 
-You summon one or both of your Pact Weapons to your hand(s).
-#### Bonding a Weapon
-Bonus Action
-{ .subtitle }
-
-You can turn a Weapon within your Reach into a Pact Weapon.
+##### Summon Weapon
+**Bonus Action:** You can summon one or both of your Pact Weapons to your hand(s).
 
 
 ### 3: Arcane Charge
-Before or after you expend a use of [Action Surge](index.md#2-action-surge), you can teleport up to **30** feet.
+**Free Action:** Before or after you expend a use of [Action Surge](index.md#2-action-surge), you can teleport up to **30** feet.
 
 
 ### 6: War Magic
 You learn the Mage Slayer and Warcasting Master Fighting Styles.
 
 ### 9: Improved War Magic
-After you hit a creature with your Pact Weapon, the next Saving Throw the creature makes against a Spell you cast gains Disadvantage before the end of your next Turn.
+After you hit a creature with your Pact Weapon, you give the target Disadvantage on its next Saving Throw against a Spell you cast before the end of your next Turn.
 
-Before you Attack on your Turn, you can replace **2** of your Attacks with casting a 2nd-Level or lower Spell that has a Casting Time of **1** Action.
+##### War Casting
+**2 Attack Actions:** You can cast a 2nd-Level or lower Spell with a Casting Time under **1** minute.

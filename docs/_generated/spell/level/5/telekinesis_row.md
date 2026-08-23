@@ -1,1 +1,1 @@
-| [Telekinesis](/spell/level/5/telekinesis.md) | Transmutation | V, S | Magic Action | 60 ft. | One Huge or smaller creature or object | 10 minutes (C) |
+| [Telekinesis](/spell/level/5/telekinesis.md) | Transmutation | V, S | Magic Action | 60 ft. | — | **1** Huge or smaller Creature or Object | 10 minutes (C) |

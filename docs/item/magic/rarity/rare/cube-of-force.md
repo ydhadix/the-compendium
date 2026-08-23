@@ -8,10 +8,7 @@ Rare Wondrous Item, Attunement
 Each face of this cube bears a distinct marking.
 
 ##### Cast
-Magic Action
-{ .subtitle }
-
-You can press a face to cast one of the following spells Spells _(DC **15**)_:
+**Magic Action:** You can press a face to cast **1** of the following Spells _(DC **15**)_:
 
 | Spell | Charges |
 |---|---|

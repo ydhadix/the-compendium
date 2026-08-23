@@ -1,1 +1,1 @@
-| [Fog Cloud](/spell/level/1/fog-cloud.md) | Conjuration | V, S | Magic Action | 120 ft. | A 20-ft. radius Sphere | 1 hour (C) |
+| [Fog Cloud](/spell/level/1/fog-cloud.md) | Conjuration | V, S | Magic Action | 120 ft. | — | A 20-ft. radius Sphere | 1 hour (C) |

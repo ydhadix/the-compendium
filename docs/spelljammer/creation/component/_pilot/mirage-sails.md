@@ -2,4 +2,4 @@
 Pilot Component
 { .subtitle }
 
-After you Retreat, Attacks against your Ship gain Disadvantage until the Pilot's next Turn.
+After you Retreat, creatures gain Disadvantage on Attacks against your Ship until the Pilot's next Turn.

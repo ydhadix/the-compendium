@@ -25,7 +25,7 @@ Medium Beast, Unaligned
 
 | Features | |
 |---|---|
-| Bloodied Fury | While Bloodied, the boar's Attack Rolls gain Advantage. |
+| Bloodied Fury | While Bloodied, the boar gains Advantage on Attack Rolls. |
 
 ###### Actions
 | Gore | Melee Attack |
@@ -33,4 +33,4 @@ Medium Beast, Unaligned
 | Range | Reach |
 | Attack | **+3** to hit _[STR + PB]_ |
 | Damage | **1d6 + 1** Piercing Damage _[1d6 + STR]_ |
-| Effect | Before this attack deals damage, if the boar moved at least **20** feet in a straight line toward a Medium or smaller target, it deals an additional **1d6** damage.  After dealing this damage, the boar knocks the target Prone. |
+| Effect | Before this attack deals damage, if the boar moved at least **20** feet in a straight line toward a target of the boar's Size or smaller, it deals an additional **1d6** damage.  After dealing this damage, the boar knocks the target Prone. |

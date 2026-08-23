@@ -26,7 +26,7 @@ Medium Beast, Unaligned
 
 | Features | |
 |---|---|
-| Pack Tactics | The shark's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The shark gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 | Water Breathing | The shark can breathe only underwater. |
 
 ###### Actions

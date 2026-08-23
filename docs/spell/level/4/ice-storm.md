@@ -8,10 +8,12 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 300 ft. |
-| Target | Everything in a 20-ft. radius, 40-ft. Cylinder from above |
+| Area | |
+| Target | Each Creature or Object in a 20-ft. radius, 40-ft. Cylinder from above |
 | Duration | — |
 
-##### Spell Effect
+---
+
 Each target makes a Reflex Save.
 
 | | |
@@ -21,5 +23,5 @@ Each target makes a Reflex Save.
 
 The ground in the area becomes Difficult Terrain until the end of your next Turn.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d10** Bludgeoning Damage per additional Spell Level.

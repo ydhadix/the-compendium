@@ -5,11 +5,7 @@ Rare Weapon (Any), Attunement
 **1d8 + 1** uses
 { .subtitle }
 
-##### Life Steal
-Free Action
-{ .subtitle }
-
-After you score a Critical Hit against a creature that has fewer than **100** Hit Points and isn't a Construct or Undead with this weapon, the target makes a Fortitude Save _(DC **15**)_.
+After you score a Critical Hit with this weapon against a creature that has fewer than **100** Hit Points and isn't a Construct or Undead, the target makes a Fortitude Save _(DC **15**)_.
 
 | | |
 |---|---|

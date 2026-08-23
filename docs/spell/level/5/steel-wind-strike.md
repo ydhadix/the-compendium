@@ -8,14 +8,16 @@
 | Components | S, M _(a Melee Weapon worth 1 Silver)_ |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | Up to 5 creatures |
+| Area | — |
+| Target | Up to **5** Creatures |
 | Duration | — |
 
-##### Spell Effect
+---
+
 You make a Melee Spell Attack against each target.
 
 | | |
 |---|---|
 | Hit | You deal **6d10** Force Damage. |
 
-You then teleport to an unoccupied space you can see within **5** feet of one of the targets.
+Then, you teleport to within **5** feet of any target.

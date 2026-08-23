@@ -1,1 +1,1 @@
-| [Synaptic Static](/spell/level/5/synaptic-static.md) | Enchantment | V, S | Magic Action | 120 ft. | Each creature in a 20-ft. radius Sphere | — |
+| [Synaptic Static](/spell/level/5/synaptic-static.md) | Enchantment | V, S | Magic Action | 120 ft. | A 20-ft. radius Sphere | Each Creature and Object | 1 minute |

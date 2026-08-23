@@ -1,1 +1,1 @@
-| [Irresistible Dance](/spell/level/6/irresistible-dance.md) | Enchantment | V | Magic Action | 30 ft. | One creature | 1 minute (C) |
+| [Irresistible Dance](/spell/level/6/irresistible-dance.md) | Enchantment | V | Magic Action | 30 ft. | — | **1** Creature | 1 minute (C) |

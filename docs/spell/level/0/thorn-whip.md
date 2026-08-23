@@ -8,15 +8,17 @@ Transmutation Cantrip
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach + 25 ft. |
-| Target | One thing |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | — |
 
-##### Spell Effect
-You make a Melee Spell Attack against the target.
+---
+
+You make a Melee Spell Attack against each target.
 
 | | |
 |---|---|
-| Hit | You deal **1d6** Piercing Damage, and a Large or smaller target is moved up to **10** feet closer to you. |
+| Hit | You deal **1d6** Piercing Damage, and if the target is of your Size or smaller, you propel it up to **10** feet closer to you. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d6** to the damage at Level 5, Level 11, and Level 17.

@@ -6,8 +6,5 @@ While you have a Shield donned, your Versatile weapons can deal their two-handed
 
 While you don't have a Shield donned, your Attack Rolls with Versatile weapons increase by **2**.
 
-#### Bash
-Bonus Action
-{ .subtitle }
-
-You can use a Versatile weapon or Shield to Shove a creature.
+##### Bash
+**Bonus Action:** You can use a Versatile weapon or Shield to Shove a creature.

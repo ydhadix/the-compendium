@@ -5,26 +5,28 @@
 | | |
 |---|---|
 | Classes | Wizard |
-| Components | V, S, M _(a silver whistle)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
+| Area | |
 | Target | — |
 | Duration | 8 hours |
 
-##### Spell Effect
-A phantom watchdog appears in an unoccupied space.  Only you can perceive it, and it is intangible and invulnerable.  This Spell ends if you and the hound are ever more than **300** feet apart.
+---
 
-The hound has Truesight out to **30** feet.  After a Small or larger creature comes within **30** feet of the hound without speaking a password you set, the hound barks loudly.
+You create a Medium, intangible phantom hound with **30** feet of Truesight.  Only you can perceive the hound.
 
-After your Turn starts, the hound bites one Enemy within **5** feet, which makes a Reflex Save.
+After a Small or larger creature comes within **30** feet of the hound without speaking a password you set, the hound emits the sound of barking out to **60** feet for **10** seconds.
+
+After your Turn starts, **1** Enemy within **5** feet of the hound makes a Reflex Save.
 
 | | |
 |---|---|
 | Fail | You deal **4d8** Force Damage. |
 | Success | No effect. |
 
-###### Move
-Magic Action
-{ .subtitle }
+##### Move
+**Magic Action:** You can move the hound up to **30** feet.
 
-You move the hound up to **30** feet.
+#### Ending Early
+This Spell ends if you and the hound are ever more than **300** feet apart.

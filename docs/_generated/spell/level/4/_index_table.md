@@ -2,8 +2,8 @@
 - Cast Times with `(R)` can be cast as a Ritual.
 - Durations with `(C)` require Concentration.
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/4/arcane-eye_row.md"
 --8<-- "_generated/spell/level/4/banishment_row.md"
 --8<-- "_generated/spell/level/4/black-tentacles_row.md"
@@ -21,7 +21,6 @@
 --8<-- "_generated/spell/level/4/fire-shield_row.md"
 --8<-- "_generated/spell/level/4/fount-of-moonlight_row.md"
 --8<-- "_generated/spell/level/4/freedom-of-movement_row.md"
---8<-- "_generated/spell/level/4/giant-insect_row.md"
 --8<-- "_generated/spell/level/4/grasping-vine_row.md"
 --8<-- "_generated/spell/level/4/greater-invisibility_row.md"
 --8<-- "_generated/spell/level/4/guardian-of-faith_row.md"
@@ -34,5 +33,6 @@
 --8<-- "_generated/spell/level/4/stoneskin_row.md"
 --8<-- "_generated/spell/level/4/summon-aberration_row.md"
 --8<-- "_generated/spell/level/4/summon-elemental_row.md"
+--8<-- "_generated/spell/level/4/summon-giant-insect_row.md"
 --8<-- "_generated/spell/level/4/vitriolic-sphere_row.md"
 --8<-- "_generated/spell/level/4/wall-of-fire_row.md"

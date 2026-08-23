@@ -1,1 +1,1 @@
-| [Shadow Blade](/spell/level/2/shadow-blade.md) | Illusion | V, S | Bonus Action | — | Self | 1 minute (C) |
+| [Shadow Blade](/spell/level/2/shadow-blade.md) | Illusion | V, S | Bonus Action | — | — | Self | 1 minute (C) |

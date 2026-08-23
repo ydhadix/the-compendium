@@ -7,4 +7,4 @@ Pilot Component
 | HP | 100 | **KP** | 20 |
 | AC | 20 | **DT** | 10 |
 
-Whenever you Ram, your Piloting check gains Advantage, and this Ram takes the damage instead of your hull.
+Whenever you Ram, you gain Advantage on your Piloting check, and this Ram takes the damage instead of your hull.

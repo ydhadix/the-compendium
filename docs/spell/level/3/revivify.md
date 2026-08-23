@@ -8,10 +8,12 @@
 | Components | V, S, M _(consumes a diamond worth 300 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature that died within the past minute |
+| Area | — |
+| Target | **1** Corpse that died within the past minute |
 | Duration | — |
 
-##### Spell Effect
-You revive the target with **1** Hit Point, and the target gains **1** level of Exhaustion.
+---
 
-This Spell closes mortal wounds, but doesn't restore missing body parts or reverse the effects of old age; if the target's body could not sustain life, the casting fails.
+You resurrect each target with **1** Hit Point, and it gains **1** level of Exhaustion.
+
+This Spell closes mortal wounds, but doesn't restore missing body parts or reverse the effects of old age; it has no effect on a target that can't sustain life.

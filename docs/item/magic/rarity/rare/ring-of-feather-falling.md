@@ -2,4 +2,4 @@
 Rare Clothing (Jewelry), Attunement
 { .subtitle }
 
-You gain the effects of _Feather Fall_.
+You gain the effect of _Feather Fall_.

@@ -5,10 +5,9 @@ Tool, 10 gold
 A Lock comes with a key used to lock or unlock it.
 
 ##### Pick Lock
-Utilize Action
-{ .subtitle }
+Any creature without a key that can reach the Lock can take this Action.
 
-A creature without a key that can reach the Lock can make a Precision Check _(DC **20**)_.
+**Utilize Action:** The creature makes a Precision Check _(DC **20**)_.
 
 | | |
 |---|---|

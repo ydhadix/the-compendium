@@ -52,7 +52,6 @@
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/ebony-fly-figurine_row.md"
---8<-- "_generated/item/magic/rarity/rare/elemental-vessel_row.md"
 --8<-- "_generated/item/magic/rarity/rare/energy-bow_row.md"
 --8<-- "_generated/item/magic/rarity/rare/engineers-greatcoat_row.md"
 --8<-- "_generated/item/magic/rarity/rare/enspelled-armor_row.md"
@@ -105,7 +104,7 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rarity/rare/kinetic-bowstring_row.md"
+--8<-- "_generated/item/magic/rarity/rare/kinetic-bow_row.md"
 
 ## L
 
@@ -194,6 +193,7 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
+--8<-- "_generated/item/magic/rarity/rare/vessel-of-commanding-elementals_row.md"
 --8<-- "_generated/item/magic/rarity/rare/vicious-weapon_row.md"
 
 ## W

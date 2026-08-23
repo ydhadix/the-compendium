@@ -8,10 +8,13 @@ Transmutation Cantrip
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | Reach |
-| Target | A club or quarterstaff |
+| Area | |
+| Target | **1** Club or Quarterstaff |
 | Duration | 1 minute |
 
-##### Spell Effect
-Attacks using the target can use your Spellcasting Ability for Attack and Damage Rolls, and its Damage Die is **1d8** Bludgeoning or Force Damage.
+---
 
-This Spell ends if you cast it again or if the target leaves your hand.
+Attacks using the target can use your Spellcasting Ability for Attack and Damage Rolls, and the target's Damage Die is **1d8** Bludgeoning or Force Damage.
+
+#### Ending Early
+This Spell ends if you cast it again.  This Spell ends on a target if it leaves your hand.

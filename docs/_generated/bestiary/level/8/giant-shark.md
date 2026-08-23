@@ -35,4 +35,4 @@ Huge Beast, Unaligned
 | Range | Reach |
 | Attack | **+9** to hit _[STR + PB]_ |
 | Damage | **3d10 + 6** Piercing Damage _[3d10 + STR]_ |
-| Effect | The Attack Roll gains Advantage if the target doesn't have all its Hit Points. |
+| Effect | The shark gains Advantage on the Attack Roll if the target doesn't have all its Hit Points. |

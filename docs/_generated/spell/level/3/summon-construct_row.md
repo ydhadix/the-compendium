@@ -1,1 +1,1 @@
-| [Summon Construct](/spell/level/3/summon-construct.md) | Conjuration | V, S, M ($) | Magic Action | 90 ft. | — | 1 hour (C) |
+| [Summon Construct](/spell/level/3/summon-construct.md) | Conjuration | V, S, M ($) | Magic Action | 90 ft. | — | — | 1 hour (C) |

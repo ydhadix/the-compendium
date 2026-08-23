@@ -1,1 +1,1 @@
-| [Potion of Resistance](/item/gear/potion/potion-of-resistance.md) | Potion | 200 gold |
+| [Potion of Resistance](/item/gear/potion/potion-of-resistance.md) | Potion (Ingested) | 200 gold |

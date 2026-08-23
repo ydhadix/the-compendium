@@ -1,1 +1,1 @@
-| [Potion of Greater Healing](/item/gear/potion/potion-of-greater-healing.md) | Potion | 200 gold |
+| [Potion of Greater Healing](/item/gear/potion/potion-of-greater-healing.md) | Potion (Ingested) | 200 gold |

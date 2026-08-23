@@ -8,8 +8,10 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-You turn the target Invisible.
+---
+
+You turn each target Invisible.

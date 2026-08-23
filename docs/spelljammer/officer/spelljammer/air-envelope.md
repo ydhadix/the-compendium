@@ -10,8 +10,11 @@
 | Target | Self |
 | Duration | **24** Hours |
 
-##### Protocol Effect
+---
+
 Your Ship's Air Quality becomes Fresh.
 
-##### At Higher Levels
+---
+
+#### At Higher Levels
 Double the duration per additional Spell Level.

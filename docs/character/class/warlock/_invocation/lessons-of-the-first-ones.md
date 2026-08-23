@@ -1,4 +1,6 @@
 ##### Lessons of the First Ones
-Choose an Origin Feat or Fighting Style. You learn that feat.
+Choose an Origin Feat or Initiate Fighting Style.
+
+You learn that Feat.
 ###### Repeatable
-You can learn this Invocation more than once, choosing a different Origin Feat or Fighting Style each time.
+You can learn this Invocation more than once, choosing a different feat each time.

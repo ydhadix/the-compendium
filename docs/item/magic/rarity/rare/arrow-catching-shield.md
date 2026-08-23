@@ -5,7 +5,4 @@ Rare Shield (Any), Attunement
 Your Armor Class increases by **2** against Ranged Attacks.
 
 ##### Intercept
-Reaction
-{ .subtitle }
-
-Before a Ranged Attack hits a target within Reach, you can become the target of that Attack instead.
+**Reaction:** Before a Ranged Attack hits a target within Reach, you can become the target of that Attack instead.

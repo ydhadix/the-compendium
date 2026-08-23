@@ -3,10 +3,7 @@ Tool, 2 gold
 { .subtitle }
 
 ##### Hook
-Utilize Action
-{ .subtitle }
-
-You can throw the Grappling Hook at a railing, ledge, or another fixture within **50** feet and make an Acrobatics Check _(DC **13**)_.
+**Utilize Action:** You can throw the Grappling Hook at a railing, ledge, or another fixture within **50** feet and make an Acrobatics Check _(DC **13**)_.
 
 | | |
 |---|---|

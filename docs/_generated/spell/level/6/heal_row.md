@@ -1,1 +1,1 @@
-| [Heal](/spell/level/6/heal.md) | Abjuration | V, S | Magic Action | 60 ft. | One creature | — |
+| [Heal](/spell/level/6/heal.md) | Abjuration | V, S | Magic Action | 60 ft. | — | **1** Creature | — |

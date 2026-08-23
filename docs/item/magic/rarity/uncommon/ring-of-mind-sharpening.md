@@ -6,7 +6,4 @@ Uncommon Clothing (Jewelry), Attunement
 { .subtitle }
 
 ##### Sharpen Mind
-Reaction, 1 Charge
-{ .subtitle }
-
-Before you fail a Concentration Save, you can succeed instead.
+**Reaction; 1 Charge:** Before you fail a Concentration Save, you can succeed instead.

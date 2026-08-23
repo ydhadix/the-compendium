@@ -22,7 +22,7 @@ A **Class** is a character's chosen calling and craft, the source of their signa
 Your **Level** in a class represents the depth of your training.  Each of your classes' levels are tracked individually.
 
 #### Leveling Up
-When you gain a Level, choose one of your classes to gain that Level in _(if you don't have a Secondary Class yet, you can choose one)_.  You gain:
+When you gain a Level, choose **1** of your classes to gain that Level in _(if you don't have a Secondary Class yet, you can choose **1**)_.  You gain:
 
 - the chosen class’s Features for that Level
 - one of the chosen class's Hit Die
@@ -30,7 +30,7 @@ When you gain a Level, choose one of your classes to gain that Level in _(if you
 #### Character Level
 Your **Character Level** is the sum of your Levels in all your classes.  Your Character Level determines your Proficiency Bonus, your Ability Maximum, and gives additional Feats and/or bonuses to an Ability.
 
-| Character Level | Proficiency Bonus | Ability Max | Benefit |
+| Character Level | Proficiency Bonus | Ability Max | Effect |
 |---|---|---|---|
 | 1 | +2 | 4 | - |
 | 2 | +2 | 4 | +1 ability |
@@ -65,7 +65,7 @@ Your **Secondary Class** is the second class you choose at a later Level.  Once 
 If you gain the Spellcasting feature from both your Classes, your total [total Spell Slots](/spell/index.md#multiclass-spellcasting) depends on each Classes' individual capacity for magic.
 
 ### Starting Ability
-Each Class has a **Starting Ability**, the Ability improved when you take that Class at Level **1**.  If a Class offers a choice of Starting Ability, you choose one when you gain your first Level in it.
+Each Class has a **Starting Ability**, the Ability improved when you take that Class at Level **1**.  If a Class offers a choice of Starting Ability, you choose **1** when you gain your first Level in it.
 
 #### Class Ability
 Most Classes also have a **Class Ability**, the Ability that determines the effectiveness of their features.  A Class's Class Ability is often the same as its Starting Ability, some Classes use a different one, and a few have no Class Ability of their own; instead, their Subclasses may grant one.

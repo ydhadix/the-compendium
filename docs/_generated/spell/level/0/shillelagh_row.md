@@ -1,1 +1,1 @@
-| [Shillelagh](/spell/level/0/shillelagh.md) | Transmutation | V, S | Bonus Action | Reach | A club or quarterstaff | 1 minute |
+| [Shillelagh](/spell/level/0/shillelagh.md) | Transmutation | V, S | Bonus Action | Reach | — | **1** Club or Quarterstaff | 1 minute |

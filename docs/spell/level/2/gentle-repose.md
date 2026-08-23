@@ -8,10 +8,12 @@
 | Components | V, S, M _(consumes 2 Copper)_ |
 | Casting Time | Magic Action, or Ritual |
 | Range | Reach |
-| Target | One corpse |
+| Area | |
+| Target | **1** Corpse |
 | Duration | 10 days |
 
-##### Spell Effect
-The target doesn't decay and can't become Undead.
+---
+
+Each target doesn't decay and can't become Undead.
 
 This Spell's Duration doesn't count against the time limit of resurrection Spells.

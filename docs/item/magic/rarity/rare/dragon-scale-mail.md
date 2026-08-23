@@ -4,27 +4,22 @@ Rare Armor (Scale), Attunement
 
 Each Dragon Scale Mail has a Dragon Type, which determines its Damage Type.
 
-You gain Resistance to the armor's Damage Type, and your Saving Throws against the breath weapons of Dragons gain Advantage.
-
-##### Sense Dragon
-Magic Action, 1 use per Day
-{ .subtitle }
-
-You learn the distance and direction to the closest dragon of the armor's Dragon Type within **30** miles.
-
----
-
-#### Variants
-
 | Dragon Type | Damage Type |
 |---|---|
 | Black | Acid |
-| Copper | Acid |
 | Blue | Lightning |
-| Bronze | Lightning |
 | Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
 | Gold | Fire |
-| Red | Fire |
 | Green | Poison |
+| Red | Fire |
 | Silver | Cold |
 | White | Cold |
+
+---
+
+You gain Resistance to the armor's Damage Type and Advantage on Saving Throws against the breath weapons of Dragons.
+
+##### Sense Dragon
+**Magic Action; Once per Day:** You can learn the distance and direction to the closest dragon of the armor's Dragon Type within **30** miles.

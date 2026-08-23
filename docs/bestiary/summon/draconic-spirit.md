@@ -35,7 +35,7 @@ Large Dragon, Neutral
 
 | Features | |
 |---|---|
-| Shared Resistance | After you summon the spirit, choose one of its Resistances.  While the spirit is summoned, you gain the chosen Resistance and its Breath Weapon deals that Damage Type. |
+| Shared Resistance | After you summon the spirit, choose **1** of its Resistances.  While the spirit is summoned, you gain the chosen Resistance and its Breath Weapon deals that Damage Type. |
 | Multiattack | The spirit makes **Spell Level ÷ 2** attacks, rounded down, and uses Breath Weapon. |
 
 #### Actions

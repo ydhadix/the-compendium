@@ -8,13 +8,15 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One object |
+| Area | |
+| Target | **1** Object |
 | Duration | — |
 
-##### Spell Effect
-The target emits a loud knocking sound out to **300** feet.
+---
+
+Each target emits a loud knocking sound out to **300** feet.
 
 The effects of _Arcane Lock_ on the target are suppressed for **10** minutes, and one mundane means of preventing access to the target (such as a lock, adhesive, or barrier) is undone.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** target per additional Spell Level.

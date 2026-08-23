@@ -3,17 +3,13 @@ Uncommon Wondrous Item
 { .subtitle }
 
 ##### Fix in Place
-Utilize Action
-{ .subtitle }
-
-You can press the rod's button, fixing it in place — it doesn't move, even in defiance of gravity, and holds up to **8,000** pounds. Greater weight deactivates the rod, and it falls. You or another creature can take this Action again to release it.
+**Utilize Action:** You can press the rod's button, fixing it in place. It doesn't move, even in defiance of gravity, and holds up to **8,000** pounds. Greater weight deactivates the rod, and it falls. You or another creature can take this Action again to release it.
 
 ###### Reposition
-Utilize Action
-{ .subtitle }
+Any creature can take this Action.
 
-A creature can make an Athletics Check _(DC **30**)_.
+**Utilize Action:** The creature makes an Athletics Check _(DC **30**)_.
 
 | | |
 |---|---|
-| Success | The creature moves the rod up to **10** feet.
+| Success | The creature moves the rod up to **10** feet. |

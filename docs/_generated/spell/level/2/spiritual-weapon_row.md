@@ -1,1 +1,1 @@
-| [Spiritual Weapon](/spell/level/2/spiritual-weapon.md) | Evocation | V, S | Bonus Action | 60 ft. | — | 1 minute (C) |
+| [Spiritual Weapon](/spell/level/2/spiritual-weapon.md) | Evocation | V, S | Bonus Action | 60 ft. | — | — | 1 minute (C) |

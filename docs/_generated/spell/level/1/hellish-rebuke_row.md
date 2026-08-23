@@ -1,1 +1,1 @@
-| [Hellish Rebuke](/spell/level/1/hellish-rebuke.md) | Evocation | V, S, M | Reaction | 60 ft. | The source of the damage | — |
+| [Hellish Rebuke](/spell/level/1/hellish-rebuke.md) | Evocation | V, S, M | Reaction | 60 ft. | — | The source of the damage | — |

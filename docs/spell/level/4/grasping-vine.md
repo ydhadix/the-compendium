@@ -8,23 +8,24 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | 60 ft. |
-| Target | One thing within 30 ft. of the vine |
+| Area | |
+| Target | — |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-A vine sprouts in an unoccupied space.  You make a Melee Spell Attack against the target.
+---
+
+You create a Large vine with Immunity to all damage.
+
+Choose a Creature or Object within **30** feet of the vine.
+
+You make a Melee Spell Attack against the target.
 
 | | |
 |---|---|
-| Hit | You deal **4d8** Bludgeoning Damage and propel the target up to **30** feet toward the vine.  If the target is Huge or smaller, the vine grapples it _(escape DC equal to your Spell Save DC)_. |
+| Hit | You deal **4d8** Bludgeoning Damage and propel the target up to **30** feet toward the vine.  If the target is Huge or smaller, the vine grapples it _(Escape DC **Spell Save DC**)_. |
 
-The vine can Grapple only one creature at a time.  You can release a Grappled creature _(no action required)_.
+##### Lash
+**Bonus Action:** You can release the vine's target and repeat this Spell's effect against a new target.
 
-###### Lash
-Bonus Action
-{ .subtitle }
-
-You can repeat the Attack against another target.
-
-##### At Higher Levels
+#### At Higher Levels
 Add **1** creature the vine can Grapple per additional Spell Level.

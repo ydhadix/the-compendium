@@ -1,1 +1,1 @@
-| [Telepathic Bond](/spell/level/5/telepathic-bond.md) | Divination | V, S, M | Magic Action (R) | 30 ft. | Up to 8 Allies | 1 hour |
+| [Telepathic Bond](/spell/level/5/telepathic-bond.md) | Divination | V, S, M | Magic Action (R) | 30 ft. | — | Up to **8** Allies | 1 hour |

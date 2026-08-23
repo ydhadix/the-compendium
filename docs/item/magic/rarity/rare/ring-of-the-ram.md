@@ -6,10 +6,7 @@ Rare Clothing (Jewelry), Attunement
 { .subtitle }
 
 ##### Ram
-Magic Action, 1 or more Charges
-{ .subtitle }
-
-You conjure a force-driven ram and make a Ranged Attack Roll with a **+7** bonus against a target within **60** feet.
+**Magic Action; 1 or more Charges:** You can conjure a force-driven ram and make a Ranged Attack Roll with a **+7** bonus against a target within **60** feet.
 
 | | |
 |---|---|

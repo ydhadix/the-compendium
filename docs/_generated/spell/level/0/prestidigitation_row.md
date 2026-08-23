@@ -1,1 +1,1 @@
-| [Prestidigitation](/spell/level/0/prestidigitation.md) | Transmutation | V, S | Magic Action | 10 ft. | Special | 1 hour |
+| [Prestidigitation](/spell/level/0/prestidigitation.md) | Transmutation | V, S | Magic Action | 10 ft. | — | Special | 1 hour |

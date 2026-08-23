@@ -1,1 +1,1 @@
-| [Gaseous Form](/spell/level/3/gaseous-form.md) | Transmutation | V, S, M | Magic Action | Reach | One creature | 1 hour (C) |
+| [Gaseous Form](/spell/level/3/gaseous-form.md) | Transmutation | V, S, M | Magic Action | Reach | — | **1** Creature | 1 hour (C) |

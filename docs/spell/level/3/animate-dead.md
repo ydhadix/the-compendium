@@ -8,19 +8,22 @@
 | Components | V, S, M |
 | Casting Time | 1 minute |
 | Range | 10 ft. |
-| Target | One humanoid corpse, or up to 4 Undead |
+| Area | |
+| Target | **1** Humanoid Corpse, or up to **4** Undead you created with this Spell |
 | Duration | 24 hours |
 
-##### Spell Effect
-The target becomes an Undead creature: a Skeleton if it is just bones, or a Zombie otherwise. The creature obeys your commands. If you don't issue a command, it Dodges and moves to avoid danger.
+---
 
-After this Spell ends on a creature, it remains animated but stops obeying you. You can cast this Spell to regain control of up to **4** creatures you created with it, instead of animating a new one.
+If a target is a corpse, it becomes a Skeleton when it is just bones, or a Zombie otherwise.
 
-###### Command
-Bonus Action
-{ .subtitle }
+If a target is an Undead you created with this Spell, you regain control of it.
 
-You can command any creatures within **60** feet that you created with this Spell.
+Each target obeys your commands.  If you don't issue a command, it Dodges and moves to avoid danger.
 
-##### At Higher Levels
+After this Spell ends on a creature, it remains animated but stops obeying you.
+
+##### Command
+**Bonus Action:** You can command any Creatures within **60** feet that you created with this Spell.
+
+#### At Higher Levels
 Add **2** targets (animated or controlled) per additional Spell Level.

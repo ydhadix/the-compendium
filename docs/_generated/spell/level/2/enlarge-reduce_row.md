@@ -1,1 +1,1 @@
-| [Enlarge/Reduce](/spell/level/2/enlarge-reduce.md) | Transmutation | V, S, M | Magic Action | 30 ft. | One thing | 1 minute (C) |
+| [Enlarge/Reduce](/spell/level/2/enlarge-reduce.md) | Transmutation | V, S, M | Magic Action | 30 ft. | — | **1** Creature or Object | 1 minute (C) |

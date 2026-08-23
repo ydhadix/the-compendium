@@ -38,8 +38,8 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+4** to hit _[STR + PB]_ |
 | Damage | **1d6 + 2** Piercing Damage _[1d6 + STR]_ |
-| Effect | This attack also deals **2d4** Poison Damage.  After this attack deals damage, the toad grapples a Medium or smaller target. |
+| Effect | This attack also deals **2d4** Poison Damage.  After this attack deals damage, the toad grapples a target at least **1** Size smaller than the toad. |
 
 | Swallow | Normal Action |
 |---|---|
-| | The toad swallows a Medium or smaller target it is grappling.  While swallowed, the target is Blinded and Restrained, has Full Cover against attacks from outside, and takes **1d10** Acid Damage after the toad's Turn starts.  The toad can hold one target at a time, and the target escapes if the toad dies. |
+| | The toad swallows a target at least **1** Size smaller than the toad that it is grappling.  While swallowed, the target is Blinded and Restrained, has Full Cover against attacks from outside, and takes **1d10** Acid Damage after the toad's Turn starts.  The toad can hold one target at a time, and the target escapes if the toad dies. |

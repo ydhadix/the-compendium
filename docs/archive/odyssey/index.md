@@ -27,27 +27,23 @@ banner: campaign/eternal-sun.png
 |---|---|---|
 | Opening Credits | Intro | Flight Facilities, Reggie Watts |
 |  | Showdown | Marty Grimes, BJRNCK, Bradley Denniston, Kevin Beggs |
-|  | We Are the Crystal Gems | Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz, Tom Scharpling |
+|  |
 
 | DU-8 "Dub" Falk, Pilot | | |
 |---|---|---|
 | Introduction | H! Vltg3 | Linkin Park, DJ Babu, Pharoahe Monch, Evidence |
 | Theme        | Go Go Gadget Flow | Lupe Fiasco |
-| Struggle     | Words, Hands, Hearts | Yellowcard |
-| Growth       | Palaces | Lupe Fiasco |
-| Future       | Never Let It Die | Watsky |
+| Struggle     | Deadlock | Go! Child |
+| Growth       | Never Let It Die | Watsky |
+| Future       | Palaces | Lupe Fiasco |
 
 | Lam'lanithil "Sparrow" Maenilith, Quartermaster | | |
 |---|---|---|
-| Introduction | Dare You To Move | Switchfoot |
+| Introduction | Learn to Fly | Foo Fighters |
 | Theme        | Bird Song | Juniper Vale |
-| Struggle     |  |  |
-| Growth       |  |  |
+| Struggle     | Eat You Alive | The Oh Hellos |
+| Growth       | Salvation Song | The Avett Brothers |
 | Future       | The Middle | Jimmy Eat World |
-
-| Sparrow & Calaran | | |
-|---|---|---|
-|  | Eat You Alive | The Oh Hellos |
 
 | Calaran Suthrathas, Spelljammer | | |
 |---|---|---|
@@ -60,7 +56,7 @@ banner: campaign/eternal-sun.png
 | A.S.J. The Odyssey | | |
 |---|---|---|
 | The Odyssey | Movin' Right Along | Alkaline Trio |
-| Yonder, Navigator | Be Wherever You Are | Zach Callison |
+| Yonder, Navigator | The Graduate | The Arcadian Wild |
 | ECHO, Surveyor | Satellite - The Astronauts Remix | Guster |
 | Calx, Sailmaster | | |
 | MM-1 "Cygnet", Synthsmith | Sculpted | Haywyre |
@@ -93,15 +89,15 @@ banner: campaign/eternal-sun.png
 |---|---|---|
 | The Orb Weaver | The Fine Print | The Stupendium |
 | Ridhi | | |
-| Torgan Betz | Spaceship | Kanye West, GLC, Consequence |
 | Sisk Veskir | The Die | Lupe Fiasco, GemStones |
 | The Revolution | Fight With Tools | Flobots |
 | The Raid | Kill Your Masters | Run The Jewels |
 | The Overmaster | Let's Go (The Royal We) | Run The Jewels |
 
-| C.C.S.J. The Wheelhouse | | |
+| C.S.J. The Wheelhouse | | |
 |---|---|---|
-| The Felloes | I Need My Memory Back - Zeros Remix| The Glitch Mob, Aja Volkman, Zeros |
+| The Felloes | I Need My Memory Back - Zeros Remix | The Glitch Mob, Aja Volkman, Zeros |
+| C.S.J. Apophis | The Phoenix | Fall Out Boy |
 | Samsara | | |
 | Edda | | |
 | Leth'yrr | SOS | Lupe Fiasco |
@@ -115,10 +111,13 @@ banner: campaign/eternal-sun.png
 |  | Na Na Na (Na Na Na Na Na Na Na Na Na) | My Chemical Romance |
 |  | Yellow Line | JAMES SHIMOJI |
 |  | william hell overture | kensuke ushio |
+|  | Don't Stop Now | Daniel Rojas, Michelle Gonzalez |
+|  | Big Blue | Qumu |
+|  | Rainbow Road | Qumu |
 
 | FTVL Team: HYPE | | |
 |---|---|---|
-| Lan Hikari | Thunderstruck | AC/DC |
+| Dub Hikari | | |
 | Hub Hikari | | |
 | Sparrow | | |
 | Calaran Suthrathas | | |
@@ -127,7 +126,7 @@ banner: campaign/eternal-sun.png
 
 | FTVL Team: The Luminous Supremacy | | |
 |---|---|---|
-| Ariael’ruil’selvarion “Ariel” Aleanrretyn | | |
+| Ariael’ruil’selvarion “Ariel” Aleanrretyn | Tongues & Teeth | The Crane Wives |
 | Selharis & Tiaralis | | |
 
 | FTVL Team: Blue Comet | | |
@@ -139,21 +138,22 @@ banner: campaign/eternal-sun.png
 |---|---|---|
 | Grand Artillery Commissar First-Class Brakkus Flint | | |
 | Dorin Twostar | | |
+| Torgan "Latch" Betz | Spaceship | Kanye West, GLC, Consequence |
 
 | FTVL Team: Encore! | | |
 |---|---|---|
+| Frederick "Freddy" Caskbow | Love in a Bottle | Keith David, Lilli Cooper, Kimiko Glenn, Krystina Alabado, Sam Haft, Andrew Underberg |
+| "The Mister" Th’aither Kenn’yr’rettyn | PRIDE. | Kendrick Lamar |
 | "The Missus" | Losin' Streak | Blake Roman, Sam Haft, Andrew Underberg |
-| "The Mister" | | |
-<!-- | Frederick "Freddy" Caskbow | | | -->
 
 | FTVL Team: Second Spring | | |
 |---|---|---|
-| Jaz'thek | | |
-| Chak'ri | | |
+| Jaz'thek | Go Baby | Lupe Fiasco, GemStones |
+| Chak'ri | I'd Rather Be Me (With You) | Zach Callison, Rebecca Sugar, aivi & surasshu, Edwin Rhodes, Jeff Ball |
 
 | FTVL Team: Redtail | | |
 |---|---|---|
-| Zenith Seong | | |
+| Zenith Seong | Fighter | Jung Youth, Sam Tinnesz |
 | Seon-u Seong | | |
 
 | The Astral Elves | | |
@@ -166,6 +166,7 @@ banner: campaign/eternal-sun.png
 | Outro | | |
 |---|---|---|
 | Ending Credits | Still Not Giving Up | Zach Callison |
+|  | Words, Hands, Hearts | Yellowcard |
 | To Be Continued... | Sails To The Wind | Dirty Heads |
 | Far From Home | Anytime Anywhere | milet |
 
@@ -175,5 +176,6 @@ banner: campaign/eternal-sun.png
 | Calaran | From God's Perspective | Bo Burnham |
 | Bonding: Yonder, Gabe, Selene | H.S | Tom Cardy |
 | Bonding: Dremus and Everlee | Plant Life | Owl City |
+| Bonding: Gabriel and Selene | Check Yes, Juliet | We The Kings |
 
 </div>

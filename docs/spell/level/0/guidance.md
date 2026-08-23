@@ -8,8 +8,12 @@ Divination Cantrip
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-Choose a Skill or Trade. The target's Ability Checks using the chosen Proficiency increase by **1d4**.
+---
+
+Choose a Skill or Trade.
+
+The target's Ability Checks using the chosen Proficiency increase by **1d4**.

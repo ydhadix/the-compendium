@@ -1,1 +1,1 @@
-| [Wrathful Smite](/spell/level/1/wrathful-smite.md) | Necromancy | V | Bonus Action | — | The target of the Attack | 1 minute |
+| [Wrathful Smite](/spell/level/1/wrathful-smite.md) | Necromancy | V | Bonus Action | — | — | The target of the Attack | 1 minute |

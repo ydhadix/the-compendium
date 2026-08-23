@@ -8,13 +8,15 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | Each creature you choose |
+| Area | — |
+| Target | Each Creature you choose |
 | Duration | 8 hours |
 
-##### Spell Effect
+---
+
 Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You alter the creature's appearance as by _Disguise Self_. |
+| Fail | The target gains the effect of _Disguise Self_ _(you choose the target's appearance)_. |
 | Success | No effect. |

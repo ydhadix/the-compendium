@@ -8,8 +8,10 @@ Transmutation Cantrip
 | Components | V, S, M |
 | Casting Time | 1 minute |
 | Range | Reach |
-| Target | One broken object |
+| Area | |
+| Target | **1** broken Object |
 | Duration | — |
 
-##### Spell Effect
+---
+
 You repair a single break or tear in the target, no larger than **1** foot in any dimension, leaving no trace of the former damage.

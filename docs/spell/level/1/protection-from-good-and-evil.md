@@ -8,14 +8,18 @@
 | Components | V, S, M _(consumes holy water worth 25 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
-The target is warded against Aberrations, Celestials, Elementals, Fey, Fiends, and Undead.  These creatures:
+---
 
-- gain Disadvantage on Attack Rolls against the target.
-- can't possess, Charm, or Frighten the target.  The target gains Protection from those conditions if already affected.
+Each target gains the following effects:
 
-##### At Higher Levels
+| Effect | |
+|---|---|
+| Purity | Planar Creatures can't possess, charm, or frighten the target.  An already affected target gains Protection from those conditions. |
+| Serenity | Planar Creatures gain Disadvantage on Attack Rolls against the target. |
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

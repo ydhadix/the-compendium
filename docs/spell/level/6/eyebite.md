@@ -8,25 +8,27 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One creature |
+| Area | — |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-Your eyes become an inky void for the duration.  The target makes a Will Save.
+---
+
+Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | Choose one of the following effects, which lasts for the duration. |
-| Success | No effect. |
+| Fail | Choose **1** of the following effects. |
+| Success | You can't target the target with this Spell for **24** hours. |
 
-| | |
+| Effect | |
 |---|---|
 | Asleep | You put the target to Sleep. |
-| Panicked | You frighten the target.  While Frightened by you, it must Dash away from you by the safest route while it is its Turn.  This effect ends after the target ends its Turn at least **60** feet from you where it can't see you. |
+| Panicked | You frighten the target.  After a target Frightened by you starts its Turn, it Dashes and moves away from you by the safest route. |
 | Sickened | You sicken the target. |
 
-###### Glare
-Magic Action
-{ .subtitle }
+##### Glare
+**Magic Action:** You can repeat this Spell's effect against the same target or a new target.
 
-You can repeat the effect against another creature, but not one that has succeeded on this Saving Throw.
+#### Ending Early
+This Spell ends on a frightened target after it ends its Turn at least **60** feet from you where it can't see you.

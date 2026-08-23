@@ -1,6 +1,5 @@
 ### Fighting Initiate
 
-#### Learn Fighting Styles
 You learn **2** Initiate Fighting Styles.
 
 #### Changing Fighting Styles

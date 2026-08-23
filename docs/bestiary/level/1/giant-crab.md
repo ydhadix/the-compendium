@@ -39,4 +39,4 @@ Medium Beast, Unaligned
 | Range | Reach |
 | Attack | **+3** to hit _[STR + PB]_ |
 | Damage | **1d6 + 1** Bludgeoning Damage _[1d6 + STR]_ |
-| Effect | After this attack deals damage, the crab grapples a Medium or smaller target in one of its two claws. |
+| Effect | After this attack deals damage, the crab grapples a target of the crab's Size or smaller in one of its two claws. |

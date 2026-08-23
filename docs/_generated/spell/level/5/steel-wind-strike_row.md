@@ -1,1 +1,1 @@
-| [Steel Wind Strike](/spell/level/5/steel-wind-strike.md) | Conjuration | S, M | Magic Action | 30 ft. | Up to 5 creatures | — |
+| [Steel Wind Strike](/spell/level/5/steel-wind-strike.md) | Conjuration | S, M | Magic Action | 30 ft. | — | Up to **5** Creatures | — |

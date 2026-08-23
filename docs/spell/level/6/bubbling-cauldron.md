@@ -7,19 +7,21 @@
 | Classes | Warlock, Wizard |
 | Components | V, S, M _(a gilded ladle worth 500 Gold)_ |
 | Casting Time | Magic Action |
-| Range | 5 ft. |
+| Range | Reach |
+| Area | — |
 | Target | — |
-| Duration | 10 minutes |
+| Duration | Until dispelled |
 
-##### Spell Effect
-You conjure a cauldron of bubbling liquid in an unoccupied space on the ground.  The cauldron can't be moved, and it disappears with its liquid when this Spell ends.
+---
 
-Choose a Common or Uncommon Potion.  The cauldron holds up to **Spellcasting Ability** of that Potion _(minimum **1**)_, each in a vial that disappears once the Potion is consumed.  This Spell ends after the last Potion is withdrawn.
+Choose a Common or Uncommon Potion.
 
-A withdrawn Potion that hasn't been consumed disappears when you cast this Spell again.
+You conjure a Medium cauldron filled with **Spellcasting Ability** doses of the chosen Potion, and that many empty vials _(minimum **1**)_.  The cauldron has Immunity to all damage, is Anchored, and disappears with its liquid after **10** minutes or after the last vial is filled.
 
-###### Withdraw
-Bonus Action
-{ .subtitle }
+##### Fill Vial
+You or an Ally that can reach the cauldron can take this Action.
 
-You or an Ally within **5** feet of the cauldron can withdraw one Potion from it.
+**Bonus Action:** The creature fills **1** vial with a dose of the Potion.  A filled vial disappears once its Potion is consumed.
+
+#### Ending Early
+This Spell ends after the last dose is consumed or if you cast it again.

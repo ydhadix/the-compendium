@@ -3,10 +3,7 @@ Other, 2 gold
 { .subtitle }
 
 ##### Set
-Utilize Action
-{ .subtitle }
-
-You can set the Hunting Trap, affixing it by a heavy Chain to an immobile object within Reach.
+**Utilize Action:** You can set the Hunting Trap, affixing it by a heavy Chain to an Anchored object within Reach.
 
 The first creature that steps on the set Hunting Trap makes a Reflex Save _(DC **13**)_.
 
@@ -18,10 +15,9 @@ The first creature that steps on the set Hunting Trap makes a Reflex Save _(DC *
 While the Hunting Trap is attached to a creature, the creature's movement is limited by the length of the Chain (typically **3** feet).
 
 ###### Remove
-Utilize Action
-{ .subtitle }
+Any creature that can reach an attached trap can take this Action.
 
-A creature that can reach an attached trap can make an Athletics Check _(DC **13**)_.
+**Utilize Action:** The creature makes an Athletics Check _(DC **13**)_.
 
 | | |
 |---|---|

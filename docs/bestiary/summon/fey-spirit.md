@@ -44,7 +44,7 @@ Small Fey, Neutral
 
 | Bonus Actions | |
 |---|---|
-| Fey Step | The spirit teleports up to **30** feet, then the spirit's next Attack gains Advantage before the end of the Turn. |
+| Fey Step | The spirit teleports up to **30** feet, then the spirit gains Advantage on its next Attack before the end of the Turn. |
 
 
 ### Fey Spirit: Mirthful

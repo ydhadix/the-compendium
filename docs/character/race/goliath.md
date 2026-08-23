@@ -6,7 +6,7 @@
 |---|---|
 | Abilities | Strength and choose **1** |
 | Creature Type | Humanoid and Giant |
-| Size Category | Medium |
+| Size | Medium |
 | Speed | **30** ft. |
 | Reach | **10** ft. |
 | Hit Points | **10** |
@@ -24,7 +24,9 @@ Bonus Action, 1 use per Long Rest
 For **10** minutes or until you end this effect _(no action required)_, you are Large, you gain Advantage on Strength Checks, and your Speed increases by **10** feet.
 
 ### Giant Ancestry
-Choose an ancestry. Each ancestry determines the type of your Resistance and gives you a different effect.
+Choose an ancestry.
+
+Each ancestry determines the type of your Resistance and gives you a different effect.
 
 ##### Cloud Goliath
 You gain Thunder Resistance.

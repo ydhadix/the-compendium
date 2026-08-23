@@ -8,10 +8,12 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
+| Area | |
 | Target | A 30-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
+---
+
 You must Swim to move through the area.
 
 A Ranged Weapon Attack made through the area gains Disadvantage, and the area halves Fire Damage from an effect passing through it.

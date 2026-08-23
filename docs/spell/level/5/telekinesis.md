@@ -8,19 +8,18 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One Huge or smaller creature or object |
+| Area | — |
+| Target | **1** Huge or smaller Creature or Object |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
-Choose one of the following effects:
+---
+
+Each target, or a Creature wearing or carrying it, makes a Fortitude Save.
 
 | | |
 |---|---|
-| Creature | The target makes a Fortitude Save; on a failure, you move it up to **30** feet in any direction and restrain it until the end of your next Turn. |
-| Object | You move the target up to **30** feet in any direction and can Utilize using the target.  If the target is worn or carried, that creature makes a Fortitude Save; on a success, the target isn't affected. |
+| Fail | You propel the target up to **30** feet in any direction and restrain it until the end of your next Turn.  If the target is an object, you can Utilize using it _(no additional Action required)_. |
+| Success | No effect. |
 
-###### Manipulate
-Magic Action
-{ .subtitle }
-
-You choose one of the effects again _(you can choose a new target)_.
+##### Manipulate
+**Magic Action:** You can repeat this Spell's effect against a new target.

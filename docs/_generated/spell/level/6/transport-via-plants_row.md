@@ -1,1 +1,1 @@
-| [Transport via Plants](/spell/level/6/transport-via-plants.md) | Conjuration | V, S | Magic Action | 10 ft. | One Large or larger inanimate plant | 10 minutes |
+| [Transport via Plants](/spell/level/6/transport-via-plants.md) | Conjuration | V, S | Magic Action | 10 ft. | — | **1** Large or larger Plant Object | 10 minutes |

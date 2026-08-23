@@ -25,7 +25,7 @@ Tiny Construct, Neutral
 
 | Features | |
 |---|---|
-| Mobile Storage | The assistant can store and quickly retrieve items up to **Artificer Ability**. |
+| Mobile Storage | The assistant can store and quickly retrieve up to **Artificer Ability** items. |
 | Crafting Aid | The assistant can help you craft items without meeting the item's requirements. |
 | Evasion | After the assistant makes a Reflex Save to avoid damage, it takes half damage on a failure and no damage on a success. |
 

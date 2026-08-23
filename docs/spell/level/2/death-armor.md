@@ -8,13 +8,15 @@
 | Components | V, S, M _(consumes onyx worth 50 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
-The target gains Resistance to Death.
+---
 
-After the target is hit by a Melee Attack, the attacker takes **2d4** Necrotic Damage.
+Each target gains Death Protection.
 
-##### At Higher Levels
+After the target is hit by a Melee Attack, you deal **2d4** Necrotic Damage to the attacker.
+
+#### At Higher Levels
 Add **2d4** damage per additional Spell Level.

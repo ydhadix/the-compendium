@@ -31,4 +31,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[STR + PB]_ |
 | Damage | **1d6 + 3** Bludgeoning Damage _[1d6 + STR]_ |
-| Effect | Before this attack deals damage, if the goat moved at least **20** feet in a straight line toward a Large or smaller target, it deals an additional **2d4** damage.  After dealing this damage, the goat knocks the target Prone. |
+| Effect | Before this attack deals damage, if the goat moved at least **20** feet in a straight line toward a target of the goat's Size or smaller, it deals an additional **2d4** damage.  After dealing this damage, the goat knocks the target Prone. |

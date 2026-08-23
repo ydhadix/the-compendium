@@ -30,7 +30,7 @@ Small Beast, Unaligned
 
 | Features | |
 |---|---|
-| Pack Tactics | The hawk's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The hawk gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 
 #### Actions
 | Beak | Melee Attack |

@@ -41,7 +41,7 @@ Gargantuan Monstrosity, Unaligned
 | Range | 5 ft. |
 | Attack | **+14** to hit _[STR + PB]_ |
 | Damage | **4d6 + 9** Slashing Damage _[4d6 + STR]_ |
-| Effect | After this attack hits, the roc grapples a Huge or smaller target in both talons and restrains it until the Grapple ends. |
+| Effect | After this attack hits, the roc grapples a target at least **1** Size smaller than the roc in both talons and restrains it until the Grapple ends. |
 
 | Bonus Actions | |
 |---|---|

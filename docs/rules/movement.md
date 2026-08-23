@@ -13,16 +13,14 @@ You can move before and after any Action on your Turn.  However you break it up,
 #### Dropping Prone
 You can drop Prone without spending an Action or any movement, unless your Speed is **0**.
 
-### Obstacles
-
 #### Difficult Terrain
-Each foot you move through or out of Difficult Terrain costs **1** extra foot.
+**Difficult Terrain** is hard to move through.  Each foot you move through or out of Difficult Terrain costs **1** extra foot.
 
 #### Squeezing
-Spaces sized for creatures one size smaller than you are Difficult Terrain.  You can't move through smaller spaces.
+Spaces sized for creatures **1** Size smaller than you are Difficult Terrain.  You can't move through smaller spaces.
 
 #### Moving Through Creatures
-You can move freely through the space of Allies and Tiny creatures.  You can also move through the space of Incapacitated creatures and creatures at least two Size Categories larger or smaller than you, but that space is Difficult Terrain.
+You can move freely through the space of Allies and Tiny creatures.  You can also move through the space of Incapacitated creatures and creatures at least **2** Sizes larger or smaller than you, but that space is Difficult Terrain.
 
 You can't willingly end your move in another creature's space. If you end your Turn in a space with another creature, the smaller creature is knocked Prone, unless either is Tiny _(If you are both the same size, both are knocked Prone)_.
 
@@ -40,7 +38,7 @@ A **Spider Climb Speed** is a Climb Speed, and you can also climb with your hand
 ### Falling
 **Falling** forces you to move when you are airborne with no way to stay aloft.  Falling doesn't cost any movement.
 
-Each time you fall, you fall up to **500** feet until you land or gain a way to stay aloft.  After each of your Turns begins, if you are still falling, you fall another **500** feet.
+Each time you fall, you fall up to **500** feet until you land or gain a way to stay aloft.  After your Turn starts, if you are still falling, you fall another **500** feet.
 
 While falling, anything you collide with makes a Reflex Save _(DC **15**)_.
 

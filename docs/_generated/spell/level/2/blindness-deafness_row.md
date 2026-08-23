@@ -1,1 +1,1 @@
-| [Blindness/Deafness](/spell/level/2/blindness-deafness.md) | Transmutation | V | Magic Action | 120 ft. | One creature | 1 minute |
+| [Blindness/Deafness](/spell/level/2/blindness-deafness.md) | Transmutation | V | Magic Action | 120 ft. | — | **1** Creature | 1 minute |

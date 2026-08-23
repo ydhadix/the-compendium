@@ -21,12 +21,9 @@ You can cast the following Spells:
 | _Globe of Invulnerability_ | Magic Action | **6** Charges |
 
 ##### Retributive Strike
-Magic Action
-{ .subtitle }
+**Magic Action:** You can break this staff, destroying it and releasing its magic in a **30**-foot Aura originating from it.  Roll **1d10**; on a **5** or lower, you instantly travel to a random plane and avoid the explosion.  Otherwise, you take Force Damage equal to **16** times its remaining Charges.
 
-You can break this staff, destroying it and releasing its magic in a **30**-foot Aura originating from it.  Roll **1d10**; on a **5** or lower, you instantly travel to a random plane and avoid the explosion.  Otherwise, you take Force Damage equal to **16** times its remaining Charges.
-
-Everything else in the Aura makes a Reflex Save _(DC **15**)_.
+Everything else in the Aura makes a Reflex Save _(DC **Spell Save DC**)_.
 
 | | |
 |---|---|

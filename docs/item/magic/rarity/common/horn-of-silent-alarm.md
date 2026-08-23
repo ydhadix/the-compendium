@@ -6,7 +6,4 @@ Common Wondrous Item
 { .subtitle }
 
 ##### Sound the Horn
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can choose **1** creature within **600** feet and blow the horn. Only the chosen creature can hear it.
+**Magic Action; 1 Charge:** You can choose **1** creature within **600** feet and blow the horn. Only the target can hear it.

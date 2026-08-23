@@ -1,1 +1,1 @@
-| [Catapult](/spell/level/1/catapult.md) | Transmutation | S | Magic Action | 60 ft. | One thing that weighs 5 pounds or less and isn't worn or carried | — |
+| [Catapult](/spell/level/1/catapult.md) | Transmutation | S | Magic Action | 60 ft. | — | **1** Creature or Object that weighs 5 pounds or less and isn't worn or carried | — |

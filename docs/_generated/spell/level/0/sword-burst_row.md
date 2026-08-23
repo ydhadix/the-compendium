@@ -1,1 +1,1 @@
-| [Sword Burst](/spell/level/0/sword-burst.md) | Conjuration | V, S | Magic Action | — | Everything in a 5-ft. Aura | — |
+| [Sword Burst](/spell/level/0/sword-burst.md) | Conjuration | V, S | Magic Action | — | — | Each Creature or Object in a 5-ft. Aura | — |

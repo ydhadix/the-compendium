@@ -170,4 +170,4 @@ Medium Elemental, Neutral
 | Range | Reach |
 | Attack | **+Spell Attack** to hit |
 | Damage | **1d10 + 8** Bludgeoning Damage _[1d10 + STR + Spell Level]_ |
-| Effect | After this attack deals damage, the spirit grapples a Medium or smaller target. |
+| Effect | After this attack deals damage, the spirit grapples a target of the spirit's Size or smaller. |

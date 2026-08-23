@@ -8,13 +8,20 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | Each humanoid and Beast in a 20-ft. radius Sphere |
+| Area | |
+| Target | Each Humanoid and Beast in a 20-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | Choose one effect for the target: it gains Immunity to being Charmed and Frightened, suppressing those conditions if already present; or it is no longer an Enemy to creatures you choose, until it takes damage or sees an Ally take damage. |
+| Fail | Choose **1** of the following effects. |
 | Success | No effect. |
+
+| Effect | |
+|---|---|
+| Soothe | Each target gains Charm Immunity and Fear Immunity, suppressing those conditions if already present. |
+| Pacify | Each target is no longer an Enemy to creatures you choose, until it takes damage or sees an Ally take damage. |

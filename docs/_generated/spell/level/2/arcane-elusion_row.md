@@ -1,1 +1,1 @@
-| [Arcane Elusion](/spell/level/2/arcane-elusion.md) | Abjuration | V, S | Bonus Action | — | Self | 10 minutes (C) |
+| [Arcane Elusion](/spell/level/2/arcane-elusion.md) | Abjuration | V, S | Bonus Action | — | — | Self | 10 minutes (C) |

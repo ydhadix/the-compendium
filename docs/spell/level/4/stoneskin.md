@@ -8,8 +8,10 @@
 | Components | V, S, M _(consumes diamond dust worth 100 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One Ally |
+| Area | |
+| Target | **1** Ally |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
-The target gains Physical Resistance.
+---
+
+Each target gains Physical Resistance.

@@ -8,17 +8,16 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | Everything in a 5-ft. Cube |
+| Area | |
+| Target | Each Creature or Object in a 5-ft. Cube |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 After a target enters the area _(including when this Spell is cast or the area moves)_, you deal **4d4** Slashing Damage to it.  After your Turn starts, you also deal this damage to each target.  A target only takes this damage once until the start of your next Turn.
 
-###### Move
-Magic Action
-{ .subtitle }
+##### Move
+**Magic Action:** You can move the area up to **30** feet.
 
-You move the area up to **30** feet.
-
-##### At Higher Levels
+#### At Higher Levels
 Add **2d4** damage per additional Spell Level.

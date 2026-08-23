@@ -6,9 +6,6 @@ Rare Wondrous Item, Consumable
 { .subtitle }
 
 ##### Cast
-Magic Action, 1 use
-{ .subtitle }
-
-You can strike the chime to cast _Knock_, replacing the Spell's knocking sound with a ringing tone audible out to **300** feet.
+**Magic Action; 1 use:** You can strike the chime to cast _Knock_, replacing the Spell's knocking sound with a ringing tone audible out to **300** feet.
 
 After the last use is expended, the chime cracks and is destroyed.

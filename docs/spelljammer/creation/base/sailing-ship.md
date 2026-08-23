@@ -7,7 +7,7 @@
 | Material | Wood | **Ram Damage** | 8d10 |
 | Size | 120 × 20 ft. | **Size Penalty** | 4 |
 
-<!-- 
+<!--
 
 | Features | |
 |---|---|

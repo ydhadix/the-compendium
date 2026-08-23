@@ -8,8 +8,10 @@
 | Components | V |
 | Casting Time | Bonus Action |
 | Range | 30 ft. |
+| Area | |
 | Target | Self |
 | Duration | — |
 
-##### Spell Effect
-You teleport to an unoccupied space.
+---
+
+You teleport.

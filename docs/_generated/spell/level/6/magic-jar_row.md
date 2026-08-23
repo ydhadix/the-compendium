@@ -1,1 +1,1 @@
-| [Magic Jar](/spell/level/6/magic-jar.md) | Necromancy | V, S, M ($) | 1 minute | — | Self | Until dispelled |
+| [Magic Jar](/spell/level/6/magic-jar.md) | Necromancy | V, S, M ($) | 1 minute | — | — | Self | Until dispelled |

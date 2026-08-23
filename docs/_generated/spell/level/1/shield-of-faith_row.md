@@ -1,1 +1,1 @@
-| [Shield of Faith](/spell/level/1/shield-of-faith.md) | Abjuration | V, S, M | Bonus Action | 60 ft. | One creature | 10 minutes (C) |
+| [Shield of Faith](/spell/level/1/shield-of-faith.md) | Abjuration | V, S, M | Bonus Action | 60 ft. | — | **1** Creature | 10 minutes (C) |

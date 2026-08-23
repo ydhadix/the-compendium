@@ -39,4 +39,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+4** to hit _[STR + PB]_ |
 | Damage | **1d8 + 2** Piercing Damage _[1d8 + STR]_ |
-| Effect | After this attack deals damage, the crocodile grapples a Medium or smaller target.  While Grappled this way, the target is Restrained. |
+| Effect | After this attack deals damage, the crocodile grapples a target at least **1** Size smaller than the crocodile.  While Grappled this way, the target is Restrained. |

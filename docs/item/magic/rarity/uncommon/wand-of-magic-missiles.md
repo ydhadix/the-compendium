@@ -6,7 +6,4 @@ Uncommon Spellcasting Focus (Arcane Focus)
 { .subtitle }
 
 ##### Cast
-Magic Action, 1 or more Charges
-{ .subtitle }
-
-You can cast _Magic Missile_. Increase the Spell Level by **1** for each additional Charge expended.
+**Magic Action; 1 or more Charges:** You can cast _Magic Missile_. Increase the Spell Level by **1** for each additional Charge expended.

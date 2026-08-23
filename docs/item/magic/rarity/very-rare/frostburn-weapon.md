@@ -7,13 +7,7 @@ This weapon emits Bright Light out to **20** feet and Dim Light **20** feet furt
 This weapon deals an additional **1d6** Cold Damage, and a creature in its space gains Fire Resistance.
 
 ##### Phase Shift
-Bonus Action
-{ .subtitle }
-
-You can replace the additional Cold Damage with Fire Damage, and the Fire Resistance with Cold Resistance.
+**Bonus Action:** You can replace the additional Cold Damage with Fire Damage, and the Fire Resistance with Cold Resistance.
 
 ##### Cast
-Bonus Action, 1 use per Day
-{ .subtitle }
-
-You can cast _Fire Shield_.
+**Bonus Action; Once per Day:** You can cast _Fire Shield_.

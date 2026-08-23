@@ -8,12 +8,17 @@
 | Components | V, S |
 | Casting Time | 1 minute, or Ritual |
 | Range | 30 ft. |
+| Area | |
 | Target | — |
 | Duration | 1 hour |
 
-##### Spell Effect
-A horselike Companion Phantom Steed appears in an unoccupied space, equipped with a saddle, bit, and bridle.  Any of this equipment vanishes if it is carried more than **10** feet from the Steed.
+---
 
+A horselike Phantom Steed Companion appears, equipped with a saddle, bit, and bridle.  Any of this equipment vanishes if it is carried more than **10** feet from the Steed.
+
+#### Ending Early
 This Spell ends if the Steed takes any damage. After this Spell ends, the Steed fades over **1** minute, giving its rider time to dismount.
+
+---
 
 --8<-- "_generated/bestiary/summon/phantom-steed.md"

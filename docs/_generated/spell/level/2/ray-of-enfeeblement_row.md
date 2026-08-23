@@ -1,1 +1,1 @@
-| [Ray of Enfeeblement](/spell/level/2/ray-of-enfeeblement.md) | Necromancy | V, S | Magic Action | 60 ft. | One creature | 1 minute (C) |
+| [Ray of Enfeeblement](/spell/level/2/ray-of-enfeeblement.md) | Necromancy | V, S | Magic Action | 60 ft. | — | **1** Creature | 1 minute (C) |

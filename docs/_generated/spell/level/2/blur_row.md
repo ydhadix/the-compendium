@@ -1,1 +1,1 @@
-| [Blur](/spell/level/2/blur.md) | Illusion | V | Magic Action | — | Self | 1 minute (C) |
+| [Blur](/spell/level/2/blur.md) | Illusion | V | Magic Action | — | — | Self | 1 minute (C) |

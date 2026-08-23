@@ -8,17 +8,22 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | — |
+| Target | **1** Creature |
 | Duration | 7 days |
 
-##### Spell Effect
-Choose any Ability.  The target makes a Fortitude Save.
+---
+
+Choose any Ability.
+
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You deal **11d8** Necrotic Damage and sicken the target.  While Sickened, it has Disadvantage on Saving Throws made with the chosen Ability. |
+| Fail | You deal **11d8** Necrotic Damage and sicken the target.  While Sickened, it has Disadvantage on Saving Throws made with the chosen Ability.  Before an effect would end the Sickness, the target makes a Fortitude Save; on a failure, the Sickness doesn't end. |
 | Success | No effect. |
 
-Before each of the target's Turn ends, it repeats this Saving Throw until it accumulates three successes or three failures.  On three successes, this effect ends on the target; on three failures, it lasts the full duration.
+#### Ending Early
+Before a target's Turn ends, it makes a Fortitude Save.
 
-While Sickened by this Spell, whenever an effect would end the Sickness, the target makes a Fortitude Save.  On a failure, the Sickness doesn't end.
+After it fails **3** Saving Throws against this Spell, this Spell lasts the full duration.  After it succeeds on **3**, this Spell ends on that target.

@@ -7,11 +7,15 @@
 | Classes | Bard, Cleric, Druid |
 | Components | V, S, M _(divination tools worth 100 Gold, such as cards or runes)_ |
 | Casting Time | 1 minute |
-| Range | — |
-| Target | Self |
+| Range | The same Plane |
+| Area | — |
+| Target | **1** Location you are familiar with |
 | Duration | 24 hours (Concentration) |
 
-##### Spell Effect
-Name a location you are familiar with.  While you are on the same plane as it, you know how far away it is and in what direction it lies, and at each choice of paths you know which is the most direct route to it.
+---
 
-This Spell fails if you name a destination on another plane, a moving destination, or an unspecific one.
+You gain the following effects:
+
+- You know the direction and distance to the target.
+- If the target is moving, you know the direction of its movement.
+- At each choice of paths, you know which is the most direct route to the target.

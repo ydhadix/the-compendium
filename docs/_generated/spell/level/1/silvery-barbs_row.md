@@ -1,1 +1,1 @@
-| [Silvery Barbs](/spell/level/1/silvery-barbs.md) | Enchantment | V | Reaction | 60 ft. | The succeeding creature | — |
+| [Silvery Barbs](/spell/level/1/silvery-barbs.md) | Enchantment | V | Reaction | 60 ft. | — | The succeeding Creature | — |

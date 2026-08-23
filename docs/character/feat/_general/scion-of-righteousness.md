@@ -2,14 +2,9 @@
 Prerequisite: Good alignment, no Scion Feat
 { .subtitle }
 
-#### Damage Resistance
 You gain Radiant Resistance.
 
-#### Minor Magic
-You learn the _Sacred Flame_ Cantrip. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
+You learn _Sacred Flame_. You can cast it using Intelligence, Wisdom, or Charisma as your Spellcasting Ability.
 
-#### Soothe Pain
-Reaction, Proficiency Bonus uses per Long Rest
-{ .subtitle }
-
-Before a creature within **30** feet takes damage, you can reduce that damage by **1d10 + PB**.
+##### Soothe Pain
+**Reaction; PB times per Long Rest:** Before a creature within **30** feet takes damage, you can reduce that damage by **1d10 + PB**.

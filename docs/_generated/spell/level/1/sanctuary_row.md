@@ -1,1 +1,1 @@
-| [Sanctuary](/spell/level/1/sanctuary.md) | Abjuration | V, S, M | Bonus Action | 30 ft. | One creature | 1 minute |
+| [Sanctuary](/spell/level/1/sanctuary.md) | Abjuration | V, S, M | Bonus Action | 30 ft. | — | **1** Creature | 1 minute |

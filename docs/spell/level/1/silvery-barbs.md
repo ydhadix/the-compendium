@@ -8,8 +8,10 @@
 | Components | V |
 | Casting Time | Reaction, when a creature succeeds on a d20 roll |
 | Range | 60 ft. |
-| Target | The succeeding creature |
+| Area | |
+| Target | The succeeding Creature |
 | Duration | — |
 
-##### Spell Effect
-The target rerolls the d20 and uses the lower roll.
+---
+
+Each target rerolls the d20 and uses the lower roll.

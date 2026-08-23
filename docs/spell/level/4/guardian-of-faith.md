@@ -8,13 +8,15 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | Each Enemy within 10 ft. of the guardian |
+| Area | |
+| Target | — |
 | Duration | 8 hours |
 
-##### Spell Effect
-A Large, invulnerable guardian appears in an unoccupied space and occupies it.
+---
 
-After a target enters within **10** feet of the guardian for the first time on a Turn, or starts its Turn there, it makes a Reflex Save.
+You create a Large guardian with a **10**-foot Aura.  The guardian has Immunity to all damage.
+
+After an Enemy enters the area _(including when this Spell is cast)_, it makes a Reflex Save.  After your Turn starts, each Enemy in the area also makes this Saving Throw.  An Enemy only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|

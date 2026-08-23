@@ -1,10 +1,10 @@
 ---
-label: Giant Insect
-source: /spell/level/4/giant-insect.md
+label: Summon Giant Insect
+source: /spell/level/4/summon-giant-insect.md
 ---
 
 # Giant Insect
-A **Giant Insect** is a Companion conjured by the [Giant Insect](/spell/level/4/giant-insect.md) spell.
+A **Giant Insect** is a Companion conjured by the [Summon Giant Insect](/spell/level/4/summon-giant-insect.md) spell.
 { .subtitle }
 
 ### Giant Insect: Centipede

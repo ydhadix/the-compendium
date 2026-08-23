@@ -8,16 +8,16 @@
 | Components | S |
 | Casting Time | Magic Action |
 | Range | — |
+| Area | — |
 | Target | Self |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
-You turn Invisible, and an intangible, illusory double of you appears in your space.  This Spell ends if you Attack, deal damage, or cast a Spell.
+---
 
-You can perceive through the double's senses.
+You turn Invisible, and conjure an intangible, illusory double of yourself in your space.  You can perceive through the double's senses.
 
-###### Move Double
-Bonus Action
-{ .subtitle }
+##### Move Double
+**Bonus Action:** You can move the double up to twice your Speed and have it gesture, speak, or mime some other act.
 
-You move the double up to twice your Speed and have it gesture, speak, or behave as you choose.
+#### Ending Early
+This Spell ends if you Attack, deal damage, or cause a Saving Throw.

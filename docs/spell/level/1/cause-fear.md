@@ -8,18 +8,26 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target makes a Will Save.
+---
+
+Each target makes a Will Save.
 
 | | |
 |---|---|
 | Fail | You frighten the target. |
 | Success | No effect. |
 
-Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+#### Ending Early
+Before a target's Turn ends, it makes a Will Save.
 
-##### At Higher Levels
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This Spell ends on the target. |
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

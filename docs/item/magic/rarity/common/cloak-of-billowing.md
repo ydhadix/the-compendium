@@ -3,7 +3,4 @@ Common Clothing (Cloak)
 { .subtitle }
 
 ##### Billow
-Bonus Action
-{ .subtitle }
-
-You can make this cloak billow for **1** minute.
+**Bonus Action:** You can make this cloak billow for **1** minute.

@@ -6,7 +6,4 @@ Common Weapon (Staff)
 { .subtitle }
 
 ##### Sprout Flower
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can sprout a living flower from the staff, or from a patch of soil within **5** feet.
+**Magic Action; 1 Charge:** You can sprout a living flower from the staff, or from a patch of soil within **5** feet.

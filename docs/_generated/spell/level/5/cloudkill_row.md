@@ -1,1 +1,1 @@
-| [Cloudkill](/spell/level/5/cloudkill.md) | Conjuration | V, S | Magic Action | 120 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |
+| [Cloudkill](/spell/level/5/cloudkill.md) | Conjuration | V, S | Magic Action | 120 ft. | A 20-ft. radius Sphere | Each Creature and Object | 10 minutes (C) |

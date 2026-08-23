@@ -8,12 +8,17 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 500 ft. |
-| Target | Self, and one Allied creature within Reach |
+| Area | |
+| Target | Self, and up to **1** Ally within Reach |
 | Duration | — |
 
-##### Spell Effect
-You teleport to a space by visualizing it, or by describing its distance and direction.  You don't need to see your destination.
+---
 
-If this spell has another target, it arrives in a space within **5** feet of your destination.
+Choose **1** of the following effects:
 
-If any target would arrive in an occupied or blocked space, each target **4d6** Force Damage and the teleportation fails.
+| Effect | |
+|---|---|
+| See | You teleport to a space you can see. |
+| Describe | You teleport to a space you describe by its distance and direction, ignoring Line of Effect.  If any target would arrive in an occupied or blocked space, you deal **4d6** Force Damage to each target and the teleportation fails. |
+
+If this Spell has another target, it arrives in a space within **5** feet of your destination.

@@ -1,1 +1,1 @@
-| [Fire Shield](/spell/level/4/fire-shield.md) | Evocation | V, S, M | Magic Action | — | Self | 10 minutes |
+| [Fire Shield](/spell/level/4/fire-shield.md) | Evocation | V, S, M | Magic Action | — | — | Self | 10 minutes |

@@ -8,8 +8,10 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | — |
-| Target | You and each Ally in a 30-ft. Aura |
+| Area | A 30-ft. Aura |
+| Target | You and each Ally |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
+---
+
 Each target gains Magic Protection and Magic Evasion.

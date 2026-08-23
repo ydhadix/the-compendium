@@ -1,1 +1,1 @@
-| [Detect Thoughts](/spell/level/2/detect-thoughts.md) | Divination | V, S, M | Magic Action | 30 ft. | Self | 1 minute (C) |
+| [Detect Thoughts](/spell/level/2/detect-thoughts.md) | Divination | V, S, M | Magic Action | 30 ft. | — | Self | 1 minute (C) |

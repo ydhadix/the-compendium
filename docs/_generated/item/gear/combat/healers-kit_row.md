@@ -1,0 +1,1 @@
+| [Healer's Kit](/item/gear/combat/healers-kit.md) | Other | 5 gold |

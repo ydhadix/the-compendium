@@ -18,31 +18,25 @@ You can use any Weapon you have Proficiency with as a Spellcasting Focus for Bar
 
 ### 3: Fighting Style
 You learn Fighting Styles.  The [Swords Bard Table](#subclass-table) shows how many Fighting Styles you know.
-###### Changing Fighting Styles
+#### Changing Fighting Styles
 Whenever you level up, you can change one of your Fighting Styles.
 
 
 ### 3: Blade Flourish
 Before you Attack, your Speed increases by **10** feet until the end of the Turn.
-#### Flourish
-Free Action, 1 Bardic Inspiration use
-{ .subtitle }
+##### Flourish
+**Free Action; 1 Bardic Inspiration use:** Before you deal Damage with a Weapon, you can add **Inspiration Die** Damage and choose **1** of the following effects:
 
-Before you deal Damage with a Weapon, you can add **Inspiration Die** Damage and choose one of the following effects:
-##### Defensive
-You add **that Inspiration Die roll** to your Armor Class until the start of your next Turn.
-##### Mobile
-You propel the target up to **10** feet away from you.
-##### Slashing
-You deal **that Inspiration Die roll** Slashing Damage to each other creature you choose within Reach.
+| Effect | |
+|---|---|
+| Defensive | You add **that Inspiration Die roll** to your Armor Class until the start of your next Turn. |
+| Mobile | You propel the target up to **10** feet away from you. |
+| Slashing | You deal **that Inspiration Die roll** Slashing Damage to each other creature you choose within Reach. |
 
 
 ### 6: Battle Magic
-Bonus Action
-{ .subtitle }
-
-After you cast a Bard Spell, you can Attack.
+**Bonus Action:** After you cast a Bard Spell, you can Attack.
 
 
 ### 9: Master Flourish
-You can use Blade Flourish without spending a use of Bardic Inspiration.  Your Inspiration Die is **1d6** for that use.
+You can use Blade Flourish without spending a use of Bardic Inspiration.  Your Inspiration Die becomes **1d6** for that use.

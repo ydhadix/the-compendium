@@ -15,13 +15,7 @@ You can cast the following Spells:
 | _Comprehend Languages_ | Magic Action | **1** Charge |
 
 ##### Reflect Enchantment
-Reaction, 1 Charge
-{ .subtitle }
-
-After you succeed on a Saving Throw against an Enchantment Spell targeting only you, you can turn that Spell back on its caster as though you had cast it.
+**Reaction; 1 Charge:** After you succeed on a Saving Throw against an Enchantment Spell targeting only you, you can turn that Spell back on its caster as though you had cast it.
 
 ##### Resist Enchantment
-Reaction, 1 use per Day
-{ .subtitle }
-
-After you fail a Saving Throw against an Enchantment Spell targeting only you, you can succeed instead.
+**Reaction; Once per Day:** After you fail a Saving Throw against an Enchantment Spell targeting only you, you can succeed instead.

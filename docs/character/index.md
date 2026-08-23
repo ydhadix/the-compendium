@@ -10,7 +10,7 @@ Your Race outlines your physical characteristics and grants you a set of Traits 
 
 - **2** Abilities, which each increase by **1**
 - a Creature Type
-- a Size Category
+- a Size
 - a Speed
 - a Reach
 - starting Hit Points

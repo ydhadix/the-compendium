@@ -1,1 +1,1 @@
-| [Dream](/spell/level/5/dream.md) | Illusion | V, S, M | 1 minute | — | One creature you know on your plane | 8 hours |
+| [Dream](/spell/level/5/dream.md) | Illusion | V, S, M | 1 minute | The same Plane | — | **1** Creature you are familiar with | 8 hours |

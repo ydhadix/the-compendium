@@ -8,15 +8,23 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | — |
-| Target | Each creature in a 30-ft. Cone |
+| Area | |
+| Target | Each Creature in a 30-ft. Cone |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | The target drops whatever it is holding, and you frighten it. While Frightened by you, the target Dashes and moves away from you by the safest route on each of its Turns. |
+| Fail | The target drops whatever it is holding, and you frighten it. After a target Frightened by you starts its Turn, it Dashes and moves away from you by the safest route. |
 | Success | No effect. |
 
-Before each of a target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+#### Ending Early
+Before a target's Turn ends, it makes a Will Save.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This Spell ends on the target. |

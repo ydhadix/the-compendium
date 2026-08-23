@@ -38,7 +38,7 @@ Huge Beast, Unaligned
 | Range | Reach |
 | Attack | **+11** to hit _[STR + PB]_ |
 | Damage | **2d10 + 7** Piercing Damage _[2d10 + STR]_ |
-| Effect | After this attack deals damage, if the mammoth moved at least **20** feet in a straight line toward a Huge or smaller target, it knocks the target Prone. |
+| Effect | After this attack deals damage, if the mammoth moved at least **20** feet in a straight line toward a target of the mammoth's Size or smaller, it knocks the target Prone. |
 
 | Bonus Actions | |
 |---|---|

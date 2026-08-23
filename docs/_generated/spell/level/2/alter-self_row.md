@@ -1,1 +1,1 @@
-| [Alter Self](/spell/level/2/alter-self.md) | Transmutation | V, S | Magic Action | — | Self | 1 hour (C) |
+| [Alter Self](/spell/level/2/alter-self.md) | Transmutation | V, S | Magic Action | — | — | Self | 1 hour (C) |

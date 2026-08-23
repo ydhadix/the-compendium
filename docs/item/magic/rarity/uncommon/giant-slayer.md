@@ -4,10 +4,6 @@ Uncommon Weapon (Any)
 
 This weapon deals an additional **2d6** damage to Giants.
 
-##### Topple
-Free Action
-{ .subtitle }
-
 After you hit a Giant with this weapon, the target makes a Fortitude Save _(DC **13**)_.
 
 | | |

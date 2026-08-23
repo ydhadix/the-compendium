@@ -1,7 +1,5 @@
 ### Potion of Speed
-Potion, Consumable, 20,000 gold
+Potion (Ingested), Consumable, 20,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, you gain the effect of _Haste_ _(without Concentration)_ for **1** minute, and you don't become Incapacitated after it ends.
+The target gains the effect of _Haste_ for **1** minute _(no Concentration required)_, and doesn't become Incapacitated after it ends.

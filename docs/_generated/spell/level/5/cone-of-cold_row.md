@@ -1,1 +1,1 @@
-| [Cone of Cold](/spell/level/5/cone-of-cold.md) | Evocation | V, S, M | Magic Action | Reach | Everything in a 60-ft. Cone | — |
+| [Cone of Cold](/spell/level/5/cone-of-cold.md) | Evocation | V, S, M | Magic Action | Reach | A 60-ft. Cone | Each Creature and Object | — |

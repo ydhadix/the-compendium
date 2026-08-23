@@ -36,7 +36,7 @@ An item with **Charges** lists its maximum number of Charges alongside how many 
 An item regains Charges each Day, either a fixed number or a rolled amount noted in parentheses. An item never exceeds its maximum number of Charges.
 
 ### Command Words
-A **Command Word** is a word or phrase you must audibly speak aloud to use some of this item's effects, similar to a spell's Verbal Component.
+A **Command Word** is a word or phrase you must audibly speak aloud to use some of this item's effects, similar to a Spell's Verbal Component.
 
 ### Cursed Items
 **Cursed** items have a hidden, usually detrimental effect. Most methods of identifying an item don't reveal its curse.
@@ -49,7 +49,7 @@ Cursed infusions can't be crafted, transferred, or removed without specific meth
 **Infusing** is how a character weaves magic into an item.  An item can have up to **2** Infusions at a time, and only **1** of them can require Attunement.
 
 #### Requirements
-You can only infuse an item if you have Proficiency in Arcana and, if the Infusion casts or replicates any Spells, know those spells each day you spend infusing the item.
+You can only infuse an item if you have Proficiency in Arcana and, if the Infusion casts or replicates any Spells, know those Spells each day you spend infusing the item.
 
 #### Time and Cost
 The Cost of infusing an item is paid in raw materials and time based on the Infusion's Rarity. Consumable items require half as much time and gold.

@@ -1,1 +1,1 @@
-| [Purify Food & Drink](/spell/level/1/purify-food-and-drink.md) | Transmutation | V, S | Magic Action (R) | 10 ft. | All food and drink in a 5-ft. radius Sphere | — |
+| [Purify Food & Drink](/spell/level/1/purify-food-and-drink.md) | Transmutation | V, S | Magic Action (R) | 10 ft. | — | A 5-ft. radius Sphere | — |

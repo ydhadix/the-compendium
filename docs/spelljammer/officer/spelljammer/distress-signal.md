@@ -10,7 +10,8 @@
 | Target | — |
 | Duration | **8** Hours |
 
-##### Protocol Effect
+---
+
 You speak a short message aloud.
 
 Each creature that understands language within the plane, color bank, or local region of the astral sea you occupy receives the message telepathically and becomes aware of your current location.

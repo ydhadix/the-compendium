@@ -8,17 +8,18 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | — |
+| Area | |
 | Target | Self |
 | Duration | 1 hour |
 
-##### Spell Effect
+---
+
 You make yourself and anything you're wearing or carrying look different. You can seem up to **1** foot shorter or taller but can't change the basic arrangement of your limbs; otherwise, the extent of the illusion is up to you.
 
-###### Search
-Search Action
-{ .subtitle }
+##### Search
+Any Creature that perceives the illusion can take this Action.
 
-A creature that perceives the illusion can make a Perception Check against your Spell Save DC.
+**Search Action:** The creature makes a Perception Check against your Spell Save DC.
 
 | | |
 |---|---|

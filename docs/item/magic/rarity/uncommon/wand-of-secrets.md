@@ -6,7 +6,4 @@ Uncommon Spellcasting Focus (Arcane Focus)
 { .subtitle }
 
 ##### Reveal Secrets
-Magic Action, 1 Charge
-{ .subtitle }
-
-The wand points at the nearest secret door or trap within **60** feet.
+**Magic Action; 1 Charge:** You can point the wand, revealing the nearest secret door or trap within **60** feet.

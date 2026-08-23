@@ -1,1 +1,1 @@
-| [Healing Word](/spell/level/1/healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | One creature | — |
+| [Healing Word](/spell/level/1/healing-word.md) | Abjuration | V | Bonus Action | 60 ft. | — | **1** Creature | — |

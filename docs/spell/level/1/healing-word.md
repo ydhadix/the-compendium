@@ -8,11 +8,13 @@
 | Components | V |
 | Casting Time | Bonus Action |
 | Range | 60 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | — |
 
-##### Spell Effect
-You heal the target by **2d4 + Spellcasting Ability**.
+---
 
-##### At Higher Levels
+You heal each target by **2d4 + Spellcasting Ability**.
+
+#### At Higher Levels
 Add **2d4** to the healing per additional Spell Level.

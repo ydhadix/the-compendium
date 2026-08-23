@@ -1,1 +1,1 @@
-| [Arcane Gate](/spell/level/6/arcane-gate.md) | Conjuration | V, S | Magic Action | 500 ft. | — | 10 minutes (C) |
+| [Arcane Gate](/spell/level/6/arcane-gate.md) | Conjuration | V, S | Magic Action | 500 ft. | **2** 5-ft. radius Circles | — | 10 minutes (C) |

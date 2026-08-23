@@ -1,1 +1,1 @@
-| [Instant Summons](/spell/level/6/instant-summons.md) | Conjuration | V, S, M ($) | 1 minute (R) | Reach | One object that weighs 10 pounds or less and is no more than 6 ft. across | Until dispelled |
+| [Instant Summons](/spell/level/6/instant-summons.md) | Conjuration | V, S, M ($) | 1 minute (R) | Reach | — | **1** Object that weighs **10** pounds or less | Until dispelled |

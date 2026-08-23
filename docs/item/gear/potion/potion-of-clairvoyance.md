@@ -1,7 +1,5 @@
 ### Potion of Clairvoyance
-Potion, Consumable, 2,000 gold
+Potion (Ingested), Consumable, 2,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, you gain the effect of _Clairvoyance_ _(without Concentration)_.
+The target gains the effect of _Clairvoyance_ for **10** minutes _(no Concentration required)_.

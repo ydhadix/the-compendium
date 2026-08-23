@@ -4,11 +4,8 @@ Prerequisite: Goliath (Stone Ancestry)
 
 You gain **60** feet of Darkvision.
 
-#### Stone Throw
-Bonus Action, Proficiency Bonus uses per Long Rest
-{ .subtitle }
-
-Before you Attack on your Turn, you can replace **1** of your Attacks.  You make a Ranged Spell Attack using your Constitution against anything within **60** feet.
+##### Stone Throw
+**Attack Action; PB times per Long Rest:** You can make a Ranged Spell Attack using your Constitution against anything within **60** feet.
 
 | | |
 |---|---|

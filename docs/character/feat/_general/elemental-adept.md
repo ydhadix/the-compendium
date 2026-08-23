@@ -2,17 +2,10 @@
 
 Choose an Elemental Damage Type.
 
-#### Energy Mastery
-Free Action
-{ .subtitle }
+You gain Resistance to the chosen Damage Type, and damage you deal of the chosen Damage Type ignores Resistance.
 
-Before you roll a **1** on a Damage Die of the chosen Damage Type, you can treat the die as a **2**.
-
-#### Energy Resistance
-You gain Resistance to the chosen Damage Type.
-
-#### Irresistible Energy
-Damage you deal of the chosen Damage Type ignores Resistance.
+##### Energy Mastery
+**Free Action:** Before you roll a **1** on a Damage Die of the chosen Damage Type, you can treat the die as a **2**.
 
 #### Repeatable
 You can take this feat more than once, provided you choose a different Damage Type each time.

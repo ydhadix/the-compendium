@@ -1,1 +1,1 @@
-| [Haste](/spell/level/3/haste.md) | Transmutation | V, S, M | Magic Action | 30 ft. | One creature | 1 minute (C) |
+| [Haste](/spell/level/3/haste.md) | Transmutation | V, S, M | Magic Action | 30 ft. | — | **1** Creature | 1 minute (C) |

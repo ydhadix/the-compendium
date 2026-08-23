@@ -8,11 +8,13 @@
 | Components | V, S, M _(a holy symbol)_ |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | Up to 3 creatures |
+| Area | |
+| Target | Up to **3** Creatures |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 The target's Attack Rolls and Saving Throws increase by **1d4**.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** target per additional Spell Level.

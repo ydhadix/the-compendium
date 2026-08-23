@@ -8,10 +8,12 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | Each creature in a 15-ft. radius Sphere |
+| Area | |
+| Target | Each Creature in a 15-ft. radius Sphere |
 | Duration | 10 minutes |
 
-##### Spell Effect
+---
+
 After a target enters the area _(including when this Spell is cast)_, it makes a Will Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 You know whether each target succeeds or fails.

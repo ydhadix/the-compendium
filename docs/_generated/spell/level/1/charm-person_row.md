@@ -1,1 +1,1 @@
-| [Charm Person](/spell/level/1/charm-person.md) | Enchantment | V, S | Magic Action | 30 ft. | One humanoid | 1 hour |
+| [Charm Person](/spell/level/1/charm-person.md) | Enchantment | V, S | Magic Action | 30 ft. | — | **1** Humanoid | 1 hour |

@@ -1,1 +1,1 @@
-| [Blinding Smite](/spell/level/3/blinding-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | 1 minute |
+| [Blinding Smite](/spell/level/3/blinding-smite.md) | Evocation | V | Bonus Action | — | — | The target of the Attack | 1 minute |

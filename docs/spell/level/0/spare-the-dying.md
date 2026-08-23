@@ -8,11 +8,13 @@ Necromancy Cantrip
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 15 ft. |
-| Target | One Downed creature |
+| Area | |
+| Target | **1** Downed Creature |
 | Duration | — |
 
-##### Spell Effect
-You stabilize the target.
+---
 
-##### At Higher Levels
+You stabilize each target.
+
+#### At Higher Levels
 Double the Range at Level 5, Level 11, and Level 17.

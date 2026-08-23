@@ -1,1 +1,1 @@
-| [Oil of Slipperiness](/item/gear/potion/oil-of-slipperiness.md) | Potion | 200 gold |
+| [Oil of Slipperiness](/item/gear/potion/oil-of-slipperiness.md) | Potion (Contact) | 200 gold |

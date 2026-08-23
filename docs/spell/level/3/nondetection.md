@@ -8,8 +8,10 @@
 | Components | V, S, M _(consumes diamond dust worth 25 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature, place, or object no larger than **10** feet |
+| Area | |
+| Target | **1** Creature, Object, or Location no larger than **10** feet |
 | Duration | 8 hours |
 
-##### Spell Effect
-The target can't be targeted by Divination Spells or perceived through magical scrying sensors.
+---
+
+Each target can't be targeted by Divination Spells or perceived through a Scrying Sensor.

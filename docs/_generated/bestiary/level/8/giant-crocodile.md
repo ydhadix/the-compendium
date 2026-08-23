@@ -36,11 +36,11 @@ Huge Beast, Unaligned
 | Range | Reach |
 | Attack | **+8** to hit _[STR + PB]_ |
 | Damage | **3d10 + 5** Piercing Damage _[3d10 + STR]_ |
-| Effect | After this attack deals damage, the crocodile grapples a Large or smaller target.  While Grappled this way, the target is Restrained. |
+| Effect | After this attack deals damage, the crocodile grapples a target at least **1** Size smaller than the crocodile.  While Grappled this way, the target is Restrained. |
 
 | Tail | Melee Attack |
 |---|---|
 | Range | 10 ft. |
 | Attack | **+8** to hit _[STR + PB]_ |
 | Damage | **3d8 + 5** Bludgeoning Damage _[3d8 + STR]_ |
-| Effect | After this attack deals damage, the crocodile knocks a Large or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is at least **1** Size smaller than the crocodile, the crocodile knocks the target Prone. |

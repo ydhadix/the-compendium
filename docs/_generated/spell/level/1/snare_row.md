@@ -1,1 +1,1 @@
-| [Snare](/spell/level/1/snare.md) | Abjuration | S, M ($C) | Magic Action (R) | Reach | Special | 8 hours |
+| [Snare](/spell/level/1/snare.md) | Abjuration | S, M ($C) | Magic Action (R) | Reach | — | Special | 8 hours |

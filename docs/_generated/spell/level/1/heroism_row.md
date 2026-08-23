@@ -1,1 +1,1 @@
-| [Heroism](/spell/level/1/heroism.md) | Enchantment | V, S | Magic Action | Reach | One creature | 1 minute (C) |
+| [Heroism](/spell/level/1/heroism.md) | Enchantment | V, S | Magic Action | Reach | — | **1** Creature | 1 minute (C) |

@@ -1,1 +1,1 @@
-| [Insect Plague](/spell/level/5/insect-plague.md) | Conjuration | V, S, M | Magic Action | 300 ft. | Each creature in a 20-ft. radius Sphere | 10 minutes (C) |
+| [Insect Plague](/spell/level/5/insect-plague.md) | Conjuration | V, S, M | Magic Action | 300 ft. | A 20-ft. radius Sphere | Each Creature and Object | 10 minutes (C) |

@@ -1,1 +1,1 @@
-| [Reincarnate](/spell/level/5/reincarnate.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | One dead Humanoid that died within the past 10 days | — |
+| [Reincarnate](/spell/level/5/reincarnate.md) | Necromancy | V, S, M ($C) | 1 hour | Reach | — | **1** Humanoid Corpse that died within the past 10 days | — |

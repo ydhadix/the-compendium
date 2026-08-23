@@ -52,15 +52,12 @@ When you choose Barbarian as your Secondary Class, you gain the following profic
 
 ### 1: Rage
 The [Barbarian Table](#class-table) shows how many Rage uses you have.
-###### Regaining Uses
+#### Regaining Uses
 After a Short Rest, you regain **1** use of Rage.
 
 After a Long Rest, you regain all uses of Rage.
-#### Raging
-Bonus Action, 1 Rage use
-{ .subtitle }
-
-You can move up to half your Speed.  Then, you gain the following benefits until the end of your next turn:
+##### Enrage
+**Bonus Action; 1 Rage use:** You can move up to half your Speed.  Then, you gain the following effects until the end of your next Turn:
 
 - You gain Physical Resistance, Fortitude Protection, and Advantage on Strength Checks.
 - Your Strength Attacks add your Rage Bonus to Damage.  The [Barbarian Table](#class-table) shows your Rage Bonus.
@@ -69,7 +66,7 @@ You can move up to half your Speed.  Then, you gain the following benefits until
 
 Your Rage ends early if you become Incapacitated or don Heavy Armor.
 ###### Extending Rage
-You can extend your Rage's duration to the end of your next turn, up to a maximum of **10** minutes, by doing one of the following:
+You can extend your Rage's duration to the end of your next Turn, up to a maximum of **10** minutes, by doing **1** of the following:
 
 - Attack an Enemy.
 - Cause an Enemy to make a Saving Throw.
@@ -77,7 +74,7 @@ You can extend your Rage's duration to the end of your next turn, up to a maximu
 
 
 ### 1: Unarmored Stance
-While you are Unarmored _(you can still don a Shield)_, you gain the following benefits:
+While you are Unarmored _(you can still don a Shield)_, you gain the following effects:
 #### Unarmored Defense
 Your base Armor Class becomes **8 + DEX + Class Ability + PB**.
 #### Unarmored Movement
@@ -86,7 +83,7 @@ Your Speed increases by **10** feet.
 
 ### 1: Fighting Style
 You learn Fighting Styles.  The [Barbarian Table](#class-table) shows how many Fighting Styles you know.
-###### Changing Fighting Styles
+#### Changing Fighting Styles
 Whenever you level up, you can change one of your Fighting Styles.
 
 
@@ -95,13 +92,15 @@ You gain Reflex Protection and Advantage on Initiative Checks.
 
 
 ### 2: Reckless Attack
-Before you Attack for the first time on your Turn, you can gain the following effects until the start of your next Turn:
+**Free Action:** Before you Attack for the first time on your Turn, you can gain the following effects until the start of your next Turn:
 
 - You gain Advantage on Strength Attack Rolls.
 - Attack Rolls against you gain Advantage.
 
 ### 3: Barbarian Subclass
-Choose a Barbarian Subclass. Your subclass grants you a feature at this level.
+Choose a Barbarian Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|
@@ -109,14 +108,12 @@ Choose a Barbarian Subclass. Your subclass grants you a feature at this level.
 
 
 ### 4: Brutal Strike
-Free Action, 1 use per Turn
-{ .subtitle }
+**Free Action; Once per Turn:** Before you Attack with Advantage, you can lose Advantage on the Attack Roll.  If you do, you add **1d10** to the Damage and choose **1** of the following effects:
 
-Before you Attack with Advantage, the Attack Roll can lose Advantage.  If it does, you add **1d10** to the Damage and choose one of the following effects:
-##### Forceful Blow
-After the Attack, you propel the target up to **15** feet away from you, then move up to half your Speed toward the target without provoking Opportunity Attacks.
-##### Hamstring Blow
-After the Attack, the target's Speed decreases by **15** feet until the start of your next turn.
+| Effect | |
+|---|---|
+| Forceful Blow | After the Attack, you propel the target up to **15** feet away from you, then propel yourself up to half your Speed toward the target. |
+| Hamstring Blow | After the Attack, you decrease the target's Speed by **15** feet until the start of your next Turn. |
 
 
 ### 5: Extra Attack
@@ -129,19 +126,20 @@ Your subclass grants you an additional feature.
 
 ### 7: Brutal Strike Improvement
 Your Brutal Strike damage increases to **2d10** and it gains the following effect options:
-##### Staggering Blow
-After the Attack, the next Saving Throw the target makes gains Disadvantage, and the target can't take Reactions until the start of your next turn.
-##### Sundering Blow
-After the Attack, you add **5** to the next Attack Roll another creature makes against the target before the start of your next turn.
+
+| Effect | |
+|---|---|
+| Staggering Blow | After the Attack, you give the target Disadvantage on its next Saving Throw, and it can't take Reactions until the start of your next Turn. |
+| Sundering Blow | After the Attack, you add **5** to the next Attack Roll another creature makes against the target before the start of your next Turn. |
 
 
 ### 8: Relentless Rage
-Before you drop to **0** Hit Points while Raging, you can make a Fortitude Save _(DC **10**)_.
+**Free Action:** Before you drop to **0** Hit Points while Raging, you can make a Fortitude Save _(DC **10**)_.
 
 | | |
 |---|---|
-| Success | Your Hit Points become **2 × Character Level**. |
 | Fail | No effect. |
+| Success | Your Hit Points become **2 × Character Level**. |
 
 Then, the DC for this Saving Throw increases by **5**.
 
@@ -155,11 +153,8 @@ Your subclass grants you an additional feature.
 ### 10: Persistent Rage
 Your Rage lasts for **10** minutes and doesn't end early unless you choose to end it, become Unconscious _(not Incapacitated)_, or don Heavy Armor.
 
-#### Unending Rage
-Free Action, 1 use per Long Rest
-{ .subtitle }
-
-You can regain all expended uses of Rage.
+##### Unending Rage
+**Free Action; Once per Long Rest:** You can regain all expended uses of Rage.
 
 
 ### 11: Primal Champion

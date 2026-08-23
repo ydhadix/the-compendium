@@ -1,1 +1,1 @@
-| [Thunderous Smite](/spell/level/1/thunderous-smite.md) | Evocation | V | Bonus Action | — | The target of the Attack | — |
+| [Thunderous Smite](/spell/level/1/thunderous-smite.md) | Evocation | V | Bonus Action | — | — | The target of the Attack | — |

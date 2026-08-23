@@ -1,1 +1,1 @@
-| [Rope Trick](/spell/level/2/rope-trick.md) | Transmutation | V, S, M ($) | Magic Action | Reach | — | 1 hour |
+| [Rope Trick](/spell/level/2/rope-trick.md) | Transmutation | V, S, M ($) | Magic Action | Reach | — | — | 1 hour |

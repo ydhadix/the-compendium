@@ -1,1 +1,1 @@
-| [Flame Strike](/spell/level/5/flame-strike.md) | Evocation | V, S, M | Magic Action | 60 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder from above | — |
+| [Flame Strike](/spell/level/5/flame-strike.md) | Evocation | V, S, M | Magic Action | 60 ft. | A 10-ft. radius, 40-ft. Cylinder, from above | Each Creature and Object | — |

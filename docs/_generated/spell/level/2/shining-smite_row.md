@@ -1,1 +1,1 @@
-| [Shining Smite](/spell/level/2/shining-smite.md) | Transmutation | V | Bonus Action | — | The target of the Attack | 1 minute (C) |
+| [Shining Smite](/spell/level/2/shining-smite.md) | Transmutation | V | Bonus Action | — | — | The target of the Attack | 1 minute (C) |

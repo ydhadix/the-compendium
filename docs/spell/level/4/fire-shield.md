@@ -5,15 +5,22 @@
 | | |
 |---|---|
 | Classes | Druid, Sorcerer, Wizard |
-| Components | V, S, M _(a bit of phosphorus or a firefly)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | — |
+| Area | |
 | Target | Self |
 | Duration | 10 minutes |
 
-##### Spell Effect
-Choose a warm shield or a chill shield.  A warm shield grants you Cold Resistance; a chill shield grants you Fire Resistance.
+---
 
-You emit Bright Light out to **10** feet and Dim Light **10** feet further.
+Choose **1** of the following shields:
 
-After a creature within **5** feet hits you with a Melee Attack, the attacker takes **2d8** Fire Damage from a warm shield, or **2d8** Cold Damage from a chill shield.
+| Shield | Resistance | Damage Type |
+|---|---|---|
+| Warm | Cold | Fire |
+| Chill | Fire | Cold |
+
+You gain the chosen Resistance, and emit Bright Light out to **10** feet and Dim Light **10** feet further.
+
+After a Creature within **5** feet hits you with a Melee Attack, you deal **2d8** damage of the chosen Damage Type to the attacker.

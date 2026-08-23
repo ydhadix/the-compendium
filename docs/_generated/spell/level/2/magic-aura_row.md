@@ -1,1 +1,1 @@
-| [Magic Aura](/spell/level/2/magic-aura.md) | Illusion | V, S, M | Magic Action | Reach | One creature or object | 24 hours |
+| [Magic Aura](/spell/level/2/magic-aura.md) | Illusion | V, S, M | Magic Action | Reach | — | **1** Creature or Object | 24 hours |

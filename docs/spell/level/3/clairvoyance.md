@@ -8,16 +8,15 @@
 | Components | V, S, M _(a jeweled horn or glass eye worth 100 Gold)_ |
 | Casting Time | 10 minutes |
 | Range | 1 mile |
+| Area | |
 | Target | — |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
+---
+
 Choose seeing or hearing.
 
-You create an intangible, Invisible, invulnerable sensor and can perceive using the chosen sense from the sensor's space.
+You create a Scrying Sensor and can perceive through it using the chosen sense.
 
-###### Switch Sense
-Bonus Action
-{ .subtitle }
-
-You can switch between seeing and hearing.
+##### Switch Sense
+**Bonus Action:** You can switch between seeing and hearing.

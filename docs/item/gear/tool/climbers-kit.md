@@ -4,14 +4,8 @@ Tool, 25 gold
 
 A Climber's Kit includes boot tips, gloves, pitons, and a harness.
 
-##### Anchor
-Utilize Action
-{ .subtitle }
+##### Belay
+**Utilize Action:** You can belay yourself to a surface within Reach. While belayed, you can't be moved more than **25** feet from the belay point.
 
-You can anchor yourself in place. While anchored, you can't be moved more than **25** feet from the anchor point.
-
-##### Unanchor
-Bonus Action
-{ .subtitle }
-
-You can undo the anchor.
+##### Unbelay
+**Bonus Action:** You can undo the belay.

@@ -51,15 +51,12 @@ When you choose Cleric as your Secondary Class, you gain the following proficien
 
 ### 1: Channel Divinity
 You can use the following Channel Divinity effects. The [Cleric Table](#class-table) shows how many Channel Divinity uses you have.
-###### Regaining Uses
+#### Regaining Uses
 After a Short Rest, you regain **1** use of Channel Divinity.
 
 After a Long Rest, you regain all uses of Channel Divinity.
 ##### Channel Divinity: Divine Spark
-Magic Action, 1 Channel Divinity use
-{ .subtitle }
-
-You can target one creature within **30** feet with one of the following effects:
+**Magic Action; 1 Channel Divinity use:** You can target one creature within **30** feet with **1** of the following effects:
 
 - You heal the target by **1d8 + Class Ability**
 - The target makes a Fortitude Save.
@@ -71,27 +68,24 @@ You can target one creature within **30** feet with one of the following effects
 
 Add **1d8** to the healing and damage at Level 5, Level 11, and Level 17.
 ##### Channel Divinity: Turn Undead
-Magic Action, 1 Channel Divinity use
-{ .subtitle }
-
-Each Undead within **30** feet makes a Will Save.
+**Magic Action; 1 Channel Divinity use:** You can force each Undead within **30** feet to make a Will Save.
 
 | | |
 |---|---|
-| Fail | You deal **1d8 + Class Ability** Radiant Damage, and you frighten and incapacitate the target. While the target is Frightened by you, it moves as far from you as it can on its Turns. This effect ends early if the target takes damage, you are Incapacitated, or you die. |
+| Fail | You deal **1d8 + Class Ability** Radiant Damage, and you frighten and incapacitate the target. After a target Frightened by you starts its Turn, it moves as far from you as it can. This effect ends early if the target takes damage, you are Incapacitated, or you die. |
 | Success | No effect. |
 
 Add **1d8** to the damage at Level 5, Level 11, and Level 17.
 
 
 ### 1: Divine Order
-Choose one of the following benefits.
-##### Priest
-While you are Unarmored, your base Armor Class becomes **8 + DEX + Class Ability + PB**.
-##### Protector
-You gain Proficiency with Heavy Armor and one Martial Weapon category.
-##### Thaumaturge
-You learn **1** additional Cleric Cantrip and gain Religion Expertise.
+Choose **1** of the following effects:
+
+| Effect | |
+|---|---|
+| Priest | While you are Unarmored, your base Armor Class becomes **8 + DEX + Class Ability + PB**. |
+| Protector | You gain Proficiency with Heavy Armor and one Martial Weapon. |
+| Thaumaturge | You learn **1** additional Cleric Cantrip and gain Religion Expertise. |
 
 
 ### 1: Spellcasting
@@ -126,14 +120,13 @@ After a Long Rest, you regain all your Spell Slots.
 
 
 ### 2: Divine Recovery
-1 use per Long Rest
-{ .subtitle }
-
-After a Short Rest, you can regain expended Spell Slots with combined Level up to one-third of your Character Level _(rounded up)_.
+**Once per Long Rest:** After a Short Rest, you can regain expended Spell Slots with combined Level up to one-third of your Character Level _(rounded up)_.
 
 
 ### 3: Cleric Subclass
-Choose a Cleric Subclass. Your subclass grants you a feature at this level.
+Choose a Cleric Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|
@@ -141,11 +134,12 @@ Choose a Cleric Subclass. Your subclass grants you a feature at this level.
 
 
 ### 5: Blessed Strikes
-Choose one of the following benefits.
-##### Divine Strike
-Before you deal damage with a Weapon, you can add **1d8** Necrotic or Radiant Damage.
-##### Potent Spellcasting
-Before you deal damage with a Cleric Cantrip, you can add **Class Ability** damage.
+Choose **1** of the following effects:
+
+| Effect | |
+|---|---|
+| Divine Strike | **Free Action:** Before you deal damage with a Weapon, you can add **1d8** Necrotic or Radiant Damage. |
+| Potent Spellcasting | **Free Action:** Before you deal damage with a Cleric Cantrip, you can add **Class Ability** damage. |
 
 
 ### 6: Subclass Feature
@@ -153,10 +147,7 @@ Your subclass grants you an additional feature.
 
 
 ### 8: Commune
-Bonus Action, 1 use per Long Rest
-{ .subtitle }
-
-You mentally contact your Cleric Subclass's deity or a divine proxy and ask up to **3** questions, each answered with **1** word or a short phrase. Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question is beyond your deity's knowledge.
+**Bonus Action; Once per Long Rest:** You can mentally contact your Cleric Subclass's deity or a divine proxy and ask up to **3** questions, each answered with **1** word or a short phrase. Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question is beyond your deity's knowledge.
 
 
 ### 9: Subclass Feature
@@ -164,15 +155,13 @@ Your subclass grants you an additional feature.
 
 
 ### 10: Improved Blessed Strikes
-The benefit you chose for Blessed Strikes improves.
-##### Divine Strike
-The additional damage becomes **2d8**.
-##### Potent Spellcasting
-Before you deal damage with a Cleric Cantrip, one creature within **60** feet gains **Class Ability × 2** Temporary Hit Points.
+The effect you chose for Blessed Strikes improves.
+
+| Effect | |
+|---|---|
+| Divine Strike | The additional damage becomes **2d8**. |
+| Potent Spellcasting | **Free Action:** Before you deal damage with a Cleric Cantrip, you can give one creature within **60** feet **Class Ability × 2** Temporary Hit Points. |
 
 
 ### 11: Divine Intervention
-1 use per Long Rest
-{ .subtitle }
-
-You can cast any Cleric Spell at your highest Spell Slot Level without a Spell Slot.
+**Once per Long Rest:** You can cast any Cleric Spell at your highest Spell Slot Level without a Spell Slot.

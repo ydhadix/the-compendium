@@ -8,11 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | Everything in a 10-ft. radius Sphere |
+| Area | |
+| Target | Each Creature or Object in a 10-ft. radius Sphere |
 | Duration | — |
 
-##### Spell Effect
-Everything in a **10**-foot radius Sphere makes a Fortitude Save.
+---
+
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|
@@ -21,5 +23,5 @@ Everything in a **10**-foot radius Sphere makes a Fortitude Save.
 
 This Spell's thunder is audible out to **300** feet.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d8** damage and **5** feet to the radius per additional Spell Level.

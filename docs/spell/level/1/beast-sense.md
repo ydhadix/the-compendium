@@ -8,8 +8,10 @@
 | Components | S |
 | Casting Time | Magic Action, or Ritual |
 | Range | Reach |
-| Target | One Allied Beast |
+| Area | |
+| Target | **1** Allied Beast |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
+---
+
 You can see and hear through the target's senses in addition to your own.

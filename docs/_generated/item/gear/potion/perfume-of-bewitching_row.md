@@ -1,1 +1,1 @@
-| [Perfume of Bewitching](/item/gear/potion/perfume-of-bewitching.md) | Potion | 50 gold |
+| [Perfume of Bewitching](/item/gear/potion/perfume-of-bewitching.md) | Potion (Contact) | 50 gold |

@@ -6,7 +6,4 @@ Uncommon Spellcasting Focus (Arcane Focus)
 { .subtitle }
 
 ##### Cast
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can cast _Detect Magic_.
+**Magic Action; 1 Charge:** You can cast _Detect Magic_.

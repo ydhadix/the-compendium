@@ -8,22 +8,26 @@
 | Components | V, S, M _(a gilded acorn worth 200 Gold, containing a feather, a tuft of fur, and a scale)_ |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
+| Area | |
 | Target | — |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
-You summon a Companion Bestial Spirit. Choose Land, Water, or Air.
+---
 
+Choose Land, Water, or Air.
+
+You summon a Bestial Spirit Companion.
+
+##### Command
+**Free Action:** You can command the spirit to move and take any Action available to it.
+
+#### Ending Early
 This Spell ends if the spirit has **0** Hit Points.
 
-###### Command
-Free Action
-{ .subtitle }
-
-You can command the spirit to move and take any Action available to it.
-
-##### At Higher Levels
+#### At Higher Levels
 The Spell Level determines the spirit's Armor Class, Hit Points, and attack damage.
+
+---
 
 --8<-- "_generated/bestiary/summon/bestial-spirit-land.md"
 

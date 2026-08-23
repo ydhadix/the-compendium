@@ -8,13 +8,15 @@
 | Components | S |
 | Casting Time | Reaction, when you take Elemental Damage |
 | Range | — |
+| Area | |
 | Target | Self |
 | Duration | Until the end of your next Turn |
 
-##### Spell Effect
+---
+
 You gain Resistance to the triggering Damage Type.
 
-The next time you deal damage with a Melee Attack, you deal an additional **1d6** damage of the triggering type, then this effect ends.
+The next time you deal damage with a Melee Attack, you deal an additional **1d6** damage of the triggering type, then this Spell ends.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** Damage Die per additional Spell Level.

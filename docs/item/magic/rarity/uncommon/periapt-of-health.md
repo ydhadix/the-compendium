@@ -5,7 +5,4 @@ Uncommon Clothing (Jewelry), Attunement
 You gain Sickness Protection.
 
 ##### Heal
-Magic Action, 1 use per Day
-{ .subtitle }
-
-You can heal by **2d4 + 2**.
+**Magic Action; Once per Day:** You can heal by **2d4 + 2**.

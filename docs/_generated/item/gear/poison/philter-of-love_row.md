@@ -1,1 +1,0 @@
-| [Philter of Love](/item/gear/poison/philter-of-love.md) | Poison (Ingested) | 200 gold |

@@ -8,8 +8,13 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | — |
+| Area | |
 | Target | Self |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
-You can Dash as a Bonus Action.  After you cast this Spell, you can Dash _(no action required)_.
+---
+
+You can Dash.
+
+##### Retreat
+**Bonus Action:** You can repeat this Spell's effect.

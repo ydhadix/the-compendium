@@ -1,1 +1,1 @@
-| [Earth Tremor](/spell/level/1/earth-tremor.md) | Evocation | V, S | Magic Action | — | Everything on the ground in a 10-ft. Aura | — |
+| [Earth Tremor](/spell/level/1/earth-tremor.md) | Evocation | V, S | Magic Action | — | — | Each Creature or Object on the ground in a 10-ft. Aura | — |

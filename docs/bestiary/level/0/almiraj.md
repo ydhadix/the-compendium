@@ -30,7 +30,7 @@ Small Monstrosity, Unaligned
 
 | Features | |
 |---|---|
-| Keen Senses | The almiraj's Perception Checks that rely on hearing or sight gain Advantage. |
+| Keen Senses | The almiraj gains Advantage on Perception Checks that rely on hearing or sight. |
 
 #### Actions
 | Horn | Melee Attack |

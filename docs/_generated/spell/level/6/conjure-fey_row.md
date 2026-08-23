@@ -1,1 +1,1 @@
-| [Conjure Fey](/spell/level/6/conjure-fey.md) | Conjuration | V, S | Magic Action | 60 ft. | — | 10 minutes (C) |
+| [Conjure Fey](/spell/level/6/conjure-fey.md) | Conjuration | V, S | Magic Action | 60 ft. | — | — | 10 minutes (C) |

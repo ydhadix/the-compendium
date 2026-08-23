@@ -6,7 +6,4 @@ Uncommon Clothing (Jewelry), Attunement
 { .subtitle }
 
 ##### Cast
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can cast _Detect Thoughts_ _(DC **13**)_.
+**Magic Action; 1 Charge:** You can cast _Detect Thoughts_ _(DC **13**)_.

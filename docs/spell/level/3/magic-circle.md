@@ -8,17 +8,22 @@
 | Components | V, S, M _(consumes salt and powdered silver worth 100 Gold)_ |
 | Casting Time | 1 minute |
 | Range | 10 ft. |
-| Target | A 10-ft. radius, 20-ft. Cylinder |
+| Area | A 10-ft. radius, 20-ft. Cylinder |
+| Target | Each Creature and Object |
 | Duration | 1 hour |
 
-##### Spell Effect
-Choose one or more Creature Types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead.  A creature of a chosen type:
+---
 
-- can't willingly enter the area by nonmagical means.  To enter by teleportation or planar travel, it first makes a Will Save.
-- gains Disadvantage on Attack Rolls against targets in the area.
-- can't possess, Charm, or Frighten targets in the area.
+Choose **1** or more Planar Creature Types.  The chosen Creature Types become sealed.
 
-Each time you cast this Spell, you can instead reverse it, trapping creatures of the chosen types inside the area and protecting those outside.
+Each target gains the effect of _Protection from Good and Evil_ _(only against sealed creatures)_.
 
-##### At Higher Levels
+Choose **1** of the following effects:
+
+| Effect | |
+|---|---|
+| Ward | A sealed creature can't enter the area or reach into it _(Spells, Ranged Attacks, and Reach Weapons still pass through)_. |
+| Bind | A sealed creature can't leave the area or reach out of it _(Spells, Ranged Attacks, and Reach Weapons still pass through)_. |
+
+#### At Higher Levels
 Add **1** hour per additional Spell Level.

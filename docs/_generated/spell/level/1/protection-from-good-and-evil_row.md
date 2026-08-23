@@ -1,1 +1,1 @@
-| [Protection from Good & Evil](/spell/level/1/protection-from-good-and-evil.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | One creature | 10 minutes (C) |
+| [Protection from Good & Evil](/spell/level/1/protection-from-good-and-evil.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | — | **1** Creature | 10 minutes (C) |

@@ -1,1 +1,1 @@
-| [Greenflame Blade](/spell/level/0/greenflame-blade.md) | Evocation | S, M | Magic Action | The material component's Reach | One thing | — |
+| [Greenflame Blade](/spell/level/0/greenflame-blade.md) | Evocation | S, M | Magic Action | The Material Component's Reach | — | **1** Creature or Object | — |

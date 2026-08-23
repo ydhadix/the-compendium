@@ -2,38 +2,15 @@
 Uncommon Wondrous Item
 { .subtitle }
 
-**34** uses
+**34** cards
 { .subtitle }
-
-This deck of cards has up to **34** cards: **32** depicting specific creatures and **2** with a mirrored surface.  Each card can only be used once.
 
 ##### Draw Card
-Magic Action, 1 use
-{ .subtitle }
-
-You can draw a card at random and throw it to a point within **30** feet, summoning a harmless illusory creature that looks and behaves like the real creature but can do no harm.
+**Magic Action; 1 card:** You can draw a card at random and throw it to a point within **30** feet, summoning a harmless illusory creature that looks and behaves like the real creature but can do no harm.
 
 The illusion lasts until its card moves or it is dispelled.  Physical interaction passes through the illusion, revealing it as false.
 
-###### Search
-Search Action
-{ .subtitle }
-
-A creature that perceives the illusion can make a Perception Check _(DC **13**)_.
-
-| | |
-|---|---|
-| Success | The illusion becomes faint to that creature. |
-
-###### Move
-Magic Action
-{ .subtitle }
-
-While within **120** feet of the illusion, you can move it within **30** feet of its card.
-
----
-
-#### Variants
+After the illusion vanishes, the card is destroyed.
 
 | 1d100 | Illusion |
 |---|---|
@@ -70,3 +47,15 @@ While within **120** feet of the illusion, you can move it within **30** feet of
 | 91–93 | Warrior Veteran |
 | 94–96 | Wyvern |
 | 97–00 | The card drawer |
+
+###### Search
+Any creature that perceives the illusion can take this Action.
+
+**Search Action:** The creature makes a Perception Check _(DC **13**)_.
+
+| | |
+|---|---|
+| Success | The illusion becomes faint to that creature. |
+
+###### Move
+**Magic Action:** While within **120** feet of the illusion, you can move it within **30** feet of its card.

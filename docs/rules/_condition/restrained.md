@@ -1,5 +1,5 @@
 ##### Restrained
 - You are Immobile.
 - You automatically fail Reflex Saves.
-- Your Attack Rolls gain Disadvantage.
-- Attack Rolls against you gain Advantage.
+- You gain Disadvantage on Attack Rolls.
+- Creatures gain Advantage on Attack Rolls against you.

@@ -1,1 +1,1 @@
-| [Animal Friendship](/spell/level/1/animal-friendship.md) | Enchantment | V, S, M | Magic Action | 30 ft. | One Beast | 24 hours |
+| [Animal Friendship](/spell/level/1/animal-friendship.md) | Enchantment | V, S, M | Magic Action | 30 ft. | — | **1** Beast | 24 hours |

@@ -1,5 +1,5 @@
 ### Potion of Water Breathing
-Potion, Consumable, 200 gold
+Potion (Ingested), Consumable, 200 gold
 { .subtitle }
 
-After consuming this potion, you gain the effect of _Water Breathing_ for **24** hours.
+The target gains the effect of _Water Breathing_ for **24** hours.

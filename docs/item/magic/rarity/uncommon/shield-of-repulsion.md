@@ -6,7 +6,4 @@ Uncommon Shield (Any)
 { .subtitle }
 
 ##### Repulse
-Reaction, 1 Charge
-{ .subtitle }
-
-After a Melee Attack damages you, you can propel the attacker up to **15** feet away from you.
+**Reaction; 1 Charge:** After a Melee Attack damages you, you can propel the attacker up to **15** feet away from you.

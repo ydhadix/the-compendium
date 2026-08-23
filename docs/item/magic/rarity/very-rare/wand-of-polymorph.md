@@ -6,7 +6,4 @@ Very Rare Spellcasting Focus (Arcane Focus), Attunement (Spellcaster)
 { .subtitle }
 
 ##### Cast
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can cast _Polymorph_.
+**Magic Action; 1 Charge:** You can cast _Polymorph_.

@@ -1,1 +1,1 @@
-| [Starry Wisp](/spell/level/0/starry-wisp.md) | Evocation | V, S | Magic Action | 60 ft. | One thing | Until the end of your next Turn |
+| [Starry Wisp](/spell/level/0/starry-wisp.md) | Evocation | V, S | Magic Action | 60 ft. | — | **1** Creature or Object | Until the end of your next Turn |

@@ -8,16 +8,17 @@
 | Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
-| Target | Up to ten creatures |
+| Area | |
+| Target | Up to **10** Creatures |
 | Duration | 1 hour |
 
-##### Spell Effect
+---
+
 Each target interacts with liquid surfaces as if they were solid ground; heat or cold from the surface can still deal damage the target.
 
 Each target can also use the following action.
 
-###### Cross Boundary
-Bonus Action
-{ .subtitle }
+##### Cross Boundary
+Each target can take this Action.
 
-The target can pass through the liquid's surface, entering or leaving the liquid.
+**Bonus Action:** The target passes through the liquid's surface, entering or leaving the liquid.

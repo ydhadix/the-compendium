@@ -1,1 +1,1 @@
-| [Blight](/spell/level/4/blight.md) | Necromancy | V, S | Magic Action | 30 ft. | One creature, or one nonmagical plant | — |
+| [Blight](/spell/level/4/blight.md) | Necromancy | V, S | Magic Action | 30 ft. | — | **1** Creature, or **1** Plant Object | — |

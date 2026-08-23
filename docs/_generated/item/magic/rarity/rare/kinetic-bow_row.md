@@ -1,0 +1,1 @@
+| [Kinetic Bow](/item/magic/rarity/rare/kinetic-bow.md) | Weapon (Crossbow or Bow) | Rare | No |

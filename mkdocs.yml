@@ -88,7 +88,12 @@ nav:
         - Damage Rolls:             rules/dice/damage.md
       - Actions:                    rules/action.md
       - Movement:                   rules/movement.md
-      - Targeting:                  rules/target.md
+      - Targeting:
+        - Targeting Overview:       rules/target/index.md
+        - Size:                     rules/target/size.md
+        - Cover:                    rules/target/cover.md
+        - Range and Areas:          rules/target/range.md
+        - Sight:                    rules/target/sight.md
       - Encounters:                 rules/encounter.md
       - Conditions:                 rules/condition.md
       - Hazards:                    rules/hazard.md
@@ -160,7 +165,6 @@ nav:
         - Containers:               item/gear/container/index.md
         - Crafting Materials:       item/gear/material/index.md
         - Light Sources:            item/gear/lighting/index.md
-        - Poisons:                  item/gear/poison/index.md
         - Potions:                  item/gear/potion/index.md
         - Scrolls:                  item/gear/scroll/index.md
         - Spellcasting Focuses:     item/gear/spell-focus/index.md
@@ -271,6 +275,10 @@ nav:
   - The Archive:
     - Overview:                     archive/index.md
     - Player Characters:            archive/characters/index.md
+    - Utilities:
+      - Overview:                   archive/utilities/index.md
+      - Elf Names:                  archive/utilities/elf-name-generator.md
+      - Dark Elf Names:             archive/utilities/dark-elf-name-generator.md
     - "WEEP Part 1: Dragon Heist":
       - Campaign Overview:          archive/dragon-heist/index.md
     - "WEEP Part 2: Icewind Dale":

@@ -1,1 +1,1 @@
-| [Aid](/spell/level/2/aid.md) | Abjuration | V, S, M | Magic Action | 30 ft. | Up to 3 creatures | 8 hours |
+| [Aid](/spell/level/2/aid.md) | Abjuration | V, S, M | Magic Action | 30 ft. | — | Up to **3** Creatures | 8 hours |

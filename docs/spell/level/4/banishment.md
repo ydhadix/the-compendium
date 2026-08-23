@@ -5,21 +5,28 @@
 | | |
 |---|---|
 | Classes | Cleric, Sorcerer, Warlock, Wizard |
-| Components | V, S, M _(a pentacle)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One creature |
+| Area | — |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target makes a Will Save.
+---
+
+Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You banish the target to a harmless demiplane, where it is Incapacitated.  After this Spell ends, it returns to the space it left, or the nearest unoccupied space. |
+| Fail | You banish the target to a harmless demiplane and incapacitate it.<br>After this Spell ends, the target returns to the space it left, or the nearest unoccupied space. |
 | Success | No effect. |
 
-If the target is an Aberration, Celestial, Elemental, Fey, or Fiend and this Spell lasts the full duration, the target doesn't return.  It is instead banished to a plane associated with its Creature Type.
+#### Permanence
+If a banished target is a Planar Creature and this Spell lasts the full duration, it doesn't return.
 
-##### At Higher Levels
+If the target is not on its home plane, you teleport it there instead.
+
+Otherwise, you teleport it to a plane associated with its Planar Creature Type.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

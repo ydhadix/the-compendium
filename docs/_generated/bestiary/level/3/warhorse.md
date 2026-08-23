@@ -30,4 +30,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+6** to hit _[STR + PB]_ |
 | Damage | **2d4 + 4** Bludgeoning Damage _[2d4 + STR]_ |
-| Effect | Before this attack deals damage, if the horse moved at least **20** feet in a straight line toward a Large or smaller target, it deals an additional **2d4** damage.  After dealing this damage, the horse knocks the target Prone. |
+| Effect | Before this attack deals damage, if the horse moved at least **20** feet in a straight line toward a target of the horse's Size or smaller, it deals an additional **2d4** damage.  After dealing this damage, the horse knocks the target Prone. |

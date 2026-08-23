@@ -8,15 +8,17 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | Up to 3 creatures or objects |
+| Area | |
+| Target | Up to **3** Creatures or Objects |
 | Duration | — |
 
-##### Spell Effect
+---
+
 You make a Ranged Spell Attack against each target.
 
 | | |
 |---|---|
-| Hit | You deal **2d6** Fire Damage. A flammable object starts Burning _(**1d4**)_. |
+| Hit | You deal **2d6** Fire Damage. You burn _(**1d4**)_ a flammable object. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** target per additional Spell Level.

@@ -10,5 +10,6 @@
 | Target | Self |
 | Duration | **1** Hour (Concentration) |
 
-##### Protocol Effect
+---
+
 Your Ship turns Invisible. This Protocol ends if your Ship attacks, deals damage, or uses another Protocol.

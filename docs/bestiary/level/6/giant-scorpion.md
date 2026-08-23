@@ -38,7 +38,7 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+6** to hit _[STR + PB]_ |
 | Damage | **1d6 + 3** Bludgeoning Damage _[1d6 + STR]_ |
-| Effect | After this attack deals damage, the scorpion grapples a Large or smaller target in one of its two claws. |
+| Effect | After this attack deals damage, the scorpion grapples a target of the scorpion's Size or smaller in one of its two claws. |
 
 | Sting | Melee Attack |
 |---|---|

@@ -1,15 +1,9 @@
 ### Lucky
-Proficiency Bonus uses per Long Rest
+**PB** Luck uses per Long Rest
 { .subtitle }
 
-#### Advantage
-Free Action
-{ .subtitle }
+##### Lucky Streak
+**Free Action; 1 Luck use:** Before you roll a d20, you can gain Advantage on the d20.
 
-Before you roll a d20, you can gain Advantage on the d20.
-
-#### Disadvantage
-Free Action
-{ .subtitle }
-
-Before a creature attacks you, the Attack Roll can gain Disadvantage.
+##### Unlucky Strike
+**Free Action; 1 Luck use:** Before a creature attacks you, you can give the creature Disadvantage on the Attack Roll.

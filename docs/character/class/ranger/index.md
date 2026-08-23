@@ -6,7 +6,7 @@ Rangers are hunters and trackers at home in the wilds, blending martial skill, p
 | Level | Features | Marked Target | Mark Damage | Primal Imprint | Fighting Styles |
 |---|---|---|---|---|---|
 |  1 | [Marked Target](#1-marked-target),<br>[Primal Imprint](#1-primal-imprint),<br>[Fighting Style](#1-fighting-style) | 2 | 1d6 | 2 | 3 |
-|  2 | [Spellcasting](#2-spellcasting),<br> | 2 | 1d6 | 2 | 3 |
+|  2 | [Spellcasting](#2-spellcasting),<br>[Favored Enemy](#2-favored-enemy) | 2 | 1d6 | 2 | 3 |
 |  3 | [Ranger Subclass](#3-ranger-subclass) | 2 | 1d6 | 2 | 3 |
 |  4 | [Imprinting Adept](#4-imprinting-adept) | 3 | 1d8 | 3 | 4 |
 |  5 | [Extra Attack](#5-extra-attack) | 3 | 1d8 | 3 | 4 |
@@ -51,32 +51,29 @@ When you choose Ranger as your Secondary Class, you gain the following proficien
 
 ### 1: Marked Target
 You learn _Hunter's Mark_ and can cast it using this feature. The [Ranger Table](#class-table) shows how many Marked Target uses you have.
-###### Regaining Uses
+#### Regaining Uses
 After a Short Rest, you regain **1** use of Marked Target.
 
 After a Long Rest, you regain all uses of Marked Target.
 #### Improved Mark
-Your _Hunter's Mark_ gains the following benefits:
+Your _Hunter's Mark_ gains the following effects:
 
 - The additional damage increases as you gain Ranger Levels, as shown in the [Ranger Table](#class-table).
 - You can move the Mark regardless of the target's Hit Points.
-- You can cast this Spell without Concentration. If you do, the Spell's Duration becomes **1** minute for that casting.
-###### Free Casting
-1 Marked Target use
-{ .subtitle }
-
-You can cast _Hunter's Mark_ without a Spell Slot.
+- You can cast this Spell _(no Concentration required)_. If you do, the Spell's Duration becomes **1** minute for that casting.
+##### Free Casting
+**1 Marked Target use:** You can cast _Hunter's Mark_ without a Spell Slot.
 
 
 ### 1: Primal Imprint
 The [Ranger Table](#class-table) shows how many [Primal Imprints](imprint.md) you know, and when you learn more.  You can't pick the same Imprint more than once.
-###### Changing Imprints
+#### Changing Imprints
 After a Long Rest, you can replace one of your known Imprints.
 
 
 ### 1: Fighting Style
 You learn Fighting Styles.  The [Ranger Table](#class-table) shows how many Fighting Styles you know.
-###### Changing Fighting Styles
+#### Changing Fighting Styles
 Whenever you level up, you can change one of your Fighting Styles.
 
 
@@ -109,11 +106,15 @@ After a Long Rest, you regain all your Spell Slots.
 
 
 ### 2: Favored Enemy
-Choose two Creature Types, other than Humanoid.  When you Study one of the chosen creature types, that Ability Check gains Expertise.
+Choose **2** Creature Types, other than Humanoid.
+
+When you Study one of the chosen Creature Types, that Ability Check gains Expertise.
 
 
 ### 3: Ranger Subclass
-Choose a Ranger Subclass. Your subclass grants you a feature at this level.
+Choose a Ranger Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|
@@ -143,10 +144,7 @@ You gain [additional options](imprint.md#level-7) for your [Primal Imprint](#1-p
 
 
 ### 8: Vanish
-Bonus Action, Class Ability uses per Long Rest
-{ .subtitle }
-
-You become Invisible and Hidden until the end of your next Turn. Your Hide DC is your Ranger Spell Save DC.
+**Bonus Action; Class Ability times per Long Rest:** You can become Invisible and Hidden until the end of your next Turn. Your Hide DC becomes your Ranger Spell Save DC.
 
 
 ### 9: Subclass Feature
@@ -158,6 +156,7 @@ You gain [additional options](imprint.md#level-10) for your [Primal Imprint](#1-
 
 
 ### 11: Foe Slayer
-After your Turn begins, you can move your Hunter's Mark to a new creature within range.
-
-Before you deal damage to a creature Marked by you, you can end your Hunter's Mark, and the target gains Vulnerability to that damage _(If the damage was from an Attack, you still add the bonus damage before applying Vulnerability)_.
+##### Retarget
+**Free Action:** After your Turn starts, you can move your Hunter's Mark to a new creature within range.
+##### Exploit Weakness
+**Free Action:** Before you deal damage to a creature Marked by you, you can end your Hunter's Mark to give the target Vulnerability to that damage _(If the damage was from an Attack, you still add the bonus damage before applying Vulnerability)_.

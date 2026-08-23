@@ -56,7 +56,7 @@ When you choose Rogue as your Secondary Class, you gain the following proficienc
 
 ### 1: Fighting Style
 You learn Fighting Styles.  The [Rogue Table](#class-table) shows how many Fighting Styles you know.
-###### Changing Fighting Styles
+#### Changing Fighting Styles
 Whenever you level up, you can change one of your Fighting Styles.
 
 
@@ -64,7 +64,9 @@ Whenever you level up, you can change one of your Fighting Styles.
 
 
 ### 3: Rogue Subclass
-Choose a Rogue Subclass. Your subclass grants you a feature at this level.
+Choose a Rogue Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|

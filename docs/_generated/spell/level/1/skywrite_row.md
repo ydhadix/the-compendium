@@ -1,1 +1,1 @@
-| [Skywrite](/spell/level/1/skywrite.md) | Transmutation | V, S | Magic Action (R) | Line of sight | — | 1 hour (C) |
+| [Skywrite](/spell/level/1/skywrite.md) | Transmutation | V, S | Magic Action (R) | Line of sight | — | — | 1 hour (C) |

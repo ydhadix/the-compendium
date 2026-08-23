@@ -1,1 +1,1 @@
-| [Disguise Self](/spell/level/1/disguise-self.md) | Illusion | V, S | Magic Action | — | Self | 1 hour |
+| [Disguise Self](/spell/level/1/disguise-self.md) | Illusion | V, S | Magic Action | — | — | Self | 1 hour |

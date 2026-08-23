@@ -1,1 +1,1 @@
-| [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Magic Action (R) | 30 ft. | Up to ten creatures | 1 hour |
+| [Water Walk](/spell/level/3/water-walk.md) | Transmutation | V, S, M | Magic Action (R) | 30 ft. | — | Up to **10** Creatures | 1 hour |

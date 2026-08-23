@@ -5,10 +5,7 @@ Other, 1 gold
 Ball Bearings come in a Pouch.
 
 ##### Scatter
-Utilize Action
-{ .subtitle }
-
-You can spill the Ball Bearings from a Pouch, covering a level, **10**-foot Square area within **10** feet.
+**Utilize Action:** You can spill the Ball Bearings from a Pouch, covering a level, **10**-foot Square area within **10** feet.
 
 After a creature enters this area, the creature makes a Reflex Save _(DC **10**)_.
 

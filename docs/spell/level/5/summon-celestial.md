@@ -8,22 +8,23 @@
 | Components | V, S, M _(a reliquary worth 500 Gold)_ |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
+| Area | — |
 | Target | — |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
-You summon a Companion Celestial Spirit. Choose Avenger or Defender.
+---
 
-This Spell ends if the Spirit has **0** Hit Points.
+Choose Avenger or Defender.
 
-###### Command
-Free Action
-{ .subtitle }
+You summon a Celestial Spirit Companion.
 
-You can command the Spirit to move and take any Action available to it.
+##### Command
+**Free Action:** You can command the spirit to move and take any Action available to it.
 
-##### At Higher Levels
-The Spell Level determines the Spirit's Armor Class, Hit Points, and attack damage.
+#### Ending Early
+This Spell ends if the spirit has **0** Hit Points.
+
+---
 
 --8<-- "_generated/bestiary/summon/celestial-spirit-avenger.md"
 

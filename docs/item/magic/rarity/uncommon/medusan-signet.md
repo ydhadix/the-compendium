@@ -6,10 +6,9 @@ Uncommon Clothing (Jewelry)
 { .subtitle }
 
 ##### Stone Savior
-Free Action, 1 use
-{ .subtitle }
+**Free Action; 1 use:** Before you are reduced to **0** Hit Points, you can petrify yourself until you die, you heal, or you are affected by _Greater Restoration_.
 
-Before you are reduced to **0** Hit Points, you can petrify yourself until you die, you heal, or you are affected by _Greater Restoration_.  While Petrified:
+While Petrified:
 
 - You don't make Death Saves _(you still fail a Death Save after taking damage)_.
 - Critical Hits against you are normal hits.

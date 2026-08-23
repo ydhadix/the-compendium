@@ -7,8 +7,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## Cantrips
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/0/acid-splash_row.md"
 --8<-- "_generated/spell/level/0/blade-ward_row.md"
 --8<-- "_generated/spell/level/0/booming-blade_row.md"
@@ -38,8 +38,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 1st-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/1/absorb-elements_row.md"
 --8<-- "_generated/spell/level/1/acid-arrow_row.md"
 --8<-- "_generated/spell/level/1/air-bubble_row.md"
@@ -95,8 +95,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 2nd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/2/alter-self_row.md"
 --8<-- "_generated/spell/level/2/arcane-elusion_row.md"
 --8<-- "_generated/spell/level/2/arcane-lock_row.md"
@@ -147,8 +147,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 3rd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/3/animate-dead_row.md"
 --8<-- "_generated/spell/level/3/antagonize_row.md"
 --8<-- "_generated/spell/level/3/bestow-curse_row.md"
@@ -205,8 +205,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 4th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/4/arcane-eye_row.md"
 --8<-- "_generated/spell/level/4/banishment_row.md"
 --8<-- "_generated/spell/level/4/black-tentacles_row.md"
@@ -233,8 +233,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 5th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/5/arcane-hand_row.md"
 --8<-- "_generated/spell/level/5/circle-of-power_row.md"
 --8<-- "_generated/spell/level/5/cloudkill_row.md"
@@ -264,8 +264,8 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 
 ## 6th-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/6/arcane-gate_row.md"
 --8<-- "_generated/spell/level/6/bubbling-cauldron_row.md"
 --8<-- "_generated/spell/level/6/chain-lightning_row.md"

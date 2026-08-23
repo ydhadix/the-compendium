@@ -2,4 +2,4 @@
 Prerequisite: Level 7 Ranger
 { .subtitle }
 
-You ignore movement penalties caused by webs, and you gain a Spider Climb Speed equal to your Speed.
+You gain a Spider Climb Speed equal to your Speed and you ignore movement penalties caused by webs.

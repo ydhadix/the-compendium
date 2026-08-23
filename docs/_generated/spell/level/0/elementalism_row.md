@@ -1,1 +1,1 @@
-| [Elementalism](/spell/level/0/elementalism.md) | Transmutation | V, S | Magic Action | 30 ft. | Special | 1 hour |
+| [Elementalism](/spell/level/0/elementalism.md) | Transmutation | V, S | Magic Action | 30 ft. | — | Special | 1 hour |

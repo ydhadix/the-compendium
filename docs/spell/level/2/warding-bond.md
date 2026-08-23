@@ -8,12 +8,15 @@
 | Components | V, S, M _(two platinum rings worth 50 Gold each)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
-While you and the target each wear one of the material components and the target is within **60** feet of you, the target's Armor Class and Saves increase by **1**, and it gains Resistance to all damage.
+---
+
+While you and the target each wear one of the Material Components and the target is within **60** feet of you, the target's Armor Class and Saves increase by **1**, and it gains Resistance to all damage.
 
 After the target takes damage, you take the same amount.
 
-This Spell ends if you are Downed or if this Spell is cast again on you or the target.
+#### Ending Early
+This Spell ends if you are Downed or if this Spell is cast again on you.  This Spell ends on a target if this Spell is cast again on it.

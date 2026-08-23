@@ -8,22 +8,24 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One thing |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-You make a Ranged Spell Attack against the target.
+---
+
+You make a Ranged Spell Attack against each target.
 
 | | |
 |---|---|
-| Hit | You deal **2d12** Lightning Damage. This Spell ends if the target has Full Cover from you or leaves this Spell's range. |
-| Miss | This effect ends. |
+| Hit | You deal **2d12** Lightning Damage. |
+| Miss | This Spell ends. |
 
-###### Bolt
-Bonus Action
-{ .subtitle }
+##### Bolt
+**Bonus Action:** You can deal **1d12** Lightning Damage to the target.
 
-You can deal **1d12** Lightning Damage to the target.
+#### Ending Early
+This Spell ends on a target if it has Full Cover from you or leaves this Spell's range.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d12** damage and **15** feet to the Range per additional Spell Level.

@@ -8,18 +8,26 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 minute |
 
-##### Spell Effect
-Choose Blindness or Deafness. The target makes a Fortitude Save.
+---
+
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You apply the chosen condition to the target. |
+| Fail | You blind or deafen the target. |
 | Success | No effect. |
 
-Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+#### Ending Early
+Before a target's Turn ends, it makes a Fortitude Save.
 
-##### At Higher Levels
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This Spell ends on the target. |
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

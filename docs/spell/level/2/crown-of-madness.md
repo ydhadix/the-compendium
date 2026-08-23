@@ -8,21 +8,26 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | One humanoid |
+| Area | |
+| Target | **1** Humanoid |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target makes a Will Save.
+---
+
+Each target makes a Will Save.
 
 | | |
 |---|---|
 | Fail | You charm the target, and a spectral crown appears on its head. |
 | Success | No effect. |
 
-Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+##### Command
+**Magic Action:** You can mentally choose a Creature. After the target's next Turn starts, it moves toward that creature and uses its Action to make a Melee Attack against it, then takes the rest of its Turn normally after attacking once or if it can't reach the creature.
 
-###### Command
-Magic Action
-{ .subtitle }
+#### Ending Early
+Before a target's Turn ends, it makes a Will Save.
 
-You mentally choose a creature. On its next Turn, the target moves toward that creature and uses its action to make a Melee Attack against it, then takes the rest of its Turn normally after attacking once or if it can't reach the creature.
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This Spell ends on the target. |

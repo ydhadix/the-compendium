@@ -8,8 +8,10 @@
 | Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
-| Target | Up to ten creatures |
+| Area | |
+| Target | Up to **10** Creatures |
 | Duration | 24 hours |
 
-##### Spell Effect
+---
+
 Each target can breathe underwater.

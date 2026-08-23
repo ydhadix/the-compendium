@@ -41,4 +41,4 @@ A Medium Humanoid needs **1** pound of food per day.  You can go without food fo
 Eating at least half as much food is enough to stave off Starvation temporarily.  Each Day you do, you aren't exhausted, but you still suffer Starvation's other effects and it doesn't reset the number of days without food.
 
 ### Suffocation
-You can hold your breath for **1 + CON** minutes (minimum **30** seconds). After your air runs out, you can survive for a number of Rounds equal to **CON** (minimum **1** Round). After your next Turn begins, you drop to **0** Hit Points and are Downed, and you can't regain Hit Points or become Stable until you can breathe again.
+You can hold your breath for **1 + CON** minutes (minimum **30** seconds). After your air runs out, you can survive for a number of Rounds equal to **CON** (minimum **1** Round). After your next Turn starts, you drop to **0** Hit Points and are Downed, and you can't regain Hit Points or become Stable until you can breathe again.

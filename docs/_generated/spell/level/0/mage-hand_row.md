@@ -1,1 +1,1 @@
-| [Mage Hand](/spell/level/0/mage-hand.md) | Conjuration | V, S | Magic Action | 30 ft. | — | 1 minute |
+| [Mage Hand](/spell/level/0/mage-hand.md) | Conjuration | V, S | Magic Action | 30 ft. | — | — | 1 minute |

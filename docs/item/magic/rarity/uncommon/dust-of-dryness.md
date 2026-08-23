@@ -6,22 +6,15 @@ Uncommon Wondrous Item, Consumable
 { .subtitle }
 
 ##### Absorb Water
-Utilize Action, 1 use
-{ .subtitle }
-
-You can turn up to a **15**-foot Cube of water into a marble-sized pellet that floats or rests nearby.
+**Utilize Action; 1 use:** You can turn up to a **15**-foot Cube of water into a marble-sized pellet that floats or rests nearby.
 
 ###### Smash
-Utilize Action
-{ .subtitle }
+Any creature can take this Action.
 
-A creature can smash the pellet, destroying it and releasing the absorbed water.
+**Utilize Action:** The creature smashes the pellet, destroying it and releasing the absorbed water.
 
 ##### Parch Elemental
-Utilize Action, 1 use
-{ .subtitle }
-
-You can sprinkle a pinch of dust on a water-based Elemental within Reach, which makes a Fortitude Save _(DC **13**)_.
+**Utilize Action; 1 use:** You can sprinkle a pinch of dust on a water-based Elemental within Reach, which makes a Fortitude Save _(DC **13**)_.
 
 | | |
 |---|---|

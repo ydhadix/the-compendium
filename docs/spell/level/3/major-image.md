@@ -8,27 +8,25 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | Each creature in a 20-ft. Cube |
+| Area | |
+| Target | A 20-ft. Cube |
 | Duration | 10 minutes (Concentration) |
 
-##### Spell Effect
+---
+
 You create the image of an object, creature, or other visible phenomenon, no larger than a **20**-foot Cube. It seems real, including sounds, smells, and temperatures, but it can't deal damage or cause Conditions.
 
-###### Move
-Magic Action
-{ .subtitle }
+##### Move
+**Magic Action:** You can move the image to another location; as it moves, you can alter its appearance and the sounds it makes so they seem natural.
 
-You move the image to another location; as it moves, you can alter its appearance and the sounds it makes so they seem natural.
+##### Search
+Any Creature that perceives the illusion can take this Action.
 
-###### Search
-Search Action
-{ .subtitle }
-
-A creature that perceives the illusion can make a Perception Check against your Spell Save DC.
+**Search Action:** The creature makes a Perception Check against your Spell Save DC.
 
 | | |
 |---|---|
 | Success | The illusion becomes faint to that creature. |
 
-##### At Higher Levels
+#### At Higher Levels
 Cast with a 4th-Level Spell Slot or higher, this Spell lasts until dispelled and doesn't require Concentration.

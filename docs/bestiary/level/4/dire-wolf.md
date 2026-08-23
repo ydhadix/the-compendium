@@ -30,7 +30,7 @@ Large Beast, Unaligned
 
 | Features | |
 |---|---|
-| Pack Tactics | The wolf's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The wolf gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 
 #### Actions
 | Bite | Melee Attack |
@@ -38,4 +38,4 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[STR + PB]_ |
 | Damage | **1d10 + 3** Piercing Damage _[1d10 + STR]_ |
-| Effect | After this attack deals damage, the wolf knocks a Large or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is the wolf's Size or smaller, the wolf knocks the target Prone. |

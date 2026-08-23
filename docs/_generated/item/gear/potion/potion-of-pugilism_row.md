@@ -1,1 +1,1 @@
-| [Potion of Pugilism](/item/gear/potion/potion-of-pugilism.md) | Potion | 200 gold |
+| [Potion of Pugilism](/item/gear/potion/potion-of-pugilism.md) | Potion (Ingested) | 200 gold |

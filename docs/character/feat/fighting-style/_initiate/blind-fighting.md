@@ -1,3 +1,3 @@
 ### Blind Fighting
 
-You have **10** feet of Blindsight.
+You gain **10** feet of Blindsight.

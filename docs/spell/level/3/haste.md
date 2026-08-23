@@ -8,18 +8,20 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target gains the following benefits:
+---
+
+Each target gains the following effects:
 
 - Its Speed becomes doubled.
 - Its Armor Class increases by **2**.
 - It gains Advantage on Reflex Saves.
-- It can take an additional action on its Turns, used only to Attack (one attack only), Dash, Disengage, Hide, or Utilize.
+- It can take an additional Action, used only to Attack _(**1** Attack only)_, Dash, Disengage, Hide, or Utilize.
 
 After this Spell ends, the target is Incapacitated and its Speed becomes **0** feet until the end of its next Turn.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** target per additional Spell Level.

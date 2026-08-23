@@ -6,10 +6,7 @@ Rare Weapon (Any), Attunement
 { .subtitle }
 
 ##### Terrify
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can release a wave of terror.  Each creature you choose within **30** feet makes a Will Save _(DC **15**)_.
+**Magic Action; 1 Charge:** You can release a wave of terror.  Each creature you choose within **30** feet makes a Will Save _(DC **15**)_.
 
 | | |
 |---|---|
@@ -18,4 +15,4 @@ You can release a wave of terror.  Each creature you choose within **30** feet m
 
 While frightened this way, the target spends its Turns moving as far from you as it can, can't make Opportunity Attacks, and can only Dash, Dodge, or try to escape an effect preventing its movement.
 
-Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.

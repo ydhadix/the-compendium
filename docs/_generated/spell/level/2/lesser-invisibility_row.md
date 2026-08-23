@@ -1,1 +1,1 @@
-| [Lesser Invisibility](/spell/level/2/lesser-invisibility.md) | Illusion | V, S, M | Magic Action | Reach | One thing | 1 hour (C) |
+| [Lesser Invisibility](/spell/level/2/lesser-invisibility.md) | Illusion | V, S, M | Magic Action | Reach | — | **1** Creature or Object | 1 hour (C) |

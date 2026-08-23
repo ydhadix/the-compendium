@@ -2,4 +2,4 @@
 Pilot Component
 { .subtitle }
 
-Whenever you advance, your Piloting check gains Advantage.
+Whenever you advance, you gain Advantage on your Piloting check.

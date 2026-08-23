@@ -46,7 +46,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/executioners-axe_row.md"
 --8<-- "_generated/item/magic/rarity/rare/flame-tongue_row.md"
 --8<-- "_generated/item/magic/rarity/rare/frost-brand_row.md"
---8<-- "_generated/item/magic/rarity/rare/kinetic-bowstring_row.md"
+--8<-- "_generated/item/magic/rarity/rare/kinetic-bow_row.md"
 --8<-- "_generated/item/magic/rarity/rare/lightning-khopesh_row.md"
 --8<-- "_generated/item/magic/rarity/rare/nine-lives-stealer_row.md"
 --8<-- "_generated/item/magic/rarity/rare/quarterstaff-of-the-acrobat_row.md"

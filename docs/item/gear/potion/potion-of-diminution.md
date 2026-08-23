@@ -1,7 +1,5 @@
 ### Potion of Diminution
-Potion, Consumable, 2,000 gold
+Potion (Ingested), Consumable, 2,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, you gain the Reduce effect of _Enlarge/Reduce_ _(without Concentration)_ for **1d4** hours.
+The target gains the Reduce effect of _Enlarge/Reduce_ for **1d4** hours _(no Concentration required)_.

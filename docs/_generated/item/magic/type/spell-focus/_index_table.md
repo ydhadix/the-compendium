@@ -47,7 +47,6 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rarity/very-rare/cauldron-of-rebirth_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/crystal-ball_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/enspelled-staff_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/rod-of-absorption_row.md"

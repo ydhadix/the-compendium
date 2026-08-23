@@ -10,5 +10,6 @@ Divination Cantrip
 | Target | Self |
 | Duration | Until the end of your next Turn |
 
-##### Protocol Effect
+---
+
 The next Attack your Ship makes gains Advantage.

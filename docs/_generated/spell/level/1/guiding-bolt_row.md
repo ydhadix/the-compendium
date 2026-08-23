@@ -1,1 +1,1 @@
-| [Guiding Bolt](/spell/level/1/guiding-bolt.md) | Evocation | V, S | Magic Action | 120 ft. | One thing | Until the end of your next Turn |
+| [Guiding Bolt](/spell/level/1/guiding-bolt.md) | Evocation | V, S | Magic Action | 120 ft. | — | **1** Creature or Object | Until the end of your next Turn |

@@ -40,7 +40,7 @@ Small Aberration, Lawful Evil
 | Range | Reach |
 | Attack | **+6** to hit _[DEX + PB]_ |
 | Damage | **1d6 + 3** Piercing Damage _[1d6 + DEX]_ and **4d6** Poison Damage |
-| Effect | After this attack deals damage, the target makes a Fortitude Save _(DC **13** [8 + CON + PB])_; on a failure, the neogi sickens the target for **1** minute.  Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target. |
+| Effect | After this attack deals damage, the target makes a Fortitude Save _(DC **13** [8 + CON + PB])_; on a failure, the neogi sickens the target for **1** minute.  Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target. |
 
 | Claw | Melee Attack |
 |---|---|

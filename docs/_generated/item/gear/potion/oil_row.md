@@ -1,1 +1,1 @@
-| [Oil](/item/gear/potion/oil.md) | Potion | 1 silver |
+| [Oil](/item/gear/potion/oil.md) | Potion (Contact) | 1 silver |

@@ -51,25 +51,24 @@ When you choose Bard as your Secondary Class, you gain the following proficienci
 
 ### 1: Bardic Inspiration
 You can give other creatures Inspiration Dice.  The [Bard Table](#class-table) shows the size of your Inspiration Dice and how many Bardic Inspiration uses you have.
-#### Giving Inspiration
-Bonus Action, 1 Bardic Inspiration use
-{ .subtitle }
-
-You give one creature within **60** feet an Inspiration Die.
 #### Using Inspiration Dice
-Before a creature with an Inspiration Die fails a D20 Test, it can spend the die to add it to the Test, potentially turning the failure into a success. A creature can only have **1** Inspiration Die at a time.
-###### Regaining Inspiration Dice
+Before a creature with an Inspiration Die fails an Ability Check, Attack Roll, or Saving Throw, it can spend the die to add it to the total. A creature can only have **1** Inspiration Die at a time.
+#### Regaining Inspiration Dice
 After a Short Rest, any remaining Inspiration Dice you've given vanish, and you regain all uses of Bardic Inspiration.
+##### Inspire
+**Bonus Action; 1 Bardic Inspiration use:** You can give one creature within **60** feet an Inspiration Die.
 
 
 ### 1: Magical Secrets
-Choose one of the following Magical Secrets. You can learn Cantrips and prepare Spells from the chosen Magical Secret's Spell Lists as Bard Spells _(Spells from these Spell Lists are not Bard Spells until you learn or prepare them)_.
+Choose **1** of the following Magical Secrets:
 
 | Magical Secret | Spell Lists |
 |---|---|
 | Arcane | Wizard |
 | Primal | Druid |
 | Divine | Cleric |
+
+You can learn Cantrips and prepare Spells from the chosen Magical Secret's Spell Lists as Bard Spells _(Spells from these Spell Lists are not Bard Spells until you learn or prepare them)_.
 
 
 ### 1: Spellcasting
@@ -109,7 +108,9 @@ You gain Aptitude in all Ability Checks you make without Proficiency.
 
 
 ### 3: Bard Subclass
-Choose a Bard Subclass. Your subclass grants you a feature at this level.
+Choose a Bard Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|
@@ -119,10 +120,7 @@ Choose a Bard Subclass. Your subclass grants you a feature at this level.
 
 
 ### 5: Countercharm
-Reaction
-{ .subtitle }
-
-Before a creature within **30** feet fails a Saving Throw to resist Charm or Fear, you can reroll the Saving Throw with Advantage.
+**Reaction:** Before a creature within **30** feet fails a Saving Throw to resist Charm or Fear, it rerolls the Saving Throw with Advantage.
 
 
 ### 6: Subclass Feature
@@ -132,11 +130,8 @@ Your subclass grants you an additional feature.
 ### 8: Master of One
 #### Expert
 You gain Expertise in one of your Skill or Trade Proficiencies.
-#### Specialist
-Free Action, 1 Bardic Inspiration use
-{ .subtitle }
-
-Before you fail an Ability Check using the chosen Expertise, you can add an Inspiration Die to the Ability Check.
+##### Specialist
+**Free Action; 1 Bardic Inspiration use:** Before you fail an Ability Check using the chosen Expertise, you can add an Inspiration Die to the Ability Check.
 
 
 ### 9: Subclass Feature
@@ -148,9 +143,9 @@ After you roll Initiative, if you have fewer than **2** uses of Bardic Inspirati
 
 
 ### 11: Words of Creation
-You learn _Power Word Heal_ and _Power Word Kill_.  Before you cast either Spell, you can add an additional target within **10** feet of the first.
-###### Free Casting
-1 use per Long Rest
-{ .subtitle }
+You learn _Power Word Heal_ and _Power Word Kill_.
 
-You can cast one of this feature's Spells without a Spell Slot.
+##### Twinned Word
+**Free Action:** Before you cast either Spell, you can add an additional target within **10** feet of the first.
+##### Free Casting
+**Once per Long Rest:** You can cast one of this feature's Spells without a Spell Slot.

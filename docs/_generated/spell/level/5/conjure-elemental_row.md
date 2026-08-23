@@ -1,1 +1,1 @@
-| [Conjure Elemental](/spell/level/5/conjure-elemental.md) | Conjuration | V, S | Magic Action | 60 ft. | Everything in a 10-ft. radius Sphere | 10 minutes (C) |
+| [Conjure Elemental](/spell/level/5/conjure-elemental.md) | Conjuration | V, S | Magic Action | 60 ft. | A 10-ft. radius Sphere | Each Creature and Object | 10 minutes (C) |

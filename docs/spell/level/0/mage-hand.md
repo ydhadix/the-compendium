@@ -8,14 +8,16 @@ Conjuration Cantrip
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
+| Area | |
 | Target | — |
 | Duration | 1 minute |
 
-##### Spell Effect
-You create a floating, spectral hand. The hand can't attack, activate Magic Items, or carry more than **10** pounds. This Spell ends if you cast it again or if the hand moves out of Range.
+---
 
-###### Utilize
-Magic Action
-{ .subtitle }
+You create a Tiny, floating, spectral hand with Immunity to all damage. The hand can't attack, activate Magic Items, or carry more than **10** pounds.
 
-You can move the hand up to **30** feet, then Utilize using the hand.
+##### Utilize
+**Magic Action:** You can move the hand up to **30** feet, then Utilize using the hand.
+
+#### Ending Early
+This Spell ends if you cast it again or if the hand moves out of Range.

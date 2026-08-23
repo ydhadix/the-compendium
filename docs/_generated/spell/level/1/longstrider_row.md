@@ -1,1 +1,1 @@
-| [Longstrider](/spell/level/1/longstrider.md) | Transmutation | V, S, M | Magic Action | Reach | One creature | 1 hour |
+| [Longstrider](/spell/level/1/longstrider.md) | Transmutation | V, S, M | Magic Action | Reach | — | **1** Creature | 1 hour |

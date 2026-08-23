@@ -1,5 +1,2 @@
 ##### Quickened Spell
-2 Sorcery Points
-{ .subtitle }
-
-If the Spell has a Casting Time of an Action, you can replace it with a Bonus Action.
+**2 Sorcery Points:** If the Spell has a Casting Time of an Action, its Casting Time becomes a Bonus Action.

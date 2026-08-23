@@ -8,13 +8,15 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
+---
+
 The Sickness condition ends on the target.
 
-The target gains Poison Resistance and Sickness Protection.
+Each target gains Poison Resistance and Sickness Protection.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** target per additional Spell Level.

@@ -10,4 +10,4 @@ Add a Maneuver Die to your Piloting check.
 
 | | |
 |---|---|
-| Success | Your Ship's Attacks gain Advantage. |
+| Success | Your Ship gains Advantage on Attacks. |

@@ -8,16 +8,18 @@
 | Components | V, S, M |
 | Casting Time | Reaction, after you take damage |
 | Range | 60 ft. |
+| Area | |
 | Target | The source of the damage |
 | Duration | — |
 
-##### Spell Effect
-The target makes a Reflex Save.
+---
+
+Each target makes a Reflex Save.
 
 | | |
 |---|---|
 | Fail | You deal **2d10** Fire Damage. |
 | Success | You deal half as much damage. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d10** damage per additional Spell Level.

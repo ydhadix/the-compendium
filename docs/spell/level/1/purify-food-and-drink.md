@@ -8,8 +8,10 @@
 | Components | V, S |
 | Casting Time | Magic Action, or Ritual |
 | Range | 10 ft. |
-| Target | All food and drink in a 5-ft. radius Sphere |
+| Area | |
+| Target | A 5-ft. radius Sphere |
 | Duration | — |
 
-##### Spell Effect
-You remove nonmagical poison and rot from the target.
+---
+
+You remove nonmagical poison and rot from all food and drink in the area.

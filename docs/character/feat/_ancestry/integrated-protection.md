@@ -2,7 +2,7 @@
 Prerequisite: Synth
 { .subtitle }
 
-After a Short Rest, you can don a suit of Armor you have Proficiency with. Until you doff the Armor, it has the following benefits:
+After you finish a Short Rest, you can don a suit of Armor you have Proficiency with. Until you doff the Armor, it gains the following effects:
 
 - Features and Spells treat you as though you were Unarmored.
 - You ignore the Armor's Stealth penalties.

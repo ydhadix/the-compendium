@@ -1,1 +1,1 @@
-| [Crusader's Mantle](/spell/level/3/crusaders-mantle.md) | Evocation | V | Magic Action | — | You and each Ally in a 30-ft. Aura | 1 minute (C) |
+| [Crusader's Mantle](/spell/level/3/crusaders-mantle.md) | Evocation | V | Magic Action | — | — | You and each Ally in a 30-ft. Aura | 1 minute (C) |

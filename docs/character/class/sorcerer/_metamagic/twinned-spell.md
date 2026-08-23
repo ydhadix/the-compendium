@@ -1,5 +1,2 @@
 ##### Twinned Spell
-Spell Level in Sorcery Points (minimum 1)
-{ .subtitle }
-
-If the Spell has exactly one target, you can choose a second target.
+**Spell Level in Sorcery Points (minimum 1):** If the Spell has exactly one target, you choose a second target.

@@ -8,11 +8,15 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
-Choose an Ability. The target gains Advantage on Checks using the chosen Ability.
+---
 
-##### At Higher Levels
+Choose an Ability.
+
+Each target gains Advantage on Checks using the chosen Ability.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

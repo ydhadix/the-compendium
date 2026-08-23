@@ -1,1 +1,1 @@
-| [Spider Climb](/spell/level/2/spider-climb.md) | Transmutation | V, S, M | Magic Action | Reach | One creature | 1 hour (C) |
+| [Spider Climb](/spell/level/2/spider-climb.md) | Transmutation | V, S, M | Magic Action | Reach | — | **1** Creature | 1 hour (C) |

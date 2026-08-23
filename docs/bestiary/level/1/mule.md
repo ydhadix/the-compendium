@@ -30,7 +30,7 @@ Medium Beast, Unaligned
 
 | Features | |
 |---|---|
-| Beast of Burden | The mule counts as one Size Category larger for determining its Carry Capacity. |
+| Beast of Burden | The mule counts as **1** Size larger for determining its Carry Capacity. |
 
 #### Actions
 | Hooves | Melee Attack |

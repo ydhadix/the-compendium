@@ -23,7 +23,7 @@ Everything stays, but it still changes<br>Ever so slightly, daily and nightly<br
 | Theme | Theseus | The Oh Hellos |
 | Struggle | Full Disclosure | Zach Callison |
 | Growth | Oh, Sleeper | The Arcadian Wild |
-| Future | lessons | Lilli Furfaro |
+| Future | Feather | Nujabes, Cise Starr, Akin |
 
 | <s>Lieutenant Commander</s> Captain Annaliese "Anna" Moore | | |
 |---|---|---|

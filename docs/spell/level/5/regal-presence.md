@@ -5,13 +5,15 @@
 | | |
 |---|---|
 | Classes | Bard, Wizard |
-| Components | V, S, M _(a miniature tiara)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | — |
-| Target | Each creature you choose in a 10-ft. Aura |
+| Area | A 10-ft. Aura |
+| Target | Each Creature you choose |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 After a target enters the area _(including when this Spell is cast or the area moves)_, it makes a Will Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |

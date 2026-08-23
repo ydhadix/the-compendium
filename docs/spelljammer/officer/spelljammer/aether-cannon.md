@@ -10,7 +10,8 @@
 | Target | A Ship |
 | Duration | — |
 
-##### Protocol Effect
+---
+
 You make a Ranged Spell Attack against the target.
 
 | | |
@@ -18,5 +19,7 @@ You make a Ranged Spell Attack against the target.
 | Hit | You deal **12d10** Force Damage. |
 | Miss | You deal half as much damage. |
 
-##### At Higher Levels
+---
+
+#### At Higher Levels
 Add **2d10** damage per additional Spell Level.

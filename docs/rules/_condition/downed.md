@@ -5,7 +5,7 @@ A player character or a named NPC is Downed at **0** Hit Points.  Any other crea
 - Your Concentration is broken.
 - You drop anything you're holding.
 - Before you take an Action, you make a Fortitude Save _(DC **11**)_; on a failure, the Action has no effect.
-- After your Turn begins, you make a Death Save.
+- After your Turn starts, you make a Death Save.
 - After you take damage, you fail a Death Save — or two if the damage is from a Critical Hit.
 
 ###### Death Saves

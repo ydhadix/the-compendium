@@ -5,13 +5,15 @@
 | | |
 |---|---|
 | Classes | Wizard |
-| Components | V, S, M _(a pinch of sesame seeds)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
+| Area | — |
 | Target | — |
 | Duration | 1 hour |
 
-##### Spell Effect
-A passage appears on a wooden, plaster, or stone surface you can see, up to **5** feet wide, **8** feet tall, and **20** feet deep.  It creates no instability in the surrounding structure.
+---
 
-After the passage disappears, any creature or object still inside is safely ejected to the nearest unoccupied space beside the surface.
+You conjure a passage through a surface, up to **5** feet wide, **8** feet tall, and **20** feet deep.  The passage creates no instability in the surrounding structure.
+
+Before the passage disappears, any Creature or Object still inside is safely propelled to the nearest unoccupied space outside of it.

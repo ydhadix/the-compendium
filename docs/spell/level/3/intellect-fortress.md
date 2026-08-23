@@ -8,11 +8,13 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
-The target gains Psychic Resistance and Will Protection.
+---
 
-##### At Higher Levels
+Each target gains Psychic Resistance and Will Protection.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

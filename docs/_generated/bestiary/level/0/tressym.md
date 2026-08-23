@@ -28,7 +28,7 @@ Tiny Monstrosity, Unaligned
 | Features | |
 |---|---|
 | Detect Invisibility | Magical invisibility conceals nothing from the tressym within **60** feet. |
-| Keen Smell | The tressym's Perception Checks that rely on smell gain Advantage. |
+| Keen Smell | The tressym gains Advantage on Perception Checks that rely on smell. |
 | Poison Sense | The tressym can detect whether a substance is poisonous by taste, touch, or smell. |
 
 ###### Actions

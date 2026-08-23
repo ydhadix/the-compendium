@@ -1,6 +1,6 @@
 ### Weapon Training
 
-You gain Proficiency with one family of Martial Weapons.
+You gain Proficiency with **1** Martial Weapon.
 
 #### Repeatable
-You can take this Fighting Style more than once, provided you choose a different family each time.
+You can take this feat more than once, provided you choose a different weapon each time.

@@ -1,1 +1,0 @@
-| [Healer's Kit](/item/gear/survival/healers-kit.md) | Other | 5 gold |

@@ -2,10 +2,7 @@
 Rare Wondrous Item
 { .subtitle }
 
-These horseshoes come in a set of four.  While all four are affixed to the same creature, its Speed increases by **30** feet.
+These horseshoes come in a set of **4**.  While all of them are affixed to the same creature, its Speed increases by **30** feet.
 
 ##### Affix
-Magic Action
-{ .subtitle }
-
-You can affix one horseshoe to the hoof of a creature within Reach, or remove one.
+**1 minute:** You can affix all **4** horseshoes to the hooves of a creature within Reach, or remove them.

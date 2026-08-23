@@ -1,1 +1,1 @@
-| [Wristpocket](/spell/level/1/wristpocket.md) | Conjuration | S | Magic Action (R) | Reach | One object that weighs 5 pounds or less | 1 hour (C) |
+| [Wristpocket](/spell/level/1/wristpocket.md) | Conjuration | S | Magic Action (R) | Reach | — | **1** Object that weighs 5 pounds or less | 1 hour (C) |

@@ -2,8 +2,8 @@
 - Cast Times with `(R)` can be cast as a Ritual.
 - Durations with `(C)` require Concentration.
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/5/antilife-shell_row.md"
 --8<-- "_generated/spell/level/5/arcane-hand_row.md"
 --8<-- "_generated/spell/level/5/awaken_row.md"
@@ -13,7 +13,7 @@
 --8<-- "_generated/spell/level/5/conjure-elemental_row.md"
 --8<-- "_generated/spell/level/5/contagion_row.md"
 --8<-- "_generated/spell/level/5/creation_row.md"
---8<-- "_generated/spell/level/5/dispel-evil-and-good_row.md"
+--8<-- "_generated/spell/level/5/dispel-good-and-evil_row.md"
 --8<-- "_generated/spell/level/5/dominate-person_row.md"
 --8<-- "_generated/spell/level/5/dream_row.md"
 --8<-- "_generated/spell/level/5/flame-strike_row.md"

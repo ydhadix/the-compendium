@@ -2,13 +2,10 @@
 Prerequisite: Level 5 Warlock, Pact of the Chain
 { .subtitle }
 
-After you cast _Find Familiar_, your familiar gains the following benefits:
+After you cast _Find Familiar_, your Familiar gains the following effects:
 
-- Your familiar gains a **40**-foot Fly or Swim Speed.
-- Before your familiar deals Physical Damage, you can replace it with Necrotic or Radiant Damage.
-- Your familiar uses your Spell Save DC.
+- Your Familiar gains a **40**-foot Fly or Swim Speed.
+- Your Familiar's attacks can deal Necrotic or Radiant Damage instead of its normal Damage Type.
+- Your Familiar uses your Spell Save DC.
 ###### Resilient Familiar
-Reaction
-{ .subtitle }
-
-Before your familiar takes damage, it can gain Resistance to that damage.
+**Reaction:** Before your Familiar takes damage, you can give it Resistance to that damage.

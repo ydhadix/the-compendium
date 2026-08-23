@@ -46,7 +46,7 @@ Huge Beast, Unaligned
 | Range | 15 ft. |
 | Attack | **+10** to hit _[STR + PB]_ |
 | Damage | **3d8 + 6** Bludgeoning Damage _[3d8 + STR]_ |
-| Effect | After this attack deals damage, the squid grapples a Huge or smaller target in one of its two tentacles and pulls it up to **10** feet toward itself. |
+| Effect | After this attack deals damage, the squid grapples a target of the squid's Size or smaller in one of its two tentacles and pulls it up to **10** feet toward itself. |
 
 | Reactions | |
 |---|---|

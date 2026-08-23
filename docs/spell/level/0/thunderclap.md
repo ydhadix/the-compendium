@@ -8,10 +8,12 @@ Evocation Cantrip
 | Components | S |
 | Casting Time | Magic Action |
 | Range | — |
-| Target | Everything in a 5-ft. Aura |
+| Area | |
+| Target | Each Creature or Object in a 5-ft. Aura |
 | Duration | — |
 
-##### Spell Effect
+---
+
 Each target makes a Fortitude Save.
 
 | | |
@@ -21,5 +23,5 @@ Each target makes a Fortitude Save.
 
 This Spell's thunder is audible out to **100** feet.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d6** to the damage at Level 5, Level 11, and Level 17.

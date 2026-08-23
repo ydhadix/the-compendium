@@ -6,7 +6,7 @@
 |---|---|
 | Abilities | Constitution and choose **1** |
 | Creature Type | Humanoid and Construct |
-| Size Category | Medium |
+| Size | Medium |
 | Speed | **30** ft. |
 | Reach | **5** ft. |
 | Hit Points | **10** |
@@ -24,10 +24,14 @@ You don't need to sleep, and you gain Sleep Immunity.
 You can finish a Long Rest in **4** hours if you spend those hours in an inactive, motionless state. You remain conscious.
 
 ### Synth Ancestry
-Choose an ancestry. Each ancestry has different benefits.
+Choose an ancestry.
+
+Each ancestry has different effects.
 
 ##### Reploid Synth
-Choose another race. You are visually indistinguishable from that race and use its Size Category, Speed, and Reach, though you weigh twice as much as the race normally would.
+Choose another race.
+
+You are visually indistinguishable from that race and use its Size, Speed, and Reach, though you weigh twice as much as the race normally would.
 
 You gain one of the chosen race's features.
 
@@ -39,6 +43,6 @@ You gain Proficiency in one Skill and Proficiency with one Trade.
 ##### Warforged Synth
 Your Armor Class and Damage Reduction increase by **1**.
 
-Your Size Category becomes Large and your Reach increases by **5** feet.
+Your Size becomes Large and your Reach increases by **5** feet.
 
 Your Physical Attacks deal double damage to objects and structures.

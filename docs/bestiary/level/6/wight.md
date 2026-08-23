@@ -33,7 +33,7 @@ Medium Undead, Neutral Evil
 
 | Features | |
 |---|---|
-| Sunlight Sensitivity | While in Sunlight, the wight's Ability Checks and Attack Rolls gain Disadvantage. |
+| Sunlight Sensitivity | While in Sunlight, the wight gains Disadvantage on Ability Checks and Attack Rolls. |
 | Multiattack | The wight makes **2** attacks, using Necrotic Sword or Necrotic Bow in any combination.  It can replace one attack with Life Drain. |
 
 #### Actions

@@ -36,7 +36,7 @@ Large Monstrosity, Chaotic Neutral
 | Range | 5 ft. |
 | Attack | **+9** to hit _[STR + PB]_ |
 | Damage | **2d12 + 4** Piercing Damage _[2d12 + STR]_ |
-| Effect | After this attack deals damage, a Medium or smaller target makes a Fortitude Save _(DC **17** [8 + STR + PB])_; on a failure, the gray render knocks the target Prone. |
+| Effect | After this attack deals damage, a target at least **1** Size smaller than the gray render makes a Fortitude Save _(DC **17** [8 + STR + PB])_; on a failure, the gray render knocks the target Prone. |
 
 | Claw | Melee Attack |
 |---|---|

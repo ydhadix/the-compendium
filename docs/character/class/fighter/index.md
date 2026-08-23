@@ -51,25 +51,19 @@ When you choose Fighter as your Secondary Class, you gain the following proficie
 
 ### 1: Situational Awareness
 You can use the following Situational Awareness effects. [The Fighter Table](#class-table) shows how many Situational Awareness uses you have.
-###### Regaining Uses
+#### Regaining Uses
 After a Short Rest, you regain **1** use of Situational Awareness.
 
 After a Long Rest, you regain all uses of Situational Awareness.
 ##### Situational Awareness: Second Wind
-Bonus Action, 1 Situational Awareness use
-{ .subtitle }
-
-You heal by **1d10 + LV**, then move up to half your Speed without provoking Opportunity Attacks.
+**Bonus Action; 1 Situational Awareness use:** You can heal by **1d10 + LV**, then move up to half your Speed without provoking Opportunity Attacks.
 ##### Situational Awareness: Tactical Mind
-Free Action, 1 Situational Awareness use
-{ .subtitle }
-
-Before you fail an Ability Check, you can add **1d10** to the total.  If the Ability Check still fails, you don't expend a use of Situational Awareness.
+**Free Action; 1 Situational Awareness use:** Before you fail an Ability Check, you can add **1d10** to the total.  If the Ability Check still fails, you don't expend a use of Situational Awareness.
 
 
 ### 1: Fighting Style
 You learn Fighting Styles.  The [Fighter Table](#class-table) shows how many Fighting Styles you know.
-###### Changing Fighting Styles
+#### Changing Fighting Styles
 Whenever you level up, you can change one of your Fighting Styles.
 
 
@@ -79,28 +73,24 @@ You learn **1** Weapon Technique from Push, Sap, and Slow and can use it with an
 
 ### 2: Action Surge
 The [Fighter Table](#class-table) shows how many Action Surge uses you have.
-###### Regaining Uses
+#### Regaining Uses
 After a Short Rest, you regain all uses of Action Surge.
 ##### Extra Action
-Free Action, 1 Action Surge use
-{ .subtitle }
-
-You can take an additional Action on your Turn, other than the Magic Action.
+**Free Action; 1 Action Surge use:** You can take an additional Action, other than the Magic Action.
 
 
 ### 2: Indomitable
 The [Fighter Table](#class-table) shows how many Indomitable uses you have.
-###### Regaining Uses
+#### Regaining Uses
 After a Long Rest, you regain all uses of Indomitable.
 ##### Save Recovery
-Free Action, 1 Indomitable use
-{ .subtitle }
-
-Before you fail a Saving Throw, you can succeed instead.
+**Free Action; 1 Indomitable use:** Before you fail a Saving Throw, you can succeed instead.
 
 
 ### 3: Fighter Subclass
-Choose a Fighter Subclass. Your subclass grants you a feature at this level.
+Choose a Fighter Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|
@@ -108,7 +98,7 @@ Choose a Fighter Subclass. Your subclass grants you a feature at this level.
 
 
 ### 4: Ability Increase
-Choose one of the following benefits:
+Choose **1** of the following effects:
 
 - You increase an Ability by **1**.
 - You learn an additional Feat.
@@ -135,7 +125,7 @@ Your subclass grants you an additional feature.
 
 
 ### 10: Ability Increase
-Choose one of the following benefits:
+Choose **1** of the following effects:
 
 - You increase an Ability by **1**.
 - You learn an additional Feat.

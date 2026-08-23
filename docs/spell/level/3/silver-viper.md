@@ -8,21 +8,23 @@
 | Components | V, S, M |
 | Casting Time | Bonus Action |
 | Range | — |
+| Area | |
 | Target | Self |
 | Duration | 1 hour |
 
-##### Spell Effect
-You gain **15** Temporary Hit Points and a Climb Speed equal to your Speed. This Spell ends if you have no Temporary Hit Points.
+---
 
-###### Viper Strike
-Magic Action
-{ .subtitle }
+You gain **15** Temporary Hit Points and a Climb Speed equal to your Speed.
 
-You make a Ranged Spell Attack against a creature within **50** feet.
+##### Viper Strike
+**Magic Action:** You can make a Ranged Spell Attack against a Creature within **50** feet.
 
 | | |
 |---|---|
 | Hit | You deal **1d6** Poison Damage, and you sicken the target until the end of your next Turn. While Sickened this way, the target is also Incapacitated. |
 
-##### At Higher Levels
+#### Ending Early
+This Spell ends if you have no Temporary Hit Points.
+
+#### At Higher Levels
 Add **5** Temporary Hit Points and **1d6** damage per additional Spell Level.

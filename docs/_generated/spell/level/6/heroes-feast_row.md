@@ -1,1 +1,1 @@
-| [Heroes' Feast](/spell/level/6/heroes-feast.md) | Conjuration | V, S, M ($C) | 10 minutes | Reach | up to 12 creatures | — |
+| [Heroes' Feast](/spell/level/6/heroes-feast.md) | Conjuration | V, S, M ($C) | 10 minutes | Reach | A 10-ft. Cube | Up to **12** Creatures | 24 hours |

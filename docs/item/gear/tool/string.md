@@ -5,7 +5,4 @@ Tool, 1 silver
 String is **10** feet long.
 
 ##### Tie Knot
-Utilize Action
-{ .subtitle }
-
-You can tie a knot in the String.
+**Utilize Action:** You can tie a knot in the String.

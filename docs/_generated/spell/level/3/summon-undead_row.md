@@ -1,1 +1,1 @@
-| [Summon Undead](/spell/level/3/summon-undead.md) | Necromancy | V, S, M ($) | Magic Action | 90 ft. | — | 1 hour (C) |
+| [Summon Undead](/spell/level/3/summon-undead.md) | Necromancy | V, S, M ($) | Magic Action | 90 ft. | — | — | 1 hour (C) |

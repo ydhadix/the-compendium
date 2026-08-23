@@ -1,7 +1,5 @@
 ### Elixir of Health
-Potion, Consumable, 2,000 gold
+Potion (Ingested), Consumable, 2,000 gold
 { .subtitle }
 
-This potion comes in a Vial.
-
-After consuming this potion, your Blinded, Deafened, Paralyzed, and Sickened conditions end.
+Each Blindness, Deafness, Paralysis, and Sickness on the target ends.

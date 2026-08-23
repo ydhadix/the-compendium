@@ -29,7 +29,7 @@ Small or Medium Humanoid, True Neutral
 
 | Features | |
 |---|---|
-| Bloodied Frenzy | While Bloodied, the berserker's Attack Rolls and Saving Throws gain Advantage. |
+| Bloodied Frenzy | While Bloodied, the berserker gains Advantage on Attack Rolls and Saving Throws. |
 
 #### Actions
 | Greataxe | Melee Attack |

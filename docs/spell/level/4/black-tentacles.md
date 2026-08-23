@@ -5,18 +5,26 @@
 | | |
 |---|---|
 | Classes | Wizard |
-| Components | V, S, M _(a tentacle)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Target | Everything in a 20-ft. Square |
+| Area | |
+| Target | Each Creature or Object in a 20-ft. Square |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 The area is Difficult Terrain.
 
 After a target enters the area _(including when this Spell is cast)_, it makes a Fortitude Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 
 | | |
 |---|---|
-| Fail | You deal **3d6** Bludgeoning Damage and restrain the target.  The target can Utilize to make an Athletics Check against your Spell Save DC; on a success, this effect ends on it. |
+| Fail | You deal **3d6** Bludgeoning Damage and restrain the target. |
 | Success | No effect. |
+
+#### Ending Early
+##### Escape
+Any restrained target can take this Action.
+
+**Utilize Action:** The creature makes an Athletics Check against your Spell Save DC.  On a success, this effect ends on it.

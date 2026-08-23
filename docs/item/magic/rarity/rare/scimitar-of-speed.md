@@ -3,7 +3,4 @@ Rare Weapon (Fence), Attunement
 { .subtitle }
 
 ##### Quick Cut
-Bonus Action
-{ .subtitle }
-
-You can make one Attack with this weapon.
+**Bonus Action:** You can make **1** Attack with this weapon.

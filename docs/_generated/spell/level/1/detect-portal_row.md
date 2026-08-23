@@ -1,1 +1,1 @@
-| [Detect Portal](/spell/level/1/detect-portal.md) | Divination | V, S, M | Magic Action (R) | 30 ft. | Self | 10 minutes (C) |
+| [Detect Portal](/spell/level/1/detect-portal.md) | Divination | V, S, M | Magic Action (R) | 30 ft. | — | Self | 10 minutes (C) |

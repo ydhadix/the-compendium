@@ -8,15 +8,17 @@ Necromancy Cantrip
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One thing |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | — |
 
-##### Spell Effect
-You make a Ranged Spell Attack against the target.
+---
+
+You make a Ranged Spell Attack against each target.
 
 | | |
 |---|---|
 | Hit | You deal **1d12** Poison Damage. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d12** to the damage at Level 5, Level 11, and Level 17.

@@ -1,1 +1,1 @@
-| [Contingency](/spell/level/6/contingency.md) | Abjuration | V, S, M ($) | 10 minutes | — | Self | 10 days |
+| [Contingency](/spell/level/6/contingency.md) | Abjuration | V, S, M ($) | 10 minutes | — | — | Self | 10 days |

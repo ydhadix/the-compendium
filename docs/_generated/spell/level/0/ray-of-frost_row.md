@@ -1,1 +1,1 @@
-| [Ray of Frost](/spell/level/0/ray-of-frost.md) | Evocation | V, S, M | Magic Action | 60 ft. | One thing | Until the end of your next Turn |
+| [Ray of Frost](/spell/level/0/ray-of-frost.md) | Evocation | V, S, M | Magic Action | 60 ft. | — | **1** Creature or Object | Until the end of your next Turn |

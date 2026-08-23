@@ -16,7 +16,7 @@ Some weapon types have a Delta Weapon _(Δ)_ — an alternative build that share
 A weapon's **Techniques** list the Fighting Styles you can use while wielding it, provided you have learned that Fighting Style.
 
 ### Simple Weapons
-**Simple Weapons** require minimal training to use effectively.  All adventurers have Proficiency with Simple Weapons. 
+**Simple Weapons** require minimal training to use effectively.  All adventurers have Proficiency with Simple Weapons.
 
 | Melee | Damage | Weight | Hands | Properties | Techniques | Value | Examples |
 |---|---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@ A weapon's **Techniques** list the Fighting Styles you can use while wielding it
 | Firearm Δ | 1d12 or 2d6 Piercing | Heavy | Two | Ammunition (200/800), Loading | Pierce, Push, Slow, Vex | 500 gold | Heavy Crossbow, Musket |
 
 ### Unarmed Strikes
-An **Unarmed Strike** is an attack that uses part of the attacker's body, such as a punch or kick. Every creature has Proficiency with Unarmed Strikes. 
+An **Unarmed Strike** is an attack that uses part of the attacker's body, such as a punch or kick. Every creature has Proficiency with Unarmed Strikes.
 
 | Name | Damage | Weight | Hands | Properties | Techniques | Value |
 |---|---|---|---|---|---|---|
@@ -104,10 +104,7 @@ A Finesse weapon can use Strength or Dexterity for Attack Rolls and Damage Rolls
 You gain Disadvantage on Attack Rolls with Heavy weapons unless your Strength is **2** or higher.
 
 ### Light
-Bonus Action, 1 use per Turn
-{ .subtitle }
-
-After you attack with a Light weapon this Turn, you can attack with a different Light weapon in your other hand. You don't add your ability modifier to the Damage Roll, unless it is negative.
+**Bonus Action; Once per Turn:** After you attack with a Light weapon this Turn, you can attack with a different Light weapon in your other hand. You don't add your ability modifier to the Damage Roll, unless it is negative.
 
 ### Loading
 A Loading weapon fires only one piece of Ammunition per Attack Action, regardless of how many Attack Rolls you can normally make.

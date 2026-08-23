@@ -1,1 +1,1 @@
-| [Mind Whip](/spell/level/2/mind-whip.md) | Enchantment | V | Magic Action | 90 ft. | One creature | Until the end of the target's next Turn |
+| [Mind Whip](/spell/level/2/mind-whip.md) | Enchantment | V | Magic Action | 90 ft. | — | **1** Creature | Until the end of the target's next Turn |

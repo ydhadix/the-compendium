@@ -1,1 +1,1 @@
-| [Phantasmal Killer](/spell/level/4/phantasmal-killer.md) | Illusion | V, S | Magic Action | 120 ft. | One creature | 1 minute (C) |
+| [Phantasmal Killer](/spell/level/4/phantasmal-killer.md) | Illusion | V, S | Magic Action | 120 ft. | — | **1** Creature | 1 minute (C) |

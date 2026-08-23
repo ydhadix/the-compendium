@@ -1,1 +1,1 @@
-| [Sorcerous Burst](/spell/level/0/sorcerous-burst.md) | Evocation | V, S | Magic Action | 120 ft. | One thing | — |
+| [Sorcerous Burst](/spell/level/0/sorcerous-burst.md) | Evocation | V, S | Magic Action | 120 ft. | — | **1** Creature or Object | — |

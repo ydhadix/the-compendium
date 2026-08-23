@@ -4,11 +4,8 @@ Prerequisite: Goliath (Fire Ancestry)
 
 You gain Fire Resistance.
 
-#### Searing Ignition
-Free Action, Proficiency Bonus uses per Long Rest
-{ .subtitle }
-
-Before you Attack on your Turn, you can replace **1** of your Attacks.  Anything you choose in a **15**-foot radius Aura makes a Reflex Save _(DC **8 + CON + PB**)_.
+##### Searing Ignition
+**Attack Action; PB times per Long Rest:** You can force anything you choose in a **15**-foot radius Aura to make a Reflex Save _(DC **8 + CON + PB**)_.
 
 | | |
 |---|---|

@@ -8,16 +8,18 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 150 ft. |
-| Target | Everything in a 20-ft. radius Sphere |
+| Area | |
+| Target | Each Creature or Object in a 20-ft. radius Sphere |
 | Duration | — |
 
-##### Spell Effect
+---
+
 Each target makes a Reflex Save.
 
 | | |
 |---|---|
-| Fail | You deal **8d6** Fire Damage. A flammable object starts Burning _(**1d4**)_. |
+| Fail | You deal **8d6** Fire Damage. You burn _(**1d4**)_ a flammable object. |
 | Success | You deal half as much damage. |
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1d6** damage and **5** feet to the radius per additional Spell Level.

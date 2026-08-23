@@ -33,4 +33,4 @@ Tiny Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[DEX + PB]_ |
 | Damage | **1d4** Piercing Damage |
-| Effect | The Attack Roll gains Advantage if the target doesn't have all its Hit Points. |
+| Effect | The piranha gains Advantage on the Attack Roll if the target doesn't have all its Hit Points. |

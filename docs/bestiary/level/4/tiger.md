@@ -34,7 +34,7 @@ Large Beast, Unaligned
 | Range | Reach |
 | Attack | **+5** to hit _[STR + PB]_ |
 | Damage | **2d6 + 3** Slashing Damage _[2d6 + STR]_ |
-| Effect | After this attack deals damage, the tiger knocks a Large or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is the tiger's Size or smaller, the tiger knocks the target Prone. |
 
 | Bonus Actions | |
 |---|---|

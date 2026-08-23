@@ -15,25 +15,16 @@ Your Deception and Persuasion Ability Checks can't roll below **10**.
 
 
 ### 3: Unsettling Words
-Bonus Action, 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use
-{ .subtitle }
-
-Choose a creature within **60** feet.  You reduce that creature's next Saving Throw by **your Inspiration Die** before the start of your next Turn.
+**Bonus Action; 1 [Bardic Inspiration](index.md#1-bardic-inspiration) use:** You can choose a creature within **60** feet and reduce its next Saving Throw by **your Inspiration Die** before the start of your next Turn.
 
 
 ### 6: Unfailing Inspiration
-If a creature adds your Inspiration Die to a D20 Test and still fails, that creature doesn't spend the Inspiration Die.
+If a creature adds your Inspiration Die to an Ability Check, Attack Roll, or Saving Throw and still fails, that creature doesn't spend the Inspiration Die.
 
 
 ### 6: Universal Speech
-Magic Action, 1 use per Long Rest or 1 Spell Slot
-{ .subtitle }
-
-Up to **Class Ability** (minimum 1) creatures within **60** feet can understand you for **1** hour _(regardless of the language you speak)_.
+**Magic Action; Once per Long Rest or 1 Spell Slot:** Up to **Class Ability** (minimum 1) creatures within **60** feet can understand you for **1** hour _(regardless of the language you speak)_.
 
 
 ### 9: Infectious Inspiration
-Reaction, Class Ability uses (minimum 1) per Long Rest
-{ .subtitle }
-
-After a creature within **60** feet adds your Inspiration Die to a D20 Test and succeeds, you can give a second creature within **60** feet an Inspiration Die _(without expending a use of Bardic Inspiration)_.
+**Reaction; Class Ability times (minimum 1) per Long Rest:** After a creature within **60** feet adds your Inspiration Die to an Ability Check, Attack Roll, or Saving Throw and succeeds, you can give a second creature within **60** feet an Inspiration Die _(without expending a use of Bardic Inspiration)_.

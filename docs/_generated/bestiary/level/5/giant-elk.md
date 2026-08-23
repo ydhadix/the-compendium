@@ -32,4 +32,4 @@ Huge Celestial, Neutral Good
 | Range | Reach |
 | Attack | **+7** to hit _[STR + PB]_ |
 | Damage | **2d6 + 4** Bludgeoning Damage _[2d6 + STR]_ and **2d4** Radiant Damage |
-| Effect | Before this attack deals damage, if the elk moved at least **20** feet in a straight line toward a Huge or smaller target, it deals an additional **2d4** damage.  After dealing this damage, the elk knocks the target Prone. |
+| Effect | Before this attack deals damage, if the elk moved at least **20** feet in a straight line toward a target of the elk's Size or smaller, it deals an additional **2d4** damage.  After dealing this damage, the elk knocks the target Prone. |

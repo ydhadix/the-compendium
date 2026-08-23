@@ -52,7 +52,7 @@ When you choose Artificer as your Secondary Class, you gain the following profic
 ### 1: Infuse Items
 After a Long Rest, you can infuse Magic Item effects into appropriate nearby items, creating temporary items as needed. Temporary items have no Value and vanish once their Infusions end.
 
-After you infuse an item, you can Attune to it immediately.
+You can Attune to an item you infuse immediately.
 
 The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end first.
 
@@ -113,30 +113,26 @@ After a Long Rest, you regain all your Spell Slots.
 
 ### 2: Improvise
 You can use the following Improvise effects. The [Artificer Table](#class-table) shows how many Improvise uses you have.
-###### Regaining Uses
+#### Regaining Uses
 After a Short Rest, you regain **1** use of Improvise.
 
 After a Long Rest, you regain all uses of Improvise.
 ##### Improvise: Adapt
-Magic Action, 1 Improvise use
-{ .subtitle }
-
-You change one of your Infused Items.
+**Magic Action; 1 Improvise use:** You can change one of your Infused Items.
 ##### Improvise: Overcome
-Reaction, 1 Improvise use
-{ .subtitle }
-
-Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Class Ability** to that Ability Check or Saving Throw.
+**Reaction; 1 Improvise use:** Before a creature within **30** feet fails an Ability Check or Saving Throw, you can add **Class Ability** to that Ability Check or Saving Throw.
 
 
 ### 2: Fighting Style
 You learn a Fighting Style.
-###### Changing Fighting Styles
+#### Changing Fighting Styles
 Whenever you level up, you can change your Fighting Style.
 
 
 ### 3: Artificer Subclass
-Choose an Artificer Subclass. Your subclass grants you a feature at this level.
+Choose an Artificer Subclass.
+
+Your subclass grants you a feature at this level.
 
 | Subclasses |
 |---|
@@ -191,11 +187,8 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 ### 8: Spell-Storing Item
 After a Long Rest, you can choose a Weapon or Artificer Spellcasting Focus and an Artificer Spell. The chosen item gains the following effect until you use this feature again:
-###### Spell-Storing Item
-2 × Class Ability uses per Long Rest
-{ .subtitle }
-
-A creature holding this item can cast the chosen Spell using your Spellcasting Ability.
+##### Spell-Storing Item
+**2 × Class Ability times per Long Rest:** A creature holding this item can cast the chosen Spell using your Spellcasting Ability.
 
 
 ### 9: Subclass Feature
@@ -219,5 +212,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 ### 11: Soul of Artifice
 #### Attunement Shield
 Your Saving Throws increase by **1** for each Magic Item you're Attuned to.
-#### Emergency Fail-Safe
-Before you're reduced to **0** Hit Points, but not killed outright, you can end one of your Infusions to set your Hit Points to half your Hit Point Maximum instead.
+##### Emergency Fail-Safe
+**Free Action; 1 [Infused Item](#1-infuse-items):** Before you would drop to **0** Hit Points or be killed, you can set your Hit Points to **half your Hit Point Maximum** instead.
+
+After a Long Rest, you regain all your Infused Items.

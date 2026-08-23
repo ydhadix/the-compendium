@@ -1,1 +1,1 @@
-| [Scorching Ray](/spell/level/2/scorching-ray.md) | Evocation | V, S | Magic Action | 120 ft. | Up to 3 creatures or objects | — |
+| [Scorching Ray](/spell/level/2/scorching-ray.md) | Evocation | V, S | Magic Action | 120 ft. | — | Up to **3** Creatures or Objects | — |

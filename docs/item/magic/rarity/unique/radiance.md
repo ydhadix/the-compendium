@@ -12,7 +12,4 @@ This wand is suffused with Holy Water and emits Dim Light out to **5** feet.
 Spells cast using this wand ignore Half Cover.
 
 ##### Cast
-Bonus Action, 1 use per Day
-{ .subtitle }
-
-You can cast _Enhance Ability_ on yourself.
+**Bonus Action; Once per Day:** You can cast _Enhance Ability_ on yourself.

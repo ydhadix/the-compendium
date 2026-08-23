@@ -45,4 +45,4 @@ Small or Medium Undead, Lawful Evil
 
 | Dreadful Glare | Normal Action |
 |---|---|
-| | One creature within **60** feet makes a Will Save _(DC **12** [8 + CHA + PB])_; on a failure, the mummy frightens the target until the end of its next Turn, and on a success the target gains Immunity to this Dreadful Glare for **24** hours. |
+| | One creature within **60** feet makes a Will Save _(DC **12** [8 + CHA + PB])_; on a failure, the mummy frightens the target until the end of its next Turn; on a success, the target gains Immunity to this Dreadful Glare for **24** hours. |

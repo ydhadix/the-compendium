@@ -1,1 +1,1 @@
-| [Eldritch Blast](/spell/level/0/eldritch-blast.md) | Evocation | V, S | Magic Action | 120 ft. | One thing | — |
+| [Eldritch Blast](/spell/level/0/eldritch-blast.md) | Evocation | V, S | Magic Action | 120 ft. | — | **1** Creature or Object | — |

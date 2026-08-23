@@ -1,1 +1,1 @@
-| [Storm of Radiance](/spell/level/5/storm-of-radiance.md) | Evocation | V, S, M | Magic Action | 120 ft. | Everything in a 10-ft. radius, 40-ft. Cylinder from above | 1 minute (C) |
+| [Storm of Radiance](/spell/level/5/storm-of-radiance.md) | Evocation | V, S, M | Magic Action | 120 ft. | A 10-ft. radius, 40-ft. Cylinder, from above | Each Creature and Object | 1 minute (C) |

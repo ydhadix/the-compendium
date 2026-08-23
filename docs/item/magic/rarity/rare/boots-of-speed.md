@@ -3,12 +3,7 @@ Rare Clothing (Boots), Attunement
 { .subtitle }
 
 ##### Click Heels
-Bonus Action, 1 use per Day
-{ .subtitle }
-
-You gain the following effects for **10 minutes**:
+**Bonus Action; Once per Day:** You can gain the following effects for **10** minutes or until you use this Action again:
 
 - Your Speed becomes doubled.
-- Opportunity Attacks against you gain Disadvantage.
-
-You can use this Action again to end the effect early.
+- Creatures gain Disadvantage on Opportunity Attacks against you.

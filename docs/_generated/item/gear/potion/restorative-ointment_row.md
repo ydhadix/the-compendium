@@ -1,1 +1,0 @@
-| [Restorative Ointment](/item/gear/potion/restorative-ointment.md) | Potion | 200 gold |

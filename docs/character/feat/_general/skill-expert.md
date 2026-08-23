@@ -1,7 +1,3 @@
 ### Skill Expert
 
-#### Skill Proficiency
-You gain Proficiency in one Skill.
-
-#### Expertise
-Choose one Skill in which you have Proficiency. You gain Expertise in that Skill.
+You gain Proficiency in **1** Skill and Expertise in **1** Skill you have Proficiency in _(this Proficiency and Expertise can be the same Skill)_.

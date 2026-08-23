@@ -8,11 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
+---
+
 The target's Speed increases by **10** feet.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** target per additional Spell Level.

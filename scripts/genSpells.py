@@ -1,6 +1,6 @@
 """Generate spell index tables: per-level and per-class tables, plus per-spell row snippets.
 
-Row schema: | Spell | School | Components | Cast Time | Range | Target | Duration |. Most cells come
+Row schema: | Spell | School | Components | Cast Time | Range | Area | Target | Duration |. Most cells come
 from the card's `| Key | Value |` metadata; School comes from the subtitle. Shorthand added here that
 the source spells out: `($)`/`($C)` for valuable/consumed materials, `(R)` for ritual cast times,
 `(C)` for Concentration. Rows are exported so a creature's spell list can cherry-pick them.
@@ -10,7 +10,7 @@ import genSnippetCommon as C
 
 LEVELS = (0, 1, 2, 3, 4, 5, 6)
 CLASSES = ("artificer", "bard", "cleric", "druid", "paladin", "ranger", "sorcerer", "warlock", "wizard")
-HEADER = ("Spell", "School", "Components", "Cast Time", "Range", "Target", "Duration")
+HEADER = ("Spell", "School", "Components", "Cast Time", "Range", "Area", "Target", "Duration")
 ORDINALS = {1: "1st", 2: "2nd", 3: "3rd", 4: "4th", 5: "5th", 6: "6th"}
 
 # Each class's spell-level range for the jump rail, as (lowest, highest) Level. The rail shows every
@@ -81,13 +81,14 @@ def classList(text):
 
 
 def buildRow(card):
-   """The full 7-cell table row for one spell card."""
+   """The full 8-cell table row for one spell card."""
    cells = [
       C.link(card),
       school(card.subtitle),
       components(card.text),
       castTime(card.text),
       C.metaValue(card.text, "Range"),
+      C.metaValue(card.text, "Area"),
       C.metaValue(card.text, "Target"),
       duration(card.text),
    ]

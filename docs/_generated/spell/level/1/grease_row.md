@@ -1,1 +1,1 @@
-| [Grease](/spell/level/1/grease.md) | Conjuration | V, S, M | Magic Action | 60 ft. | Everything in a 10-ft. Square on the ground | 1 minute |
+| [Grease](/spell/level/1/grease.md) | Conjuration | V, S, M | Magic Action | 60 ft. | — | Each Creature or Object in a 10-ft. Square on the ground | 1 minute |

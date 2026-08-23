@@ -8,11 +8,13 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | — |
 
-##### Spell Effect
-Choose Blindness, Deafness, Paralysis, or Sickness.  You end the chosen Condition on the target.
+---
 
-##### At Higher Levels
+You end **1** Blindness, Deafness, Paralysis, or Sickness on the target.
+
+#### At Higher Levels
 Add **1** target per additional Spell Level.

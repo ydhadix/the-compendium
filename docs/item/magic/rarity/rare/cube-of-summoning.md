@@ -3,10 +3,7 @@ Rare Wondrous Item
 { .subtitle }
 
 ##### Wind Crank
-Magic Action, 1 use per Day
-{ .subtitle }
-
-You can wind this cube's crank, casting one of the following Spells at 5th Level _(DC **15**, **+7** to hit, without Concentration)_ at random.
+**Magic Action; Once per Day:** You can wind this cube's crank, randomly casting one of the following Spells at 5th Level _(no Concentration required, DC **15**, **+7** to hit)_.
 
 | 1d6 | Spell |
 |---|---|

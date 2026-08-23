@@ -4,9 +4,7 @@ Very Rare Weapon (Ammunition), Consumable
 
 Each Ammunition of Slaying has a Creature Type.
 
-##### Slay
-Free Action
-{ .subtitle }
+---
 
 After this ammunition damages a creature of its Creature Type, the target makes a Fortitude Save _(DC **17**)_.
 

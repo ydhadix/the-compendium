@@ -8,8 +8,10 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One thing |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | — |
 
-##### Spell Effect
-All curses on the target end. If the target is a cursed Magic Item, its curse remains, but all creatures end their Attunement to it.
+---
+
+All curses on the target end. If a target is a cursed Magic Item, its curse remains, but all creatures end their Attunement to it.

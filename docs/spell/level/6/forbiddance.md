@@ -8,14 +8,22 @@
 | Components | V, S, M _(ruby dust worth 1,000 Gold)_ |
 | Casting Time | 10 minutes, or Ritual |
 | Range | Reach |
-| Target | A 5- to 200-ft. Cube |
+| Area | Up to a 200-ft. Cube |
+| Target | Each Creature of the Planar Creature Types you choose |
 | Duration | 24 hours |
 
-##### Spell Effect
-Creatures can't enter or leave the area by teleportation or interplanar travel.
+---
 
-Choose any of these Creature Types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead.  Choose Radiant or Necrotic Damage.  You can also designate a password, which leaves a creature that speaks it as it enters the area unaffected by this Spell.
+Choose Radiant or Necrotic Damage.
 
-After a creature of a chosen Creature Type enters the area or ends its Turn there, you deal **5d10** damage to it.
+You can choose a password.  Before a target enters the area, if it speaks this password, it gains Immunity to this Spell's other effects until it leaves the area.
 
-The area can't overlap another _Forbiddance_.  If you cast this Spell on the same area every day for **30** days, the effect lasts until dispelled and the Material Component is consumed.
+The area gains the following effects:
+
+| Effect | |
+|---|---|
+| Punish Intruder | After a target enters the area _(including when this Spell is cast)_, you deal **5d10** of the chosen Damage Type.  After your Turn starts, you deal this damage to each target in the area.  You only deal this damage to a target once until the start of your next Turn. |
+| Ward Travel | Nothing can enter or leave the area by teleportation or Planar Travel. |
+
+#### Permanence
+If you cast this Spell on the same area every day for **30** days, the Material Component is consumed and the effect lasts until dispelled.

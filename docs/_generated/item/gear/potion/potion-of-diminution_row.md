@@ -1,1 +1,1 @@
-| [Potion of Diminution](/item/gear/potion/potion-of-diminution.md) | Potion | 2,000 gold |
+| [Potion of Diminution](/item/gear/potion/potion-of-diminution.md) | Potion (Ingested) | 2,000 gold |

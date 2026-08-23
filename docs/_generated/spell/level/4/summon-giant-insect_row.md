@@ -1,0 +1,1 @@
+| [Summon Giant Insect](/spell/level/4/summon-giant-insect.md) | Conjuration | V, S | Magic Action | 60 ft. | — | — | 10 minutes (C) |

@@ -8,8 +8,10 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 8 hours |
 
-##### Spell Effect
+---
+
 The target's base Armor Class becomes **11 + DEX + PB**.

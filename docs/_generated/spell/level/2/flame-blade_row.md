@@ -1,1 +1,1 @@
-| [Flame Blade](/spell/level/2/flame-blade.md) | Evocation | V, S | Bonus Action | — | Self | 1 minute (C) |
+| [Flame Blade](/spell/level/2/flame-blade.md) | Evocation | V, S | Bonus Action | — | — | Self | 1 minute (C) |

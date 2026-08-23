@@ -1,1 +1,1 @@
-| [Guards and Wards](/spell/level/6/guards-and-wards.md) | Abjuration | V, S, M ($) | 1 hour | Reach | A 5- to 50-ft. Cube | 24 hours |
+| [Guards and Wards](/spell/level/6/guards-and-wards.md) | Abjuration | V, S, M ($) | 1 hour | Reach | Up to a 50-ft. Cube | Each Creature and Object | 24 hours |

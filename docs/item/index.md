@@ -25,7 +25,6 @@ Benefiting from items usually requires wearing or wielding them properly. An ite
 | [Ammunition](/item/gear/combat/ammunition.md) | Loaded or stored | Woodcarver's Tools or Smith's Tools |
 | [Material](/item/gear/material/index.md) | Crafting | Smith's Tools or Woodcarver's Tools |
 | [Potion](/item/gear/potion/index.md) | Held in hand | Alchemist's Supplies or Herbalism Kit |
-| [Poison](/item/gear/poison/index.md) | Applied | Herbalism Kit |
 | [Scroll](/item/gear/scroll/index.md) | Held in hand | Calligrapher's Supplies |
 | Other | Varies | Tinker's Tools or another appropriate Artisan's Tool |
 

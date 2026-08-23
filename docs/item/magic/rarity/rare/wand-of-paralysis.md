@@ -6,14 +6,11 @@ Rare Spellcasting Focus (Arcane Focus), Attunement (Spellcaster)
 { .subtitle }
 
 ##### Paralyze
-Magic Action, 1 Charge
-{ .subtitle }
-
-You can streak a thin blue ray at a creature within **60** feet.  The target makes a Fortitude Save.
+**Magic Action; 1 Charge:** You can streak a thin blue ray at a creature within **60** feet.  The target makes a Fortitude Save _(DC **Spell Save DC**)_.
 
 | | |
 |---|---|
-| Fail | You Paralyze the target for **1** minute. |
+| Fail | You paralyze the target for **1** minute. |
 | Success | No effect. |
 
-Before each of the target's Turns ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.

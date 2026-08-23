@@ -1,1 +1,1 @@
-| [Silence](/spell/level/2/silence.md) | Illusion | V, S | Magic Action (R) | 120 ft. | 20-ft. radius Sphere | 10 minutes (C) |
+| [Silence](/spell/level/2/silence.md) | Illusion | V, S | Magic Action (R) | 120 ft. | — | A 20-ft. radius Sphere | 10 minutes (C) |

@@ -1,5 +1,5 @@
 # Spellcasting Focuses
-A **Spellcasting Focus** is used by a spellcaster to provide Material Components for spells.
+A **Spellcasting Focus** is used by a spellcaster to provide Material Components for Spells.
 { .subtitle }
 
 <!-- | Item | Type | Value | -->

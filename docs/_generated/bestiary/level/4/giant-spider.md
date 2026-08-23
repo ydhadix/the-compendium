@@ -38,4 +38,4 @@ Large Beast, Unaligned
 
 | Web | Normal Action, Recharge 5–6 |
 |---|---|
-| | One creature within **60** feet makes a Reflex Save _(DC **13** [8 + DEX + PB])_; on a failure, the spider restrains the target until the web is destroyed.  The web is an object with AC **10**, **5** Hit Points, Fire Vulnerability, and Bludgeoning, Piercing, Poison, and Psychic Immunity. |
+| | One creature within **60** feet makes a Reflex Save _(DC **13** [8 + DEX + PB])_; on a failure, the spider restrains the target until the web is destroyed.  The web is an object with Armor Class **10**, **5** Hit Points, Fire Vulnerability, and Bludgeoning, Piercing, Poison, and Psychic Immunity. |

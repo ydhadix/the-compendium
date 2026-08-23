@@ -33,7 +33,7 @@ Huge Beast, Unaligned
 | Range | Reach |
 | Attack | **+9** to hit _[STR + PB]_ |
 | Damage | **2d8 + 6** Piercing Damage _[2d8 + STR]_ |
-| Effect | After this attack deals damage, if the elephant moved at least **20** feet in a straight line toward a Huge or smaller target, it knocks the target Prone. |
+| Effect | After this attack deals damage, if the elephant moved at least **20** feet in a straight line toward a target of the elephant's Size or smaller, it knocks the target Prone. |
 
 | Bonus Actions | |
 |---|---|

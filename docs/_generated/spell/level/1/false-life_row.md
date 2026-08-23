@@ -1,1 +1,1 @@
-| [False Life](/spell/level/1/false-life.md) | Necromancy | V, S, M | Magic Action | — | Self | — |
+| [False Life](/spell/level/1/false-life.md) | Necromancy | V, S, M | Magic Action | — | — | Self | — |

@@ -3,7 +3,4 @@ Common Spellcasting Focus (Arcane Focus), Attunement (Warlock)
 { .subtitle }
 
 ##### Recover Slot
-Magic Action, 1 use per Day
-{ .subtitle }
-
-You regain one expended Warlock Spell Slot.
+**Magic Action; Once per Day:** You can regain **1** expended Warlock Spell Slot.

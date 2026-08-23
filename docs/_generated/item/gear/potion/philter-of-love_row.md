@@ -1,0 +1,1 @@
+| [Philter of Love](/item/gear/potion/philter-of-love.md) | Potion (Ingested) | 200 gold |

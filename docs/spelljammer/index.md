@@ -7,8 +7,8 @@ There are three types of **Gravity**:
 
 | Gravity | Description |
 |---|---|
-| Gravity | Naturally occurring phenomena that pulls you towards the center of sufficiently large masses, such as planetoids and some Leviathans. |
-| Gravity Plane | Artificial, magical gravity produced by Spelljamming ships.  Instead of pulling towards the center, gravity planes pull towards a horizontal plane, usually bisecting the ship. |
+| Gravity | Naturally occurring phenomena that pulls you toward the center of sufficiently large masses, such as planetoids and some Leviathans. |
+| Gravity Plane | Artificial, magical gravity produced by Spelljamming ships.  Instead of pulling toward the center, gravity planes pull toward a horizontal plane, usually bisecting the ship. |
 | Microgravity | Naturally occurring gravity produced by Small and larger creatures and objects.  Microgravity has a minuscule effect that keeps objects within your space from floating away. |
 
 #### Moving in Zero-Gravity
@@ -25,7 +25,7 @@ Any creature large enough to have Microgravity always has air around them, so tr
 ## Air Envelopes
 A Ship that produces a Gravity Plane also holds an **Air Envelope**, an envelope of air wherever that Gravity reaches.  For an appropriately sized crew, it takes **30** days for a Ship's Fresh Air to degrade to Foul, and a further **90** days to degrade to Deadly.
 
-A Ship that does not produce a Gravity Plane, or one that loses their Gravity Plane, still holds air within the Ship's natural Microgravity, but it takes only **10** days for the air to degrade to Foul, and a further **30** days to degrade to Deadly.
+A Ship that doesn't produce a Gravity Plane, or one that loses their Gravity Plane, still holds air within the Ship's natural Microgravity, but it takes only **10** days for the air to degrade to Foul, and a further **30** days to degrade to Deadly.
 
 ### Sealing a Ship
 Some Ships can be **Sealed** and pressurized to extend their atmosphere.  Such a ship doubles the amount of time before their Air Quality degrades, but must take additional measures to enter and exit the ship without breaking the seal.
@@ -37,6 +37,6 @@ Everything within 20 feet of the breach makes a Reflex Save _(no DC)_.
 
 | | |
 |---|---|
-| | Each target is propelled **30 - their Save total** (rounded down to a multiple of 5) feet in a straight line towards the breach _(potentially ending up on the other side)_. |
+| | Each target is propelled **30 - their Save total** (rounded down to a multiple of 5) feet in a straight line toward the breach _(potentially ending up on the other side)_. |
 
 The range of the breach and the distance each target is propelled are both multiplied by the Ship's Size Class.

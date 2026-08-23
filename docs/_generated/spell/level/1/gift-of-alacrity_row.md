@@ -1,1 +1,1 @@
-| [Gift of Alacrity](/spell/level/1/gift-of-alacrity.md) | Divination | V, S | 1 minute | Reach | One creature | 8 hours |
+| [Gift of Alacrity](/spell/level/1/gift-of-alacrity.md) | Divination | V, S | 1 minute | Reach | — | **1** Creature | 8 hours |

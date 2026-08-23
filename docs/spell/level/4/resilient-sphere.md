@@ -5,16 +5,27 @@
 | | |
 |---|---|
 | Classes | Wizard |
-| Components | V, S, M _(a glass sphere)_ |
+| Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One Large or smaller creature or object |
+| Area | |
+| Target | A 5-ft. radius Sphere |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
-The target makes a Reflex Save.
+---
+
+You create a shimmering, weightless sphere of magical force in the area.
+
+The sphere has Immunity to all damage.  Nothing can pass through the sphere, including Attacks and other effects.
+
+Each Creature enclosed by the sphere makes a Reflex Save.  If a creature is Huge or larger, it automatically succeeds.
 
 | | |
 |---|---|
-| Fail | A shimmering, weightless sphere encloses the target. The sphere has the following effects:<ul><li>Nothing can pass through the sphere in either direction.</li><li>neither attacks nor effects can cross the barrier in either direction.</li><li>The sphere is Immune to all damage.</li><li>The enclosed creature can Utilize to move the sphere up to half its Speed.</li><li>A _Disintegrate_ Spell cast on the sphere destroys it without harming anything inside.</li></ul> |
-| Success | No effect. |
+| Fail | No effect. |
+| Success | The target moves up to its Speed to escape the enclosure. |
+
+##### Roll Sphere
+Any enclosed creature can take this Action.
+
+**Utilize Action:** The creature moves the sphere up to half its Speed.

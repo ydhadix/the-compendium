@@ -29,7 +29,7 @@ Medium Undead, Chaotic Evil
 
 | Features | |
 |---|---|
-| Stench | After a creature starts its Turn in a **5**-foot Aura, it makes a Fortitude Save _(DC **11** [8 + CON + PB])_; on a failure, the ghast sickens the target until the start of its next Turn, and on a success the target gains Immunity to this Stench for **24** hours. |
+| Stench | After a creature starts its Turn in a **5**-foot Aura, it makes a Fortitude Save _(DC **11** [8 + CON + PB])_; on a failure, the ghast sickens the target until the start of its next Turn; on a success, the target gains Immunity to this Stench for **24** hours. |
 
 ###### Actions
 | Bite | Melee Attack |

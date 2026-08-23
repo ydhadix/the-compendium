@@ -8,10 +8,12 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Target | Everything in a 5-ft. radius, 40-ft. Cylinder from above |
+| Area | |
+| Target | Each Creature or Object in a 5-ft. radius, 40-ft. Cylinder from above |
 | Duration | 1 minute (Concentration) |
 
-##### Spell Effect
+---
+
 The area is filled with Dim Light, and shapeshifters can't change form within it.
 
 After a target enters the area _(including when this Spell is cast or the area moves)_, it makes a Fortitude Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
@@ -21,11 +23,8 @@ After a target enters the area _(including when this Spell is cast or the area m
 | Fail | You deal **2d10** Radiant Damage. A shapeshifted target returns to its true form. |
 | Success | You deal half as much damage. |
 
-###### Move
-Magic Action
-{ .subtitle }
+##### Move
+**Magic Action:** You can move the area up to **60** feet.
 
-You move the area up to **60** feet.
-
-##### At Higher Levels
+#### At Higher Levels
 Add **1d10** damage and **5** feet to the radius per additional Spell Level.

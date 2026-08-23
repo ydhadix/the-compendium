@@ -7,8 +7,8 @@ Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
 
 ## 1st-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/1/bless_row.md"
 --8<-- "_generated/spell/level/1/command_row.md"
 --8<-- "_generated/spell/level/1/compelled-duel_row.md"
@@ -30,8 +30,8 @@ Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
 
 ## 2nd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/2/aid_row.md"
 --8<-- "_generated/spell/level/2/find-steed_row.md"
 --8<-- "_generated/spell/level/2/gentle-repose_row.md"
@@ -46,8 +46,8 @@ Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
 
 ## 3rd-Level
 
-| Spell | School | Components | Cast Time | Range | Target | Duration |
-|---|---|---|---|---|---|---|
+| Spell | School | Components | Cast Time | Range | Area | Target | Duration |
+|---|---|---|---|---|---|---|---|
 --8<-- "_generated/spell/level/3/aura-of-life_row.md"
 --8<-- "_generated/spell/level/3/aura-of-purity_row.md"
 --8<-- "_generated/spell/level/3/aura-of-vitality_row.md"

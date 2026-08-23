@@ -1,34 +1,34 @@
 # Creature Codex
 
-## Features
-**Features** are the special techniques and effects a creature uses to interact with the world and defend themselves in combat.
-
-### Recharge
-A **Recharge** effect lists a die result alongside its cost, such as `Recharge 5–6`. Using the effect expends it, and it can't be used again until it recharges.
-
-After the user's Turn ends while the effect is expended, they roll **1d6**. On a result within the listed range, the effect recharges and can be used again. It also recharges after a Short Rest.
-
-Rolling at the end of a Turn means a recharged effect is available for the whole of the next Round, so everyone can see it coming and has time to respond.
-
-### Swarm
-A **Swarm** is a group of many Tiny or Small creatures treated as a single creature, and it uses its member's stat block with the following changes:
-
-- Its Size is Medium, or Large if its members fly.
-- Its Strength increases by **2**.
-- Its Hit Die increases one step _(along d4, d6, d8, d10, d12, d20)_.
-- Its Level is set by the effect that produces it, and its Hit Dice, Hit Points, Armor Class, and Attack Roll follow from that Level as normal.
-- It makes a single attack that deals its member's damage dice for each Level of the Swarm, to a minimum of **1d4** per Level _(the attack's Ability is only added once)_.
-- It deals half damage while Bloodied.
-- It can occupy another creature's space and vice versa, and it can move through any opening large enough for one of its members.
-- It can't regain Hit Points or gain Temporary Hit Points.
-- It gains Bludgeoning, Piercing, and Slashing Resistance.
-- It gains Charm, Fear, Grapple, Paralysis, Petrification, Prone, Restraint, and Stun Immunity.
-
 ## Traits
 **Traits** are the measurable facts that define a creature on a stat block or character sheet.
 
+### Abilities
+Six **Abilities** measure a creature's raw physical and mental capabilities.  Each Ability is a number from **-5** to **+10** you add to the rolls and traits it governs.
+
+| Ability | Description | Uses |
+|---|---|---|
+| Strength | Physical might | Melee Attacks, Heavy Armor, Damage Reduction, Jump Distance |
+| Dexterity | Accuracy, agility, and balance | Ranged Attacks, Light Armor, Initiative, Reflex Saves |
+| Constitution | Health and stamina | Hit Points, Fortitude Saves, Concentration |
+| Intelligence | Reasoning, learning, and memory | Spellcasting, Studying, additional Proficiencies |
+| Wisdom | Awareness, empathy, and mental resilience | Spellcasting, Will Saves, Searching |
+| Charisma | Confidence, poise, and charm | Spellcasting, Socializing |
+
 ### Creature Type
-A **Creature Type** is a broad family a creature belongs to. Every creature has at least one creature type, and some have two.  Most creature types share common traits, and some features and spells single out specific types.
+A **Creature Type** is a broad family a creature belongs to. Every creature has at least one Creature Type, and some have two.  Most Creature Types share common traits, and some features and Spells single out specific types.
+
+#### Planar Creatures
+A **Planar** creature is an Aberration, Celestial, Elemental, Fey, Fiend, or Undead.  Planar creatures have links to specific planes, which can be exploited by certain effects.
+
+| Creature Type | Plane |
+|---|---|
+| Aberration | The Far Realms |
+| Celestial | An Upper Plane |
+| Elemental | An Inner Plane |
+| Fey | The Feywild |
+| Fiend | A Lower Plane |
+| Undead | The Shadowfell |
 
 ### Alignment
 **Alignment** is a creature's moral and ethical outlook, summarized across two dimensions: a creature's regard for others, and its respect for order.
@@ -39,20 +39,8 @@ A **Creature Type** is a broad family a creature belongs to. Every creature has 
 | Neutral | Act in accordance with law, tradition, or a personal code, unswayed by the needs of others or the temptations of evil. | Avoid moral questions and don't take sides, doing what seems best at the time. | Follow their whims, valuing personal freedom above all else. |
 | Evil | Methodically take what they want within the limits of a code of tradition, loyalty, or order. | Do whatever they can get away with, untroubled by the harm they cause. | Act with arbitrary violence, spurred by hatred or bloodlust. |
 
-### Size Category
-Every creature and object has a **Size Category** that describes the space it controls to move and fight effectively.
-
-| Size Category | Space (feet) | Space (squares) |
-|---|---|---|
-| Tiny | 2.5 × 2.5 | 4 per square |
-| Small | 5 × 5 | 1 × 1 |
-| Medium | 5 × 5 | 1 × 1 |
-| Large | 10 × 10 | 2 × 2 |
-| Huge | 15 × 15 | 3 × 3 |
-| Gargantuan | 20 × 20 or larger | 4 × 4 or larger |
-
 ### Reach
-A creature's **Reach** is how far it can manipulate objects and use any item, weapon, attack, or spell that requires direct contact.
+A creature's **Reach** is how far it can manipulate objects and use any item, weapon, attack, or Spell that requires direct contact.
 
 ### Languages
 **Languages** are the tongues a creature can speak, read, and understand.
@@ -106,6 +94,16 @@ Other Languages exist, but knowledge of them is rare outside their native speake
 #### Telepathy
 **Telepathy** allows creatures to communicate mentally within a specified range.  Unless a feature says otherwise, telepathic communication doesn't require a shared language, though both creatures must be able to understand at least one language or be telepathic to understand.
 
+## Features
+**Features** are the special techniques and effects a creature uses to interact with the world and defend themselves in combat.
+
+#### Recharge
+A **Recharge** feature lists a die result alongside its cost. Using the effect expends it, and it can't be used again until it recharges.
+
+After the user's Turn ends while the effect is expended, they roll **1d6**. On a result within the listed range, the effect recharges and can be used again. It also recharges after a Short Rest.
+
+Rolling at the end of a Turn means a recharged effect is available for the whole of the next Round, so everyone can see it coming and has time to respond.
+
 ## Non-Player Characters
 **Non-Player Characters** are the other creatures a party meets in the world.
 
@@ -122,7 +120,7 @@ Relationships are shaped by a wide array of roleplaying factors, but sort into t
 
 Disposition indicates how a creature is likely to behave, not its role in the story.  Most creatures, including antagonists, are Independent until they are moved to aid a party or to do battle against it.
 
-An Ally may still disagree with the party, and an Enemy might be talked into negotiating, depending on the situation and its motivations.  A creature's Disposition can change over the course of play; the exact process is a roleplay decision the DM adjudicates, though some spells and features can influence it.
+An Ally may still disagree with the party, and an Enemy might be talked into negotiating, depending on the situation and its motivations.  A creature's Disposition can change over the course of play; the exact process is a roleplay decision the DM adjudicates, though some Spells and features can influence it.
 
 ### Companions
 Some Spells and features grant **Companions**, summoned Allies you share a magical link with, that travel with you and aid you in combat and exploration.
@@ -149,22 +147,22 @@ A **Familiar** is a special Companion, such as the one created by _Find Familiar
 Magic Action
 { .subtitle }
 
-You can temporarily dismiss your familiar to a pocket dimension.  Using this action against resummons your familiar within **30** feet of you.
+You can temporarily dismiss your Familiar to a pocket dimension.  Using this action against resummons your familiar within **30** feet of you.
 
 #### Sharing Senses
-While your familiar is within **120** feet of you, you can see and hear through its senses; while doing so, you are Blinded and Deafened to your own senses.
+While your Familiar is within **120** feet of you, you can see and hear through its senses; while doing so, you are Blinded and Deafened to your own senses.
 
 ##### Switch Senses
 Free Action
 { .subtitle }
 
-You can switch between your own senses and your familiar's.
+You can switch between your own senses and your Familiar's.
 
 #### Deliver Spell
-Before you cast a Reach Spell, your familiar can use its Reaction to deliver the Spell through its Reach instead.
+Before you cast a Reach Spell, your Familiar can use its Reaction to deliver the Spell through its Reach instead.
 
 ### Mounts
-You can **Mount** any Ally that has suitable anatomy and is at least one Size Category larger than you.
+You can **Mount** any Ally that has suitable anatomy and is at least **1** Size larger than you.
 
 #### Commanding a Mount
 While mounted, your mount shares your Turn in Initiative, but has its own Actions and movement.
@@ -179,22 +177,28 @@ Free Action
 
 You can command your mount to move and Dash, Disengage, or Dodge.
 
-#### Mounting and Dismounting
+##### Mount / Dismount
 You can spend half your movement _(minimum **5** feet)_ to mount or dismount a creature within Reach.
 
 #### Staying Mounted
 There are three different ways for you to become dismounted.
 
-##### You are Propelled
-After an effect propels you while you are mounted, you are dismounted.
-
-##### Your Mount is Propelled / You are Knocked Prone
-If an effect propels your mount, or you are knocked Prone while mounted, you make a Reflex Save _(DC **10**)_.
-
-| | |
+| Dismount | |
 |---|---|
-| Failure | You are dismounted and land Prone within **5** feet of your mount. |
-| Success | You stay mounted and don't fall Prone. |
+| You are Propelled | After an effect propels you while you are mounted, you are dismounted. |
+| Your Mount is Propelled/<br>You are Knocked Prone | If an effect propels your mount, or you are knocked Prone while mounted, you make a Reflex Save _(DC **10**)_.<br>**Fail.** You are dismounted and land Prone within **5** feet of your mount.<br>**Success.** You stay mounted and don't fall Prone. |
+| Your Mount is Knocked Prone | Before your mount is knocked Prone, you can use your Reaction to dismount safely.  Otherwise, you are dismounted and land Prone within **5** feet of your mount. |
 
-##### Your Mount is Knocked Prone
-Before your mount is knocked Prone, you can use your Reaction to dismount safely.  Otherwise, you are dismounted and land Prone within **5** feet of your mount.
+### Swarms
+A **Swarm** is a group of many Tiny or Small creatures treated as a single creature, and it uses its member's stat block with the following changes:
+
+- Its Size is Medium, or Large if its members fly.
+- Its Strength increases by **2**.
+- Its Hit Die increases one step _(along d4, d6, d8, d10, d12, d20)_.
+- Its Level is set by the effect that produces it, and its Hit Dice, Hit Points, Armor Class, and Attack Roll follow from that Level as normal.
+- It makes a single attack that deals its member's damage dice for each Level of the Swarm, to a minimum of **1d4** per Level _(the attack's Ability is only added once)_.
+- It deals half damage while Bloodied.
+- It can occupy another creature's space and vice versa, and it can move through any opening large enough for one of its members.
+- It can't regain Hit Points or gain Temporary Hit Points.
+- It gains Bludgeoning, Piercing, and Slashing Resistance.
+- It gains Charm, Fear, Grapple, Paralysis, Petrification, Prone, Restraint, and Stun Immunity.

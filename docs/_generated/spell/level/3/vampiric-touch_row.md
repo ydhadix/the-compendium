@@ -1,1 +1,1 @@
-| [Vampiric Touch](/spell/level/3/vampiric-touch.md) | Necromancy | V, S | Magic Action | — | Self | 1 minute (C) |
+| [Vampiric Touch](/spell/level/3/vampiric-touch.md) | Necromancy | V, S | Magic Action | — | — | Self | 1 minute (C) |

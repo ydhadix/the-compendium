@@ -8,13 +8,16 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
+| Area | |
 | Target | A 20-ft. radius Sphere |
 | Duration | 1 hour (Concentration) |
 
-##### Spell Effect
+---
+
 The area is filled with fog and Heavily Obscured.
 
+#### Ending Early
 This Spell ends if the fog is dispersed.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **20** feet to the radius per additional Spell Level.

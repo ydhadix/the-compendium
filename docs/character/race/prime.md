@@ -6,7 +6,7 @@
 |---|---|
 | Abilities | Choose **2** |
 | Creature Type | Humanoid |
-| Size Category | Medium |
+| Size | Medium |
 | Speed | **30** ft. |
 | Reach | **5** ft. |
 | Hit Points | **8** |

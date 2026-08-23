@@ -1,1 +1,1 @@
-| [Alchemist's Fire](/item/gear/potion/alchemists-fire.md) | Potion | 50 gold |
+| [Alchemist's Fire](/item/gear/potion/alchemists-fire.md) | Potion (Ingested | 50 gold |

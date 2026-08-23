@@ -1,1 +1,1 @@
-| [Lesser Restoration](/spell/level/2/lesser-restoration.md) | Abjuration | V, S | Bonus Action | Reach | One creature | — |
+| [Lesser Restoration](/spell/level/2/lesser-restoration.md) | Abjuration | V, S | Bonus Action | Reach | — | **1** Creature | — |

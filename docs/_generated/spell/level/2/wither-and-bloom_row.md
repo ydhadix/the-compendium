@@ -1,1 +1,1 @@
-| [Wither and Bloom](/spell/level/2/wither-and-bloom.md) | Necromancy | V, S, M | Magic Action | 60 ft. | Each creature in a 10-ft. radius Sphere | 1 minute (C) |
+| [Wither and Bloom](/spell/level/2/wither-and-bloom.md) | Necromancy | V, S, M | Magic Action | 60 ft. | — | Each Creature in a 10-ft. radius Sphere | 1 minute (C) |

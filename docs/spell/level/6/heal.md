@@ -8,11 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Target | One creature |
+| Area | — |
+| Target | **1** Creature |
 | Duration | — |
 
-##### Spell Effect
-You heal the target by **70**, and end any Blindness, Deafness, and Sickness affecting it.
+---
 
-##### At Higher Levels
+You heal each target by **70**, and end each Blindness, Deafness, and Sickness on it.
+
+#### At Higher Levels
 Add **10** to the healing per additional Spell Level.

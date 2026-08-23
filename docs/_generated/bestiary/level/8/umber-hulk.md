@@ -38,10 +38,4 @@ Large Monstrosity, Chaotic Evil
 
 | Bonus Actions | |
 |---|---|
-| Confusing Gaze | **Recharge 5–6:** Each creature in a **30**-foot Cone makes a Will Save _(DC **14** [8 + CON + PB])_.  On a failure, the target can't take Reactions until the start of the umber hulk's next Turn, and it rolls **1d8** to determine its behavior on its next Turn. |
-
-| 1d8 | Behavior |
-|---|---|
-| 1–4 | The target doesn't move or take Actions. |
-| 5–6 | The target takes no Action or Bonus Action and uses all its movement to move in a random direction.  Roll **1d4**: **1** north, **2** east, **3** south, or **4** west. |
-| 7–8 | The target attacks one random creature within Reach.  If none is within Reach, it takes no Action. |
+| Confusing Gaze | **Recharge 5–6:** Everything in a **30**-foot Cone gains the effect of _Confusion_ _(DC **14** [8 + CON + PB])_ for **1** minute _(no Concentration required)_. |

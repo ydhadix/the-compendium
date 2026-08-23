@@ -1,1 +1,1 @@
-| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Magic Action | 60 ft. | Anything you choose in a 15-ft. radius Sphere | 10 minutes (C) |
+| [Conjure Animals](/spell/level/3/conjure-animals.md) | Transmutation | V, S | Magic Action | 60 ft. | — | Each Creature or Object you choose in a 15-ft. radius Sphere | 10 minutes (C) |

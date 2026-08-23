@@ -1,1 +1,1 @@
-| [Warding Bond](/spell/level/2/warding-bond.md) | Abjuration | V, S, M ($) | Magic Action | Reach | One creature | 1 hour |
+| [Warding Bond](/spell/level/2/warding-bond.md) | Abjuration | V, S, M ($) | Magic Action | Reach | — | **1** Creature | 1 hour |

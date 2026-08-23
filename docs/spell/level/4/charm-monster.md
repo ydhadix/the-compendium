@@ -8,18 +8,21 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Target | One creature |
+| Area | |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
-##### Spell Effect
-The target makes a Will Save.  If you or an Ally is fighting the target, it gains Advantage on the Saving Throw.
+---
+
+Each target makes a Will Save.  If you or an Ally is fighting a target, it gains Advantage on the Saving Throw.
 
 | | |
 |---|---|
-| Fail | You charm the target and the target becomes an Ally to you.  This effect ends on the target if you or an Ally damages it. |
+| Fail | You charm the target and it becomes an Ally to you.<br>After this Spell ends, the target knows you charmed it. |
 | Success | No effect. |
 
-After this Spell ends, the target knows you charmed it.
+#### Ending Early
+This Spell ends on a target if you or an Ally damage it.
 
-##### At Higher Levels
+#### At Higher Levels
 Add **1** target per additional Spell Level.

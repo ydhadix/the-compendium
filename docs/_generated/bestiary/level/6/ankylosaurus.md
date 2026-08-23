@@ -35,4 +35,4 @@ Huge Beast, Unaligned
 | Range | Reach |
 | Attack | **+7** to hit _[STR + PB]_ |
 | Damage | **1d10 + 4** Bludgeoning Damage _[1d10 + STR]_ |
-| Effect | After this attack deals damage, the ankylosaurus knocks a Huge or smaller target Prone. |
+| Effect | After this attack deals damage, if the target is the ankylosaurus's Size or smaller, the ankylosaurus knocks the target Prone. |

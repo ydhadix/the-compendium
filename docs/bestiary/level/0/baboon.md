@@ -29,7 +29,7 @@ Small Beast, Unaligned
 
 | Features | |
 |---|---|
-| Pack Tactics | The baboon's Attack Rolls gain Advantage while the target is within an Ally's Reach. |
+| Pack Tactics | The baboon gains Advantage on Attack Rolls while the target is within an Ally's Reach. |
 
 #### Actions
 | Bite | Melee Attack |

@@ -1,1 +1,1 @@
-| [Faerie Fire](/spell/level/1/faerie-fire.md) | Evocation | V | Magic Action | 60 ft. | Everything in a 20-ft. Cube | 1 minute (C) |
+| [Faerie Fire](/spell/level/1/faerie-fire.md) | Evocation | V | Magic Action | 60 ft. | — | Each Creature or Object in a 20-ft. Cube | 1 minute (C) |

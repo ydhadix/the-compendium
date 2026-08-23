@@ -6,7 +6,7 @@
 |---|---|
 | Abilities | Strength and choose **1** |
 | Creature Type | Humanoid and Dragon |
-| Size Category | Medium |
+| Size | Medium |
 | Speed | **30** ft. |
 | Reach | **5** ft. |
 | Hit Points | **10** |
@@ -34,7 +34,9 @@ Bonus Action, 1 use per Long Rest
 You gain a Fly Speed equal to your Speed for **10** minutes or until you end this effect _(no action required)_.
 
 ### Draconic Ancestry
-Choose an ancestry. Your ancestry determines the Damage Type of your Resistance and Breath Weapon.
+Choose an ancestry.
+
+Your ancestry determines the Damage Type of your Resistance and Breath Weapon.
 
 | | Chromatic Ancestry | Damage Type | Metallic Ancestry | Damage Type |
 |---|---|---|---|---|

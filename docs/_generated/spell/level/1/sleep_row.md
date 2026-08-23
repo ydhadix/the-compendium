@@ -1,1 +1,1 @@
-| [Sleep](/spell/level/1/sleep.md) | Enchantment | V, S, M | Magic Action | 60 ft. | Each creature in a 5-ft. radius Sphere | 1 minute (C) |
+| [Sleep](/spell/level/1/sleep.md) | Enchantment | V, S, M | Magic Action | 60 ft. | — | Each Creature in a 5-ft. radius Sphere | 1 minute (C) |

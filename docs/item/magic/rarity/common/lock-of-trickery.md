@@ -2,4 +2,4 @@
 Common Wondrous Item
 { .subtitle }
 
-Precision Checks made to pick this lock gain Disadvantage.
+Creatures gain Disadvantage on Precision Checks to pick this lock.

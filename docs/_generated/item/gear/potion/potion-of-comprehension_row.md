@@ -1,1 +1,1 @@
-| [Potion of Comprehension](/item/gear/potion/potion-of-comprehension.md) | Potion | 50 gold |
+| [Potion of Comprehension](/item/gear/potion/potion-of-comprehension.md) | Potion (Ingested) | 50 gold |

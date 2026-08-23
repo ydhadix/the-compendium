@@ -8,15 +8,17 @@ Transmutation Cantrip
 | Components | S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Target | One thing |
+| Area | |
+| Target | **1** Creature or Object |
 | Duration | — |
 
-##### Spell Effect
-You make a Melee Spell Attack against the target.
+---
+
+You make a Melee Spell Attack against each target.
 
 | | |
 |---|---|
 | Hit | You deal **1d10** Acid Damage. |
 
-##### At Higher Levels
+#### At Higher Levels
 Make **1** additional attack at Level 5, Level 11, and Level 17. Each attack can have the same or a different target.

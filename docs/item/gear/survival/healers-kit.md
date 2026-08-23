@@ -1,9 +1,0 @@
-### Healer's Kit
-Other, Consumable, 5 gold
-{ .subtitle }
-
-##### Stabilize
-Utilize Action, 10 uses
-{ .subtitle }
-
-You stabilize a Downed creature within Reach.

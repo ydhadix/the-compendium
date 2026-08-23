@@ -8,11 +8,13 @@
 | Components | V, S |
 | Casting Time | 10 minutes |
 | Range | 60 ft. |
+| Area | — |
 | Target | — |
 | Duration | — |
 
-##### Spell Effect
-You beseech an otherworldly entity known to you, which sends a Celestial, an Elemental, or a Fiend loyal to it into an unoccupied space.  You can request a specific creature by name, though the DM decides which one answers.
+---
+
+You beseech an otherworldly entity, which sends a Planar Creature loyal to it.  You can request a specific creature by name, though the DM decides which one answers.
 
 The creature is Independent and under no compulsion to serve you.  You must be able to communicate with it to bargain for a task, which it performs in exchange for payment.
 

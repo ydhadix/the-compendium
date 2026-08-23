@@ -1,1 +1,1 @@
-| [Summon Celestial](/spell/level/5/summon-celestial.md) | Conjuration | V, S, M ($) | Magic Action | 90 ft. | — | 1 hour (C) |
+| [Summon Celestial](/spell/level/5/summon-celestial.md) | Conjuration | V, S, M ($) | Magic Action | 90 ft. | — | — | 1 hour (C) |

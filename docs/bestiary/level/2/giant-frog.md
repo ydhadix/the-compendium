@@ -39,8 +39,8 @@ Medium Beast, Unaligned
 | Range | Reach |
 | Attack | **+3** to hit _[STR + PB]_ |
 | Damage | **1d6 + 1** Piercing Damage _[1d6 + STR]_ |
-| Effect | After this attack deals damage, the frog grapples a Medium or smaller target. |
+| Effect | After this attack deals damage, the frog grapples a target of the frog's Size or smaller. |
 
 | Swallow | Normal Action |
 |---|---|
-| | The frog swallows a Small or smaller target it is grappling.  While swallowed, the target is Blinded and Restrained, has Full Cover against attacks from outside, and takes **1d6** Acid Damage after the frog's Turn starts.  The frog can hold one target at a time, and the target escapes if the frog dies. |
+| | The frog swallows a target at least **1** Size smaller than the frog that it is grappling.  While swallowed, the target is Blinded and Restrained, has Full Cover against attacks from outside, and takes **1d6** Acid Damage after the frog's Turn starts.  The frog can hold one target at a time, and the target escapes if the frog dies. |
