@@ -12,4 +12,11 @@ This dust resembles Dust of Disappearance.  _Identify_ reveals its true nature.
 | Fail | The target is Incapacitated and begins suffocating. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.  _Lesser Restoration_ also ends this effect.
+Before the target's Turn ends, it repeats this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on the target. |
+
+_Lesser Restoration_ also ends this effect.

@@ -22,4 +22,4 @@ Each target, or a Creature wearing or carrying it, makes a Fortitude Save.
 | Success | No effect. |
 
 ##### Manipulate
-**Magic Action:** You can repeat this Spell's effect against a new target.
+**Magic Action:** You can repeat this Spell's effect against the same target or a new target.

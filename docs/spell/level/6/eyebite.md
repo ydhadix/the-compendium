@@ -31,4 +31,4 @@ Each target makes a Will Save.
 **Magic Action:** You can repeat this Spell's effect against the same target or a new target.
 
 #### Ending Early
-This Spell ends on a frightened target after it ends its Turn at least **60** feet from you where it can't see you.
+This Spell ends on a Frightened target after it ends its Turn at least **60** feet from you where it can't see you.

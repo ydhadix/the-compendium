@@ -1,1 +1,1 @@
-| [Potion of Clairvoyance](/item/gear/potion/potion-of-clairvoyance.md) | Potion (Ingested) | 2,000 gold |
+| [Potion of Clairvoyance](/item/gear/potion/potion-of-clairvoyance.md) | Potion (Ingested) | 000 gold |

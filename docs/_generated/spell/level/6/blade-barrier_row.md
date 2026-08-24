@@ -1,1 +1,1 @@
-| [Blade Barrier](/spell/level/6/blade-barrier.md) | Evocation | V, S | Magic Action | 90 ft. | A 100-ft. × 5-ft. × 20-ft. Wall, or a 30-ft.-radius, 20-ft. Cylinder | Each Creature and Object | 10 minutes (C) |
+| [Blade Barrier](/spell/level/6/blade-barrier.md) | Evocation | V, S | Magic Action | 90 ft. | A 100-ft. × 5-ft. × 20-ft. Wall, or a 30-ft. radius, 20-ft. Cylinder | Each Creature and Object | 10 minutes (C) |

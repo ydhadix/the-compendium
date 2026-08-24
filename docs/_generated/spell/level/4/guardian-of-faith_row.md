@@ -1,1 +1,1 @@
-| [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Magic Action | 30 ft. | — | — | 8 hours |
+| [Guardian of Faith](/spell/level/4/guardian-of-faith.md) | Conjuration | V | Magic Action | 30 ft. | A 15-ft. radius Sphere | Each Enemy | 8 hours |

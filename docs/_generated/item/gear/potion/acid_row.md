@@ -1,1 +1,1 @@
-| [Acid](/item/gear/potion/acid.md) | Potion (Ingested | 25 gold |
+| [Acid](/item/gear/potion/acid.md) | Potion (Ingested, Contact, Injury) | 25 gold |

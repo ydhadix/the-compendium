@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | A 60-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder |
+| Area | A 60-ft. × 5-ft. × 10-ft. Wall, or a 10-ft. radius, 20-ft. Cylinder |
 | Target | Each Creature and Object |
 | Duration | 10 minutes (Concentration) |
 

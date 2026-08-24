@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 500 ft. |
-| Area | |
+| Area | — |
 | Target | Self, and up to **1** Ally within Reach |
 | Duration | — |
 

@@ -1,1 +1,1 @@
-| [Confusion](/spell/level/4/confusion.md) | Enchantment | V, S, M | Magic Action | 90 ft. | — | Each Creature or Object in a 10-ft. radius Sphere | 1 minute (C) |
+| [Confusion](/spell/level/4/confusion.md) | Enchantment | V, S, M | Magic Action | 90 ft. | A 10-ft. radius Sphere | Each Creature | 1 minute (C) |

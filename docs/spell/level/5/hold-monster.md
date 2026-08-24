@@ -14,20 +14,7 @@
 
 ---
 
-Each target makes a Will Save.
-
-| | |
-|---|---|
-| Fail | You paralyze the target. |
-| Success | No effect. |
-
-#### Ending Early
-Before a Paralyzed target's Turn ends, it makes a Will Save.
-
-| | |
-|---|---|
-| Fail | No additional effect. |
-| Success | This Spell ends on the target. |
+--8<-- "spell/_variant/hold.md"
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

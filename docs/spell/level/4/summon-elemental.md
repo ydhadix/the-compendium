@@ -8,7 +8,7 @@
 | Components | V, S, M _(air, a pebble, ash, and water in a gold-inlaid vial worth 400 Gold)_ |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
+| Area | — |
 | Target | — |
 | Duration | 1 hour (Concentration) |
 
@@ -23,9 +23,6 @@ You summon an Elemental Spirit Companion.
 
 #### Ending Early
 This Spell ends if the spirit has **0** Hit Points.
-
-#### At Higher Levels
-The Spell Level determines the spirit's Armor Class, Hit Points, and attack damage.
 
 ---
 

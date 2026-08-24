@@ -1,1 +1,1 @@
-| [Potion of Gaseous Form](/item/gear/potion/potion-of-gaseous-form.md) | Potion (Ingested) | 2,000 gold |
+| [Potion of Gaseous Form](/item/gear/potion/potion-of-gaseous-form.md) | Potion (Ingested) | 000 gold |

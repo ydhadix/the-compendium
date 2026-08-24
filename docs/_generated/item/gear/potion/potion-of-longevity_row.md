@@ -1,1 +1,1 @@
-| [Potion of Longevity](/item/gear/potion/potion-of-longevity.md) | Potion (Ingested) | 20,000 gold |
+| [Potion of Longevity](/item/gear/potion/potion-of-longevity.md) | Potion (Ingested) | 000 gold |

@@ -33,7 +33,7 @@ After a target enters the area _(including when this Spell is cast or the area m
 | Success | You deal half as much damage. |
 
 ##### Move
-**Bonus Action:** You can move the area up to **30** feet.  You propel a grappled target with the area.
+**Bonus Action:** You can move the area up to **30** feet.  You propel a Grappled target with the area.
 
 #### At Higher Levels
-Add **1d8** to the damage per additional Spell Level.
+Add **1d8** damage per additional Spell Level.

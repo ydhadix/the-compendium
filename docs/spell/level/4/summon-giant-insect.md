@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
+| Area | — |
 | Target | — |
 | Duration | 10 minutes (Concentration) |
 
@@ -23,9 +23,6 @@ You summon a Giant Insect Companion.
 
 #### Ending Early
 This Spell ends if the insect has **0** Hit Points.
-
-#### At Higher Levels
-The Spell Level determines the insect's Armor Class, Hit Points, and attack damage.
 
 ---
 

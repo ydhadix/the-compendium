@@ -18,4 +18,9 @@ After all **3** tentacles hit the same target, it makes a Reflex Save _(DC **15*
 
 This effect ends after you become Incapacitated, after you release the target as a Bonus Action, or after the target is more than **15** feet from you.
 
-Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before the target's Turn ends, it repeats this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on the target. |

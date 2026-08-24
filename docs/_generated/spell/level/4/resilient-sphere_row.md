@@ -1,1 +1,1 @@
-| [Resilient Sphere](/spell/level/4/resilient-sphere.md) | Abjuration | V, S, M | Magic Action | 30 ft. | — | A 5-ft. radius Sphere | 1 minute (C) |
+| [Resilient Sphere](/spell/level/4/resilient-sphere.md) | Abjuration | V, S, M | Magic Action | 30 ft. | A 5-ft. radius Sphere | — | 1 minute (C) |

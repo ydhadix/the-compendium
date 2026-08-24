@@ -1,1 +1,1 @@
-| [Compulsion](/spell/level/4/compulsion.md) | Enchantment | V, S | Magic Action | 30 ft. | — | Each Creature you choose within 30 ft. | 1 minute (C) |
+| [Compulsion](/spell/level/4/compulsion.md) | Enchantment | V, S | Magic Action | — | A 30-ft. Aura | Each Creature you choose | 1 minute (C) |

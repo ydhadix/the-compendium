@@ -8,13 +8,13 @@
 | Components | V, S, M |
 | Casting Time | 10 minutes |
 | Range | 300 ft. |
-| Area | |
-| Target | A 150-ft. Cube |
+| Area | Up to a 150-ft. Cube |
+| Target | — |
 | Duration | 24 hours |
 
 ---
 
-You make the natural terrain in the area look, sound, and smell like another kind of natural terrain.  Manufactured structures, equipment, and creatures in the area are unaffected, and the terrain's tactile characteristics are unchanged.
+You conjure an illusion that makes the natural terrain in the area look, sound, and smell like another kind of natural terrain.  The area's physical characteristics are unchanged, and manufactured structures, objects, and creatures in the area are unaffected.
 
 ##### Search
 Any Creature that perceives the illusion can take this Action.
@@ -23,4 +23,4 @@ Any Creature that perceives the illusion can take this Action.
 
 | | |
 |---|---|
-| Success | The illusion becomes faint to that creature. |
+| Success | The illusion becomes faint to the creature. |

@@ -1,1 +1,1 @@
-| [Wall of Thorns](/spell/level/6/wall-of-thorns.md) | Conjuration | V, S, M | Magic Action | 120 ft. | A 60-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder | Each Creature and Object | 10 minutes (C) |
+| [Wall of Thorns](/spell/level/6/wall-of-thorns.md) | Conjuration | V, S, M | Magic Action | 120 ft. | A 60-ft. × 5-ft. × 10-ft. Wall, or a 10-ft. radius, 20-ft. Cylinder | Each Creature and Object | 10 minutes (C) |

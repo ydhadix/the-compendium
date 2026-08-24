@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 10 minutes (Concentration) |
 
@@ -21,9 +21,9 @@ You gain Radiant Resistance.
 Your Melee Attacks deal an additional **2d6** Radiant Damage.
 
 ##### Flare
-**Reaction:** After you take damage from a Creature within **60** feet, you can force it to make a Fortitude Save.
+**Reaction:** After a Creature within **60** feet damages you, you can force it to make a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You blind the creature until the end of your next Turn. |
+| Fail | You blind the target until the end of your next Turn. |
 | Success | No effect. |

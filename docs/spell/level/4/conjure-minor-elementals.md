@@ -8,15 +8,15 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | Each Creature or Object you choose in a 15-ft. Aura |
+| Area | A 15-ft. Aura |
+| Target | Each Creature and Object you choose |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
 Each target's Speed becomes halved while in the area.
 
-Your Attacks against a target in the area deal an additional **2d8** Acid, Cold, Fire, or Lightning Damage.
+Before you deal damage to a target with an Attack, you can add **2d8** Acid, Cold, Fire, or Lightning Damage.
 
 #### At Higher Levels
 Add **2d8** damage per additional Spell Level.

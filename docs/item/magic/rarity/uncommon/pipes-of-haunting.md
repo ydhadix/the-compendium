@@ -13,4 +13,9 @@ Uncommon Wondrous Item (Musical Instrument)
 | Fail | The target is Frightened by you for **1** minute. |
 | Success | The target gains Immunity to this item's effects for **24** hours. |
 
-Before a Frightened target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before a Frightened target's Turn ends, it repeats this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on the target. |

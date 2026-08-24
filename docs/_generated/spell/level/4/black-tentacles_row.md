@@ -1,1 +1,1 @@
-| [Black Tentacles](/spell/level/4/black-tentacles.md) | Conjuration | V, S, M | Magic Action | 90 ft. | — | Each Creature or Object in a 20-ft. Square | 1 minute (C) |
+| [Black Tentacles](/spell/level/4/black-tentacles.md) | Conjuration | V, S, M | Magic Action | 90 ft. | A 20-ft. Square | Each Creature and Object | 1 minute (C) |

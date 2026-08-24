@@ -18,7 +18,12 @@ The Goat of Terror can't Attack.  While you ride it, each Enemy that starts its 
 | Fail | You frighten the target for **1** minute, until you stop riding the goat, or until the goat reverts. |
 | Success | The target gains Immunity to this effect for **24** hours. |
 
-Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before the target's Turn ends, it repeats this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on the target. |
 
 ##### Summon Goat
 **Magic Action:** You can throw one figurine to a point on the ground within **60** feet, where it transforms into its Companion creature.  It stays transformed for the listed duration, until it drops to **0** Hit Points, or until you use this Action again.

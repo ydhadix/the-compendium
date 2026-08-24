@@ -29,5 +29,5 @@ Any target can take this Action.
 
 | | |
 |---|---|
-| Fail | No additional effect. |
+| Fail | No effect. |
 | Success | This Spell ends on the target. |

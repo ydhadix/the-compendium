@@ -11,4 +11,9 @@ After you hit a creature with this weapon, the target makes a Fortitude Save _(D
 | Fail | The target can't heal for **1** hour. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before the target's Turn ends, it repeats this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on the target. |

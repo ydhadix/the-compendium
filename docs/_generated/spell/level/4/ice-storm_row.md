@@ -1,1 +1,1 @@
-| [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Magic Action | 300 ft. | — | Each Creature or Object in a 20-ft. radius, 40-ft. Cylinder from above | — |
+| [Ice Storm](/spell/level/4/ice-storm.md) | Evocation | V, S, M | Magic Action | 300 ft. | A 20-ft. radius, 40-ft. Cylinder, from above | Each Creature and Object | — |

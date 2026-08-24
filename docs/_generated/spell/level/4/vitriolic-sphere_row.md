@@ -1,1 +1,1 @@
-| [Vitriolic Sphere](/spell/level/4/vitriolic-sphere.md) | Evocation | V, S, M | Magic Action | 150 ft. | — | Each Creature or Object in a 20-ft. radius Sphere | — |
+| [Vitriolic Sphere](/spell/level/4/vitriolic-sphere.md) | Evocation | V, S, M | Magic Action | 150 ft. | A 20-ft. radius Sphere | Each Creature and Object | — |

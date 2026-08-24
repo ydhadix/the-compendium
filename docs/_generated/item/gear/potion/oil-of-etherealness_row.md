@@ -1,1 +1,1 @@
-| [Oil of Etherealness](/item/gear/potion/oil-of-etherealness.md) | Potion (Contact) | 2,000 gold |
+| [Oil of Etherealness](/item/gear/potion/oil-of-etherealness.md) | Potion (Contact) | 000 gold |

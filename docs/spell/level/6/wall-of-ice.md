@@ -30,7 +30,7 @@ Before the barrier appears, you propel each Creature and Object in the barrier's
 | Fail | You deal **10d6** Cold Damage. |
 | Success | You deal half as much damage. |
 
-Each panel is an object with Armor Class **12**, **30** Hit Points, Cold Immunity, and Fire Vulnerability.
+Each panel is an Object with Armor Class **12**, **30** Hit Points, Cold Immunity, and Fire Vulnerability.
 
 A panel with **0** Hit Points is destroyed, leaving a sheet of frigid air in its space.  After a target enters the frigid air, it makes a Fortitude Save.  After your Turn starts, each target in the frigid air also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 

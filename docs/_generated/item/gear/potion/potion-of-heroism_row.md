@@ -1,1 +1,1 @@
-| [Potion of Heroism](/item/gear/potion/potion-of-heroism.md) | Potion (Ingested) | 2,000 gold |
+| [Potion of Heroism](/item/gear/potion/potion-of-heroism.md) | Potion (Ingested) | 000 gold |

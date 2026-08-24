@@ -11,4 +11,9 @@ After _Light_ is cast on this robe, or after _Daylight_ is cast within **5** fee
 | Fail | You are Blinded for **1** minute. |
 | Success | No effect. |
 
-Before your Turn ends, you repeat this Saving Throw.  On a success, this effect ends on you.
+Before your Turn ends, you repeat this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on you. |

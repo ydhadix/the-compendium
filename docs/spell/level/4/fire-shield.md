@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 10 minutes |
 
@@ -24,3 +24,6 @@ Choose **1** of the following shields:
 You gain the chosen Resistance, and emit Bright Light out to **10** feet and Dim Light **10** feet further.
 
 After a Creature within **5** feet hits you with a Melee Attack, you deal **2d8** damage of the chosen Damage Type to the attacker.
+
+#### At Higher Levels
+Add **2d8** damage per additional Spell Level.

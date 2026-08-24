@@ -8,24 +8,24 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Area | |
-| Target | A 5-ft. radius Sphere |
+| Area | A 5-ft. radius Sphere |
+| Target | — |
 | Duration | 1 minute (Concentration) |
 
 ---
 
-You create a shimmering, weightless sphere of magical force in the area.
+You conjure a **¼**-inch thick, Invisible barrier of magical force around the area.
 
-The sphere has Immunity to all damage.  Nothing can pass through the sphere, including Attacks and other effects.
+The barrier has Immunity to all damage.  Nothing can pass through the barrier, including Attacks and other effects.
 
-Each Creature enclosed by the sphere makes a Reflex Save.  If a creature is Huge or larger, it automatically succeeds.
+Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.  Then, each target enclosed by the barrier makes a Reflex Save.  If a target is Huge or larger, it automatically succeeds.
 
 | | |
 |---|---|
 | Fail | No effect. |
-| Success | The target moves up to its Speed to escape the enclosure. |
+| Success | The target can move up to its Speed to escape the enclosure. |
 
 ##### Roll Sphere
 Any enclosed creature can take this Action.
 
-**Utilize Action:** The creature moves the sphere up to half its Speed.
+**Utilize Action:** The creature propels the barrier, and everything in it, up to half the creature's Speed.

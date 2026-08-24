@@ -14,4 +14,9 @@ Uncommon Wondrous Item
 | Beam | **1 use:** One creature that can see you within **60** feet makes a Fortitude Save _(DC **13**)_; on a failure, the target is Blinded for **1** minute. |
 | Flare | **5 uses:** Each creature that can see you in a **30**-foot Cone makes a Fortitude Save _(DC **13**)_; on a failure, the target is Blinded for **1** minute. |
 
-Before a Blinded target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before a Blinded target's Turn ends, it repeats this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on the target. |

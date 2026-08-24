@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
-| Target | Each Creature or Object in a 20-ft. Square |
+| Area | A 20-ft. Square |
+| Target | Each Creature and Object |
 | Duration | 1 minute (Concentration) |
 
 ---
@@ -24,7 +24,11 @@ After a target enters the area _(including when this Spell is cast)_, it makes a
 | Success | No effect. |
 
 #### Ending Early
-##### Escape
-Any restrained target can take this Action.
+##### Break Free
+Any Restrained target can take this Action.
 
-**Utilize Action:** The creature makes an Athletics Check against your Spell Save DC.  On a success, this effect ends on it.
+**Utilize Action:** The target makes an Athletics Check against your Spell Save DC.
+
+| | |
+|---|---|
+| Success | This effect ends on the target. |

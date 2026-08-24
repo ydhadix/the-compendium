@@ -13,4 +13,9 @@ Rare Spellcasting Focus (Arcane Focus), Attunement (Spellcaster)
 | Fail | You paralyze the target for **1** minute. |
 | Success | No effect. |
 
-Before the target's Turn ends, it repeats this Saving Throw.  On a success, this effect ends on the target.
+Before the target's Turn ends, it repeats this Saving Throw.
+
+| | |
+|---|---|
+| Fail | No additional effect. |
+| Success | This effect ends on the target. |

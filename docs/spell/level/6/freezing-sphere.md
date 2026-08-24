@@ -32,7 +32,7 @@ Any Creature holding the bead can take this Action.
 
 #### Ending Early
 ##### Break Free
-Any target restrained by the ice can take this Action.
+Any Restrained target can take this Action.
 
 **Utilize Action:** The target makes an Athletics Check against your Spell Save DC.
 

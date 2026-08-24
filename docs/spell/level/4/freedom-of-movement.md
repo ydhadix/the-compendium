@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
-| Target | **1** Ally |
+| Area | — |
+| Target | **1** Creature |
 | Duration | 1 hour |
 
 ---
@@ -21,9 +21,9 @@ Each target gains the following effects:
 - It gains a Swim Speed equal to its Speed.
 
 ##### Slip Out
-Each target can take this Action.
+Any target can take this Action.
 
-**Free Action; 5 feet of movement:** The target escapes from a nonmagical restraint or a Grapple.
+**Free Action; 5 feet of movement:** The target escapes from **1** nonmagical grapple or restraint.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

@@ -76,14 +76,31 @@ def sizeCell(card):
 
 
 # --- Items -------------------------------------------------------------------------------------
+def splitTopLevel(text):
+   """Comma-separated tokens, ignoring commas nested inside parentheses."""
+   tokens = []
+   depth = 0
+   start = 0
+   for index, char in enumerate(text):
+      if char == "(":
+         depth += 1
+      elif char == ")":
+         depth -= 1
+      elif char == "," and depth == 0:
+         tokens.append(text[start:index].strip())
+         start = index + 1
+   tokens.append(text[start:].strip())
+   return tokens
+
+
 def itemTypeCell(card):
-   """Item type: the first comma-token of the subtitle."""
-   return card.subtitle.split(",")[0].strip()
+   """Item type: the subtitle's first comma-token, keeping a parenthesised subtype list intact."""
+   return splitTopLevel(card.subtitle)[0]
 
 
 def itemValueCell(card):
-   """Item value: the last comma-token of the subtitle."""
-   return card.subtitle.split(", ")[-1].strip()
+   """Item value: the subtitle's last comma-token, keeping a parenthesised subtype list intact."""
+   return splitTopLevel(card.subtitle)[-1]
 
 
 # --- Protocols ---------------------------------------------------------------------------------

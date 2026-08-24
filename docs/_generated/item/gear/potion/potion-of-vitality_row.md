@@ -1,1 +1,1 @@
-| [Potion of Vitality](/item/gear/potion/potion-of-vitality.md) | Potion (Ingested) | 20,000 gold |
+| [Potion of Vitality](/item/gear/potion/potion-of-vitality.md) | Potion (Ingested) | 000 gold |

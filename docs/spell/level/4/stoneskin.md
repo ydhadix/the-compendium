@@ -8,10 +8,10 @@
 | Components | V, S, M _(consumes diamond dust worth 100 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
-| Target | **1** Ally |
+| Area | — |
+| Target | **1** Creature |
 | Duration | 1 hour (Concentration) |
 
 ---
 
-Each target gains Physical Resistance.
+Each target's Damage Reduction increases by **your Spellcasting Ability**.

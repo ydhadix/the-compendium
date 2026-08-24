@@ -1,1 +1,1 @@
-| [Creation](/spell/level/5/creation.md) | Illusion | V, S, M | **1** minute | 30 ft. | A 5-ft. Cube | — | Special |
+| [Creation](/spell/level/5/creation.md) | Illusion | V, S, M | 1 minute | 30 ft. | A 5-ft. Cube | — | Special |

@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | 10 minutes |
 | Range | 120 ft. |
-| Area | |
-| Target | A 5- to 100-ft. Cube |
+| Area | Up to a 100-ft. Cube |
+| Target | — |
 | Duration | 24 hours |
 
 ---
@@ -28,4 +28,4 @@ The area gains any number of the following effects:
 If you cast this Spell on the same area every day for **365** days, the effect lasts until dispelled.
 
 #### At Higher Levels
-Add **100** feet to the Cube's maximum size per additional Spell Level.
+Add **100** feet to the area's maximum size per additional Spell Level.

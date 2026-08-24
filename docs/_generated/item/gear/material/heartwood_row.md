@@ -1,1 +1,1 @@
-| [Heartwood](/item/gear/material/heartwood.md) | Material (Wood) | 1,000 gold |
+| [Heartwood](/item/gear/material/heartwood.md) | Material (Wood) | 000 gold |

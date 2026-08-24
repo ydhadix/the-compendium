@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Wizard |
 | Components | V, S, M |
-| Casting Time | **1** minute |
+| Casting Time | 1 minute |
 | Range | 30 ft. |
 | Area | A 5-ft. Cube |
 | Target | — |
@@ -29,4 +29,4 @@ This Spell's duration depends on its material; for an object of multiple materia
 | Adamantine or mithral | **1** minute |
 
 #### At Higher Levels
-Add **5** feet to the Area per additional Spell Level.
+Add **5** feet to the area per additional Spell Level.

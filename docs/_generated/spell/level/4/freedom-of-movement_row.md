@@ -1,1 +1,1 @@
-| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Magic Action | Reach | — | **1** Ally | 1 hour |
+| [Freedom of Movement](/spell/level/4/freedom-of-movement.md) | Abjuration | V, S, M | Magic Action | Reach | — | **1** Creature | 1 hour |

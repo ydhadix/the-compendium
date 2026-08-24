@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
@@ -22,7 +22,7 @@ Each target makes a Will Save.
 | Success | You deal half as much damage, then this Spell ends on the target. |
 
 #### Ending Early
-Before a target's Turn ends, it makes a Will Save.
+Before a target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

@@ -1,1 +1,1 @@
-| [Potion of Supreme Healing](/item/gear/potion/potion-of-supreme-healing.md) | Potion (Ingested) | 20,000 gold |
+| [Potion of Supreme Healing](/item/gear/potion/potion-of-supreme-healing.md) | Potion (Ingested) | 000 gold |

@@ -1,1 +1,1 @@
-| [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Magic Action | 300 ft. | — | Up to a 100-ft. Cube | 10 minutes (C) |
+| [Control Water](/spell/level/4/control-water.md) | Transmutation | V, S, M | Magic Action | 300 ft. | Up to a 100-ft. Cube | Each Creature and Object | 10 minutes (C) |

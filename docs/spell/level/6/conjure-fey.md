@@ -14,10 +14,10 @@
 
 ---
 
-You conjure an intangible Medium spirit from the Feywild, taking the appearance of any Fey Creature.
+You conjure a fey spirit.  The spirit is a Large, intangible Object with Immunity to all damage.
 
 ##### Attack
-**Bonus Action:** You can teleport the spirit up to **30** feet, then make a Melee Spell Attack against a Creature or Object within **5** feet of it.
+**Bonus Action:** You can move or teleport the spirit up to **30** feet, then make a Melee Spell Attack against a Creature or Object within **5** feet of the spirit.
 
 | | |
 |---|---|

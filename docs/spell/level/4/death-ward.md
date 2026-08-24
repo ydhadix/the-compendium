@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 8 hours |
 
 ---
 
-Before the target's Hit Points become **0**, they instead become **1**.
+Before a target's Hit Points become **0**, they instead become **1**.
 
 If an effect would kill a target without dealing damage, that effect fails against it.
 

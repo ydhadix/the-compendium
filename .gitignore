@@ -5,4 +5,4 @@ site/
 __pycache__/
 .claude/*
 5etools-src/
-TODO.md
+/*.md

@@ -7,9 +7,9 @@
 | Classes | Bard |
 | Components | V, S |
 | Casting Time | Magic Action |
-| Range | 30 ft. |
-| Area | |
-| Target | Each Creature you choose within 30 ft. |
+| Range | — |
+| Area | A 30-ft. Aura |
+| Target | Each Creature you choose |
 | Duration | 1 minute (Concentration) |
 
 ---
@@ -22,10 +22,10 @@ Each target makes a Will Save.
 | Success | No effect. |
 
 ##### Command
-**Bonus Action:** You can choose a horizontal direction.  After a Charmed target's next Turn starts, it moves as far as it can in that direction by the safest route.
+**Bonus Action:** You can choose a direction.  After a Charmed target's next Turn starts, it moves as far as it can in that direction by the safest route.
 
 #### Ending Early
-After a target follows your command, it makes a Will Save.
+After a target moves by your command, it repeats this Saving Throw.
 
 | | |
 |---|---|

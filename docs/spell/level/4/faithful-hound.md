@@ -8,25 +8,27 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Area | |
-| Target | — |
+| Area | A 30-ft. radius Sphere |
+| Target | Each Small or larger Creature |
 | Duration | 8 hours |
 
 ---
 
-You create a Medium, intangible phantom hound with **30** feet of Truesight.  Only you can perceive the hound.
+You can choose a password.  Before a target enters the area, if it speaks this password, it gains Immunity to this Spell's other effects until it leaves the area.
 
-After a Small or larger creature comes within **30** feet of the hound without speaking a password you set, the hound emits the sound of barking out to **60** feet for **10** seconds.
+You conjure a phantom hound in the area.  Only you can perceive the hound.
 
-After your Turn starts, **1** Enemy within **5** feet of the hound makes a Reflex Save.
+After a target enters the area, the hound emits the sound of barking out to **60** feet for **10** seconds.
+
+After your Turn starts, up to **1** target you choose makes a Reflex Save.
 
 | | |
 |---|---|
-| Fail | You deal **4d8** Force Damage. |
+| Fail | You deal **4d8** Force Damage and the hound can grapple the target _(Escape DC **Spell Save DC**)_.  The hound can only grapple **1** target at a time. |
 | Success | No effect. |
 
 ##### Move
-**Magic Action:** You can move the hound up to **30** feet.
+**Magic Action:** You can move the area up to **30** feet.
 
 #### Ending Early
-This Spell ends if you and the hound are ever more than **300** feet apart.
+This Spell ends if you and the area are ever more than **300** feet apart.

@@ -18,13 +18,13 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You banish the target to a harmless demiplane and incapacitate it.<br>After this Spell ends, the target returns to the space it left, or the nearest unoccupied space. |
+| Fail | You teleport the target to a harmless demiplane and incapacitate it.<br>After this Spell ends, the target returns to the space it left, or the nearest unoccupied space. |
 | Success | No effect. |
 
 #### Permanence
-If a banished target is a Planar Creature and this Spell lasts the full duration, it doesn't return.
+If this Spell lasts the full duration, a teleported Planar Creature doesn't return.
 
-If the target is not on its home plane, you teleport it there instead.
+If the Planar Creature is not on its home plane, you teleport it there instead.
 
 Otherwise, you teleport it to a plane associated with its Planar Creature Type.
 
