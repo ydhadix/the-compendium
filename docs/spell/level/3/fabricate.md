@@ -14,6 +14,6 @@
 
 ---
 
-You form a Large or smaller Object from metal, stone, or another mineral, provided you have enough of it.
+You transform metal, stone, or another mineral into a Large or smaller Object, provided you have enough of it.
 
 The object's quality matches the raw materials.  You can't create creatures or magic items, nor items requiring significant skill — such as weapons or armor — unless you have Proficiency with the relevant Artisan's Tools.

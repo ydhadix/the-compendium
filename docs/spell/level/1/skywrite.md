@@ -14,7 +14,7 @@
 
 ---
 
-You form a brief sentence or phrase, or a simple image, out of clouds in the sky.
+You transform clouds in the sky into a brief sentence or phrase, or a simple image.
 
 #### Ending Early
 This Spell ends if the clouds are dispersed.

@@ -14,7 +14,7 @@
 
 ---
 
-You form the dirt, sand, and clay in the area however you choose: raising or lowering its elevation, digging or filling a trench, or raising or flattening a wall or pillar.
+You transform dirt, sand, and clay in the area however you choose: raising or lowering its elevation, digging or filling a trench, or raising or flattening a wall or pillar.
 
 No change can exceed half the area's largest dimension, and each takes **10** minutes to complete.  The transformation is slow enough that it doesn't trap or injure creatures in the area.
 

@@ -13,8 +13,8 @@ This item contains a mote of elemental energy.  The gemstone determines the type
 
 ---
 
-##### Release
-**Utilize Action:** You can destroy the item, summoning its contained Elemental Companion.  The elemental disappears after **1** hour or after the elemental drops to **0** Hit Points.
+##### Conjure Elemental
+**Utilize Action:** You can destroy the item, conjuring its Elemental Companion.  The elemental disappears after **1** hour or after the elemental drops to **0** Hit Points.
 
 ###### Command
 **Free Action:** You can command the elemental to move and take any Action available to it.

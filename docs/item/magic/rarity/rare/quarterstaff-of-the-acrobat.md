@@ -10,7 +10,7 @@ While in Staff or Pole form, you gain Advantage on Acrobatics Checks.
 **Bonus Action:** You can make this weapon emit green Dim Light out to **10** feet, or extinguish it.  You can also emit the light after you roll Initiative.
 
 ##### Alter Form
-**Bonus Action:** You can turn this weapon into a **6**-inch rod or a **10**-foot pole, or revert it to a Staff.  It elongates only as far as the surrounding space allows.
+**Bonus Action:** You can transform this weapon into a **6**-inch rod or a **10**-foot pole, or revert it to a Staff.  It elongates only as far as the surrounding space allows.
 
 ##### Attack Deflection
 **Reaction; 3 times per Day:** While in Staff form, before you are hit by an Attack, you can add **5** to your Armor Class against it.

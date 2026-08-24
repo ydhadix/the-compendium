@@ -25,7 +25,7 @@ Rare Weapon (Staff), Attunement
 | Success | You deal half as much damage. |
 
 ##### Thunderclap
-**Magic Action; Once per Day:** You can produce a thunderclap audible out to **600** feet.  Everything in a **60**-foot Aura makes a Fortitude Save _(DC **15**)_.
+**Magic Action; Once per Day:** You can conjure a thunderclap audible out to **600** feet.  Everything in a **60**-foot Aura makes a Fortitude Save _(DC **15**)_.
 
 | | |
 |---|---|

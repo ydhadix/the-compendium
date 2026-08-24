@@ -21,4 +21,4 @@ Any creature Restrained this way can take this Action.
 **Magic Action:** You can fire an arrow at an Ally, or at an unattended object that fits in a **5**-foot Cube, within **60** feet.  The target teleports to within **10** feet of you.
 
 ##### Energy Ladder
-**Magic Action:** You can fire a flurry of arrows at a wall within **60** feet, forming a ladder of glowing rungs up to **60** feet long on the wall for **1** minute.
+**Magic Action:** You can fire a flurry of arrows at a wall within **60** feet, conjuring a ladder of glowing rungs up to **60** feet long on the wall for **1** minute.

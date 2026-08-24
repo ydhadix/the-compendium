@@ -7,9 +7,9 @@ Uncommon Container (Flask)
 
 | Command | |
 |---|---|
-| Splash | The decanter produces **1** gallon of water. |
-| Fountain | The decanter produces **5** gallons of water. |
-| Geyser | The decanter produces **30** gallons of water in a **30**-foot × **1**-foot Line until the start of your next Turn. |
+| Splash | You conjure **1** gallon of water. |
+| Fountain | You conjure **5** gallons of water. |
+| Geyser | You conjure **30** gallons of water in a **30**-foot × **1**-foot Line until the start of your next Turn. |
 
 ###### Aim Geyser
 **Free Action:** You can force one creature in the Line to make a Fortitude Save _(DC **13**)_.

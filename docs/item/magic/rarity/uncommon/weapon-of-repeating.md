@@ -2,4 +2,4 @@
 Uncommon Weapon (Loading)
 { .subtitle }
 
-This weapon ignores its Loading property.  Ranged Attacks with this weapon produce their own Ammunition, which vanishes after the Attack.
+This weapon ignores its Loading property.  Ranged Attacks with this weapon conjure their own Ammunition, which vanishes after the Attack.

@@ -14,4 +14,4 @@
 
 ---
 
-You form each target into any shape you like, such as a weapon, a container, a sealed door, or a passage through stone up to **5** feet thick.  The new shape can have up to two hinges and a latch, but no finer mechanical detail.
+You transform each target into any shape you like, such as a weapon, a container, a sealed door, or a passage through stone up to **5** feet thick.  The new shape can have up to two hinges and a latch, but no finer mechanical detail.

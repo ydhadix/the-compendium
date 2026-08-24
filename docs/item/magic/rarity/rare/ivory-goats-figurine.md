@@ -32,4 +32,4 @@ Before the target's Turn ends, it repeats this Saving Throw.
 **Free Action:** You can command the goat to move and take any Action available to it.
 
 ###### Remove Horn
-**Magic Action:** You can harmlessly remove one of the goat's horns, which becomes a Polearm or a Blade until the goat reverts.
+**Magic Action:** You can harmlessly remove one of the goat's horns, transforming it into a Polearm or a Blade until the goat reverts.

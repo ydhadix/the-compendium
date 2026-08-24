@@ -2,8 +2,8 @@
 Uncommon Weapon (Staff), Attunement
 { .subtitle }
 
-##### Form Head
-**Bonus Action:** You can form the staff's head into a venomous snake.  It keeps that form for **1** minute, or until you use this Action again.
+##### Transform Head
+**Bonus Action:** You can transform the staff's head into a venomous snake.  It keeps that form for **1** minute, or until you use this Action again.
 
 ###### Strike
 **Free Action; Once per Turn:** After you Attack, you can make a Melee Weapon Attack using the snake head.  The attack uses your Wisdom, Proficiency Bonus, and Reach.
