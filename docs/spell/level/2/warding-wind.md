@@ -14,7 +14,7 @@
 
 ---
 
-You create strong wind in the area. The area gains the following effects:
+You conjure strong wind in the area. The area gains the following effects:
 
 - Vapor, fog, and gas are dispersed.
 - Unprotected flames are extinguished.

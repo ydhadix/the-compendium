@@ -16,6 +16,6 @@
 
 You learn the names of any ongoing Spells affecting the target.
 
-If a Spell created the target, you learn that Spell's name.
+If a Spell animated, conjured, or summoned the target, you learn that Spell's name.
 
-If a target is a Magic Item or other magical object, you learn its properties, how to use them, whether it requires Attunement, and how many Charges it has.
+If a target is a Magic Item, you learn its properties, how to use them, whether it requires Attunement, and how many Charges it has.

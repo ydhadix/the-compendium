@@ -14,7 +14,7 @@
 
 ---
 
-You make **2** Attacks using a Bow or Crossbow. This Spell creates the ammunition for each Attack, and you can change the Damage Type to Force; the ammunition vanishes after the Attack.
+You make **2** Attacks using a Bow or Crossbow. This Spell conjures the ammunition for each Attack, and you can change the Damage Type to Force; the ammunition vanishes after the Attack.
 
 ##### Draw
 **Bonus Action:** You can repeat this Spell's effect against new targets.

@@ -14,7 +14,7 @@ Conjuration Cantrip
 
 ---
 
-You create a Tiny, floating, spectral hand with Immunity to all damage. The hand can't attack, activate Magic Items, or carry more than **10** pounds.
+You conjure a Tiny, floating, spectral hand with Immunity to all damage. The hand can't attack, activate Magic Items, or carry more than **10** pounds.
 
 ##### Utilize
 **Magic Action:** You can move the hand up to **30** feet, then Utilize using the hand.

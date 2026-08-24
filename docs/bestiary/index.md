@@ -133,10 +133,10 @@ The feature or Spell that gives you a Companion also describes how to command it
 While you are Incapacitated, your Companions can act and Move on their own _(no longer limited to dodging)_.
 
 #### Companion Proficiency
-Your Companions use your Character Level and Proficiency Bonus in their stat blocks.
+Your Companions use your Character Level and Proficiency Bonus.
 
 #### Communication
-Your Companions understand every language you speak, and some can speak those languages as well. A Companion may also know languages of its own.
+Your Companions understand every language you speak, and may also know languages of its own.
 
 You gain **120** feet of Telepathy with your Companions.
 

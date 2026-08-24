@@ -6,7 +6,7 @@ Uncommon Wondrous Item
 { .subtitle }
 
 ##### Draw Card
-**Magic Action; 1 card:** You can draw a card at random and throw it to a point within **30** feet, summoning a harmless illusory creature that looks and behaves like the real creature but can do no harm.
+**Magic Action; 1 card:** You can draw a card at random and throw it to a point within **30** feet, conjuring a harmless illusory creature that looks and behaves like the real creature but can do no harm.
 
 The illusion lasts until its card moves or it is dispelled.  Physical interaction passes through the illusion, revealing it as false.
 

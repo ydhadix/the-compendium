@@ -14,7 +14,7 @@
 
 ---
 
-You create a burst of flames, then immediately extinguish any fire in the area. Choose **1** of the following effects:
+You conjure a burst of flames, then immediately extinguish any fire in the area. Choose **1** of the following effects:
 
 | Effect | |
 |---|---|

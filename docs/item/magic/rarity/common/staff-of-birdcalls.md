@@ -6,4 +6,4 @@ Common Weapon (Staff)
 { .subtitle }
 
 ##### Birdcall
-**Magic Action; 1 Charge:** You can create the sound of a birdcall audible out to **120** feet.
+**Magic Action; 1 Charge:** You can conjure the sound of a birdcall audible out to **120** feet.

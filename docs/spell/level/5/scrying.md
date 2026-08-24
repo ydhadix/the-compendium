@@ -25,7 +25,7 @@ Each target makes a Will Save, adding the modifier for your strongest physical c
 
 | | |
 |---|---|
-| Fail | You create a Scrying Sensor within **10** feet of the target, and can see and hear through it.  If the target is a creature, the sensor moves to stay within **10** feet of the target. |
+| Fail | You conjure a Scrying Sensor within **10** feet of the target, and can see and hear through it.  If the target is a creature, the sensor moves to stay within **10** feet of the target. |
 | Success | You can't target the target with this Spell for **24** hours. |
 
 ---

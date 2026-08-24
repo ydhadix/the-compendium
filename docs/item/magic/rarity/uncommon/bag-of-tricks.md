@@ -2,7 +2,7 @@
 Uncommon Container (Pouch)
 { .subtitle }
 
-Reaching inside this bag reveals a small, fuzzy object. Each Bag of Tricks comes in one of three colors ([Gray](#gray), [Rust](#rust), or [Tan](#tan)), which determines the creatures it produces.
+Each Bag of Tricks comes in one of three colors ([Gray](#gray), [Rust](#rust), or [Tan](#tan)), which determines the creatures it produces.
 
 #### Gray
 | 1d8 | Creature |
@@ -42,8 +42,8 @@ Reaching inside this bag reveals a small, fuzzy object. Each Bag of Tricks comes
 
 ---
 
-##### Summon Trick
-**Magic Action; 3 times per Day:** You can pull the fuzzy object from the bag and throw it up to **20** feet, where it becomes a Companion creature determined by rolling **1d8** on your bag's color table.  The creature disappears after this item recharges or after the creature drops to **0** Hit Points.
+##### Animate Trick
+**Magic Action; 3 times per Day:** You can reach into the bag, conjuring a small, fuzzy object, and throw it up to **20** feet, where you animate it as a Companion creature determined by rolling **1d8** on your bag's color table.  The creature disappears after this item recharges or after the creature drops to **0** Hit Points.
 
 ###### Command
 **Bonus Action:** You can command the creature to move and take any Action available to it.

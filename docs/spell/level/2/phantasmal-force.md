@@ -18,7 +18,7 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You create an illusory phantasm no larger than a **10**-foot Cube, including sound, temperature, and other stimuli, that only the target can perceive. The target treats the phantasm as real and rationalizes any illogical outcomes from interacting with it. |
+| Fail | You conjure an illusory phantasm no larger than a **10**-foot Cube, including sound, temperature, and other stimuli, that only the target can perceive. The target treats the phantasm as real and rationalizes any illogical outcomes from interacting with it. |
 | Success | No effect. |
 
 ##### Torment

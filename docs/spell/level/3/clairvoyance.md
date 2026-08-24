@@ -16,7 +16,7 @@
 
 Choose seeing or hearing.
 
-You create a Scrying Sensor and can perceive through it using the chosen sense.
+You conjure a Scrying Sensor and can perceive through it using the chosen sense.
 
 ##### Switch Sense
 **Bonus Action:** You can switch between seeing and hearing.

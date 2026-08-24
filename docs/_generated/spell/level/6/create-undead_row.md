@@ -1,1 +1,1 @@
-| [Create Undead](/spell/level/6/create-undead.md) | Necromancy | V, S, M ($) | 1 minute | 10 ft. | — | Up to **3** Medium or Small Humanoid Corpses, or up to **3** Undead you created with this Spell | 24 hours |
+| [Create Undead](/spell/level/6/create-undead.md) | Necromancy | V, S, M ($) | 1 minute | 10 ft. | — | Up to **3** Humanoid Corpses, or up to **3** Undead you animated | 24 hours |

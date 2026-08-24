@@ -14,12 +14,12 @@
 
 ---
 
-You transform each target into an Animated Servant Companion.
+You animate each target as an Animated Servant Companion.
 
 If the servant drops to **0** Hit Points, it is destroyed.
 
-##### Command
-**Bonus Action:** You can command the servant to move and take any Action available to it.
+##### Command Constructs
+**Bonus Action:** You can command any of your Construct companions within **120** feet to move and take any Action available to them.  You give the same command to each target.
 
 #### At Higher Levels
 Add **2** targets per additional Spell Level.

@@ -18,7 +18,7 @@ Each target makes a Will Save.  If a target wasn't in Range for the entire casti
 
 | | |
 |---|---|
-| Fail | The target is bound to serve you, following your commands to the best of its ability.  An Enemy target twists your commands toward its own ends.  If the target was summoned or created by another effect, that Spell's duration is extended to match this Spell. |
+| Fail | The target is bound to serve you, following your commands to the best of its ability.  An Enemy target twists your commands toward its own ends.  If the target was conjured or summoned by another effect, that effect's duration is extended to match this Spell. |
 | Success | No effect. |
 
 #### At Higher Levels

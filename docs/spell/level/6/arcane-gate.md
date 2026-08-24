@@ -14,7 +14,7 @@
 
 ---
 
-You create a portal in each area.  Each portal is an opaque ring of mist, hovering just above the ground in any orientation.
+You conjure a portal in each area.  Each portal is an opaque ring of mist, hovering just above the ground in any orientation.
 
 A portal is open on one side only.  Anything that enters the open side of one portal exits from the open side of the other.
 

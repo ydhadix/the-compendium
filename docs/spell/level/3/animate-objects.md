@@ -9,22 +9,21 @@
 | Casting Time | Magic Action |
 | Range | 120 ft. |
 | Area | |
-| Target | Up to **3** Objects |
+| Target | Up to **3** Huge or smaller Objects that aren't worn or carried |
 | Duration | 1 minute (Concentration) |
 
 ---
 
-You animate nonmagical objects that aren't worn, carried, Anchored, or Gargantuan.  A Large object counts as **2** of your targets, and a Huge object as **3**.
+You animate each target as an Animated Object Companion.  A Large object counts as **2** of your targets, and a Huge object as **3**.
 
-Each target becomes an Animated Object Companion.  When a target has **0** Hit Points, it reverts to an object and any remaining damage carries over.
+##### Command Constructs
+**Bonus Action:** You can command any of your Construct companions within **500** feet to move and take any Action available to them.  You give the same command to each target.
 
-##### Command
-**Bonus Action:** You can command your animated objects within **500** feet to move and take any Action available to them.
+#### Ending Early
+This Spell ends if the companion has **0** Hit Points.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.
-
-The Spell Level determines the objects' Slam damage.
 
 ---
 

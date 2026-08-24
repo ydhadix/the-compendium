@@ -27,7 +27,7 @@ Your specialization grants you additional Spells. You learn these Spells at the 
 
 
 ### 3: Primal Companion
-You summon a [Primal Companion](/bestiary/summon/primal-companion.md).
+You conjure a [Primal Companion](/bestiary/summon/primal-companion.md).
 
 Your companion's Ability Checks and Saving Throws increase by **PB**.
 #### Changing Companions

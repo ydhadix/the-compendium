@@ -14,11 +14,11 @@ Illusion Cantrip
 
 ---
 
-You create an illusion of a still image or a sound.
+You conjure an illusion of a still image or a sound.
 
 | Effect | |
 |---|---|
-| Image | The image is no larger than a **5**-foot Cube and can't create sound, light, smell, or any other sensory effect. |
+| Image | The image is no larger than a **5**-foot Cube and can't emit sound, light, smell, or any other sensory effect. |
 | Sound | The sound's volume ranges from a whisper to a scream and can be any sound you choose. The sound can be continuous, or you can make discrete sounds at different times. |
 
 ##### Search

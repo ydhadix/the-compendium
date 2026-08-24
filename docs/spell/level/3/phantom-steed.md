@@ -14,7 +14,7 @@
 
 ---
 
-A horselike Phantom Steed Companion appears, equipped with a saddle, bit, and bridle.  Any of this equipment vanishes if it is carried more than **10** feet from the Steed.
+You conjure a horselike Phantom Steed Companion, equipped with a saddle, bit, and bridle.  Any of this equipment vanishes if it is carried more than **10** feet from the Steed.
 
 #### Ending Early
 This Spell ends if the Steed takes any damage. After this Spell ends, the Steed fades over **1** minute, giving its rider time to dismount.

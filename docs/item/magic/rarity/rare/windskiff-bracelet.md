@@ -4,8 +4,8 @@ Rare Clothing (Jewelry)
 
 This rubber bracelet can be worn around the wrist or ankle.
 
-##### Summon
-**Magic Action; 3 times per Day:** You can summon a windskiff, a sail-powered personal vehicle roughly the shape of a household door with a **10**-foot-tall sail extending from one side.  The vehicle disappears after **1** hour, its hull points drop to **0**, or you dismiss it _(no action required)_.
+##### Conjure
+**Magic Action; 3 times per Day:** You can conjure a windskiff, a sail-powered personal vehicle roughly the shape of a household door with a **10**-foot-tall sail extending from one side.  The vehicle disappears after **1** hour, its hull points drop to **0**, or you dismiss it _(no action required)_.
 
 ###### Windskiff
 

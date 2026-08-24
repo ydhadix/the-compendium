@@ -8,7 +8,7 @@ After you finish a Short Rest, you can choose up to **4 + PB** creatures that us
 
 #### Healthy Treats
 
-After you finish a Short Rest, you can create **PB** treats. Uneaten treats spoil after **8** hours.
+After you finish a Short Rest, you can cook **PB** treats. Uneaten treats spoil after **8** hours.
 ##### Eat Treat
 Any creature holding a treat can take this Action.
 

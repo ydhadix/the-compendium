@@ -14,7 +14,7 @@
 
 ---
 
-You create an intangible, floating, spectral force resembling a weapon.  The weapon is **2** Sizes smaller than you.
+You conjure an intangible, floating, spectral force resembling a weapon.  The weapon is **2** Sizes smaller than you.
 
 While the weapon shares your space, it moves with you.
 

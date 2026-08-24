@@ -14,7 +14,7 @@
 
 ---
 
-You create a Medium, earthen hand with Immunity to all damage.
+You conjure a Medium, earthen hand with Immunity to all damage.
 
 Choose a Creature or Object within **5** feet of the hand.
 

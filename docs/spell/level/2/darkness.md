@@ -18,4 +18,4 @@ If a target is an object, the area is a **15**-foot Aura centered on the target,
 
 The area is filled with Darkness. Darkvision can't see through it, and nonmagical light can't illuminate it.
 
-If the area overlaps Bright Light or Dim Light emitted by a lower-Level Spell, that light ends early.
+If the area overlaps any Light conjured by a lower-Level Spell, that Spell ends early.

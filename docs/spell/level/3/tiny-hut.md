@@ -14,7 +14,7 @@
 
 ---
 
-You create an Anchored dome of magical force surrounding the area.
+You conjure an Anchored dome of magical force surrounding the area.
 
 The dome has Immunity to all damage.  Everything inside the dome as it appears can pass through it freely; nothing else can pass through it.  A Spell whose Level is no higher than this Spell's can't be cast through the dome, and the effects of such a Spell can't extend into it.
 

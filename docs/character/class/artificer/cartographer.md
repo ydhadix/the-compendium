@@ -34,7 +34,7 @@ The range of your Telepathy and sense sharing with your assistant extends to **5
 Your assistant can deliver any Spell, not just Reach Spells _(A Spell that targets Self targets the assistant instead of you)_.
 
 ### 3: Adventurer's Atlas
-After a Long Rest, you can create an Adventurer's Atlas. The atlas disappears if you create another Adventurer's Atlas.
+After a Long Rest, you can conjure an Adventurer's Atlas. The atlas disappears if you conjure another Adventurer's Atlas.
 
 The atlas contains your name and up to **Class Ability** additional names _(minimum **1**)_. A creature can only write its own name in the atlas, and you can erase any other name in the atlas by touching it. (You can remove your name from the atlas, though that doesn't allow you to add another creature in your place.)
 #### Global Positioning

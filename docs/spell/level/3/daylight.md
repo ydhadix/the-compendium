@@ -18,4 +18,4 @@ If a target is an object, the area is a **60**-foot Aura centered on the target,
 
 The area is filled with Bright Sunlight and emits Dim Sunlight **60** feet further.
 
-If the area overlaps Darkness created by a lower-Level Spell, that Spell ends early.
+If the area overlaps any Darkness conjured by a lower-Level Spell, that Spell ends early.

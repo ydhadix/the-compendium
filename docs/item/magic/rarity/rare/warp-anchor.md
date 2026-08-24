@@ -2,7 +2,7 @@
 Rare Wondrous Item
 { .subtitle }
 
-This pair of linked batons merges to form a complete rod.
+This pair of linked batons merges into a complete rod.
 
 ##### Command Word
 **Magic Action:** You can speak **1** of the following Command Words to use its effect.

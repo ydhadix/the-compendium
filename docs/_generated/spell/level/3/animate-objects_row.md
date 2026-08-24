@@ -1,1 +1,1 @@
-| [Animate Objects](/spell/level/3/animate-objects.md) | Transmutation | V, S | Magic Action | 120 ft. | — | Up to **3** Objects | 1 minute (C) |
+| [Animate Objects](/spell/level/3/animate-objects.md) | Transmutation | V, S | Magic Action | 120 ft. | — | Up to **3** Huge or smaller Objects that aren't worn or carried | 1 minute (C) |

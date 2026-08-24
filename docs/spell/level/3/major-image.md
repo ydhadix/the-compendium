@@ -14,7 +14,7 @@
 
 ---
 
-You create the image of an object, creature, or other visible phenomenon, no larger than a **20**-foot Cube. It seems real, including sounds, smells, and temperatures, but it can't deal damage or cause Conditions.
+You conjure the image of an object, creature, or other visible phenomenon, no larger than a **20**-foot Cube. It seems real, including sounds, smells, and temperatures, but it can't deal damage or cause Conditions.
 
 ##### Move
 **Magic Action:** You can move the image to another location; as it moves, you can alter its appearance and the sounds it makes so they seem natural.

@@ -14,7 +14,7 @@ Conjuration Cantrip
 
 ---
 
-You create a flame in your hand that is harmless to you and emits Bright Light out to **20** feet and Dim Light **20** feet further.
+You conjure a flame in your hand that is harmless to you and emits Bright Light out to **20** feet and Dim Light **20** feet further.
 
 #### Ending Early
 This Spell ends after you cast it again or use the following Action.

@@ -14,7 +14,7 @@
 
 ---
 
-If a target is a Plant Object, it animates as a Plant Creature, using statistics the DM chooses.
+If a target is a Plant Object, you animate it as a Plant Creature, using statistics the DM chooses.
 
 Each target's Intelligence becomes **0**, and it learns to speak and understand one language you know.
 

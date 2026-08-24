@@ -14,7 +14,7 @@
 
 ---
 
-You create the image of an object, creature, or other visible phenomenon in the area, describing how it behaves and what sounds it makes for up to **5** minutes.  You also specify a trigger, based on visual or audible phenomena occurring within **30** feet of the area.
+You conjure the image of an object, creature, or other visible phenomenon in the area, describing how it behaves and what sounds it makes for up to **5** minutes.  You also specify a trigger, based on visual or audible phenomena occurring within **30** feet of the area.
 
 After the trigger occurs, the image performs as you described, then vanishes and lies dormant for **10** minutes before it can be triggered again.
 

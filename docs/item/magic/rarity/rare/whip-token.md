@@ -6,7 +6,7 @@ Rare Wondrous Item, Consumable
 **Magic Action:** You can throw this token to a point within **10** feet, destroying it and summoning a floating whip.  The whip disappears after **1** hour, after you dismiss it, or after you die or become Incapacitated.
 
 ###### Lash
-**Bonus Action:** You can make a Melee Spell Attack Roll _(**+7** to hit)_ against a creature within **10** feet of the whip, first flying the whip up to **20** feet.
+**Bonus Action:** You can make a Melee Spell Attack Roll _(**+7** to hit)_ against a creature within **10** feet of the whip, first moving the whip up to **20** feet.
 
 | | |
 |---|---|

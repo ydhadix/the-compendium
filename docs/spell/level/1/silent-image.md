@@ -14,7 +14,7 @@
 
 ---
 
-You create the image of an object, creature, or other visible phenomenon, no larger than a **15**-foot Cube. It can't create sound, light, smell, or any other sensory effect.
+You conjure the image of an object, creature, or other visible phenomenon, no larger than a **15**-foot Cube. It can't emit sound, light, smell, or any other sensory effect.
 
 ##### Move
 **Magic Action:** You can move the image to another location; as it moves, you can alter its appearance so its movements appear natural.

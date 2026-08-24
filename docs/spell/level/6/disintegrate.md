@@ -14,7 +14,7 @@
 
 ---
 
-If a target is an Object, you disintegrate it, even if it has Immunity to all damage.  You disintegrate only a **10**-foot Cube of a Huge or larger Object, and you disintegrate an Object created by a Spell only if that Spell's Level is no higher than this Spell's.
+If a target is an Object, you disintegrate it, even if it has Immunity to all damage.  You disintegrate only a **10**-foot Cube of a Huge or larger Object, and you disintegrate an Object conjured by a Spell only if that Spell's Level is no higher than this Spell's.
 
 If a target is a Creature, it makes a Reflex Save.
 

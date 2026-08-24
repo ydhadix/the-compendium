@@ -3,7 +3,7 @@ Uncommon Wondrous Item, Attunement
 { .subtitle }
 
 ##### Animate Broom
-**Bonus Action:** You can transform the broom into an Animated Broom Companion.  It stays transformed until you use this Action again.
+**Bonus Action:** You can animate the broom as an Animated Broom Companion.  It stays animated until you use this Action again.
 
 If the broom drops to **0** Hit Points, it is destroyed; if it reverts to inanimate form before losing all its Hit Points, it regains them all.
 

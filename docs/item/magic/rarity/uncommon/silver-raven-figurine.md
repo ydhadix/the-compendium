@@ -2,8 +2,8 @@
 Uncommon Wondrous Item
 { .subtitle }
 
-##### Summon Raven
-**Magic Action; Once per 2 Days:** You can throw the figurine to a point on the ground within **60** feet, where it transforms into a Raven Companion.  It stays transformed for **12** hours, until it drops to **0** Hit Points, or until you use this Action again.
+##### Animate Raven
+**Magic Action; Once per 2 Days:** You can throw the figurine to a point on the ground within **60** feet, where you animate it as a Raven Companion.  It stays animated for **12** hours, until it drops to **0** Hit Points, or until you use this Action again.
 
 ###### Cast
 **Magic Action:** You can cast _Animal Messenger_, targeting the raven.

@@ -2,7 +2,7 @@
 Rare Wondrous Item
 { .subtitle }
 
-These figurines are always created in sets of **3**, and each is summoned separately.
+These figurines are always created in sets of **3**, and each is animated separately.
 
 | Goat | Creature | Duration | Cooldown |
 |---|---|---|---|
@@ -25,8 +25,8 @@ Before the target's Turn ends, it repeats this Saving Throw.
 | Fail | No additional effect. |
 | Success | This effect ends on the target. |
 
-##### Summon Goat
-**Magic Action:** You can throw one figurine to a point on the ground within **60** feet, where it transforms into its Companion creature.  It stays transformed for the listed duration, until it drops to **0** Hit Points, or until you use this Action again.
+##### Animate Goat
+**Magic Action:** You can throw one figurine to a point on the ground within **60** feet, where you animate it as its Companion creature.  It stays animated for the listed duration, until it drops to **0** Hit Points, or until you use this Action again.
 
 ###### Command
 **Free Action:** You can command the goat to move and take any Action available to it.

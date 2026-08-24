@@ -6,4 +6,4 @@ Common Wondrous Item
 { .subtitle }
 
 ##### Season
-**Magic Action; 1 Charge:** You can summon a pinch of nonmagical food seasoning, enough to season a single meal.
+**Magic Action; 1 Charge:** You can conjure a pinch of nonmagical food seasoning, enough to season a single meal.

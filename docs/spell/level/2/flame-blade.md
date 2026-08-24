@@ -14,7 +14,7 @@
 
 ---
 
-You create a sword of solidified flame in your hand.
+You conjure a sword of solidified flame in your hand.
 
 The sword is a Simple Melee Weapon with Finesse, Light, and Thrown _(**20**/**60** feet)_. Attacks using it can use your Spellcasting Ability for Attack and Damage Rolls, and its Damage Die is **3d6** Fire Damage.
 

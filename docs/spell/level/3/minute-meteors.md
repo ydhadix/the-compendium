@@ -14,7 +14,7 @@
 
 ---
 
-You create **6** meteors that orbit you.
+You conjure **6** meteors that orbit you.
 
 ##### Launch
 **Bonus Action:** You can expend up to **2** meteors, sending each toward a point. Each Creature in a **5**-foot radius Sphere around a point makes a Reflex Save.
