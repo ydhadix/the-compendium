@@ -123,7 +123,7 @@ Disposition indicates how a creature is likely to behave, not its role in the st
 An Ally may still disagree with the party, and an Enemy might be talked into negotiating, depending on the situation and its motivations.  A creature's Disposition can change over the course of play; the exact process is a roleplay decision the DM adjudicates, though some Spells and features can influence it.
 
 ### Companions
-Some Spells and features grant **Companions**, summoned Allies you share a magical link with, that travel with you and aid you in combat and exploration.
+Some Spells and features grant **Companions**, conjured Allies you share a magical link with, that travel with you and aid you in combat and exploration.
 
 #### Commanding Companions
 Your Companions share your Turn in Initiative, but have their own Actions and movement.
@@ -143,11 +143,11 @@ You gain **120** feet of Telepathy with your Companions.
 ### Familiars
 A **Familiar** is a special Companion, such as the one created by _Find Familiar_. You can usually have only one Familiar at a time.
 
-##### Dismiss / Resummon
+##### Dismiss / Recall
 Magic Action
 { .subtitle }
 
-You can temporarily dismiss your Familiar to a pocket dimension.  Using this action against resummons your familiar within **30** feet of you.
+You can temporarily dismiss your Familiar to a pocket dimension.  Using this action again teleports your Familiar to within **30** feet of you.
 
 #### Sharing Senses
 While your Familiar is within **120** feet of you, you can see and hear through its senses; while doing so, you are Blinded and Deafened to your own senses.

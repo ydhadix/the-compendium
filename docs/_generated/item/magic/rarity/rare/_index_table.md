@@ -117,7 +117,7 @@
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rarity/rare/mantle-of-spell-resistance_row.md"
+--8<-- "_generated/item/magic/rarity/rare/mantle-of-spell-protection_row.md"
 --8<-- "_generated/item/magic/rarity/rare/marble-elephant-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/molten-skin_row.md"
 

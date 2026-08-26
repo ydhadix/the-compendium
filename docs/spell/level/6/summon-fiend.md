@@ -16,7 +16,7 @@
 
 Choose Demon, Devil, or Yugoloth.
 
-You summon a Fiendish Spirit Companion.
+You conjure a Fiendish Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

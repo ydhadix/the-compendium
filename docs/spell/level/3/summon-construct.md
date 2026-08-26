@@ -16,7 +16,7 @@
 
 Choose Clay, Metal, or Stone.
 
-You summon a Construct Spirit Companion.
+You conjure a Construct Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

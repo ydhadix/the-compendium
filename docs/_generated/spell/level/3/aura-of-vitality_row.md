@@ -1,1 +1,1 @@
-| [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Magic Action | — | — | Each Creature in a 30-ft. Aura | 1 minute (C) |
+| [Aura of Vitality](/spell/level/3/aura-of-vitality.md) | Abjuration | V | Magic Action | — | A 30-ft. Aura | Each Creature | 1 minute (C) |

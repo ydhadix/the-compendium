@@ -16,7 +16,7 @@
 
 Choose a Level 0 Beast and a Creature Type: Celestial, Fey, or Fiend.
 
-You summon a Familiar that takes the chosen form, gains the chosen Creature Type _(in addition to being a Beast)_, and uses the chosen Beast's statistics. If you already have a Familiar from this Spell, it adopts the chosen form and Creature Type instead.
+You conjure a Familiar that takes the chosen form, gains the chosen Creature Type _(in addition to being a Beast)_, and uses the chosen Beast's statistics. If you already have a Familiar from this Spell, it adopts the chosen form and Creature Type instead.
 
 You can also use this Spell to turn a Level 0 Ally into a Familiar.  It becomes a Familiar and gains the chosen Creature Type.
 

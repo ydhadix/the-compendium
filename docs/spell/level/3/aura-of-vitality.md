@@ -8,8 +8,8 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | Each Creature in a 30-ft. Aura |
+| Area | A 30-ft. Aura |
+| Target | Each Creature |
 | Duration | 1 minute (Concentration) |
 
 ---

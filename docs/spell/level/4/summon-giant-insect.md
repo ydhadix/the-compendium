@@ -16,7 +16,7 @@
 
 Choose Centipede, Spider, or Wasp.
 
-You summon a Giant Insect Companion.
+You conjure a Giant Insect Companion.
 
 ##### Command
 **Free Action:** You can command the insect to move and take any Action available to it.

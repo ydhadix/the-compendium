@@ -38,7 +38,7 @@
 | [Ammunition](/item/weapon.md#ammunition) | Weapon Property |
 | [Ancestry Feat](/character/feat/ancestry.md) | Feat |
 | [Anchored](/rules/condition.md#anchored) | Condition |
-| [Animate](/rules/target/index.md) | Creatures & Objects |
+| [Animate](/rules/target/index.md#animating) | Creatures & Objects |
 | [Aptitude](/rules/dice/index.md#proficiency) | Proficiency |
 | [Aquan](/bestiary/index.md#primordial-dialects) | Primordial Dialect |
 | [Arcana](/rules/dice/check.md#skills) | Skill |
@@ -118,15 +118,17 @@
 | [Condition](/rules/condition.md) | Condition |
 | [Cone](/rules/target/range.md#areas) | Area |
 | [Conjuration](/spell/index.md#schools-of-magic) | School of Magic |
+| [Conjure](/rules/target/index.md#conjuring) | Other Effects |
 | [Constitution](/bestiary/index.md#abilities) | Ability |
 | [Construct](/bestiary/type/construct.md) | Creature Type |
 | [Consumable](/item/index.md#consumable-items) | Item |
 | [Container](/item/index.md#item-types) | Adventuring Gear |
 | [Contingent Spells](/spell/level/6/contingency.md#contingent-spells) | Contingency |
 | [Copper](/item/index.md#denominations) | Currency |
+| [Corpse](/rules/target/index.md#corpses) | Target |
 | [Corroding](/rules/condition.md#corroding) | Condition |
 | [Cost](/item/index.md) | Item |
-| [Corpse](/rules/target/index.md#corpses) | Target |
+| [Counter](/spell/index.md#countering) | Spellcasting |
 | [Cover](/rules/target/cover.md) | Cover |
 | [Crafting](/item/index.md#crafting-items) | Item Index |
 | [Cramped](/bastion/index.md) | Bastion Size |
@@ -169,6 +171,7 @@
 | [Dim Light](/rules/target/sight.md#lighting) | Visibility |
 | [Disadvantage](/rules/dice/index.md#advantage-disadvantage) | Dice Roll |
 | [Disengage Action](/rules/action.md#disengage) | Normal Action |
+| [Dispel](/spell/index.md#dispelling) | Spellcasting |
 | [Disposition](/bestiary/index.md#disposition) | Disposition |
 | [Divination](/spell/index.md#schools-of-magic) | School of Magic |
 | [DM Inspiration](/rules/dice/index.md) | Dice Roll |

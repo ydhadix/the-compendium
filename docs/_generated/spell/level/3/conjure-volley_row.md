@@ -1,1 +1,1 @@
-| [Conjure Volley](/spell/level/3/conjure-volley.md) | Conjuration | V, S, M | Magic Action | 150 ft. | — | Each Creature you choose in a 40-ft. radius, 20-ft. Cylinder from above | — |
+| [Conjure Volley](/spell/level/3/conjure-volley.md) | Conjuration | V, S, M | Magic Action | 150 ft. | A 40-ft. radius, 20-ft. Cylinder, from above | Each Creature and Object you choose | — |

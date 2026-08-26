@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | 1 minute |
 | Range | 10 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Humanoid Corpse, or up to **4** Undead you animated |
 | Duration | 24 hours |
 

@@ -35,7 +35,7 @@ The area gains **1** of the following effects:
 You can specify targets that this Spell doesn't affect, and a password that leaves a creature speaking it within **5** feet of the area unaffected.
 
 #### Ending Early
-_Dispel Magic_ has no effect on this Spell, but each of this Spell's effects can be dispelled individually; this Spell ends after each effect is dispelled.
+This Spell can't be dispelled by another effect, but each of its effects can.  This Spell is dispelled after each of its effects is dispelled.
 
 #### Permanence
 If you cast this Spell on the same area every day for **365** days, the effect lasts until dispelled.

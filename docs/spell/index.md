@@ -5,7 +5,22 @@
 
 
 ### Spell Level
-A Spell's **Level**, from **0** to **6**, determines the minimum-level Spell Slot required to cast it. A Level **0** Spell is a **Cantrip**; Cantrips are always ready and never expend a Spell Slot.
+A Spell's **Level**, from **0** to **9**, determines the minimum-level Spell Slot required to cast it. A Level **0** Spell is a **Cantrip**; Cantrips are always ready and never expend a Spell Slot.
+
+Individual spells only have descriptions up to 6th-Level, but powerful Spellcasters can cast Spells beyond that, provided they have the Spell Slot to [upcast](#upcasting) it.
+
+#### Spell Level of non-Spell Effects
+Each magical effect that isn't from a cast spell has a Spell Level based on its source _(even if the effect names a Spell with a different Level)_.
+
+| Source | Spell Level |
+|---|---|
+| Feature | **creature's PB - 1** |
+| Common Item | **0** |
+| Uncommon Item | **1** |
+| Rare Item | **3** |
+| Very Rare Item | **5** |
+| Cursed/Legendary Item | **7** |
+| Artifact | **9** |
 
 
 ### Schools of Magic
@@ -85,16 +100,17 @@ Every Spell with a Reaction Casting Time, and some Spells with a Bonus Action Ca
 A Spell with a **Ritual** Casting Time can be cast as normal or cast as a Ritual. Casting it as a Ritual takes **10** minutes longer and expends no Spell Slot.
 
 #### Long Casting Times
-Some Spells — including Spells cast as a Ritual — take **1** minute or longer to cast. While casting a Spell this way, you must maintain Concentration and take the Magic Action on each of your Turns to keep casting it. If your Concentration breaks or you can't take the Magic Action, the Spell fails, but you don't expend a Spell Slot.
+Some Spells — including Spells cast as a Ritual — take **1** minute or longer to cast. While casting a Spell this way, you must maintain Concentration and take the Magic Action on each of your Turns to keep casting it. If your Concentration breaks or you can't take the Magic Action, the Spell is countered, but you don't expend a Spell Slot.
 
 
 ### Duration
-A Spell's **Duration** is how long its effect lasts. A Duration usually takes one of these forms:
+A Spell ends when its **Duration** expires.  A Duration usually takes one of these forms:
 
 | | |
 |---|---|
-| A span of time | The effect lasts a set number of Rounds, minutes, hours, or longer. You can dismiss it at any time _(no action required)_. |
+| A span of time | The effect lasts a set number of Rounds, minutes, hours, or longer. You can end it at any time _(no action required)_. |
 | Concentration | A span of time marked _(Concentration)_ lasts only while you maintain Concentration. |
+| Until dispelled | The effect has no time limit.  You can still end it at any time _(no action required)_. |
 | None (—) | The effect resolves at once and doesn't persist. |
 
 #### Concentration
@@ -103,9 +119,21 @@ Some Spells require **Concentration** to maintain. Your Concentration ends when 
 | | |
 |---|---|
 | Time limit | If the effect has a maximum duration, your Concentration ends when that time passes. |
-| A second effect | If you start Concentrating on another effect, you end one of them. |
+| A second Concentration | After you start Concentrating on another effect, you end one of them. |
 | Damage | After you take damage, you make a Concentration Save to keep Concentrating. The DC equals **10** or half the damage taken (rounded down), whichever is higher, to a maximum of **30**. |
 | Incapacitation | Your Concentration ends if you become Incapacitated, Downed, or die. |
+
+After your Concentration ends, the effect you were concentrating on ends.
+
+
+### Ending Early
+A Spell normally ends when its Duration expires.  Other effects can also end a Spell early, either before or after the Spell takes effect.
+
+#### Countering
+When you **counter** a Spell, the Spell never occurs and produces no effects.  A Spell can only be countered as it is being cast, and still expends its Spell Slot, Action, and any other costs, unless the effect that counters it says otherwise.
+
+#### Dispelling
+When you **dispel** a Spell, the Spell's effect ends before its Duration expires.  A Spell can be dispelled by another effect, or by its own, and it can be dispelled on a few of its targets while continuing on others.
 
 
 ### Overlapping Spells

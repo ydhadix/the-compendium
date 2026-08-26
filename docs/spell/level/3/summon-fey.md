@@ -16,7 +16,7 @@
 
 Choose Fuming, Mirthful, or Tricksy.
 
-You summon a Fey Spirit Companion.
+You conjure a Fey Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

@@ -16,7 +16,7 @@
 
 You beseech an otherworldly entity, which sends a Planar Creature loyal to it.  You can request a specific creature by name, though the DM decides which one answers.
 
-The creature is Independent and under no compulsion to serve you.  You must be able to communicate with it to bargain for a task, which it performs in exchange for payment.
+The creature teleports to you, and is Independent and under no compulsion to serve you.  You must be able to communicate with it to bargain for a task, which it performs in exchange for payment.
 
 | Task Length | Payment |
 |---|---|
@@ -26,4 +26,4 @@ The creature is Independent and under no compulsion to serve you.  You must be a
 
 The DM adjusts the payment for the task's danger, and creatures rarely accept a task that seems suicidal.
 
-The creature returns to its home plane after it completes the task or its agreed service ends, or immediately if you can't agree on a price.
+After the creature completes its task, its agreed service ends, or you can't agree on a price, the creature teleports back to its home plane.

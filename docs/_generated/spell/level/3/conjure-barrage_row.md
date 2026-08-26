@@ -1,1 +1,1 @@
-| [Conjure Barrage](/spell/level/3/conjure-barrage.md) | Conjuration | V, S, M | Magic Action | Reach | — | Each Creature you choose in a 60-ft. Cone | — |
+| [Conjure Barrage](/spell/level/3/conjure-barrage.md) | Conjuration | V, S, M | Magic Action | Reach | A 60-ft. Cone | Each Creature and Object you choose | — |

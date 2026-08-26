@@ -8,12 +8,12 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | You and each Ally in a 30-ft. Aura |
+| Area | A 30-ft. Aura |
+| Target | You and each Ally |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
 Each target gains Necrotic Resistance, and its Hit Point Maximum can't be reduced.
 
-After a target with **0** Hit Points begins its Turn in the area, you heal it by **1**.
+After a Downed or Stable target's Turn starts, you heal it by **1**.

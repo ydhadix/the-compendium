@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 1 minute |
 
 ---
 
-Before your Turn ends, roll **1d6**. On a **4** or higher, you vanish into the Ethereal Plane.
+Before your Turn ends, roll **1d6**. On a **4** or higher, you teleport into the Ethereal Plane.
 
 While on the Ethereal Plane, you perceive the plane you left in shades of gray out to **60** feet, and you can affect and be affected only by other creatures on the Ethereal Plane.
 

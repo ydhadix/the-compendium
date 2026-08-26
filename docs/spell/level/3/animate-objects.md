@@ -8,13 +8,15 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | |
+| Area | — |
 | Target | Up to **3** Huge or smaller Objects that aren't worn or carried |
 | Duration | 1 minute (Concentration) |
 
 ---
 
-You animate each target as an Animated Object Companion.  A Large object counts as **2** of your targets, and a Huge object as **3**.
+A Large Object counts as **2** of your targets, and a Huge Object counts as **3**.
+
+You animate each target as an Animated Object Companion.
 
 ##### Command Constructs
 **Bonus Action:** You can command any of your Construct companions within **500** feet to move and take any Action available to them.  You give the same command to each target.

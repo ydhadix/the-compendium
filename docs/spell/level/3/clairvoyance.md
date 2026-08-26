@@ -8,7 +8,7 @@
 | Components | V, S, M _(a jeweled horn or glass eye worth 100 Gold)_ |
 | Casting Time | 10 minutes |
 | Range | 1 mile |
-| Area | |
+| Area | — |
 | Target | — |
 | Duration | 10 minutes (Concentration) |
 

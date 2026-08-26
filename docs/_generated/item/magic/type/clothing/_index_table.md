@@ -84,7 +84,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/gossipers-ear-cuff_row.md"
 --8<-- "_generated/item/magic/rarity/rare/healers-voice_row.md"
 --8<-- "_generated/item/magic/rarity/rare/helm-of-teleportation_row.md"
---8<-- "_generated/item/magic/rarity/rare/mantle-of-spell-resistance_row.md"
+--8<-- "_generated/item/magic/rarity/rare/mantle-of-spell-protection_row.md"
 --8<-- "_generated/item/magic/rarity/rare/necklace-of-fireballs_row.md"
 --8<-- "_generated/item/magic/rarity/rare/necklace-of-prayer-beads_row.md"
 --8<-- "_generated/item/magic/rarity/rare/periapt-of-proof-against-poison_row.md"

@@ -26,8 +26,8 @@ banner: campaign/eternal-sun.png
 | Intro | Song | Artist |
 |---|---|---|
 | Opening Credits | Intro | Flight Facilities, Reggie Watts |
+|  | It's Goin' Down | X-Ecutioners, Mike Shinoda, Mr. Hahn |
 |  | Showdown | Marty Grimes, BJRNCK, Bradley Denniston, Kevin Beggs |
-|  |
 
 | DU-8 "Dub" Falk, Pilot | | |
 |---|---|---|
@@ -117,7 +117,7 @@ banner: campaign/eternal-sun.png
 
 | FTVL Team: HYPE | | |
 |---|---|---|
-| Dub Hikari | | |
+| Dub Hikari | Galvanize | The Chemical Brothers, Q-Tip |
 | Hub Hikari | | |
 | Sparrow | | |
 | Calaran Suthrathas | | |
@@ -136,14 +136,15 @@ banner: campaign/eternal-sun.png
 
 | FTVL Team: Double Broadside | | |
 |---|---|---|
-| Grand Artillery Commissar First-Class Brakkus Flint | | |
+| Grand Artillery Commissar First-Class Brakkus Flint | There They Go | Fort Minor, Sixx John |
 | Dorin Twostar | | |
 | Torgan "Latch" Betz | Spaceship | Kanye West, GLC, Consequence |
 
 | FTVL Team: Encore! | | |
 |---|---|---|
-| Frederick "Freddy" Caskbow | Love in a Bottle | Keith David, Lilli Cooper, Kimiko Glenn, Krystina Alabado, Sam Haft, Andrew Underberg |
+| Encore! | Love in a Bottle | Keith David, Lilli Cooper, Kimiko Glenn, Krystina Alabado, Sam Haft, Andrew Underberg |
 | "The Mister" Th’aither Kenn’yr’rettyn | PRIDE. | Kendrick Lamar |
+| Frederick "Freddy" Caskbow | Northern Star | Dom Fera |
 | "The Missus" | Losin' Streak | Blake Roman, Sam Haft, Andrew Underberg |
 
 | FTVL Team: Second Spring | | |
@@ -177,5 +178,6 @@ banner: campaign/eternal-sun.png
 | Bonding: Yonder, Gabe, Selene | H.S | Tom Cardy |
 | Bonding: Dremus and Everlee | Plant Life | Owl City |
 | Bonding: Gabriel and Selene | Check Yes, Juliet | We The Kings |
+| Bonding: Dub and Zenith | Overflow | smle, Helen Tess |
 
 </div>

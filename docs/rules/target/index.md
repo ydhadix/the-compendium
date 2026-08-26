@@ -2,6 +2,7 @@
 The **Target** of an attack or effect is whatever that effect acts upon.
 { .subtitle }
 
+
 ## Choosing a Target
 Most effects involve choosing a target for the effect to act on.
 
@@ -22,18 +23,22 @@ You can target worn or held objects, such as Armor or a Weapon, unless the targe
 #### Invalid Targets
 A target chosen for an effect that doesn't meet that effect's target requirements resolves normally, but the invalid target gains Immunity to the effect.
 
+
 ## Types of Targets
-Every target is a Creature, an Object, or a Location.
+Every target is a Creature, an Object, a Location, or an Effect.
 
 | Target | Description |
 |---|---|
 | Creature | A sentient being that acts under its own power. |
 | Object | A physical thing that doesn't act under its own power. |
 | Location | A place, rather than a thing. |
+| Other Effect | A persistent effect from a spell, feature, or item. |
 
 Creatures and Objects both have a Size, an Armor Class, and Hit Points.  What separates them is autonomy: a Creature decides what it does, and an Object doesn't.
 
+#### Animating
 An effect that **animates** an Object grants it that autonomy, changing it from an Object to a Creature for as long as the effect lasts.
+
 
 ### Creatures
 A **Creature** acts under its own power.  Most of the Compendium describes Creatures by default, so the rules governing them are collected elsewhere.
@@ -45,6 +50,7 @@ A **Creature** acts under its own power.  Most of the Compendium describes Creat
 | Speed and movement | [Movement](/rules/movement.md) |
 | Conditions | [Conditions](/rules/condition.md) |
 | Creature Type, Alignment, and Disposition | [Creature Codex](/bestiary/index.md) |
+
 
 ### Objects
 An **Object** doesn't act under its own power, and is usually used or affected by a Creature.
@@ -66,7 +72,19 @@ A **Corpse** is the body a Creature leaves behind when it dies.  Death ends the 
 
 A Corpse becomes a Creature again if it is restored to life, or if it is animated as an Undead.
 
+
 ### Locations
 A **Location** is a place rather than a thing.  It has no Size and no statistics, and can't be damaged.  A Location required to make a Check or Save automatically fails it.
 
-An effect that targets a Location affects that space.  Anything occupying the space is affected only if the effect says so.
+An effect that targets a Location affects that space.  Anything in the space is affected only if the effect says so.
+
+
+### Other Effects
+Sometimes a Spell, or the effect of a Spell, Feature, or Item can be targeted directly.
+
+While an effect is being activated, it fills the space of its source.
+
+Once active, an effect fills the space of its Area, its targets, and any Creature or Object it conjured.  An effect otherwise has no Size, no statistics, can't be damaged, and can't roll dice; the effect's source is usually required to roll instead.
+
+#### Conjuring
+An effect that **conjures** a Creature, an Object, or another effect creates it from magic.  A conjured thing ceases to exist once the magic that conjured it ends.

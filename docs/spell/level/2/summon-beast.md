@@ -16,7 +16,7 @@
 
 Choose Land, Water, or Air.
 
-You summon a Bestial Spirit Companion.
+You conjure a Bestial Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

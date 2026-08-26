@@ -16,7 +16,7 @@
 
 Choose Avenger or Defender.
 
-You summon a Celestial Spirit Companion.
+You conjure a Celestial Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

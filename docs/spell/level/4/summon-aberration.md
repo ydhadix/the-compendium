@@ -16,7 +16,7 @@
 
 Choose Beholderkin, Mind Flayer, or Slaad.
 
-You summon an Aberrant Spirit Companion.
+You conjure an Aberrant Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

@@ -5,11 +5,11 @@
 | | |
 |---|---|
 | Classes | Ranger |
-| Components | V, S, M _(a Melee or Ranged Weapon worth at least 1 Copper)_ |
+| Components | V, S, M _(a Thrown or Ranged Weapon)_ |
 | Casting Time | Magic Action |
 | Range | 150 ft. |
-| Area | |
-| Target | Each Creature you choose in a 40-ft. radius, 20-ft. Cylinder from above |
+| Area | A 40-ft. radius, 20-ft. Cylinder, from above |
+| Target | Each Creature and Object you choose |
 | Duration | — |
 
 ---

@@ -20,4 +20,4 @@ This rubber bracelet can be worn around the wrist or ankle.
 |---|---|
 | Glide | The windskiff has a **40**-foot Hover Speed and hovers a few inches above whatever surface it's on. |
 | Leashed | The windskiff is attached to the bracelet by an ethereal cord that keeps the vehicle within **30** feet.  If you fall from the windskiff while wearing the bracelet, you remain suspended while the windskiff continues to glide. |
-| Recovery | **Magic Action:** The ethereal cord retracts, pulling you to a standing position on the windskiff. |
+| Recovery | **Magic Action:** The ethereal cord retracts, propelling you to a standing position on the windskiff. |

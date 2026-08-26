@@ -1,1 +1,0 @@
-| [Mantle of Spell Resistance](/item/magic/rarity/rare/mantle-of-spell-resistance.md) | Clothing (Cloak) | Rare | Yes |

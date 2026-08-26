@@ -6,9 +6,9 @@
 |---|---|
 | Classes | Paladin |
 | Components | V |
-| Casting Time | Bonus Action, when you hit with a Melee Weapon Attack |
+| Casting Time | Bonus Action, after you hit with a Melee Weapon Attack |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | The target of the Attack |
 | Duration | 1 minute |
 
@@ -17,7 +17,7 @@
 You deal **3d8** Radiant Damage and blind the target.
 
 #### Ending Early
-Before a target's Turn ends, it makes a Fortitude Save.
+Before a Blinded target's Turn ends, it makes a Fortitude Save.
 
 | | |
 |---|---|

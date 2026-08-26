@@ -23,6 +23,6 @@ Choose **1** of the following forms:
 
 You conjure a **¼**-inch thick, Invisible barrier of magical force in the chosen form.
 
-The barrier has Immunity to all damage and can't be dispelled by _Dispel Magic_.  Nothing can pass through the barrier, including Attacks and other effects, and it also blocks teleportation and travel through the Ethereal Plane.
+The barrier has Immunity to all damage and can't be dispelled by another effect.  Nothing can pass through the barrier, including Attacks and other effects, and it also blocks teleportation and travel through the Ethereal Plane.
 
 Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.

@@ -1169,6 +1169,10 @@ body {
 .pm-footer a { color: var(--clr-accent); }
 .pm-footer a:hover { color: var(--clr-accent-alt); text-decoration: underline; }
 
+.md-typeset a {
+   font-weight: 700;
+}
+
 /* Content links underline on hover for clearer affordance. */
 .md-typeset a:hover {
   text-decoration: underline;

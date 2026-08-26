@@ -8,10 +8,15 @@
 | Components | S |
 | Casting Time | Reaction, when a creature casts a Spell with components |
 | Range | 60 ft. |
-| Area | |
-| Target | The casting Creature |
+| Area | — |
+| Target | The triggering Spell |
 | Duration | — |
 
 ---
 
-The Spell the target is casting fails if its Level is no higher than this Spell's. For a higher-Level Spell, make an Ability Check using your Spellcasting Ability against a DC of **10** plus that Level; on a success, that Spell fails.
+You make an Ability Check using your Spellcasting Ability _(DC **10 + the target's Spell Level**)_.  If the target's Spell Level is no higher than this Spell's, you automatically succeed.
+
+| | |
+|---|---|
+| Success | You counter the target. |
+| Fail | No effect. |

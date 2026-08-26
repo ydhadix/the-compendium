@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | Each Creature or Object you choose in a 15-ft. radius Sphere |
+| Area | A 15-ft. radius Sphere |
+| Target | Each Creature and Object you choose |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
-You gain Advantage on Fortitude Saves while in the area.
+While in the area, you gain Fortitude Protection.
 
 After a target enters the area _(including when this Spell is cast or the area moves)_, it makes a Reflex Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 

@@ -14,7 +14,7 @@
 
 ---
 
-You summon a Draconic Spirit Companion.
+You conjure a Draconic Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

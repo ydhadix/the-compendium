@@ -1,1 +1,1 @@
-| [Banishing Smite](/spell/level/3/banishing-smite.md) | Conjuration | V | Bonus Action | — | — | The target of the Attack | 1 minute (C) |
+| [Banishing Smite](/spell/level/3/banishing-smite.md) | Conjuration | V | Bonus Action | — | — | The target of the triggering Attack | 1 minute (C) |

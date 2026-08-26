@@ -16,7 +16,7 @@
 
 Choose Ghostly, Putrid, or Skeletal.
 
-You summon an Undead Spirit Companion.
+You conjure an Undead Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

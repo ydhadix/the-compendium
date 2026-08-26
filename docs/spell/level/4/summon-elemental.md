@@ -16,7 +16,7 @@
 
 Choose Air, Earth, Fire, or Water.
 
-You summon an Elemental Spirit Companion.
+You conjure an Elemental Spirit Companion.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.

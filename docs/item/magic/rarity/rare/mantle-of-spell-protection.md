@@ -1,4 +1,4 @@
-### Mantle of Spell Resistance
+### Mantle of Spell Protection
 Rare Clothing (Cloak), Attunement
 { .subtitle }
 

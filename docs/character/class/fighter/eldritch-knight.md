@@ -49,8 +49,8 @@ You can use your Pact Weapons as an Arcane Focus, and while not Incapacitated, y
 ##### Bond Weapon
 **Bonus Action:** You can turn a Weapon within your Reach into a Pact Weapon.
 
-##### Summon Weapon
-**Bonus Action:** You can summon one or both of your Pact Weapons to your hand(s).
+##### Recall Weapon
+**Bonus Action:** You can teleport one or both of your Pact Weapons to your hand(s).
 
 
 ### 3: Arcane Charge

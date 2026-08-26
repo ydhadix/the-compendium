@@ -4,7 +4,7 @@ source: /character/class/artificer/index.md#1-tradesman
 ---
 
 # Animated Assistant
-An **Animated Assistant** is a Companion you can summon as your Familiar with the Artificer's [Tradesman](/character/class/artificer/index.md#1-tradesman) feature.  These compact mechanical helpers are designed to help with storing, crafting, and infusing items.
+An **Animated Assistant** is a Companion you can conjure as your Familiar with the Artificer's [Tradesman](/character/class/artificer/index.md#1-tradesman) feature.  These compact mechanical helpers are designed to help with storing, crafting, and infusing items.
 { .subtitle }
 
 ### Animated Assistant

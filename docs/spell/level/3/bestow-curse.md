@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
@@ -19,7 +19,7 @@ Choose **1** of the following effects:
 | Effect | |
 |---|---|
 | Cowardice | After the target's Turn starts, it makes a Will Save; on a failure, it Dodges. |
-| Rot | After the target takes damage, you deal an additional **1d8** Necrotic Damage. |
+| Rot | Before the target takes damage, you add **1d8** Necrotic Damage. |
 | Sloth | Choose an Ability. The target gains Disadvantage on Checks and Saves using that Ability. |
 | Weakness | The target gains Disadvantage on Attack Rolls. |
 

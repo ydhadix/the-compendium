@@ -1,0 +1,1 @@
+| [Mantle of Spell Protection](/item/magic/rarity/rare/mantle-of-spell-protection.md) | Clothing (Cloak) | Rare | Yes |
