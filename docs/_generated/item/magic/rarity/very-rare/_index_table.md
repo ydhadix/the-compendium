@@ -43,9 +43,7 @@
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/efreeti-bottle_row.md"
---8<-- "_generated/item/magic/rarity/very-rare/enspelled-armor_row.md"
---8<-- "_generated/item/magic/rarity/very-rare/enspelled-staff_row.md"
---8<-- "_generated/item/magic/rarity/very-rare/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/enspelled-item_row.md"
 
 ## F { data-search-exclude }
 

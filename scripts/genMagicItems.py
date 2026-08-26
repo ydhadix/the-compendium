@@ -44,6 +44,8 @@ MIRROR_ROOT = C.MIRROR / "item/magic"
 CONSUMABLE_MARK = ", Consumable"
 # Attunement marks, as (subtitle mark, Attunement cell value). Ordered as the subtitle writes them.
 ATTUNE_MARKS = ((", Attunement", "Yes"), (", Harmonic", "Harmonic"))
+# Depth-0 joins between item categories on one card, longest first so ", or " wins over ", ".
+TYPE_SEPARATORS = (", or ", " or ", ", ")
 
 
 def rarityDisplay(rarity):
@@ -80,9 +82,34 @@ def attuneCell(body):
    return (value + " " + qualifier).strip() if value != "" else "No"
 
 
-def typeHead(itemType):
-   """The taxonomy head of an item type: 'Clothing (Jewelry)' -> 'Clothing'."""
-   return itemType.split(" (", 1)[0].strip()
+def typeHeads(itemType):
+   """Taxonomy heads of an item type, so an item spanning categories lists on each of their pages.
+
+   'Clothing (Jewelry)' -> ('Clothing',); 'Weapon (Any) or Armor (Any)' -> ('Weapon', 'Armor').
+   A separator inside the parenthetical joins subtypes rather than categories, so only splits at
+   paren depth 0 count: 'Weapon (Blade or Fence)' stays one head.
+   """
+   parts = []
+   depth = 0
+   start = 0
+   at = 0
+   while at < len(itemType):
+      if itemType[at] == "(":
+         depth = depth + 1
+      elif itemType[at] == ")":
+         depth = depth - 1
+      cut = ""
+      for separator in TYPE_SEPARATORS:
+         if cut == "" and depth == 0 and itemType.startswith(separator, at):
+            cut = separator
+      if cut == "":
+         at = at + 1
+      else:
+         parts.append(itemType[start:at])
+         at = at + len(cut)
+         start = at
+   parts.append(itemType[start:])
+   return tuple(p.split(" (", 1)[0].strip() for p in parts if p.strip() != "")
 
 
 def buildRow(card, rarity):
@@ -157,7 +184,10 @@ def readRecords():
 def unplacedTypes(records):
    """Type heads found on cards that no TYPES entry claims, so a new type can't go unlisted."""
    known = set(head for head, slug in TYPES)
-   return sorted(set(typeHead(rec.itemType) for rec in records) - known)
+   found = set()
+   for rec in records:
+      found.update(typeHeads(rec.itemType))
+   return sorted(found - known)
 
 
 def main():
@@ -167,7 +197,7 @@ def main():
       if len(rows) > 0:
          C.writeTable(RARITY_TABLE_DIR / rarity / C.TABLE_NAME, rarityTable(rows))
    for head, slug in TYPES:
-      rows = [rec for rec in records if typeHead(rec.itemType) == head]
+      rows = [rec for rec in records if head in typeHeads(rec.itemType)]
       C.writeTable(TYPE_TABLE_DIR / slug / C.TABLE_NAME, typeTable(rows))
    removed = C.pruneRows(MIRROR_ROOT, written)
    print(f"Magic items: wrote {len(written)} rows, pruned {removed}.")

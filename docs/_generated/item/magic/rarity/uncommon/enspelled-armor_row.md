@@ -1,1 +1,0 @@
-| [Enspelled Armor](/item/magic/rarity/uncommon/enspelled-armor.md) | Armor (Any) | Uncommon | Yes |

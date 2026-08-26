@@ -1,7 +1,7 @@
 **6** Charges (regain **1d6** per Day)
 { .subtitle }
 
-This weapon holds a single Conjuration, Divination, Evocation, Necromancy, or Transmutation Spell.  The Spell Level determines this weapon's rarity, Spell Save DC, and Spell Attack Bonus.
+This item holds a single Spell.  The Spell Level determines this item's rarity, Spell Save DC, and Spell Attack Bonus.
 
 | Rarity | Spell Level | Spell Save DC | Spell Attack Bonus |
 |---|---|---|---|
@@ -13,4 +13,4 @@ This weapon holds a single Conjuration, Divination, Evocation, Necromancy, or Tr
 ---
 
 ##### Cast
-**Magic Action; 1 Charge:** You can cast the weapon's Spell.
+**Magic Action; 1 Charge:** You can cast the item's Spell.

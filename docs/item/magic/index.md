@@ -41,6 +41,11 @@ An item regains Charges each Day, either a fixed number or a rolled amount noted
 ### Command Words
 A **Command Word** is a word or phrase you must audibly speak aloud to use some of this item's effects, similar to a Spell's Verbal Component.
 
+### Overlapping Infusions
+You only gain the benefits of **1** Infusion with the same name at a time.
+
+Some Infusions give each copy a quality of its own, such as an Ioun Stone's Type or an Item of Resistance's Damage Type.  Each value of that quality counts as a separate Infusion, so an Item of Resistance (Cold) and an Item of Resistance (Fire) grant both Resistances.
+
 ### Cursed Items
 **Cursed** items have a hidden, usually detrimental effect. Most methods of identifying an item don't reveal its curse.
 

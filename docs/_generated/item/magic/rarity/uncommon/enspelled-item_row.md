@@ -1,0 +1,1 @@
+| [Enspelled Item](/item/magic/rarity/uncommon/enspelled-item.md) | Weapon (Any) or Armor (Any) | Uncommon | Yes |

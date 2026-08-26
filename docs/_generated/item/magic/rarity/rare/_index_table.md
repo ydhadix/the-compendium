@@ -59,9 +59,7 @@
 --8<-- "_generated/item/magic/rarity/rare/ebony-fly-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/energy-bow_row.md"
 --8<-- "_generated/item/magic/rarity/rare/engineers-greatcoat_row.md"
---8<-- "_generated/item/magic/rarity/rare/enspelled-armor_row.md"
---8<-- "_generated/item/magic/rarity/rare/enspelled-staff_row.md"
---8<-- "_generated/item/magic/rarity/rare/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/rarity/rare/enspelled-item_row.md"
 --8<-- "_generated/item/magic/rarity/rare/essence-shard_row.md"
 --8<-- "_generated/item/magic/rarity/rare/executioners-axe_row.md"
 

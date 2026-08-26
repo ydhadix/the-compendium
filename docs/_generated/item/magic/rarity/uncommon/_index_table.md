@@ -62,9 +62,7 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/elemental-gem_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/elven-chain_row.md"
---8<-- "_generated/item/magic/rarity/uncommon/enspelled-armor_row.md"
---8<-- "_generated/item/magic/rarity/uncommon/enspelled-staff_row.md"
---8<-- "_generated/item/magic/rarity/uncommon/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/enspelled-item_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/eversmoking-bottle_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/evokers-exchange_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/eyes-of-charming_row.md"

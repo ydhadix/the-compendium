@@ -1,1 +1,0 @@
-| [Enspelled Weapon](/item/magic/rarity/very-rare/enspelled-weapon.md) | Weapon (Any) | Very Rare | Yes |

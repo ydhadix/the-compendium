@@ -1,6 +1,6 @@
 <div data-search-exclude markdown="1">
 
-Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · Artifact · [Unique](#unique) · Cursed
+Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · Legendary · Artifact · [Unique](#unique) · Cursed
 { .keyword-jump }
 
 </div>
@@ -23,7 +23,6 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rarity/uncommon/enspelled-staff_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/psi-crystal_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/wand-of-magic-detection_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/wand-of-magic-missiles_row.md"
@@ -35,7 +34,6 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/amulet-of-ideals_row.md"
---8<-- "_generated/item/magic/rarity/rare/enspelled-staff_row.md"
 --8<-- "_generated/item/magic/rarity/rare/essence-shard_row.md"
 --8<-- "_generated/item/magic/rarity/rare/rod-of-rulership_row.md"
 --8<-- "_generated/item/magic/rarity/rare/tentacle-rod_row.md"
@@ -52,17 +50,10 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/crystal-ball_row.md"
---8<-- "_generated/item/magic/rarity/very-rare/enspelled-staff_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/rod-of-absorption_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/rod-of-alertness_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/rod-of-security_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/wand-of-polymorph_row.md"
-
-## Legendary { data-search-exclude }
-
-| Item | Type | Rarity | Attunement |
-|---|---|---|---|
---8<-- "_generated/item/magic/rarity/legendary/enspelled-staff_row.md"
 
 ## Unique { data-search-exclude }
 

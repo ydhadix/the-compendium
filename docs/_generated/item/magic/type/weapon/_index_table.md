@@ -23,7 +23,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/uncommon/champions-weapon_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/dagger-of-venom_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/dragon-slayer_row.md"
---8<-- "_generated/item/magic/rarity/uncommon/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/enspelled-item_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/giant-slayer_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/javelin-of-lightning_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/staff-of-the-adder_row.md"
@@ -47,7 +47,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/champions-greatbow_row.md"
 --8<-- "_generated/item/magic/rarity/rare/dwarven-thrower_row.md"
 --8<-- "_generated/item/magic/rarity/rare/energy-bow_row.md"
---8<-- "_generated/item/magic/rarity/rare/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/rarity/rare/enspelled-item_row.md"
 --8<-- "_generated/item/magic/rarity/rare/executioners-axe_row.md"
 --8<-- "_generated/item/magic/rarity/rare/flame-tongue_row.md"
 --8<-- "_generated/item/magic/rarity/rare/frost-brand_row.md"
@@ -75,7 +75,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/ammunition-of-slaying_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/dancing-sword_row.md"
---8<-- "_generated/item/magic/rarity/very-rare/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/enspelled-item_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/frostburn-weapon_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/hammer-of-polarity_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/lute-of-thunderous-thumping_row.md"
@@ -91,7 +91,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rarity/legendary/enspelled-weapon_row.md"
+--8<-- "_generated/item/magic/rarity/legendary/enspelled-item_row.md"
 
 ## Cursed { data-search-exclude }
 
