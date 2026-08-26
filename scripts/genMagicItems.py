@@ -8,8 +8,9 @@ would not fill a letter rail. The type axis renders rarity sections behind a rar
 exported so a class feature's item list can cherry-pick them.
 
 Row schema: | Item | Type | Rarity | Attunement |. Type and Attunement are parsed out of the
-subtitle, whose form is `<Rarity> <Type>[, Consumable][, Attunement[ <qualifier>]]`; Rarity comes
-from the card's folder.
+subtitle, whose form is `<Rarity> <Type>[, Consumable][, Attunement|Harmonic[ <qualifier>]]`;
+Rarity comes from the card's folder. Attunement is three-valued, since a Harmonic infusion
+requires attunement without occupying an Attunement Slot.
 """
 
 from collections import namedtuple
@@ -40,8 +41,9 @@ ITEM_ROOT = C.DOCS / "item/magic/rarity"
 RARITY_TABLE_DIR = C.MIRROR / "item/magic/rarity"
 TYPE_TABLE_DIR = C.MIRROR / "item/magic/type"
 MIRROR_ROOT = C.MIRROR / "item/magic"
-ATTUNE_MARK = ", Attunement"
 CONSUMABLE_MARK = ", Consumable"
+# Attunement marks, as (subtitle mark, Attunement cell value). Ordered as the subtitle writes them.
+ATTUNE_MARKS = ((", Attunement", "Yes"), (", Harmonic", "Harmonic"))
 
 
 def rarityDisplay(rarity):
@@ -55,18 +57,27 @@ def subtitleBody(card, rarity):
    return card.subtitle[len(prefix):] if card.subtitle.startswith(prefix) else card.subtitle
 
 
+def attuneSplit(body):
+   """Subtitle body split at its attunement mark: (type, cell value, qualifier); value '' when absent."""
+   found = (body.strip(), "", "")
+   for mark, value in ATTUNE_MARKS:
+      if found[1] == "" and mark in body:
+         head, tail = body.split(mark, 1)
+         found = (head.strip(), value, tail.strip())
+   return found
+
+
 def typeCell(body):
-   """Item type: the subtitle body up to the Attunement mark, sans a trailing Consumable mark."""
-   rawType = (body.split(ATTUNE_MARK, 1)[0] if ATTUNE_MARK in body else body).strip()
+   """Item type: the subtitle body up to the attunement mark, sans a trailing Consumable mark."""
+   rawType = attuneSplit(body)[0]
    trimmed = rawType[:-len(CONSUMABLE_MARK)] if rawType.endswith(CONSUMABLE_MARK) else rawType
    return trimmed.strip()
 
 
 def attuneCell(body):
-   """Attunement cell: 'No', or 'Yes' plus any qualifier after the Attunement mark."""
-   hasAttune = ATTUNE_MARK in body
-   qualifier = body.split(ATTUNE_MARK, 1)[1].strip() if hasAttune else ""
-   return ("Yes " + qualifier).strip() if hasAttune else "No"
+   """Attunement cell: 'No', or the attunement kind plus any qualifier after its mark."""
+   rawType, value, qualifier = attuneSplit(body)
+   return (value + " " + qualifier).strip() if value != "" else "No"
 
 
 def typeHead(itemType):

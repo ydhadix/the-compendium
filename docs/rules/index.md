@@ -268,6 +268,7 @@
 | [Halfling](/bestiary/index.md#standard-languages) | Standard Language |
 | [Halfling](/character/race/halfling.md) | Race |
 | [Hammer](/item/weapon.md#martial-weapons) | Martial Weapon |
+| [Harmonic](/item/magic/index.md#harmonic-infusions) | Attunement |
 | [Hat](/item/gear/clothing/index.md) | Clothing |
 | [Hazard](/rules/hazard.md) | Adventuring |
 | [Heavily Obscured](/rules/target/sight.md#obscurement) | Visibility |

@@ -90,3 +90,6 @@ The Value of a Masterwork item is the item's base value, plus the value of each 
 
 #### Crafting Requirements
 Masterwork increases the value of an item, but not the amount of Time required to craft it.  Crafting a Masterwork bonus requires Expertise in the item's corresponding Artisan's Tool and a minimum Character Level based on the bonus.
+
+#### Improving Masterwork
+Increasing an item's Masterwork bonus requires **5** Days of work and costs the difference between its current bonus and its new bonus.

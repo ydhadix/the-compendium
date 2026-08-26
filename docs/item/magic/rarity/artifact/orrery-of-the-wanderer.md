@@ -1,5 +1,5 @@
 # Orrery of the Wanderer
-Artifact Wondrous Item, Attunement
+Artifact Wondrous Item, Harmonic
 { .subtitle }
 
 ---
@@ -19,6 +19,8 @@ This hollow, golden shell contains the framework necessary to connect the other 
 You can spend **1** hour to install or remove a component from the chassis, provided you have Proficiency in Tinker's Tools.
 
 #### Component Hub
+While you are attuned to components installed in the chassis, **1** of them is Harmonic _(you choose which)_.
+
 While attuned to a component installed in the chassis, being away from the component doesn't end your attunement to it.
 
 After you finish a Short Rest within **1** mile of the chassis, you can change your attunement to a different component that isn't attuned to another creature.

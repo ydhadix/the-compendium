@@ -142,7 +142,7 @@ Your subclass grants you a feature at this level.
 
 ### 4: Magic Item Adept
 #### Extra Attunement
-You gain an additional Attunement slot.
+You gain an additional Attunement Slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
@@ -171,7 +171,7 @@ Your subclass grants you an additional feature.
 
 ### 7: Magic Item Expert
 #### Extra Attunement
-You gain an additional Attunement slot.
+You gain an additional Attunement Slot.
 #### Universal Attunement
 You ignore all Class, Race, Spell, and Level requirements to use or Attune to Magic Items.
 #### Additional Infusions
@@ -197,7 +197,7 @@ Your subclass grants you an additional feature.
 
 ### 10: Magic Item Master
 #### Extra Attunement
-You gain an additional Attunement slot.
+You gain an additional Attunement Slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
@@ -211,7 +211,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 ### 11: Soul of Artifice
 #### Attunement Shield
-Your Saving Throws increase by **1** for each Magic Item you're Attuned to.
+Your Saving Throws increase by **1** for each Attunement Slot you're using.
 ##### Emergency Fail-Safe
 **Free Action; 1 [Infused Item](#1-infuse-items):** Before you would drop to **0** Hit Points or be killed, you can set your Hit Points to **half your Hit Point Maximum** instead.
 
