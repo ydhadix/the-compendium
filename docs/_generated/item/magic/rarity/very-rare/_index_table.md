@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · G · [H](#h) · [I](#i) · J · K · [L](#l) · [M](#m) · N · [O](#o) · P · Q · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -9,7 +13,7 @@
 --8<-- "_generated/item/magic/rarity/very-rare/amulet-of-the-planes_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/animated-shield_row.md"
 
-## B
+## B { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -17,7 +21,7 @@
 --8<-- "_generated/item/magic/rarity/very-rare/belt-of-giant-strength_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/boots-of-glacierpress_row.md"
 
-## C
+## C { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -28,13 +32,13 @@
 --8<-- "_generated/item/magic/rarity/very-rare/collar-of-power_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/crystal-ball_row.md"
 
-## D
+## D { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/dancing-sword_row.md"
 
-## E
+## E { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -43,13 +47,13 @@
 --8<-- "_generated/item/magic/rarity/very-rare/enspelled-staff_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/enspelled-weapon_row.md"
 
-## F
+## F { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/frostburn-weapon_row.md"
 
-## H
+## H { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -59,20 +63,20 @@
 --8<-- "_generated/item/magic/rarity/very-rare/horn-of-valhalla_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/horseshoes-of-a-zephyr_row.md"
 
-## I
+## I { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/instrument-of-the-bards_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/ioun-stone_row.md"
 
-## L
+## L { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/lute-of-thunderous-thumping_row.md"
 
-## M
+## M { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -80,14 +84,14 @@
 --8<-- "_generated/item/magic/rarity/very-rare/marvelous-pigments_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/mirror-of-life-trapping_row.md"
 
-## O
+## O { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/oathbow_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/obsidian-steed-figurine_row.md"
 
-## R
+## R { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -100,7 +104,7 @@
 --8<-- "_generated/item/magic/rarity/very-rare/rod-of-alertness_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/rod-of-security_row.md"
 
-## S
+## S { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -111,14 +115,14 @@
 --8<-- "_generated/item/magic/rarity/very-rare/staff-of-the-woodlands_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/sword-of-sharpness_row.md"
 
-## T
+## T { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/thunderous-greatclub_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/tome-of-mastery_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

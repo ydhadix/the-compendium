@@ -1,19 +1,23 @@
+<div data-search-exclude markdown="1">
+
 0-9 · A · [B](#b) · C · [D](#d) · E · F · [G](#g) · H · I · J · K · [L](#l) · M · N · O · P · Q · R · S · [T](#t) · U · V · W · X · Y · Z
 { .keyword-jump }
 
-## B
+</div>
+
+## B { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/4/brown-bear_row.md"
 
-## D
+## D { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/4/dire-wolf_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
@@ -23,13 +27,13 @@
 --8<-- "_generated/bestiary/level/4/giant-spider_row.md"
 --8<-- "_generated/bestiary/level/4/giant-toad_row.md"
 
-## L
+## L { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/4/lion_row.md"
 
-## T
+## T { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

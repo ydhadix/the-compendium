@@ -15,6 +15,12 @@ MIRROR = DOCS / "_generated"
 
 BLANK = "—"
 SUBTITLE_TAG = "{ .subtitle }"
+# Markers that keep an index table's rows out of Material's search index, so a hub page is found
+# by its own name rather than by the per-entry metadata it repeats.
+SEARCH_EXCLUDE_OPEN = '<div data-search-exclude markdown="1">'
+SEARCH_EXCLUDE_CLOSE = "</div>"
+SEARCH_EXCLUDE_ATTR = " { data-search-exclude }"
+SECTION_MARK = "## "
 ROW_SUFFIX = "_row.md"
 LIST_NAME = "_list.md"
 TABLE_NAME = "_index_table.md"
@@ -203,6 +209,24 @@ def writeText(path, text):
    """Write text to a path, creating parent folders."""
    path.parent.mkdir(parents=True, exist_ok=True)
    path.write_text(text, encoding="utf-8")
+
+
+def writeTable(path, text):
+   """Write an index-table aggregate so its rows stay out of the search index.
+
+   Section headings take the exclude attribute, which drops the heading's entry along with the
+   rows under it. A heading left inside the wrapper div would instead survive as an empty entry
+   carrying the page's title, so the div covers only the preamble, which has no heading to tag.
+   """
+   lines = text.rstrip("\n").split("\n")
+   heads = [i for i, line in enumerate(lines) if line.startswith(SECTION_MARK)]
+   split = heads[0] if len(heads) > 0 else len(lines)
+   preamble = "\n".join(lines[:split]).strip("\n")
+   body = [line + SEARCH_EXCLUDE_ATTR if i in heads else line for i, line in enumerate(lines)][split:]
+   parts = []
+   if preamble != "":
+      parts = [SEARCH_EXCLUDE_OPEN, "", preamble, "", SEARCH_EXCLUDE_CLOSE, ""]
+   writeText(path, "\n".join(parts + body).strip("\n") + "\n")
 
 
 def includeOf(docsPath):

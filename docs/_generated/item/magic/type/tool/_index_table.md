@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 Rarity · Common · [Uncommon](#uncommon) · Rare · Very Rare · Legendary · Artifact · Unique · Cursed
 { .keyword-jump }
 
-## Uncommon
+</div>
+
+## Uncommon { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

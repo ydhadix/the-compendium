@@ -165,10 +165,10 @@ def main():
    for rarity in RARITIES:
       rows = [rec for rec in records if rec.rarity == rarity]
       if len(rows) > 0:
-         C.writeText(RARITY_TABLE_DIR / rarity / C.TABLE_NAME, rarityTable(rows))
+         C.writeTable(RARITY_TABLE_DIR / rarity / C.TABLE_NAME, rarityTable(rows))
    for head, slug in TYPES:
       rows = [rec for rec in records if typeHead(rec.itemType) == head]
-      C.writeText(TYPE_TABLE_DIR / slug / C.TABLE_NAME, typeTable(rows))
+      C.writeTable(TYPE_TABLE_DIR / slug / C.TABLE_NAME, typeTable(rows))
    removed = C.pruneRows(MIRROR_ROOT, written)
    print(f"Magic items: wrote {len(written)} rows, pruned {removed}.")
    for head in unplacedTypes(records):

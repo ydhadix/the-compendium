@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · Artifact · Unique · [Cursed](#cursed)
 { .keyword-jump }
 
-## Common
+</div>
+
+## Common { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -12,7 +16,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/common/veterans-cane_row.md"
 --8<-- "_generated/item/magic/rarity/common/walloping-ammunition_row.md"
 
-## Uncommon
+## Uncommon { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -35,7 +39,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/uncommon/weapon-of-smiting_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/weapon-of-warning_row.md"
 
-## Rare
+## Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -65,7 +69,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/weapon-of-disruption_row.md"
 --8<-- "_generated/item/magic/rarity/rare/weapon-of-terror_row.md"
 
-## Very Rare
+## Very Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -83,13 +87,13 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/very-rare/sword-of-sharpness_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/thunderous-greatclub_row.md"
 
-## Legendary
+## Legendary { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/legendary/enspelled-weapon_row.md"
 
-## Cursed
+## Cursed { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

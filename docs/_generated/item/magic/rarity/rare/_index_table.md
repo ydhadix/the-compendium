@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · J · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · U · [V](#v) · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -9,7 +13,7 @@
 --8<-- "_generated/item/magic/rarity/rare/amulet-of-ideals_row.md"
 --8<-- "_generated/item/magic/rarity/rare/arrow-catching-shield_row.md"
 
-## B
+## B { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -26,7 +30,7 @@
 --8<-- "_generated/item/magic/rarity/rare/bracers-of-defense_row.md"
 --8<-- "_generated/item/magic/rarity/rare/bronze-griffon-figurine_row.md"
 
-## C
+## C { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -38,7 +42,7 @@
 --8<-- "_generated/item/magic/rarity/rare/cube-of-force_row.md"
 --8<-- "_generated/item/magic/rarity/rare/cube-of-summoning_row.md"
 
-## D
+## D { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -48,7 +52,7 @@
 --8<-- "_generated/item/magic/rarity/rare/dwarven-plate_row.md"
 --8<-- "_generated/item/magic/rarity/rare/dwarven-thrower_row.md"
 
-## E
+## E { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -61,7 +65,7 @@
 --8<-- "_generated/item/magic/rarity/rare/essence-shard_row.md"
 --8<-- "_generated/item/magic/rarity/rare/executioners-axe_row.md"
 
-## F
+## F { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -69,7 +73,7 @@
 --8<-- "_generated/item/magic/rarity/rare/folding-boat_row.md"
 --8<-- "_generated/item/magic/rarity/rare/frost-brand_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -79,7 +83,7 @@
 --8<-- "_generated/item/magic/rarity/rare/golden-lions-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gossipers-ear-cuff_row.md"
 
-## H
+## H { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -90,7 +94,7 @@
 --8<-- "_generated/item/magic/rarity/rare/horn-of-valhalla_row.md"
 --8<-- "_generated/item/magic/rarity/rare/horseshoes-of-speed_row.md"
 
-## I
+## I { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -101,20 +105,20 @@
 --8<-- "_generated/item/magic/rarity/rare/item-of-resistance_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ivory-goats-figurine_row.md"
 
-## K
+## K { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/kinetic-bow_row.md"
 
-## L
+## L { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/lantern-of-the-frost-watch_row.md"
 --8<-- "_generated/item/magic/rarity/rare/lightning-khopesh_row.md"
 
-## M
+## M { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -122,7 +126,7 @@
 --8<-- "_generated/item/magic/rarity/rare/marble-elephant-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/molten-skin_row.md"
 
-## N
+## N { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -130,26 +134,26 @@
 --8<-- "_generated/item/magic/rarity/rare/necklace-of-prayer-beads_row.md"
 --8<-- "_generated/item/magic/rarity/rare/nine-lives-stealer_row.md"
 
-## O
+## O { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/onyx-dog-figurine_row.md"
 
-## P
+## P { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/periapt-of-proof-against-poison_row.md"
 --8<-- "_generated/item/magic/rarity/rare/portable-hole_row.md"
 
-## Q
+## Q { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/quarterstaff-of-the-acrobat_row.md"
 
-## R
+## R { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -166,7 +170,7 @@
 --8<-- "_generated/item/magic/rarity/rare/rod-of-rulership_row.md"
 --8<-- "_generated/item/magic/rarity/rare/rope-of-entanglement_row.md"
 
-## S
+## S { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -183,21 +187,21 @@
 --8<-- "_generated/item/magic/rarity/rare/sword-of-life-stealing_row.md"
 --8<-- "_generated/item/magic/rarity/rare/sword-of-wounding_row.md"
 
-## T
+## T { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/tentacle-rod_row.md"
 --8<-- "_generated/item/magic/rarity/rare/two-birds-weapon_row.md"
 
-## V
+## V { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/vessel-of-commanding-elementals_row.md"
 --8<-- "_generated/item/magic/rarity/rare/vicious-weapon_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

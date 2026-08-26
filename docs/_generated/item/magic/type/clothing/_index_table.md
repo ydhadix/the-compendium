@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · Artifact · Unique · Cursed
 { .keyword-jump }
 
-## Common
+</div>
+
+## Common { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -13,7 +17,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/common/hat-of-vermin_row.md"
 --8<-- "_generated/item/magic/rarity/common/wraps-of-unarmed-power_row.md"
 
-## Uncommon
+## Uncommon { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -63,7 +67,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/uncommon/stone-of-good-luck_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/winged-boots_row.md"
 
-## Rare
+## Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -101,7 +105,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/windskiff-bracelet_row.md"
 --8<-- "_generated/item/magic/rarity/rare/wings-of-flying_row.md"
 
-## Very Rare
+## Very Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -118,7 +122,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/very-rare/robe-of-scintillating-colors_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/robe-of-stars_row.md"
 
-## Legendary
+## Legendary { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

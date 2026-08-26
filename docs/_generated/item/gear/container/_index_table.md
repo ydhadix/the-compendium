@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 | Item | Type | Value |
 |---|---|---|
 --8<-- "_generated/item/gear/container/backpack_row.md"
@@ -16,3 +18,5 @@
 --8<-- "_generated/item/gear/container/sack_row.md"
 --8<-- "_generated/item/gear/container/vial_row.md"
 --8<-- "_generated/item/gear/container/waterskin_row.md"
+
+</div>

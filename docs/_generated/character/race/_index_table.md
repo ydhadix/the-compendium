@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 | Race | Abilities | Creature Type | Size | Speed | Reach | Hit Points | Senses |
 |---|---|---|---|---|---|---|---|
 | [Aasimar](/character/race/aasimar.md) | CON + **1** | Humanoid<br>& Celestial | — | **30** ft. | **5** ft. | **8** | Darkvision _(**60** ft.)_ |
@@ -11,3 +13,5 @@
 | [Prime](/character/race/prime.md) | Choose **2** | Humanoid | — | **30** ft. | **5** ft. | **8** | — |
 | [Synth](/character/race/synth.md) | CON + **1** | Humanoid<br>& Construct | — | **30** ft. | **5** ft. | **10** | — |
 | [Tiefling](/character/race/tiefling.md) | CON + **1** | Humanoid<br>& Fiend | — | **30** ft. | **5** ft. | **8** | Darkvision _(**60** ft.)_ |
+
+</div>

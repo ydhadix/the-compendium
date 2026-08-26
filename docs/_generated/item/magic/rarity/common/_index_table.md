@@ -1,19 +1,23 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · F · G · [H](#h) · [I](#i) · J · K · [L](#l) · [M](#m) · N · [O](#o) · [P](#p) · Q · [R](#r) · [S](#s) · [T](#t) · U · [V](#v) · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/armor-of-gleaming_row.md"
 
-## B
+## B { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/boots-of-false-tracks_row.md"
 
-## C
+## C { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -25,14 +29,14 @@
 --8<-- "_generated/item/magic/rarity/common/clockwork-amulet_row.md"
 --8<-- "_generated/item/magic/rarity/common/clothes-of-mending_row.md"
 
-## D
+## D { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/dark-shard-amulet_row.md"
 --8<-- "_generated/item/magic/rarity/common/dread-helm_row.md"
 
-## E
+## E { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -40,7 +44,7 @@
 --8<-- "_generated/item/magic/rarity/common/enduring-spellbook_row.md"
 --8<-- "_generated/item/magic/rarity/common/ersatz-eye_row.md"
 
-## H
+## H { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -49,20 +53,20 @@
 --8<-- "_generated/item/magic/rarity/common/hat-of-wizardry_row.md"
 --8<-- "_generated/item/magic/rarity/common/horn-of-silent-alarm_row.md"
 
-## I
+## I { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/instrument-of-illusions_row.md"
 --8<-- "_generated/item/magic/rarity/common/instrument-of-scribing_row.md"
 
-## L
+## L { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/lock-of-trickery_row.md"
 
-## M
+## M { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -70,14 +74,14 @@
 --8<-- "_generated/item/magic/rarity/common/moon-touched-sword_row.md"
 --8<-- "_generated/item/magic/rarity/common/mystery-key_row.md"
 
-## O
+## O { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/orb-of-direction_row.md"
 --8<-- "_generated/item/magic/rarity/common/orb-of-time_row.md"
 
-## P
+## P { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -87,7 +91,7 @@
 --8<-- "_generated/item/magic/rarity/common/pot-of-awakening_row.md"
 --8<-- "_generated/item/magic/rarity/common/prosthetic-limb_row.md"
 
-## R
+## R { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -96,7 +100,7 @@
 --8<-- "_generated/item/magic/rarity/common/rope-of-mending_row.md"
 --8<-- "_generated/item/magic/rarity/common/ruby-of-the-war-mage_row.md"
 
-## S
+## S { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -106,20 +110,20 @@
 --8<-- "_generated/item/magic/rarity/common/staff-of-birdcalls_row.md"
 --8<-- "_generated/item/magic/rarity/common/staff-of-flowers_row.md"
 
-## T
+## T { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/talking-doll_row.md"
 --8<-- "_generated/item/magic/rarity/common/tankard-of-sobriety_row.md"
 
-## V
+## V { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/veterans-cane_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

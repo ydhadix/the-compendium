@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 - Durations with `(C)` require Concentration.
 
 | Protocol | Level | Base Spell | Activation Time | Range | Target | Duration |
@@ -14,3 +16,5 @@
 --8<-- "_generated/spelljammer/officer/spelljammer/phase-drive_row.md"
 --8<-- "_generated/spelljammer/officer/spelljammer/cloaking-device_row.md"
 --8<-- "_generated/spelljammer/officer/spelljammer/aether-cannon_row.md"
+
+</div>

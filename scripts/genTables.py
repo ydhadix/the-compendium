@@ -225,7 +225,7 @@ def buildSpec(spec):
       byFolder.setdefault(card.path.parent, []).append((card, row))
    for folder, entries in byFolder.items():
       mirrorFolder = C.MIRROR / folder.relative_to(C.DOCS)
-      C.writeText(mirrorFolder / C.TABLE_NAME, folderTable(spec, entries))
+      C.writeTable(mirrorFolder / C.TABLE_NAME, folderTable(spec, entries))
    removedRows = 0
    removedBodies = 0
    for root in spec.pruneRoots:

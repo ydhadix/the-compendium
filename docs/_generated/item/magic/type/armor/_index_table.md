@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · Artifact · Unique · [Cursed](#cursed)
 { .keyword-jump }
 
-## Common
+</div>
+
+## Common { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -9,7 +13,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/common/cast-off-armor_row.md"
 --8<-- "_generated/item/magic/rarity/common/smoldering-armor_row.md"
 
-## Uncommon
+## Uncommon { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -19,7 +23,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/uncommon/enspelled-armor_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/glamoured-armor_row.md"
 
-## Rare
+## Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -28,19 +32,19 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/enspelled-armor_row.md"
 --8<-- "_generated/item/magic/rarity/rare/molten-skin_row.md"
 
-## Very Rare
+## Very Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/enspelled-armor_row.md"
 
-## Legendary
+## Legendary { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/legendary/enspelled-armor_row.md"
 
-## Cursed
+## Cursed { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

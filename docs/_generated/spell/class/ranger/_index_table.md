@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
 { .keyword-jump }
 
@@ -5,7 +7,9 @@ Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
 - Cast Times with `(R)` can be cast as a Ritual.
 - Durations with `(C)` require Concentration.
 
-## 1st-Level
+</div>
+
+## 1st-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -35,7 +39,7 @@ Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
 --8<-- "_generated/spell/level/1/speak-with-animals_row.md"
 --8<-- "_generated/spell/level/1/zephyr-strike_row.md"
 
-## 2nd-Level
+## 2nd-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -55,7 +59,7 @@ Spell Level · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level)
 --8<-- "_generated/spell/level/2/spike-growth_row.md"
 --8<-- "_generated/spell/level/2/summon-beast_row.md"
 
-## 3rd-Level
+## 3rd-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|

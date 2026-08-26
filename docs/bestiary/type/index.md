@@ -1,5 +1,7 @@
 # Bestiary by Creature Type
 
+<div data-search-exclude markdown="1">
+
 | Creature Type | |
 |---|---|
 | [Aberration](aberration.md) | **Aberrations** are alien creatures from beyond the physical realms, warped in body and mind. Their forms defy anatomy, their motives defy understanding, and few who meet one come away unchanged. |
@@ -16,3 +18,5 @@
 | [Ooze](ooze.md) | **Oozes** are amorphous masses that slither, seep, and engulf. Most lack true minds, driven by nothing but the urge to consume whatever they touch. |
 | [Plant](plant.md) | **Plants** are vegetal creatures and fungal growths given strange life. Some root in place and wait, while others walk, hunt, and hunger like any predator. |
 | [Undead](undead.md) | **Undead** are once-living creatures returned by necromancy or a will too restless for the grave. They shamble, hunger, and crave the living they can no longer join. |
+
+</div>

@@ -1,13 +1,17 @@
+<div data-search-exclude markdown="1">
+
 Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · Legendary · Artifact · Unique · [Cursed](#cursed)
 { .keyword-jump }
 
-## Common
+</div>
+
+## Common { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/common/shield-of-expression_row.md"
 
-## Uncommon
+## Uncommon { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -16,21 +20,21 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/uncommon/shield-of-protectors_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/shield-of-repulsion_row.md"
 
-## Rare
+## Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/arrow-catching-shield_row.md"
 --8<-- "_generated/item/magic/rarity/rare/shield-of-the-cavalier_row.md"
 
-## Very Rare
+## Very Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/animated-shield_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/spellguard-shield_row.md"
 
-## Cursed
+## Cursed { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

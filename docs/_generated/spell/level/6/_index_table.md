@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 - Components with `($)` require valuable components. Components with `($C)` consume those components.
 - Cast Times with `(R)` can be cast as a Ritual.
 - Durations with `(C)` require Concentration.
@@ -38,3 +40,5 @@
 --8<-- "_generated/spell/level/6/wall-of-thorns_row.md"
 --8<-- "_generated/spell/level/6/wind-walk_row.md"
 --8<-- "_generated/spell/level/6/word-of-recall_row.md"
+
+</div>

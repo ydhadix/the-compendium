@@ -1,50 +1,54 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · [B](#b) · C · D · [E](#e) · [F](#f) · [G](#g) · H · I · J · K · L · M · N · O · P · Q · R · S · [T](#t) · [U](#u) · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/air-elemental_row.md"
 
-## B
+## B { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/bulette_row.md"
 
-## E
+## E { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/earth-elemental_row.md"
 
-## F
+## F { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/fire-elemental_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/giant-crocodile_row.md"
 --8<-- "_generated/bestiary/level/8/giant-shark_row.md"
 
-## T
+## T { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/triceratops_row.md"
 
-## U
+## U { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/8/umber-hulk_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

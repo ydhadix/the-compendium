@@ -195,7 +195,7 @@ def buildLeveled():
          levelRecords.append((card.title, include))
          for t in creatureTypesOf(card.text):
             byType[t].append((levelNum, card.title, include))
-      C.writeText(MIRROR_ROOT / "level" / folder.name / C.TABLE_NAME, C.letterGrouped(LEVEL_HEADER, levelRecords))
+      C.writeTable(MIRROR_ROOT / "level" / folder.name / C.TABLE_NAME, C.letterGrouped(LEVEL_HEADER, levelRecords))
    return (rows, bodies, byType)
 
 
@@ -209,14 +209,14 @@ def buildSummons():
       rows.append(C.writeRowSnippet(path, summonRow(card)))
       bodies.extend(writeBodies(card))
       records.append((card.title, C.rowInclude(path)))
-   C.writeText(MIRROR_ROOT / "summon" / C.TABLE_NAME, C.letterGrouped(SUMMON_HEADER, records))
+   C.writeTable(MIRROR_ROOT / "summon" / C.TABLE_NAME, C.letterGrouped(SUMMON_HEADER, records))
    return (rows, bodies)
 
 
 def main():
    leveledRows, leveledBodies, byType = buildLeveled()
    for t in CREATURE_TYPES:
-      C.writeText(MIRROR_ROOT / "type" / t.lower() / C.TABLE_NAME, levelGrouped(LEVEL_HEADER, byType[t]))
+      C.writeTable(MIRROR_ROOT / "type" / t.lower() / C.TABLE_NAME, levelGrouped(LEVEL_HEADER, byType[t]))
    summonRows, summonBodies = buildSummons()
    rows = leveledRows + summonRows
    bodies = leveledBodies + summonBodies

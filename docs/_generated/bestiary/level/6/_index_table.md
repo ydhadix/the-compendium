@@ -1,44 +1,48 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · B · C · D · E · F · [G](#g) · H · I · J · [K](#k) · L · [M](#m) · [N](#n) · [O](#o) · P · Q · R · S · T · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/6/ankylosaurus_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/6/giant-scorpion_row.md"
 
-## K
+## K { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/6/killer-whale_row.md"
 
-## M
+## M { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/6/mummy_row.md"
 
-## N
+## N { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/6/neogi_row.md"
 --8<-- "_generated/bestiary/level/6/nightmare_row.md"
 
-## O
+## O { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/6/owlbear_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

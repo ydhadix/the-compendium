@@ -2,6 +2,8 @@
 Dark elves prefer names that flow off the tongue, though theirs carry a harsher sound.
 { .subtitle }
 
+<div data-search-exclude markdown="1">
+
 A dark elf name draws on a tradition of millennia of evil, and a surface-dwelling dark elf may carry a name that is harsher than their own nature. It is equally possible for a surface dweller to adopt a mix of both traditions. As this set of tables cannot possibly represent every name available to them, this list combined with the [elven name generator](/archive/utilities/elf-name-generator.md) can serve to generate names that reflect that blended convention as well as give a decent starting point.
 
 ## How it Works
@@ -318,3 +320,5 @@ If you don’t like a particular combination, try some of the alternate suffixes
 | 97-00 | -zynge | The ruins |
 
 [**Back to Table 1**](#table-1)
+
+</div>

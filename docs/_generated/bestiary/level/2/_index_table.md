@@ -1,38 +1,42 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · F · [G](#g) · H · I · J · K · L · M · N · O · [P](#p) · Q · [R](#r) · [S](#s) · T · U · V · [W](#w) · X · Y · [Z](#z)
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/animated-broom_row.md"
 --8<-- "_generated/bestiary/level/2/axe-beak_row.md"
 
-## B
+## B { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/boar_row.md"
 
-## C
+## C { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/constrictor-snake_row.md"
 
-## D
+## D { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/draft-horse_row.md"
 
-## E
+## E { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/elk_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
@@ -46,32 +50,32 @@
 --8<-- "_generated/bestiary/level/2/giant-venomous-snake_row.md"
 --8<-- "_generated/bestiary/level/2/giant-wolf-spider_row.md"
 
-## P
+## P { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/panther_row.md"
 --8<-- "_generated/bestiary/level/2/pteranodon_row.md"
 
-## R
+## R { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/riding-horse_row.md"
 
-## S
+## S { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/skeleton_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/2/wolf_row.md"
 
-## Z
+## Z { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

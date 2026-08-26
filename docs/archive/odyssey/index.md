@@ -13,7 +13,7 @@ banner: campaign/eternal-sun.png
 
 
 
-<div class="playlist" markdown>
+<div class="playlist" data-search-exclude markdown>
 
 <!-- Playlist authoring notes:
      - Wrap every section table inside this single <div class="playlist" markdown> block.

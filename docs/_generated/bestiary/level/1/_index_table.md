@@ -1,19 +1,23 @@
+<div data-search-exclude markdown="1">
+
 0-9 · A · [B](#b) · [C](#c) · D · E · F · [G](#g) · H · I · J · K · L · [M](#m) · N · O · [P](#p) · Q · R · S · T · U · [V](#v) · W · X · Y · Z
 { .keyword-jump }
 
-## B
+</div>
+
+## B { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/1/blood-hawk_row.md"
 
-## C
+## C { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/1/camel_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
@@ -21,20 +25,20 @@
 --8<-- "_generated/bestiary/level/1/giant-rat_row.md"
 --8<-- "_generated/bestiary/level/1/giant-weasel_row.md"
 
-## M
+## M { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/1/mastiff_row.md"
 --8<-- "_generated/bestiary/level/1/mule_row.md"
 
-## P
+## P { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/1/pony_row.md"
 
-## V
+## V { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

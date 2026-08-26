@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 | Item | Type | Value |
 |---|---|---|
 --8<-- "_generated/item/gear/potion/acid_row.md"
@@ -39,3 +41,5 @@
 --8<-- "_generated/item/gear/potion/potion-of-supreme-healing_row.md"
 --8<-- "_generated/item/gear/potion/potion-of-vitality_row.md"
 --8<-- "_generated/item/gear/potion/potion-of-water-breathing_row.md"
+
+</div>

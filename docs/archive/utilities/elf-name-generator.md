@@ -2,6 +2,8 @@
 Elves prefer names that flow off the tongue like wind through the trees.
 { .subtitle }
 
+<div data-search-exclude markdown="1">
+
 One of the most common problems DMs and players alike have when playing non-human characters is naming them. Most non-human characters can’t be named from a list of historic names, forcing DMs to make up totally new names. It is difficult to come up with names that are appropriate for non-human characters and consistent with one another. This is especially true for a DM who may find themself trying to come up with a large number of such names on short notice, yet without appropriate names, non-human characters often lose their unique flavor. Especially in the case of elves, it is important that names represent and reflect the race’s special attitudes and philosophies.
 
 This generator has been presented to assist with this daunting task. Although this could not possibly represent all the possible names for a race as old and diverse as the elves, this list can serve as a starting point and quick reference to create a large and consistent list of names. Dark elves keep a separate naming tradition, collected in the [dark elf name generator](/archive/utilities/dark-elf-name-generator.md).
@@ -319,3 +321,5 @@ If you don’t like a particular combination, try some of the alternate suffixes
 | 97-00 | -zea | The crystal growth |
 
 [**Back to Table 1**](#table-1)
+
+</div>

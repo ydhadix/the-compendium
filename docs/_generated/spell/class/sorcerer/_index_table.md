@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) · [3rd](#3rd-level) · [4th](#4th-level) · [5th](#5th-level) · [6th](#6th-level)
 { .keyword-jump }
 
@@ -5,7 +7,9 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 - Cast Times with `(R)` can be cast as a Ritual.
 - Durations with `(C)` require Concentration.
 
-## Cantrips
+</div>
+
+## Cantrips { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -37,7 +41,7 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/0/thunderclap_row.md"
 --8<-- "_generated/spell/level/0/true-strike_row.md"
 
-## 1st-Level
+## 1st-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -76,7 +80,7 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/1/thunderwave_row.md"
 --8<-- "_generated/spell/level/1/witch-bolt_row.md"
 
-## 2nd-Level
+## 2nd-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -120,7 +124,7 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/2/warding-wind_row.md"
 --8<-- "_generated/spell/level/2/web_row.md"
 
-## 3rd-Level
+## 3rd-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -158,7 +162,7 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/3/water-breathing_row.md"
 --8<-- "_generated/spell/level/3/water-walk_row.md"
 
-## 4th-Level
+## 4th-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -176,7 +180,7 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/4/vitriolic-sphere_row.md"
 --8<-- "_generated/spell/level/4/wall-of-fire_row.md"
 
-## 5th-Level
+## 5th-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|
@@ -193,7 +197,7 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/5/teleportation-circle_row.md"
 --8<-- "_generated/spell/level/5/wall-of-stone_row.md"
 
-## 6th-Level
+## 6th-Level { data-search-exclude }
 
 | Spell | School | Components | Cast Time | Range | Area | Target | Duration |
 |---|---|---|---|---|---|---|---|

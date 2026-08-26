@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 | Item | Type | Value |
 |---|---|---|
 --8<-- "_generated/item/gear/tool/bell_row.md"
@@ -21,3 +23,5 @@
 --8<-- "_generated/item/gear/tool/signal-whistle_row.md"
 --8<-- "_generated/item/gear/tool/spyglass_row.md"
 --8<-- "_generated/item/gear/tool/string_row.md"
+
+</div>

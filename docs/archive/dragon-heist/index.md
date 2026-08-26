@@ -8,7 +8,7 @@ Toss a moon to your Hunters<br>Oh, Harbor of Plenty
 
 <iframe class="pm-spotify" src="https://open.spotify.com/embed/playlist/7GewzVXRZt2nDTvkMOfu8Z" height="80"></iframe>
 
-<div class="playlist" style="--stripe-color: #dbbdbd" markdown>
+<div class="playlist" style="--stripe-color: #dbbdbd" data-search-exclude markdown>
 
 | Intro | Song | Artist |
 |---|---|---|

@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 | Item | Type | Value |
 |---|---|---|
 --8<-- "_generated/item/gear/lighting/bullseye-lantern_row.md"
@@ -6,3 +8,5 @@
 --8<-- "_generated/item/gear/lighting/lamp_row.md"
 --8<-- "_generated/item/gear/lighting/tinderbox_row.md"
 --8<-- "_generated/item/gear/lighting/torch_row.md"
+
+</div>

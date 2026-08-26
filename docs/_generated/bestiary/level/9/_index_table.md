@@ -1,13 +1,17 @@
+<div data-search-exclude markdown="1">
+
 0-9 · A · B · C · D · E · F · [G](#g) · H · I · J · K · L · [M](#m) · N · O · P · Q · R · S · T · U · V · W · X · Y · Z
 { .keyword-jump }
 
-## G
+</div>
+
+## G { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/9/giant-squid_row.md"
 
-## M
+## M { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

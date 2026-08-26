@@ -9,7 +9,7 @@ Everything stays, but it still changes<br>Ever so slightly, daily and nightly<br
 <iframe class="pm-spotify" src="https://open.spotify.com/embed/playlist/4xSGvHMLWdsRdJTjThAEor" height="80"></iframe>
 
 
-<div class="playlist" style="--stripe-color: #dbd6bd" markdown>
+<div class="playlist" style="--stripe-color: #dbd6bd" data-search-exclude markdown>
 
 | Intro | Song | Artist |
 |---|---|---|

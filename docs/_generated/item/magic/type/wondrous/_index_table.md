@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · [Legendary](#legendary) · [Artifact](#artifact) · Unique · Cursed
 { .keyword-jump }
 
-## Common
+</div>
+
+## Common { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -29,7 +33,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/common/tankard-of-sobriety_row.md"
 --8<-- "_generated/item/magic/rarity/common/wand-sheathe_row.md"
 
-## Uncommon
+## Uncommon { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -62,7 +66,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/uncommon/tree-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/wind-fan_row.md"
 
-## Rare
+## Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -96,7 +100,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/warp-anchor_row.md"
 --8<-- "_generated/item/magic/rarity/rare/whip-token_row.md"
 
-## Very Rare
+## Very Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -114,14 +118,14 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/very-rare/obsidian-steed-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/tome-of-mastery_row.md"
 
-## Legendary
+## Legendary { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/legendary/horn-of-valhalla_row.md"
 --8<-- "_generated/item/magic/rarity/legendary/ioun-stone_row.md"
 
-## Artifact
+## Artifact { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

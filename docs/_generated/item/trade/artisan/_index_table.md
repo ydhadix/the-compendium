@@ -1,3 +1,5 @@
+<div data-search-exclude markdown="1">
+
 | Item | Type | Value |
 |---|---|---|
 --8<-- "_generated/item/trade/artisan/alchemists-supplies_row.md"
@@ -18,3 +20,5 @@
 --8<-- "_generated/item/trade/artisan/tinkers-tools_row.md"
 --8<-- "_generated/item/trade/artisan/weavers-tools_row.md"
 --8<-- "_generated/item/trade/artisan/woodcarvers-tools_row.md"
+
+</div>

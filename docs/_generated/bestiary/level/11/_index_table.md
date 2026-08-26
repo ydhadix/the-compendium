@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 0-9 · A · B · C · D · E · F · G · H · I · J · K · L · M · N · O · P · Q · R · S · [T](#t) · U · V · W · X · Y · Z
 { .keyword-jump }
 
-## T
+</div>
+
+## T { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

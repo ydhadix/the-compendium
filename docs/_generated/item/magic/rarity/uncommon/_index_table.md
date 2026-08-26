@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · K · [L](#l) · [M](#m) · [N](#n) · O · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -11,7 +15,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/armor-of-magical-strength_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/armor-of-weightlessness_row.md"
 
-## B
+## B { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -27,7 +31,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/brooch-of-shielding_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/broom-of-flying_row.md"
 
-## C
+## C { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -38,7 +42,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/cloak-of-protection_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/cloak-of-the-manta-ray_row.md"
 
-## D
+## D { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -52,7 +56,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/dust-of-dryness_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/dust-of-sneezing-and-choking_row.md"
 
-## E
+## E { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -67,14 +71,14 @@
 --8<-- "_generated/item/magic/rarity/uncommon/eyes-of-minute-seeing_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/eyes-of-the-eagle_row.md"
 
-## F
+## F { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/fan-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/first-mates-scabbard_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -87,7 +91,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/gloves-of-swimming-and-climbing_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/goggles-of-night_row.md"
 
-## H
+## H { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -98,27 +102,27 @@
 --8<-- "_generated/item/magic/rarity/uncommon/helm-of-comprehend-languages_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/helm-of-telepathy_row.md"
 
-## I
+## I { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/immovable-rod_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/instrument-of-the-bards_row.md"
 
-## J
+## J { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/javelin-of-lightning_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/jotuns-jodhpurs_row.md"
 
-## L
+## L { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/lantern-of-revealing_row.md"
 
-## M
+## M { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -127,14 +131,14 @@
 --8<-- "_generated/item/magic/rarity/uncommon/medusan-signet_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/meta-crystal_row.md"
 
-## N
+## N { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/natures-mantle_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/necklace-of-adaptation_row.md"
 
-## P
+## P { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -147,13 +151,13 @@
 --8<-- "_generated/item/magic/rarity/uncommon/portal-compass_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/psi-crystal_row.md"
 
-## Q
+## Q { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/quiver-of-ehlonna_row.md"
 
-## R
+## R { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -167,7 +171,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/robe-of-useful-items_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/rope-of-climbing_row.md"
 
-## S
+## S { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -183,14 +187,14 @@
 --8<-- "_generated/item/magic/rarity/uncommon/stone-of-good-luck_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/sun-blade_row.md"
 
-## T
+## T { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/tree-token_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/trident-of-fish-command_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

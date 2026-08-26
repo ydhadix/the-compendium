@@ -1,7 +1,11 @@
+<div data-search-exclude markdown="1">
+
 Rarity · Common · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-rare) · Legendary · Artifact · Unique · Cursed
 { .keyword-jump }
 
-## Uncommon
+</div>
+
+## Uncommon { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -12,7 +16,7 @@ Rarity · Common · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-
 --8<-- "_generated/item/magic/rarity/uncommon/magic-pocket_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/quiver-of-ehlonna_row.md"
 
-## Rare
+## Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
@@ -21,7 +25,7 @@ Rarity · Common · [Uncommon](#uncommon) · [Rare](#rare) · [Very Rare](#very-
 --8<-- "_generated/item/magic/rarity/rare/handy-haversack_row.md"
 --8<-- "_generated/item/magic/rarity/rare/portable-hole_row.md"
 
-## Very Rare
+## Very Rare { data-search-exclude }
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|

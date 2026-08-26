@@ -158,9 +158,9 @@ def main():
    for level in LEVELS:
       rows = [row for (lv, slug, row, classes) in records if lv == level]
       if len(rows) > 0:
-         C.writeText(LEVEL_TABLE_DIR / str(level) / C.TABLE_NAME, C.tableBlock(HEADER, rows, preamble=LEGEND))
+         C.writeTable(LEVEL_TABLE_DIR / str(level) / C.TABLE_NAME, C.tableBlock(HEADER, rows, preamble=LEGEND))
    for className in CLASSES:
-      C.writeText(CLASS_TABLE_DIR / className / C.TABLE_NAME, classExample(className, records))
+      C.writeTable(CLASS_TABLE_DIR / className / C.TABLE_NAME, classExample(className, records))
    removed = C.pruneRows(LEVEL_TABLE_DIR, written)
    print(f"Spells: wrote {len(written)} rows, pruned {removed}.")
 

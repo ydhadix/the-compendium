@@ -1,14 +1,18 @@
+<div data-search-exclude markdown="1">
+
 0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · K · [L](#l) · M · N · [O](#o) · [P](#p) · Q · [R](#r) · [S](#s) · [T](#t) · U · [V](#v) · [W](#w) · X · Y · Z
 { .keyword-jump }
 
-## A
+</div>
+
+## A { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/almiraj_row.md"
 --8<-- "_generated/bestiary/level/0/awakened-shrub_row.md"
 
-## B
+## B { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
@@ -16,84 +20,84 @@
 --8<-- "_generated/bestiary/level/0/badger_row.md"
 --8<-- "_generated/bestiary/level/0/bat_row.md"
 
-## C
+## C { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/cat_row.md"
 --8<-- "_generated/bestiary/level/0/crab_row.md"
 
-## D
+## D { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/deer_row.md"
 
-## E
+## E { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/eagle_row.md"
 
-## F
+## F { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/frog_row.md"
 
-## G
+## G { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/giant-fire-beetle_row.md"
 --8<-- "_generated/bestiary/level/0/goat_row.md"
 
-## H
+## H { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/hawk_row.md"
 --8<-- "_generated/bestiary/level/0/hyena_row.md"
 
-## I
+## I { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/insect_row.md"
 
-## J
+## J { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/jackal_row.md"
 
-## L
+## L { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/lizard_row.md"
 
-## O
+## O { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/octopus_row.md"
 --8<-- "_generated/bestiary/level/0/owl_row.md"
 
-## P
+## P { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/piranha_row.md"
 
-## R
+## R { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/rat_row.md"
 --8<-- "_generated/bestiary/level/0/raven_row.md"
 
-## S
+## S { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
@@ -102,19 +106,19 @@
 --8<-- "_generated/bestiary/level/0/shrieker-fungus_row.md"
 --8<-- "_generated/bestiary/level/0/spider_row.md"
 
-## T
+## T { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/tressym_row.md"
 
-## V
+## V { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|
 --8<-- "_generated/bestiary/level/0/vulture_row.md"
 
-## W
+## W { data-search-exclude }
 
 | Creature | Level | Type |
 |---|---|---|

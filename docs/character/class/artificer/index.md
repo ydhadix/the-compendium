@@ -56,6 +56,8 @@ You can Attune to an item you infuse immediately.
 
 The [Artificer Table](#class-table) shows how many items you can infuse. To infuse more items, choose existing Infusions to end first.
 
+<div data-search-exclude markdown="1">
+
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/alchemy-jug_row.md"
@@ -69,6 +71,8 @@ The [Artificer Table](#class-table) shows how many items you can infuse. To infu
 | [+1 Weapon](/item/weapon.md) | Weapon (Any) | — | — |
 | [+1 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
 | [+1 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
+
+</div>
 
 
 ### 1: Tradesman
@@ -146,6 +150,8 @@ You gain an additional Attunement Slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
+<div data-search-exclude markdown="1">
+
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/uncommon/armor-of-magical-strength_row.md"
@@ -159,6 +165,8 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 --8<-- "_generated/item/magic/rarity/uncommon/wand-of-magic-missiles_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/weapon-of-radiance_row.md"
 | [+1 Armor](/item/armor.md) | Armor (Any) | — | — |
+
+</div>
 
 
 ### 5: Extra Attack
@@ -177,12 +185,16 @@ You ignore all Class, Race, Spell, and Level requirements to use or Attune to Ma
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
+<div data-search-exclude markdown="1">
+
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 | [Any Uncommon Infusion](/item/magic/rarity/uncommon.md) | Varies | Uncommon | Varies |
 | [+2 Weapon](/item/weapon.md) | Weapon (Any) | — | — |
 | [+2 Focus](/item/gear/spell-focus/index.md) | Spellcasting Focus (Any) | — | — |
 | [+2 Shield](/item/armor.md#shields) | Armor (Any Shield) | — | — |
+
+</div>
 
 
 ### 8: Spell-Storing Item
@@ -201,12 +213,16 @@ You gain an additional Attunement Slot.
 #### Additional Infusions
 You gain additional options for your [Infuse Items](#1-infuse-items).
 
+<div data-search-exclude markdown="1">
+
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/arrow-catching-shield_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ring-of-free-action_row.md"
 --8<-- "_generated/item/magic/rarity/rare/ring-of-the-ram_row.md"
 | [+1 Armor](/item/armor.md) | Armor (Any) | — | — |
+
+</div>
 
 
 ### 11: Soul of Artifice
