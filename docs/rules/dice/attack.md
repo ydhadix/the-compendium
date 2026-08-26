@@ -10,7 +10,7 @@ Choose a target within your attack's Range.
 Abilities, Proficiency, Cover, and other effects can add bonuses, penalties, Advantage, or Disadvantage to the Attack Roll.
 
 #### 3. Determine if the attack hits.
-Roll the d20 and add your modifiers. If the total equals or exceeds the target's Armor Class, the attack hits.  If the number on the dice equals or exceeds your Critical Hit Range, the attack is a Critical Hit.
+Roll the d20 and add your modifiers. If the total equals or exceeds the target's Armor Class, the attack hits.  If the number on the die equals or exceeds your Critical Hit Range, the attack is a Critical Hit.
 
 #### 4. Resolve the attack's effects.
 After an Attack hits, you usually make a Damage Roll. The weapon, Spell, or feature you used describes the Damage Dice and the Damage Type.

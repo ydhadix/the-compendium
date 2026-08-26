@@ -18,6 +18,7 @@
 --8<-- "_generated/item/magic/rarity/rare/belt-of-dwarvenkind_row.md"
 --8<-- "_generated/item/magic/rarity/rare/belt-of-giant-strength_row.md"
 --8<-- "_generated/item/magic/rarity/rare/bird-token_row.md"
+--8<-- "_generated/item/magic/rarity/rare/bolt-rifle_row.md"
 --8<-- "_generated/item/magic/rarity/rare/boots-of-dancing_row.md"
 --8<-- "_generated/item/magic/rarity/rare/boots-of-levitation_row.md"
 --8<-- "_generated/item/magic/rarity/rare/boots-of-speed_row.md"

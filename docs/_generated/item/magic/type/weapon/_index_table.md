@@ -39,6 +39,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
+--8<-- "_generated/item/magic/rarity/rare/bolt-rifle_row.md"
 --8<-- "_generated/item/magic/rarity/rare/champions-greatbow_row.md"
 --8<-- "_generated/item/magic/rarity/rare/dwarven-thrower_row.md"
 --8<-- "_generated/item/magic/rarity/rare/energy-bow_row.md"

@@ -1,5 +1,5 @@
 ### Hammer of Polarity
-Very Rare Weapon (Hammer), Attunement (Spellcaster)
+Very Rare Weapon (Heavy, Bludgeoning Weapon), Attunement (Spellcaster)
 { .subtitle }
 
 **7** Charges (regain **1d4 + 3** per Day)

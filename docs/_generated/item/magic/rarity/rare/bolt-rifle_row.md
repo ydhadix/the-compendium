@@ -1,0 +1,1 @@
+| [Bolt Rifle](/item/magic/rarity/rare/bolt-rifle.md) | Weapon (Loading, Ranged Weapon) | Rare | Yes |
