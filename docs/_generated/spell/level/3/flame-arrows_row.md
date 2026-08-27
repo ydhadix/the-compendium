@@ -1,1 +1,1 @@
-| [Flame Arrows](/spell/level/3/flame-arrows.md) | Transmutation | V, S | Magic Action | Reach | — | **1** Quiver | 1 hour (C) |
+| [Flame Arrows](/spell/level/3/flame-arrows.md) | Transmutation | V, S | Magic Action | Reach | — | Up to **12** Arrows or Bolts | 1 hour (C) |

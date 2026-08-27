@@ -14,7 +14,7 @@
 
 ---
 
-You can Dash.
+You take the following Action as part of casting this Spell.
 
 ##### Retreat
-**Bonus Action:** You can repeat this Spell's effect.
+**Bonus Action:** You can Dash.

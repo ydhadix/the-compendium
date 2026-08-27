@@ -1,1 +1,1 @@
-| [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | — | Each Creature in a 10-ft. Aura | 1 minute (C) |
+| [Spirit Shroud](/spell/level/3/spirit-shroud.md) | Necromancy | V, S | Bonus Action | — | A 10-ft. Aura | Each Creature and Object you choose | 1 minute (C) |

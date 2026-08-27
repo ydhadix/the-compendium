@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | — |
 
 ---
 
-You deal **4d8** Necrotic Damage to yourself, which can't be reduced, and heal the target by twice the Necrotic Damage taken.
+You reduce your Hit Points by **4d8** _(this is not damage)_ and heal the target by twice as much.
 
 #### At Higher Levels
-Add **1d8** damage per additional Spell Level.
+Add **1d8** per additional Spell Level.

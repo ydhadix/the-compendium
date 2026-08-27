@@ -7,9 +7,9 @@
 | Classes | Cleric, Sorcerer, Wizard |
 | Components | V, S, M _(a silver pin worth 250 Gold)_ |
 | Casting Time | Magic Action |
-| Range | — |
-| Area | |
-| Target | Each Creature you choose in a 120-ft. × 5-ft. Line |
+| Range | Reach |
+| Area | A 120-ft. × 5-ft. Line |
+| Target | Each Creature and Object you choose |
 | Duration | — |
 
 ---

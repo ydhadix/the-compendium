@@ -1,1 +1,1 @@
-| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Magic Action | 90 ft. | — | Each Creature or Object in a 10-ft. Aura | — |
+| [Thunder Step](/spell/level/3/thunder-step.md) | Conjuration | V | Magic Action | 90 ft. | — | Self, and up to **1** Ally within Reach | — |

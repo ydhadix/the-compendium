@@ -8,10 +8,12 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | Each Plant Object in a 30-ft. Aura |
+| Area | A 30-ft. Aura |
+| Target | Each Plant Creature and Plant Object |
 | Duration | 10 minutes |
 
 ---
 
-You can comprehend and verbally communicate with plants in the area. A plant can tell you about nearby creatures and events it sensed within the past day, and answers your questions to the best of its ability.
+Each target can understand any language you speak, and you can understand the target as though it could speak.
+
+Each target answers your questions to the best of its ability.  At a minimum, it can tell you about nearby events it sensed within the past day.

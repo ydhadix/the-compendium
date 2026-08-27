@@ -1,1 +1,1 @@
-| [Eyebite](/spell/level/6/eyebite.md) | Necromancy | V, S | Magic Action | 60 ft. | — | **1** Creature | 1 minute (C) |
+| [Eyebite](/spell/level/6/eyebite.md) | Necromancy | V, S | Magic Action | — | — | Self | 1 minute (C) |

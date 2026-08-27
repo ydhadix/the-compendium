@@ -8,15 +8,15 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
-| Target | Each Creature or Object in a 10-ft. Aura |
+| Area | — |
+| Target | Self, and up to **1** Ally within Reach |
 | Duration | — |
 
 ---
 
-You teleport, bringing along **1** Ally of your Size or smaller within Reach and any objects you're carrying.
+You teleport.  If this Spell has another target, it arrives in a space within **5** feet of your destination.
 
-Each target in the Aura, centered on the space you arrive at or left, makes a Fortitude Save.
+After you teleport, each Creature and Object within **10** feet of the space you left makes a Fortitude Save.
 
 | | |
 |---|---|

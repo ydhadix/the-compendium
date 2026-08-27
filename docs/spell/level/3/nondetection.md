@@ -8,8 +8,8 @@
 | Components | V, S, M _(consumes diamond dust worth 25 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
-| Target | **1** Creature, Object, or Location no larger than **10** feet |
+| Area | — |
+| Target | **1** Large or smaller Creature, Object, or Location |
 | Duration | 8 hours |
 
 ---

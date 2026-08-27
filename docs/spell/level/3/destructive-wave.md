@@ -1,5 +1,5 @@
 ### Destructive Wave
-5th-Level Evocation
+3rd-Level Evocation
 { .subtitle }
 
 | | |
@@ -8,8 +8,8 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | Each Creature you choose in a 30-ft. Aura |
+| Area | A 30-ft. Aura |
+| Target | Each Creature you choose |
 | Duration | — |
 
 ---

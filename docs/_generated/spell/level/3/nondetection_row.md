@@ -1,1 +1,1 @@
-| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | — | **1** Creature, Object, or Location no larger than **10** feet | 8 hours |
+| [Nondetection](/spell/level/3/nondetection.md) | Abjuration | V, S, M ($C) | Magic Action | Reach | — | **1** Large or smaller Creature, Object, or Location | 8 hours |

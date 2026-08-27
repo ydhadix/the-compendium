@@ -1,1 +1,1 @@
-| [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | — | — | Until dispelled or triggered |
+| [Glyph of Warding](/spell/level/3/glyph-of-warding.md) | Abjuration | V, S, M ($C) | 1 hour | Reach | Up to a 10-ft. radius Circle | Up to **1** Object that can be closed | Until dispelled |

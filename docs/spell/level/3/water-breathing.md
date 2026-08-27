@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | Up to **10** Creatures |
 | Duration | 24 hours |
 

@@ -8,13 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | |
-| Target | Each Creature or Object in a 20-ft. Cube |
+| Area | A 20-ft. Cube |
+| Target | Each Creature and Object |
 | Duration | — |
 
 ---
 
-The area becomes Difficult Terrain indefinitely.
+The area permanently becomes Difficult Terrain.
 
 Each target makes a Reflex Save.
 

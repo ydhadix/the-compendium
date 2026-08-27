@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Bonus Action |
 | Range | 60 ft. |
-| Area | |
+| Area | — |
 | Target | Up to **6** Creatures |
 | Duration | — |
 

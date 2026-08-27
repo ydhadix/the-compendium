@@ -14,9 +14,17 @@
 
 ---
 
-You conjure a **¼**-inch thick, Invisible barrier of magical force around the area.
+You conjure a **¼**-inch thick barrier of magical force around the area.
 
-The barrier has Immunity to all damage.  Nothing can pass through the barrier, including Attacks and other effects.
+The barrier has the following effects:
+
+| Effect | |
+|---|---|
+| Invisible | The barrier is Invisible. |
+| Impervious | The barrier has Immunity to all damage. |
+| Impassable | Nothing can pass through the barrier, including Attacks and other effects. |
+| Ward Targeting | A lower-Level magical effect can't target anything in the area from outside the barrier. |
+| Ward Area | The area is excluded from a lower-Level magical effect's area. |
 
 Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.  Then, each target enclosed by the barrier makes a Reflex Save.  If a target is Huge or larger, it automatically succeeds.
 

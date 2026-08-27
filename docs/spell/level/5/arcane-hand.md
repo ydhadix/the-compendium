@@ -16,6 +16,8 @@
 
 You conjure a hand of magical energy.  The hand is a Large, intangible Object with Armor Class **20** and **your Hit Point Maximum** Hit Points.
 
+You take the following Action as part of casting this Spell.
+
 ##### Command
 **Bonus Action:** You can move the hand up to **60** feet, then choose **1** of the following effects:
 

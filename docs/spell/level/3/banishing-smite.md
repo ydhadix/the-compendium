@@ -16,7 +16,7 @@
 
 You add **3d10** Force Damage to the triggering Attack.
 
-After the attack, a target with **30** Hit Points gains the effect of _Banishment_.
+After the Attack, a target with **30** or fewer Hit Points gains the effect of _Banishment_.
 
 #### At Higher Levels
 Add **1d10** damage and **10** to the Hit Point threshold per additional Spell Level.

@@ -4,17 +4,17 @@
 
 | | |
 |---|---|
-| Classes | Bard, Cleric, Druid, Paladin, Ranger, Wizard |
+| Classes | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Wizard |
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 1,000 ft. |
-| Area | |
-| Target | Special |
+| Area | — |
+| Target | **1** Creature you describe |
 | Duration | 1 hour (Concentration) |
 
 ---
 
-Choose a general type of creature, or a specific creature you've seen within **30** feet.
+You describe a creature by its Creature Type, its kind, or a specific individual.  This Spell targets the nearest creature in Range matching your description.
 
 You gain the following effects:
 
@@ -24,4 +24,4 @@ You gain the following effects:
 Any amount of lead blocks this Spell. It can't locate a target that has been transformed into a different form.
 
 #### At Higher Levels
-Add **1** target per additional Spell Level.
+Add **1** target per additional Spell Level.  You can describe each target separately.

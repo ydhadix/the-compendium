@@ -22,4 +22,4 @@ Choose **1** of the following effects:
 - Each reduction to **1** of its Ability scores.
 - Each reduction to its Hit Point Maximum.
 
-You end the chosen effect on the target.
+You end the chosen effect on each target.

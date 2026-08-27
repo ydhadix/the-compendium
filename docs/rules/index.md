@@ -123,7 +123,6 @@
 | [Construct](/bestiary/type/construct.md) | Creature Type |
 | [Consumable](/item/index.md#consumable-items) | Item |
 | [Container](/item/index.md#item-types) | Adventuring Gear |
-| [Contingent Spells](/spell/level/6/contingency.md#contingent-spells) | Contingency |
 | [Copper](/item/index.md#denominations) | Currency |
 | [Corpse](/rules/target/index.md#corpses) | Target |
 | [Corroding](/rules/condition.md#corroding) | Condition |

@@ -9,19 +9,20 @@
 | Casting Time | Magic Action, or Ritual |
 | Range | 1,000 ft. |
 | Area | |
-| Target | Special |
+| Target | **1** Object you describe |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
-Choose a general type of object, or a specific object you've seen within **30** feet.
+You describe an object by its kind or a specific object.  This Spell targets the nearest object matching your description.
 
 You gain the following effects:
 
 - You know the direction and distance to the target.
 - If the target is moving, you know the direction of its movement.
 
-Any amount of lead blocks this Spell.
+Any amount of lead blocks this Spell. It can't locate a target that has been transformed into a different form.
 
 #### At Higher Levels
-Add **1** target per additional Spell Level.
+Add **1** target per additional Spell Level.  You can describe each target separately.
+

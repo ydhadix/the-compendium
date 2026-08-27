@@ -1,1 +1,1 @@
-| [Hunger of Hadar](/spell/level/3/hunger-of-hadar.md) | Conjuration | V, S, M | Magic Action | 150 ft. | — | Each Creature or Object in a 20-ft. radius Sphere | 1 minute (C) |
+| [Hunger of Hadar](/spell/level/3/hunger-of-hadar.md) | Conjuration | V, S, M | Magic Action | 150 ft. | A 20-ft. radius Sphere | Each Creature and Object | 1 minute (C) |

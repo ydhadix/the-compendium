@@ -9,7 +9,7 @@
 | Casting Time | Magic Action |
 | Range | 30 ft. |
 | Area | — |
-| Target | **1** Creature |
+| Target | **1** Creature or Object |
 | Duration | 1 minute (Concentration) |
 
 ---

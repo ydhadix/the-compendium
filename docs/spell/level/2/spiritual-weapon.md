@@ -18,6 +18,8 @@ You conjure an intangible, floating, spectral force resembling a weapon.  The we
 
 While the weapon shares your space, it moves with you.
 
+You take the following Action as part of casting this Spell.
+
 ##### Attack
 **Bonus Action:** You can move the weapon up to your Speed, then make a Melee Attack against a Creature or Object within **5** feet of it.
 

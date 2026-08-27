@@ -21,6 +21,8 @@ Each target makes a Will Save.
 | Fail | You charm the target, and a spectral crown appears on its head. |
 | Success | No effect. |
 
+You take the following Action as part of casting this Spell.
+
 ##### Command
 **Magic Action:** You can mentally choose a Creature. After the target's next Turn starts, it moves toward that creature and uses its Action to make a Melee Attack against it, then takes the rest of its Turn normally after attacking once or if it can't reach the creature.
 

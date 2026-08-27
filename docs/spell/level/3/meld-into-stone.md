@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action, or Ritual |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** stone Object large enough to contain your body |
 | Duration | 8 hours |
 
@@ -16,14 +16,11 @@
 
 You gain the following effects:
 
-- You merge with the target.
-- You can't be perceived without magic.
+- You merge seamlessly with the target.
 - You are Blinded and gain Disadvantage on Perception Checks to hear beyond the target, though you can cast Spells targeting only yourself without Verbal or Somatic components.
 
-Minor damage to the target doesn't harm you.
-
 #### Ending Early
-If the target is partially destroyed or changed so that you no longer fit within it, you are expelled, take **6d6** Force Damage, and fall Prone.
+If the target is partially destroyed or changed so that you no longer fit within it, you are expelled, take **6d6** Force Damage, and fall Prone.  Minor damage to the target doesn't harm you.
 
 If the target is completely destroyed or changed, you are expelled, take **50** Force Damage, and fall Prone.
 

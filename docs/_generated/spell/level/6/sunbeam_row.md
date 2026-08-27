@@ -1,1 +1,1 @@
-| [Sunbeam](/spell/level/6/sunbeam.md) | Evocation | V, S, M | Magic Action | Reach | A 60-ft. × 5-ft. Line | Each Creature and Object | 1 minute (C) |
+| [Sunbeam](/spell/level/6/sunbeam.md) | Evocation | V, S, M | Magic Action | — | — | Self | 1 minute (C) |

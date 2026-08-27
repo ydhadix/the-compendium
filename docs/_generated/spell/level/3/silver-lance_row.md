@@ -1,1 +1,1 @@
-| [Silver Lance](/spell/level/3/silver-lance.md) | Evocation | V, S, M ($) | Magic Action | — | — | Each Creature you choose in a 120-ft. × 5-ft. Line | — |
+| [Silver Lance](/spell/level/3/silver-lance.md) | Evocation | V, S, M ($) | Magic Action | Reach | A 120-ft. × 5-ft. Line | Each Creature and Object you choose | — |

@@ -16,6 +16,8 @@
 
 You conjure a vine.  The vine is a Large Plant Object with Immunity to all damage.
 
+You take the following Action as part of casting this Spell.
+
 ##### Lash
 **Bonus Action:** You can make a Melee Spell Attack against **1** Creature or Object within **30** feet of the vine.
 

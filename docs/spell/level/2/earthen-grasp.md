@@ -16,17 +16,15 @@
 
 You conjure a Medium, earthen hand with Immunity to all damage.
 
-Choose a Creature or Object within **5** feet of the hand.
+You take the following Action as part of casting this Spell.
 
-The target makes a Fortitude Save.
+##### Grasp
+**Magic Action:** You can release the hand's target and move the hand up to **30** feet.  Choose a Creature or Object within **5** feet of the hand; the target makes a Fortitude Save.
 
 | | |
 |---|---|
 | Fail | You deal **2d6** Bludgeoning Damage, and you restrain the target. |
 | Success | No effect. |
-
-##### Grasp
-**Magic Action:** You can release the hand's target, move the hand up to **30** feet, and repeat this Spell's effect against a new target.
 
 #### Ending Early
 ##### Escape

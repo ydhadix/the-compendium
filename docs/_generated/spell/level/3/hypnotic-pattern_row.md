@@ -1,1 +1,1 @@
-| [Hypnotic Pattern](/spell/level/3/hypnotic-pattern.md) | Illusion | S, M | Magic Action | 120 ft. | — | Each Creature in a 30-ft. Cube | 1 minute (C) |
+| [Hypnotic Pattern](/spell/level/3/hypnotic-pattern.md) | Illusion | S, M | Magic Action | 120 ft. | A 30-ft. Cube | Each Creature | 1 minute (C) |

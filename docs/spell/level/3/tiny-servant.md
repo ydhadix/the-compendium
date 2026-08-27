@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | 1 minute |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Tiny, nonmagical Object |
 | Duration | 8 hours |
 
@@ -16,14 +16,11 @@
 
 You animate each target as an Animated Servant Companion.
 
-If the servant drops to **0** Hit Points, it is destroyed.
-
 ##### Command Constructs
 **Bonus Action:** You can command any of your Construct companions within **120** feet to move and take any Action available to them.  You give the same command to each target.
 
+#### Ending Early
+This Spell ends on a target if it has **0** Hit Points.
+
 #### At Higher Levels
 Add **2** targets per additional Spell Level.
-
----
-
---8<-- "_generated/bestiary/summon/animated-servant.md"

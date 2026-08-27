@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
-| Target | **1** Quiver |
+| Area | — |
+| Target | Up to **12** Arrows or Bolts |
 | Duration | 1 hour (Concentration) |
 
 ---
 
-The next **12** arrows or bolts drawn from the target deal an additional **1d6** Fire Damage.
+Each target deals an additional **1d6** Fire Damage.
 
 #### At Higher Levels
-Add **2** arrows per additional Spell Level.
+Add **2** targets per additional Spell Level.

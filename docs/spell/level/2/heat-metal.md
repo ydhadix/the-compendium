@@ -14,15 +14,15 @@
 
 ---
 
-You deal **2d8** Fire Damage to the target and everything touching it, and a Creature that takes this damage makes a Fortitude Save.
+You take the following Action as part of casting this Spell.
+
+##### Sear
+**Bonus Action:** You can deal **2d8** Fire Damage to the target and everything touching it, and a Creature that takes this damage makes a Fortitude Save.
 
 | | |
 |---|---|
 | Fail | The creature drops the target if it can. If it doesn't, it gains Disadvantage on Attack Rolls and Checks until the end of your next Turn. |
 | Success | No additional effect. |
-
-##### Sear
-**Bonus Action:** You can repeat this Spell's effect against the same target.
 
 #### At Higher Levels
 Add **1d8** damage per additional Spell Level.

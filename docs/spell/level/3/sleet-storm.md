@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 150 ft. |
-| Area | |
-| Target | Each other Creature in a 40-ft. radius, 20-ft. Cylinder from above |
+| Area | A 40-ft. radius, 20-ft. Cylinder, from above |
+| Target | Each other Creature |
 | Duration | 1 minute (Concentration) |
 
 ---

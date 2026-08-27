@@ -1,1 +1,1 @@
-| [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Magic Action | — | — | Each Plant Object in a 30-ft. Aura | 10 minutes |
+| [Speak with Plants](/spell/level/3/speak-with-plants.md) | Transmutation | V, S | Magic Action | — | A 30-ft. Aura | Each Plant Creature and Plant Object | 10 minutes |

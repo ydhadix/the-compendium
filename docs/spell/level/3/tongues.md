@@ -8,7 +8,7 @@
 | Components | V, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 hour |
 

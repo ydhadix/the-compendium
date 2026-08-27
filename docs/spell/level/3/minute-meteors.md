@@ -7,17 +7,19 @@
 | Classes | Sorcerer, Wizard |
 | Components | V, S, M |
 | Casting Time | Magic Action |
-| Range | 120 ft. |
-| Area | |
+| Range | — |
+| Area | — |
 | Target | Self |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
-You conjure **6** meteors that orbit you.
+You conjure **6** meteors that orbit you in your space.
+
+You take the following Action as part of casting this Spell.
 
 ##### Launch
-**Bonus Action:** You can expend up to **2** meteors, sending each toward a point. Each Creature in a **5**-foot radius Sphere around a point makes a Reflex Save.
+**Bonus Action; 1-2 meteors:** For each meteor expended, you can choose a **5**-foot radius Sphere within **120** feet.  Each Creature and Object in the area makes a Reflex Save.
 
 | | |
 |---|---|

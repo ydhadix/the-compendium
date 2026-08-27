@@ -1,1 +1,1 @@
-| [Destructive Wave](/spell/level/3/destructive-wave.md) | Evocation | V | Magic Action | — | — | Each Creature you choose in a 30-ft. Aura | — |
+| [Destructive Wave](/spell/level/3/destructive-wave.md) | Evocation | V | Magic Action | — | A 30-ft. Aura | Each Creature you choose | — |

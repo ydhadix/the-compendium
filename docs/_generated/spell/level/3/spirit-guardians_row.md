@@ -1,1 +1,1 @@
-| [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Magic Action | — | — | Each Creature or Object you choose in a 15-ft. Aura | 10 minutes (C) |
+| [Spirit Guardians](/spell/level/3/spirit-guardians.md) | Conjuration | V, S, M | Magic Action | — | A 15-ft. Aura | Each Creature and Object you choose | 10 minutes (C) |

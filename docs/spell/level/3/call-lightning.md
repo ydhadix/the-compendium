@@ -16,17 +16,15 @@
 
 While outdoors in a storm, the storm and the area beneath it become this Spell's area instead, and Saving Throws against this Spell gain Disadvantage.
 
-Choose a **5**-foot radius Sphere within the area.
+You take the following Action as part of casting this Spell.
 
-Each Creature in it makes a Reflex Save.
+##### Lightning Strike
+**Bonus Action:** You can choose a **5**-foot radius Sphere within the area.  Each Creature in it makes a Reflex Save.
 
 | | |
 |---|---|
 | Fail | You deal **3d10** Lightning Damage. |
 | Success | You deal half as much damage. |
-
-##### Lightning Strike
-**Bonus Action:** You can repeat this Spell's effect.
 
 #### At Higher Levels
 Add **1d10** damage per additional Spell Level.

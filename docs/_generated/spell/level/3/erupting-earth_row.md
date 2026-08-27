@@ -1,1 +1,1 @@
-| [Erupting Earth](/spell/level/3/erupting-earth.md) | Transmutation | V, S, M | Magic Action | 120 ft. | — | Each Creature or Object in a 20-ft. Cube | — |
+| [Erupting Earth](/spell/level/3/erupting-earth.md) | Transmutation | V, S, M | Magic Action | 120 ft. | A 20-ft. Cube | Each Creature and Object | — |

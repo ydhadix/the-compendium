@@ -1,1 +1,1 @@
-| [Stinking Cloud](/spell/level/3/stinking-cloud.md) | Conjuration | V, S, M | Magic Action | 90 ft. | — | Each Creature in a 20-ft. radius Sphere | 1 minute (C) |
+| [Stinking Cloud](/spell/level/3/stinking-cloud.md) | Conjuration | V, S, M | Magic Action | 90 ft. | A 20-ft. radius Sphere | Each Creature | 1 minute (C) |

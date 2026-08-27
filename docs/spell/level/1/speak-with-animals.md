@@ -8,12 +8,12 @@
 | Components | V, S |
 | Casting Time | Magic Action, or Ritual |
 | Range | — |
-| Area | |
-| Target | Self |
+| Area | A 30-ft. Aura |
+| Target | Each Beast |
 | Duration | 10 minutes |
 
 ---
 
-You can comprehend and verbally communicate with Beasts.
+Each target can understand any language you speak, and you can understand the target as though it could speak.
 
-Most Beasts have little to say about topics beyond survival or companionship, but at minimum a Beast can tell you about nearby locations and monsters, including what it has perceived within the past day.
+Each target answers your questions to the best of its ability.  At a minimum, it can tell you about nearby events it perceived within the past day.

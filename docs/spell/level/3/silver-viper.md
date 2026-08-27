@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Bonus Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 1 hour |
 
@@ -17,7 +17,7 @@
 You gain **15** Temporary Hit Points and a Climb Speed equal to your Speed.
 
 ##### Viper Strike
-**Magic Action:** You can make a Ranged Spell Attack against a Creature within **50** feet.
+**Magic Action:** You can make a Ranged Spell Attack against a Creature or Object within **60** feet.
 
 | | |
 |---|---|

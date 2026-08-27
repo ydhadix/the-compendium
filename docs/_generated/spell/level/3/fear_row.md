@@ -1,1 +1,1 @@
-| [Fear](/spell/level/3/fear.md) | Illusion | V, S, M | Magic Action | — | — | Each Creature in a 30-ft. Cone | 1 minute (C) |
+| [Fear](/spell/level/3/fear.md) | Illusion | V, S, M | Magic Action | Reach | A 30-ft. Cone | Each Creature | 1 minute (C) |

@@ -14,14 +14,11 @@
 
 ---
 
-Choose a lower-Level Spell that you can cast, that has a Casting Time of a Magic Action, and that can target you.
+Choose a perceivable trigger and a lower-Level Spell that you can cast, that has a Casting Time of a Magic Action or a Bonus Action, and that can target you.
 
-The chosen Spell becomes your Contingent Spell.  You cast that Spell as part of casting this one, expending both Spell Slots, and you describe a trigger for it.
+You cast that Spell as part of casting this one, expending both Spell Slots, but the chosen Spell's effect is delayed.
+
+After the trigger occurs, the Spell takes effect _(no Concentration required)_, targeting you.
 
 #### Ending Early
-This Spell ends after the Contingent Spell triggers, if you cast this Spell again, or if its Material Component leaves your space.
-
----
-
-#### Contingent Spells
-**Contingent Spells** are Spells cast in advance and held until the first time their trigger occurs, taking effect at that moment rather than when they were cast.
+This Spell ends after the trigger occurs, if you cast this Spell again, or if this Spell's Material Component leaves your space.

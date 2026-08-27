@@ -8,8 +8,8 @@
 | Components | S, M |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | |
-| Target | Each Creature in a 30-ft. Cube |
+| Area | A 30-ft. Cube |
+| Target | Each Creature |
 | Duration | 1 minute (Concentration) |
 
 ---
@@ -22,4 +22,9 @@ Each target makes a Will Save.
 | Success | No effect. |
 
 #### Ending Early
-This Spell ends on a target if it takes damage or a creature with that target within its Reach Utilizes to shake it out of the trance.
+This Spell ends on a target after it takes damage.
+
+##### Wake Up
+Any Creature that can reach a Charmed target can take this Action.
+
+**Utilize Action:** This Spell ends on the target.

@@ -7,20 +7,29 @@
 | Classes | Bard, Wizard |
 | Components | V, S, M |
 | Casting Time | 1 minute, or Ritual |
-| Range | Reach |
-| Area | |
-| Target | A 10-ft. radius Aura |
+| Range | — |
+| Area | A 10-ft. Aura |
+| Target | — |
 | Duration | 8 hours |
 
 ---
 
-You conjure an Anchored dome of magical force surrounding the area.
+You conjure a **¼**-inch thick barrier of magical force around the area.
 
-The dome has Immunity to all damage.  Everything inside the dome as it appears can pass through it freely; nothing else can pass through it.  A Spell whose Level is no higher than this Spell's can't be cast through the dome, and the effects of such a Spell can't extend into it.
+The barrier has the following effects:
 
-The dome holds up to **9** Medium or smaller creatures; it fails to appear if its space includes a larger creature or more than **9** creatures.  The atmosphere inside is comfortable and dry regardless of the weather outside.
+| Effect | |
+|---|---|
+| Semi-Visible | The barrier is opaque from the outside _(any color you choose)_, and translucent from the inside. |
+| Immovable | The barrier is Anchored. |
+| Impervious | The barrier has Immunity to all damage. |
+| Semi-Passable | Everything inside the barrier when it appears can pass through it freely; nothing else can pass through it, including Attacks and other effects. |
+| Ward Targeting | A lower-Level magical effect can't target anything in the area from outside the barrier. |
+| Ward Area | The area is excluded from a lower-Level magical effect's area. |
+| Comfortable | The area is comfortable and dry regardless of the weather outside. |
+| Dimmable | You can change the area's lighting from Bright Light, Dim Light, or Darkness _(no Action required)_. |
 
-The dome is opaque from the outside in any color you choose, and translucent from the inside. You can command its interior to be Dim Light or Darkness.
+Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.
 
 #### Ending Early
 This Spell ends if you leave the area or cast it again.

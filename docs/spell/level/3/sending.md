@@ -8,14 +8,14 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Unlimited |
-| Area | |
-| Target | **1** Creature |
+| Area | — |
+| Target | **1** Creature you have seen |
 | Duration | — |
 
 ---
 
-You send a short message to a Creature you have seen.
+If the target is on a different Plane, there is a **5**% chance this Spell has no effect.
 
-Each target hears the message in its mind, recognizes you as the sender if it knows you, and can respond in the same way or block you from using this Spell on it again for **8** hours.
+You speak a short message.
 
-There is a **5**% chance this Spell fails if the target is on a different plane.
+Each target hears the message in its mind, recognizes you as the sender if it knows you, and can respond in the same way or block you from targeting it with this Spell again for **8** hours.

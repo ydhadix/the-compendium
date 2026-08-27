@@ -8,10 +8,12 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature or Object |
 | Duration | — |
 
 ---
 
-All curses on the target end. If a target is a cursed Magic Item, its curse remains, but all creatures end their Attunement to it.
+You end **1** curse on each target.
+
+If a target is a Cursed Magic Item, it remains Cursed, but its Attunement with any Creatures ends.

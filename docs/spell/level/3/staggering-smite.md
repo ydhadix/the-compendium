@@ -6,15 +6,17 @@
 |---|---|
 | Classes | Paladin |
 | Components | V |
-| Casting Time | Bonus Action, when you hit with a Melee Weapon Attack |
+| Casting Time | Bonus Action, after you hit with a Melee Weapon Attack |
 | Range | — |
-| Area | |
-| Target | The target of the Attack |
+| Area | — |
+| Target | The target of the triggering Attack |
 | Duration | — |
 
 ---
 
-You deal **4d6** Psychic Damage, and each target makes a Will Save.
+You add **4d6** Psychic Damage to the triggering Attack.
+
+After the Attack, the target makes a Will Save.
 
 | | |
 |---|---|

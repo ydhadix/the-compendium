@@ -7,9 +7,9 @@
 | Classes | Bard, Sorcerer, Warlock, Wizard |
 | Components | V, S, M |
 | Casting Time | Magic Action |
-| Range | — |
-| Area | |
-| Target | Each Creature in a 30-ft. Cone |
+| Range | Reach |
+| Area | A 30-ft. Cone |
+| Target | Each Creature |
 | Duration | 1 minute (Concentration) |
 
 ---
@@ -22,7 +22,7 @@ Each target makes a Will Save.
 | Success | No effect. |
 
 #### Ending Early
-Before a target's Turn ends, it makes a Will Save.
+Before a target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

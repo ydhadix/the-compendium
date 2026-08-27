@@ -1,1 +1,1 @@
-| [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Magic Action | Unlimited | — | **1** Creature | — |
+| [Sending](/spell/level/3/sending.md) | Divination | V, S, M | Magic Action | Unlimited | — | **1** Creature you have seen | — |

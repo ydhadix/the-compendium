@@ -1,1 +1,1 @@
-| [Swift Quiver](/spell/level/3/swift-quiver.md) | Transmutation | V, S, M ($) | Bonus Action | — | — | Self | 1 minute (C) |
+| [Swift Quiver](/spell/level/3/swift-quiver.md) | Transmutation | V, S | Bonus Action | — | — | **1** Bow or Crossbow | 1 minute (C) |

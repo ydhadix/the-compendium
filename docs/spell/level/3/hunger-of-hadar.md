@@ -8,8 +8,8 @@
 | Components | V, S, M _(a pickled tentacle)_ |
 | Casting Time | Magic Action |
 | Range | 150 ft. |
-| Area | |
-| Target | Each Creature or Object in a 20-ft. radius Sphere |
+| Area | A 20-ft. radius Sphere |
+| Target | Each Creature and Object |
 | Duration | 1 minute (Concentration) |
 
 ---

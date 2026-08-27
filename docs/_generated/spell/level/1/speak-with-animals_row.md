@@ -1,1 +1,1 @@
-| [Speak with Animals](/spell/level/1/speak-with-animals.md) | Divination | V, S | Magic Action (R) | — | — | Self | 10 minutes |
+| [Speak with Animals](/spell/level/1/speak-with-animals.md) | Divination | V, S | Magic Action (R) | — | A 30-ft. Aura | Each Beast | 10 minutes |

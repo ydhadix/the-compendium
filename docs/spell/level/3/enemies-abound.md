@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
@@ -22,7 +22,7 @@ Each target makes a Will Save. If a target has Fear Immunity, it automatically s
 | Success | No effect. |
 
 #### Ending Early
-After a target takes damage, it makes a Will Save.
+After a target takes damage, it repeats this Saving Throw.
 
 | | |
 |---|---|

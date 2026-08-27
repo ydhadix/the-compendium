@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
-| Target | A 30-ft. × 10-ft. × 10-ft. Wall |
+| Area | A 30-ft. × 10-ft. × 10-ft. Wall |
+| Target | — |
 | Duration | 10 minutes (Concentration) |
 
 ---

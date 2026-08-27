@@ -8,17 +8,17 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | — |
-| Area | |
-| Target | Each Creature in a 10-ft. Aura |
+| Area | A 10-ft. Aura |
+| Target | Each Creature and Object you choose |
 | Duration | 1 minute (Concentration) |
 
 ---
 
 Choose Radiant, Necrotic, or Cold Damage.
 
-Your Attacks against a target in the area deal an additional **1d8** damage of the chosen type.
+Before you deal damage to a target with an Attack, you can add **1d8** damage of the chosen type.
 
-After a Creature you choose starts its Turn in the area, its Speed decreases by **10** feet until the start of its next Turn.
+After a target starts its Turn in the area, its Speed decreases by **10** feet until the start of its next Turn.
 
 #### At Higher Levels
 Add **1d8** damage per additional Spell Level.

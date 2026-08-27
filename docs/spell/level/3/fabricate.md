@@ -8,12 +8,12 @@
 | Components | V, S |
 | Casting Time | 10 minutes |
 | Range | 120 ft. |
-| Area | |
+| Area | — |
 | Target | — |
 | Duration | — |
 
 ---
 
-You transform metal, stone, or another mineral into a Large or smaller Object, provided you have enough of it.
+You permanently transform raw materials into a Large or smaller Object, provided you have enough material.
 
-The object's quality matches the raw materials.  You can't create creatures or magic items, nor items requiring significant skill — such as weapons or armor — unless you have Proficiency with the relevant Artisan's Tools.
+You can only create Objects requiring significant skill _(such as Weapons or Armor)_ if you have Proficiency with relevant Artisan's Tools.  You can't create Creatures or Magic Items.

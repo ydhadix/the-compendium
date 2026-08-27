@@ -124,6 +124,7 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/3/glyph-of-warding_row.md"
 --8<-- "_generated/spell/level/3/haste_row.md"
 --8<-- "_generated/spell/level/3/intellect-fortress_row.md"
+--8<-- "_generated/spell/level/3/locate-creature_row.md"
 --8<-- "_generated/spell/level/3/protection-from-energy_row.md"
 --8<-- "_generated/spell/level/3/remove-curse_row.md"
 --8<-- "_generated/spell/level/3/revivify_row.md"

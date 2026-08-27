@@ -1,1 +1,1 @@
-| [Major Image](/spell/level/3/major-image.md) | Illusion | V, S, M | Magic Action | 120 ft. | — | A 20-ft. Cube | 10 minutes (C) |
+| [Major Image](/spell/level/3/major-image.md) | Illusion | V, S, M | Magic Action | 120 ft. | A 20-ft. Cube | — | 10 minutes (C) |

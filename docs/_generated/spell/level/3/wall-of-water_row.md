@@ -1,1 +1,1 @@
-| [Wall of Water](/spell/level/3/wall-of-water.md) | Evocation | V, S, M | Magic Action | 60 ft. | — | A 30-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder | 10 minutes (C) |
+| [Wall of Water](/spell/level/3/wall-of-water.md) | Evocation | V, S, M | Magic Action | 60 ft. | A 30-ft. × 5-ft. × 10-ft. Wall, or a 10-ft.-radius, 20-ft. Cylinder | — | 10 minutes (C) |

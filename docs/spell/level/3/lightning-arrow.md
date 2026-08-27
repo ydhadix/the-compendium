@@ -6,22 +6,17 @@
 |---|---|
 | Classes | Ranger |
 | Components | V, S |
-| Casting Time | Bonus Action, when you hit or miss with a Ranged Weapon Attack |
+| Casting Time | Bonus Action, before you hit or miss with a Ranged Weapon Attack |
 | Range | — |
-| Area | |
-| Target | The target of the Attack, and everything within 10 ft. of it |
+| Area | — |
+| Target | The target of the triggering Attack |
 | Duration | — |
 
 ---
 
-The Attack deals Lightning Damage instead of its normal damage.
+You add **2d8** Lightning Damage to the triggering Attack, and the Attack can deal Lightning Damage instead of its normal Damage Type.
 
-| | |
-|---|---|
-| Hit | You deal **4d8** Lightning Damage. |
-| Miss | You deal half as much damage. |
-
-After the attack, each Creature or Object within **10** feet of the target then makes a Reflex Save.
+After the Attack, the target and each Creature and Object you choose within **10** feet of the target makes a Reflex Save.
 
 | | |
 |---|---|
