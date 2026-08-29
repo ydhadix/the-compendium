@@ -1,1 +1,1 @@
-| [Spyglass](/item/gear/tool/spyglass.md) | Tool | 000 gold |
+| [Spyglass](/item/gear/tool/spyglass.md) | Tool | 1,000 gold |

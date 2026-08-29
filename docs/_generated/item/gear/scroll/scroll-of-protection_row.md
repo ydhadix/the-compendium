@@ -1,1 +1,1 @@
-| [Scroll of Protection](/item/gear/scroll/scroll-of-protection.md) | Scroll | 000 gold |
+| [Scroll of Protection](/item/gear/scroll/scroll-of-protection.md) | Scroll | 2,000 gold |

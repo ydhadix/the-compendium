@@ -1,1 +1,1 @@
-| [Potion of Flying](/item/gear/potion/potion-of-flying.md) | Potion (Ingested) | 000 gold |
+| [Potion of Flying](/item/gear/potion/potion-of-flying.md) | Potion (Ingested) | 20,000 gold |

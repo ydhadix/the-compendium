@@ -76,8 +76,15 @@ def sizeCell(card):
 
 
 # --- Items -------------------------------------------------------------------------------------
+def isThousandsComma(text, index):
+   """Whether the comma at `index` is a digit separator (`20,000`) rather than a token break."""
+   before = text[index - 1] if index > 0 else ""
+   after = text[index + 1] if index + 1 < len(text) else ""
+   return before.isdigit() and after.isdigit()
+
+
 def splitTopLevel(text):
-   """Comma-separated tokens, ignoring commas nested inside parentheses."""
+   """Comma-separated tokens, ignoring commas nested inside parentheses or separating digits."""
    tokens = []
    depth = 0
    start = 0
@@ -86,7 +93,7 @@ def splitTopLevel(text):
          depth += 1
       elif char == ")":
          depth -= 1
-      elif char == "," and depth == 0:
+      elif char == "," and depth == 0 and not isThousandsComma(text, index):
          tokens.append(text[start:index].strip())
          start = index + 1
    tokens.append(text[start:].strip())

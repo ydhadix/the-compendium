@@ -1,1 +1,1 @@
-| [Ironwill](/item/gear/material/ironwill.md) | Material (Metal) | 500 gold |
+| [Ironwill](/item/gear/material/ironwill.md) | Material (Metal) | 2,500 gold |

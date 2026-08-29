@@ -1,1 +1,1 @@
-| [Elixir of Health](/item/gear/potion/elixir-of-health.md) | Potion (Ingested) | 000 gold |
+| [Elixir of Health](/item/gear/potion/elixir-of-health.md) | Potion (Ingested) | 2,000 gold |
