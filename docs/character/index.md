@@ -2,6 +2,10 @@
 
 ## Character Creation
 
+| Character Sheets |
+|---|
+| [v1 with Spell Sheet](sheets/character_sheet_v1.pdf) |
+
 ### 1. Choose Abilities
 Your Abilities start at **0**, the baseline for a typical person. When you create your character, choose **4** Abilities to increase by **1** each.
 
