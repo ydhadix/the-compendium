@@ -1,4 +1,4 @@
-# Armorer
+# Armorer Artificer
 Armorers forge arcane armor into an extension of themselves.
 { .subtitle }
 
@@ -49,7 +49,7 @@ Your Arcane Armor counts as **4** separate items for the purpose of Magic Items 
 ### 3: Armor Model
 Choose **1** of the [Armor Models](#armor-models) for your Arcane Armor.
 
-Each Armor Model has a special Weapon; Attacks with that Weapon can use your Class Ability.
+Each Armor Model has a special Weapon.  Attacks with that Weapon can use your Class Ability.
 
 #### Changing Armor Model
 After a Short Rest, you can change your Armor Model.
@@ -71,7 +71,7 @@ Your Arcane Armor Weapons deal **1** additional Damage Die, and your [Armor Mode
 
 | Weapon | Damage | Weight | Hands | Properties | Techniques |
 |---|---|---|---|---|---|
-| Wrecking Ball | 1d10 Force | — | One | Reach | Graze, Slow, Topple |
+| Wrecking Ball | 1d10 Force | Heavy | One | Reach | Graze, Slow, Topple |
 
 After you damage a creature with your Wrecking Ball, you propel the target up to **10** feet away from you.
 

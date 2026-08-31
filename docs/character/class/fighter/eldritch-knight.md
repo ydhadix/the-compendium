@@ -1,4 +1,4 @@
-# Eldritch Knight
+# Eldritch Knight Fighter
 Eldritch Knights temper martial skill with arcane magic, binding weapon and Spell into a single deadly art.
 { .subtitle }
 

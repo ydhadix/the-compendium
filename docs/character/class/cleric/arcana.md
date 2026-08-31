@@ -1,4 +1,4 @@
-# Arcana Domain
+# Arcana Domain Cleric
 Clerics of the Arcana domain bridge divine and arcane magic, wielding wizardly Spells alongside the gifts of their deity.
 { .subtitle }
 
@@ -11,7 +11,7 @@ Clerics of the Arcana domain bridge divine and arcane magic, wielding wizardly S
 
 ## Subclass Features
 ### 3: Arcana Spells
-Your specialization grants you additional Spells. You learn these Spells at the corresponding Cleric Levels.
+You learn the following Spells at the corresponding Cleric Levels.
 
 | Level | Spells |
 |---|---|

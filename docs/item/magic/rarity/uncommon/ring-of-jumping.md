@@ -2,5 +2,4 @@
 Uncommon Clothing (Jewelry), Attunement
 { .subtitle }
 
-##### Cast
-**Bonus Action:** You can cast _Jump_, targeting yourself.
+You gain the effect of _Jump_.

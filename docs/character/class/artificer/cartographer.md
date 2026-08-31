@@ -1,4 +1,4 @@
-# Cartographer
+# Cartographer Artificer
 Cartographers chart the world and bend distance to their will, guiding their allies along the safest paths.
 { .subtitle }
 

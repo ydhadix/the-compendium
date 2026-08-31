@@ -127,8 +127,9 @@ nav:
           - Eldritch Knight:        character/class/fighter/eldritch-knight.md
         - Monk:
           - Monk Overview:          character/class/monk/index.md
-        - Paladin (WIP):
+        - Paladin:
           - Paladin Overview:       character/class/paladin/index.md
+          - Oath of Glory:          character/class/paladin/glory.md
         - Ranger:
           - Ranger Overview:        character/class/ranger/index.md
           - Primal Imprints:        character/class/ranger/imprint.md

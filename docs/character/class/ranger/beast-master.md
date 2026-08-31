@@ -1,4 +1,4 @@
-# Beast Master
+# Beast Master Ranger
 Beast Masters fight alongside a Primal Companion, a loyal beast bonded to them as a partner in battle.
 { .subtitle }
 

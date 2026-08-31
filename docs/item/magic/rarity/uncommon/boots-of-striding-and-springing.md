@@ -2,7 +2,6 @@
 Uncommon Clothing (Boots), Attunement
 { .subtitle }
 
-Your Speed becomes **30** feet, unless it is already higher, and you ignore the Strength Requirements of Heavy Armor.
+You gain Immobile Immunity and your Speed becomes **30** feet, unless it is already higher.
 
-##### Jump
-**Free Action; 10 feet of movement, Once per Turn:** You can jump up to **30** feet.
+You gain the effect of _Jump_.
