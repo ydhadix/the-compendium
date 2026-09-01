@@ -21,5 +21,4 @@ A Creature that attacks the target or targets it with a harmful Spell that has n
 | Fail | The creature chooses a new target or loses the Attack or Spell. |
 | Success | No effect. |
 
-#### Ending Early
-This Spell ends on a target if it attacks, deals damage, or causes a Saving Throw.
+After a target attacks, deals damage, or causes a Saving Throw, this Spell ends on it.

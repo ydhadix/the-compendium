@@ -1,1 +1,1 @@
-| [Forbiddance](/spell/level/6/forbiddance.md) | Abjuration | V, S, M ($) | 10 minutes (R) | Reach | Up to a 200-ft. Cube | Each Creature of the Planar Creature Types you choose | 24 hours |
+| [Forbiddance](/spell/level/6/forbiddance.md) | Abjuration | V, S, M ($) | 10 minutes (R) | Reach | Up to a 200-ft. Cube | Each Creature | 24 hours |

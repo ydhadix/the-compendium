@@ -18,10 +18,7 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | The target gains Disadvantage on Attack Rolls that don't target you, and it can't willingly move out of Range. |
+| Fail | The target gains Disadvantage on Attack Rolls that don't target you, and it can't willingly move out of Range.<br>After an Ally damages the target, or after you end your Turn while the target is out of Range, this Spell ends on it. |
 | Success | No effect. |
 
-#### Ending Early
-This Spell ends on a target if an Ally damages it, or if you end your Turn while it is out of Range.
-
-This Spell ends if you attack or cast a Spell on an Enemy that isn't a target.
+After you attack or cast a Spell on an Enemy that isn't a target, this Spell ends.

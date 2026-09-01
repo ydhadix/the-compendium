@@ -6,9 +6,9 @@
 |---|---|
 | Classes | Paladin |
 | Components | V |
-| Casting Time | Bonus Action, when you hit with a Melee Weapon Attack |
+| Casting Time | Bonus Action, after you hit with a Melee Weapon Attack |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | The target of the Attack |
 | Duration | 1 minute (Concentration) |
 

@@ -18,11 +18,4 @@ You conjure the image of an object, creature, or other visible phenomenon in the
 
 After the trigger occurs, the image performs as you described, then vanishes and lies dormant for **10** minutes before it can be triggered again.
 
-##### Search
-Any Creature that perceives the illusion can take this Action.
-
-**Search Action:** The creature makes a Perception Check against your Spell Save DC.
-
-| | |
-|---|---|
-| Success | The illusion becomes faint to the creature. |
+--8<-- "spell/_variant/search.md"

@@ -16,13 +16,10 @@
 
 Choose Fuming, Mirthful, or Tricksy.
 
-You conjure a Fey Spirit Companion of the chosen type.
+You conjure a Fey Spirit Companion of the chosen type.  After the spirit drops to **0** Hit Points, this Spell ends.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.
-
-#### Ending Early
-This Spell ends if the spirit has **0** Hit Points.
 
 ---
 

@@ -8,7 +8,7 @@
 | Components | V, S, M _(a gilded acorn worth 200 Gold, containing a feather, a tuft of fur, and a scale)_ |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
+| Area | — |
 | Target | — |
 | Duration | 1 hour (Concentration) |
 
@@ -16,16 +16,10 @@
 
 Choose Land, Water, or Air.
 
-You conjure a Bestial Spirit Companion.
+You conjure a Bestial Spirit Companion.  After the spirit drops to **0** Hit Points, this Spell ends.
 
 ##### Command
 **Free Action:** You can command the spirit to move and take any Action available to it.
-
-#### Ending Early
-This Spell ends if the spirit has **0** Hit Points.
-
-#### At Higher Levels
-The Spell Level determines the spirit's Armor Class, Hit Points, and attack damage.
 
 ---
 

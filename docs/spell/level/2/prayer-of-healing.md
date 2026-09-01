@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | 10 minutes |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | Up to **5** Creatures |
 | Duration | — |
 

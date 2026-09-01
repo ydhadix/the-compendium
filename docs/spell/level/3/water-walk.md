@@ -17,6 +17,4 @@
 Each target interacts with liquid surfaces as if they were solid ground _(heat or cold from the surface can still damage the target)_.
 
 ##### Cross Boundary
-Any target can take this Action.
-
-**Bonus Action:** The target passes through the liquid's surface, entering or leaving the liquid.
+**Bonus Action:** Any target can pass through a liquid's surface, entering or leaving the liquid.

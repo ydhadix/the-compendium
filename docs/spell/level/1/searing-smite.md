@@ -16,7 +16,6 @@
 
 You deal **1d6** Fire Damage.
 
-#### Ending Early
 After a target's Turn starts, you deal **1d6** Fire Damage and it makes a Fortitude Save.
 
 | | |

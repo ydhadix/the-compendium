@@ -19,11 +19,11 @@ You conjure a vine.  The vine is a Large Plant Object with Immunity to all damag
 You take the following Action as part of casting this Spell.
 
 ##### Lash
-**Bonus Action:** You can make a Melee Spell Attack against **1** Creature or Object within **30** feet of the vine.
+**Bonus Action:** You can release any of the vine's grappled targets.  Then, you can make a Melee Spell Attack against **1** Creature or Object within **30** feet of the vine.
 
 | | |
 |---|---|
-| Hit | You deal **4d8 + Spellcasting Ability** Bludgeoning Damage and propel the target up to **30** feet toward the vine.  If the target is Huge or smaller, the vine grapples it _(Escape DC **Spell Save DC**)_. |
+| Hit | You deal **4d8 + Spellcasting Ability** Bludgeoning Damage and propel the target up to **30** feet toward the vine.  If the target is Huge or smaller, the vine can grapple it _(Escape DC **Spell Save DC**)_.  While Grappled by the vine, a target is Restrained.  The vine can only grapple **1** target at a time. |
 
 #### At Higher Levels
 Add **1** creature the vine can grapple per additional Spell Level.

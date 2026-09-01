@@ -8,13 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | Each Creature or Object in a 5-ft. radius Sphere |
+| Area | A 5-ft. radius Sphere |
+| Target | Each Creature and Object |
 | Duration | 1 minute (Concentration) |
 
 ---
 
-You conjure a sphere of flames in the area, which emits Bright Light out to **20** feet and Dim Light **20** feet further.
+The area is filled with Bright Light and emits Dim Light **5** feet further.
 
 After a target enters the area _(including when this Spell is cast or the area moves)_, it makes a Reflex Save.  After your Turn starts, each target also makes this Saving Throw.  A target only makes this Saving Throw once until the start of your next Turn.
 

@@ -14,10 +14,7 @@
 
 ---
 
-You turn Invisible, and conjure an intangible, illusory double of yourself in your space.  You can perceive through the double's senses.
+You turn Invisible, and conjure an intangible, illusory double of yourself in your space.  You can perceive through the double's senses.  After you Attack, deal damage, or cause a Saving Throw, this Spell ends.
 
 ##### Move Double
 **Bonus Action:** You can move the double up to twice your Speed and have it gesture, speak, or mime some other act.  As it moves, you can alter its appearance and the sounds it makes so they seem natural.
-
-#### Ending Early
-This Spell ends if you Attack, deal damage, or cause a Saving Throw.

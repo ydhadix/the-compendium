@@ -20,7 +20,7 @@ While your soul is in the container, you sense your surroundings from the contai
 
 Your soul returns to your body after the container is destroyed or this Spell ends; if your body is dead or more than **100** feet away, you die instead.  If another creature's soul is in the container when it is destroyed, that soul returns to its body if the body is alive and within **100** feet; otherwise, that creature dies.
 
-The container is destroyed when this Spell ends.
+After your soul returns to your body or you die, this Spell ends.  The container is destroyed when this Spell ends.
 
 ##### Project
 **Magic Action:** You can project your soul up to **100** feet from the container, either returning to your body or possessing one Humanoid.  A creature warded by _Protection from Good & Evil_ or _Magic Circle_ can't be possessed.
@@ -36,6 +36,3 @@ The Humanoid makes a Will Save.
 **Magic Action:** While possessing a body, you can return to the container if it is within **100** feet, returning the host's soul to its body.
 
 If the host body dies while you possess it, the host dies and you make a Will Save against your Spell Save DC.  On a success, you return to the container if it is within **100** feet; otherwise, you die.
-
-#### Ending Early
-This Spell ends after your soul returns to your body or you die.

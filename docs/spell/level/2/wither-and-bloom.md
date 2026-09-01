@@ -8,13 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | Each Creature in a 10-ft. radius Sphere |
+| Area | A 10-ft. radius Sphere |
+| Target | Each Creature |
 | Duration | 1 minute (Concentration) |
 
 ---
 
-One target can expend and roll up to **1** Hit Die, then heals by the total rolled plus your Spellcasting Ability.
+One target can expend and roll up to **1** Hit Die, then you heal it by **the total + Spellcasting Ability**.
 
 Each other target makes a Fortitude Save.
 

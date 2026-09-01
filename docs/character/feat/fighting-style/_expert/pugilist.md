@@ -4,4 +4,10 @@ Prerequisite: **2** Strength
 
 Your Unarmed Strikes deal **1d6** Bludgeoning Damage and have Versatile _(**1d8**)_.
 
-After you succeed on a Grapple against a creature you're already Grappling, the target is also Restrained until the Grapple ends.
+##### Pin
+**1 Unarmed Strike:** You can make a Grapple check against a creature you're already Grappling.
+
+| | |
+|---|---|
+| Success | You restrain the target until the Grapple ends. |
+| Fail | No effect. |

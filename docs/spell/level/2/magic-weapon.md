@@ -8,15 +8,15 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Weapon |
 | Duration | 1 hour |
 
 ---
 
-Each target becomes a magic weapon and its Weapon Attack and Damage Rolls increase by **1**, unless it already has an equivalent or greater Masterwork bonus.
+Each target's Physical Masterwork bonus becomes **+1**, unless it is already higher.
 
 #### At Higher Levels
-When Upcast to 3rd- or 4th-Level, they instead increase by **2**.
+When Upcast to 3rd- or 4th-Level, the bonus becomes **+2**.
 
-When Upcast to 5th-Level or higher, they instead increase by **3**.
+When Upcast to 5th-Level or higher, the bonus becomes **+3**.

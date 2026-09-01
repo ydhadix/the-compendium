@@ -8,12 +8,14 @@
 | Components | V, S, M _(consumes jade dust worth 10 Gold)_ |
 | Casting Time | 1 minute, or Ritual |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Object |
 | Duration | Until dispelled |
 
 ---
 
-You implant a spoken message of **25** words or fewer in the target, which no one is wearing or carrying.  You set a trigger — any visual or audible condition within **30** feet of the object, such as a creature approaching or a bell ringing.
+You speak a short message, recording it in each target.
 
-When the trigger occurs, a magical mouth appears on the object and recites the message in your voice.  You choose whether this Spell then ends or repeats its message each time the trigger recurs.
+Choose a perceivable trigger, and whether the message repeats.
+
+After the trigger occurs, you conjure a mouth on the target that recites the message in your voice, then if you chose not to repeat the message, this Spell ends on the target.

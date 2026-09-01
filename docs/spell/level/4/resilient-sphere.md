@@ -26,14 +26,12 @@ The barrier has the following effects:
 | Ward Targeting | A lower-Level magical effect can't target anything in the area from outside the barrier. |
 | Ward Area | The area is excluded from a lower-Level magical effect's area. |
 
-Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.  Then, each target enclosed by the barrier makes a Reflex Save.  If a target is Huge or larger, it automatically succeeds.
+Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.  Then, each target in the area makes a Reflex Save.  If a target is Huge or larger, it automatically succeeds.
 
 | | |
 |---|---|
 | Fail | No effect. |
-| Success | The target can move up to its Speed to escape the enclosure. |
+| Success | The target can move up to half its Speed. |
 
 ##### Roll Sphere
-Any enclosed creature can take this Action.
-
-**Utilize Action:** The creature propels the barrier, and everything in it, up to half the creature's Speed.
+**Utilize Action:** Any creature in the area can move the area, and everything in it, up to half the creature's Speed.

@@ -31,5 +31,4 @@ The barrier has the following effects:
 
 Before the barrier appears, you propel each Creature and Object in the barrier's space to either side of it.
 
-#### Ending Early
-This Spell ends if you leave the area or cast it again.
+After you leave the area, this Spell ends.  After you cast this Spell again, the previous casting ends.

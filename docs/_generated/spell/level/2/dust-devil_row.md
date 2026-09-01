@@ -1,1 +1,1 @@
-| [Dust Devil](/spell/level/2/dust-devil.md) | Conjuration | V, S, M | Magic Action | 60 ft. | — | Each Creature or Object in a 10-ft. radius Sphere | 1 minute (C) |
+| [Dust Devil](/spell/level/2/dust-devil.md) | Conjuration | V, S, M | Magic Action | 60 ft. | A 10-ft. radius, 20-ft. Cylinder | Each Creature and Object | 1 minute (C) |

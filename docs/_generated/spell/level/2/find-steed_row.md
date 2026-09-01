@@ -1,1 +1,1 @@
-| [Find Steed](/spell/level/2/find-steed.md) | Conjuration | V, S | Magic Action | 30 ft. | — | — | — |
+| [Find Steed](/spell/level/2/find-steed.md) | Conjuration | V, S | Magic Action | 30 ft. | — | — | Until dispelled |

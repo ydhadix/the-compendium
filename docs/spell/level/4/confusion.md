@@ -30,7 +30,6 @@ After an affected target's Turn starts, it rolls **1d10** to determine its behav
 | 7–8 | The target attacks **1** random creature within Reach.  If none is within Reach, it takes no Action. |
 | 9–10 | The target chooses its behavior. |
 
-#### Ending Early
 Before a target's Turn ends, it repeats this Saving Throw.
 
 | | |

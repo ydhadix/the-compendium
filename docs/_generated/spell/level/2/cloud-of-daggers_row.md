@@ -1,1 +1,1 @@
-| [Cloud of Daggers](/spell/level/2/cloud-of-daggers.md) | Conjuration | V, S, M | Magic Action | 60 ft. | — | Each Creature or Object in a 5-ft. Cube | 1 minute (C) |
+| [Cloud of Daggers](/spell/level/2/cloud-of-daggers.md) | Conjuration | V, S, M | Magic Action | 60 ft. | A 5-ft. Cube | Each Creature and Object | 1 minute (C) |

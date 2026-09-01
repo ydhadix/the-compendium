@@ -14,7 +14,6 @@ Transmutation Cantrip
 
 ---
 
-Each target becomes a Simple Melee Weapon with Thrown _(**60** feet)_. Attacks using a target can use your Spellcasting Ability for Attack and Damage Rolls, and the target's Damage Die is **1d6** Bludgeoning or Force Damage.
+Each target becomes a Simple Melee Weapon with Thrown _(**60** feet)_. Attacks using a target can use your Spellcasting Ability for Attack and Damage Rolls, and the target's Damage Die is **1d6** Bludgeoning or Force Damage.  After a target is used to attack, this Spell ends on it.
 
-#### Ending Early
-This Spell ends on a target after it is used to attack.  This Spell ends if you cast it again.
+After you cast this Spell again, the previous casting ends.

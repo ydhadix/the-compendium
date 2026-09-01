@@ -29,7 +29,7 @@ After a target enters the area _(including when this Spell is cast or the area m
 
 | | |
 |---|---|
-| Fail | You deal **8d8** damage of the element's Damage Type, and the spirit can grapple the target _(Escape DC **Spell Save DC**)_.  While Grappled, it is also Restrained. The spirit can only grapple **1** target at a time. |
+| Fail | You deal **8d8** damage of the element's Damage Type, and the spirit can grapple the target _(Escape DC **Spell Save DC**)_.  While Grappled by the spirit, a target is Restrained. The spirit can only grapple **1** target at a time. |
 | Success | You deal half as much damage. |
 
 ##### Move

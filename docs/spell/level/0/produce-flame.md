@@ -14,20 +14,17 @@ Conjuration Cantrip
 
 ---
 
-You conjure a flame in your hand that is harmless to you and emits Bright Light out to **20** feet and Dim Light **20** feet further.
+You conjure a flame in your hand that is harmless to you and emits Bright Light out to **20** feet and Dim Light **20** feet further.  After you cast this Spell again, the previous casting ends.
 
 You can take the following Action as part of casting this Spell.
 
 ##### Throw
-**Bonus Action:** You can throw the flame at a Creature or Object within **60** feet. The target makes a Reflex Save.
+**Bonus Action:** You can throw the flame at a Creature or Object within **60** feet, ending this Spell. The target makes a Reflex Save.
 
 | | |
 |---|---|
 | Fail | You deal **1d8** Fire Damage. You burn _(**1d4**)_ a flammable object. |
 | Success | No effect. |
-
-#### Ending Early
-This Spell ends after you cast it again or use the Throw Action.
 
 #### At Higher Levels
 Add **1d8** to the damage at Level 5, Level 11, and Level 17.

@@ -21,7 +21,6 @@ Each target makes a Will Save.
 | Fail | You deal **4d10** Psychic Damage, and the target gains Disadvantage on Ability Checks and Attack Rolls. |
 | Success | You deal half as much damage, then this Spell ends on the target. |
 
-#### Ending Early
 Before a target's Turn ends, it repeats this Saving Throw.
 
 | | |

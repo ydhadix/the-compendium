@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | — |
 

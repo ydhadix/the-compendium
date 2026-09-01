@@ -1,1 +1,1 @@
-| [Web](/spell/level/2/web.md) | Conjuration | V, S, M | Magic Action | 60 ft. | — | Each Creature or Object in a 20-ft. Cube | 1 hour (C) |
+| [Web](/spell/level/2/web.md) | Conjuration | V, S, M | Magic Action | 60 ft. | A 20-ft. Cube | Each Creature and Object | 1 hour (C) |

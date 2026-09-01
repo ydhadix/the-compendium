@@ -14,12 +14,9 @@
 
 ---
 
-You gain **5** Temporary Hit Points.
+You gain **5** Temporary Hit Points.  After you lose your last Temporary Hit Point, this Spell ends.
 
 After you are hit by a Melee Attack, you deal **5** Cold Damage to the attacker.
-
-#### Ending Early
-This Spell ends if you have no Temporary Hit Points.
 
 #### At Higher Levels
 Add **5** Temporary Hit Points and **5** damage per additional Spell Level.

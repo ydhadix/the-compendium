@@ -8,14 +8,14 @@
 | Components | V, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | A 15-ft. radius Sphere, or **1** Object |
+| Area | A 15-ft. radius Sphere |
+| Target | Up to **1** Object |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
-If a target is an object, the area is a **15**-foot Aura centered on the target, which can be covered or hidden.
+If a target is an Object, the area is centered on the target and moves with it.
 
-The area is filled with Darkness. Darkvision can't see through it, and nonmagical light can't illuminate it.
+The area is filled with Magical Darkness.
 
 If the area overlaps any Light conjured by a lower-Level Spell, you dispel it.

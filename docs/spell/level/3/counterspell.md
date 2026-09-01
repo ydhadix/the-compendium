@@ -6,7 +6,7 @@
 |---|---|
 | Classes | Sorcerer, Warlock, Wizard |
 | Components | S |
-| Casting Time | Reaction, when a creature casts a Spell with components |
+| Casting Time | Reaction, before a creature casts a Spell with components |
 | Range | 60 ft. |
 | Area | — |
 | Target | The triggering Spell |

@@ -1,1 +1,1 @@
-| [Pyrotechnics](/spell/level/2/pyrotechnics.md) | Transmutation | V, S | Magic Action | 60 ft. | — | Each Creature or Object in a 20-ft. radius Sphere | 1 minute (C) |
+| [Pyrotechnics](/spell/level/2/pyrotechnics.md) | Transmutation | V, S | Magic Action | 60 ft. | A 20-ft. radius Sphere | Each Creature and Object | 1 minute (C) |

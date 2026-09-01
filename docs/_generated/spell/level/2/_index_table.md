@@ -31,7 +31,6 @@
 --8<-- "_generated/spell/level/2/find-steed_row.md"
 --8<-- "_generated/spell/level/2/flame-blade_row.md"
 --8<-- "_generated/spell/level/2/flaming-sphere_row.md"
---8<-- "_generated/spell/level/2/fortunes-favor_row.md"
 --8<-- "_generated/spell/level/2/gentle-repose_row.md"
 --8<-- "_generated/spell/level/2/gust-of-wind_row.md"
 --8<-- "_generated/spell/level/2/heat-metal_row.md"

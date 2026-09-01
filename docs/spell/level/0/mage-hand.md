@@ -14,10 +14,7 @@ Conjuration Cantrip
 
 ---
 
-You conjure a Tiny, floating, spectral hand with Immunity to all damage. The hand can't attack, activate Magic Items, or carry more than **10** pounds.
+You conjure a Tiny, floating, spectral hand with Immunity to all damage. The hand can't attack, activate Magic Items, or carry more than **10** pounds.  After the hand moves out of Range, this Spell ends.  After you cast this Spell again, the previous casting ends.
 
 ##### Utilize
 **Magic Action:** You can move the hand up to **30** feet, then Utilize using the hand.
-
-#### Ending Early
-This Spell ends if you cast it again or if the hand moves out of Range.

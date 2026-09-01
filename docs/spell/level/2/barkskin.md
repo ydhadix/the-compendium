@@ -8,10 +8,10 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 hour |
 
 ---
 
-The target's Armor Class becomes **15 + PB**, unless it is already higher.
+The target's Armor Class becomes **15 + PB**, unless it is already higher, and the target's Damage Reduction becomes **your Spellcasting Ability**, unless it is already higher.

@@ -14,7 +14,4 @@
 
 ---
 
-You propel each target in the area to the nearest unoccupied space outside it.  A target can't enter the area or reach into it _(Spells, Ranged Attacks, and Reach Weapons still pass through)_.
-
-#### Ending Early
-This Spell ends if you move so that a blocked creature would be forced into the area.
+You propel each target in the area to the nearest unoccupied space outside it.  A target can't enter the area or reach into it _(Spells, Ranged Attacks, and Reach Weapons still pass through)_.  After you move so that a blocked creature would be forced into the area, this Spell ends.

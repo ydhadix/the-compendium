@@ -8,14 +8,13 @@
 | Components | V, S, M _(consumes gold dust worth 25 Gold)_ |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
-| Target | **1** closed Door, Window, Container, or other opening |
+| Area | — |
+| Target | **1** closed Door, Window, Container, Hatch, or Gate |
 | Duration | Until dispelled |
 
 ---
 
-Each target can't be unlocked or opened by nonmagical means.
+Other creatures can't unlock or open a target by nonmagical means.
 
-You can designate creatures that ignore this effect.
-
-You can also set a verbal password that unlocks the target for **1** minute.
+#### Password
+After you cast this Spell, you can choose a password.  After a creature speaks this password, or presents it visually, the creature ignores this Spell's effects.

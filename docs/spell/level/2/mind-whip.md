@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | Until the end of the target's next Turn |
 

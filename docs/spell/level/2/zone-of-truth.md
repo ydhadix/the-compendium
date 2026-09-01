@@ -8,8 +8,8 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | Each Creature in a 15-ft. radius Sphere |
+| Area | A 15-ft. radius Sphere |
+| Target | Each Creature |
 | Duration | 10 minutes |
 
 ---

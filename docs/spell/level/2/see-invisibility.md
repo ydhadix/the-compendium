@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 1 hour |
 

@@ -8,13 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Level 0 Beast |
 | Duration | 24 hours |
 
 ---
 
-You speak a short message aloud, then describe a recipient and a location. Each target makes a Will Save.
+You speak a short message aloud, then describe a recipient and a location.  Each target makes a Will Save.
 
 | | |
 |---|---|

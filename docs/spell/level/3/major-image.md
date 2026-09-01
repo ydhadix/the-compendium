@@ -19,14 +19,7 @@ You conjure the image of an object, creature, or other visible phenomenon.  It s
 ##### Move
 **Magic Action:** You can move the image up to **120** feet.  As it moves, you can alter its appearance and the sounds it makes so they seem natural.
 
-##### Search
-Any Creature that perceives the illusion can take this Action.
-
-**Search Action:** The creature makes a Perception Check against your Spell Save DC.
-
-| | |
-|---|---|
-| Success | The illusion becomes faint to that creature. |
+--8<-- "spell/_variant/search.md"
 
 #### At Higher Levels
 When Upcast to 4th-Level or higher, this Spell lasts until dispelled and doesn't require Concentration.

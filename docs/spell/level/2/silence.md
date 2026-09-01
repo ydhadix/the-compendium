@@ -8,8 +8,8 @@
 | Components | V, S |
 | Casting Time | Magic Action, or Ritual |
 | Range | 120 ft. |
-| Area | |
-| Target | A 20-ft. radius Sphere |
+| Area | A 20-ft. radius Sphere |
+| Target | Each Creature and Object |
 | Duration | 10 minutes (Concentration) |
 
 ---

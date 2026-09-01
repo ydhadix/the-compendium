@@ -1,1 +1,1 @@
-| [Pass Without Trace](/spell/level/2/pass-without-trace.md) | Abjuration | V, S, M | Magic Action | — | — | Each Creature in a 30-ft. Aura | 1 hour (C) |
+| [Pass Without Trace](/spell/level/2/pass-without-trace.md) | Abjuration | V, S, M | Magic Action | 30 ft. | — | Each Creature you choose | 1 hour (C) |

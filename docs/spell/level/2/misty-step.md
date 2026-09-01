@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Bonus Action |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | — |
 

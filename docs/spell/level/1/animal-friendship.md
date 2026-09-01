@@ -18,8 +18,5 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You charm the target. |
+| Fail | You charm the target until you or an Ally damage it. |
 | Success | No effect. |
-
-#### Ending Early
-This Spell ends on a target if you or an Ally damage it.

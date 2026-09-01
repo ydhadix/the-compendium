@@ -14,4 +14,4 @@
 
 ---
 
-Each target appears dead to physical inspection and magical effects. You blind, incapacitate, and immobilize the target, and it gains Poison Immunity and Resistance to all damage except Psychic.
+Each target appears dead to physical inspection and magical effects.  You blind, incapacitate, and immobilize the target, and it gains Poison Immunity and Resistance to all damage except Psychic.

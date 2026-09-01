@@ -14,14 +14,14 @@
 
 ---
 
-You describe a creature by its Creature Type, its kind, or a specific individual.  This Spell targets the nearest creature in Range matching your description.
+You describe a creature by its Creature Type, its kind, or a specific individual.  This Spell targets the nearest creature matching your description.
 
 You gain the following effects:
 
 - You know the direction and distance to the target.
 - If the target is moving, you know the direction of its movement.
 
-Any amount of lead blocks this Spell. It can't locate a target that has been transformed into a different form.
+Any amount of lead blocks this Spell.  It can't locate a target that has been transformed into a different form.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.  You can describe each target separately.

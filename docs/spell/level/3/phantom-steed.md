@@ -16,8 +16,7 @@
 
 You conjure a horselike Phantom Steed Companion, equipped with a saddle, bit, and bridle.  Any of this equipment vanishes if it is more than **10** feet from the steed.
 
-#### Ending Early
-This Spell ends if the steed takes any damage. After this Spell ends, the steed fades over **1** minute, giving its rider time to dismount.
+After the steed takes any damage, this Spell ends.  After this Spell ends, the steed fades over **1** minute, giving its rider time to dismount.
 
 ---
 

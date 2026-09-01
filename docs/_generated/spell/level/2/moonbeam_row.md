@@ -1,1 +1,1 @@
-| [Moonbeam](/spell/level/2/moonbeam.md) | Transmutation | V, S, M | Magic Action | 120 ft. | — | Each Creature or Object in a 5-ft. radius, 40-ft. Cylinder from above | 1 minute (C) |
+| [Moonbeam](/spell/level/2/moonbeam.md) | Transmutation | V, S, M | Magic Action | 120 ft. | A 5-ft. radius, 40-ft. Cylinder from above | Each Creature and Object | 1 minute (C) |

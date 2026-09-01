@@ -14,7 +14,6 @@ Transmutation Cantrip
 
 ---
 
-Attacks using the target can use your Spellcasting Ability for Attack and Damage Rolls, and the target's Damage Die is **1d8** Bludgeoning or Force Damage.
+Attacks using the target can use your Spellcasting Ability for Attack and Damage Rolls, and the target's Damage Die is **1d8** Bludgeoning or Force Damage.  After a target leaves your hand, this Spell ends on it.
 
-#### Ending Early
-This Spell ends if you cast it again.  This Spell ends on a target if it leaves your hand.
+After you cast this Spell again, the previous casting ends.

@@ -1,1 +1,1 @@
-| [Enthrall](/spell/level/2/enthrall.md) | Enchantment | V, S | Magic Action | 60 ft. | — | Each Creature you choose within 60 ft. | 1 minute |
+| [Enthrall](/spell/level/2/enthrall.md) | Enchantment | V, S | Magic Action | 60 ft. | — | Each Creature you choose | 1 minute |

@@ -16,11 +16,4 @@
 
 You conjure an illusion that makes the natural terrain in the area look, sound, and smell like another kind of natural terrain.  The area's physical characteristics are unchanged, and manufactured structures, objects, and creatures in the area are unaffected.
 
-##### Search
-Any Creature that perceives the illusion can take this Action.
-
-**Search Action:** The creature makes a Perception Check against your Spell Save DC.
-
-| | |
-|---|---|
-| Success | The illusion becomes faint to the creature. |
+--8<-- "spell/_variant/search.md"

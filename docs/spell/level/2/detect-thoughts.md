@@ -7,32 +7,24 @@
 | Classes | Bard, Sorcerer, Wizard |
 | Components | V, S, M |
 | Casting Time | Magic Action |
-| Range | 30 ft. |
-| Area | |
-| Target | Self |
+| Range | — |
+| Area | A 30-ft. Aura |
+| Target | Each Creature that understands a language |
 | Duration | 1 minute (Concentration) |
 
 ---
 
-You sense the presence of any Creatures that understand a language.
+You know the location of each target, and they can't be Hidden from you.
 
 This Spell can't sense through **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
 
 ##### Read Mind
-**Magic Action:** You can mentally target a Creature that understands a language and learn what is most on its mind right now.
+**Magic Action:** You can learn what is most on a target's mind right now.
 
 ##### Probe
-**Magic Action:** You can mentally target a Creature that understands a language. It makes a Will Save.
+**Magic Action:** You can force a target you used Read Mind on to make a Will Save.
 
 | | |
 |---|---|
 | Fail | You learn the target's reasoning, emotional state, and something that looms large in its mind. |
-| Success | This effect ends on the target. |
-
-#### Ending Early
-Before a target's Turn ends, it makes a Will Save.
-
-| | |
-|---|---|
-| Fail | No additional effect. |
-| Success | This effect ends on the target. |
+| Success | The target gains Immunity to this casting of this Spell. |

@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | 5 miles |
-| Area | |
+| Area | — |
 | Target | **1** Beast, Plant Creature, or Plant Object you describe |
 | Duration | 10 minutes (Concentration) |
 
@@ -21,7 +21,7 @@ You gain the following effects:
 - You know the direction and distance to the target.
 - If the target is moving, you know the direction of its movement.
 
-Any amount of lead blocks this Spell. It can't locate a target that has been transformed into a different form.
+Any amount of lead blocks this Spell.  It can't locate a target that has been transformed into a different form.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.  You can describe each target separately.

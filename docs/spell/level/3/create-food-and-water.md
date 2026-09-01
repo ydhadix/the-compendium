@@ -14,4 +14,4 @@
 
 ---
 
-You conjure **45** pounds of food and **30** gallons of clean, fresh water in nearby containers or on the ground. The food is bland but nourishing, and spoils after **24** hours.
+You conjure **45** pounds of food and **30** gallons of clean, fresh water in nearby containers or on the ground.  The food is bland but nourishing, and spoils after **24** hours.

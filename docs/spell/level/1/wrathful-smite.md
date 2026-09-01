@@ -21,7 +21,6 @@ You deal **1d6** Necrotic Damage, and each target makes a Will Save.
 | Fail | You frighten the target. |
 | Success | No effect. |
 
-#### Ending Early
 Before a target's Turn ends, it makes a Will Save.
 
 | | |

@@ -23,12 +23,4 @@ After a target enters the area _(including when this Spell is cast)_, it makes a
 | Fail | You deal **3d6** Bludgeoning Damage and restrain the target. |
 | Success | No effect. |
 
-#### Ending Early
-##### Break Free
-Any Restrained target can take this Action.
-
-**Utilize Action:** The target makes an Athletics Check against your Spell Save DC.
-
-| | |
-|---|---|
-| Success | This effect ends on the target. |
+--8<-- "spell/_variant/escape.md"

@@ -14,9 +14,4 @@
 
 ---
 
-Before a target's Hit Points become **0**, they instead become **1**.
-
-If an effect would kill a target without dealing damage, that effect fails against it.
-
-#### Ending Early
-This Spell ends on a target after either effect triggers.
+Before a target would drop to **0** Hit Points or be killed, it instead survives with **1** Hit Point, then this Spell ends on that target.

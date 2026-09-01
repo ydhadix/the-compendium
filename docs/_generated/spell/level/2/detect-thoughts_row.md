@@ -1,1 +1,1 @@
-| [Detect Thoughts](/spell/level/2/detect-thoughts.md) | Divination | V, S, M | Magic Action | 30 ft. | — | Self | 1 minute (C) |
+| [Detect Thoughts](/spell/level/2/detect-thoughts.md) | Divination | V, S, M | Magic Action | — | A 30-ft. Aura | Each Creature that understands a language | 1 minute (C) |

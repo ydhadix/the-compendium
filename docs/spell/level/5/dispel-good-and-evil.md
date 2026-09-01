@@ -14,10 +14,7 @@
 
 ---
 
-You gain the effect of _Protection from Good & Evil_.
-
-#### Ending Early
-This Spell ends after you use either of the following Actions.
+You gain the effect of _Protection from Good & Evil_.  After you use either of the following Actions, this Spell ends.
 
 ##### Break Enchantment
 **Magic Action:** You can choose a Creature within Reach that is possessed, Charmed, or Frightened by a Planar Creature.

@@ -23,8 +23,4 @@ Each target makes a Fortitude Save.
 | Fail | You restrain the target. |
 | Success | No effect. |
 
-#### Ending Early
-##### Escape
-Any Creature that can reach a restrained target can take this Action.
-
-**Utilize Action:** The creature makes an Athletics Check against your Spell Save DC.  On a success, this effect ends on that target.
+--8<-- "spell/_variant/escape.md"

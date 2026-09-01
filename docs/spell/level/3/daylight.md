@@ -14,7 +14,7 @@
 
 ---
 
-If a target is an Object, the Area is a **60**-foot Aura centered on the target.
+If a target is an Object, the area is centered on the target and moves with it.
 
 The area is filled with Bright Sunlight and emits Dim Sunlight **60** feet further.
 

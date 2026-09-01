@@ -14,7 +14,7 @@
 
 ---
 
-The area gains the following effects:
+The area gains the following effects.  This Spell can't be dispelled by another effect, but each of its effects can; after each of its effects is dispelled, this Spell is dispelled.
 
 | Effect | |
 |---|---|
@@ -32,10 +32,8 @@ The area gains **1** of the following effects:
 | Stinking Cloud | **2** locations in the area gain the effect of _Stinking Cloud_ _(dispersed vapors return in **10** minutes)_. |
 | Suggestion | A target entering a **5**-foot Square you choose gains the effect of _Suggestion_. |
 
-You can specify targets that this Spell doesn't affect, and a password that leaves a creature speaking it within **5** feet of the area unaffected.
-
-#### Ending Early
-This Spell can't be dispelled by another effect, but each of its effects can.  This Spell is dispelled after each of its effects is dispelled.
+#### Password
+After you cast this Spell, you can choose a password.  After a creature speaks this password, or presents it visually, the creature ignores this Spell's effects.
 
 #### Permanence
 If you cast this Spell on the same area every day for **365** days, the effect lasts until dispelled.

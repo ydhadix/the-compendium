@@ -19,6 +19,4 @@ Each target gains the effect of _Gaseous Form_ _(it gains a **300**-foot Hover S
 After this Spell ends, a falling target gains the effect of _Feather Fall_.
 
 ##### Change Form
-Any target can take this Action.
-
-**Utilize Action:** The target can stun themselves for **1** minute.  Then, it loses or regains the effect of _Gaseous Form_.
+**Utilize Action:** Any target can stun itself for **1** minute.  Then, it loses or regains the effect of _Gaseous Form_.

@@ -14,10 +14,7 @@
 
 ---
 
-The target's descent slows to **60** feet. Each target takes no damage from the fall.
-
-#### Ending Early
-This Spell ends on a target after it lands.
+The target's descent slows to **60** feet. Each target takes no damage from the fall.  After a target lands, this Spell ends on it.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

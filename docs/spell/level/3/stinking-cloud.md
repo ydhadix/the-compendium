@@ -20,5 +20,5 @@ After a target's Turn starts, it makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You sicken the target until the end of its Turn.  While Sickened, it is Dazed. |
+| Fail | You sicken the target until the end of its Turn.  While Sickened by this Spell, a target is Dazed. |
 | Success | No effect. |

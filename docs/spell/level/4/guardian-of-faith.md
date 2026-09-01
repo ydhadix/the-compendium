@@ -21,5 +21,4 @@ After a target enters the area _(including when this Spell is cast)_, it makes a
 | Fail | You deal **20** Radiant Damage. |
 | Success | You deal half as much damage. |
 
-#### Ending Early
-This Spell ends after it has dealt **60** damage.
+After this Spell has dealt **60** damage, this Spell ends.

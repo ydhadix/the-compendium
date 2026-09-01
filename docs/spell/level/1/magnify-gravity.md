@@ -18,15 +18,16 @@ Each target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You deal **2d8** Force Damage, and the target's Speed becomes halved. |
+| Fail | You deal **2d8** Force Damage, and the target's Speed becomes halved.  You anchor an Object target. |
 | Success | You deal half as much damage. |
 
-Objects in the area that aren't worn or carried can't be moved or picked up.
-
 ##### Overpower
-Any Creature can take this Action.
+**Free Action:** Any creature that can reach an Anchored target can make an Athletics Check against your Spell Save DC.
 
-**Free Action:** The creature makes an Athletics Check against your Spell Save DC to end this effect on such an object.
+| | |
+|---|---|
+| Success | This Spell ends on the target. |
+| Fail | No effect. |
 
 #### At Higher Levels
 Add **1d8** damage and **5** feet to the radius per additional Spell Level.

@@ -8,7 +8,7 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 minute |
 
@@ -21,8 +21,7 @@ Each target makes a Fortitude Save.
 | Fail | You blind or deafen the target. |
 | Success | No effect. |
 
-#### Ending Early
-Before a target's Turn ends, it makes a Fortitude Save.
+Before a target's Turn ends, it repeats this Saving Throw.
 
 | | |
 |---|---|

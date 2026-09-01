@@ -18,13 +18,8 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You charm the target. While Charmed by you, it is Immobile and Incapacitated. |
+| Fail | You charm the target until it takes damage.  While Charmed by this Spell, a target is Immobile and Incapacitated. |
 | Success | No effect. |
 
-#### Ending Early
-This Spell ends on a target after it takes damage.
-
 ##### Wake Up
-Any Creature that can reach a Charmed target can take this Action.
-
-**Utilize Action:** This Spell ends on the target.
+**Utilize Action:** Any creature that can reach a Charmed target can end this Spell on the target.

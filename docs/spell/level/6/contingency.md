@@ -18,7 +18,6 @@ Choose a perceivable trigger and a lower-Level Spell that you can cast, that has
 
 You cast that Spell as part of casting this one, expending both Spell Slots, but the chosen Spell's effect is delayed.
 
-After the trigger occurs, the Spell takes effect _(no Concentration required)_, targeting you.
+After the trigger occurs, the Spell takes effect _(no Concentration required)_, targeting you, then this Spell ends.
 
-#### Ending Early
-This Spell ends after the trigger occurs, if you cast this Spell again, or if this Spell's Material Component leaves your space.
+After this Spell's Material Component leaves your space, this Spell ends.  After you cast this Spell again, the previous casting ends.

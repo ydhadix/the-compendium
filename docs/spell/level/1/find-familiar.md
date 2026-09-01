@@ -20,9 +20,8 @@ You conjure a Familiar that takes the chosen form, gains the chosen Creature Typ
 
 You can also use this Spell to turn a Level 0 Ally into a Familiar.  It becomes a Familiar and gains the chosen Creature Type.
 
+After the Familiar drops to **0** Hit Points or you die, this Spell ends.
+
 ##### Command
 **Free Action:** You can command the Familiar to move and take any Action available to it.
-
-#### Ending Early
-This Spell ends if the Familiar drops to **0** Hit Points or you die; the Familiar vanishes, leaving behind anything it was wearing or carrying.
 

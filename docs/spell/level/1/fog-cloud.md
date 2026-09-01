@@ -14,10 +14,7 @@
 
 ---
 
-The area is filled with fog and Heavily Obscured.
-
-#### Ending Early
-This Spell ends if the fog is dispersed.
+The area is filled with fog and Heavily Obscured.  After the fog is dispersed, this Spell ends.
 
 #### At Higher Levels
 Add **20** feet to the radius per additional Spell Level.

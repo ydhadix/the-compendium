@@ -21,9 +21,7 @@ Each target gains the following effects:
 - It gains a Swim Speed equal to its Speed.
 
 ##### Slip Out
-Any target can take this Action.
-
-**Free Action; 5 feet of movement:** The target escapes from **1** nonmagical grapple or restraint.
+**Free Action; 5 feet of movement:** Any target can end **1** nonmagical grapple or restraint on itself.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

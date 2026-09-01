@@ -69,26 +69,31 @@ banner: campaign/eternal-sun.png
 | Gabriel Ryder, Bard | | |
 | Selene Vael, Muse | | |
 | Everlee Layne, Girl of the Valley | Everything is Color | Juniper Vale |
-| Dzarsin Invarri, Occultist | It's Called: Freefall | Rainbow Kitten Surprise |
-| R.S.J. Jassa's Dagger | Starship Velociraptor | Galactikraken, Jonathan Young |
 | Nellethe, Siren of the Treads | Coral Crown | Darren Korb, Erin Yvette, Ashley Barrett, Judy Alice Lee |
+
+| T.S.J. Jassa's Dagger | | |
+|---|---|---|
+| Starship Jassa's Dagger | Starship Velociraptor | Galactikraken, Jonathan Young |
+| Dzarsin Invarri, Occultist | It's Called: Freefall | Rainbow Kitten Surprise |
 
 | The Cycladian Cluster | | |
 |---|---|---|
-| | Short Change Hero | The Heavy |
-| | Ain't No Rest for the Wicked | Cage The Elephant |
-
-| Whalewake | | |
-|---|---|---|
+| The Cycladean Cluster | Ain't No Rest for the Wicked | Cage The Elephant |
+| Whalewake | Short Change Hero | The Heavy |
 | Bosse Rannoch | Lighthouse | The Hush Sound |
+| Argentium | The Fine Print | The Stupendium |
+| Ridhi | | |
+
+| A.S.J. Aurora | | |
+|---|---|---|
+| The Aurora | | |
 | Captain Irim "Steelbeard" Axe | Ashes | The Longest Johns |
 | Geoffrey Lunadream | Steady, As She Goes | The Raconteurs |
 | Xamyra Jomila Aluroe Voci | Accelerate | T.T. STAR |
 
 | N.S.J Argentium | | |
 |---|---|---|
-| The Orb Weaver | The Fine Print | The Stupendium |
-| Ridhi | | |
+| The Orb Weaver | 
 | Sisk Veskir | The Die | Lupe Fiasco, GemStones |
 | The Revolution | Fight With Tools | Flobots |
 | The Raid | Kill Your Masters | Run The Jewels |
@@ -117,31 +122,36 @@ banner: campaign/eternal-sun.png
 
 | FTVL Team: HYPE | | |
 |---|---|---|
-| Dub Hikari | Galvanize | The Chemical Brothers, Q-Tip |
+| Theme | Galvanize | The Chemical Brothers, Q-Tip |
+| Dub Hikari | | |
 | Hub Hikari | | |
 | Sparrow | | |
 | Calaran Suthrathas | | |
-| Ziel Waffenruhewelt | | |
+| Ziel Waffenruhewelt | Kick, Push | Lupe Fiasco |
 | Querivesh | | |
 
 | FTVL Team: The Luminous Supremacy | | |
 |---|---|---|
+| Theme | | |
 | Ariael’ruil’selvarion “Ariel” Aleanrretyn | Tongues & Teeth | The Crane Wives |
 | Selharis & Tiaralis | | |
 
 | FTVL Team: Blue Comet | | |
 |---|---|---|
+| Theme | Like That | Black Eyed Peas |
 | Mehmet Uzan | | |
 | Skrip Bayboy | | |
 
 | FTVL Team: Double Broadside | | |
 |---|---|---|
-| Grand Artillery Commissar First-Class Brakkus Flint | There They Go | Fort Minor, Sixx John |
+| Theme | There They Go | Fort Minor, Sixx John |
+| Grand Artillery Commissar First-Class Brakkus Flint | | |
 | Dorin Twostar | | |
 | Torgan "Latch" Betz | Spaceship | Kanye West, GLC, Consequence |
 
 | FTVL Team: Encore! | | |
 |---|---|---|
+| Theme | | |
 | Encore! | Love in a Bottle | Keith David, Lilli Cooper, Kimiko Glenn, Krystina Alabado, Sam Haft, Andrew Underberg |
 | "The Mister" Th’aither Kenn’yr’rettyn | PRIDE. | Kendrick Lamar |
 | Frederick "Freddy" Caskbow | Northern Star | Dom Fera |
@@ -149,12 +159,14 @@ banner: campaign/eternal-sun.png
 
 | FTVL Team: Second Spring | | |
 |---|---|---|
+| Theme | | |
 | Jaz'thek | Go Baby | Lupe Fiasco, GemStones |
 | Chak'ri | I'd Rather Be Me (With You) | Zach Callison, Rebecca Sugar, aivi & surasshu, Edwin Rhodes, Jeff Ball |
 
 | FTVL Team: Redtail | | |
 |---|---|---|
-| Zenith Seong | Fighter | Jung Youth, Sam Tinnesz |
+| Theme | Fighter | Jung Youth, Sam Tinnesz |
+| Zenith Seong | All Eyes On Me | T.T. Star |
 | Seon-u Seong | | |
 
 | The Astral Elves | | |

@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | Each Creature or Object in a 5-ft. Cube |
+| Area | A 5-ft. Cube |
+| Target | Each Creature and Object |
 | Duration | 1 minute (Concentration) |
 
 ---

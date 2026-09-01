@@ -21,7 +21,6 @@ Each target makes a Will Save.
 | Fail | You deal **8d6** Psychic Damage, and the target's Attack Rolls, Ability Checks, and Concentration Saves decrease by **1d6**. |
 | Success | You deal half as much damage. |
 
-#### Ending Early
 Before a target's Turn ends, it repeats this Saving Throw.
 
 | | |

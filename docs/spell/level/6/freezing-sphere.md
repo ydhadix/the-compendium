@@ -25,20 +25,10 @@ Each target makes a Fortitude Save.
 
 A body of water in the area freezes **6** inches deep across its surface for **1** minute, and you restrain each target in that area.
 
+--8<-- "spell/_variant/escape.md"
+
 ##### Throw
-Any Creature holding the bead can take this Action.
-
-**Attack Action:** The creature throws the bead up to **40** feet or hurls it with a Sling _(using the Sling's Long Range)_.  The bead explodes where it lands.
-
-#### Ending Early
-##### Break Free
-Any Restrained target can take this Action.
-
-**Utilize Action:** The target makes an Athletics Check against your Spell Save DC.
-
-| | |
-|---|---|
-| Success | This effect ends on the target. |
+**Attack Action:** Any creature holding the bead can throw the bead up to **40** feet or hurl it with a Sling _(using the Sling's Long Range)_.  Then, this Spell takes effect centered where the bead lands.
 
 #### At Higher Levels
 Add **1d6** damage per additional Spell Level.

@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 hour |
 
 ---
 
-The Sickness condition ends on the target.
+You end each Sickness on the target.
 
 Each target gains Poison Resistance and Sickness Protection.
 

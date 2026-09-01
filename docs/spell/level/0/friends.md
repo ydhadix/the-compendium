@@ -18,10 +18,7 @@ Each target makes a Will Save. If you've damaged a target or cast this Spell on 
 
 | | |
 |---|---|
-| Fail | You charm the target. |
+| Fail | You charm the target until it takes damage. |
 | Success | No effect. |
 
-#### Ending Early
-This Spell ends on a target if it takes damage.
-
-This Spell ends if you attack, deal damage, or cause a Saving Throw.
+After you attack, deal damage, or cause a Saving Throw, this Spell ends.

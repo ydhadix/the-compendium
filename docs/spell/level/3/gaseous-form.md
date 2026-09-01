@@ -14,7 +14,7 @@
 
 ---
 
-Each target and everything it's wearing and carrying takes a gaseous form.
+Each target and everything it's wearing and carrying takes a gaseous form.  After a target drops to **0** Hit Points, this Spell ends on it.
 
 While in gaseous form, a target gains the following effects:
 
@@ -24,9 +24,6 @@ While in gaseous form, a target gains the following effects:
 - It gains Fortitude and Reflex Protection.
 - It can't take Actions, except Utilize and Dash.
 - It can enter and occupy another creature's space and pass through narrow openings, but it treats liquids as solid surfaces.
-
-#### Ending Early
-This Spell ends on a target if it has **0** Hit Points.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

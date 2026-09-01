@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 1 minute (Concentration) |
 
@@ -16,12 +16,16 @@
 
 You conjure a sword of solidified shadow in your hand.
 
-The sword is a Simple Melee Weapon with Finesse, Light, and Thrown _(**20**/**60** feet)_. Attacks using it can use your Spellcasting Ability for Attack and Damage Rolls, and its Damage Die is **2d8** Psychic Damage.
+| Weapon | Damage | Weight | Hands | Properties | Techniques |
+|---|---|---|---|---|---|
+| Shadow Blade | 2d8 Psychic | Light | One | Finesse, Thrown _(**20**/**60** feet)_ | Nick, Sap, Slow, Vex |
 
-While in Dim Light or Darkness, you gain Advantage on Attack Rolls with the sword. It vanishes after you drop or throw it.
+You gain Proficiency with the sword, your Attacks with it can use your Spellcasting Ability, and while in Dim Light or Darkness you gain Advantage on Attack Rolls with it.
+
+After you drop or throw the sword, it vanishes.
 
 ##### Resummon
-**Bonus Action:** You can resummon the sword to your hand.
+**Bonus Action:** You can conjure the sword in your hand.
 
 #### At Higher Levels
 Add **1d8** damage per additional Spell Level.

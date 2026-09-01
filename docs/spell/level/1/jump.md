@@ -14,12 +14,8 @@
 
 ---
 
-
-Each target gains the following effect.
-
 ##### Jump
-**Free Action; 10 feet of movement, Once per Turn:** You can jump up to **30** feet.
-
+**Free Action; 10 feet of movement, Once per Turn:** Any target can jump up to **30** feet.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

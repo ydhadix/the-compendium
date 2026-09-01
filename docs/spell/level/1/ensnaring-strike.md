@@ -21,11 +21,7 @@ Each target makes a Fortitude Save. A creature larger than you gains Advantage.
 | Fail | You restrain the target. After the target's Turn starts, you deal **1d6** Piercing Damage. |
 | Success | No effect. |
 
-#### Ending Early
-##### Escape
-Any Creature that can reach a restrained target can take this Action.
-
-**Utilize Action:** The creature makes an Athletics Check against your Spell Save DC.  On a success, this Spell ends on that target.
+--8<-- "spell/_variant/escape.md"
 
 #### At Higher Levels
 Add **1d6** damage per additional Spell Level.

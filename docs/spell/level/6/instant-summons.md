@@ -16,10 +16,5 @@
 
 You link each target to the Material Component.  Each casting requires a different Material Component.
 
-#### Ending Early
-This Spell ends after you use the following Action.
-
 ##### Summon
-**Utilize Action:** You can crush the Material Component.  If another creature holds or carries a target, you learn who that creature is and where it is.
-
-Otherwise, each target appears in your hand, regardless of physical or planar distance.
+**Utilize Action:** Any creature holding the Material Component can crush it, ending this Spell.  Each target teleports to the creature's hand.

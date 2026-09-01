@@ -8,7 +8,7 @@
 | Components | S |
 | Casting Time | Magic Action |
 | Range | 120 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 hour (Concentration) |
 
@@ -18,7 +18,7 @@ Each target makes a Will Save.
 
 | | |
 |---|---|
-| Fail | You deal **3d8** Psychic Damage, you always know the target's location while on the same plane, and it can't become Hidden or Invisible to you. It can still be Hidden or Invisible to other creatures. |
+| Fail | You deal **3d8** Psychic Damage, you mark the target.  While marked and on the same plane, you know the target's location and it can't be Hidden from you or Invisible to you. |
 | Success | You deal half as much damage. |
 
 #### At Higher Levels

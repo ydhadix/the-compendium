@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | Each Creature you choose within 60 ft. |
+| Area | — |
+| Target | Each Creature you choose |
 | Duration | 1 minute |
 
 ---
 
-Each target makes a Will Save.  If you or an Ally is fighting a target, it automatically succeeds.
+Each target makes a Will Save.  An Enemy automatically succeeds.
 
 | | |
 |---|---|

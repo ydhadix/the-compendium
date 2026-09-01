@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 10 minutes (Concentration) |
 

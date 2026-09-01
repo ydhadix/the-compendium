@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Bonus Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | 1 minute (Concentration) |
 
@@ -16,10 +16,8 @@
 
 Choose an Elemental Damage Type.
 
-Each target gains the following Action:
-
 ##### Breath Weapon
-**Magic Action:** You can force everything in a **15**-foot Cone to make a Reflex Save.
+**Magic Action:** Any target can force each Creature and Object in a **15**-foot Cone to make a Reflex Save.
 
 | | |
 |---|---|

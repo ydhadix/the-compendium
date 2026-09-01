@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
+| Area | — |
 | Target | **1** other Creature or Object |
 | Duration | — |
 
@@ -18,7 +18,7 @@ Each target makes a Fortitude Save.
 
 | | |
 |---|---|
-| Fail | You teleport the target to a surface or liquid that can support it without squeezing. |
+| Fail | You teleport the target to a space on the ground. |
 | Success | No effect. |
 
 #### At Higher Levels

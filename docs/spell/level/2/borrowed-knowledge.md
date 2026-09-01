@@ -8,7 +8,7 @@
 | Components | V, S, M _(a book worth 25 Gold)_ |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 1 hour |
 

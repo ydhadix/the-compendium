@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
-| Target | Each Creature or Object in a 20-ft. radius Sphere |
+| Area | A 20-ft. radius Sphere |
+| Target | Each Creature and Object |
 | Duration | 1 minute (Concentration) |
 
 ---
 
-You conjure a burst of flames, then immediately extinguish any fire in the area. Choose **1** of the following effects:
+Choose **1** of the following effects:
 
 | Effect | |
 |---|---|

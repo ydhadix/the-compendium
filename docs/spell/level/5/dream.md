@@ -14,7 +14,7 @@
 
 ---
 
-You, or an Ally within Reach, becomes a Dream Messenger to the target.  You incapacitate and immobilize the messenger.
+You, or an Ally within Reach, becomes a Dream Messenger to the target.  You incapacitate and immobilize the messenger.  The messenger can end this Spell at any time _(no action required)_.
 
 ##### Haunt
 **Free Action; Once per Casting:** You can force an Asleep target to make a Will Save.
@@ -23,9 +23,6 @@ You, or an Ally within Reach, becomes a Dream Messenger to the target.  You inca
 |---|---|
 | Fail | The target gains no benefit from its rest.  After it wakes, you deal **3d6** Psychic Damage. |
 | Success | No effect. |
-
-#### Ending Early
-The messenger can end this Spell at any time _(no action required)_.
 
 ---
 

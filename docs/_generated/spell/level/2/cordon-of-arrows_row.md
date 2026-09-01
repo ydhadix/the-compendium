@@ -1,1 +1,1 @@
-| [Cordon of Arrows](/spell/level/2/cordon-of-arrows.md) | Transmutation | V, S, M | Magic Action (R) | Reach | — | Each Creature in a 30-ft. radius Sphere | 8 hours |
+| [Cordon of Arrows](/spell/level/2/cordon-of-arrows.md) | Transmutation | V, S, M | Magic Action (R) | Reach | A 30-ft. radius Sphere | Each Creature | 8 hours |

@@ -16,13 +16,10 @@
 
 A Large Object counts as **2** of your targets, and a Huge Object counts as **3**.
 
-You animate each target as an Animated Object Companion.
+You animate each target as an Animated Object Companion.  After a target drops to **0** Hit Points, this Spell ends on it.
 
 ##### Command Constructs
 **Bonus Action:** You can command any of your Construct companions within **500** feet to move and take any Action available to them.  You give the same command to each target.
-
-#### Ending Early
-This Spell ends on a target if it has **0** Hit Points.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

@@ -14,4 +14,4 @@
 
 ---
 
-You can ask each target up to **5** questions. A target can speak, knows only what it knew in life, and isn't compelled to answer truthfully. Its soul isn't returned to its body, and it can't learn new information, comprehend anything that happened since it died, or speculate about the future.
+You can ask each target up to **5** questions.  A target can speak, knows only what it knew in life, and isn't compelled to answer truthfully.  Its soul isn't returned to its body, and it can't learn new information, comprehend anything that happened since it died, or speculate about the future.

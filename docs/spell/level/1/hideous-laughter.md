@@ -21,7 +21,6 @@ Each target makes a Will Save.
 | Fail | You incapacitate the target and knock it Prone, and it can't stand up. |
 | Success | No effect. |
 
-#### Ending Early
 Before a target's Turn ends, it makes a Will Save. After a target takes damage, it also makes a Will Save with Advantage.
 
 | | |

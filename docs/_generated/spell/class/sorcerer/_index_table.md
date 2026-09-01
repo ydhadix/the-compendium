@@ -99,7 +99,6 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/2/enlarge-reduce_row.md"
 --8<-- "_generated/spell/level/2/flame-blade_row.md"
 --8<-- "_generated/spell/level/2/flaming-sphere_row.md"
---8<-- "_generated/spell/level/2/fortunes-favor_row.md"
 --8<-- "_generated/spell/level/2/gust-of-wind_row.md"
 --8<-- "_generated/spell/level/2/hold-person_row.md"
 --8<-- "_generated/spell/level/2/kinetic-jaunt_row.md"

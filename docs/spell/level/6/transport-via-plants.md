@@ -17,6 +17,4 @@
 You link each target to another Plant Object on the same plane at any distance, which you have seen or touched before.
 
 ##### Step Through
-Any Creature that can reach a linked plant can take this Action.
-
-**Free Action; 5 feet of movement:** The creature steps into one of the linked plants and exits from the other.
+**Free Action; 5 feet of movement:** Any creature that can reach a linked plant can step into the plant and exit from the other.

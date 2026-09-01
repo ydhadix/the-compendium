@@ -22,10 +22,7 @@ Each target makes a Will Save.
 | Success | No effect. |
 
 ##### Command
-**Bonus Action:** You can choose a direction.  After a Charmed target's next Turn starts, it moves as far as it can in that direction by the safest route.
-
-#### Ending Early
-After a target moves by your command, it repeats this Saving Throw.
+**Bonus Action:** You can choose a direction.  After a Charmed target's next Turn starts, it moves as far as it can in that direction by the safest route.  Then, it makes a Will Save.
 
 | | |
 |---|---|

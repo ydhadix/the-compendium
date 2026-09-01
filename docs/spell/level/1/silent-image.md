@@ -19,11 +19,4 @@ You conjure the image of an object, creature, or other visible phenomenon, no la
 ##### Move
 **Magic Action:** You can move the image to another location; as it moves, you can alter its appearance so its movements appear natural.
 
-##### Search
-Any Creature that perceives the illusion can take this Action.
-
-**Search Action:** The creature makes a Perception Check against your Spell Save DC.
-
-| | |
-|---|---|
-| Success | The illusion becomes faint to that creature. |
+--8<-- "spell/_variant/search.md"

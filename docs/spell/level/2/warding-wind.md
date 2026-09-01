@@ -8,13 +8,13 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | A 10-ft. Aura |
+| Area | A 10-ft. Aura |
+| Target | — |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
-You conjure strong wind in the area. The area gains the following effects:
+You conjure strong wind in the area.  The area gains the following effects:
 
 - Vapor, fog, and gas are dispersed.
 - Unprotected flames are extinguished.

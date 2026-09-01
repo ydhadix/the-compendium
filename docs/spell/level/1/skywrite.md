@@ -14,7 +14,4 @@
 
 ---
 
-You transform clouds in the sky into a brief sentence or phrase, or a simple image.
-
-#### Ending Early
-This Spell ends if the clouds are dispersed.
+You transform clouds in the sky into a brief sentence or phrase, or a simple image.  After the clouds are dispersed, this Spell ends.

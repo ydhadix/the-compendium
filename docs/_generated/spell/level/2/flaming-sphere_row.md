@@ -1,1 +1,1 @@
-| [Flaming Sphere](/spell/level/2/flaming-sphere.md) | Conjuration | V, S, M | Magic Action | 60 ft. | — | Each Creature or Object in a 5-ft. radius Sphere | 1 minute (C) |
+| [Flaming Sphere](/spell/level/2/flaming-sphere.md) | Conjuration | V, S, M | Magic Action | 60 ft. | A 5-ft. radius Sphere | Each Creature and Object | 1 minute (C) |

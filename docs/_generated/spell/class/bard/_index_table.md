@@ -79,7 +79,6 @@ Spell Level · [Cantrip](#cantrips) · [1st](#1st-level) · [2nd](#2nd-level) ·
 --8<-- "_generated/spell/level/2/enhance-ability_row.md"
 --8<-- "_generated/spell/level/2/enlarge-reduce_row.md"
 --8<-- "_generated/spell/level/2/enthrall_row.md"
---8<-- "_generated/spell/level/2/fortunes-favor_row.md"
 --8<-- "_generated/spell/level/2/heat-metal_row.md"
 --8<-- "_generated/spell/level/2/hold-person_row.md"
 --8<-- "_generated/spell/level/2/kinetic-jaunt_row.md"

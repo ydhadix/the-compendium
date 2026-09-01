@@ -1,1 +1,1 @@
-| [Darkness](/spell/level/2/darkness.md) | Evocation | V, M | Magic Action | 60 ft. | — | A 15-ft. radius Sphere, or **1** Object | 10 minutes (C) |
+| [Darkness](/spell/level/2/darkness.md) | Evocation | V, M | Magic Action | 60 ft. | A 15-ft. radius Sphere | Up to **1** Object | 10 minutes (C) |

@@ -1,1 +1,1 @@
-| [Calm Emotions](/spell/level/2/calm-emotions.md) | Enchantment | V, S | Magic Action | 60 ft. | — | Each Humanoid and Beast in a 20-ft. radius Sphere | 1 minute (C) |
+| [Calm Emotions](/spell/level/2/calm-emotions.md) | Enchantment | V, S | Magic Action | 60 ft. | A 20-ft. radius Sphere | Each Humanoid and Beast | 1 minute (C) |

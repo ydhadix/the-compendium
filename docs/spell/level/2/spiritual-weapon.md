@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | 60 ft. |
-| Area | |
+| Area | — |
 | Target | — |
 | Duration | 1 minute (Concentration) |
 

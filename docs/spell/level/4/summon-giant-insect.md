@@ -16,13 +16,10 @@
 
 Choose Centipede, Spider, or Wasp.
 
-You conjure a Giant Insect Companion of the chosen type.
+You conjure a Giant Insect Companion of the chosen type.  After the insect drops to **0** Hit Points, this Spell ends.
 
 ##### Command
 **Free Action:** You can command the insect to move and take any Action available to it.
-
-#### Ending Early
-This Spell ends if the insect has **0** Hit Points.
 
 ---
 

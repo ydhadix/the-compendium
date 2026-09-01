@@ -16,7 +16,6 @@
 
 You deal **3d8** Radiant Damage and blind the target.
 
-#### Ending Early
 Before a Blinded target's Turn ends, it makes a Fortitude Save.
 
 | | |

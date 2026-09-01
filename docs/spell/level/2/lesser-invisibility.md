@@ -8,16 +8,13 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
+| Area | — |
 | Target | **1** Creature or Object |
 | Duration | 1 hour (Concentration) |
 
 ---
 
-You turn each target Invisible.
-
-#### Ending Early
-This Spell ends on a target if it attacks, deals damage, or casts a Spell.
+You turn each target Invisible.  After a target attacks, deals damage, or casts a Spell, this Spell ends on it.
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

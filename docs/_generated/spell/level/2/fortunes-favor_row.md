@@ -1,1 +1,0 @@
-| [Fortune's Favor](/spell/level/2/fortunes-favor.md) | Divination | V, S, M ($C) | Magic Action | 60 ft. | — | **1** Creature | 1 hour |

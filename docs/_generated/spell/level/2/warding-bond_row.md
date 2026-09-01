@@ -1,1 +1,1 @@
-| [Warding Bond](/spell/level/2/warding-bond.md) | Abjuration | V, S, M ($) | Magic Action | Reach | — | **1** Creature | 1 hour |
+| [Warding Bond](/spell/level/2/warding-bond.md) | Abjuration | V, S, M ($) | Magic Action | — | A 60-ft. Aura | Any Creature | 1 hour |

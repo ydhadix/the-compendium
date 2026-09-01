@@ -14,7 +14,4 @@ Evocation Cantrip
 
 ---
 
-Each target emits Bright Light out to **20** feet and Dim Light **20** feet further.
-
-#### Ending Early
-This Spell ends if you cast it again.
+Each target emits Bright Light out to **20** feet and Dim Light **20** feet further.  After you cast this Spell again, the previous casting ends.
