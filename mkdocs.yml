@@ -275,22 +275,22 @@ nav:
 
   - The Archive:
     - Overview:                     archive/index.md
-    - Player Characters:            archive/characters/index.md
+    - Player Characters:
+      - Overview:                   archive/character/index.md
+    - Campaigns:
+      - Overview:                   archive/campaign/index.md
+      - WEEP:
+        - Overview:                 archive/campaign/weep/index.md
+        - "1: Dragon Heist":        archive/campaign/weep/dragon-heist/index.md
+        - "2: Icewind Dale":        archive/campaign/weep/icewind-dale/index.md
+        - "1.5: Tomb of Annihilation": archive/campaign/weep/tomb-of-annihilation/index.md
+        - "3: Dungeon of the Mad Mage": archive/campaign/weep/mad-mage/index.md
+        - "Epilogue":               archive/campaign/weep/epilogue/index.md
+      - HYPE:
+        - Overview:                 archive/campaign/hype/index.md
+        - "1: Exodus":              archive/campaign/hype/exodus/index.md
+        # - "2: Odyssey":             archive/campaign/hype/odyssey/index.md
     - Utilities:
       - Overview:                   archive/utilities/index.md
       - Elf Names:                  archive/utilities/elf-name-generator.md
       - Dark Elf Names:             archive/utilities/dark-elf-name-generator.md
-    - "WEEP Part 1: Dragon Heist":
-      - Campaign Overview:          archive/dragon-heist/index.md
-    - "WEEP Part 2: Icewind Dale":
-      - Campaign Overview:          archive/icewind-dale/index.md
-    - "WEEP Part 1.5: Tomb of Annihilation":
-      - Campaign Overview:          archive/tomb-of-annihilation/index.md
-    - "WEEP Part 3: Dungeon of the Mad Mage":
-      - Campaign Overview:          archive/mad-mage/index.md
-    - "WEEP Epilogue":
-      - Epilogue Overview:          archive/epilogue/index.md
-    - "HYPE Part 1: Exodus":
-      - Campaign Overview:          archive/exodus/index.md
-    # - "HYPE Part 2: Odyssey":
-    #   - Campaign Overview:          archive/odyssey/index.md
