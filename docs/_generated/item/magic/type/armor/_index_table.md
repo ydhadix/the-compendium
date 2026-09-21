@@ -27,7 +27,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
---8<-- "_generated/item/magic/rarity/rare/dragon-scale-mail_row.md"
+--8<-- "_generated/item/magic/rarity/rare/armor-of-protection_row.md"
 --8<-- "_generated/item/magic/rarity/rare/dwarven-plate_row.md"
 --8<-- "_generated/item/magic/rarity/rare/enspelled-item_row.md"
 --8<-- "_generated/item/magic/rarity/rare/molten-skin_row.md"

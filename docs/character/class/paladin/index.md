@@ -132,7 +132,7 @@ You and each Ally within your Divine Aura gain the following effect:
 
 
 ### 5: Extra Attack
-The number of Attacks you can make with your Attack Action increases by **1**.
+While it is your Turn, the number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature

@@ -19,7 +19,4 @@
 Whenever you level up, your Hit Point Maximum increases by **1**.
 
 ### Treasure Sense
-Bonus Action, Proficiency Bonus uses per Long Rest
-{ .subtitle }
-
-You can sense the location of precious metals, minerals, and gems worth at least **50** gold within **30** feet, even through walls and obstacles, for **10** minutes. You can identify the general category of material but not its specific type.
+**Bonus Action; PB uses per Long Rest:**  You can sense the location of precious metals, minerals, and gems worth at least **50** gold within **30** feet, even through walls and obstacles, for **10** minutes. You can identify the general category of material but not its specific type.

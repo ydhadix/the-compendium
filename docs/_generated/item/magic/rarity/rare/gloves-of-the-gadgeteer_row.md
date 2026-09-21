@@ -1,0 +1,1 @@
+| [Gloves of the Gadgeteer](/item/magic/rarity/rare/gloves-of-the-gadgeteer.md) | Clothing (Gloves) | Rare | No |

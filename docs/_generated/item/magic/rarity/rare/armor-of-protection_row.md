@@ -1,0 +1,1 @@
+| [Armor of Protection](/item/magic/rarity/rare/armor-of-protection.md) | Armor (Medium or Heavy) | Rare | Yes |

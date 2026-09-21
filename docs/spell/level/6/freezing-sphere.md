@@ -28,7 +28,7 @@ A body of water in the area freezes **6** inches deep across its surface for **1
 --8<-- "spell/_variant/escape.md"
 
 ##### Throw
-**Attack Action:** Any creature holding the bead can throw the bead up to **40** feet or hurl it with a Sling _(using the Sling's Long Range)_.  Then, this Spell takes effect centered where the bead lands.
+**1 Attack:** Any creature holding the bead can throw the bead up to **40** feet or hurl it with a Sling _(using the Sling's Long Range)_.  Then, this Spell takes effect centered where the bead lands.
 
 #### At Higher Levels
 Add **1d6** damage per additional Spell Level.

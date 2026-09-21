@@ -1,0 +1,1 @@
+| [Staff of Storms](/item/magic/rarity/very-rare/staff-of-storms.md) | Weapon (Staff) | Very Rare | Yes (Spellcaster) |

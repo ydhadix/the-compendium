@@ -1,0 +1,1 @@
+| [Dragon Scale](/item/gear/material/dragon-scale.md) | Material (Other) | 4,000 gold |

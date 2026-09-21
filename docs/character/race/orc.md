@@ -18,13 +18,7 @@
 You gain Advantage on Athletics Checks, and your Jump distance doubles.
 
 ### Relentless Endurance
-Free Action, 1 use per Long Rest
-{ .subtitle }
-
-Before you are reduced to **0** Hit Points, you can drop to **1** Hit Point instead.
+**Free Action; Once per Long Rest:** Before you are reduced to **0** Hit Points, you can drop to **1** Hit Point instead.
 
 ### Orcish Adrenaline
-Bonus Action, Proficiency Bonus uses per Short Rest
-{ .subtitle }
-
-You can Dash and gain **PB** Temporary Hit Points.
+**Bonus Action; PB uses per Short Rest:** You can Dash and gain **PB** Temporary Hit Points.

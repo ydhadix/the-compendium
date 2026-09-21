@@ -1,5 +1,9 @@
-0-9 · A · B · C · D · [E](#e) · [F](#f) · [G](#g) · H · [I](#i) · J · [K](#k) · L · M · N · O · P · Q · R · [S](#s) · T · U · [V](#v) · W · X · Y · Z
+0-9 · A · B · C · [D](#d) · [E](#e) · [F](#f) · [G](#g) · H · [I](#i) · J · [K](#k) · L · M · N · O · P · Q · R · [S](#s) · T · U · [V](#v) · W · X · Y · Z
 { .keyword-jump }
+
+## D
+
+--8<-- "character/feat/_ancestry/dragon-fear.md"
 
 ## E
 

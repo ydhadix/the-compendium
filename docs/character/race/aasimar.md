@@ -15,12 +15,7 @@
 
 ## Aasimar Features
 ### Divine Revelation
-Bonus Action, 1 use per Long Rest
-{ .subtitle }
-
-Choose **1** of the following revelations.
-
-You can choose a different revelation each time you use this feature.
+**Bonus Action; Once per Long Rest:** Choose **1** of the following revelations.  You can choose a different revelation each time you use this feature.
 
 You gain the following effects for **1** minute or until you end this effect _(no action required)_:
 

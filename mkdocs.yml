@@ -148,13 +148,9 @@ nav:
         - Feats Overview:           character/feat/index.md
         - Origin Feats:             character/feat/origin.md
         - General Feats:            character/feat/general.md
-        - Fighting Styles:
-          - Fighting Style Overview: character/feat/fighting-style/index.md
-          - Initiate Fighting Styles: character/feat/fighting-style/initiate.md
-          - Expert Fighting Styles: character/feat/fighting-style/expert.md
-          - Master Fighting Styles: character/feat/fighting-style/master.md
+        - Fighting Styles:          character/feat/fighting-style.md
         - Ancestry Feats:           character/feat/ancestry.md
-        - Epic Boons (WIP):         character/feat/epic/index.md
+        - Epic Boons:               character/feat/epic/index.md
         - Dragonmarks:              character/feat/dragonmark.md
 
     - Item Index:

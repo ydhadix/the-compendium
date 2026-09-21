@@ -129,7 +129,7 @@ You gain [additional options](imprint.md#level-4) for your [Primal Imprint](#1-p
 
 
 ### 5: Extra Attack
-The number of Attacks you can make with your Attack Action increases by **1**.
+While it is your Turn, the number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature

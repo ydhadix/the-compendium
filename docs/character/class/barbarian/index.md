@@ -117,7 +117,7 @@ Your subclass grants you a feature at this level.
 
 
 ### 5: Extra Attack
-The number of Attacks you can make with your Attack Action increases by **1**.
+While it is your Turn, the number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature

@@ -1,1 +1,0 @@
-| [Dragon Scale Mail](/item/magic/rarity/rare/dragon-scale-mail.md) | Armor (Scale) | Rare | Yes |

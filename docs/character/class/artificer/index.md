@@ -170,7 +170,7 @@ You gain additional options for your [Infuse Items](#1-infuse-items).
 
 
 ### 5: Extra Attack
-The number of Attacks you can make with your Attack Action increases by **1**.
+While it is your Turn, the number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature

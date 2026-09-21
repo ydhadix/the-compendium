@@ -35,7 +35,7 @@ After a Long Rest, you can change your companion's form to another [Primal Compa
 ##### Primal Command
 **Bonus Action:** You can command your companion to move and take any Action available to it _(including the Attack Action)_.
 ##### Attack
-**Attack Action:** You can command your companion to move and Attack.
+**1 Attack:** You can command your companion to move and Attack.
 ##### Share Spell
 **Free Action:** Before you cast a Spell that targets only you, you can also target your companion if it is within **120** feet.
 ##### Revive Companion
@@ -53,6 +53,6 @@ Your [Primal Command](#3-primal-companion) can also direct your companion to use
 #### Apex Companion
 After you change your companion's form, you can increase its Size by **1**.
 #### Bestial Fury
-The number of Attacks your companion can make with its Attack Action increases by **1**.
+While it is your Turn, the number of Attacks your companion can make with its Attack Action increases by **1**.
 #### Strike Mastery
 Your companion's Beast Strike can use the Graze or Sap Weapon Technique.

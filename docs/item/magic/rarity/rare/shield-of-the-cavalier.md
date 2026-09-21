@@ -3,7 +3,7 @@ Rare Shield (Any), Attunement
 { .subtitle }
 
 ##### Forceful Bash
-**1 Attack Action:** You can make a Melee Attack Roll using this Shield against a target within **5** feet.
+**1 Attack:** You can make a Melee Attack Roll using this Shield against a target within **5** feet.
 
 | | |
 |---|---|

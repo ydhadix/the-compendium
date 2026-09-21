@@ -84,6 +84,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/cloak-of-the-bat_row.md"
 --8<-- "_generated/item/magic/rarity/rare/engineers-greatcoat_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gloves-of-healing_row.md"
+--8<-- "_generated/item/magic/rarity/rare/gloves-of-the-gadgeteer_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gloves-of-the-stormrider_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gossipers-ear-cuff_row.md"
 --8<-- "_generated/item/magic/rarity/rare/healers-voice_row.md"

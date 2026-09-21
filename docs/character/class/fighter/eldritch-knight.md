@@ -64,4 +64,4 @@ You learn the Mage Slayer and Warcasting Master Fighting Styles.
 After you hit a creature with your Pact Weapon, you give the target Disadvantage on its next Saving Throw against a Spell you cast before the end of your next Turn.
 
 ##### War Casting
-**2 Attack Actions:** You can cast a 2nd-Level or lower Spell with a Casting Time under **1** minute.
+**2 Attacks:** You can cast a 2nd-Level or lower Spell with a Casting Time under **1** minute.

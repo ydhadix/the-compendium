@@ -83,6 +83,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/very-rare/staff-of-fire_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/staff-of-frost_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/staff-of-power_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/staff-of-storms_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/staff-of-the-woodlands_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/sword-of-sharpness_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/thunderous-greatclub_row.md"

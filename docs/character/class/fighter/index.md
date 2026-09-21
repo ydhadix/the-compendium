@@ -105,7 +105,7 @@ Choose **1** of the following effects:
 
 
 ### 5: Extra Attack
-The number of Attacks you can make with your Attack Action increases by **1**.
+While it is your Turn, the number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 6: Subclass Feature
@@ -117,7 +117,7 @@ You learn the Push, Sap, and Slow Weapon Techniques and can use them with any We
 
 
 ### 8: Extra Attack
-The number of Attacks you can make with your Attack Action increases by **1**.
+While it is your Turn, the number of Attacks you can make with your Attack Action increases by **1**.
 
 
 ### 9: Subclass Feature
@@ -132,4 +132,4 @@ Choose **1** of the following effects:
 
 
 ### 11: Extra Attack
-The number of Attacks you can make with your Attack Action increases by **1**.
+While it is your Turn, the number of Attacks you can make with your Attack Action increases by **1**.

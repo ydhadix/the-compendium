@@ -2,4 +2,4 @@
 Prerequisite: **2** Strength or Dexterity
 { .subtitle }
 
-Your Damage Rolls with one-handed Melee weapons increase by **2**.
+While wielding a single weapon in one hand, your Damage Rolls with one-handed Melee weapons increase by **2**.

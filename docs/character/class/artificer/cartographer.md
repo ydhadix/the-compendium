@@ -46,8 +46,8 @@ The Initiative Checks of creatures in the atlas increase by **1d4**.
 
 ### 6: Ingenious Movement
 Your Speed increases by **10** feet.
-
-Before or after you expend a use of [Improvise](index.md#2-improvise), one creature in your Adventurer's Atlas can teleport up to **30** feet.
+##### Assisted Navigation
+**Bonus Action; Class Ability uses per Long Rest:** You can teleport one creature in your Adventurer's Atlas up to **30** feet.
 
 ### 9: Superior Surveyor
 #### Perfect Pathfinding

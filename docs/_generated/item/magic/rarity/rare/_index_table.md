@@ -11,6 +11,7 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/amulet-of-health_row.md"
 --8<-- "_generated/item/magic/rarity/rare/amulet-of-ideals_row.md"
+--8<-- "_generated/item/magic/rarity/rare/armor-of-protection_row.md"
 --8<-- "_generated/item/magic/rarity/rare/arrow-catching-shield_row.md"
 
 ## B { data-search-exclude }
@@ -48,7 +49,6 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/dimensional-shackles_row.md"
 --8<-- "_generated/item/magic/rarity/rare/docent_row.md"
---8<-- "_generated/item/magic/rarity/rare/dragon-scale-mail_row.md"
 --8<-- "_generated/item/magic/rarity/rare/dwarven-plate_row.md"
 --8<-- "_generated/item/magic/rarity/rare/dwarven-thrower_row.md"
 
@@ -77,6 +77,7 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/rare/gem-of-seeing_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gloves-of-healing_row.md"
+--8<-- "_generated/item/magic/rarity/rare/gloves-of-the-gadgeteer_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gloves-of-the-stormrider_row.md"
 --8<-- "_generated/item/magic/rarity/rare/golden-lions-figurine_row.md"
 --8<-- "_generated/item/magic/rarity/rare/gossipers-ear-cuff_row.md"

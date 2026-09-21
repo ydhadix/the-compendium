@@ -15,10 +15,7 @@
 
 ## Dragonborn Features
 ### Breath Weapon
-Attack Action, Proficiency Bonus uses per Long Rest
-{ .subtitle }
-
-Each creature within a **15**-foot Cone or a **30**-foot × **5**-foot Line makes a Reflex Save _(DC **8 + CON + PB**)_.
+**1 Attack; PB uses per Long Rest:**  You can force each creature within a **15**-foot Cone or a **30**-foot × **5**-foot Line to make a Reflex Save _(DC **8 + CON + PB**)_.
 
 | | |
 |---|---|
@@ -28,10 +25,7 @@ Each creature within a **15**-foot Cone or a **30**-foot × **5**-foot Line make
 The damage increases by **1d10** at Level **5** _(**2d10**)_, **11** _(**3d10**)_, and **17** _(**4d10**)_.
 
 ### Draconic Flight
-Bonus Action, 1 use per Long Rest
-{ .subtitle }
-
-You gain a Fly Speed equal to your Speed for **10** minutes or until you end this effect _(no action required)_.
+**Bonus Action; 1 use per Long Rest:**  You can gain a Fly Speed equal to your Speed for **10** minutes or until you end this effect _(no action required)_.
 
 ### Draconic Ancestry
 Choose an ancestry.
