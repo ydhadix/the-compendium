@@ -8,12 +8,12 @@
 | Components | V, S, M |
 | Casting Time | Magic Action, or Ritual |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | 1 hour |
 
 ---
 
-You understand the literal meaning of any language you hear or see signed. You also understand any written language while you touch the surface it is written on.
+You understand any verbal or signed language, and any written language on a surface you touch.
 
-This Spell doesn't decode symbols or secret messages.
+This Spell only communicates the literal words.  It doesn't decode idioms, symbols, or secret messages.

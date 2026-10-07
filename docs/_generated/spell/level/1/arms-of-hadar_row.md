@@ -1,1 +1,1 @@
-| [Arms of Hadar](/spell/level/1/arms-of-hadar.md) | Conjuration | V, S | Magic Action | — | — | Each Creature or Object in a 10-ft. Aura | Until the end of the target's next Turn |
+| [Arms of Hadar](/spell/level/1/arms-of-hadar.md) | Conjuration | V, S | Magic Action | — | A 10-ft. Aura | Each Creature and Object | Until the end of the target's next Turn |

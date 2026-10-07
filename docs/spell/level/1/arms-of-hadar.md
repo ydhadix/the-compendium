@@ -8,8 +8,8 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | Each Creature or Object in a 10-ft. Aura |
+| Area | A 10-ft. Aura |
+| Target | Each Creature and Object |
 | Duration | Until the end of the target's next Turn |
 
 ---
@@ -22,4 +22,4 @@ Each target makes a Fortitude Save.
 | Success | You deal half as much damage. |
 
 #### At Higher Levels
-Add **1d6** damage and **5** feet to the Aura per additional Spell Level.
+Add **1d6** damage per additional Spell Level.

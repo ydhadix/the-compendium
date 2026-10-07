@@ -1,1 +1,1 @@
-| [Binding Ice](/spell/level/1/binding-ice.md) | Evocation | V, S | Magic Action | Reach | — | Each Creature or Object in a 15-ft. Cone | — |
+| [Binding Ice](/spell/level/1/binding-ice.md) | Evocation | V, S | Magic Action | Reach | A 15-ft. Cone | Each Creature and Object | — |

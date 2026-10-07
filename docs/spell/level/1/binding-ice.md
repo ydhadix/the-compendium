@@ -8,13 +8,15 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
-| Target | Each Creature or Object in a 15-ft. Cone |
+| Area | A 15-ft. Cone |
+| Target | Each Creature and Object |
 | Duration | — |
 
 ---
 
-Nonmagical liquid in the area freezes. Each target makes a Fortitude Save.
+Nonmagical liquid in the area freezes.
+
+Each target makes a Fortitude Save.
 
 | | |
 |---|---|
@@ -22,6 +24,4 @@ Nonmagical liquid in the area freezes. Each target makes a Fortitude Save.
 | Success | You deal half as much damage. |
 
 #### At Higher Levels
-Add **1d8** damage and **15** feet of Cone size per additional Spell Level.
-
-When Upcast to 2nd-Level or higher, a target that fails also has its Speed become **0** feet for **1** minute. A creature other than the target can take a Utilize Action to end this effect on that target.
+Add **1d8** damage per additional Spell Level.

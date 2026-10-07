@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | — |
-| Area | |
-| Target | Each Creature or Object in a 30-ft. × 5-ft. Line |
+| Area | A 30-ft. × 5-ft. Line |
+| Target | Each Creature and Object |
 | Duration | 1 minute (Concentration) |
 
 ---

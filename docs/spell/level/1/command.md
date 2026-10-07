@@ -8,18 +8,13 @@
 | Components | V |
 | Casting Time | Magic Action |
 | Range | 60 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature |
 | Duration | Until the end of the target's next Turn |
 
 ---
 
-Choose **1** of the following commands, then each target makes a Will Save.
-
-| | |
-|---|---|
-| Fail | After the target's next Turn starts, it follows the command, then immediately ends its Turn. |
-| Success | No effect. |
+Choose **1** of the following commands:
 
 | Command | |
 |---|---|
@@ -28,6 +23,13 @@ Choose **1** of the following commands, then each target makes a Will Save.
 | Flee | Each target moves as far from you as it can. |
 | Grovel | Each target falls Prone. |
 | Halt | Each target doesn't move or take Actions. |
+
+Each target makes a Will Save.
+
+| | |
+|---|---|
+| Fail | After the target's next Turn starts, it follows the command, then immediately ends its Turn. |
+| Success | No effect. |
 
 #### At Higher Levels
 Add **1** target per additional Spell Level.

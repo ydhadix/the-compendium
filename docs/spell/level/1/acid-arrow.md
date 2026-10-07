@@ -8,7 +8,7 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature or Object |
 | Duration | — |
 

@@ -6,9 +6,9 @@
 |---|---|
 | Classes | Artificer, Druid, Ranger, Sorcerer, Wizard |
 | Components | S |
-| Casting Time | Reaction, when you take Elemental Damage |
+| Casting Time | Reaction, before you take Elemental Damage |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | Until the end of your next Turn |
 

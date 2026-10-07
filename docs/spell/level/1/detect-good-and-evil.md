@@ -7,13 +7,13 @@
 | Classes | Cleric, Paladin |
 | Components | V, S |
 | Casting Time | Magic Action |
-| Range | 30 ft. |
-| Area | |
-| Target | Self |
+| Range | — |
+| Area | A 30-ft. Aura |
+| Target | Each Planar Creature |
 | Duration | 10 minutes (Concentration) |
 
 ---
 
-You sense the location of any Planar Creature in the Area, and whether a _Magic Circle_ or _Hallow_ Spell is active there.
+You know the location of each target in the area, and whether _Magic Circle_, _Hallow_, or _Forbiddance_ is active there.
 
-This Spell can't sense through **1** foot of stone, dirt, or wood; **1** inch of metal; or a thin sheet of lead.
+**1** foot of stone, dirt, or wood; **1** inch of metal; or any amount of lead blocks this Spell.

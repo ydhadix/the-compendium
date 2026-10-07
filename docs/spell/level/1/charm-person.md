@@ -8,7 +8,7 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Humanoid |
 | Duration | 1 hour |
 

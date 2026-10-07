@@ -8,13 +8,13 @@
 | Components | V, S |
 | Casting Time | Bonus Action |
 | Range | — |
-| Area | |
+| Area | — |
 | Target | Self |
 | Duration | — |
 
 ---
 
-You expend and roll up to **1** Hit Die, then heal by the total rolled plus your Spellcasting Ability.
+You expend and roll up to **1** Hit Die, then you heal by **the total + Spellcasting Ability**.
 
 #### At Higher Levels
-Expend and roll **1** additional Hit Die per additional Spell Level.
+Add up to **1** Hit Die per additional Spell Level.

@@ -8,13 +8,15 @@
 | Components | V, S, M _(a diamond worth 50 Gold)_ |
 | Casting Time | Magic Action |
 | Range | 90 ft. |
-| Area | |
+| Area | — |
 | Target | **1** Creature or Object |
 | Duration | — |
 
 ---
 
-Choose an Elemental Damage Type and make a Ranged Spell Attack against each target.
+Choose an Elemental Damage Type.
+
+You make a Ranged Spell Attack against each target.
 
 | | |
 |---|---|

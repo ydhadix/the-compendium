@@ -8,8 +8,8 @@
 | Components | V, S, M |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Area | |
-| Target | Special |
+| Area | A 30-ft. Cube |
+| Target | — |
 | Duration | — |
 
 ---
@@ -18,8 +18,8 @@ Choose **1** of the following effects:
 
 | Effect | |
 |---|---|
-| Create | You conjure up to **10** gallons of clean water in an open container, or as rain in a **30**-foot Cube that extinguishes exposed flames. |
-| Destroy | You destroy up to **10** gallons of water from an open container, or fog in a **30**-foot Cube. |
+| Create | You conjure up to **10** gallons of clean water in an open container, or as rain in the area.  If you conjure rain, unprotected flames are extinguished. |
+| Destroy | You destroy up to **10** gallons of water from an open container, or fog in the area. |
 
 #### At Higher Levels
-Add **5** gallons and expand the Cube by **5** feet per additional Spell Level.
+Add **5** gallons per additional Spell Level.

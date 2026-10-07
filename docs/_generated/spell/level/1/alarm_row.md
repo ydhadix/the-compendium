@@ -1,1 +1,1 @@
-| [Alarm](/spell/level/1/alarm.md) | Abjuration | V, S, M | 1 minute (R) | 30 ft. | — | A 20-ft. Cube, **1** Door, or **1** Window | 8 hours |
+| [Alarm](/spell/level/1/alarm.md) | Abjuration | V, S, M | 1 minute (R) | 30 ft. | A 20-ft. Cube | Up to **1** Door, Window, Container, Hatch, or Gate | 8 hours |

@@ -8,7 +8,7 @@
 | Components | V, S, M _(a holy symbol)_ |
 | Casting Time | Magic Action |
 | Range | 30 ft. |
-| Area | |
+| Area | — |
 | Target | Up to **3** Creatures |
 | Duration | 1 minute (Concentration) |
 

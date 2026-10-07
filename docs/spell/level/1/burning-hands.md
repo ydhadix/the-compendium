@@ -8,8 +8,8 @@
 | Components | V, S |
 | Casting Time | Magic Action |
 | Range | Reach |
-| Area | |
-| Target | Each Creature or Object in a 15-ft. Cone |
+| Area | A 15-ft. Cone |
+| Target | Each Creature and Object |
 | Duration | — |
 
 ---
@@ -22,4 +22,4 @@ Each target makes a Reflex Save.
 | Success | You deal half as much damage. |
 
 #### At Higher Levels
-Add **2d6** damage and **15** feet of Cone size per additional Spell Level.
+Add **2d6** damage per additional Spell Level.
