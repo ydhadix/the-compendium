@@ -1,6 +1,6 @@
 <div data-search-exclude markdown="1">
 
-0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · G · [H](#h) · [I](#i) · J · K · [L](#l) · [M](#m) · N · [O](#o) · P · Q · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
+0-9 · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · G · [H](#h) · [I](#i) · J · [K](#k) · [L](#l) · [M](#m) · N · [O](#o) · P · Q · [R](#r) · [S](#s) · [T](#t) · U · V · [W](#w) · X · Y · Z
 { .keyword-jump }
 
 </div>
@@ -20,6 +20,7 @@
 --8<-- "_generated/item/magic/rarity/very-rare/bag-of-devouring_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/belt-of-giant-strength_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/boots-of-glacierpress_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/bracers-of-defense_row.md"
 
 ## C { data-search-exclude }
 
@@ -30,6 +31,7 @@
 --8<-- "_generated/item/magic/rarity/very-rare/cauldron-of-rebirth_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/cloak-of-arachnida_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/collar-of-power_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/crack-of-thunder_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/crystal-ball_row.md"
 
 ## D { data-search-exclude }
@@ -67,6 +69,12 @@
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/instrument-of-the-bards_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/ioun-stone_row.md"
+
+## K { data-search-exclude }
+
+| Item | Type | Rarity | Attunement |
+|---|---|---|---|
+--8<-- "_generated/item/magic/rarity/very-rare/kinetic-gi_row.md"
 
 ## L { data-search-exclude }
 
@@ -126,3 +134,4 @@
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/wand-of-polymorph_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/weapon-of-elements_row.md"

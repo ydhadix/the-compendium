@@ -1,0 +1,1 @@
+| [Kinetic Gi](/item/magic/rarity/very-rare/kinetic-gi.md) | Clothing (Clothes) | Very Rare | No |

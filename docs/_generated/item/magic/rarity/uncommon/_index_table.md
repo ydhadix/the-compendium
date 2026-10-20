@@ -28,6 +28,7 @@
 --8<-- "_generated/item/magic/rarity/uncommon/boots-of-the-winding-path_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/boots-of-the-winterlands_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/bracers-of-archery_row.md"
+--8<-- "_generated/item/magic/rarity/uncommon/bracers-of-defense_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/brooch-of-shielding_row.md"
 --8<-- "_generated/item/magic/rarity/uncommon/broom-of-flying_row.md"
 

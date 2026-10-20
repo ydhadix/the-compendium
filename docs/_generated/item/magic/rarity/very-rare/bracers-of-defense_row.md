@@ -1,0 +1,1 @@
+| [Bracers of Defense](/item/magic/rarity/very-rare/bracers-of-defense.md) | Clothing (Armguard) | Very Rare | No |

@@ -1,5 +1,5 @@
 ### Bracers of Defense
-Rare Clothing (Bracers), Attunement
+Rare Clothing (Armguard)
 { .subtitle }
 
-While you are Unarmored and don't have a Shield donned, your Armor Class increases by **2**.
+--8<-- "item/magic/_variant/bracers-of-defense.md"

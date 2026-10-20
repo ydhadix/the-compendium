@@ -1,0 +1,1 @@
+| [Crack of Thunder](/item/magic/rarity/very-rare/crack-of-thunder.md) | Weapon (Staff, Fence, or Blade) | Very Rare | No |

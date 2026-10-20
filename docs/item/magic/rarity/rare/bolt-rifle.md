@@ -5,9 +5,9 @@ Rare Weapon (Loading, Ranged Weapon), Attunement
 **3** Charges (regain **1d3** per Day)
 { .subtitle }
 
-This weapon deals an additional **1d6** Lightning Damage.
+You gain Lightning Resistance.
 
-You gain Advantage on Attack Rolls with this weapon against targets made of metal or wearing metal Armor.
+This weapon deals an additional **1d6** Lightning Damage.
 
 After you make a Ranged Attack with this weapon, the path of the attack emits Bright Light out to **20** feet for an instant.
 
@@ -18,3 +18,6 @@ After you make a Ranged Attack with this weapon, the path of the attack emits Br
 |---|---|
 | Fail | You deal **2d6** Lightning Damage for each Charge expended. |
 | Success | You deal half as much damage. |
+
+##### Lightning Rod
+**Reaction:** Before a Creature or Object within **60** feet takes Lightning damage, you can take any of that damage instead.

@@ -10,9 +10,9 @@ Basic clothing is typically a complete set of clothes, but individual pieces of 
 
 | Type | Worn | Limit | Crafting Tool |
 |---|---|---|---|
+| Armguard | On forearms | **1** pair | Leatherworker's Tools or Smith's Tools |
 | Boots | On feet | **1** pair | Cobbler's Tools |
 | Belt | Around waist | **1** | Leatherworker's Tools |
-| Bracers | On forearms | **1** pair | Leatherworker's Tools or Smith's Tools |
 | Cloak | On shoulders | **1** | Leatherworker's Tools or Weaver's Tools |
 | Clothes | On body | **1** set | Weaver's Tools |
 | Gloves | On hands | **1** pair | Leatherworker's Tools |

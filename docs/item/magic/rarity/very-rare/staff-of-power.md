@@ -5,6 +5,8 @@ Very Rare Weapon (Staff), Attunement (Spellcaster)
 **20** Charges (regain **2d8 + 4** per Day)
 { .subtitle }
 
+Your Armor Class increases by **2**.
+
 ##### Cast
 You can cast the following Spells:
 

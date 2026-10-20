@@ -1,0 +1,1 @@
+| [Weapon of Elements](/item/magic/rarity/rare/weapon-of-elements.md) | Weapon (Any) | Rare | No |

@@ -1,0 +1,1 @@
+| [Spell Bolt Wraps](/item/magic/rarity/rare/spell-bolt-wraps.md) | Clothing (Gloves) | Rare | Yes (Monk) |

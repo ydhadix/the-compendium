@@ -5,16 +5,16 @@ Monks are martial artists who channel a wellspring of inner energy, striking wit
 ## Class Table
 | Level | Features | Martial Arts Die | Unarmored Movement | Fighting Styles |
 |---|---|---|---|---|
-|  1 | [Ki](#1-ki),<br>[Unarmored Stance](#1-unarmored-stance),<br>[Martial Arts](#1-martial-arts) | d6 | +10 ft. | — |
-|  2 | [Deflecting Palm](#2-deflecting-palm),<br>[Fighting Style](#2-fighting-style) | d6 | +10 ft. | 2 |
+|  1 | [Ki](#1-ki),<br>[Unarmored Stance](#1-unarmored-stance),<br>[Martial Arts](#1-martial-arts) | d6 | +10 ft. | 2 |
+|  2 | [Deflecting Palm](#2-deflecting-palm),<br>[Self-Restoration](#2-self-restoration) | d6 | +10 ft. | 2 |
 |  3 | [Monk Subclass](#3-monk-subclass) | d6 | +10 ft. | 2 |
 |  4 | [Stunning Strike](#4-stunning-strike) | d8 | +15 ft. | 3 |
 |  5 | [Extra Attack](#5-extra-attack) | d8 | +15 ft. | 3 |
 |  6 | [Subclass Feature](#6-subclass-feature) | d8 | +15 ft. | 3 |
-|  7 | [Evasion](#7-evasion) | d10 | +20 ft. | 3 |
-|  8 | [Self-Restoration](#8-self-restoration) | d10 | +20 ft. | 3 |
+|  7 | [Ki Expert](#7-ki-expert) | d10 | +20 ft. | 3 |
+|  8 | [Perfect Form](#8-perfect-form) | d10 | +20 ft. | 3 |
 |  9 | [Subclass Feature](#9-subclass-feature) | d10 | +20 ft. | 3 |
-| 10 | [Perfect Discipline](#10-perfect-discipline) | d12 | +25 ft. | 4 |
+| 10 | [Ki Master](#10-ki-master) | d12 | +25 ft. | 4 |
 | 11 | [One With Everything](#11-one-with-everything) | d12 | +30 ft. | 4 |
 
 ## Class Details
@@ -44,7 +44,7 @@ When you choose Monk as your Secondary Class, you gain the following proficienci
 |---|---|
 | Armor | — |
 | Weapons | Fences |
-| Trades | — |
+| Trades | **1** Artisan's Tool or Musical Instrument |
 | Skills | Acrobatics |
 
 ## Class Features
@@ -57,6 +57,12 @@ If a Ki effect requires a Saving Throw, its DC is **8 + Class Ability + PB**.
 After a Short Rest, you regain all uses of Ki.
 ##### Quick Focus
 **Free Action; Once per Long Rest:** Before you roll Initiative, you can regain all uses of Ki.
+##### Flurry of Blows
+**Bonus Action:** You can make **1** Unarmed Strike.  Then, you can expend **1** Ki to make an additional Unarmed Strike.
+##### Patient Defense
+**Bonus Action:** You can Disengage.  Then, you can expend **1** Ki to Dodge.
+##### Step of the Wind
+**Bonus Action:** You can Dash.  Then, you can expend **1** Ki to Disengage, and your jump distance doubles until the end of your Turn.
 
 
 ### 1: Unarmored Stance
@@ -70,22 +76,20 @@ Your Speed increases, and you can move along vertical surfaces and across liquid
 
 
 ### 1: Martial Arts
-You learn the Striker Fighting Style and can use it with Monk Weapons _(in addition to Unarmed Strikes)_.  The Damage Die increases as you gain Monk Levels, as shown in the [Monk Table](#class-table).
-#### Monk Weapons
+You learn the Striker or Pugilist Fighting Style and can use it with Monk Weapons _(in addition to Unarmed Strikes)_.  The Damage Die increases as you gain Monk Levels, as shown in the [Monk Table](#class-table).
+##### Monk Weapons
 Unarmed Strikes, Simple Melee Weapons, and Light Martial Melee Weapons are Monk Weapons. You can use some Monk Features only with these Weapons, and some Monk Subclasses expand which Weapons are Monk Weapons.
-##### Flurry of Blows
-**Bonus Action:** You can make **1** Unarmed Strike.  Then, you can expend **1** Ki to make an additional Unarmed Strike.
-##### Patient Defense
-**Bonus Action:** You can Disengage.  Then, you can expend **1** Ki to Dodge.
-##### Step of the Wind
-**Bonus Action:** You can Dash.  Then, you can expend **1** Ki to Disengage, and your jump distance doubles until the end of your Turn.
+#### Fighting Style
+You learn additional Fighting Styles.  The [Monk Table](#class-table) shows how many Fighting Styles you know.
+#### Changing Fighting Styles
+After you finish a Long Rest, you can change one of your Fighting Styles _(You must know Striker or Pugilist, but can change between them)_.
 
 
 ### 2: Deflecting Palm
 **Reaction:** Before you take Physical Damage from an Attack, you can reduce that damage by **1d10 + DEX + LV**.
 
 ##### Redirect
-**Free Action; 1 Ki use:** After this feature reduces an Attack's damage to **0**, you can redirect the Attack. If the Attack was a Melee Attack, choose **1** creature within Reach. If the Attack was a Ranged Attack, choose **1** creature within **60** feet. The target makes a Reflex Save.
+**Free Action; 1 Ki use:** After this reaction reduces an Attack's damage to **0**, you can redirect the Attack. If the Attack was a Melee Attack, choose **1** creature within Reach. If the Attack was a Ranged Attack, choose **1** creature within **60** feet. The target makes a Reflex Save.
 
 | | |
 |---|---|
@@ -93,10 +97,11 @@ Unarmed Strikes, Simple Melee Weapons, and Light Martial Melee Weapons are Monk 
 | Success | You deal half as much damage. |
 
 
-### 2: Fighting Style
-You learn Fighting Styles.  The [Monk Table](#class-table) shows how many Fighting Styles you know.
-#### Changing Fighting Styles
-Whenever you level up, you can change one of your Fighting Styles.
+### 2: Self-Restoration
+You gain Starvation and Dehydration Immunity.
+
+##### Rebalance
+**Free Action:** After your Turn ends, you can end **1** Charm, Fear, or Sickness on yourself _(these conditions can't prevent using this feature)_.
 
 
 ### 3: Monk Subclass
@@ -115,7 +120,7 @@ Your subclass grants you a feature at this level.
 | | |
 |---|---|
 | Fail | You stun the target until the end of your next Turn. |
-| Success | The target's Speed halves until the end of your next Turn. |
+| Success | You halve the target's Speed until the end of your next Turn. |
 
 
 ### 5: Extra Attack
@@ -126,35 +131,36 @@ While it is your Turn, the number of Attacks you can make with your Attack Actio
 Your subclass grants you an additional feature.
 
 
-### 7: Evasion
+### 7: Ki Expert
+#### Evasion
 You gain Reflex Evasion.
 
+#### Ki Improvement
+Your Ki Actions grant additional effects when you spend Ki to use them:
 
-### 8: Self-Restoration
-You gain Starvation and Dehydration Immunity.
-##### Rebalance
-**Free Action:** After your Turn ends, you can end **1** Charm, Fear, or Sickness on yourself _(these conditions can't prevent using this feature)_.
+| Action | |
+|---|---|
+| Flurry of Blows | The number of Unarmed Strikes you can make increases by **1**. |
+| Patient Defense | You can gain **2 Martial Arts Dice** Temporary Hit Points. |
+| Step of the Wind | Before you move, you can propel **1** Ally within Reach with you. |
+
+
+### 8: Perfect Form
+**Free Action: 3 Ki uses:** Before your Turn starts, you can gain Resistance to all damage except Force for **1** minute.
 
 
 ### 9: Subclass Feature
 Your subclass grants you an additional feature.
 
 
-### 10: Perfect Discipline
-#### Unending Ki
+### 10: Ki Master
+#### Unending
 Before you roll Initiative, if you have **3** or fewer Ki, you regain expended Ki until you have **4**.
-#### Perfect Form
-Spending Ki on your Martial Arts grants the following effects:
-
-| Feature | |
-|---|---|
-| Flurry of Blows | The number of Unarmed Strikes you can make increases by **1**. |
-| Patient Defense | **Free Action:** You can gain **2 Martial Arts Dice** Temporary Hit Points. |
-| Step of the Wind | **Free Action:** Whenever you move on the same Turn, you can propel one Ally within Reach with you. |
-
-
-### 11: One With Everything
 #### Enlightened
 You gain Proficiency in all Saving Throws.
 ##### Inevitable
 **Free Action; 1 Ki use:** Before you fail a Saving Throw, you can reroll it. The second time you use this feature on the same Saving Throw, you succeed instead.
+
+
+### 11: One With Everything
+Your Dexterity and Monk Ability _(and your maximum for those Abilities)_ increase by **2**.

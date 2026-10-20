@@ -67,6 +67,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/rare/two-birds-weapon_row.md"
 --8<-- "_generated/item/magic/rarity/rare/vicious-weapon_row.md"
 --8<-- "_generated/item/magic/rarity/rare/weapon-of-disruption_row.md"
+--8<-- "_generated/item/magic/rarity/rare/weapon-of-elements_row.md"
 --8<-- "_generated/item/magic/rarity/rare/weapon-of-terror_row.md"
 
 ## Very Rare { data-search-exclude }
@@ -74,6 +75,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 | Item | Type | Rarity | Attunement |
 |---|---|---|---|
 --8<-- "_generated/item/magic/rarity/very-rare/ammunition-of-slaying_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/crack-of-thunder_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/dancing-sword_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/enspelled-item_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/frostburn-weapon_row.md"
@@ -87,6 +89,7 @@ Rarity · [Common](#common) · [Uncommon](#uncommon) · [Rare](#rare) · [Very R
 --8<-- "_generated/item/magic/rarity/very-rare/staff-of-the-woodlands_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/sword-of-sharpness_row.md"
 --8<-- "_generated/item/magic/rarity/very-rare/thunderous-greatclub_row.md"
+--8<-- "_generated/item/magic/rarity/very-rare/weapon-of-elements_row.md"
 
 ## Legendary { data-search-exclude }
 

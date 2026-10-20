@@ -62,7 +62,7 @@ A Condition from a Critical Hit lasts no longer than the roll's duration.  Befor
 | Acid        | Constructs | Corroding | Corroding |
 | Cold        | Oozes | Immobile | Restrained |
 | Fire        | Beasts, Plants | Burning | Burning |
-| Lightning   | Medium Armor, Heavy Armor | Immobile | Paralyzed |
+| Lightning   | Metal | Immobile | Paralyzed |
 | Poison      | Giants, Humanoids | Sickened | Paralyzed |
 | Thunder     | Elementals | Dazed | Stunned |
 | Force       | — | Incapacitated | Stunned |

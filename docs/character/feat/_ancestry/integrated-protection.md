@@ -4,7 +4,7 @@ Prerequisite: Synth
 
 After you finish a Short Rest, you can don a suit of Armor you have Proficiency with. Until you doff the Armor, it gains the following effects:
 
-- Features and Spells treat you as though you were Unarmored.
+- You do not look like you have armor donned.  Spells and Features treat you as both Armored and Unarmored.
 - You ignore the Armor's Stealth penalties.
 - Your Armor Class and Damage Reduction each increase by **1**.
 - It takes **1** hour to doff the Armor.
